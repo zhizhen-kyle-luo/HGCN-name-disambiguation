@@ -1,0 +1,68 @@
+0	3DIM
+1	3DPVT
+2	3DPVT
+3	3DPVT
+4	3DPVT
+5	APBC
+6	APBC
+7	APPT
+8	IEEE Symposium on Computer Arithmetic
+9	Asian Test Symposium
+10	Asian Test Symposium
+11	BIBE
+12	CRV
+13	CSB Workshops
+14	CVPR (2)
+15	CVPR
+16	DAC
+17	DEXA
+18	ECDL
+19	ICESS
+20	Fehlertolerierende Rechensysteme
+21	ICIP (2)
+22	ICNC (1)
+23	Information Hiding
+24	ISAR
+25	ITC
+26	ITCC (1)
+27	ITCC (1)
+28	JCDL
+29	JCDL
+30	MIAR
+31	MICCAI
+32	MICCAI
+33	MICCAI (2)
+34	IEEE Pacific Rim Conference on Multimedia
+35	Pacific Conference on Computer Graphics and Applications
+36	SAC
+37	Software Engineering Research and Practice
+38	SETN
+39	SSDBM
+40	WebNet
+41	MUE
+42	MUE
+43	ICYCS
+44	Computational Biology and Chemistry
+45	Intell. Data Anal.
+46	Inf. Sci.
+47	Image Vision Comput.
+48	J. Comput. Sci. Technol.
+49	J. Comput. Sci. Technol.
+50	J. Comput. Sci. Technol.
+51	Knowl. Inf. Syst.
+52	SIGPLAN Notices
+53	IEEE Trans. Computers
+54	IEEE/ACM Trans. Comput. Biology Bioinform.
+55	IEEE Transactions on Information Technology in Biomedicine
+56	IEEE Trans. Med. Imaging
+57	BMC Bioinformatics
+58	CODES+ISSS
+59	Edutainment
+60	Advanced Information Processing
+61	Simulation
+62	null
+63	null
+64	Computers & Graphics
+65	Proceedings of the IASTED Asian Conference on Modelling and Simulation
+66	Computers and Graphics
+67	Proceedings of the 2008 International Symposium on Ubiquitous Multimedia Computing

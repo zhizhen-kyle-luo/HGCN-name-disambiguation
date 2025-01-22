@@ -1,0 +1,23 @@
+8	9	LCPC	LCPC
+8	10	LCPC	LCPC
+9	10	LCPC	LCPC
+12	13	PPOPP	PPOPP
+14	15	PPSC	PPSC
+17	18	SC	SC
+17	19	SC	SC
+18	19	SC	SC
+22	23	BIT	BIT
+22	45	BIT	BIT
+23	45	BIT	BIT
+24	41	IEEE Computer	Computer
+25	26	International Journal of High Speed Computing	International Journal of High Speed Computing
+27	28	J. Parallel Distrib. Comput.	J. Parallel Distrib. Comput.
+27	29	J. Parallel Distrib. Comput.	J. Parallel Distrib. Comput.
+28	29	J. Parallel Distrib. Comput.	J. Parallel Distrib. Comput.
+36	37	VLSI Signal Processing	VLSI Signal Processing
+43	53	SIAM Journal on Scientific and Statistical Computing	SIAM Journal on Scientific and Statistical Computing
+43	54	SIAM Journal on Scientific and Statistical Computing	SIAM Journal on Scientific and Statistical Computing
+47	48	ACM SIGPLAN Notices	ACM SIGPLAN Notices
+49	50	SIAM Journal on Scientific Computing	SIAM Journal on Scientific Computing
+52	56	SIAM Journal on Matrix Analysis and Applications	SIAM Journal on Matrix Analysis and Applications
+53	54	SIAM Journal on Scientific and Statistical Computing	SIAM Journal on Scientific and Statistical Computing

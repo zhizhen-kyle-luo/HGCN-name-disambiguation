@@ -1,0 +1,344 @@
+1	2	Lukasz A. Kurgan	Lukasz A. Kurgan
+1	38	Lukasz A. Kurgan	Lukasz A. Kurgan
+1	39	Lukasz A. Kurgan	Lukasz A. Kurgan
+1	52	Lukasz A. Kurgan	Lukasz A. Kurgan
+1	53	Lukasz A. Kurgan	Lukasz A. Kurgan
+1	77	Lukasz A. Kurgan	Lukasz A. Kurgan
+1	78	Lukasz A. Kurgan	Lukasz A. Kurgan
+1	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	38	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	39	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	39	Jishou Ruan	Jishou Ruan
+2	52	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	52	Jishou Ruan	Jishou Ruan
+2	53	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	77	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	77	Jishou Ruan	Jishou Ruan
+2	78	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+2	83	Jishou Ruan	Jishou Ruan
+4	66	Sariel Har-Peled	Sariel Har-Peled
+5	6	Gang Chen	Gang Chen
+5	6	Jinxiang Dong	Jinxiang Dong
+5	7	Gang Chen	Gang Chen
+5	7	Jinxiang Dong	Jinxiang Dong
+5	8	Jinxiang Dong	Jinxiang Dong
+5	9	Gang Chen	Gang Chen
+5	9	Jinxiang Dong	Jinxiang Dong
+5	11	Gang Chen	Gang Chen
+5	30	Gang Chen	Gang Chen
+5	30	Jinxiang Dong	Jinxiang Dong
+5	31	Gang Chen	Gang Chen
+5	31	Jinxiang Dong	Jinxiang Dong
+5	32	Gang Chen	Gang Chen
+5	32	Jinxiang Dong	Jinxiang Dong
+5	70	Gang Chen	Gang Chen
+5	85	Gang Chen	Gang Chen
+5	85	Jinxiang Dong	Jinxiang Dong
+5	86	Gang Chen	Gang Chen
+5	86	Jinxiang Dong	Jinxiang Dong
+5	87	Gang Chen	Gang Chen
+5	88	Gang Chen	Gang Chen
+6	7	Gang Chen	Gang Chen
+6	7	Jinxiang Dong	Jinxiang Dong
+6	8	Jinxiang Dong	Jinxiang Dong
+6	9	Gang Chen	Gang Chen
+6	9	Jinxiang Dong	Jinxiang Dong
+6	11	Gang Chen	Gang Chen
+6	30	Gang Chen	Gang Chen
+6	30	Jinxiang Dong	Jinxiang Dong
+6	31	Gang Chen	Gang Chen
+6	31	Jinxiang Dong	Jinxiang Dong
+6	32	Gang Chen	Gang Chen
+6	32	Jinxiang Dong	Jinxiang Dong
+6	70	Gang Chen	Gang Chen
+6	85	Gang Chen	Gang Chen
+6	85	Jinxiang Dong	Jinxiang Dong
+6	86	Gang Chen	Gang Chen
+6	86	Jinxiang Dong	Jinxiang Dong
+6	87	Gang Chen	Gang Chen
+6	88	Gang Chen	Gang Chen
+7	8	Jinxiang Dong	Jinxiang Dong
+7	9	Gang Chen	Gang Chen
+7	9	Jinxiang Dong	Jinxiang Dong
+7	11	Gang Chen	Gang Chen
+7	30	Gang Chen	Gang Chen
+7	30	Jinxiang Dong	Jinxiang Dong
+7	31	Gang Chen	Gang Chen
+7	31	Tianlei Hu	Tianlei Hu
+7	31	Jinxiang Dong	Jinxiang Dong
+7	32	Gang Chen	Gang Chen
+7	32	Tianlei Hu	Tianlei Hu
+7	32	Jinxiang Dong	Jinxiang Dong
+7	70	Gang Chen	Gang Chen
+7	85	Gang Chen	Gang Chen
+7	85	Tianlei Hu	Tianlei Hu
+7	85	Jinxiang Dong	Jinxiang Dong
+7	86	Gang Chen	Gang Chen
+7	86	Tianlei Hu	Tianlei Hu
+7	86	Jinxiang Dong	Jinxiang Dong
+7	87	Gang Chen	Gang Chen
+7	88	Gang Chen	Gang Chen
+8	9	Cheng Zang	Cheng Zang
+8	9	Jinxiang Dong	Jinxiang Dong
+8	30	Jinxiang Dong	Jinxiang Dong
+8	31	Jinxiang Dong	Jinxiang Dong
+8	32	Jinxiang Dong	Jinxiang Dong
+8	85	Jinxiang Dong	Jinxiang Dong
+8	86	Jinxiang Dong	Jinxiang Dong
+9	11	Gang Chen	Gang Chen
+9	30	Gang Chen	Gang Chen
+9	30	Jinxiang Dong	Jinxiang Dong
+9	31	Gang Chen	Gang Chen
+9	31	Jinxiang Dong	Jinxiang Dong
+9	32	Gang Chen	Gang Chen
+9	32	Jinxiang Dong	Jinxiang Dong
+9	70	Gang Chen	Gang Chen
+9	85	Gang Chen	Gang Chen
+9	85	Jinxiang Dong	Jinxiang Dong
+9	86	Gang Chen	Gang Chen
+9	86	Jinxiang Dong	Jinxiang Dong
+9	87	Gang Chen	Gang Chen
+9	88	Gang Chen	Gang Chen
+11	30	Gang Chen	Gang Chen
+11	31	Gang Chen	Gang Chen
+11	32	Gang Chen	Gang Chen
+11	70	Gang Chen	Gang Chen
+11	85	Gang Chen	Gang Chen
+11	86	Gang Chen	Gang Chen
+11	87	Gang Chen	Gang Chen
+11	88	Gang Chen	Gang Chen
+12	13	Yunong Zhang	Yunong Zhang
+12	14	Yunong Zhang	Yunong Zhang
+12	22	Yunong Zhang	Yunong Zhang
+12	23	Yunong Zhang	Yunong Zhang
+12	24	Yunong Zhang	Yunong Zhang
+12	36	Yunong Zhang	Yunong Zhang
+12	37	Yunong Zhang	Yunong Zhang
+12	37	Weimu Ma	Weimu Ma
+12	50	Yunong Zhang	Yunong Zhang
+12	50	Weimu Ma	Weimu Ma
+12	50	Xiao-Dong Li	Xiao-Dong Li
+12	80	Yunong Zhang	Yunong Zhang
+12	82	Yunong Zhang	Yunong Zhang
+12	103	Yunong Zhang	Yunong Zhang
+12	106	Yunong Zhang	Yunong Zhang
+13	14	Yunong Zhang	Yunong Zhang
+13	22	Yunong Zhang	Yunong Zhang
+13	23	Yunong Zhang	Yunong Zhang
+13	24	Shuai Yue	Shuai Yue
+13	24	Yunong Zhang	Yunong Zhang
+13	36	Yunong Zhang	Yunong Zhang
+13	37	Yunong Zhang	Yunong Zhang
+13	50	Yunong Zhang	Yunong Zhang
+13	80	Yunong Zhang	Yunong Zhang
+13	82	Yunong Zhang	Yunong Zhang
+13	103	Shuai Yue	Shuai Yue
+13	103	Yunong Zhang	Yunong Zhang
+13	106	Yunong Zhang	Yunong Zhang
+14	22	Yunong Zhang	Yunong Zhang
+14	23	Yunong Zhang	Yunong Zhang
+14	24	Yunong Zhang	Yunong Zhang
+14	24	Chenfu Yi	Chenfu Yi
+14	36	Yunong Zhang	Yunong Zhang
+14	36	Zhan Li	Zhan Li
+14	37	Yunong Zhang	Yunong Zhang
+14	50	Yunong Zhang	Yunong Zhang
+14	80	Yunong Zhang	Yunong Zhang
+14	82	Yunong Zhang	Yunong Zhang
+14	103	Yunong Zhang	Yunong Zhang
+14	106	Yunong Zhang	Yunong Zhang
+19	47	Huisheng Chi	Huisheng Chi
+19	48	Huisheng Chi	Huisheng Chi
+19	49	Huisheng Chi	Huisheng Chi
+19	51	Lan Wang	Lan Wang
+19	51	Huisheng Chi	Huisheng Chi
+19	55	Huisheng Chi	Huisheng Chi
+19	58	Huisheng Chi	Huisheng Chi
+20	27	Shihai Wang	Shihai Wang
+21	76	Yun Yang	Yun Yang
+22	23	Yunong Zhang	Yunong Zhang
+22	24	Yunong Zhang	Yunong Zhang
+22	36	Yunong Zhang	Yunong Zhang
+22	37	Yunong Zhang	Yunong Zhang
+22	50	Yunong Zhang	Yunong Zhang
+22	80	Yunong Zhang	Yunong Zhang
+22	80	Zhiguo Tan	Zhiguo Tan
+22	80	Zhi Yang	Zhi Yang
+22	80	Xuanjiao Lv	Xuanjiao Lv
+22	82	Yunong Zhang	Yunong Zhang
+22	103	Yunong Zhang	Yunong Zhang
+22	106	Yunong Zhang	Yunong Zhang
+23	24	Yunong Zhang	Yunong Zhang
+23	36	Yunong Zhang	Yunong Zhang
+23	36	Binghuang Cai	Binghuang Cai
+23	37	Yunong Zhang	Yunong Zhang
+23	37	Binghuang Cai	Binghuang Cai
+23	50	Yunong Zhang	Yunong Zhang
+23	80	Yunong Zhang	Yunong Zhang
+23	82	Yunong Zhang	Yunong Zhang
+23	103	Yunong Zhang	Yunong Zhang
+23	106	Yunong Zhang	Yunong Zhang
+24	36	Yunong Zhang	Yunong Zhang
+24	37	Yunong Zhang	Yunong Zhang
+24	50	Yunong Zhang	Yunong Zhang
+24	80	Yunong Zhang	Yunong Zhang
+24	82	Yunong Zhang	Yunong Zhang
+24	103	Yunong Zhang	Yunong Zhang
+24	103	Shuai Yue	Shuai Yue
+24	106	Yunong Zhang	Yunong Zhang
+25	64	Ting-Yao Wu	Ting-Yao Wu
+25	64	HongJiang Zhang	HongJiang Zhang
+25	93	Lie Lu	Lie Lu
+25	93	HongJiang Zhang	Hong-Jiang Zhang
+26	56	DeLiang L. Wang	DeLiang L. Wang
+26	102	DeLiang L. Wang	DeLiang L. Wang
+30	31	Gang Chen	Gang Chen
+30	31	Jinxiang Dong	Jinxiang Dong
+30	32	Gang Chen	Gang Chen
+30	32	Jinxiang Dong	Jinxiang Dong
+30	70	Gang Chen	Gang Chen
+30	85	Gang Chen	Gang Chen
+30	85	Jinxiang Dong	Jinxiang Dong
+30	86	Gang Chen	Gang Chen
+30	86	Jinxiang Dong	Jinxiang Dong
+30	87	Gang Chen	Gang Chen
+30	88	Gang Chen	Gang Chen
+31	32	Gang Chen	Gang Chen
+31	32	Tianlei Hu	Tianlei Hu
+31	32	Jinxiang Dong	Jinxiang Dong
+31	70	Gang Chen	Gang Chen
+31	85	Gang Chen	Gang Chen
+31	85	Tianlei Hu	Tianlei Hu
+31	85	Jinxiang Dong	Jinxiang Dong
+31	86	Gang Chen	Gang Chen
+31	86	Tianlei Hu	Tianlei Hu
+31	86	Jinxiang Dong	Jinxiang Dong
+31	87	Gang Chen	Gang Chen
+31	88	Gang Chen	Gang Chen
+32	70	Gang Chen	Gang Chen
+32	85	Tianlei Hu	Tianlei Hu
+32	85	Gang Chen	Gang Chen
+32	85	Jinxiang Dong	Jinxiang Dong
+32	86	Tianlei Hu	Tianlei Hu
+32	86	Gang Chen	Gang Chen
+32	86	Jinxiang Dong	Jinxiang Dong
+32	87	Gang Chen	Gang Chen
+32	88	Gang Chen	Gang Chen
+34	35	Jia Wang	Jia Wang
+36	37	Yunong Zhang	Yunong Zhang
+36	37	Binghuang Cai	Binghuang Cai
+36	50	Yunong Zhang	Yunong Zhang
+36	80	Yunong Zhang	Yunong Zhang
+36	82	Yunong Zhang	Yunong Zhang
+36	103	Yunong Zhang	Yunong Zhang
+36	106	Yunong Zhang	Yunong Zhang
+37	50	Yunong Zhang	Yunong Zhang
+37	50	Weimu Ma	Weimu Ma
+37	80	Yunong Zhang	Yunong Zhang
+37	82	Yunong Zhang	Yunong Zhang
+37	103	Yunong Zhang	Yunong Zhang
+37	106	Yunong Zhang	Yunong Zhang
+38	39	Lukasz A. Kurgan	Lukasz A. Kurgan
+38	52	Lukasz A. Kurgan	Lukasz A. Kurgan
+38	53	Lukasz A. Kurgan	Lukasz A. Kurgan
+38	77	Lukasz A. Kurgan	Lukasz A. Kurgan
+38	78	Lukasz A. Kurgan	Lukasz A. Kurgan
+38	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+39	52	Jishou Ruan	Jishou Ruan
+39	52	Lukasz A. Kurgan	Lukasz A. Kurgan
+39	53	Lukasz A. Kurgan	Lukasz A. Kurgan
+39	77	Tuo Zhang	Tuo Zhang
+39	77	Hua Zhang	Hua Zhang
+39	77	Shiyi Shen	Shiyi Shen
+39	77	Jishou Ruan	Jishou Ruan
+39	77	Lukasz A. Kurgan	Lukasz A. Kurgan
+39	78	Lukasz A. Kurgan	Lukasz A. Kurgan
+39	83	Jishou Ruan	Jishou Ruan
+39	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+40	43	Martyn D. Hughes	Martyn D. Hughes
+40	104	Martyn D. Hughes	Martyn D. Hughes
+41	59	Judith M. Ford	Judith M. Ford
+42	72	Stuart C. Hawkins	Stuart C. Hawkins
+43	104	Martyn D. Hughes	Martyn D. Hughes
+45	73	Raymond H. Chan	Raymond H. Chan
+45	94	Raymond H. Chan	Raymond H. Chan
+47	48	Huisheng Chi	Huisheng Chi
+47	49	Huisheng Chi	Huisheng Chi
+47	51	Huisheng Chi	Huisheng Chi
+47	55	Huisheng Chi	Huisheng Chi
+47	58	Huisheng Chi	Huisheng Chi
+48	49	Huisheng Chi	Huisheng Chi
+48	51	Huisheng Chi	Huisheng Chi
+48	55	Huisheng Chi	Huisheng Chi
+48	58	Huisheng Chi	Huisheng Chi
+49	51	Huisheng Chi	Huisheng Chi
+49	55	Xiang Yu	Xiang Yu
+49	55	Huisheng Chi	Huisheng Chi
+49	58	Huisheng Chi	Huisheng Chi
+50	80	Yunong Zhang	Yunong Zhang
+50	82	Yunong Zhang	Yunong Zhang
+50	103	Yunong Zhang	Yunong Zhang
+50	106	Yunong Zhang	Yunong Zhang
+51	55	Huisheng Chi	Huisheng Chi
+51	58	Huisheng Chi	Huisheng Chi
+52	53	Lukasz A. Kurgan	Lukasz A. Kurgan
+52	77	Lukasz A. Kurgan	Lukasz A. Kurgan
+52	77	Jishou Ruan	Jishou Ruan
+52	78	Lukasz A. Kurgan	Lukasz A. Kurgan
+52	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+52	83	Jishou Ruan	Jishou Ruan
+53	77	Lukasz A. Kurgan	Lukasz A. Kurgan
+53	78	Lukasz A. Kurgan	Lukasz A. Kurgan
+53	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+55	58	Huisheng Chi	Huisheng Chi
+56	102	DeLiang L. Wang	DeLiang L. Wang
+64	93	HongJiang Zhang	Hong-Jiang Zhang
+65	67	Haim Kaplan	Haim Kaplan
+65	67	Micha Sharir	Micha Sharir
+65	105	Amos Fiat	Amos Fiat
+65	105	Haim Kaplan	Haim Kaplan
+65	105	Meital Levy	Meital Levy
+65	105	Elchanan Mossel	Elchanan Mossel
+65	105	Micha Sharir	Micha Sharir
+65	105	Shakhar Smorodinsky	Shakhar Smorodinsky
+65	105	Uli Wagner	Uli Wagner
+65	105	Emo Welzl	Emo Welzl
+67	105	Haim Kaplan	Haim Kaplan
+67	105	Micha Sharir	Micha Sharir
+70	85	Gang Chen	Gang Chen
+70	86	Gang Chen	Gang Chen
+70	87	Gang Chen	Gang Chen
+70	88	Gang Chen	Gang Chen
+73	94	Raymond H. Chan	Raymond H. Chan
+75	81	Lipo Wang	Lipo Wang
+75	84	Lipo Wang	Lipo Wang
+75	91	Lipo Wang	Lipo Wang
+75	92	Lipo Wang	Lipo Wang
+77	78	Lukasz A. Kurgan	Lukasz A. Kurgan
+77	83	Jishou Ruan	Jishou Ruan
+77	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+78	83	Lukasz A. Kurgan	Lukasz A. Kurgan
+80	82	Yunong Zhang	Yunong Zhang
+80	103	Yunong Zhang	Yunong Zhang
+80	106	Yunong Zhang	Yunong Zhang
+81	84	Lipo Wang	Lipo Wang
+81	91	Lipo Wang	Lipo Wang
+81	92	Lipo Wang	Lipo Wang
+82	103	Yunong Zhang	Yunong Zhang
+82	106	Yunong Zhang	Yunong Zhang
+84	91	Lipo Wang	Lipo Wang
+84	92	Lipo Wang	Lipo Wang
+85	86	Tianlei Hu	Tianlei Hu
+85	86	Gang Chen	Gang Chen
+85	86	Jinxiang Dong	Jinxiang Dong
+85	87	Gang Chen	Gang Chen
+85	88	Gang Chen	Gang Chen
+86	87	Gang Chen	Gang Chen
+86	88	Gang Chen	Gang Chen
+87	88	Jinhua Jiang	Jinhua Jiang
+87	88	Gang Chen	Gang Chen
+87	88	Lidan Shou	Lidan Shou
+91	92	Lipo Wang	Lipo Wang
+96	97	Paul J. Harris	Paul J. Harris
+103	106	Yunong Zhang	Yunong Zhang

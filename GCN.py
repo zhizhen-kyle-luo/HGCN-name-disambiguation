@@ -1,13 +1,19 @@
 import os
 import pickle
 
-import tensorflow as tf
+# import tensorflow as tf
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 import numpy as np
 import pandas as pd
 import sklearn
 import networkx as nx
 import matplotlib.pyplot as plt
 import math
+
+# import tensorflow.compat.v1 as tf
+# tf.disable_v2_behavior()
+# import tensorflow as tf2 #Tensorflow 2.x
 
 from GraRep import GraRep
 
@@ -60,6 +66,8 @@ def xavier_init(fan_in, fan_out, constant=1):
     low = -constant * np.sqrt(6.0 / (fan_in + fan_out))
     high = constant * np.sqrt(6.0 / (fan_in + fan_out))
     return tf.random_uniform((fan_in, fan_out), minval=low, maxval=high, dtype=tf.float64)
+    # return tf.random.uniform((fan_in, fan_out), minval=low, maxval=high, dtype=tf.float64)
+
 
 class GCN(GraRep):
     def __init__(self, graph, node_features, first_layer_dim=100, embed_dim=100, batch_size=8):
@@ -67,6 +75,7 @@ class GCN(GraRep):
 
         self.sample_num = self.batch_size
         
+        # tf.reset_default_graph() --> deprecated
         tf.reset_default_graph()
         self.first_layer_dim = first_layer_dim
         
@@ -96,11 +105,14 @@ class GCN(GraRep):
         self.w1V = tf.Variable(xavier_init(self.first_layer_dim, self.embed_dim))
         self.b1V = tf.Variable(tf.zeros([self.embed_dim], dtype=tf.float64))
         
-        self.adj_matrixA = nx.adj_matrix(self.graph[0]).toarray()
+        # self.adj_matrixA = nx.adj_matrix(self.graph[0]).toarray()
+        self.adj_matrixA = nx.to_numpy_array(self.graph[0])
         self.gcn_matrixA = cal_gcn_matrix(self.adj_matrixA)
-        self.adj_matrixT = nx.adj_matrix(self.graph[1]).toarray()
+        # self.adj_matrixT = nx.adj_matrix(self.graph[1]).toarray()
+        self.adj_matrixT = nx.to_numpy_array(self.graph[1])
         self.gcn_matrixT = cal_gcn_matrix(self.adj_matrixT)
-        self.adj_matrixV = nx.adj_matrix(self.graph[2]).toarray()
+        # self.adj_matrixV = nx.adj_matrix(self.graph[2]).toarray()
+        self.adj_matrixV = nx.to_numpy_array(self.graph[2])
         self.gcn_matrixV = cal_gcn_matrix(self.adj_matrixV)
         
         
@@ -134,9 +146,16 @@ class GCN(GraRep):
         
         self.inner_product = tf.reduce_sum(self.u_i_embedding * self.u_j_embedding, axis=1)
         
-        reg = tf.contrib.layers.apply_regularization(tf.contrib.layers.l2_regularizer(1e-4), tf.trainable_variables())
-        self.loss = -tf.reduce_mean(tf.log_sigmoid(self.label * self.inner_product))+reg
+        # reg = tf.contrib.layers.apply_regularization(tf.contrib.layers.l2_regularizer(1e-4), tf.trainable_variables())
+        # Apply L2 regularization
+        regularizer = tf.keras.regularizers.l2(1e-4)
+        reg = tf.add_n([regularizer(tf.cast(var, tf.float32)) for var in tf.trainable_variables()])
         
+        # self.loss = -tf.reduce_mean(tf.log_sigmoid(self.label * self.inner_product))+reg
+        
+        # Ensure consistent dtypes (float32 bc better for GPU)
+        self.loss = -tf.reduce_mean(tf.math.log_sigmoid(tf.cast(self.label * self.inner_product, tf.float32))) + tf.cast(reg, tf.float32)
+
         self.line_optimizer = tf.train.AdamOptimizer(self.learning_rate).minimize(self.loss)
         
     def train_line(self, u_i, u_j, label):

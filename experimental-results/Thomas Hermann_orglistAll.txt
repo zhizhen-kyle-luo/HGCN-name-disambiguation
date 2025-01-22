@@ -1,0 +1,946 @@
+0	1	University of Bielefeld, Bielefeld, Germany	null
+0	2	University of Bielefeld, Bielefeld, Germany	null
+0	3	University of Bielefeld, Bielefeld, Germany	null
+0	4	University of Bielefeld, Bielefeld, Germany	null
+0	5	University of Bielefeld, Bielefeld, Germany	null
+0	6	University of Bielefeld, Bielefeld, Germany	null
+0	7	University of Bielefeld, Bielefeld, Germany	null
+0	8	University of Bielefeld, Bielefeld, Germany	null
+0	9	University of Bielefeld, Bielefeld, Germany	null
+0	10	University of Bielefeld, Bielefeld, Germany	null
+0	11	University of Bielefeld, Bielefeld, Germany	null
+0	12	University of Bielefeld, Bielefeld, Germany	null
+0	13	University of Bielefeld, Bielefeld, Germany	Bielefeld University
+0	14	University of Bielefeld, Bielefeld, Germany	Bielefeld University, Germany
+0	15	University of Bielefeld, Bielefeld, Germany	Bielefeld University, Germany
+0	16	University of Bielefeld, Bielefeld, Germany	null
+0	17	University of Bielefeld, Bielefeld, Germany	null
+0	18	University of Bielefeld, Bielefeld, Germany	null
+0	19	University of Bielefeld, Bielefeld, Germany	null
+0	20	University of Bielefeld, Bielefeld, Germany	null
+0	21	University of Bielefeld, Bielefeld, Germany	null
+0	22	University of Bielefeld, Bielefeld, Germany	null
+0	23	University of Bielefeld, Bielefeld, Germany	null
+0	24	University of Bielefeld, Bielefeld, Germany	null
+0	25	University of Bielefeld, Bielefeld, Germany	null
+0	26	University of Bielefeld, Bielefeld, Germany	null
+0	27	University of Bielefeld, Bielefeld, Germany	null
+0	28	University of Bielefeld, Bielefeld, Germany	null
+0	29	University of Bielefeld, Bielefeld, Germany	null
+0	30	University of Bielefeld, Bielefeld, Germany	null
+0	31	University of Bielefeld, Bielefeld, Germany	null
+0	32	University of Bielefeld, Bielefeld, Germany	null
+0	33	University of Bielefeld, Bielefeld, Germany	null
+0	34	University of Bielefeld, Bielefeld, Germany	null
+0	35	University of Bielefeld, Bielefeld, Germany	Bielefeld University, Bielefeld, Germany
+0	36	University of Bielefeld, Bielefeld, Germany	Bielefeld University, Bielefeld, Germany
+0	37	University of Bielefeld, Bielefeld, Germany	Bielefeld University, Bielefeld, Germany
+0	38	University of Bielefeld, Bielefeld, Germany	null
+0	39	University of Bielefeld, Bielefeld, Germany	null
+0	40	University of Bielefeld, Bielefeld, Germany	null
+0	41	University of Bielefeld, Bielefeld, Germany	null
+0	42	University of Bielefeld, Bielefeld, Germany	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+0	43	University of Bielefeld, Bielefeld, Germany	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	Bielefeld University
+1	14	null	Bielefeld University, Germany
+1	15	null	Bielefeld University, Germany
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	null
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	null
+1	33	null	null
+1	34	null	null
+1	35	null	Bielefeld University, Bielefeld, Germany
+1	36	null	Bielefeld University, Bielefeld, Germany
+1	37	null	Bielefeld University, Bielefeld, Germany
+1	38	null	null
+1	39	null	null
+1	40	null	null
+1	41	null	null
+1	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+1	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	Bielefeld University
+2	14	null	Bielefeld University, Germany
+2	15	null	Bielefeld University, Germany
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	null
+2	27	null	null
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	null
+2	33	null	null
+2	34	null	null
+2	35	null	Bielefeld University, Bielefeld, Germany
+2	36	null	Bielefeld University, Bielefeld, Germany
+2	37	null	Bielefeld University, Bielefeld, Germany
+2	38	null	null
+2	39	null	null
+2	40	null	null
+2	41	null	null
+2	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+2	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	Bielefeld University
+3	14	null	Bielefeld University, Germany
+3	15	null	Bielefeld University, Germany
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	null
+3	21	null	null
+3	22	null	null
+3	23	null	null
+3	24	null	null
+3	25	null	null
+3	26	null	null
+3	27	null	null
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	null
+3	33	null	null
+3	34	null	null
+3	35	null	Bielefeld University, Bielefeld, Germany
+3	36	null	Bielefeld University, Bielefeld, Germany
+3	37	null	Bielefeld University, Bielefeld, Germany
+3	38	null	null
+3	39	null	null
+3	40	null	null
+3	41	null	null
+3	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+3	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	Bielefeld University
+4	14	null	Bielefeld University, Germany
+4	15	null	Bielefeld University, Germany
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	null
+4	24	null	null
+4	25	null	null
+4	26	null	null
+4	27	null	null
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	null
+4	35	null	Bielefeld University, Bielefeld, Germany
+4	36	null	Bielefeld University, Bielefeld, Germany
+4	37	null	Bielefeld University, Bielefeld, Germany
+4	38	null	null
+4	39	null	null
+4	40	null	null
+4	41	null	null
+4	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+4	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	Bielefeld University
+5	14	null	Bielefeld University, Germany
+5	15	null	Bielefeld University, Germany
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	null
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	null
+5	34	null	null
+5	35	null	Bielefeld University, Bielefeld, Germany
+5	36	null	Bielefeld University, Bielefeld, Germany
+5	37	null	Bielefeld University, Bielefeld, Germany
+5	38	null	null
+5	39	null	null
+5	40	null	null
+5	41	null	null
+5	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+5	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	Bielefeld University
+6	14	null	Bielefeld University, Germany
+6	15	null	Bielefeld University, Germany
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	null
+6	23	null	null
+6	24	null	null
+6	25	null	null
+6	26	null	null
+6	27	null	null
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	null
+6	33	null	null
+6	34	null	null
+6	35	null	Bielefeld University, Bielefeld, Germany
+6	36	null	Bielefeld University, Bielefeld, Germany
+6	37	null	Bielefeld University, Bielefeld, Germany
+6	38	null	null
+6	39	null	null
+6	40	null	null
+6	41	null	null
+6	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+6	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	Bielefeld University
+7	14	null	Bielefeld University, Germany
+7	15	null	Bielefeld University, Germany
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	null
+7	27	null	null
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	null
+7	34	null	null
+7	35	null	Bielefeld University, Bielefeld, Germany
+7	36	null	Bielefeld University, Bielefeld, Germany
+7	37	null	Bielefeld University, Bielefeld, Germany
+7	38	null	null
+7	39	null	null
+7	40	null	null
+7	41	null	null
+7	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+7	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	Bielefeld University
+8	14	null	Bielefeld University, Germany
+8	15	null	Bielefeld University, Germany
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	null
+8	27	null	null
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	null
+8	33	null	null
+8	34	null	null
+8	35	null	Bielefeld University, Bielefeld, Germany
+8	36	null	Bielefeld University, Bielefeld, Germany
+8	37	null	Bielefeld University, Bielefeld, Germany
+8	38	null	null
+8	39	null	null
+8	40	null	null
+8	41	null	null
+8	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+8	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	Bielefeld University
+9	14	null	Bielefeld University, Germany
+9	15	null	Bielefeld University, Germany
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	null
+9	20	null	null
+9	21	null	null
+9	22	null	null
+9	23	null	null
+9	24	null	null
+9	25	null	null
+9	26	null	null
+9	27	null	null
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+9	32	null	null
+9	33	null	null
+9	34	null	null
+9	35	null	Bielefeld University, Bielefeld, Germany
+9	36	null	Bielefeld University, Bielefeld, Germany
+9	37	null	Bielefeld University, Bielefeld, Germany
+9	38	null	null
+9	39	null	null
+9	40	null	null
+9	41	null	null
+9	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+9	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+10	11	null	null
+10	12	null	null
+10	13	null	Bielefeld University
+10	14	null	Bielefeld University, Germany
+10	15	null	Bielefeld University, Germany
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	null
+10	23	null	null
+10	24	null	null
+10	25	null	null
+10	26	null	null
+10	27	null	null
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	null
+10	32	null	null
+10	33	null	null
+10	34	null	null
+10	35	null	Bielefeld University, Bielefeld, Germany
+10	36	null	Bielefeld University, Bielefeld, Germany
+10	37	null	Bielefeld University, Bielefeld, Germany
+10	38	null	null
+10	39	null	null
+10	40	null	null
+10	41	null	null
+10	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+10	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+11	12	null	null
+11	13	null	Bielefeld University
+11	14	null	Bielefeld University, Germany
+11	15	null	Bielefeld University, Germany
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	null
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	null
+11	34	null	null
+11	35	null	Bielefeld University, Bielefeld, Germany
+11	36	null	Bielefeld University, Bielefeld, Germany
+11	37	null	Bielefeld University, Bielefeld, Germany
+11	38	null	null
+11	39	null	null
+11	40	null	null
+11	41	null	null
+11	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+11	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+12	13	null	Bielefeld University
+12	14	null	Bielefeld University, Germany
+12	15	null	Bielefeld University, Germany
+12	16	null	null
+12	17	null	null
+12	18	null	null
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	null
+12	23	null	null
+12	24	null	null
+12	25	null	null
+12	26	null	null
+12	27	null	null
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	null
+12	33	null	null
+12	34	null	null
+12	35	null	Bielefeld University, Bielefeld, Germany
+12	36	null	Bielefeld University, Bielefeld, Germany
+12	37	null	Bielefeld University, Bielefeld, Germany
+12	38	null	null
+12	39	null	null
+12	40	null	null
+12	41	null	null
+12	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+12	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+13	14	Bielefeld University	Bielefeld University, Germany
+13	15	Bielefeld University	Bielefeld University, Germany
+13	16	Bielefeld University	null
+13	17	Bielefeld University	null
+13	18	Bielefeld University	null
+13	19	Bielefeld University	null
+13	20	Bielefeld University	null
+13	21	Bielefeld University	null
+13	22	Bielefeld University	null
+13	23	Bielefeld University	null
+13	24	Bielefeld University	null
+13	25	Bielefeld University	null
+13	26	Bielefeld University	null
+13	27	Bielefeld University	null
+13	28	Bielefeld University	null
+13	29	Bielefeld University	null
+13	30	Bielefeld University	null
+13	31	Bielefeld University	null
+13	32	Bielefeld University	null
+13	33	Bielefeld University	null
+13	34	Bielefeld University	null
+13	35	Bielefeld University	Bielefeld University, Bielefeld, Germany
+13	36	Bielefeld University	Bielefeld University, Bielefeld, Germany
+13	37	Bielefeld University	Bielefeld University, Bielefeld, Germany
+13	38	Bielefeld University	null
+13	39	Bielefeld University	null
+13	40	Bielefeld University	null
+13	41	Bielefeld University	null
+13	42	Bielefeld University	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+13	43	Bielefeld University	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+14	15	Bielefeld University, Germany	Bielefeld University, Germany
+14	16	Bielefeld University, Germany	null
+14	17	Bielefeld University, Germany	null
+14	18	Bielefeld University, Germany	null
+14	19	Bielefeld University, Germany	null
+14	20	Bielefeld University, Germany	null
+14	21	Bielefeld University, Germany	null
+14	22	Bielefeld University, Germany	null
+14	23	Bielefeld University, Germany	null
+14	24	Bielefeld University, Germany	null
+14	25	Bielefeld University, Germany	null
+14	26	Bielefeld University, Germany	null
+14	27	Bielefeld University, Germany	null
+14	28	Bielefeld University, Germany	null
+14	29	Bielefeld University, Germany	null
+14	30	Bielefeld University, Germany	null
+14	31	Bielefeld University, Germany	null
+14	32	Bielefeld University, Germany	null
+14	33	Bielefeld University, Germany	null
+14	34	Bielefeld University, Germany	null
+14	35	Bielefeld University, Germany	Bielefeld University, Bielefeld, Germany
+14	36	Bielefeld University, Germany	Bielefeld University, Bielefeld, Germany
+14	37	Bielefeld University, Germany	Bielefeld University, Bielefeld, Germany
+14	38	Bielefeld University, Germany	null
+14	39	Bielefeld University, Germany	null
+14	40	Bielefeld University, Germany	null
+14	41	Bielefeld University, Germany	null
+14	42	Bielefeld University, Germany	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+14	43	Bielefeld University, Germany	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+15	16	Bielefeld University, Germany	null
+15	17	Bielefeld University, Germany	null
+15	18	Bielefeld University, Germany	null
+15	19	Bielefeld University, Germany	null
+15	20	Bielefeld University, Germany	null
+15	21	Bielefeld University, Germany	null
+15	22	Bielefeld University, Germany	null
+15	23	Bielefeld University, Germany	null
+15	24	Bielefeld University, Germany	null
+15	25	Bielefeld University, Germany	null
+15	26	Bielefeld University, Germany	null
+15	27	Bielefeld University, Germany	null
+15	28	Bielefeld University, Germany	null
+15	29	Bielefeld University, Germany	null
+15	30	Bielefeld University, Germany	null
+15	31	Bielefeld University, Germany	null
+15	32	Bielefeld University, Germany	null
+15	33	Bielefeld University, Germany	null
+15	34	Bielefeld University, Germany	null
+15	35	Bielefeld University, Germany	Bielefeld University, Bielefeld, Germany
+15	36	Bielefeld University, Germany	Bielefeld University, Bielefeld, Germany
+15	37	Bielefeld University, Germany	Bielefeld University, Bielefeld, Germany
+15	38	Bielefeld University, Germany	null
+15	39	Bielefeld University, Germany	null
+15	40	Bielefeld University, Germany	null
+15	41	Bielefeld University, Germany	null
+15	42	Bielefeld University, Germany	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+15	43	Bielefeld University, Germany	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	null
+16	27	null	null
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	null
+16	33	null	null
+16	34	null	null
+16	35	null	Bielefeld University, Bielefeld, Germany
+16	36	null	Bielefeld University, Bielefeld, Germany
+16	37	null	Bielefeld University, Bielefeld, Germany
+16	38	null	null
+16	39	null	null
+16	40	null	null
+16	41	null	null
+16	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+16	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+17	18	null	null
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	null
+17	27	null	null
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	null
+17	32	null	null
+17	33	null	null
+17	34	null	null
+17	35	null	Bielefeld University, Bielefeld, Germany
+17	36	null	Bielefeld University, Bielefeld, Germany
+17	37	null	Bielefeld University, Bielefeld, Germany
+17	38	null	null
+17	39	null	null
+17	40	null	null
+17	41	null	null
+17	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+17	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	null
+18	27	null	null
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	null
+18	33	null	null
+18	34	null	null
+18	35	null	Bielefeld University, Bielefeld, Germany
+18	36	null	Bielefeld University, Bielefeld, Germany
+18	37	null	Bielefeld University, Bielefeld, Germany
+18	38	null	null
+18	39	null	null
+18	40	null	null
+18	41	null	null
+18	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+18	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+19	20	null	null
+19	21	null	null
+19	22	null	null
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	null
+19	27	null	null
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	null
+19	33	null	null
+19	34	null	null
+19	35	null	Bielefeld University, Bielefeld, Germany
+19	36	null	Bielefeld University, Bielefeld, Germany
+19	37	null	Bielefeld University, Bielefeld, Germany
+19	38	null	null
+19	39	null	null
+19	40	null	null
+19	41	null	null
+19	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+19	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+20	21	null	null
+20	22	null	null
+20	23	null	null
+20	24	null	null
+20	25	null	null
+20	26	null	null
+20	27	null	null
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	null
+20	33	null	null
+20	34	null	null
+20	35	null	Bielefeld University, Bielefeld, Germany
+20	36	null	Bielefeld University, Bielefeld, Germany
+20	37	null	Bielefeld University, Bielefeld, Germany
+20	38	null	null
+20	39	null	null
+20	40	null	null
+20	41	null	null
+20	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+20	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+21	22	null	null
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	null
+21	27	null	null
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	null
+21	34	null	null
+21	35	null	Bielefeld University, Bielefeld, Germany
+21	36	null	Bielefeld University, Bielefeld, Germany
+21	37	null	Bielefeld University, Bielefeld, Germany
+21	38	null	null
+21	39	null	null
+21	40	null	null
+21	41	null	null
+21	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+21	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+22	23	null	null
+22	24	null	null
+22	25	null	null
+22	26	null	null
+22	27	null	null
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	null
+22	33	null	null
+22	34	null	null
+22	35	null	Bielefeld University, Bielefeld, Germany
+22	36	null	Bielefeld University, Bielefeld, Germany
+22	37	null	Bielefeld University, Bielefeld, Germany
+22	38	null	null
+22	39	null	null
+22	40	null	null
+22	41	null	null
+22	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+22	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+23	24	null	null
+23	25	null	null
+23	26	null	null
+23	27	null	null
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+23	32	null	null
+23	33	null	null
+23	34	null	null
+23	35	null	Bielefeld University, Bielefeld, Germany
+23	36	null	Bielefeld University, Bielefeld, Germany
+23	37	null	Bielefeld University, Bielefeld, Germany
+23	38	null	null
+23	39	null	null
+23	40	null	null
+23	41	null	null
+23	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+23	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+24	25	null	null
+24	26	null	null
+24	27	null	null
+24	28	null	null
+24	29	null	null
+24	30	null	null
+24	31	null	null
+24	32	null	null
+24	33	null	null
+24	34	null	null
+24	35	null	Bielefeld University, Bielefeld, Germany
+24	36	null	Bielefeld University, Bielefeld, Germany
+24	37	null	Bielefeld University, Bielefeld, Germany
+24	38	null	null
+24	39	null	null
+24	40	null	null
+24	41	null	null
+24	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+24	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+25	26	null	null
+25	27	null	null
+25	28	null	null
+25	29	null	null
+25	30	null	null
+25	31	null	null
+25	32	null	null
+25	33	null	null
+25	34	null	null
+25	35	null	Bielefeld University, Bielefeld, Germany
+25	36	null	Bielefeld University, Bielefeld, Germany
+25	37	null	Bielefeld University, Bielefeld, Germany
+25	38	null	null
+25	39	null	null
+25	40	null	null
+25	41	null	null
+25	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+25	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+26	27	null	null
+26	28	null	null
+26	29	null	null
+26	30	null	null
+26	31	null	null
+26	32	null	null
+26	33	null	null
+26	34	null	null
+26	35	null	Bielefeld University, Bielefeld, Germany
+26	36	null	Bielefeld University, Bielefeld, Germany
+26	37	null	Bielefeld University, Bielefeld, Germany
+26	38	null	null
+26	39	null	null
+26	40	null	null
+26	41	null	null
+26	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+26	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	null
+27	33	null	null
+27	34	null	null
+27	35	null	Bielefeld University, Bielefeld, Germany
+27	36	null	Bielefeld University, Bielefeld, Germany
+27	37	null	Bielefeld University, Bielefeld, Germany
+27	38	null	null
+27	39	null	null
+27	40	null	null
+27	41	null	null
+27	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+27	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	null
+28	34	null	null
+28	35	null	Bielefeld University, Bielefeld, Germany
+28	36	null	Bielefeld University, Bielefeld, Germany
+28	37	null	Bielefeld University, Bielefeld, Germany
+28	38	null	null
+28	39	null	null
+28	40	null	null
+28	41	null	null
+28	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+28	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	null
+29	34	null	null
+29	35	null	Bielefeld University, Bielefeld, Germany
+29	36	null	Bielefeld University, Bielefeld, Germany
+29	37	null	Bielefeld University, Bielefeld, Germany
+29	38	null	null
+29	39	null	null
+29	40	null	null
+29	41	null	null
+29	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+29	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	null
+30	35	null	Bielefeld University, Bielefeld, Germany
+30	36	null	Bielefeld University, Bielefeld, Germany
+30	37	null	Bielefeld University, Bielefeld, Germany
+30	38	null	null
+30	39	null	null
+30	40	null	null
+30	41	null	null
+30	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+30	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+31	32	null	null
+31	33	null	null
+31	34	null	null
+31	35	null	Bielefeld University, Bielefeld, Germany
+31	36	null	Bielefeld University, Bielefeld, Germany
+31	37	null	Bielefeld University, Bielefeld, Germany
+31	38	null	null
+31	39	null	null
+31	40	null	null
+31	41	null	null
+31	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+31	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+32	33	null	null
+32	34	null	null
+32	35	null	Bielefeld University, Bielefeld, Germany
+32	36	null	Bielefeld University, Bielefeld, Germany
+32	37	null	Bielefeld University, Bielefeld, Germany
+32	38	null	null
+32	39	null	null
+32	40	null	null
+32	41	null	null
+32	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+32	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+33	34	null	null
+33	35	null	Bielefeld University, Bielefeld, Germany
+33	36	null	Bielefeld University, Bielefeld, Germany
+33	37	null	Bielefeld University, Bielefeld, Germany
+33	38	null	null
+33	39	null	null
+33	40	null	null
+33	41	null	null
+33	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+33	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+34	35	null	Bielefeld University, Bielefeld, Germany
+34	36	null	Bielefeld University, Bielefeld, Germany
+34	37	null	Bielefeld University, Bielefeld, Germany
+34	38	null	null
+34	39	null	null
+34	40	null	null
+34	41	null	null
+34	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+34	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+35	36	Bielefeld University, Bielefeld, Germany	Bielefeld University, Bielefeld, Germany
+35	37	Bielefeld University, Bielefeld, Germany	Bielefeld University, Bielefeld, Germany
+35	38	Bielefeld University, Bielefeld, Germany	null
+35	39	Bielefeld University, Bielefeld, Germany	null
+35	40	Bielefeld University, Bielefeld, Germany	null
+35	41	Bielefeld University, Bielefeld, Germany	null
+35	42	Bielefeld University, Bielefeld, Germany	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+35	43	Bielefeld University, Bielefeld, Germany	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+36	37	Bielefeld University, Bielefeld, Germany	Bielefeld University, Bielefeld, Germany
+36	38	Bielefeld University, Bielefeld, Germany	null
+36	39	Bielefeld University, Bielefeld, Germany	null
+36	40	Bielefeld University, Bielefeld, Germany	null
+36	41	Bielefeld University, Bielefeld, Germany	null
+36	42	Bielefeld University, Bielefeld, Germany	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+36	43	Bielefeld University, Bielefeld, Germany	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+37	38	Bielefeld University, Bielefeld, Germany	null
+37	39	Bielefeld University, Bielefeld, Germany	null
+37	40	Bielefeld University, Bielefeld, Germany	null
+37	41	Bielefeld University, Bielefeld, Germany	null
+37	42	Bielefeld University, Bielefeld, Germany	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+37	43	Bielefeld University, Bielefeld, Germany	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+38	39	null	null
+38	40	null	null
+38	41	null	null
+38	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+38	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+39	40	null	null
+39	41	null	null
+39	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+39	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+40	41	null	null
+40	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+40	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+41	42	null	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501
+41	43	null	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany
+42	43	Ambient Intelligence Group, CITEC, Bielefeld University, and Neuroinformatics Group, Faculty of Technology, Bielefeld University, Bielefeld, Germany D-33501	Ambient Intelligence Group CITEC --- Center of Excellence in Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany

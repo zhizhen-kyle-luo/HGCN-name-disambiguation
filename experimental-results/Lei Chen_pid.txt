@@ -1,0 +1,196 @@
+6875	Density-based multipath secure communication over mobile ad hoc networks
+6910	Gene intrusion on a society of Hill-Climbers
+7057	Multi-level secure video streaming over SRTP
+10048	Recent Advances in CFD Grid Application Platform
+16785	Algebraic Constructions of Quasi-cyclic LDPC Codes - Part I: For AWGN and Binary Random Erasure Channels
+36808	The Effects of Mobility and Redundancy on Wireless Video Streaming over MANETs
+63390	Audio and Vision-Based Evaluation of Parkinson's Disease from Discourse Video
+95658	Localized routing trees for query processing in sensor networks
+96145	Towards interactive indexing for large Chinese calligraphic character databases
+96307	Probabilistic correlation-based similarity measure of unstructured records
+96347	Optimal proactive caching in peer-to-peer network: analysis and application
+96359	Top-k subgraph matching query in a large graph
+96560	Speed up semantic search in p2p networks
+98919	In-network Outlier Cleaning for Data Collection in Sensor Networks
+120907	Compressed Pattern Matching in DNA Sequences
+122437	Heterogeneous CAD Hybrid Data Exchange Based on Feature Semantics and Geometry Representation
+141088	Approximate Similarity Search over Multiple Stream Time Series
+141127	Similarity Joins of Text with Incomplete Information Formats
+141138	Continuously Maintaining Sliding Window Skylines in a Sensor Network
+141229	Summarization Graph Indexing: Beyond Frequent Structure-Based Approach
+141231	Probabilistic Inverse Ranking Queries over Uncertain Data
+141236	Energy-Efficient Evaluation of Multiple Skyline Queries over a Wireless Sensor Network
+141237	A Unified Indexing Structure for Efficient Cross-Media Retrieval
+141241	Top-K Correlation Sub-graph Search in Graph Databases
+145002	Answering Constrained k-NN Queries in Unstructured P2P Systems
+176684	Dynamic skyline queries in metric spaces
+176718	Indexing high-dimensional data in dual distance spaces: a symmetrical encoding approach
+176731	A novel spectral coding in a large graph database
+176737	Probabilistic ranked queries in uncertain databases
+176783	Evaluating probability threshold k-nearest-neighbor queries over uncertain data
+176904	Top-k dominating queries in uncertain databases
+196610	Algebraic Laws for BSP Programming
+218409	Fabric Handle Clusters Based on Fuzzy Clustering Algorithm
+224425	Portlet-based Portal Design for Grid Systems
+242533	A New Virtual Dynamic Dentomaxillofacial System for Analyzing Mandibular Movement, Occlusal Contact, and TMJ Condition
+252751	Dynamic Data Dependence Tracking and its Application to Branch Prediction
+253228	HAND: An Overlay Optimization Algorithm in Peer-to-Peer Systems
+261650	E-government Web Mining Tool Design and Implementation Based on the Semantic Web
+276074	Automated Planning of CPICH Power for Enhancing HSDPA Performance at Cell Edges with Preserved Control of R99 Soft Handover
+280610	A Dependable Communication Network for e-Textiles
+280714	Automated Design Approach for Analog Circuit Using Genetic Algorithm
+292297	The E-Textile Token Grid Network with Dual Rings
+298035	A Weighted Moving Average-based Approach for Cleaning Sensor Data
+298038	Non-Threshold based Event Detection for 3D Environment Monitoring in Sensor Networks
+298258	Multi-query Optimization for Distributed Similarity Query Processing
+299614	Learning from Aggregate Views
+299684	Multi-Scale Histograms for Answering Queries over Time Series Data
+301662	Similarity Match Over High Speed Time-Series Streams
+301707	A General Cost Model for Dimensionality Reduction in High Dimensional Spaces
+301898	Detection of Shape Anomalies: A Probabilistic Approach Using Hidden Markov Models
+302009	Dominant Graph: An Efficient Indexing Structure to Answer Top-K Queries
+302092	Pattern Matching over Cloaked Time Series
+302130	Parallel Evaluation of Composite Aggregate Queries
+302150	Similarity Search in Arbitrary Subspaces Under Lp-Norm
+302340	STAIRS: Towards Efficient Full-Text Filtering and Dissemination in a DHT Environment
+302357	A Concise Representation of Range Queries
+302453	Max Regional Aggregate over Sensor Networks
+302457	Continuous Subgraph Pattern Search over Graph Streams
+302703	Mass Spectrum Labeling: Theory and Practice
+303625	Spotting Significant Changing Subgraphs in Evolving Graphs
+307812	Feedforward Neural Networks without Orthonormalization
+316911	Rule-based scene extraction from video
+329890	Network architecture to support QoS in mobile ad hoc networks
+332037	Mixed Type Audio Classification with Support Vector Machine
+332578	Analog Error-Control Coding Based on Dimension-Expanding Shannon Mapping for Robust Image Communication
+333990	Utilizing gestures to better understand dynamic structure of human communication
+333996	Gesture Patterns during Speech Repairs
+334221	Using maximum entropy (ME) model to incorporate gesture cues for SU detection
+338594	Virtual Surrounding Face Geocasting with Guaranteed Message Delivery for Ad Hoc and Sensor Networks
+341993	A push-based prefetching for cooperative caching RAM Grid
+344930	Collaborative Search in Large-scale Unstructured Peer-to-Peer Networks
+346257	Enhancing Edit Distance on Real Sequences Filters using Histogram Distance on Fixed Reference Ordering
+366712	Inclusion Test Algorithms for One-Unambiguous Regular Expressions
+408532	Building an Adaptive Multimedia System using the Utility Model
+412596	Continuous answering holistic queries over sensor networks
+412667	SenCast: Scalable multicast in wireless sensor networks
+437685	Using Exact Locality Sensitive Mapping to Group and Detect Audio-Based Cover Songs
+482754	End-to-end diagnosis of QoS violations with neural network
+490957	Design of Multiple Classifier Systems for Time Series Data
+490959	A Modular System for the Classification of Time Series Data
+495773	Noninvasive Temperature Monitoring in a Wide Range Based on Textures of Ultrasound Images
+500390	Symbolic representation and retrieval of moving object trajectories
+500613	Searching musical audio datasets by a batch of multi-variant tracks
+500735	A Multi-Level Index Structure for Video Databases
+501534	VACE Multimodal Meeting Corpus
+501549	A Multimodal Analysis of Floor Control in Meetings
+503883	COSIN: content-based retrieval system for cover songs
+504593	Modeling Video Data for Content Based Queries: Extending the DISIMA Image Data Model
+509675	Performance comparisons of power allocation mechanisms for downlink handoff in the WCDMA system with microcellular environments
+511166	Incorporating Gesture and Gaze into Multimodal Models of Human-to-Human Communication
+525579	Flexible Routing in Grouped DHTs
+538900	Mining Frequent Trajectory Patterns for Activity Monitoring Using Radio Frequency Tag Arrays
+598359	Cost-Based Labeling of Groups of Mass Spectra
+598365	Robust and Fast Similarity Search for Moving Object Trajectories
+599983	Contour map matching for event detection in sensor networks
+600307	Monochromatic and bichromatic reverse skyline search over uncertain databases
+606891	Reinforcement learning and aggregation
+607605	A new design of multiple classifier system and its application to the classification of time series data
+617782	Using Multi-Scale Histograms to Answer Pattern Existence and Shape Match Queries
+618414	Efficient Methods on Predictions for Similarity Search over Stream Time Series
+641791	Composite Subset Measures
+642233	On The Marriage of Lp-norms and Edit Distance
+642352	Prediction Cubes
+644133	Indexable PLA for Efficient Similarity Search
+675471	Efficient multi-keyword search over p2p web
+691930	Parameterized Freeform Shape Design and Deformation
+710332	Design of an Intelligent Controller for a Model Helicopter Using Neuro-Predictive Method with Fuzzy Compensation
+722418	Testing Technology of Torsional Vibration Spring Static Stiffness
+728737	Study of Coupling Based on Genetic Neural Network Multivariable Nonlinear Complex System
+730268	Efficient Type Checking for a Subclass of Regular Expression Types
+735272	Cooperative Spectrum Sensing with Multi-Bits Local Sensing Decisions in Cognitive Radio Context
+752082	Convergence analysis of convex incremental neural networks
+762078	Free-space nano-optical devices and integration: Design, fabrication, and manufacturing
+779908	Reverse innovative design - an integrated product design methodology
+830241	Discovering Matching Dependencies
+838593	Extremal problems on consecutive L(2, 1)-labelling
+903096	Aggregation of Multiple Reinforcement Learning Algorithms
+910790	The EDAM project: Mining atmospheric aerosol datasets
+915556	A unified SWSI-KAMs framework and performance evaluation on face recognition
+917837	Convex incremental extreme learning machine
+918100	Incremental extreme learning machine with fully complex hidden nodes
+918258	Systemical convergence rate analysis of convex incremental feedforward neural networks
+974156	Continually Answering Constraint k - NN Queries in Unstructured P2P Systems
+974207	Scalable Base-Station Model-Based Multicast in Wireless Sensor Networks
+992850	QoS-aware routing based on bandwidth estimation for mobile ad hoc networks
+995819	Analyzing software science data with partial repeatability
+1011124	MINDEX: An efficient index structure for salient-object-based queries in video databases
+1013067	Robust and Efficient Aggregate Query Processing in Wireless Sensor Networks
+1024162	A Survey of Routing Protocols that Support QoS in Mobile Ad Hoc Networks
+1028332	Distance-Based Sparse Associative Memory Neural Network Algorithm for Pattern Recognition
+1028463	Universal Approximation and QoS Violation Application of Extreme Learning Machine
+1069057	A combination of linear and nonlinear activation functions in neural networks for modeling a de-superheater
+1077482	Interactive high-dimensional index for large Chinese calligraphic character databases
+1087222	Near-Shannon-limit quasi-cyclic low-density parity-check codes
+1087408	Efficient Encoding of Quasi-Cyclic Low-Density Parity-Check Codes
+1087525	Efficient encoding of quasi-cyclic low-density parity-check codes
+1087916	Construction of low-density parity-check codes by superposition
+1110111	Construction of Regular and Irregular LDPC Codes: Geometry Decomposition and Masking
+1110375	Construction of Quasi-Cyclic LDPC Codes for AWGN and Binary Erasure Channels: A Finite Field Approach
+1113895	Maximal Subspace Coregulated Gene Clustering
+1113915	Efficient Similarity Search in Nonmetric Spaces with Local Constant Embedding
+1113964	Efficient Similarity Search over Future Stream Time Series
+1114062	Probabilistic Group Nearest Neighbor Queries in Uncertain Databases
+1114136	Nonthreshold-Based Event Detection for 3D Environment Monitoring in Sensor Networks
+1114296	OPHMR: An Optimized Polymorphic Hybrid Multicast Routing Protocol for MANET
+1123153	Virtual surrounding face geocasting in wireless ad hoc and sensor networks
+1126195	Gradient Boundary Detection for Time Series Snapshot Construction in Sensor Networks
+1174391	Universal approximation using incremental constructive feedforward networks with random hidden nodes
+1186012	Sliding-window top-k queries on uncertain streams
+1186026	Privacy preserving serial data publishing by role composition
+1186837	BBS: An Energy Efficient Localized Routing Scheme for Query Processing in Wireless Sensor Networks
+1212386	Efficient anomaly monitoring over moving object trajectory streams
+1224400	Fine-Grained Power Gating Based on the Controlling Value of Logic Elements
+1226965	A generalized adaptive ensemble generation and aggregation approach for multiple classifier systems
+1228058	Efficient processing of probabilistic reverse nearest neighbor queries over uncertain data
+1239403	Efficient join processing on uncertain data streams
+1239466	Effective XML content and structure retrieval with relevance ranking
+1239474	Discovering matching dependencies
+1247382	Gender Recognition from Gait Using Radon Transform and Relevant Component Analysis
+1247961	Multimodal floor control shift detection
+1253152	Local summarization and multi-level LSH for retrieving multi-variant audio tracks
+1254288	Auction-Based Congestion Management for Target Tracking in Wireless Sensor Networks
+1259035	Fast algorithm for large-scale UMTS coverage planning with soft handover consideration
+1261933	Equivalent Relationship of Feedforward Neural Networks and Real-Time Face Detection System
+1271005	Hybrid Neuro-Predictive-Fuzzy Algorithm for a Model Helicopter's Yaw Angle Control
+1276259	A linear-time algorithm for paired-domination problem in strongly chordal graphs
+1281923	General Cost Models for Evaluating Dimensionality Reduction in High-Dimensional Spaces
+1281929	Efficient Processing of Metric Skyline Queries
+1281976	Multiscale Representations for Fast Pattern Matching in Stream Time Series
+1281999	Efficient Similarity Join over Multiple Stream Time Series
+1286977	K-Automorphism: A General Framework For Privacy Preserving Network Publication
+1287003	DistanceJoin: Pattern Match Query In a Large Graph Database
+1297128	Curse of Dimensionality
+1299267	Two-Dimensional Shape Retrieval
+1299532	Video Content Modeling
+1306330	Research of Blind Images Separation Algorithm Based on Kernel Space.
+1312231	An Interference Free Data Aggregation Protocol for Clustered Wireless Sensor Networks.
+1312676	Stereo Vision Based Floor Plane Extraction and Camera Pose Estimation.
+1343040	Distance paired-domination problems on subclasses of chordal graphs.
+1343060	Hardness results and approximation algorithms for (weighted) paired-domination in graphs.
+1391860	Research on Distributed Data Mining Tool Used in Control System
+1411192	The EDAM project: Mining atmospheric aerosol datasets: Research Articles
+1581648	Letters: Convex incremental extreme learning machine
+1589919	Proceedings of the APWeb/WAIM 2007 DBMAN, WebETrends, PAIS and ASWAN international workshops on Advances in Web and Network Technologies, and Information Management
+1594862	Tracking Articulated Hand Underlying Graphical Model with Depth Cue
+1595097	Enhanced random search based incremental extreme learning machine
+1600371	A TCP Based Performance Test Method and Its Application
+1649401	Automatic scoring of children's read-aloud text passages and word lists
+1650019	Improved pronunciation features for construct-driven assessment of non-native spontaneous speech
+1650044	Research on Telerobotic System Based on ARM Core Processor
+1650182	Database Systems for Advanced Applications: DASFAA 2009 International Workshops: BenchmarX, MCIS, WDPP, PPDA, MBC, PhD, Brisbane, Australia, April 20 - 23, 2009
+1653440	Advances in Web and Network Technologies, and Information Management: APWeb/WAIM 2009 International Workshops: WCMT 2009, RTBI 2009, DBIR-ENQOIR 2009, PAIS 2009, Suzhou, China, April 2-4, 2009, Revised Selected Papers
+1656177	Remote equipment monitoring system based on ARM9 and CAN bus
+1708236	Similarity search over time series and trajectory data
+1750448	The Research and Application of Human Detection Based on Support Vector Machine Using in Intelligent Video Surveillance System
+1750792	Design of Main Steam Temperature Cascade Control System Based on Fuzzy Self-Tuning PID Controller

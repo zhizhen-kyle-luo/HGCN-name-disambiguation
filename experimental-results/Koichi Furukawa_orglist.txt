@@ -1,0 +1,10 @@
+32	38	Keio University, 5322 Endo Fujisawa-shi, Kanagawa, Japan	Keio University, Endo 5322, Fujisawa, Kanagawa, Japan
+32	68	Keio University, 5322 Endo Fujisawa-shi, Kanagawa, Japan	Keio University, Japan
+32	72	Keio University, 5322 Endo Fujisawa-shi, Kanagawa, Japan	Keio Univ., Kanagawa, Japan
+32	75	Keio University, 5322 Endo Fujisawa-shi, Kanagawa, Japan	Keio Univ.
+38	68	Keio University, Endo 5322, Fujisawa, Kanagawa, Japan	Keio University, Japan
+38	72	Keio University, Endo 5322, Fujisawa, Kanagawa, Japan	Keio Univ., Kanagawa, Japan
+38	75	Keio University, Endo 5322, Fujisawa, Kanagawa, Japan	Keio Univ.
+68	72	Keio University, Japan	Keio Univ., Kanagawa, Japan
+68	75	Keio University, Japan	Keio Univ.
+72	75	Keio Univ., Kanagawa, Japan	Keio Univ.

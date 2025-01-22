@@ -1,0 +1,96 @@
+0	PACT
+1	COMSWARE
+2	CVPR
+3	CVPR (2)
+4	CVPR (2)
+5	CVPR
+6	CVPR
+7	CVPR (2)
+8	CVPR (2)
+9	CVPR (1)
+10	CVPR
+11	CVPR (1)
+12	CVPR (2)
+13	CVPR (1)
+14	CVPR
+15	CVPR
+16	CVPR
+17	CVPR
+18	CVPR
+19	CVPR
+20	DATE
+21	ECCV (2)
+22	ECCV (3)
+23	Workshop on Human Motion
+24	ICCAD
+25	ICCAD
+26	ICCV
+27	ICCV
+28	ICCV
+29	ICCV
+30	ICCV-HCI
+31	ICCV
+32	Workshop on Vision Algorithms
+33	Workshop on Vision Algorithms
+34	ICIP
+35	ICIP
+36	ICMCS, Vol. 1
+37	ICPR
+38	ICPR (2)
+39	INFOCOM
+40	INFOCOM
+41	INFOCOM
+42	IPDPS
+43	ISCA
+44	ISCA
+45	ISHPC
+46	MICRO
+47	MICRO
+48	MICRO
+49	MICRO
+50	Multimedia Information Retrieval
+51	PerCom Workshops
+52	Rendering Techniques
+53	SIGGRAPH
+54	SIGMETRICS/Performance
+55	SPAA
+56	WEC (5)
+57	Advances in Computers
+58	Computer Architecture Letters
+59	Computer Architecture Letters
+60	IEEE Computer Graphics and Applications
+61	Computer Networks
+62	IEEE Computer
+63	Mach. Vis. Appl.
+64	IEEE Trans. Pattern Anal. Mach. Intell.
+65	IEEE Trans. Pattern Anal. Mach. Intell.
+66	IEEE Trans. Pattern Anal. Mach. Intell.
+67	IEEE Trans. Pattern Anal. Mach. Intell.
+68	IEEE Trans. Pattern Anal. Mach. Intell.
+69	IEEE Trans. Pattern Anal. Mach. Intell.
+70	IEEE Trans. Pattern Anal. Mach. Intell.
+71	SIGARCH Computer Architecture News
+72	SIGMETRICS Performance Evaluation Review
+73	IEEE Trans. Med. Imaging
+74	Microelectronics Reliability
+75	Microelectronics Journal
+76	Microelectronics Journal
+77	Microelectronics Journal
+78	Microelectronics Journal
+79	CASES
+80	DATE
+81	null
+82	null
+83	null
+84	null
+85	null
+86	null
+87	null
+88	null
+89	null
+90	ACM SIGARCH Computer Architecture News
+91	ACM SIGARCH Computer Architecture News
+92	Proceedings of the 4th International Symposium on High Performance Computing
+93	Microelectronic Engineering
+94	null
+95	Proceedings of the IEEE Workshop on Representation of Visual Scenes

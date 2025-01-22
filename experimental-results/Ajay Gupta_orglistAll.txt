@@ -1,0 +1,630 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	IBM India Res. Lab, New Delhi
+0	6	null	null
+0	7	null	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI
+0	8	null	null
+0	9	null	Western Michigan Univ., Kalamazoo
+0	10	null	null
+0	11	null	IBM India Research Laboratory
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+0	16	null	Hewlett-Packard Labs, Bangalore, India
+0	17	null	IBM India Research Lab, New Delhi, India
+0	18	null	HP, Bangalore, India
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	Western Michigan University, Kalamazoo
+0	23	null	Hewlett Packard Labs
+0	24	null	null
+0	25	null	IBM Research, New Delhi, India
+0	26	null	null
+0	27	null	Airtight Networks, Pune, India
+0	28	null	IBM India Research Lab, New Delhi, India 110 070
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	null
+0	33	null	null
+0	34	null	null
+0	35	null	null
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	IBM India Res. Lab, New Delhi
+1	6	null	null
+1	7	null	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI
+1	8	null	null
+1	9	null	Western Michigan Univ., Kalamazoo
+1	10	null	null
+1	11	null	IBM India Research Laboratory
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+1	16	null	Hewlett-Packard Labs, Bangalore, India
+1	17	null	IBM India Research Lab, New Delhi, India
+1	18	null	HP, Bangalore, India
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	Western Michigan University, Kalamazoo
+1	23	null	Hewlett Packard Labs
+1	24	null	null
+1	25	null	IBM Research, New Delhi, India
+1	26	null	null
+1	27	null	Airtight Networks, Pune, India
+1	28	null	IBM India Research Lab, New Delhi, India 110 070
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	null
+1	33	null	null
+1	34	null	null
+1	35	null	null
+2	3	null	null
+2	4	null	null
+2	5	null	IBM India Res. Lab, New Delhi
+2	6	null	null
+2	7	null	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI
+2	8	null	null
+2	9	null	Western Michigan Univ., Kalamazoo
+2	10	null	null
+2	11	null	IBM India Research Laboratory
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+2	16	null	Hewlett-Packard Labs, Bangalore, India
+2	17	null	IBM India Research Lab, New Delhi, India
+2	18	null	HP, Bangalore, India
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	Western Michigan University, Kalamazoo
+2	23	null	Hewlett Packard Labs
+2	24	null	null
+2	25	null	IBM Research, New Delhi, India
+2	26	null	null
+2	27	null	Airtight Networks, Pune, India
+2	28	null	IBM India Research Lab, New Delhi, India 110 070
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	null
+2	33	null	null
+2	34	null	null
+2	35	null	null
+3	4	null	null
+3	5	null	IBM India Res. Lab, New Delhi
+3	6	null	null
+3	7	null	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI
+3	8	null	null
+3	9	null	Western Michigan Univ., Kalamazoo
+3	10	null	null
+3	11	null	IBM India Research Laboratory
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+3	16	null	Hewlett-Packard Labs, Bangalore, India
+3	17	null	IBM India Research Lab, New Delhi, India
+3	18	null	HP, Bangalore, India
+3	19	null	null
+3	20	null	null
+3	21	null	null
+3	22	null	Western Michigan University, Kalamazoo
+3	23	null	Hewlett Packard Labs
+3	24	null	null
+3	25	null	IBM Research, New Delhi, India
+3	26	null	null
+3	27	null	Airtight Networks, Pune, India
+3	28	null	IBM India Research Lab, New Delhi, India 110 070
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	null
+3	33	null	null
+3	34	null	null
+3	35	null	null
+4	5	null	IBM India Res. Lab, New Delhi
+4	6	null	null
+4	7	null	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI
+4	8	null	null
+4	9	null	Western Michigan Univ., Kalamazoo
+4	10	null	null
+4	11	null	IBM India Research Laboratory
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+4	16	null	Hewlett-Packard Labs, Bangalore, India
+4	17	null	IBM India Research Lab, New Delhi, India
+4	18	null	HP, Bangalore, India
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	Western Michigan University, Kalamazoo
+4	23	null	Hewlett Packard Labs
+4	24	null	null
+4	25	null	IBM Research, New Delhi, India
+4	26	null	null
+4	27	null	Airtight Networks, Pune, India
+4	28	null	IBM India Research Lab, New Delhi, India 110 070
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	null
+4	35	null	null
+5	6	IBM India Res. Lab, New Delhi	null
+5	7	IBM India Res. Lab, New Delhi	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI
+5	8	IBM India Res. Lab, New Delhi	null
+5	9	IBM India Res. Lab, New Delhi	Western Michigan Univ., Kalamazoo
+5	10	IBM India Res. Lab, New Delhi	null
+5	11	IBM India Res. Lab, New Delhi	IBM India Research Laboratory
+5	12	IBM India Res. Lab, New Delhi	null
+5	13	IBM India Res. Lab, New Delhi	null
+5	14	IBM India Res. Lab, New Delhi	null
+5	15	IBM India Res. Lab, New Delhi	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+5	16	IBM India Res. Lab, New Delhi	Hewlett-Packard Labs, Bangalore, India
+5	17	IBM India Res. Lab, New Delhi	IBM India Research Lab, New Delhi, India
+5	18	IBM India Res. Lab, New Delhi	HP, Bangalore, India
+5	19	IBM India Res. Lab, New Delhi	null
+5	20	IBM India Res. Lab, New Delhi	null
+5	21	IBM India Res. Lab, New Delhi	null
+5	22	IBM India Res. Lab, New Delhi	Western Michigan University, Kalamazoo
+5	23	IBM India Res. Lab, New Delhi	Hewlett Packard Labs
+5	24	IBM India Res. Lab, New Delhi	null
+5	25	IBM India Res. Lab, New Delhi	IBM Research, New Delhi, India
+5	26	IBM India Res. Lab, New Delhi	null
+5	27	IBM India Res. Lab, New Delhi	Airtight Networks, Pune, India
+5	28	IBM India Res. Lab, New Delhi	IBM India Research Lab, New Delhi, India 110 070
+5	29	IBM India Res. Lab, New Delhi	null
+5	30	IBM India Res. Lab, New Delhi	null
+5	31	IBM India Res. Lab, New Delhi	null
+5	32	IBM India Res. Lab, New Delhi	null
+5	33	IBM India Res. Lab, New Delhi	null
+5	34	IBM India Res. Lab, New Delhi	null
+5	35	IBM India Res. Lab, New Delhi	null
+6	7	null	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI
+6	8	null	null
+6	9	null	Western Michigan Univ., Kalamazoo
+6	10	null	null
+6	11	null	IBM India Research Laboratory
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+6	16	null	Hewlett-Packard Labs, Bangalore, India
+6	17	null	IBM India Research Lab, New Delhi, India
+6	18	null	HP, Bangalore, India
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	Western Michigan University, Kalamazoo
+6	23	null	Hewlett Packard Labs
+6	24	null	null
+6	25	null	IBM Research, New Delhi, India
+6	26	null	null
+6	27	null	Airtight Networks, Pune, India
+6	28	null	IBM India Research Lab, New Delhi, India 110 070
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	null
+6	33	null	null
+6	34	null	null
+6	35	null	null
+7	8	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	9	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	Western Michigan Univ., Kalamazoo
+7	10	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	11	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	IBM India Research Laboratory
+7	12	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	13	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	14	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	15	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+7	16	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	Hewlett-Packard Labs, Bangalore, India
+7	17	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	IBM India Research Lab, New Delhi, India
+7	18	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	HP, Bangalore, India
+7	19	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	20	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	21	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	22	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	Western Michigan University, Kalamazoo
+7	23	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	Hewlett Packard Labs
+7	24	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	25	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	IBM Research, New Delhi, India
+7	26	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	27	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	Airtight Networks, Pune, India
+7	28	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	IBM India Research Lab, New Delhi, India 110 070
+7	29	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	30	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	31	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	32	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	33	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	34	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+7	35	Dept. of Comput. Sci., Western Michigan Univ., Kalamazoo, MI	null
+8	9	null	Western Michigan Univ., Kalamazoo
+8	10	null	null
+8	11	null	IBM India Research Laboratory
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+8	16	null	Hewlett-Packard Labs, Bangalore, India
+8	17	null	IBM India Research Lab, New Delhi, India
+8	18	null	HP, Bangalore, India
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	Western Michigan University, Kalamazoo
+8	23	null	Hewlett Packard Labs
+8	24	null	null
+8	25	null	IBM Research, New Delhi, India
+8	26	null	null
+8	27	null	Airtight Networks, Pune, India
+8	28	null	IBM India Research Lab, New Delhi, India 110 070
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	null
+8	33	null	null
+8	34	null	null
+8	35	null	null
+9	10	Western Michigan Univ., Kalamazoo	null
+9	11	Western Michigan Univ., Kalamazoo	IBM India Research Laboratory
+9	12	Western Michigan Univ., Kalamazoo	null
+9	13	Western Michigan Univ., Kalamazoo	null
+9	14	Western Michigan Univ., Kalamazoo	null
+9	15	Western Michigan Univ., Kalamazoo	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+9	16	Western Michigan Univ., Kalamazoo	Hewlett-Packard Labs, Bangalore, India
+9	17	Western Michigan Univ., Kalamazoo	IBM India Research Lab, New Delhi, India
+9	18	Western Michigan Univ., Kalamazoo	HP, Bangalore, India
+9	19	Western Michigan Univ., Kalamazoo	null
+9	20	Western Michigan Univ., Kalamazoo	null
+9	21	Western Michigan Univ., Kalamazoo	null
+9	22	Western Michigan Univ., Kalamazoo	Western Michigan University, Kalamazoo
+9	23	Western Michigan Univ., Kalamazoo	Hewlett Packard Labs
+9	24	Western Michigan Univ., Kalamazoo	null
+9	25	Western Michigan Univ., Kalamazoo	IBM Research, New Delhi, India
+9	26	Western Michigan Univ., Kalamazoo	null
+9	27	Western Michigan Univ., Kalamazoo	Airtight Networks, Pune, India
+9	28	Western Michigan Univ., Kalamazoo	IBM India Research Lab, New Delhi, India 110 070
+9	29	Western Michigan Univ., Kalamazoo	null
+9	30	Western Michigan Univ., Kalamazoo	null
+9	31	Western Michigan Univ., Kalamazoo	null
+9	32	Western Michigan Univ., Kalamazoo	null
+9	33	Western Michigan Univ., Kalamazoo	null
+9	34	Western Michigan Univ., Kalamazoo	null
+9	35	Western Michigan Univ., Kalamazoo	null
+10	11	null	IBM India Research Laboratory
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+10	16	null	Hewlett-Packard Labs, Bangalore, India
+10	17	null	IBM India Research Lab, New Delhi, India
+10	18	null	HP, Bangalore, India
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	Western Michigan University, Kalamazoo
+10	23	null	Hewlett Packard Labs
+10	24	null	null
+10	25	null	IBM Research, New Delhi, India
+10	26	null	null
+10	27	null	Airtight Networks, Pune, India
+10	28	null	IBM India Research Lab, New Delhi, India 110 070
+10	29	null	null
+10	30	null	null
+10	31	null	null
+10	32	null	null
+10	33	null	null
+10	34	null	null
+10	35	null	null
+11	12	IBM India Research Laboratory	null
+11	13	IBM India Research Laboratory	null
+11	14	IBM India Research Laboratory	null
+11	15	IBM India Research Laboratory	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+11	16	IBM India Research Laboratory	Hewlett-Packard Labs, Bangalore, India
+11	17	IBM India Research Laboratory	IBM India Research Lab, New Delhi, India
+11	18	IBM India Research Laboratory	HP, Bangalore, India
+11	19	IBM India Research Laboratory	null
+11	20	IBM India Research Laboratory	null
+11	21	IBM India Research Laboratory	null
+11	22	IBM India Research Laboratory	Western Michigan University, Kalamazoo
+11	23	IBM India Research Laboratory	Hewlett Packard Labs
+11	24	IBM India Research Laboratory	null
+11	25	IBM India Research Laboratory	IBM Research, New Delhi, India
+11	26	IBM India Research Laboratory	null
+11	27	IBM India Research Laboratory	Airtight Networks, Pune, India
+11	28	IBM India Research Laboratory	IBM India Research Lab, New Delhi, India 110 070
+11	29	IBM India Research Laboratory	null
+11	30	IBM India Research Laboratory	null
+11	31	IBM India Research Laboratory	null
+11	32	IBM India Research Laboratory	null
+11	33	IBM India Research Laboratory	null
+11	34	IBM India Research Laboratory	null
+11	35	IBM India Research Laboratory	null
+12	13	null	null
+12	14	null	null
+12	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+12	16	null	Hewlett-Packard Labs, Bangalore, India
+12	17	null	IBM India Research Lab, New Delhi, India
+12	18	null	HP, Bangalore, India
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	Western Michigan University, Kalamazoo
+12	23	null	Hewlett Packard Labs
+12	24	null	null
+12	25	null	IBM Research, New Delhi, India
+12	26	null	null
+12	27	null	Airtight Networks, Pune, India
+12	28	null	IBM India Research Lab, New Delhi, India 110 070
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	null
+12	33	null	null
+12	34	null	null
+12	35	null	null
+13	14	null	null
+13	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+13	16	null	Hewlett-Packard Labs, Bangalore, India
+13	17	null	IBM India Research Lab, New Delhi, India
+13	18	null	HP, Bangalore, India
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	Western Michigan University, Kalamazoo
+13	23	null	Hewlett Packard Labs
+13	24	null	null
+13	25	null	IBM Research, New Delhi, India
+13	26	null	null
+13	27	null	Airtight Networks, Pune, India
+13	28	null	IBM India Research Lab, New Delhi, India 110 070
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	null
+13	33	null	null
+13	34	null	null
+13	35	null	null
+14	15	null	IBM India Res. Lab., Indian Inst. of Technol., Delhi
+14	16	null	Hewlett-Packard Labs, Bangalore, India
+14	17	null	IBM India Research Lab, New Delhi, India
+14	18	null	HP, Bangalore, India
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	Western Michigan University, Kalamazoo
+14	23	null	Hewlett Packard Labs
+14	24	null	null
+14	25	null	IBM Research, New Delhi, India
+14	26	null	null
+14	27	null	Airtight Networks, Pune, India
+14	28	null	IBM India Research Lab, New Delhi, India 110 070
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	null
+14	33	null	null
+14	34	null	null
+14	35	null	null
+15	16	IBM India Res. Lab., Indian Inst. of Technol., Delhi	Hewlett-Packard Labs, Bangalore, India
+15	17	IBM India Res. Lab., Indian Inst. of Technol., Delhi	IBM India Research Lab, New Delhi, India
+15	18	IBM India Res. Lab., Indian Inst. of Technol., Delhi	HP, Bangalore, India
+15	19	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	20	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	21	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	22	IBM India Res. Lab., Indian Inst. of Technol., Delhi	Western Michigan University, Kalamazoo
+15	23	IBM India Res. Lab., Indian Inst. of Technol., Delhi	Hewlett Packard Labs
+15	24	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	25	IBM India Res. Lab., Indian Inst. of Technol., Delhi	IBM Research, New Delhi, India
+15	26	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	27	IBM India Res. Lab., Indian Inst. of Technol., Delhi	Airtight Networks, Pune, India
+15	28	IBM India Res. Lab., Indian Inst. of Technol., Delhi	IBM India Research Lab, New Delhi, India 110 070
+15	29	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	30	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	31	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	32	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	33	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	34	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+15	35	IBM India Res. Lab., Indian Inst. of Technol., Delhi	null
+16	17	Hewlett-Packard Labs, Bangalore, India	IBM India Research Lab, New Delhi, India
+16	18	Hewlett-Packard Labs, Bangalore, India	HP, Bangalore, India
+16	19	Hewlett-Packard Labs, Bangalore, India	null
+16	20	Hewlett-Packard Labs, Bangalore, India	null
+16	21	Hewlett-Packard Labs, Bangalore, India	null
+16	22	Hewlett-Packard Labs, Bangalore, India	Western Michigan University, Kalamazoo
+16	23	Hewlett-Packard Labs, Bangalore, India	Hewlett Packard Labs
+16	24	Hewlett-Packard Labs, Bangalore, India	null
+16	25	Hewlett-Packard Labs, Bangalore, India	IBM Research, New Delhi, India
+16	26	Hewlett-Packard Labs, Bangalore, India	null
+16	27	Hewlett-Packard Labs, Bangalore, India	Airtight Networks, Pune, India
+16	28	Hewlett-Packard Labs, Bangalore, India	IBM India Research Lab, New Delhi, India 110 070
+16	29	Hewlett-Packard Labs, Bangalore, India	null
+16	30	Hewlett-Packard Labs, Bangalore, India	null
+16	31	Hewlett-Packard Labs, Bangalore, India	null
+16	32	Hewlett-Packard Labs, Bangalore, India	null
+16	33	Hewlett-Packard Labs, Bangalore, India	null
+16	34	Hewlett-Packard Labs, Bangalore, India	null
+16	35	Hewlett-Packard Labs, Bangalore, India	null
+17	18	IBM India Research Lab, New Delhi, India	HP, Bangalore, India
+17	19	IBM India Research Lab, New Delhi, India	null
+17	20	IBM India Research Lab, New Delhi, India	null
+17	21	IBM India Research Lab, New Delhi, India	null
+17	22	IBM India Research Lab, New Delhi, India	Western Michigan University, Kalamazoo
+17	23	IBM India Research Lab, New Delhi, India	Hewlett Packard Labs
+17	24	IBM India Research Lab, New Delhi, India	null
+17	25	IBM India Research Lab, New Delhi, India	IBM Research, New Delhi, India
+17	26	IBM India Research Lab, New Delhi, India	null
+17	27	IBM India Research Lab, New Delhi, India	Airtight Networks, Pune, India
+17	28	IBM India Research Lab, New Delhi, India	IBM India Research Lab, New Delhi, India 110 070
+17	29	IBM India Research Lab, New Delhi, India	null
+17	30	IBM India Research Lab, New Delhi, India	null
+17	31	IBM India Research Lab, New Delhi, India	null
+17	32	IBM India Research Lab, New Delhi, India	null
+17	33	IBM India Research Lab, New Delhi, India	null
+17	34	IBM India Research Lab, New Delhi, India	null
+17	35	IBM India Research Lab, New Delhi, India	null
+18	19	HP, Bangalore, India	null
+18	20	HP, Bangalore, India	null
+18	21	HP, Bangalore, India	null
+18	22	HP, Bangalore, India	Western Michigan University, Kalamazoo
+18	23	HP, Bangalore, India	Hewlett Packard Labs
+18	24	HP, Bangalore, India	null
+18	25	HP, Bangalore, India	IBM Research, New Delhi, India
+18	26	HP, Bangalore, India	null
+18	27	HP, Bangalore, India	Airtight Networks, Pune, India
+18	28	HP, Bangalore, India	IBM India Research Lab, New Delhi, India 110 070
+18	29	HP, Bangalore, India	null
+18	30	HP, Bangalore, India	null
+18	31	HP, Bangalore, India	null
+18	32	HP, Bangalore, India	null
+18	33	HP, Bangalore, India	null
+18	34	HP, Bangalore, India	null
+18	35	HP, Bangalore, India	null
+19	20	null	null
+19	21	null	null
+19	22	null	Western Michigan University, Kalamazoo
+19	23	null	Hewlett Packard Labs
+19	24	null	null
+19	25	null	IBM Research, New Delhi, India
+19	26	null	null
+19	27	null	Airtight Networks, Pune, India
+19	28	null	IBM India Research Lab, New Delhi, India 110 070
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	null
+19	33	null	null
+19	34	null	null
+19	35	null	null
+20	21	null	null
+20	22	null	Western Michigan University, Kalamazoo
+20	23	null	Hewlett Packard Labs
+20	24	null	null
+20	25	null	IBM Research, New Delhi, India
+20	26	null	null
+20	27	null	Airtight Networks, Pune, India
+20	28	null	IBM India Research Lab, New Delhi, India 110 070
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	null
+20	33	null	null
+20	34	null	null
+20	35	null	null
+21	22	null	Western Michigan University, Kalamazoo
+21	23	null	Hewlett Packard Labs
+21	24	null	null
+21	25	null	IBM Research, New Delhi, India
+21	26	null	null
+21	27	null	Airtight Networks, Pune, India
+21	28	null	IBM India Research Lab, New Delhi, India 110 070
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	null
+21	34	null	null
+21	35	null	null
+22	23	Western Michigan University, Kalamazoo	Hewlett Packard Labs
+22	24	Western Michigan University, Kalamazoo	null
+22	25	Western Michigan University, Kalamazoo	IBM Research, New Delhi, India
+22	26	Western Michigan University, Kalamazoo	null
+22	27	Western Michigan University, Kalamazoo	Airtight Networks, Pune, India
+22	28	Western Michigan University, Kalamazoo	IBM India Research Lab, New Delhi, India 110 070
+22	29	Western Michigan University, Kalamazoo	null
+22	30	Western Michigan University, Kalamazoo	null
+22	31	Western Michigan University, Kalamazoo	null
+22	32	Western Michigan University, Kalamazoo	null
+22	33	Western Michigan University, Kalamazoo	null
+22	34	Western Michigan University, Kalamazoo	null
+22	35	Western Michigan University, Kalamazoo	null
+23	24	Hewlett Packard Labs	null
+23	25	Hewlett Packard Labs	IBM Research, New Delhi, India
+23	26	Hewlett Packard Labs	null
+23	27	Hewlett Packard Labs	Airtight Networks, Pune, India
+23	28	Hewlett Packard Labs	IBM India Research Lab, New Delhi, India 110 070
+23	29	Hewlett Packard Labs	null
+23	30	Hewlett Packard Labs	null
+23	31	Hewlett Packard Labs	null
+23	32	Hewlett Packard Labs	null
+23	33	Hewlett Packard Labs	null
+23	34	Hewlett Packard Labs	null
+23	35	Hewlett Packard Labs	null
+24	25	null	IBM Research, New Delhi, India
+24	26	null	null
+24	27	null	Airtight Networks, Pune, India
+24	28	null	IBM India Research Lab, New Delhi, India 110 070
+24	29	null	null
+24	30	null	null
+24	31	null	null
+24	32	null	null
+24	33	null	null
+24	34	null	null
+24	35	null	null
+25	26	IBM Research, New Delhi, India	null
+25	27	IBM Research, New Delhi, India	Airtight Networks, Pune, India
+25	28	IBM Research, New Delhi, India	IBM India Research Lab, New Delhi, India 110 070
+25	29	IBM Research, New Delhi, India	null
+25	30	IBM Research, New Delhi, India	null
+25	31	IBM Research, New Delhi, India	null
+25	32	IBM Research, New Delhi, India	null
+25	33	IBM Research, New Delhi, India	null
+25	34	IBM Research, New Delhi, India	null
+25	35	IBM Research, New Delhi, India	null
+26	27	null	Airtight Networks, Pune, India
+26	28	null	IBM India Research Lab, New Delhi, India 110 070
+26	29	null	null
+26	30	null	null
+26	31	null	null
+26	32	null	null
+26	33	null	null
+26	34	null	null
+26	35	null	null
+27	28	Airtight Networks, Pune, India	IBM India Research Lab, New Delhi, India 110 070
+27	29	Airtight Networks, Pune, India	null
+27	30	Airtight Networks, Pune, India	null
+27	31	Airtight Networks, Pune, India	null
+27	32	Airtight Networks, Pune, India	null
+27	33	Airtight Networks, Pune, India	null
+27	34	Airtight Networks, Pune, India	null
+27	35	Airtight Networks, Pune, India	null
+28	29	IBM India Research Lab, New Delhi, India 110 070	null
+28	30	IBM India Research Lab, New Delhi, India 110 070	null
+28	31	IBM India Research Lab, New Delhi, India 110 070	null
+28	32	IBM India Research Lab, New Delhi, India 110 070	null
+28	33	IBM India Research Lab, New Delhi, India 110 070	null
+28	34	IBM India Research Lab, New Delhi, India 110 070	null
+28	35	IBM India Research Lab, New Delhi, India 110 070	null
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	null
+29	34	null	null
+29	35	null	null
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	null
+30	35	null	null
+31	32	null	null
+31	33	null	null
+31	34	null	null
+31	35	null	null
+32	33	null	null
+32	34	null	null
+32	35	null	null
+33	34	null	null
+33	35	null	null
+34	35	null	null

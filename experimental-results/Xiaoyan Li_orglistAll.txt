@@ -1,0 +1,528 @@
+0	1	null	University of Massachusetts, MA
+0	2	null	null
+0	3	null	University of Massachusetts, Amherst, MA
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+0	10	null	Rutgers University, Pisacataway, NJ
+0	11	null	null
+0	12	null	Rutgers University, Piscataway, NJ
+0	13	null	Lafayette College
+0	14	null	University of Massachusetts Amherst, MA
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+0	19	null	null
+0	20	null	Zhejiang University, Hangzhou, China
+0	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+0	22	null	null
+0	23	null	null
+0	24	null	null
+0	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+0	26	null	Zhejing University , HangZhou
+0	27	null	Lafayette College, Easton, PA
+0	28	null	null
+0	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+0	30	null	null
+0	31	null	University of Massachusetts, Amherst, MA
+0	32	null	Rutgers University, Piscataway, NJ
+1	2	University of Massachusetts, MA	null
+1	3	University of Massachusetts, MA	University of Massachusetts, Amherst, MA
+1	4	University of Massachusetts, MA	null
+1	5	University of Massachusetts, MA	null
+1	6	University of Massachusetts, MA	null
+1	7	University of Massachusetts, MA	null
+1	8	University of Massachusetts, MA	null
+1	9	University of Massachusetts, MA	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+1	10	University of Massachusetts, MA	Rutgers University, Pisacataway, NJ
+1	11	University of Massachusetts, MA	null
+1	12	University of Massachusetts, MA	Rutgers University, Piscataway, NJ
+1	13	University of Massachusetts, MA	Lafayette College
+1	14	University of Massachusetts, MA	University of Massachusetts Amherst, MA
+1	15	University of Massachusetts, MA	null
+1	16	University of Massachusetts, MA	null
+1	17	University of Massachusetts, MA	null
+1	18	University of Massachusetts, MA	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+1	19	University of Massachusetts, MA	null
+1	20	University of Massachusetts, MA	Zhejiang University, Hangzhou, China
+1	21	University of Massachusetts, MA	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+1	22	University of Massachusetts, MA	null
+1	23	University of Massachusetts, MA	null
+1	24	University of Massachusetts, MA	null
+1	25	University of Massachusetts, MA	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+1	26	University of Massachusetts, MA	Zhejing University , HangZhou
+1	27	University of Massachusetts, MA	Lafayette College, Easton, PA
+1	28	University of Massachusetts, MA	null
+1	29	University of Massachusetts, MA	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+1	30	University of Massachusetts, MA	null
+1	31	University of Massachusetts, MA	University of Massachusetts, Amherst, MA
+1	32	University of Massachusetts, MA	Rutgers University, Piscataway, NJ
+2	3	null	University of Massachusetts, Amherst, MA
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+2	10	null	Rutgers University, Pisacataway, NJ
+2	11	null	null
+2	12	null	Rutgers University, Piscataway, NJ
+2	13	null	Lafayette College
+2	14	null	University of Massachusetts Amherst, MA
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+2	19	null	null
+2	20	null	Zhejiang University, Hangzhou, China
+2	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+2	22	null	null
+2	23	null	null
+2	24	null	null
+2	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+2	26	null	Zhejing University , HangZhou
+2	27	null	Lafayette College, Easton, PA
+2	28	null	null
+2	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+2	30	null	null
+2	31	null	University of Massachusetts, Amherst, MA
+2	32	null	Rutgers University, Piscataway, NJ
+3	4	University of Massachusetts, Amherst, MA	null
+3	5	University of Massachusetts, Amherst, MA	null
+3	6	University of Massachusetts, Amherst, MA	null
+3	7	University of Massachusetts, Amherst, MA	null
+3	8	University of Massachusetts, Amherst, MA	null
+3	9	University of Massachusetts, Amherst, MA	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+3	10	University of Massachusetts, Amherst, MA	Rutgers University, Pisacataway, NJ
+3	11	University of Massachusetts, Amherst, MA	null
+3	12	University of Massachusetts, Amherst, MA	Rutgers University, Piscataway, NJ
+3	13	University of Massachusetts, Amherst, MA	Lafayette College
+3	14	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, MA
+3	15	University of Massachusetts, Amherst, MA	null
+3	16	University of Massachusetts, Amherst, MA	null
+3	17	University of Massachusetts, Amherst, MA	null
+3	18	University of Massachusetts, Amherst, MA	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+3	19	University of Massachusetts, Amherst, MA	null
+3	20	University of Massachusetts, Amherst, MA	Zhejiang University, Hangzhou, China
+3	21	University of Massachusetts, Amherst, MA	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+3	22	University of Massachusetts, Amherst, MA	null
+3	23	University of Massachusetts, Amherst, MA	null
+3	24	University of Massachusetts, Amherst, MA	null
+3	25	University of Massachusetts, Amherst, MA	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+3	26	University of Massachusetts, Amherst, MA	Zhejing University , HangZhou
+3	27	University of Massachusetts, Amherst, MA	Lafayette College, Easton, PA
+3	28	University of Massachusetts, Amherst, MA	null
+3	29	University of Massachusetts, Amherst, MA	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+3	30	University of Massachusetts, Amherst, MA	null
+3	31	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+3	32	University of Massachusetts, Amherst, MA	Rutgers University, Piscataway, NJ
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+4	10	null	Rutgers University, Pisacataway, NJ
+4	11	null	null
+4	12	null	Rutgers University, Piscataway, NJ
+4	13	null	Lafayette College
+4	14	null	University of Massachusetts Amherst, MA
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+4	19	null	null
+4	20	null	Zhejiang University, Hangzhou, China
+4	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+4	22	null	null
+4	23	null	null
+4	24	null	null
+4	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+4	26	null	Zhejing University , HangZhou
+4	27	null	Lafayette College, Easton, PA
+4	28	null	null
+4	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+4	30	null	null
+4	31	null	University of Massachusetts, Amherst, MA
+4	32	null	Rutgers University, Piscataway, NJ
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+5	10	null	Rutgers University, Pisacataway, NJ
+5	11	null	null
+5	12	null	Rutgers University, Piscataway, NJ
+5	13	null	Lafayette College
+5	14	null	University of Massachusetts Amherst, MA
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+5	19	null	null
+5	20	null	Zhejiang University, Hangzhou, China
+5	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+5	22	null	null
+5	23	null	null
+5	24	null	null
+5	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+5	26	null	Zhejing University , HangZhou
+5	27	null	Lafayette College, Easton, PA
+5	28	null	null
+5	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+5	30	null	null
+5	31	null	University of Massachusetts, Amherst, MA
+5	32	null	Rutgers University, Piscataway, NJ
+6	7	null	null
+6	8	null	null
+6	9	null	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+6	10	null	Rutgers University, Pisacataway, NJ
+6	11	null	null
+6	12	null	Rutgers University, Piscataway, NJ
+6	13	null	Lafayette College
+6	14	null	University of Massachusetts Amherst, MA
+6	15	null	null
+6	16	null	null
+6	17	null	null
+6	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+6	19	null	null
+6	20	null	Zhejiang University, Hangzhou, China
+6	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+6	22	null	null
+6	23	null	null
+6	24	null	null
+6	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+6	26	null	Zhejing University , HangZhou
+6	27	null	Lafayette College, Easton, PA
+6	28	null	null
+6	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+6	30	null	null
+6	31	null	University of Massachusetts, Amherst, MA
+6	32	null	Rutgers University, Piscataway, NJ
+7	8	null	null
+7	9	null	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+7	10	null	Rutgers University, Pisacataway, NJ
+7	11	null	null
+7	12	null	Rutgers University, Piscataway, NJ
+7	13	null	Lafayette College
+7	14	null	University of Massachusetts Amherst, MA
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+7	19	null	null
+7	20	null	Zhejiang University, Hangzhou, China
+7	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+7	22	null	null
+7	23	null	null
+7	24	null	null
+7	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+7	26	null	Zhejing University , HangZhou
+7	27	null	Lafayette College, Easton, PA
+7	28	null	null
+7	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+7	30	null	null
+7	31	null	University of Massachusetts, Amherst, MA
+7	32	null	Rutgers University, Piscataway, NJ
+8	9	null	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858
+8	10	null	Rutgers University, Pisacataway, NJ
+8	11	null	null
+8	12	null	Rutgers University, Piscataway, NJ
+8	13	null	Lafayette College
+8	14	null	University of Massachusetts Amherst, MA
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+8	19	null	null
+8	20	null	Zhejiang University, Hangzhou, China
+8	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+8	22	null	null
+8	23	null	null
+8	24	null	null
+8	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+8	26	null	Zhejing University , HangZhou
+8	27	null	Lafayette College, Easton, PA
+8	28	null	null
+8	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+8	30	null	null
+8	31	null	University of Massachusetts, Amherst, MA
+8	32	null	Rutgers University, Piscataway, NJ
+9	10	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Rutgers University, Pisacataway, NJ
+9	11	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	12	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Rutgers University, Piscataway, NJ
+9	13	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Lafayette College
+9	14	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	University of Massachusetts Amherst, MA
+9	15	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	16	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	17	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	18	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+9	19	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	20	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Zhejiang University, Hangzhou, China
+9	21	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+9	22	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	23	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	24	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	25	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+9	26	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Zhejing University , HangZhou
+9	27	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Lafayette College, Easton, PA
+9	28	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	29	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+9	30	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	null
+9	31	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	University of Massachusetts, Amherst, MA
+9	32	Academy of Armored Force Engineering Department of Information Engineering, Beijing, China 100858	Rutgers University, Piscataway, NJ
+10	11	Rutgers University, Pisacataway, NJ	null
+10	12	Rutgers University, Pisacataway, NJ	Rutgers University, Piscataway, NJ
+10	13	Rutgers University, Pisacataway, NJ	Lafayette College
+10	14	Rutgers University, Pisacataway, NJ	University of Massachusetts Amherst, MA
+10	15	Rutgers University, Pisacataway, NJ	null
+10	16	Rutgers University, Pisacataway, NJ	null
+10	17	Rutgers University, Pisacataway, NJ	null
+10	18	Rutgers University, Pisacataway, NJ	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+10	19	Rutgers University, Pisacataway, NJ	null
+10	20	Rutgers University, Pisacataway, NJ	Zhejiang University, Hangzhou, China
+10	21	Rutgers University, Pisacataway, NJ	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+10	22	Rutgers University, Pisacataway, NJ	null
+10	23	Rutgers University, Pisacataway, NJ	null
+10	24	Rutgers University, Pisacataway, NJ	null
+10	25	Rutgers University, Pisacataway, NJ	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+10	26	Rutgers University, Pisacataway, NJ	Zhejing University , HangZhou
+10	27	Rutgers University, Pisacataway, NJ	Lafayette College, Easton, PA
+10	28	Rutgers University, Pisacataway, NJ	null
+10	29	Rutgers University, Pisacataway, NJ	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+10	30	Rutgers University, Pisacataway, NJ	null
+10	31	Rutgers University, Pisacataway, NJ	University of Massachusetts, Amherst, MA
+10	32	Rutgers University, Pisacataway, NJ	Rutgers University, Piscataway, NJ
+11	12	null	Rutgers University, Piscataway, NJ
+11	13	null	Lafayette College
+11	14	null	University of Massachusetts Amherst, MA
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+11	19	null	null
+11	20	null	Zhejiang University, Hangzhou, China
+11	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+11	22	null	null
+11	23	null	null
+11	24	null	null
+11	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+11	26	null	Zhejing University , HangZhou
+11	27	null	Lafayette College, Easton, PA
+11	28	null	null
+11	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+11	30	null	null
+11	31	null	University of Massachusetts, Amherst, MA
+11	32	null	Rutgers University, Piscataway, NJ
+12	13	Rutgers University, Piscataway, NJ	Lafayette College
+12	14	Rutgers University, Piscataway, NJ	University of Massachusetts Amherst, MA
+12	15	Rutgers University, Piscataway, NJ	null
+12	16	Rutgers University, Piscataway, NJ	null
+12	17	Rutgers University, Piscataway, NJ	null
+12	18	Rutgers University, Piscataway, NJ	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+12	19	Rutgers University, Piscataway, NJ	null
+12	20	Rutgers University, Piscataway, NJ	Zhejiang University, Hangzhou, China
+12	21	Rutgers University, Piscataway, NJ	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+12	22	Rutgers University, Piscataway, NJ	null
+12	23	Rutgers University, Piscataway, NJ	null
+12	24	Rutgers University, Piscataway, NJ	null
+12	25	Rutgers University, Piscataway, NJ	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+12	26	Rutgers University, Piscataway, NJ	Zhejing University , HangZhou
+12	27	Rutgers University, Piscataway, NJ	Lafayette College, Easton, PA
+12	28	Rutgers University, Piscataway, NJ	null
+12	29	Rutgers University, Piscataway, NJ	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+12	30	Rutgers University, Piscataway, NJ	null
+12	31	Rutgers University, Piscataway, NJ	University of Massachusetts, Amherst, MA
+12	32	Rutgers University, Piscataway, NJ	Rutgers University, Piscataway, NJ
+13	14	Lafayette College	University of Massachusetts Amherst, MA
+13	15	Lafayette College	null
+13	16	Lafayette College	null
+13	17	Lafayette College	null
+13	18	Lafayette College	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+13	19	Lafayette College	null
+13	20	Lafayette College	Zhejiang University, Hangzhou, China
+13	21	Lafayette College	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+13	22	Lafayette College	null
+13	23	Lafayette College	null
+13	24	Lafayette College	null
+13	25	Lafayette College	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+13	26	Lafayette College	Zhejing University , HangZhou
+13	27	Lafayette College	Lafayette College, Easton, PA
+13	28	Lafayette College	null
+13	29	Lafayette College	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+13	30	Lafayette College	null
+13	31	Lafayette College	University of Massachusetts, Amherst, MA
+13	32	Lafayette College	Rutgers University, Piscataway, NJ
+14	15	University of Massachusetts Amherst, MA	null
+14	16	University of Massachusetts Amherst, MA	null
+14	17	University of Massachusetts Amherst, MA	null
+14	18	University of Massachusetts Amherst, MA	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+14	19	University of Massachusetts Amherst, MA	null
+14	20	University of Massachusetts Amherst, MA	Zhejiang University, Hangzhou, China
+14	21	University of Massachusetts Amherst, MA	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+14	22	University of Massachusetts Amherst, MA	null
+14	23	University of Massachusetts Amherst, MA	null
+14	24	University of Massachusetts Amherst, MA	null
+14	25	University of Massachusetts Amherst, MA	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+14	26	University of Massachusetts Amherst, MA	Zhejing University , HangZhou
+14	27	University of Massachusetts Amherst, MA	Lafayette College, Easton, PA
+14	28	University of Massachusetts Amherst, MA	null
+14	29	University of Massachusetts Amherst, MA	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+14	30	University of Massachusetts Amherst, MA	null
+14	31	University of Massachusetts Amherst, MA	University of Massachusetts, Amherst, MA
+14	32	University of Massachusetts Amherst, MA	Rutgers University, Piscataway, NJ
+15	16	null	null
+15	17	null	null
+15	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+15	19	null	null
+15	20	null	Zhejiang University, Hangzhou, China
+15	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+15	22	null	null
+15	23	null	null
+15	24	null	null
+15	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+15	26	null	Zhejing University , HangZhou
+15	27	null	Lafayette College, Easton, PA
+15	28	null	null
+15	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+15	30	null	null
+15	31	null	University of Massachusetts, Amherst, MA
+15	32	null	Rutgers University, Piscataway, NJ
+16	17	null	null
+16	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+16	19	null	null
+16	20	null	Zhejiang University, Hangzhou, China
+16	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+16	22	null	null
+16	23	null	null
+16	24	null	null
+16	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+16	26	null	Zhejing University , HangZhou
+16	27	null	Lafayette College, Easton, PA
+16	28	null	null
+16	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+16	30	null	null
+16	31	null	University of Massachusetts, Amherst, MA
+16	32	null	Rutgers University, Piscataway, NJ
+17	18	null	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770
+17	19	null	null
+17	20	null	Zhejiang University, Hangzhou, China
+17	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+17	22	null	null
+17	23	null	null
+17	24	null	null
+17	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+17	26	null	Zhejing University , HangZhou
+17	27	null	Lafayette College, Easton, PA
+17	28	null	null
+17	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+17	30	null	null
+17	31	null	University of Massachusetts, Amherst, MA
+17	32	null	Rutgers University, Piscataway, NJ
+18	19	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	null
+18	20	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	Zhejiang University, Hangzhou, China
+18	21	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+18	22	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	null
+18	23	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	null
+18	24	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	null
+18	25	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+18	26	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	Zhejing University , HangZhou
+18	27	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	Lafayette College, Easton, PA
+18	28	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	null
+18	29	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+18	30	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	null
+18	31	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	University of Massachusetts, Amherst, MA
+18	32	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	Rutgers University, Piscataway, NJ
+19	20	null	Zhejiang University, Hangzhou, China
+19	21	null	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+19	22	null	null
+19	23	null	null
+19	24	null	null
+19	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+19	26	null	Zhejing University , HangZhou
+19	27	null	Lafayette College, Easton, PA
+19	28	null	null
+19	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+19	30	null	null
+19	31	null	University of Massachusetts, Amherst, MA
+19	32	null	Rutgers University, Piscataway, NJ
+20	21	Zhejiang University, Hangzhou, China	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070
+20	22	Zhejiang University, Hangzhou, China	null
+20	23	Zhejiang University, Hangzhou, China	null
+20	24	Zhejiang University, Hangzhou, China	null
+20	25	Zhejiang University, Hangzhou, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+20	26	Zhejiang University, Hangzhou, China	Zhejing University , HangZhou
+20	27	Zhejiang University, Hangzhou, China	Lafayette College, Easton, PA
+20	28	Zhejiang University, Hangzhou, China	null
+20	29	Zhejiang University, Hangzhou, China	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+20	30	Zhejiang University, Hangzhou, China	null
+20	31	Zhejiang University, Hangzhou, China	University of Massachusetts, Amherst, MA
+20	32	Zhejiang University, Hangzhou, China	Rutgers University, Piscataway, NJ
+21	22	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	null
+21	23	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	null
+21	24	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	null
+21	25	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+21	26	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	Zhejing University , HangZhou
+21	27	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	Lafayette College, Easton, PA
+21	28	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	null
+21	29	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+21	30	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	null
+21	31	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	University of Massachusetts, Amherst, MA
+21	32	Computer Science and Technology School, Wuhan University of Technology, Wuhan, China 430070	Rutgers University, Piscataway, NJ
+22	23	null	null
+22	24	null	null
+22	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+22	26	null	Zhejing University , HangZhou
+22	27	null	Lafayette College, Easton, PA
+22	28	null	null
+22	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+22	30	null	null
+22	31	null	University of Massachusetts, Amherst, MA
+22	32	null	Rutgers University, Piscataway, NJ
+23	24	null	null
+23	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+23	26	null	Zhejing University , HangZhou
+23	27	null	Lafayette College, Easton, PA
+23	28	null	null
+23	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+23	30	null	null
+23	31	null	University of Massachusetts, Amherst, MA
+23	32	null	Rutgers University, Piscataway, NJ
+24	25	null	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+24	26	null	Zhejing University , HangZhou
+24	27	null	Lafayette College, Easton, PA
+24	28	null	null
+24	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+24	30	null	null
+24	31	null	University of Massachusetts, Amherst, MA
+24	32	null	Rutgers University, Piscataway, NJ
+25	26	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Zhejing University , HangZhou
+25	27	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Lafayette College, Easton, PA
+25	28	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	null
+25	29	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+25	30	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	null
+25	31	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	University of Massachusetts, Amherst, MA
+25	32	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Rutgers University, Piscataway, NJ
+26	27	Zhejing University , HangZhou	Lafayette College, Easton, PA
+26	28	Zhejing University , HangZhou	null
+26	29	Zhejing University , HangZhou	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+26	30	Zhejing University , HangZhou	null
+26	31	Zhejing University , HangZhou	University of Massachusetts, Amherst, MA
+26	32	Zhejing University , HangZhou	Rutgers University, Piscataway, NJ
+27	28	Lafayette College, Easton, PA	null
+27	29	Lafayette College, Easton, PA	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+27	30	Lafayette College, Easton, PA	null
+27	31	Lafayette College, Easton, PA	University of Massachusetts, Amherst, MA
+27	32	Lafayette College, Easton, PA	Rutgers University, Piscataway, NJ
+28	29	null	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+28	30	null	null
+28	31	null	University of Massachusetts, Amherst, MA
+28	32	null	Rutgers University, Piscataway, NJ
+29	30	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA	null
+29	31	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA	University of Massachusetts, Amherst, MA
+29	32	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA	Rutgers University, Piscataway, NJ
+30	31	null	University of Massachusetts, Amherst, MA
+30	32	null	Rutgers University, Piscataway, NJ
+31	32	University of Massachusetts, Amherst, MA	Rutgers University, Piscataway, NJ

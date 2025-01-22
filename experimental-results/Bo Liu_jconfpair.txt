@@ -1,0 +1,48 @@
+0	1	CGIV	CGIV
+0	2	CGIV	CGIV
+0	3	CGIV	CGIV
+1	2	CGIV	CGIV
+1	3	CGIV	CGIV
+2	3	CGIV	CGIV
+4	5	AINA	AINA
+15	17	GCC (1)	GCC (1)
+15	19	GCC (1)	GCC
+16	18	GCC Workshops	GCC Workshops
+16	19	GCC Workshops	GCC
+17	19	GCC (1)	GCC
+18	19	GCC Workshops	GCC
+23	24	International Conference on Computational Science (2)	International Conference on Computational Science (2)
+23	25	International Conference on Computational Science (2)	International Conference on Computational Science (3)
+24	25	International Conference on Computational Science (2)	International Conference on Computational Science (3)
+28	29	ICIC (2)	ICIC (2)
+33	34	ISBI	ISBI
+33	35	ISBI	ISBI
+33	36	ISBI	ISBI
+34	35	ISBI	ISBI
+34	36	ISBI	ISBI
+35	36	ISBI	ISBI
+37	38	ISCAS	ISCAS
+40	41	ISNN (1)	ISNN (1)
+40	42	ISNN (1)	ISNN (1)
+41	42	ISNN (1)	ISNN (1)
+43	44	ISNN (3)	ISNN (3)
+53	54	IEEE Congress on Evolutionary Computation	IEEE Congress on Evolutionary Computation
+55	92	ISICA	ISICA
+59	60	ICYCS	ICYCS
+59	61	ICYCS	ICYCS
+60	61	ICYCS	ICYCS
+67	68	International Journal of Computational Engineering Science	International Journal of Computational Engineering Science
+69	70	Journal of Computational Chemistry	Journal of Computational Chemistry
+69	71	Journal of Computational Chemistry	Journal of Computational Chemistry
+69	72	Journal of Computational Chemistry	Journal of Computational Chemistry
+70	71	Journal of Computational Chemistry	Journal of Computational Chemistry
+70	72	Journal of Computational Chemistry	Journal of Computational Chemistry
+71	72	Journal of Computational Chemistry	Journal of Computational Chemistry
+76	77	IEEE Transactions on Systems, Man, and Cybernetics, Part B	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+84	85	IEEE Transactions on Neural Networks	IEEE Transactions on Neural Networks
+87	88	Advanced Information Processing	Advanced Information Processing
+110	111	Proceedings of the 2008 International Conference on Advanced Infocomm Technology	Proceedings of the 2008 International Conference on Advanced Infocomm Technology
+114	116	Proceedings of the Third International Conference on Natural Computation - Volume 04	Proceedings of the Third International Conference on Natural Computation - Volume 03
+119	120	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 04	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01
+119	121	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 04	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01
+120	121	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01

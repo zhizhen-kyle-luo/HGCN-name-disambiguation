@@ -1,0 +1,14 @@
+1	2	CHI 95 Conference Companion	CHI Conference Companion
+3	4	Intelligent Tutoring Systems	Intelligent Tutoring Systems
+6	7	SIGIR	SIGIR
+6	8	SIGIR	SIGIR
+7	8	SIGIR	SIGIR
+10	11	International Journal of Man-Machine Studies	International Journal of Man-Machine Studies
+10	12	International Journal of Man-Machine Studies	International Journal of Man-Machine Studies
+10	30	International Journal of Man-Machine Studies	International Journal of Man-Machine Studies
+11	12	International Journal of Man-Machine Studies	International Journal of Man-Machine Studies
+11	30	International Journal of Man-Machine Studies	International Journal of Man-Machine Studies
+12	30	International Journal of Man-Machine Studies	International Journal of Man-Machine Studies
+16	17	Proceedings of the 1996 international conference on Learning sciences	Proceedings of the 1996 international conference on Learning sciences
+16	18	Proceedings of the 1996 international conference on Learning sciences	Proceedings of the 1996 international conference on Learning sciences
+17	18	Proceedings of the 1996 international conference on Learning sciences	Proceedings of the 1996 international conference on Learning sciences

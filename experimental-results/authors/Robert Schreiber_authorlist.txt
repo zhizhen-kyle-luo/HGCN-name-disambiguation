@@ -1,0 +1,258 @@
+0	20	Dennis Wilkinson	Dennis Wilkinson
+2	5	B. Ramakrishna Rau	B. Ramakrishna Rau
+2	24	Shail Aditya	Shail Aditya
+2	24	B. Ramakrishna Rau	B. Ramakrishna Rau
+2	24	Vinod Kathail	Vinod Kathail
+2	33	Scott A. Mahlke	Scott A. Mahlke
+2	34	B. Ramakrishna Rau	B. Ramakrishna Rau
+2	37	Shail Aditya	Shail Aditya
+2	37	B. Ramakrishna Rau	B. Ramakrishna Rau
+2	37	Vinod Kathail	Vinod Kathail
+2	37	Scott A. Mahlke	Scott A. Mahlke
+3	5	Alain Darte	Alain Darte
+3	13	Alain Darte	Alain Darte
+3	32	Alain Darte	Alain Darte
+3	32	Gilles Villard	Gilles Villard
+3	34	Alain Darte	Alain Darte
+5	13	Alain Darte	Alain Darte
+5	24	B. Ramakrishna Rau	B. Ramakrishna Rau
+5	32	Alain Darte	Alain Darte
+5	34	Alain Darte	Alain Darte
+5	34	B. Ramakrishna Rau	B. Ramakrishna Rau
+5	34	Frederic Vivien	Frederic Vivien
+5	37	B. Ramakrishna Rau	B. Ramakrishna Rau
+7	39	Dana Vantrease	Dana Vantrease
+7	39	Nathan L. Binkert	Nathan L. Binkert
+8	9	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	9	John R. Gilbert	John R. Gilbert
+8	10	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	10	John R. Gilbert	John R. Gilbert
+8	11	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	11	John R. Gilbert	John R. Gilbert
+8	12	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	12	John R. Gilbert	John R. Gilbert
+8	14	John R. Gilbert	John R. Gilbert
+8	18	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	18	John R. Gilbert	John R. Gilbert
+8	27	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	27	John R. Gilbert	John R. Gilbert
+8	28	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	28	John R. Gilbert	John R. Gilbert
+8	29	John R. Gilbert	John R. Gilbert
+8	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	35	John R. Gilbert	John R. Gilbert
+8	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	47	John R. Gilbert	John R. Gilbert
+8	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	48	John R. Gilbert	John R. Gilbert
+8	53	John R. Gilbert	John R. Gilbert
+8	56	John R. Gilbert	John R. Gilbert
+8	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+8	57	John R. Gilbert	John R. Gilbert
+9	10	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	10	Thomas J. Sheffler	Thomas J. Sheffler
+9	10	John R. Gilbert	John R. Gilbert
+9	11	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	11	John R. Gilbert	John R. Gilbert
+9	12	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	12	John R. Gilbert	John R. Gilbert
+9	14	John R. Gilbert	John R. Gilbert
+9	18	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	18	John R. Gilbert	John R. Gilbert
+9	27	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	27	John R. Gilbert	John R. Gilbert
+9	28	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	28	Thomas J. Sheffler	Thomas J. Sheffler
+9	28	John R. Gilbert	John R. Gilbert
+9	29	John R. Gilbert	John R. Gilbert
+9	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	35	John R. Gilbert	John R. Gilbert
+9	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	47	John R. Gilbert	John R. Gilbert
+9	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	48	John R. Gilbert	John R. Gilbert
+9	53	John R. Gilbert	John R. Gilbert
+9	56	John R. Gilbert	John R. Gilbert
+9	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+9	57	John R. Gilbert	John R. Gilbert
+10	11	John R. Gilbert	John R. Gilbert
+10	11	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	12	John R. Gilbert	John R. Gilbert
+10	12	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	14	John R. Gilbert	John R. Gilbert
+10	18	John R. Gilbert	John R. Gilbert
+10	18	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	27	John R. Gilbert	John R. Gilbert
+10	27	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	28	Thomas J. Sheffler	Thomas J. Sheffler
+10	28	John R. Gilbert	John R. Gilbert
+10	28	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	29	John R. Gilbert	John R. Gilbert
+10	35	John R. Gilbert	John R. Gilbert
+10	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	47	John R. Gilbert	John R. Gilbert
+10	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	48	John R. Gilbert	John R. Gilbert
+10	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+10	53	John R. Gilbert	John R. Gilbert
+10	56	John R. Gilbert	John R. Gilbert
+10	57	John R. Gilbert	John R. Gilbert
+10	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	12	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	12	John R. Gilbert	John R. Gilbert
+11	12	Shang-Hua Teng	Shang-Hua Teng
+11	14	John R. Gilbert	John R. Gilbert
+11	18	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	18	John R. Gilbert	John R. Gilbert
+11	27	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	27	John R. Gilbert	John R. Gilbert
+11	27	Shang-Hua Teng	Shang-Hua Teng
+11	28	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	28	John R. Gilbert	John R. Gilbert
+11	29	John R. Gilbert	John R. Gilbert
+11	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	35	John R. Gilbert	John R. Gilbert
+11	35	Shang-Hua Teng	Shang-Hua Teng
+11	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	47	John R. Gilbert	John R. Gilbert
+11	47	Shang-Hua Teng	Shang-Hua Teng
+11	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	48	John R. Gilbert	John R. Gilbert
+11	48	Shang-Hua Teng	Shang-Hua Teng
+11	53	John R. Gilbert	John R. Gilbert
+11	56	John R. Gilbert	John R. Gilbert
+11	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+11	57	John R. Gilbert	John R. Gilbert
+11	57	Shang-Hua Teng	Shang-Hua Teng
+12	14	John R. Gilbert	John R. Gilbert
+12	18	Siddhartha Chatterjee	Siddhartha Chatterjee
+12	18	John R. Gilbert	John R. Gilbert
+12	27	Siddhartha Chatterjee	Siddhartha Chatterjee
+12	27	John R. Gilbert	John R. Gilbert
+12	27	Fred J. E. Long	Fred J. E. Long
+12	27	Shang-Hua Teng	Shang-Hua Teng
+12	28	Siddhartha Chatterjee	Siddhartha Chatterjee
+12	28	John R. Gilbert	John R. Gilbert
+12	29	John R. Gilbert	John R. Gilbert
+12	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+12	35	John R. Gilbert	John R. Gilbert
+12	35	Shang-Hua Teng	Shang-Hua Teng
+12	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+12	47	John R. Gilbert	John R. Gilbert
+12	47	Shang-Hua Teng	Shang-Hua Teng
+12	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+12	48	John R. Gilbert	John R. Gilbert
+12	48	Fred J. E. Long	Fred J. E. Long
+12	48	Shang-Hua Teng	Shang-Hua Teng
+12	53	John R. Gilbert	John R. Gilbert
+12	56	John R. Gilbert	John R. Gilbert
+12	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+12	57	John R. Gilbert	John R. Gilbert
+12	57	Fred J. E. Long	Fred J. E. Long
+12	57	Shang-Hua Teng	Shang-Hua Teng
+13	32	Alain Darte	Alain Darte
+13	34	Alain Darte	Alain Darte
+14	18	John R. Gilbert	John R. Gilbert
+14	27	John R. Gilbert	John R. Gilbert
+14	28	John R. Gilbert	John R. Gilbert
+14	29	John R. Gilbert	John R. Gilbert
+14	35	John R. Gilbert	John R. Gilbert
+14	47	John R. Gilbert	John R. Gilbert
+14	48	John R. Gilbert	John R. Gilbert
+14	53	John R. Gilbert	John R. Gilbert
+14	56	John R. Gilbert	John R. Gilbert
+14	57	John R. Gilbert	John R. Gilbert
+15	19	Edward Rothberg	Edward Rothberg
+15	50	Edward Rothberg	Edward Rothberg
+16	21	Robert Endre Tarjan	Robert Endre Tarjan
+17	55	Horst D. Simon	Horst D. Simon
+18	27	Siddhartha Chatterjee	Siddhartha Chatterjee
+18	27	John R. Gilbert	John R. Gilbert
+18	28	Siddhartha Chatterjee	Siddhartha Chatterjee
+18	28	John R. Gilbert	John R. Gilbert
+18	29	John R. Gilbert	John R. Gilbert
+18	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+18	35	John R. Gilbert	John R. Gilbert
+18	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+18	47	John R. Gilbert	John R. Gilbert
+18	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+18	48	John R. Gilbert	John R. Gilbert
+18	53	John R. Gilbert	John R. Gilbert
+18	56	John R. Gilbert	John R. Gilbert
+18	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+18	57	John R. Gilbert	John R. Gilbert
+19	50	Edward Rothberg	Edward Rothberg
+23	45	Wei-Pai Tang	Wei-Pai Tang
+24	34	B. Ramakrishna Rau	B. Ramakrishna Rau
+24	37	Vinod Kathail	Vinod Kathail
+24	37	Shail Aditya	Shail Aditya
+24	37	B. Ramakrishna Rau	B. Ramakrishna Rau
+24	37	Darren C. Cronquist	Darren C. Cronquist
+24	37	Mukund Sivaraman	Mukund Sivaraman
+27	28	Siddhartha Chatterjee	Siddhartha Chatterjee
+27	28	John R. Gilbert	John R. Gilbert
+27	29	John R. Gilbert	John R. Gilbert
+27	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+27	35	John R. Gilbert	John R. Gilbert
+27	35	Shang-Hua Teng	Shang-Hua Teng
+27	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+27	47	John R. Gilbert	John R. Gilbert
+27	47	Shang-Hua Teng	Shang-Hua Teng
+27	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+27	48	John R. Gilbert	John R. Gilbert
+27	48	Fred J. E. Long	Fred J. E. Long
+27	48	Shang-Hua Teng	Shang-Hua Teng
+27	53	John R. Gilbert	John R. Gilbert
+27	56	John R. Gilbert	John R. Gilbert
+27	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+27	57	John R. Gilbert	John R. Gilbert
+27	57	Fred J. E. Long	Fred J. E. Long
+27	57	Shang-Hua Teng	Shang-Hua Teng
+28	29	John R. Gilbert	John R. Gilbert
+28	35	Siddhartha Chatterjee	Siddhartha Chatterjee
+28	35	John R. Gilbert	John R. Gilbert
+28	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+28	47	John R. Gilbert	John R. Gilbert
+28	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+28	48	John R. Gilbert	John R. Gilbert
+28	53	John R. Gilbert	John R. Gilbert
+28	56	John R. Gilbert	John R. Gilbert
+28	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+28	57	John R. Gilbert	John R. Gilbert
+29	35	John R. Gilbert	John R. Gilbert
+29	47	John R. Gilbert	John R. Gilbert
+29	48	John R. Gilbert	John R. Gilbert
+29	53	John R. Gilbert	John R. Gilbert
+29	56	John R. Gilbert	John R. Gilbert
+29	57	John R. Gilbert	John R. Gilbert
+32	34	Alain Darte	Alain Darte
+33	37	Scott A. Mahlke	Scott A. Mahlke
+34	37	B. Ramakrishna Rau	B. Ramakrishna Rau
+35	47	Siddhartha Chatterjee	Siddhartha Chatterjee
+35	47	John R. Gilbert	John R. Gilbert
+35	47	Shang-Hua Teng	Shang-Hua Teng
+35	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+35	48	John R. Gilbert	John R. Gilbert
+35	48	Shang-Hua Teng	Shang-Hua Teng
+35	53	John R. Gilbert	John R. Gilbert
+35	56	John R. Gilbert	John R. Gilbert
+35	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+35	57	John R. Gilbert	John R. Gilbert
+35	57	Shang-Hua Teng	Shang-Hua Teng
+47	48	Siddhartha Chatterjee	Siddhartha Chatterjee
+47	48	John R. Gilbert	John R. Gilbert
+47	48	Shang-Hua Teng	Shang-Hua Teng
+47	53	John R. Gilbert	John R. Gilbert
+47	56	John R. Gilbert	John R. Gilbert
+47	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+47	57	John R. Gilbert	John R. Gilbert
+47	57	Shang-Hua Teng	Shang-Hua Teng
+48	53	John R. Gilbert	John R. Gilbert
+48	56	John R. Gilbert	John R. Gilbert
+48	57	Siddhartha Chatterjee	Siddhartha Chatterjee
+48	57	John R. Gilbert	John R. Gilbert
+48	57	Fred J. E. Long	Fred J. E. Long
+48	57	Shang-Hua Teng	Shang-Hua Teng
+53	56	John R. Gilbert	John R. Gilbert
+53	57	John R. Gilbert	John R. Gilbert
+56	57	John R. Gilbert	John R. Gilbert

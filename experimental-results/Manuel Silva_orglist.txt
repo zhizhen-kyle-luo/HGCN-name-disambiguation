@@ -1,0 +1,42 @@
+26	38	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Universidad de Zaragoza, Spain
+26	62	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+26	69	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+27	33	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+27	34	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+27	39	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+27	41	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Zaragoza Univ., Spain
+27	58	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+27	60	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+33	34	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+33	39	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+33	41	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Zaragoza Univ., Spain
+33	58	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+33	60	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+34	39	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+34	41	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Zaragoza Univ., Spain
+34	58	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+34	60	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+38	62	Universidad de Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+38	69	Universidad de Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+39	41	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Zaragoza Univ., Spain
+39	58	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+39	60	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+41	58	Zaragoza Univ., Spain	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+41	60	Zaragoza Univ., Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+55	59	Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza, Spain
+55	61	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+55	64	Univ. de Zaragoza, Zaragoza, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+55	67	Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+55	68	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+58	60	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+59	61	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+59	64	Univ. de Zaragoza, Zaragoza, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+59	67	Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+59	68	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+61	64	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+61	67	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+61	68	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+62	69	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+64	67	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+64	68	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+67	68	Univ. de Zaragoza, Zaragoza	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza

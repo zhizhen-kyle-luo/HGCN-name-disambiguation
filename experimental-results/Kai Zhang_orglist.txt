@@ -1,0 +1,17 @@
+3	4	Shanghai Jiao Tong Univ., Shanghai	Shanghai Jiao Tong Univ., Shanghai
+12	26	Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+12	30	Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+14	15	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+14	59	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+15	59	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+18	52	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+18	53	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+22	51	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Lawrence Berkeley National Laboratory, Berkeley, CA
+26	30	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+33	43	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+33	44	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+33	61	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+43	44	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+43	61	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+44	61	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+52	53	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA

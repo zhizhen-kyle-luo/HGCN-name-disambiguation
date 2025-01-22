@@ -1,0 +1,105 @@
+0	ACL
+1	AI*IA
+2	AP2PC
+3	ICATPN
+4	AAMAS
+5	AAMAS
+6	AAMAS
+7	AAMAS
+8	AAMAS
+9	AAMAS
+10	AAMAS
+11	AAMAS
+12	AAMAS
+13	AAMAS
+14	CCGRID
+15	CIA
+16	CIKM
+17	CSCWD
+18	CSCWD (Selected Papers)
+19	Data Compression Conference
+20	EGC
+21	HPDC
+22	ICANN (2)
+23	ICDAR
+24	ICDAR
+25	ICIC (2)
+26	ICIC (2)
+27	ICIP (1)
+28	ICIP (1)
+29	ICIP (1)
+30	ICIP (3)
+31	ICIP (2)
+32	ICMAS
+33	ICME
+34	ICML
+35	ICML
+36	ICSI
+37	INFOCOM
+38	ISBI
+39	ISM
+40	ISM
+41	ISPW
+42	MASCOTS
+43	ACM Multimedia
+44	ACM Multimedia
+45	ACM Multimedia
+46	ISMSE
+47	NIPS
+48	NIPS
+49	NOSSDAV
+50	SKG
+51	CSSE (3)
+52	Applied Artificial Intelligence
+53	Bioinformatics
+54	Commun. ACM
+55	Computational Intelligence
+56	CoRR
+57	Future Generation Comp. Syst.
+58	Inf. Process. Lett.
+59	Journal of Machine Learning Research
+60	Journal of Machine Learning Research
+61	Multimedia Syst.
+62	IEEE Trans. Pattern Anal. Mach. Intell.
+63	IEEE Trans. Pattern Anal. Mach. Intell.
+64	Pattern Recognition
+65	Pattern Recognition
+66	Pattern Recognition
+67	Pattern Recognition Letters
+68	IEEE Transactions on Image Processing
+69	IEEE Transactions on Image Processing
+70	IEEE Transactions on Image Processing
+71	IEEE Transactions on Image Processing
+72	IEEE Transactions on Information Theory
+73	IEEE Transactions on Information Theory
+74	IEEE Transactions on Information Theory
+75	IEEE Transactions on Information Theory
+76	IEEE Transactions on Information Theory
+77	IEEE Transactions on Information Theory
+78	IEEE Transactions on Information Theory
+79	IEEE Trans. Knowl. Data Eng.
+80	Signal Processing
+81	European Journal of Operational Research
+82	Pervasive and Mobile Computing
+83	Genomics, Proteomics  Bioinformatics
+84	Peer-to-Peer Networking and Applications
+85	Information Fusion
+86	Int. J. Web Service Res.
+87	IEEE Transactions on Speech and Audio Processing
+88	Appl. Intell.
+89	BMC Bioinformatics
+90	Neural Computation
+91	Simulation
+92	Synthesis Lectures on Information Concepts, Retrieval, and Services
+93	null
+94	null
+95	Proceedings of the 2009 Second International Workshop on Computer Science and Engineering - Volume 02
+96	Proceedings of the 2006 IEEE Asia-Pacific Conference on Services Computing
+97	The Journal of Machine Learning Research
+98	null
+99	null
+100	CVGIP: Image Understanding
+101	Statistics and Computing
+102	Information theory: 50 years of discovery
+103	Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05
+104	Proceedings of the first international conference on systems integration on Systems integration '90

@@ -1,0 +1,116 @@
+0	1	3DIM	3DIM
+7	8	AINA (2)	AINA
+9	10	AIRS	AIRS
+9	11	AIRS	AIRS
+10	11	AIRS	AIRS
+12	13	APWeb	APWeb
+12	14	APWeb	APWeb
+12	15	APWeb	APWeb
+12	108	APWeb	APWeb/WAIM
+12	109	APWeb	APWeb/WAIM
+13	14	APWeb	APWeb
+13	15	APWeb	APWeb
+13	108	APWeb	APWeb/WAIM
+13	109	APWeb	APWeb/WAIM
+14	15	APWeb	APWeb
+14	108	APWeb	APWeb/WAIM
+14	109	APWeb	APWeb/WAIM
+15	108	APWeb	APWeb/WAIM
+15	109	APWeb	APWeb/WAIM
+20	179	CANS	CANS
+22	23	Computer Graphics International	Computer Graphics International
+25	26	CSL	CSL
+37	38	IC-AI	IC-AI
+37	39	IC-AI	IC-AI
+37	40	IC-AI	IC-AI
+37	41	IC-AI	IC-AI
+38	39	IC-AI	IC-AI
+38	40	IC-AI	IC-AI
+38	41	IC-AI	IC-AI
+39	40	IC-AI	IC-AI
+39	41	IC-AI	IC-AI
+40	41	IC-AI	IC-AI
+42	43	ICC	ICC
+42	44	ICC	ICC
+42	45	ICC	ICC
+43	44	ICC	ICC
+43	45	ICC	ICC
+44	45	ICC	ICC
+49	181	ICCSA (2)	ICCSA (2)
+51	182	ICDCS Workshops	ICDCS Workshops
+53	55	ICIC (3)	ICIC (3)
+53	56	ICIC (3)	ICIC (3)
+54	183	ICIC (2)	ICIC (2)
+55	56	ICIC (3)	ICIC (3)
+57	58	ICIC (1)	ICIC (1)
+59	60	ICME	ICME
+59	61	ICME	ICME
+59	62	ICME	ICME
+59	63	ICME	ICME
+59	64	ICME	ICME
+59	65	ICME	ICME
+60	61	ICME	ICME
+60	62	ICME	ICME
+60	63	ICME	ICME
+60	64	ICME	ICME
+60	65	ICME	ICME
+61	62	ICME	ICME
+61	63	ICME	ICME
+61	64	ICME	ICME
+61	65	ICME	ICME
+62	63	ICME	ICME
+62	64	ICME	ICME
+62	65	ICME	ICME
+63	64	ICME	ICME
+63	65	ICME	ICME
+64	65	ICME	ICME
+69	70	ICPR (4)	ICPR
+74	75	IDEAS	IDEAS
+77	185	IPDPS	IPDPS
+80	81	ISNN (2)	ISNN (2)
+80	167	ISNN (2)	ISNN (2)
+81	167	ISNN (2)	ISNN (2)
+91	186	ECML/PKDD (2)	ECML/PKDD (2)
+91	187	ECML/PKDD (2)	ECML/PKDD (2)
+94	95	RECOMB	RECOMB
+94	188	RECOMB	RECOMB-CG
+95	188	RECOMB	RECOMB-CG
+96	97	RoboCup	RoboCup
+99	100	SAC	SAC
+108	109	APWeb/WAIM	APWeb/WAIM
+111	112	VTC Fall	VTC Fall
+113	114	VTC Spring	VTC Spring
+117	118	GLOBECOM	GLOBECOM
+117	119	GLOBECOM	GLOBECOM
+117	120	GLOBECOM	GLOBECOM
+118	119	GLOBECOM	GLOBECOM
+118	120	GLOBECOM	GLOBECOM
+119	120	GLOBECOM	GLOBECOM
+123	192	SpringSim	SpringSim
+130	131	ICARCV	ICARCV
+135	136	Bioinformatics	Bioinformatics
+135	172	Bioinformatics	Bioinformatics
+136	172	Bioinformatics	Bioinformatics
+138	139	Computer Communications	Computer Communications
+141	209	CoRR	CoRR
+142	173	IEICE Transactions	IEICE Transactions
+142	174	IEICE Transactions	IEICE Transactions
+142	175	IEICE Transactions	IEICE Transactions
+144	145	Journal of Computational Biology	Journal of Computational Biology
+151	160	IEEE Transactions on Communications	IEEE Transactions on Wireless Communications
+156	157	J. Vis. Lang. Comput.	J. Vis. Lang. Comput.
+158	196	Applied Mathematics and Computation	Applied Mathematics and Computation
+159	225	Signal Processing	Digital Signal Processing
+173	174	IEICE Transactions	IEICE Transactions
+173	175	IEICE Transactions	IEICE Transactions
+174	175	IEICE Transactions	IEICE Transactions
+176	177	J. Comput. Sci. Technol.	J. Comput. Sci. Technol.
+176	210	J. Comput. Sci. Technol.	J. Comput. Sci. Technol.
+177	210	J. Comput. Sci. Technol.	J. Comput. Sci. Technol.
+186	187	ECML/PKDD (2)	ECML/PKDD (2)
+211	231	Machine Graphics Vision International Journal	Machine Graphics Vision International Journal
+212	213	Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02	Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02
+222	232	Proceedings of the Third International Conference on Natural Computation - Volume 02	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 04
+226	228	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02
+226	229	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02
+228	229	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02

@@ -1,0 +1,10 @@
+0	1	ACM Southeast Regional Conference	ACM Southeast Regional Conference
+2	3	CCGRID	CCGRID
+2	4	CCGRID	CCGRID
+3	4	CCGRID	CCGRID
+6	7	SIGCSE	SIGCSE
+6	8	SIGCSE	SIGCSE
+7	8	SIGCSE	SIGCSE
+11	12	IEEE Distributed Systems Online	IEEE Distributed Systems Online
+13	14	J. Parallel Distrib. Comput.	J. Parallel Distrib. Comput.
+15	16	IEEE Trans. Computers	IEEE Trans. Computers

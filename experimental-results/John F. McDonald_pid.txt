@@ -1,0 +1,34 @@
+179680	Reconfigurable FPGA's in the 1-20 GHz Band with HBT BiCMOS
+179790	Gigahertz FPGAs with New Power Saving Techniques and Decoding Logic
+185259	A Novel Multi-Speed, Power Saving Architecture for SiGe HBT FPGA
+214437	The gigahertz FPGA: design consideration and applications
+214439	A scalable 2 V, 20 GHz FPGA using SiGe HBT BiCMOS technology
+214694	A four-bit full adder implemented on fast SiGe FPGAs with novel power control scheme
+215267	Gigahertz Reconfigurable Computing Using SiGe HBT BiCMOS FPGAs
+216005	A 11 GHz FPGA with Test Applications
+216006	Gigahertz FPGA by SiGe BiCMOS Technology for Low Power, High Speed Computing with 3-D Memory
+216018	Fast SiGe HBT BiCMOS FPGAs with New Architecture and Power Saving Techniques
+233864	The 10GHz 4: 1 MUX and 1: 4 DEMUX implemented via the gigahertz SiGe FPGA
+234000	Chip Pad Migration is a Key Component to High Performance MCM Design
+234062	3D direct vertical interconnect microprocessors test vehicle
+234340	A 5-20 GHz, low power FPGA implemented by SiGe HBT BiCMOS technology
+234363	Multi-GHz SiGe design methodologies for reconfigurable computing
+286418	Differential Routing of MCMs - CIF: The Ideal Bifurcation Medium
+287132	Amdahl's figure of merit, SiGe HBT BiCMOS, and 3D chip stacking
+430262	Triple-rail MOS current mode logic for high-speed self-timed pipeline applications
+452299	A High Speed Reconfigurable Gate Array for Gigahertz Applications
+452389	12-23 GHz Ultra Wide Tuning Range Voltage-Controlled Ring Oscillator with Hybrid Control Schemes
+765004	LTR_STRUC: a novel search and identification program for LTR retrotransposons
+858102	Predicting the Performance of a 3D Processor-Memory Chip Stack
+926978	A 10 GHz 4: 1 MUX and 1: 4 DEMUX implemented by a Gigahertz SiGe FPGA for fast ADC
+971092	Multi-ghz Sige Bicmos Fpgas with New Architecture and Novel Power Management Techniques
+1084204	Accurate high-speed performance prediction for full differential current-mode logic: the effect of dielectric anisotropy
+1134922	A 12-Gb/s DEMUX Implemented With SiGe High-Speed FPGA Circuits
+1135156	Design of a 32 b monolithic microprocessor based on GaAs HMESFET technology
+1135201	A very wide bandwidth digital VCO using quadrature frequency multiplication and division implemented in AlGaAs/GaAs HBT's
+1152940	A 5-10GHz SiGe BiCMOS FPGA with new configurable logic block
+1302244	Controller for a flexible disk.
+1396704	Design of a 32 b monolithic microprocessor based on GaAs HMESFET technology
+1486713	Characterization of algaas/gaas hbt interconnect for digital applications and design of a dense multi-chip module for a 1 ghz risc processor
+1540320	Gigahertz Reconfigurable Computing Using SiGe HBT BiCMOS FPGAs
+1542831	Fast SiGe HBT BiCMOS FPGAs with New Architecture and Power Saving Techniques

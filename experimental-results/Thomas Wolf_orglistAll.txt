@@ -1,0 +1,528 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	TU Darmstadt, Germany
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	Brock University, Ontario, Canada
+0	23	null	null
+0	24	null	Paranor AG, Switzerland
+0	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+0	26	null	Queen Mary and Westfield College, London, U.K.
+0	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	School of Mathematical Sciences, QMW, University of London, London
+0	32	null	Brock Univ., St. Catherines, Ont., Canada
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	TU Darmstadt, Germany
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	Brock University, Ontario, Canada
+1	23	null	null
+1	24	null	Paranor AG, Switzerland
+1	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+1	26	null	Queen Mary and Westfield College, London, U.K.
+1	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	School of Mathematical Sciences, QMW, University of London, London
+1	32	null	Brock Univ., St. Catherines, Ont., Canada
+2	3	null	null
+2	4	null	null
+2	5	null	TU Darmstadt, Germany
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	Brock University, Ontario, Canada
+2	23	null	null
+2	24	null	Paranor AG, Switzerland
+2	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+2	26	null	Queen Mary and Westfield College, London, U.K.
+2	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	School of Mathematical Sciences, QMW, University of London, London
+2	32	null	Brock Univ., St. Catherines, Ont., Canada
+3	4	null	null
+3	5	null	TU Darmstadt, Germany
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+3	18	null	null
+3	19	null	null
+3	20	null	null
+3	21	null	null
+3	22	null	Brock University, Ontario, Canada
+3	23	null	null
+3	24	null	Paranor AG, Switzerland
+3	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+3	26	null	Queen Mary and Westfield College, London, U.K.
+3	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	School of Mathematical Sciences, QMW, University of London, London
+3	32	null	Brock Univ., St. Catherines, Ont., Canada
+4	5	null	TU Darmstadt, Germany
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	Brock University, Ontario, Canada
+4	23	null	null
+4	24	null	Paranor AG, Switzerland
+4	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+4	26	null	Queen Mary and Westfield College, London, U.K.
+4	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	School of Mathematical Sciences, QMW, University of London, London
+4	32	null	Brock Univ., St. Catherines, Ont., Canada
+5	6	TU Darmstadt, Germany	null
+5	7	TU Darmstadt, Germany	null
+5	8	TU Darmstadt, Germany	null
+5	9	TU Darmstadt, Germany	null
+5	10	TU Darmstadt, Germany	null
+5	11	TU Darmstadt, Germany	null
+5	12	TU Darmstadt, Germany	null
+5	13	TU Darmstadt, Germany	null
+5	14	TU Darmstadt, Germany	null
+5	15	TU Darmstadt, Germany	null
+5	16	TU Darmstadt, Germany	null
+5	17	TU Darmstadt, Germany	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+5	18	TU Darmstadt, Germany	null
+5	19	TU Darmstadt, Germany	null
+5	20	TU Darmstadt, Germany	null
+5	21	TU Darmstadt, Germany	null
+5	22	TU Darmstadt, Germany	Brock University, Ontario, Canada
+5	23	TU Darmstadt, Germany	null
+5	24	TU Darmstadt, Germany	Paranor AG, Switzerland
+5	25	TU Darmstadt, Germany	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+5	26	TU Darmstadt, Germany	Queen Mary and Westfield College, London, U.K.
+5	27	TU Darmstadt, Germany	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+5	28	TU Darmstadt, Germany	null
+5	29	TU Darmstadt, Germany	null
+5	30	TU Darmstadt, Germany	null
+5	31	TU Darmstadt, Germany	School of Mathematical Sciences, QMW, University of London, London
+5	32	TU Darmstadt, Germany	Brock Univ., St. Catherines, Ont., Canada
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	Brock University, Ontario, Canada
+6	23	null	null
+6	24	null	Paranor AG, Switzerland
+6	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+6	26	null	Queen Mary and Westfield College, London, U.K.
+6	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	School of Mathematical Sciences, QMW, University of London, London
+6	32	null	Brock Univ., St. Catherines, Ont., Canada
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	Brock University, Ontario, Canada
+7	23	null	null
+7	24	null	Paranor AG, Switzerland
+7	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+7	26	null	Queen Mary and Westfield College, London, U.K.
+7	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	School of Mathematical Sciences, QMW, University of London, London
+7	32	null	Brock Univ., St. Catherines, Ont., Canada
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	Brock University, Ontario, Canada
+8	23	null	null
+8	24	null	Paranor AG, Switzerland
+8	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+8	26	null	Queen Mary and Westfield College, London, U.K.
+8	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	School of Mathematical Sciences, QMW, University of London, London
+8	32	null	Brock Univ., St. Catherines, Ont., Canada
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	null
+9	15	null	null
+9	16	null	null
+9	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+9	18	null	null
+9	19	null	null
+9	20	null	null
+9	21	null	null
+9	22	null	Brock University, Ontario, Canada
+9	23	null	null
+9	24	null	Paranor AG, Switzerland
+9	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+9	26	null	Queen Mary and Westfield College, London, U.K.
+9	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	School of Mathematical Sciences, QMW, University of London, London
+9	32	null	Brock Univ., St. Catherines, Ont., Canada
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+10	18	null	null
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	Brock University, Ontario, Canada
+10	23	null	null
+10	24	null	Paranor AG, Switzerland
+10	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+10	26	null	Queen Mary and Westfield College, London, U.K.
+10	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	School of Mathematical Sciences, QMW, University of London, London
+10	32	null	Brock Univ., St. Catherines, Ont., Canada
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	Brock University, Ontario, Canada
+11	23	null	null
+11	24	null	Paranor AG, Switzerland
+11	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+11	26	null	Queen Mary and Westfield College, London, U.K.
+11	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	School of Mathematical Sciences, QMW, University of London, London
+11	32	null	Brock Univ., St. Catherines, Ont., Canada
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	null
+12	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+12	18	null	null
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	Brock University, Ontario, Canada
+12	23	null	null
+12	24	null	Paranor AG, Switzerland
+12	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+12	26	null	Queen Mary and Westfield College, London, U.K.
+12	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	School of Mathematical Sciences, QMW, University of London, London
+12	32	null	Brock Univ., St. Catherines, Ont., Canada
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	Brock University, Ontario, Canada
+13	23	null	null
+13	24	null	Paranor AG, Switzerland
+13	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+13	26	null	Queen Mary and Westfield College, London, U.K.
+13	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	School of Mathematical Sciences, QMW, University of London, London
+13	32	null	Brock Univ., St. Catherines, Ont., Canada
+14	15	null	null
+14	16	null	null
+14	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	Brock University, Ontario, Canada
+14	23	null	null
+14	24	null	Paranor AG, Switzerland
+14	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+14	26	null	Queen Mary and Westfield College, London, U.K.
+14	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	School of Mathematical Sciences, QMW, University of London, London
+14	32	null	Brock Univ., St. Catherines, Ont., Canada
+15	16	null	null
+15	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	Brock University, Ontario, Canada
+15	23	null	null
+15	24	null	Paranor AG, Switzerland
+15	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+15	26	null	Queen Mary and Westfield College, London, U.K.
+15	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	School of Mathematical Sciences, QMW, University of London, London
+15	32	null	Brock Univ., St. Catherines, Ont., Canada
+16	17	null	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	Brock University, Ontario, Canada
+16	23	null	null
+16	24	null	Paranor AG, Switzerland
+16	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+16	26	null	Queen Mary and Westfield College, London, U.K.
+16	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	School of Mathematical Sciences, QMW, University of London, London
+16	32	null	Brock Univ., St. Catherines, Ont., Canada
+17	18	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	19	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	20	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	21	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	22	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	Brock University, Ontario, Canada
+17	23	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	24	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	Paranor AG, Switzerland
+17	25	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+17	26	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	Queen Mary and Westfield College, London, U.K.
+17	27	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+17	28	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	29	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	30	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	null
+17	31	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	School of Mathematical Sciences, QMW, University of London, London
+17	32	Department of Mathematics, Brock University, 500 Glenridge Avenue, St. Catharines, Ontario, Canada L2S 3A1	Brock Univ., St. Catherines, Ont., Canada
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	Brock University, Ontario, Canada
+18	23	null	null
+18	24	null	Paranor AG, Switzerland
+18	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+18	26	null	Queen Mary and Westfield College, London, U.K.
+18	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	School of Mathematical Sciences, QMW, University of London, London
+18	32	null	Brock Univ., St. Catherines, Ont., Canada
+19	20	null	null
+19	21	null	null
+19	22	null	Brock University, Ontario, Canada
+19	23	null	null
+19	24	null	Paranor AG, Switzerland
+19	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+19	26	null	Queen Mary and Westfield College, London, U.K.
+19	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	School of Mathematical Sciences, QMW, University of London, London
+19	32	null	Brock Univ., St. Catherines, Ont., Canada
+20	21	null	null
+20	22	null	Brock University, Ontario, Canada
+20	23	null	null
+20	24	null	Paranor AG, Switzerland
+20	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+20	26	null	Queen Mary and Westfield College, London, U.K.
+20	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	School of Mathematical Sciences, QMW, University of London, London
+20	32	null	Brock Univ., St. Catherines, Ont., Canada
+21	22	null	Brock University, Ontario, Canada
+21	23	null	null
+21	24	null	Paranor AG, Switzerland
+21	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+21	26	null	Queen Mary and Westfield College, London, U.K.
+21	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	School of Mathematical Sciences, QMW, University of London, London
+21	32	null	Brock Univ., St. Catherines, Ont., Canada
+22	23	Brock University, Ontario, Canada	null
+22	24	Brock University, Ontario, Canada	Paranor AG, Switzerland
+22	25	Brock University, Ontario, Canada	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+22	26	Brock University, Ontario, Canada	Queen Mary and Westfield College, London, U.K.
+22	27	Brock University, Ontario, Canada	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+22	28	Brock University, Ontario, Canada	null
+22	29	Brock University, Ontario, Canada	null
+22	30	Brock University, Ontario, Canada	null
+22	31	Brock University, Ontario, Canada	School of Mathematical Sciences, QMW, University of London, London
+22	32	Brock University, Ontario, Canada	Brock Univ., St. Catherines, Ont., Canada
+23	24	null	Paranor AG, Switzerland
+23	25	null	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+23	26	null	Queen Mary and Westfield College, London, U.K.
+23	27	null	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	School of Mathematical Sciences, QMW, University of London, London
+23	32	null	Brock Univ., St. Catherines, Ont., Canada
+24	25	Paranor AG, Switzerland	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland
+24	26	Paranor AG, Switzerland	Queen Mary and Westfield College, London, U.K.
+24	27	Paranor AG, Switzerland	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+24	28	Paranor AG, Switzerland	null
+24	29	Paranor AG, Switzerland	null
+24	30	Paranor AG, Switzerland	null
+24	31	Paranor AG, Switzerland	School of Mathematical Sciences, QMW, University of London, London
+24	32	Paranor AG, Switzerland	Brock Univ., St. Catherines, Ont., Canada
+25	26	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland	Queen Mary and Westfield College, London, U.K.
+25	27	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+25	28	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland	null
+25	29	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland	null
+25	30	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland	null
+25	31	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland	School of Mathematical Sciences, QMW, University of London, London
+25	32	Software Engineering Laboratory, Swiss Federal Institute of Technology, CH--1015 Lausanne, Switzerland	Brock Univ., St. Catherines, Ont., Canada
+26	27	Queen Mary and Westfield College, London, U.K.	Friedrich-Schiller-Univ. Jena, Jena, E. Germany
+26	28	Queen Mary and Westfield College, London, U.K.	null
+26	29	Queen Mary and Westfield College, London, U.K.	null
+26	30	Queen Mary and Westfield College, London, U.K.	null
+26	31	Queen Mary and Westfield College, London, U.K.	School of Mathematical Sciences, QMW, University of London, London
+26	32	Queen Mary and Westfield College, London, U.K.	Brock Univ., St. Catherines, Ont., Canada
+27	28	Friedrich-Schiller-Univ. Jena, Jena, E. Germany	null
+27	29	Friedrich-Schiller-Univ. Jena, Jena, E. Germany	null
+27	30	Friedrich-Schiller-Univ. Jena, Jena, E. Germany	null
+27	31	Friedrich-Schiller-Univ. Jena, Jena, E. Germany	School of Mathematical Sciences, QMW, University of London, London
+27	32	Friedrich-Schiller-Univ. Jena, Jena, E. Germany	Brock Univ., St. Catherines, Ont., Canada
+28	29	null	null
+28	30	null	null
+28	31	null	School of Mathematical Sciences, QMW, University of London, London
+28	32	null	Brock Univ., St. Catherines, Ont., Canada
+29	30	null	null
+29	31	null	School of Mathematical Sciences, QMW, University of London, London
+29	32	null	Brock Univ., St. Catherines, Ont., Canada
+30	31	null	School of Mathematical Sciences, QMW, University of London, London
+30	32	null	Brock Univ., St. Catherines, Ont., Canada
+31	32	School of Mathematical Sciences, QMW, University of London, London	Brock Univ., St. Catherines, Ont., Canada

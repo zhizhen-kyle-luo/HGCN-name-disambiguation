@@ -1,0 +1,2145 @@
+0	1	null	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081
+0	2	null	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu
+0	3	null	Shanghai Jiao Tong Univ., Shanghai
+0	4	null	Shanghai Jiao Tong Univ., Shanghai
+0	5	null	null
+0	6	null	University of Science and Technology - Kowloon
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	Tsinghua Univ., Beijing
+0	13	null	null
+0	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+0	15	null	Hong Kong University of Science and Technology, Hong Kong
+0	16	null	null
+0	17	null	null
+0	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+0	23	null	null
+0	24	null	null
+0	25	null	null
+0	26	null	Tsinghua University, Beijing, China
+0	27	null	Acadia University, Canada
+0	28	null	Software Division, ICT, CAS
+0	29	null	null
+0	30	null	Tsinghua University, Beijing, China
+0	31	null	null
+0	32	null	null
+0	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+0	34	null	null
+0	35	null	null
+0	36	null	null
+0	37	null	null
+0	38	null	null
+0	39	null	null
+0	40	null	null
+0	41	null	null
+0	42	null	null
+0	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+0	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+0	45	null	null
+0	46	null	New Jersey Inst. of Technol., Newark
+0	47	null	null
+0	48	null	null
+0	49	null	null
+0	50	null	null
+0	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+0	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+0	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+0	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+0	55	null	null
+0	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+0	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+0	58	null	null
+0	59	null	Hong Kong University of Science and Technology, Hong Kong
+0	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+0	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+0	62	null	null
+0	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+0	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+0	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+1	2	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu
+1	3	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Shanghai Jiao Tong Univ., Shanghai
+1	4	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Shanghai Jiao Tong Univ., Shanghai
+1	5	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	6	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	University of Science and Technology - Kowloon
+1	7	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	8	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	9	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	10	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	11	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	12	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Tsinghua Univ., Beijing
+1	13	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	14	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+1	15	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Hong Kong University of Science and Technology, Hong Kong
+1	16	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	17	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	18	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+1	19	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	20	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	21	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	22	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+1	23	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	24	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	25	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	26	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Tsinghua University, Beijing, China
+1	27	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Acadia University, Canada
+1	28	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Software Division, ICT, CAS
+1	29	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	30	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Tsinghua University, Beijing, China
+1	31	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	32	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	33	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+1	34	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	35	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	36	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	37	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	38	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	39	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	40	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	41	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	42	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	43	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+1	44	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+1	45	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	46	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	New Jersey Inst. of Technol., Newark
+1	47	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	48	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	49	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	50	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	51	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Lawrence Berkeley National Laboratory, Berkeley, CA
+1	52	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+1	53	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+1	54	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+1	55	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	56	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+1	57	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+1	58	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	59	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Hong Kong University of Science and Technology, Hong Kong
+1	60	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+1	61	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+1	62	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	null
+1	63	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+1	64	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+1	65	Department of Computer Science and Engineering, Beijing Institute of Technology, 100081	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+2	3	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Shanghai Jiao Tong Univ., Shanghai
+2	4	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Shanghai Jiao Tong Univ., Shanghai
+2	5	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	6	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	University of Science and Technology - Kowloon
+2	7	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	8	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	9	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	10	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	11	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	12	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Tsinghua Univ., Beijing
+2	13	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	14	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+2	15	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Hong Kong University of Science and Technology, Hong Kong
+2	16	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	17	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	18	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+2	19	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	20	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	21	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	22	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+2	23	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	24	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	25	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	26	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Tsinghua University, Beijing, China
+2	27	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Acadia University, Canada
+2	28	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Software Division, ICT, CAS
+2	29	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	30	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Tsinghua University, Beijing, China
+2	31	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	32	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	33	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+2	34	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	35	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	36	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	37	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	38	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	39	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	40	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	41	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	42	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	43	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+2	44	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+2	45	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	46	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	New Jersey Inst. of Technol., Newark
+2	47	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	48	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	49	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	50	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	51	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Lawrence Berkeley National Laboratory, Berkeley, CA
+2	52	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+2	53	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+2	54	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+2	55	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	56	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+2	57	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+2	58	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	59	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Hong Kong University of Science and Technology, Hong Kong
+2	60	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+2	61	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+2	62	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	null
+2	63	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+2	64	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+2	65	Dept. of Electr. & Electron. Eng., Mie Univ., Tsu	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+3	4	Shanghai Jiao Tong Univ., Shanghai	Shanghai Jiao Tong Univ., Shanghai
+3	5	Shanghai Jiao Tong Univ., Shanghai	null
+3	6	Shanghai Jiao Tong Univ., Shanghai	University of Science and Technology - Kowloon
+3	7	Shanghai Jiao Tong Univ., Shanghai	null
+3	8	Shanghai Jiao Tong Univ., Shanghai	null
+3	9	Shanghai Jiao Tong Univ., Shanghai	null
+3	10	Shanghai Jiao Tong Univ., Shanghai	null
+3	11	Shanghai Jiao Tong Univ., Shanghai	null
+3	12	Shanghai Jiao Tong Univ., Shanghai	Tsinghua Univ., Beijing
+3	13	Shanghai Jiao Tong Univ., Shanghai	null
+3	14	Shanghai Jiao Tong Univ., Shanghai	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+3	15	Shanghai Jiao Tong Univ., Shanghai	Hong Kong University of Science and Technology, Hong Kong
+3	16	Shanghai Jiao Tong Univ., Shanghai	null
+3	17	Shanghai Jiao Tong Univ., Shanghai	null
+3	18	Shanghai Jiao Tong Univ., Shanghai	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+3	19	Shanghai Jiao Tong Univ., Shanghai	null
+3	20	Shanghai Jiao Tong Univ., Shanghai	null
+3	21	Shanghai Jiao Tong Univ., Shanghai	null
+3	22	Shanghai Jiao Tong Univ., Shanghai	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+3	23	Shanghai Jiao Tong Univ., Shanghai	null
+3	24	Shanghai Jiao Tong Univ., Shanghai	null
+3	25	Shanghai Jiao Tong Univ., Shanghai	null
+3	26	Shanghai Jiao Tong Univ., Shanghai	Tsinghua University, Beijing, China
+3	27	Shanghai Jiao Tong Univ., Shanghai	Acadia University, Canada
+3	28	Shanghai Jiao Tong Univ., Shanghai	Software Division, ICT, CAS
+3	29	Shanghai Jiao Tong Univ., Shanghai	null
+3	30	Shanghai Jiao Tong Univ., Shanghai	Tsinghua University, Beijing, China
+3	31	Shanghai Jiao Tong Univ., Shanghai	null
+3	32	Shanghai Jiao Tong Univ., Shanghai	null
+3	33	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+3	34	Shanghai Jiao Tong Univ., Shanghai	null
+3	35	Shanghai Jiao Tong Univ., Shanghai	null
+3	36	Shanghai Jiao Tong Univ., Shanghai	null
+3	37	Shanghai Jiao Tong Univ., Shanghai	null
+3	38	Shanghai Jiao Tong Univ., Shanghai	null
+3	39	Shanghai Jiao Tong Univ., Shanghai	null
+3	40	Shanghai Jiao Tong Univ., Shanghai	null
+3	41	Shanghai Jiao Tong Univ., Shanghai	null
+3	42	Shanghai Jiao Tong Univ., Shanghai	null
+3	43	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+3	44	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+3	45	Shanghai Jiao Tong Univ., Shanghai	null
+3	46	Shanghai Jiao Tong Univ., Shanghai	New Jersey Inst. of Technol., Newark
+3	47	Shanghai Jiao Tong Univ., Shanghai	null
+3	48	Shanghai Jiao Tong Univ., Shanghai	null
+3	49	Shanghai Jiao Tong Univ., Shanghai	null
+3	50	Shanghai Jiao Tong Univ., Shanghai	null
+3	51	Shanghai Jiao Tong Univ., Shanghai	Lawrence Berkeley National Laboratory, Berkeley, CA
+3	52	Shanghai Jiao Tong Univ., Shanghai	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+3	53	Shanghai Jiao Tong Univ., Shanghai	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+3	54	Shanghai Jiao Tong Univ., Shanghai	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+3	55	Shanghai Jiao Tong Univ., Shanghai	null
+3	56	Shanghai Jiao Tong Univ., Shanghai	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+3	57	Shanghai Jiao Tong Univ., Shanghai	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+3	58	Shanghai Jiao Tong Univ., Shanghai	null
+3	59	Shanghai Jiao Tong Univ., Shanghai	Hong Kong University of Science and Technology, Hong Kong
+3	60	Shanghai Jiao Tong Univ., Shanghai	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+3	61	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+3	62	Shanghai Jiao Tong Univ., Shanghai	null
+3	63	Shanghai Jiao Tong Univ., Shanghai	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+3	64	Shanghai Jiao Tong Univ., Shanghai	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+3	65	Shanghai Jiao Tong Univ., Shanghai	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+4	5	Shanghai Jiao Tong Univ., Shanghai	null
+4	6	Shanghai Jiao Tong Univ., Shanghai	University of Science and Technology - Kowloon
+4	7	Shanghai Jiao Tong Univ., Shanghai	null
+4	8	Shanghai Jiao Tong Univ., Shanghai	null
+4	9	Shanghai Jiao Tong Univ., Shanghai	null
+4	10	Shanghai Jiao Tong Univ., Shanghai	null
+4	11	Shanghai Jiao Tong Univ., Shanghai	null
+4	12	Shanghai Jiao Tong Univ., Shanghai	Tsinghua Univ., Beijing
+4	13	Shanghai Jiao Tong Univ., Shanghai	null
+4	14	Shanghai Jiao Tong Univ., Shanghai	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+4	15	Shanghai Jiao Tong Univ., Shanghai	Hong Kong University of Science and Technology, Hong Kong
+4	16	Shanghai Jiao Tong Univ., Shanghai	null
+4	17	Shanghai Jiao Tong Univ., Shanghai	null
+4	18	Shanghai Jiao Tong Univ., Shanghai	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+4	19	Shanghai Jiao Tong Univ., Shanghai	null
+4	20	Shanghai Jiao Tong Univ., Shanghai	null
+4	21	Shanghai Jiao Tong Univ., Shanghai	null
+4	22	Shanghai Jiao Tong Univ., Shanghai	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+4	23	Shanghai Jiao Tong Univ., Shanghai	null
+4	24	Shanghai Jiao Tong Univ., Shanghai	null
+4	25	Shanghai Jiao Tong Univ., Shanghai	null
+4	26	Shanghai Jiao Tong Univ., Shanghai	Tsinghua University, Beijing, China
+4	27	Shanghai Jiao Tong Univ., Shanghai	Acadia University, Canada
+4	28	Shanghai Jiao Tong Univ., Shanghai	Software Division, ICT, CAS
+4	29	Shanghai Jiao Tong Univ., Shanghai	null
+4	30	Shanghai Jiao Tong Univ., Shanghai	Tsinghua University, Beijing, China
+4	31	Shanghai Jiao Tong Univ., Shanghai	null
+4	32	Shanghai Jiao Tong Univ., Shanghai	null
+4	33	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+4	34	Shanghai Jiao Tong Univ., Shanghai	null
+4	35	Shanghai Jiao Tong Univ., Shanghai	null
+4	36	Shanghai Jiao Tong Univ., Shanghai	null
+4	37	Shanghai Jiao Tong Univ., Shanghai	null
+4	38	Shanghai Jiao Tong Univ., Shanghai	null
+4	39	Shanghai Jiao Tong Univ., Shanghai	null
+4	40	Shanghai Jiao Tong Univ., Shanghai	null
+4	41	Shanghai Jiao Tong Univ., Shanghai	null
+4	42	Shanghai Jiao Tong Univ., Shanghai	null
+4	43	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+4	44	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+4	45	Shanghai Jiao Tong Univ., Shanghai	null
+4	46	Shanghai Jiao Tong Univ., Shanghai	New Jersey Inst. of Technol., Newark
+4	47	Shanghai Jiao Tong Univ., Shanghai	null
+4	48	Shanghai Jiao Tong Univ., Shanghai	null
+4	49	Shanghai Jiao Tong Univ., Shanghai	null
+4	50	Shanghai Jiao Tong Univ., Shanghai	null
+4	51	Shanghai Jiao Tong Univ., Shanghai	Lawrence Berkeley National Laboratory, Berkeley, CA
+4	52	Shanghai Jiao Tong Univ., Shanghai	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+4	53	Shanghai Jiao Tong Univ., Shanghai	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+4	54	Shanghai Jiao Tong Univ., Shanghai	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+4	55	Shanghai Jiao Tong Univ., Shanghai	null
+4	56	Shanghai Jiao Tong Univ., Shanghai	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+4	57	Shanghai Jiao Tong Univ., Shanghai	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+4	58	Shanghai Jiao Tong Univ., Shanghai	null
+4	59	Shanghai Jiao Tong Univ., Shanghai	Hong Kong University of Science and Technology, Hong Kong
+4	60	Shanghai Jiao Tong Univ., Shanghai	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+4	61	Shanghai Jiao Tong Univ., Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+4	62	Shanghai Jiao Tong Univ., Shanghai	null
+4	63	Shanghai Jiao Tong Univ., Shanghai	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+4	64	Shanghai Jiao Tong Univ., Shanghai	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+4	65	Shanghai Jiao Tong Univ., Shanghai	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+5	6	null	University of Science and Technology - Kowloon
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	Tsinghua Univ., Beijing
+5	13	null	null
+5	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+5	15	null	Hong Kong University of Science and Technology, Hong Kong
+5	16	null	null
+5	17	null	null
+5	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+5	19	null	null
+5	20	null	null
+5	21	null	null
+5	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	Tsinghua University, Beijing, China
+5	27	null	Acadia University, Canada
+5	28	null	Software Division, ICT, CAS
+5	29	null	null
+5	30	null	Tsinghua University, Beijing, China
+5	31	null	null
+5	32	null	null
+5	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+5	34	null	null
+5	35	null	null
+5	36	null	null
+5	37	null	null
+5	38	null	null
+5	39	null	null
+5	40	null	null
+5	41	null	null
+5	42	null	null
+5	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+5	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+5	45	null	null
+5	46	null	New Jersey Inst. of Technol., Newark
+5	47	null	null
+5	48	null	null
+5	49	null	null
+5	50	null	null
+5	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+5	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+5	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+5	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+5	55	null	null
+5	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+5	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+5	58	null	null
+5	59	null	Hong Kong University of Science and Technology, Hong Kong
+5	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+5	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+5	62	null	null
+5	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+5	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+5	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+6	7	University of Science and Technology - Kowloon	null
+6	8	University of Science and Technology - Kowloon	null
+6	9	University of Science and Technology - Kowloon	null
+6	10	University of Science and Technology - Kowloon	null
+6	11	University of Science and Technology - Kowloon	null
+6	12	University of Science and Technology - Kowloon	Tsinghua Univ., Beijing
+6	13	University of Science and Technology - Kowloon	null
+6	14	University of Science and Technology - Kowloon	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+6	15	University of Science and Technology - Kowloon	Hong Kong University of Science and Technology, Hong Kong
+6	16	University of Science and Technology - Kowloon	null
+6	17	University of Science and Technology - Kowloon	null
+6	18	University of Science and Technology - Kowloon	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+6	19	University of Science and Technology - Kowloon	null
+6	20	University of Science and Technology - Kowloon	null
+6	21	University of Science and Technology - Kowloon	null
+6	22	University of Science and Technology - Kowloon	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+6	23	University of Science and Technology - Kowloon	null
+6	24	University of Science and Technology - Kowloon	null
+6	25	University of Science and Technology - Kowloon	null
+6	26	University of Science and Technology - Kowloon	Tsinghua University, Beijing, China
+6	27	University of Science and Technology - Kowloon	Acadia University, Canada
+6	28	University of Science and Technology - Kowloon	Software Division, ICT, CAS
+6	29	University of Science and Technology - Kowloon	null
+6	30	University of Science and Technology - Kowloon	Tsinghua University, Beijing, China
+6	31	University of Science and Technology - Kowloon	null
+6	32	University of Science and Technology - Kowloon	null
+6	33	University of Science and Technology - Kowloon	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+6	34	University of Science and Technology - Kowloon	null
+6	35	University of Science and Technology - Kowloon	null
+6	36	University of Science and Technology - Kowloon	null
+6	37	University of Science and Technology - Kowloon	null
+6	38	University of Science and Technology - Kowloon	null
+6	39	University of Science and Technology - Kowloon	null
+6	40	University of Science and Technology - Kowloon	null
+6	41	University of Science and Technology - Kowloon	null
+6	42	University of Science and Technology - Kowloon	null
+6	43	University of Science and Technology - Kowloon	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+6	44	University of Science and Technology - Kowloon	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+6	45	University of Science and Technology - Kowloon	null
+6	46	University of Science and Technology - Kowloon	New Jersey Inst. of Technol., Newark
+6	47	University of Science and Technology - Kowloon	null
+6	48	University of Science and Technology - Kowloon	null
+6	49	University of Science and Technology - Kowloon	null
+6	50	University of Science and Technology - Kowloon	null
+6	51	University of Science and Technology - Kowloon	Lawrence Berkeley National Laboratory, Berkeley, CA
+6	52	University of Science and Technology - Kowloon	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+6	53	University of Science and Technology - Kowloon	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+6	54	University of Science and Technology - Kowloon	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+6	55	University of Science and Technology - Kowloon	null
+6	56	University of Science and Technology - Kowloon	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+6	57	University of Science and Technology - Kowloon	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+6	58	University of Science and Technology - Kowloon	null
+6	59	University of Science and Technology - Kowloon	Hong Kong University of Science and Technology, Hong Kong
+6	60	University of Science and Technology - Kowloon	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+6	61	University of Science and Technology - Kowloon	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+6	62	University of Science and Technology - Kowloon	null
+6	63	University of Science and Technology - Kowloon	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+6	64	University of Science and Technology - Kowloon	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+6	65	University of Science and Technology - Kowloon	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	Tsinghua Univ., Beijing
+7	13	null	null
+7	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+7	15	null	Hong Kong University of Science and Technology, Hong Kong
+7	16	null	null
+7	17	null	null
+7	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	Tsinghua University, Beijing, China
+7	27	null	Acadia University, Canada
+7	28	null	Software Division, ICT, CAS
+7	29	null	null
+7	30	null	Tsinghua University, Beijing, China
+7	31	null	null
+7	32	null	null
+7	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+7	34	null	null
+7	35	null	null
+7	36	null	null
+7	37	null	null
+7	38	null	null
+7	39	null	null
+7	40	null	null
+7	41	null	null
+7	42	null	null
+7	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+7	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+7	45	null	null
+7	46	null	New Jersey Inst. of Technol., Newark
+7	47	null	null
+7	48	null	null
+7	49	null	null
+7	50	null	null
+7	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+7	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+7	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+7	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+7	55	null	null
+7	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+7	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+7	58	null	null
+7	59	null	Hong Kong University of Science and Technology, Hong Kong
+7	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+7	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+7	62	null	null
+7	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+7	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+7	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	Tsinghua Univ., Beijing
+8	13	null	null
+8	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+8	15	null	Hong Kong University of Science and Technology, Hong Kong
+8	16	null	null
+8	17	null	null
+8	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	Tsinghua University, Beijing, China
+8	27	null	Acadia University, Canada
+8	28	null	Software Division, ICT, CAS
+8	29	null	null
+8	30	null	Tsinghua University, Beijing, China
+8	31	null	null
+8	32	null	null
+8	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+8	34	null	null
+8	35	null	null
+8	36	null	null
+8	37	null	null
+8	38	null	null
+8	39	null	null
+8	40	null	null
+8	41	null	null
+8	42	null	null
+8	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+8	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+8	45	null	null
+8	46	null	New Jersey Inst. of Technol., Newark
+8	47	null	null
+8	48	null	null
+8	49	null	null
+8	50	null	null
+8	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+8	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+8	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+8	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+8	55	null	null
+8	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+8	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+8	58	null	null
+8	59	null	Hong Kong University of Science and Technology, Hong Kong
+8	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+8	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+8	62	null	null
+8	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+8	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+8	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+9	10	null	null
+9	11	null	null
+9	12	null	Tsinghua Univ., Beijing
+9	13	null	null
+9	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+9	15	null	Hong Kong University of Science and Technology, Hong Kong
+9	16	null	null
+9	17	null	null
+9	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+9	19	null	null
+9	20	null	null
+9	21	null	null
+9	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+9	23	null	null
+9	24	null	null
+9	25	null	null
+9	26	null	Tsinghua University, Beijing, China
+9	27	null	Acadia University, Canada
+9	28	null	Software Division, ICT, CAS
+9	29	null	null
+9	30	null	Tsinghua University, Beijing, China
+9	31	null	null
+9	32	null	null
+9	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+9	34	null	null
+9	35	null	null
+9	36	null	null
+9	37	null	null
+9	38	null	null
+9	39	null	null
+9	40	null	null
+9	41	null	null
+9	42	null	null
+9	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+9	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+9	45	null	null
+9	46	null	New Jersey Inst. of Technol., Newark
+9	47	null	null
+9	48	null	null
+9	49	null	null
+9	50	null	null
+9	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+9	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+9	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+9	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+9	55	null	null
+9	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+9	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+9	58	null	null
+9	59	null	Hong Kong University of Science and Technology, Hong Kong
+9	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+9	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+9	62	null	null
+9	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+9	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+9	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+10	11	null	null
+10	12	null	Tsinghua Univ., Beijing
+10	13	null	null
+10	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+10	15	null	Hong Kong University of Science and Technology, Hong Kong
+10	16	null	null
+10	17	null	null
+10	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+10	23	null	null
+10	24	null	null
+10	25	null	null
+10	26	null	Tsinghua University, Beijing, China
+10	27	null	Acadia University, Canada
+10	28	null	Software Division, ICT, CAS
+10	29	null	null
+10	30	null	Tsinghua University, Beijing, China
+10	31	null	null
+10	32	null	null
+10	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+10	34	null	null
+10	35	null	null
+10	36	null	null
+10	37	null	null
+10	38	null	null
+10	39	null	null
+10	40	null	null
+10	41	null	null
+10	42	null	null
+10	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+10	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+10	45	null	null
+10	46	null	New Jersey Inst. of Technol., Newark
+10	47	null	null
+10	48	null	null
+10	49	null	null
+10	50	null	null
+10	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+10	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+10	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+10	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+10	55	null	null
+10	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+10	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+10	58	null	null
+10	59	null	Hong Kong University of Science and Technology, Hong Kong
+10	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+10	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+10	62	null	null
+10	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+10	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+10	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+11	12	null	Tsinghua Univ., Beijing
+11	13	null	null
+11	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+11	15	null	Hong Kong University of Science and Technology, Hong Kong
+11	16	null	null
+11	17	null	null
+11	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	Tsinghua University, Beijing, China
+11	27	null	Acadia University, Canada
+11	28	null	Software Division, ICT, CAS
+11	29	null	null
+11	30	null	Tsinghua University, Beijing, China
+11	31	null	null
+11	32	null	null
+11	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+11	34	null	null
+11	35	null	null
+11	36	null	null
+11	37	null	null
+11	38	null	null
+11	39	null	null
+11	40	null	null
+11	41	null	null
+11	42	null	null
+11	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+11	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+11	45	null	null
+11	46	null	New Jersey Inst. of Technol., Newark
+11	47	null	null
+11	48	null	null
+11	49	null	null
+11	50	null	null
+11	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+11	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+11	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+11	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+11	55	null	null
+11	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+11	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+11	58	null	null
+11	59	null	Hong Kong University of Science and Technology, Hong Kong
+11	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+11	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+11	62	null	null
+11	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+11	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+11	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+12	13	Tsinghua Univ., Beijing	null
+12	14	Tsinghua Univ., Beijing	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+12	15	Tsinghua Univ., Beijing	Hong Kong University of Science and Technology, Hong Kong
+12	16	Tsinghua Univ., Beijing	null
+12	17	Tsinghua Univ., Beijing	null
+12	18	Tsinghua Univ., Beijing	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+12	19	Tsinghua Univ., Beijing	null
+12	20	Tsinghua Univ., Beijing	null
+12	21	Tsinghua Univ., Beijing	null
+12	22	Tsinghua Univ., Beijing	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+12	23	Tsinghua Univ., Beijing	null
+12	24	Tsinghua Univ., Beijing	null
+12	25	Tsinghua Univ., Beijing	null
+12	26	Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+12	27	Tsinghua Univ., Beijing	Acadia University, Canada
+12	28	Tsinghua Univ., Beijing	Software Division, ICT, CAS
+12	29	Tsinghua Univ., Beijing	null
+12	30	Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+12	31	Tsinghua Univ., Beijing	null
+12	32	Tsinghua Univ., Beijing	null
+12	33	Tsinghua Univ., Beijing	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+12	34	Tsinghua Univ., Beijing	null
+12	35	Tsinghua Univ., Beijing	null
+12	36	Tsinghua Univ., Beijing	null
+12	37	Tsinghua Univ., Beijing	null
+12	38	Tsinghua Univ., Beijing	null
+12	39	Tsinghua Univ., Beijing	null
+12	40	Tsinghua Univ., Beijing	null
+12	41	Tsinghua Univ., Beijing	null
+12	42	Tsinghua Univ., Beijing	null
+12	43	Tsinghua Univ., Beijing	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+12	44	Tsinghua Univ., Beijing	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+12	45	Tsinghua Univ., Beijing	null
+12	46	Tsinghua Univ., Beijing	New Jersey Inst. of Technol., Newark
+12	47	Tsinghua Univ., Beijing	null
+12	48	Tsinghua Univ., Beijing	null
+12	49	Tsinghua Univ., Beijing	null
+12	50	Tsinghua Univ., Beijing	null
+12	51	Tsinghua Univ., Beijing	Lawrence Berkeley National Laboratory, Berkeley, CA
+12	52	Tsinghua Univ., Beijing	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+12	53	Tsinghua Univ., Beijing	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+12	54	Tsinghua Univ., Beijing	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+12	55	Tsinghua Univ., Beijing	null
+12	56	Tsinghua Univ., Beijing	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+12	57	Tsinghua Univ., Beijing	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+12	58	Tsinghua Univ., Beijing	null
+12	59	Tsinghua Univ., Beijing	Hong Kong University of Science and Technology, Hong Kong
+12	60	Tsinghua Univ., Beijing	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+12	61	Tsinghua Univ., Beijing	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+12	62	Tsinghua Univ., Beijing	null
+12	63	Tsinghua Univ., Beijing	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+12	64	Tsinghua Univ., Beijing	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+12	65	Tsinghua Univ., Beijing	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+13	14	null	The Hong Kong University of Science and Technology, Kowloon, Hong Kong
+13	15	null	Hong Kong University of Science and Technology, Hong Kong
+13	16	null	null
+13	17	null	null
+13	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	Tsinghua University, Beijing, China
+13	27	null	Acadia University, Canada
+13	28	null	Software Division, ICT, CAS
+13	29	null	null
+13	30	null	Tsinghua University, Beijing, China
+13	31	null	null
+13	32	null	null
+13	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+13	34	null	null
+13	35	null	null
+13	36	null	null
+13	37	null	null
+13	38	null	null
+13	39	null	null
+13	40	null	null
+13	41	null	null
+13	42	null	null
+13	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+13	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+13	45	null	null
+13	46	null	New Jersey Inst. of Technol., Newark
+13	47	null	null
+13	48	null	null
+13	49	null	null
+13	50	null	null
+13	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+13	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+13	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+13	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+13	55	null	null
+13	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+13	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+13	58	null	null
+13	59	null	Hong Kong University of Science and Technology, Hong Kong
+13	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+13	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+13	62	null	null
+13	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+13	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+13	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+14	15	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+14	16	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	17	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	18	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+14	19	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	20	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	21	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	22	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+14	23	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	24	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	25	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	26	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Tsinghua University, Beijing, China
+14	27	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Acadia University, Canada
+14	28	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Software Division, ICT, CAS
+14	29	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	30	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Tsinghua University, Beijing, China
+14	31	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	32	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	33	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+14	34	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	35	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	36	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	37	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	38	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	39	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	40	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	41	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	42	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	43	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+14	44	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+14	45	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	46	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	New Jersey Inst. of Technol., Newark
+14	47	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	48	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	49	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	50	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	51	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Lawrence Berkeley National Laboratory, Berkeley, CA
+14	52	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+14	53	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+14	54	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+14	55	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	56	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+14	57	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+14	58	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	59	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+14	60	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+14	61	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+14	62	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	null
+14	63	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+14	64	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+14	65	The Hong Kong University of Science and Technology, Kowloon, Hong Kong	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+15	16	Hong Kong University of Science and Technology, Hong Kong	null
+15	17	Hong Kong University of Science and Technology, Hong Kong	null
+15	18	Hong Kong University of Science and Technology, Hong Kong	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+15	19	Hong Kong University of Science and Technology, Hong Kong	null
+15	20	Hong Kong University of Science and Technology, Hong Kong	null
+15	21	Hong Kong University of Science and Technology, Hong Kong	null
+15	22	Hong Kong University of Science and Technology, Hong Kong	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+15	23	Hong Kong University of Science and Technology, Hong Kong	null
+15	24	Hong Kong University of Science and Technology, Hong Kong	null
+15	25	Hong Kong University of Science and Technology, Hong Kong	null
+15	26	Hong Kong University of Science and Technology, Hong Kong	Tsinghua University, Beijing, China
+15	27	Hong Kong University of Science and Technology, Hong Kong	Acadia University, Canada
+15	28	Hong Kong University of Science and Technology, Hong Kong	Software Division, ICT, CAS
+15	29	Hong Kong University of Science and Technology, Hong Kong	null
+15	30	Hong Kong University of Science and Technology, Hong Kong	Tsinghua University, Beijing, China
+15	31	Hong Kong University of Science and Technology, Hong Kong	null
+15	32	Hong Kong University of Science and Technology, Hong Kong	null
+15	33	Hong Kong University of Science and Technology, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+15	34	Hong Kong University of Science and Technology, Hong Kong	null
+15	35	Hong Kong University of Science and Technology, Hong Kong	null
+15	36	Hong Kong University of Science and Technology, Hong Kong	null
+15	37	Hong Kong University of Science and Technology, Hong Kong	null
+15	38	Hong Kong University of Science and Technology, Hong Kong	null
+15	39	Hong Kong University of Science and Technology, Hong Kong	null
+15	40	Hong Kong University of Science and Technology, Hong Kong	null
+15	41	Hong Kong University of Science and Technology, Hong Kong	null
+15	42	Hong Kong University of Science and Technology, Hong Kong	null
+15	43	Hong Kong University of Science and Technology, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+15	44	Hong Kong University of Science and Technology, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+15	45	Hong Kong University of Science and Technology, Hong Kong	null
+15	46	Hong Kong University of Science and Technology, Hong Kong	New Jersey Inst. of Technol., Newark
+15	47	Hong Kong University of Science and Technology, Hong Kong	null
+15	48	Hong Kong University of Science and Technology, Hong Kong	null
+15	49	Hong Kong University of Science and Technology, Hong Kong	null
+15	50	Hong Kong University of Science and Technology, Hong Kong	null
+15	51	Hong Kong University of Science and Technology, Hong Kong	Lawrence Berkeley National Laboratory, Berkeley, CA
+15	52	Hong Kong University of Science and Technology, Hong Kong	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+15	53	Hong Kong University of Science and Technology, Hong Kong	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+15	54	Hong Kong University of Science and Technology, Hong Kong	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+15	55	Hong Kong University of Science and Technology, Hong Kong	null
+15	56	Hong Kong University of Science and Technology, Hong Kong	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+15	57	Hong Kong University of Science and Technology, Hong Kong	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+15	58	Hong Kong University of Science and Technology, Hong Kong	null
+15	59	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+15	60	Hong Kong University of Science and Technology, Hong Kong	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+15	61	Hong Kong University of Science and Technology, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+15	62	Hong Kong University of Science and Technology, Hong Kong	null
+15	63	Hong Kong University of Science and Technology, Hong Kong	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+15	64	Hong Kong University of Science and Technology, Hong Kong	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+15	65	Hong Kong University of Science and Technology, Hong Kong	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+16	17	null	null
+16	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	Tsinghua University, Beijing, China
+16	27	null	Acadia University, Canada
+16	28	null	Software Division, ICT, CAS
+16	29	null	null
+16	30	null	Tsinghua University, Beijing, China
+16	31	null	null
+16	32	null	null
+16	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+16	34	null	null
+16	35	null	null
+16	36	null	null
+16	37	null	null
+16	38	null	null
+16	39	null	null
+16	40	null	null
+16	41	null	null
+16	42	null	null
+16	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+16	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+16	45	null	null
+16	46	null	New Jersey Inst. of Technol., Newark
+16	47	null	null
+16	48	null	null
+16	49	null	null
+16	50	null	null
+16	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+16	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+16	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+16	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+16	55	null	null
+16	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+16	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+16	58	null	null
+16	59	null	Hong Kong University of Science and Technology, Hong Kong
+16	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+16	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+16	62	null	null
+16	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+16	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+16	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+17	18	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	Tsinghua University, Beijing, China
+17	27	null	Acadia University, Canada
+17	28	null	Software Division, ICT, CAS
+17	29	null	null
+17	30	null	Tsinghua University, Beijing, China
+17	31	null	null
+17	32	null	null
+17	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+17	34	null	null
+17	35	null	null
+17	36	null	null
+17	37	null	null
+17	38	null	null
+17	39	null	null
+17	40	null	null
+17	41	null	null
+17	42	null	null
+17	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+17	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+17	45	null	null
+17	46	null	New Jersey Inst. of Technol., Newark
+17	47	null	null
+17	48	null	null
+17	49	null	null
+17	50	null	null
+17	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+17	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+17	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+17	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+17	55	null	null
+17	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+17	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+17	58	null	null
+17	59	null	Hong Kong University of Science and Technology, Hong Kong
+17	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+17	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+17	62	null	null
+17	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+17	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+17	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+18	19	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	20	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	21	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	22	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+18	23	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	24	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	25	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	26	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Tsinghua University, Beijing, China
+18	27	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Acadia University, Canada
+18	28	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Software Division, ICT, CAS
+18	29	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	30	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Tsinghua University, Beijing, China
+18	31	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	32	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	33	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+18	34	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	35	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	36	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	37	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	38	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	39	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	40	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	41	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	42	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	43	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+18	44	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+18	45	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	46	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	New Jersey Inst. of Technol., Newark
+18	47	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	48	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	49	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	50	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	51	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Lawrence Berkeley National Laboratory, Berkeley, CA
+18	52	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+18	53	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+18	54	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+18	55	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	56	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+18	57	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+18	58	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	59	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Hong Kong University of Science and Technology, Hong Kong
+18	60	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+18	61	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+18	62	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+18	63	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+18	64	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+18	65	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+19	20	null	null
+19	21	null	null
+19	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	Tsinghua University, Beijing, China
+19	27	null	Acadia University, Canada
+19	28	null	Software Division, ICT, CAS
+19	29	null	null
+19	30	null	Tsinghua University, Beijing, China
+19	31	null	null
+19	32	null	null
+19	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+19	34	null	null
+19	35	null	null
+19	36	null	null
+19	37	null	null
+19	38	null	null
+19	39	null	null
+19	40	null	null
+19	41	null	null
+19	42	null	null
+19	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+19	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+19	45	null	null
+19	46	null	New Jersey Inst. of Technol., Newark
+19	47	null	null
+19	48	null	null
+19	49	null	null
+19	50	null	null
+19	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+19	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+19	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+19	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+19	55	null	null
+19	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+19	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+19	58	null	null
+19	59	null	Hong Kong University of Science and Technology, Hong Kong
+19	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+19	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+19	62	null	null
+19	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+19	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+19	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+20	21	null	null
+20	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+20	23	null	null
+20	24	null	null
+20	25	null	null
+20	26	null	Tsinghua University, Beijing, China
+20	27	null	Acadia University, Canada
+20	28	null	Software Division, ICT, CAS
+20	29	null	null
+20	30	null	Tsinghua University, Beijing, China
+20	31	null	null
+20	32	null	null
+20	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+20	34	null	null
+20	35	null	null
+20	36	null	null
+20	37	null	null
+20	38	null	null
+20	39	null	null
+20	40	null	null
+20	41	null	null
+20	42	null	null
+20	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+20	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+20	45	null	null
+20	46	null	New Jersey Inst. of Technol., Newark
+20	47	null	null
+20	48	null	null
+20	49	null	null
+20	50	null	null
+20	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+20	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+20	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+20	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+20	55	null	null
+20	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+20	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+20	58	null	null
+20	59	null	Hong Kong University of Science and Technology, Hong Kong
+20	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+20	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+20	62	null	null
+20	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+20	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+20	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+21	22	null	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	Tsinghua University, Beijing, China
+21	27	null	Acadia University, Canada
+21	28	null	Software Division, ICT, CAS
+21	29	null	null
+21	30	null	Tsinghua University, Beijing, China
+21	31	null	null
+21	32	null	null
+21	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+21	34	null	null
+21	35	null	null
+21	36	null	null
+21	37	null	null
+21	38	null	null
+21	39	null	null
+21	40	null	null
+21	41	null	null
+21	42	null	null
+21	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+21	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+21	45	null	null
+21	46	null	New Jersey Inst. of Technol., Newark
+21	47	null	null
+21	48	null	null
+21	49	null	null
+21	50	null	null
+21	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+21	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+21	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+21	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+21	55	null	null
+21	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+21	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+21	58	null	null
+21	59	null	Hong Kong University of Science and Technology, Hong Kong
+21	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+21	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+21	62	null	null
+21	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+21	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+21	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+22	23	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	24	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	25	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	26	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Tsinghua University, Beijing, China
+22	27	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Acadia University, Canada
+22	28	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Software Division, ICT, CAS
+22	29	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	30	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Tsinghua University, Beijing, China
+22	31	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	32	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	33	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+22	34	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	35	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	36	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	37	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	38	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	39	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	40	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	41	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	42	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	43	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+22	44	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+22	45	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	46	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	New Jersey Inst. of Technol., Newark
+22	47	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	48	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	49	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	50	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	51	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Lawrence Berkeley National Laboratory, Berkeley, CA
+22	52	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+22	53	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+22	54	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+22	55	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	56	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+22	57	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+22	58	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	59	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Hong Kong University of Science and Technology, Hong Kong
+22	60	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+22	61	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+22	62	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	null
+22	63	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+22	64	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+22	65	Life Sci. Div., Lawrence Berkeley Nat. Lab., Berkeley, CA, USA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+23	24	null	null
+23	25	null	null
+23	26	null	Tsinghua University, Beijing, China
+23	27	null	Acadia University, Canada
+23	28	null	Software Division, ICT, CAS
+23	29	null	null
+23	30	null	Tsinghua University, Beijing, China
+23	31	null	null
+23	32	null	null
+23	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+23	34	null	null
+23	35	null	null
+23	36	null	null
+23	37	null	null
+23	38	null	null
+23	39	null	null
+23	40	null	null
+23	41	null	null
+23	42	null	null
+23	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+23	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+23	45	null	null
+23	46	null	New Jersey Inst. of Technol., Newark
+23	47	null	null
+23	48	null	null
+23	49	null	null
+23	50	null	null
+23	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+23	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+23	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+23	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+23	55	null	null
+23	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+23	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+23	58	null	null
+23	59	null	Hong Kong University of Science and Technology, Hong Kong
+23	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+23	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+23	62	null	null
+23	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+23	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+23	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+24	25	null	null
+24	26	null	Tsinghua University, Beijing, China
+24	27	null	Acadia University, Canada
+24	28	null	Software Division, ICT, CAS
+24	29	null	null
+24	30	null	Tsinghua University, Beijing, China
+24	31	null	null
+24	32	null	null
+24	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+24	34	null	null
+24	35	null	null
+24	36	null	null
+24	37	null	null
+24	38	null	null
+24	39	null	null
+24	40	null	null
+24	41	null	null
+24	42	null	null
+24	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+24	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+24	45	null	null
+24	46	null	New Jersey Inst. of Technol., Newark
+24	47	null	null
+24	48	null	null
+24	49	null	null
+24	50	null	null
+24	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+24	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+24	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+24	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+24	55	null	null
+24	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+24	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+24	58	null	null
+24	59	null	Hong Kong University of Science and Technology, Hong Kong
+24	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+24	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+24	62	null	null
+24	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+24	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+24	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+25	26	null	Tsinghua University, Beijing, China
+25	27	null	Acadia University, Canada
+25	28	null	Software Division, ICT, CAS
+25	29	null	null
+25	30	null	Tsinghua University, Beijing, China
+25	31	null	null
+25	32	null	null
+25	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+25	34	null	null
+25	35	null	null
+25	36	null	null
+25	37	null	null
+25	38	null	null
+25	39	null	null
+25	40	null	null
+25	41	null	null
+25	42	null	null
+25	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+25	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+25	45	null	null
+25	46	null	New Jersey Inst. of Technol., Newark
+25	47	null	null
+25	48	null	null
+25	49	null	null
+25	50	null	null
+25	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+25	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+25	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+25	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+25	55	null	null
+25	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+25	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+25	58	null	null
+25	59	null	Hong Kong University of Science and Technology, Hong Kong
+25	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+25	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+25	62	null	null
+25	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+25	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+25	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+26	27	Tsinghua University, Beijing, China	Acadia University, Canada
+26	28	Tsinghua University, Beijing, China	Software Division, ICT, CAS
+26	29	Tsinghua University, Beijing, China	null
+26	30	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+26	31	Tsinghua University, Beijing, China	null
+26	32	Tsinghua University, Beijing, China	null
+26	33	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+26	34	Tsinghua University, Beijing, China	null
+26	35	Tsinghua University, Beijing, China	null
+26	36	Tsinghua University, Beijing, China	null
+26	37	Tsinghua University, Beijing, China	null
+26	38	Tsinghua University, Beijing, China	null
+26	39	Tsinghua University, Beijing, China	null
+26	40	Tsinghua University, Beijing, China	null
+26	41	Tsinghua University, Beijing, China	null
+26	42	Tsinghua University, Beijing, China	null
+26	43	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+26	44	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+26	45	Tsinghua University, Beijing, China	null
+26	46	Tsinghua University, Beijing, China	New Jersey Inst. of Technol., Newark
+26	47	Tsinghua University, Beijing, China	null
+26	48	Tsinghua University, Beijing, China	null
+26	49	Tsinghua University, Beijing, China	null
+26	50	Tsinghua University, Beijing, China	null
+26	51	Tsinghua University, Beijing, China	Lawrence Berkeley National Laboratory, Berkeley, CA
+26	52	Tsinghua University, Beijing, China	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+26	53	Tsinghua University, Beijing, China	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+26	54	Tsinghua University, Beijing, China	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+26	55	Tsinghua University, Beijing, China	null
+26	56	Tsinghua University, Beijing, China	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+26	57	Tsinghua University, Beijing, China	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+26	58	Tsinghua University, Beijing, China	null
+26	59	Tsinghua University, Beijing, China	Hong Kong University of Science and Technology, Hong Kong
+26	60	Tsinghua University, Beijing, China	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+26	61	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+26	62	Tsinghua University, Beijing, China	null
+26	63	Tsinghua University, Beijing, China	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+26	64	Tsinghua University, Beijing, China	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+26	65	Tsinghua University, Beijing, China	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+27	28	Acadia University, Canada	Software Division, ICT, CAS
+27	29	Acadia University, Canada	null
+27	30	Acadia University, Canada	Tsinghua University, Beijing, China
+27	31	Acadia University, Canada	null
+27	32	Acadia University, Canada	null
+27	33	Acadia University, Canada	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+27	34	Acadia University, Canada	null
+27	35	Acadia University, Canada	null
+27	36	Acadia University, Canada	null
+27	37	Acadia University, Canada	null
+27	38	Acadia University, Canada	null
+27	39	Acadia University, Canada	null
+27	40	Acadia University, Canada	null
+27	41	Acadia University, Canada	null
+27	42	Acadia University, Canada	null
+27	43	Acadia University, Canada	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+27	44	Acadia University, Canada	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+27	45	Acadia University, Canada	null
+27	46	Acadia University, Canada	New Jersey Inst. of Technol., Newark
+27	47	Acadia University, Canada	null
+27	48	Acadia University, Canada	null
+27	49	Acadia University, Canada	null
+27	50	Acadia University, Canada	null
+27	51	Acadia University, Canada	Lawrence Berkeley National Laboratory, Berkeley, CA
+27	52	Acadia University, Canada	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+27	53	Acadia University, Canada	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+27	54	Acadia University, Canada	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+27	55	Acadia University, Canada	null
+27	56	Acadia University, Canada	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+27	57	Acadia University, Canada	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+27	58	Acadia University, Canada	null
+27	59	Acadia University, Canada	Hong Kong University of Science and Technology, Hong Kong
+27	60	Acadia University, Canada	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+27	61	Acadia University, Canada	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+27	62	Acadia University, Canada	null
+27	63	Acadia University, Canada	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+27	64	Acadia University, Canada	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+27	65	Acadia University, Canada	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+28	29	Software Division, ICT, CAS	null
+28	30	Software Division, ICT, CAS	Tsinghua University, Beijing, China
+28	31	Software Division, ICT, CAS	null
+28	32	Software Division, ICT, CAS	null
+28	33	Software Division, ICT, CAS	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+28	34	Software Division, ICT, CAS	null
+28	35	Software Division, ICT, CAS	null
+28	36	Software Division, ICT, CAS	null
+28	37	Software Division, ICT, CAS	null
+28	38	Software Division, ICT, CAS	null
+28	39	Software Division, ICT, CAS	null
+28	40	Software Division, ICT, CAS	null
+28	41	Software Division, ICT, CAS	null
+28	42	Software Division, ICT, CAS	null
+28	43	Software Division, ICT, CAS	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+28	44	Software Division, ICT, CAS	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+28	45	Software Division, ICT, CAS	null
+28	46	Software Division, ICT, CAS	New Jersey Inst. of Technol., Newark
+28	47	Software Division, ICT, CAS	null
+28	48	Software Division, ICT, CAS	null
+28	49	Software Division, ICT, CAS	null
+28	50	Software Division, ICT, CAS	null
+28	51	Software Division, ICT, CAS	Lawrence Berkeley National Laboratory, Berkeley, CA
+28	52	Software Division, ICT, CAS	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+28	53	Software Division, ICT, CAS	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+28	54	Software Division, ICT, CAS	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+28	55	Software Division, ICT, CAS	null
+28	56	Software Division, ICT, CAS	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+28	57	Software Division, ICT, CAS	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+28	58	Software Division, ICT, CAS	null
+28	59	Software Division, ICT, CAS	Hong Kong University of Science and Technology, Hong Kong
+28	60	Software Division, ICT, CAS	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+28	61	Software Division, ICT, CAS	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+28	62	Software Division, ICT, CAS	null
+28	63	Software Division, ICT, CAS	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+28	64	Software Division, ICT, CAS	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+28	65	Software Division, ICT, CAS	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+29	30	null	Tsinghua University, Beijing, China
+29	31	null	null
+29	32	null	null
+29	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+29	34	null	null
+29	35	null	null
+29	36	null	null
+29	37	null	null
+29	38	null	null
+29	39	null	null
+29	40	null	null
+29	41	null	null
+29	42	null	null
+29	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+29	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+29	45	null	null
+29	46	null	New Jersey Inst. of Technol., Newark
+29	47	null	null
+29	48	null	null
+29	49	null	null
+29	50	null	null
+29	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+29	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+29	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+29	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+29	55	null	null
+29	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+29	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+29	58	null	null
+29	59	null	Hong Kong University of Science and Technology, Hong Kong
+29	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+29	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+29	62	null	null
+29	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+29	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+29	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+30	31	Tsinghua University, Beijing, China	null
+30	32	Tsinghua University, Beijing, China	null
+30	33	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+30	34	Tsinghua University, Beijing, China	null
+30	35	Tsinghua University, Beijing, China	null
+30	36	Tsinghua University, Beijing, China	null
+30	37	Tsinghua University, Beijing, China	null
+30	38	Tsinghua University, Beijing, China	null
+30	39	Tsinghua University, Beijing, China	null
+30	40	Tsinghua University, Beijing, China	null
+30	41	Tsinghua University, Beijing, China	null
+30	42	Tsinghua University, Beijing, China	null
+30	43	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+30	44	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+30	45	Tsinghua University, Beijing, China	null
+30	46	Tsinghua University, Beijing, China	New Jersey Inst. of Technol., Newark
+30	47	Tsinghua University, Beijing, China	null
+30	48	Tsinghua University, Beijing, China	null
+30	49	Tsinghua University, Beijing, China	null
+30	50	Tsinghua University, Beijing, China	null
+30	51	Tsinghua University, Beijing, China	Lawrence Berkeley National Laboratory, Berkeley, CA
+30	52	Tsinghua University, Beijing, China	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+30	53	Tsinghua University, Beijing, China	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+30	54	Tsinghua University, Beijing, China	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+30	55	Tsinghua University, Beijing, China	null
+30	56	Tsinghua University, Beijing, China	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+30	57	Tsinghua University, Beijing, China	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+30	58	Tsinghua University, Beijing, China	null
+30	59	Tsinghua University, Beijing, China	Hong Kong University of Science and Technology, Hong Kong
+30	60	Tsinghua University, Beijing, China	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+30	61	Tsinghua University, Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+30	62	Tsinghua University, Beijing, China	null
+30	63	Tsinghua University, Beijing, China	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+30	64	Tsinghua University, Beijing, China	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+30	65	Tsinghua University, Beijing, China	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+31	32	null	null
+31	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+31	34	null	null
+31	35	null	null
+31	36	null	null
+31	37	null	null
+31	38	null	null
+31	39	null	null
+31	40	null	null
+31	41	null	null
+31	42	null	null
+31	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+31	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+31	45	null	null
+31	46	null	New Jersey Inst. of Technol., Newark
+31	47	null	null
+31	48	null	null
+31	49	null	null
+31	50	null	null
+31	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+31	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+31	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+31	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+31	55	null	null
+31	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+31	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+31	58	null	null
+31	59	null	Hong Kong University of Science and Technology, Hong Kong
+31	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+31	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+31	62	null	null
+31	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+31	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+31	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+32	33	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA
+32	34	null	null
+32	35	null	null
+32	36	null	null
+32	37	null	null
+32	38	null	null
+32	39	null	null
+32	40	null	null
+32	41	null	null
+32	42	null	null
+32	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+32	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+32	45	null	null
+32	46	null	New Jersey Inst. of Technol., Newark
+32	47	null	null
+32	48	null	null
+32	49	null	null
+32	50	null	null
+32	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+32	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+32	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+32	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+32	55	null	null
+32	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+32	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+32	58	null	null
+32	59	null	Hong Kong University of Science and Technology, Hong Kong
+32	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+32	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+32	62	null	null
+32	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+32	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+32	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+33	34	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	35	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	36	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	37	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	38	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	39	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	40	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	41	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	42	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	43	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+33	44	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+33	45	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	46	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	New Jersey Inst. of Technol., Newark
+33	47	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	48	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	49	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	50	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	51	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Lawrence Berkeley National Laboratory, Berkeley, CA
+33	52	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+33	53	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+33	54	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+33	55	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	56	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+33	57	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+33	58	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	59	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Hong Kong University of Science and Technology, Hong Kong
+33	60	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+33	61	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+33	62	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	null
+33	63	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+33	64	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+33	65	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, USA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+34	35	null	null
+34	36	null	null
+34	37	null	null
+34	38	null	null
+34	39	null	null
+34	40	null	null
+34	41	null	null
+34	42	null	null
+34	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+34	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+34	45	null	null
+34	46	null	New Jersey Inst. of Technol., Newark
+34	47	null	null
+34	48	null	null
+34	49	null	null
+34	50	null	null
+34	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+34	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+34	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+34	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+34	55	null	null
+34	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+34	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+34	58	null	null
+34	59	null	Hong Kong University of Science and Technology, Hong Kong
+34	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+34	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+34	62	null	null
+34	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+34	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+34	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+35	36	null	null
+35	37	null	null
+35	38	null	null
+35	39	null	null
+35	40	null	null
+35	41	null	null
+35	42	null	null
+35	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+35	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+35	45	null	null
+35	46	null	New Jersey Inst. of Technol., Newark
+35	47	null	null
+35	48	null	null
+35	49	null	null
+35	50	null	null
+35	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+35	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+35	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+35	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+35	55	null	null
+35	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+35	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+35	58	null	null
+35	59	null	Hong Kong University of Science and Technology, Hong Kong
+35	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+35	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+35	62	null	null
+35	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+35	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+35	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+36	37	null	null
+36	38	null	null
+36	39	null	null
+36	40	null	null
+36	41	null	null
+36	42	null	null
+36	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+36	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+36	45	null	null
+36	46	null	New Jersey Inst. of Technol., Newark
+36	47	null	null
+36	48	null	null
+36	49	null	null
+36	50	null	null
+36	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+36	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+36	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+36	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+36	55	null	null
+36	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+36	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+36	58	null	null
+36	59	null	Hong Kong University of Science and Technology, Hong Kong
+36	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+36	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+36	62	null	null
+36	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+36	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+36	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+37	38	null	null
+37	39	null	null
+37	40	null	null
+37	41	null	null
+37	42	null	null
+37	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+37	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+37	45	null	null
+37	46	null	New Jersey Inst. of Technol., Newark
+37	47	null	null
+37	48	null	null
+37	49	null	null
+37	50	null	null
+37	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+37	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+37	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+37	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+37	55	null	null
+37	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+37	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+37	58	null	null
+37	59	null	Hong Kong University of Science and Technology, Hong Kong
+37	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+37	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+37	62	null	null
+37	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+37	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+37	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+38	39	null	null
+38	40	null	null
+38	41	null	null
+38	42	null	null
+38	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+38	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+38	45	null	null
+38	46	null	New Jersey Inst. of Technol., Newark
+38	47	null	null
+38	48	null	null
+38	49	null	null
+38	50	null	null
+38	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+38	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+38	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+38	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+38	55	null	null
+38	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+38	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+38	58	null	null
+38	59	null	Hong Kong University of Science and Technology, Hong Kong
+38	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+38	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+38	62	null	null
+38	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+38	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+38	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+39	40	null	null
+39	41	null	null
+39	42	null	null
+39	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+39	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+39	45	null	null
+39	46	null	New Jersey Inst. of Technol., Newark
+39	47	null	null
+39	48	null	null
+39	49	null	null
+39	50	null	null
+39	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+39	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+39	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+39	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+39	55	null	null
+39	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+39	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+39	58	null	null
+39	59	null	Hong Kong University of Science and Technology, Hong Kong
+39	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+39	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+39	62	null	null
+39	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+39	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+39	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+40	41	null	null
+40	42	null	null
+40	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+40	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+40	45	null	null
+40	46	null	New Jersey Inst. of Technol., Newark
+40	47	null	null
+40	48	null	null
+40	49	null	null
+40	50	null	null
+40	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+40	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+40	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+40	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+40	55	null	null
+40	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+40	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+40	58	null	null
+40	59	null	Hong Kong University of Science and Technology, Hong Kong
+40	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+40	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+40	62	null	null
+40	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+40	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+40	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+41	42	null	null
+41	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+41	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+41	45	null	null
+41	46	null	New Jersey Inst. of Technol., Newark
+41	47	null	null
+41	48	null	null
+41	49	null	null
+41	50	null	null
+41	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+41	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+41	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+41	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+41	55	null	null
+41	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+41	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+41	58	null	null
+41	59	null	Hong Kong University of Science and Technology, Hong Kong
+41	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+41	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+41	62	null	null
+41	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+41	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+41	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+42	43	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA
+42	44	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+42	45	null	null
+42	46	null	New Jersey Inst. of Technol., Newark
+42	47	null	null
+42	48	null	null
+42	49	null	null
+42	50	null	null
+42	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+42	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+42	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+42	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+42	55	null	null
+42	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+42	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+42	58	null	null
+42	59	null	Hong Kong University of Science and Technology, Hong Kong
+42	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+42	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+42	62	null	null
+42	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+42	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+42	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+43	44	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States
+43	45	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	46	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	New Jersey Inst. of Technol., Newark
+43	47	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	48	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	49	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	50	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	51	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Lawrence Berkeley National Laboratory, Berkeley, CA
+43	52	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+43	53	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+43	54	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+43	55	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	56	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+43	57	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+43	58	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	59	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Hong Kong University of Science and Technology, Hong Kong
+43	60	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+43	61	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+43	62	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	null
+43	63	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+43	64	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+43	65	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA and Applied Bioinformatics Laboratory, College of Computing Sciences, New Jersey Institute of Technology, University Heights, Newark, NJ 07102, USA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+44	45	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	46	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	New Jersey Inst. of Technol., Newark
+44	47	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	48	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	49	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	50	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	51	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Lawrence Berkeley National Laboratory, Berkeley, CA
+44	52	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+44	53	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+44	54	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+44	55	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	56	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+44	57	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+44	58	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	59	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Hong Kong University of Science and Technology, Hong Kong
+44	60	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+44	61	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+44	62	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	null
+44	63	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+44	64	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+44	65	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ 07102, United States	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+45	46	null	New Jersey Inst. of Technol., Newark
+45	47	null	null
+45	48	null	null
+45	49	null	null
+45	50	null	null
+45	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+45	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+45	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+45	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+45	55	null	null
+45	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+45	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+45	58	null	null
+45	59	null	Hong Kong University of Science and Technology, Hong Kong
+45	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+45	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+45	62	null	null
+45	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+45	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+45	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+46	47	New Jersey Inst. of Technol., Newark	null
+46	48	New Jersey Inst. of Technol., Newark	null
+46	49	New Jersey Inst. of Technol., Newark	null
+46	50	New Jersey Inst. of Technol., Newark	null
+46	51	New Jersey Inst. of Technol., Newark	Lawrence Berkeley National Laboratory, Berkeley, CA
+46	52	New Jersey Inst. of Technol., Newark	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+46	53	New Jersey Inst. of Technol., Newark	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+46	54	New Jersey Inst. of Technol., Newark	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+46	55	New Jersey Inst. of Technol., Newark	null
+46	56	New Jersey Inst. of Technol., Newark	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+46	57	New Jersey Inst. of Technol., Newark	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+46	58	New Jersey Inst. of Technol., Newark	null
+46	59	New Jersey Inst. of Technol., Newark	Hong Kong University of Science and Technology, Hong Kong
+46	60	New Jersey Inst. of Technol., Newark	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+46	61	New Jersey Inst. of Technol., Newark	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+46	62	New Jersey Inst. of Technol., Newark	null
+46	63	New Jersey Inst. of Technol., Newark	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+46	64	New Jersey Inst. of Technol., Newark	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+46	65	New Jersey Inst. of Technol., Newark	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+47	48	null	null
+47	49	null	null
+47	50	null	null
+47	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+47	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+47	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+47	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+47	55	null	null
+47	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+47	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+47	58	null	null
+47	59	null	Hong Kong University of Science and Technology, Hong Kong
+47	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+47	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+47	62	null	null
+47	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+47	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+47	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+48	49	null	null
+48	50	null	null
+48	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+48	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+48	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+48	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+48	55	null	null
+48	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+48	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+48	58	null	null
+48	59	null	Hong Kong University of Science and Technology, Hong Kong
+48	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+48	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+48	62	null	null
+48	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+48	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+48	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+49	50	null	null
+49	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+49	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+49	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+49	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+49	55	null	null
+49	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+49	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+49	58	null	null
+49	59	null	Hong Kong University of Science and Technology, Hong Kong
+49	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+49	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+49	62	null	null
+49	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+49	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+49	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+50	51	null	Lawrence Berkeley National Laboratory, Berkeley, CA
+50	52	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+50	53	null	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+50	54	null	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+50	55	null	null
+50	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+50	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+50	58	null	null
+50	59	null	Hong Kong University of Science and Technology, Hong Kong
+50	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+50	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+50	62	null	null
+50	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+50	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+50	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+51	52	Lawrence Berkeley National Laboratory, Berkeley, CA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA
+51	53	Lawrence Berkeley National Laboratory, Berkeley, CA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+51	54	Lawrence Berkeley National Laboratory, Berkeley, CA	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+51	55	Lawrence Berkeley National Laboratory, Berkeley, CA	null
+51	56	Lawrence Berkeley National Laboratory, Berkeley, CA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+51	57	Lawrence Berkeley National Laboratory, Berkeley, CA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+51	58	Lawrence Berkeley National Laboratory, Berkeley, CA	null
+51	59	Lawrence Berkeley National Laboratory, Berkeley, CA	Hong Kong University of Science and Technology, Hong Kong
+51	60	Lawrence Berkeley National Laboratory, Berkeley, CA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+51	61	Lawrence Berkeley National Laboratory, Berkeley, CA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+51	62	Lawrence Berkeley National Laboratory, Berkeley, CA	null
+51	63	Lawrence Berkeley National Laboratory, Berkeley, CA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+51	64	Lawrence Berkeley National Laboratory, Berkeley, CA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+51	65	Lawrence Berkeley National Laboratory, Berkeley, CA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+52	53	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA
+52	54	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+52	55	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	null
+52	56	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+52	57	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+52	58	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	null
+52	59	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Hong Kong University of Science and Technology, Hong Kong
+52	60	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+52	61	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+52	62	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	null
+52	63	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+52	64	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+52	65	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA, USA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+53	54	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA
+53	55	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+53	56	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+53	57	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+53	58	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+53	59	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Hong Kong University of Science and Technology, Hong Kong
+53	60	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+53	61	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+53	62	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	null
+53	63	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+53	64	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+53	65	Dept. of Electr. & Comput. Eng., Worcester Polytech. Inst., Worcester, MA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+54	55	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	null
+54	56	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+54	57	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+54	58	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	null
+54	59	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Hong Kong University of Science and Technology, Hong Kong
+54	60	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+54	61	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+54	62	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	null
+54	63	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+54	64	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+54	65	Department of Electrical and Computer Engineering, Worcester Polytechnic Institute, Worcester, MA	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+55	56	null	Sch. of Mech. Eng., Tongji Univ., Shanghai, China
+55	57	null	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+55	58	null	null
+55	59	null	Hong Kong University of Science and Technology, Hong Kong
+55	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+55	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+55	62	null	null
+55	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+55	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+55	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+56	57	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+56	58	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	null
+56	59	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	Hong Kong University of Science and Technology, Hong Kong
+56	60	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+56	61	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+56	62	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	null
+56	63	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+56	64	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+56	65	Sch. of Mech. Eng., Tongji Univ., Shanghai, China	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+57	58	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	null
+57	59	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	Hong Kong University of Science and Technology, Hong Kong
+57	60	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+57	61	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+57	62	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	null
+57	63	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+57	64	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+57	65	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+58	59	null	Hong Kong University of Science and Technology, Hong Kong
+58	60	null	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+58	61	null	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+58	62	null	null
+58	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+58	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+58	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+59	60	Hong Kong University of Science and Technology, Hong Kong	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai
+59	61	Hong Kong University of Science and Technology, Hong Kong	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+59	62	Hong Kong University of Science and Technology, Hong Kong	null
+59	63	Hong Kong University of Science and Technology, Hong Kong	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+59	64	Hong Kong University of Science and Technology, Hong Kong	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+59	65	Hong Kong University of Science and Technology, Hong Kong	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+60	61	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ
+60	62	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai	null
+60	63	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+60	64	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+60	65	Coll. of Electr. Power & Autom. Eng., Shanghai Univ. of Electr. Power, Shanghai	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+61	62	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ	null
+61	63	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+61	64	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+61	65	Computer Vision Laboratory, College of Computing Sciences, New Jersey Institute of Technology, Newark, NJ	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+62	63	null	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China
+62	64	null	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+62	65	null	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+63	64	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China	Inst. of Inf. Technol., Beihang Univ., Beijing, China
+63	65	Sch. of Mech. Eng., Shenyang Univ. of Technol., Shenyang, China	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian
+64	65	Inst. of Inf. Technol., Beihang Univ., Beijing, China	Sch. of Electron. & Inf., Northwestern Polytech. Univ., Xian

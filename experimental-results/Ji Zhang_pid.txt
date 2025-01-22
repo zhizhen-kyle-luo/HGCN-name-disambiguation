@@ -1,0 +1,64 @@
+36878	TCP Quick-Adjust by Utilizing Explicit Link Characteristic Information
+43295	Modular verification of dynamically adaptive systems
+97245	Grid-ODF: Detecting Outliers Effectively and Efficiently in Large Multi-dimensional Databases
+122237	A Dynamic Scalable Video Conference System Based on SIP
+144501	Building XML Data Warehouse Based on Frequent Patterns in User Queries
+150642	An Information-Driven Framework for Image Mining
+150646	PC-Filter: A Robust Filtering Technique for Duplicate Record Detection in Large Databases
+150648	On Efficient and Effective Association Rule Mining from XML Data
+158817	A Color Indexing Scheme Using Two-level Clustering Processing for Effective and Efficient Image Retrieval
+217908	Fault Diagnosis Approach Based on Qualitative Model of Signed Directed Graph and Reasoning Rules
+224427	A Computational Framework and Browser for Supporting Automatic Genome Annotation
+265495	A Novel Dimensionality Reduction Technique Based on Independent Component Analysis for Modeling Microarray Gene Expression Data
+265498	Statistical Issues with Labeled Sample Size Analysis for Semi-Supervised Linear Discriminant Analysis
+265499	Generalized Semi-Infinite Optimization and its Application in Robotics' Path Planning Problem
+289783	A Novel Composite Kernel Approach to Chinese Entity Relation Extraction
+289829	Event-Based Summarization Using Critical Temporal Event Term Chain
+294133	Simplifying the Reconstruction of 3D Models using Parameter Elimination
+301949	SPOT: A System for Detecting Projected Outliers From High-dimensional Data Streams
+303120	A Novel Method for Detecting Outlying Subspaces in High-dimensional Databases Using Genetic Algorithm
+324318	Robust Bundle Adjustment for Structure from Motion
+363463	Model-based development of dynamically adaptive software
+363464	Enabling Safe Dynamic Component-Based Software Adaptation
+367756	Discover Gene Specific Local Co-regulations Using Progressive Genetic Algorithm
+394809	An Effective and Efficient Data Cleaning Technique in Large Databases
+402457	On a Class of Banyan Networks and Tandem Banyan Switching Fabrics
+402523	Spectral Decomposition Approach for Transient Analysis of Multi-Server Discrete-Time Queues
+402948	Performance Study of Markov Modulated Fluid Flow Models with Priority Traffic
+402964	The Transient Performance Analysis of Voice/Data Integrated Networks
+436009	Anomaly detection in high-dimensional network data streams: A case study
+446415	Itanium processor clock design
+473452	Image Mining: Issues, Frameworks and Techniques
+483364	Optimizing the Java Piped I/O Stream Library for Performance
+500242	Addressing mobility issues in mobile environment
+507447	AMOEBA-RT: Run-Time Verification of Adaptive Software
+644127	HOS-Miner: A System for Detecting Outlying Subspaces of High-dimensional Data
+665001	Proactive care-of address test for route optimization in FMIPv6
+674908	X-warehouse: building query pattern-driven data
+674912	XAR-miner: efficient association rules mining for XML data
+724661	Gait Planning Of Quadruped Robot Based On Third-Order Spline Interpolation
+730243	Research and Practice in Undergraduate Embedded System Course
+979868	A Framework for Efficient Association Rule Mining in XML Data
+982224	Image Mining: Trends and Developments
+982386	Clustering in Dynamic Spatial Databases
+997631	Using temporal logic to specify adaptive program semantics
+1003512	Detecting outlying subspaces for high-dimensional data: the new task, algorithms, and performance
+1037236	Spectral Decomposition Approach for Transient Analysis of Multi-Server Discrete-Time Queues
+1073329	Discover gene specific local co-regulations from time-course gene expression data
+1109810	The transient solution of time-dependent M/M/1 queues
+1168394	Specifying real-time properties in autonomic systems
+1179821	Specifying adaptation semantics
+1200887	D-GridMST: Clustering Large Distributed Spatial Databases
+1209808	Gene Specific Co-regulation Discovery: An Improved Approach
+1213105	Humanoid Robot Gait Generation Based on Limit Cycle Stability
+1241679	Detecting Projected Outliers in High-Dimensional Data Streams
+1304221	The Intelligent Reconfigurable Measuring Node Based on Wireless Access Network.
+1304504	A dynamic scalable service model for SIP-based video conference.
+1306965	Effect of energy feedbacks on Virtual Slope Walking: I. Complementary Energy Feedback.
+1312773	On the error analysis of vertical line pair-based monocular visual odometry in urban area.
+1329302	Effect of Gaze Direction and Face Expression on Visual Reflexive Attention.
+1366661	Towards outlier detection for high-dimensional data streams using projected outlier analysis strategy
+1580147	Hos-Miner: a system for detecting outlyting subspaces of high-dimensional data
+1585574	An Effective Error Concealment Framework For H.264 Decoder Based on Video Scene Change Detection
+1599631	AMOEBA-RT: Run-Time Verification of Adaptive Software
+1604146	Towards Re-engineering Legacy Systems for Assured Dynamic Adaptation

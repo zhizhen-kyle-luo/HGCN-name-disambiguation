@@ -1,0 +1,231 @@
+0	ACM Southeast Regional Conference
+1	CIT
+2	ISCA PDCS
+3	ACIVS
+4	ADMA
+5	ABZ
+6	Australian Conference on Artificial Intelligence
+7	BIOCOMP
+8	BIOCOMP
+9	CAINE
+10	CATA
+11	CIBCB
+12	COMPSAC
+13	COMPSAC
+14	COMPSAC
+15	CPM
+16	CSCWD
+17	CSCWD (Selected Papers)
+18	CSCWD
+19	CVPR (1)
+20	DASFAA
+21	DG.O
+22	DG.O
+23	ECBS
+24	Edutainment
+25	Edutainment
+26	Edutainment
+27	Edutainment
+28	Edutainment
+29	FSKD (1)
+30	FSKD (2)
+31	FSKD (4)
+32	FSKD (4)
+33	GPCE
+34	GREC
+35	HICSS
+36	HICSS
+37	HICSS
+38	HICSS
+39	HICSS
+40	HICSS
+41	HPCC
+42	IAT
+43	IAW
+44	ICAT
+45	International Conference on Computational Science
+46	International Conference on Computational Science
+47	International Conference on Computational Science (4)
+48	ICCNMC
+49	ICCSA (4)
+50	ICDE
+51	ICDM
+52	ICEIS (2)
+53	ICIC (2)
+54	ICIC (2)
+55	ICIP
+56	ICME
+57	ICMI
+58	ICN/ICONS/MCL
+59	ICN/ICONS/MCL
+60	ICNC (1)
+61	ICNC (1)
+62	ICNC (3)
+63	ICNC (2)
+64	ICPR (3)
+65	ICPR (3)
+66	ICPR (1)
+67	ICPR
+68	ICRA
+69	ICSM
+70	ICSOC
+71	ICWS
+72	IEA/AIE
+73	CONFENIS (2)
+74	IMSCCS (1)
+75	IMSCCS
+76	IPDPS
+77	ISCAS (6)
+78	ISNN (1)
+79	ISNN (2)
+80	ISNN (1)
+81	ISNN (2)
+82	IWDW
+83	KDD
+84	MICCAI (2)
+85	Middleware Workshops
+86	ACM Multimedia
+87	MSV
+88	HLT-NAACL
+89	OOPSLA Companion
+90	OOPSLA Companion
+91	OOPSLA Companion
+92	PAKDD
+93	PAKDD
+94	PEPM
+95	RECOMB
+96	Semantic Web Challenge
+97	SNPD
+98	MoDELS
+99	WACV
+100	WAIM
+101	WAIM
+102	WAIM
+103	APWeb/WAIM
+104	WWW
+105	WWW
+106	WWW
+107	WASA
+108	ICICIC (3)
+109	VTC Fall
+110	VTC Fall
+111	VTC Spring
+112	MCAM
+113	PAISI
+114	ISIP
+115	BMEI (2)
+116	ISECS
+117	ICSC
+118	MACE
+119	IROS
+120	NOMS
+121	MMSP
+122	ICYCS
+123	ICARCV
+124	ICARCV
+125	ICARCV
+126	ICARCV
+127	ICNSC
+128	Appl. Soft Comput.
+129	Bioinformatics
+130	Bioinformatics
+131	Bioinformatics
+132	Bioinformatics
+133	BMC Bioinformatics
+134	Computational Biology and Chemistry
+135	IEEE Computer
+136	Discrete Mathematics
+137	Decision Support Systems
+138	IEICE Transactions
+139	IEICE Transactions
+140	IJCAT
+141	Int. J. Comput. Math.
+142	International Journal of Software Engineering and Knowledge Engineering
+143	JASIST
+144	IEEE Journal on Selected Areas in Communications
+145	IEEE Journal on Selected Areas in Communications
+146	IEEE Journal on Selected Areas in Communications
+147	IEEE Network
+148	Pattern Recognition
+149	Pattern Recognition
+150	Softw., Pract. Exper.
+151	IEEE Transactions on Image Processing
+152	IEEE/ACM Trans. Netw.
+153	IEEE/ACM Trans. Netw.
+154	Microelectronics Journal
+155	Journal of Computer Research and Development
+156	Advances in Engineering Software
+157	ACM SIGSOFT Software Engineering Notes
+158	JCP
+159	Frontiers of Computer Science in China
+160	Robotica
+161	Computational Intelligence in Automotive Applications
+162	D.GO
+163	D.GO
+164	CDC
+165	IEEE Trans. Pattern Anal. Mach. Intell.
+166	ACIS-ICIS
+167	COMPSAC (1)
+168	ICDAR
+169	ICWS
+170	Secure Data Management
+171	IJHPCA
+172	Computing in Science and Engineering
+173	IEEE Internet Computing
+174	Synthesis Lectures on Data Mining and Knowledge Discovery
+175	null
+176	null
+177	null
+178	null
+179	null
+180	null
+181	null
+182	null
+183	null
+184	null
+185	null
+186	null
+187	null
+188	null
+189	null
+190	null
+191	null
+192	null
+193	null
+194	null
+195	null
+196	null
+197	null
+198	Proceedings of the 2006 IEEE Asia-Pacific Conference on Services Computing
+199	Proceedings of the 2006 International Conference on Hybrid Information Technology - Volume 01
+200	Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 03
+201	Proceedings of the 2008 International Conference on Advanced Infocomm Technology
+202	Proceedings of the 6th International Workshop on Digital Watermarking
+203	Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 01
+204	Journal of the American Society for Information Science and Technology
+205	Microelectronic Engineering
+206	Proceedings of the 10th Annual International Conference on Digital Government Research: Social Networks: Making Connections between Citizens, Data and Government
+207	Proceedings of the Third International Conference on Natural Computation - Volume 05
+208	Proceedings of the Third International Conference on Natural Computation - Volume 04
+209	Proceedings of the Third International Conference on Natural Computation - Volume 03
+210	Proceedings of the Third International Conference on Natural Computation - Volume 03
+211	Proceedings of the Fourth International Conference on Fuzzy Systems and Knowledge Discovery - Volume 04
+212	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+213	Journal of Computational and Applied Mathematics
+214	Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05
+215	Proceedings of the 3rd international conference on Technologies for E-Learning and Digital Entertainment
+216	Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference
+217	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02
+218	Microsystem Technologies
+219	Proceedings of the 6th VLDB Workshop on Secure Data Management
+220	Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01
+221	null
+222	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+223	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+224	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01
+225	Bioinformatics
+226	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01
+227	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03
+228	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01
+229	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+230	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01

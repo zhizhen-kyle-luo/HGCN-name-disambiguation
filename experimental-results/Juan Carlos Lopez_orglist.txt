@@ -1,0 +1,12 @@
+2	5	Dept. de Ingenieria Electron., Univ. Politecnica de Madrid	Dept. Ing. Electronica, Univ. Politecnica de Madrid
+2	10	Dept. de Ingenieria Electron., Univ. Politecnica de Madrid	Dept. of Ingenieria Electron., Univ. Politecnica de Madrid
+2	13	Dept. de Ingenieria Electron., Univ. Politecnica de Madrid	Dept. de Ingenieria Electron., Univ. Politecnica de Madrid
+5	10	Dept. Ing. Electronica, Univ. Politecnica de Madrid	Dept. of Ingenieria Electron., Univ. Politecnica de Madrid
+5	13	Dept. Ing. Electronica, Univ. Politecnica de Madrid	Dept. de Ingenieria Electron., Univ. Politecnica de Madrid
+6	8	Escuela Superior de Inf., Univ. of Castilla-La Mancha, Ciudad Real	University of Castilla-La Mancha
+6	18	Escuela Superior de Inf., Univ. of Castilla-La Mancha, Ciudad Real	Dept. of Technology and Information Systems, School of Computer Science, University of Castilla-La Mancha, Ciudad Real., Spain 13071
+6	19	Escuela Superior de Inf., Univ. of Castilla-La Mancha, Ciudad Real	Comput. Archit. & Networks Group, Univ. of Castilla-La Mancha, Toledo
+7	28	Dept. de Inf., Univ. de Castilla-La Mancha, Spain	Univ. de Castilla-La Mancha, Ciudad Real, Spain
+8	18	University of Castilla-La Mancha	Dept. of Technology and Information Systems, School of Computer Science, University of Castilla-La Mancha, Ciudad Real., Spain 13071
+8	19	University of Castilla-La Mancha	Comput. Archit. & Networks Group, Univ. of Castilla-La Mancha, Toledo
+10	13	Dept. of Ingenieria Electron., Univ. Politecnica de Madrid	Dept. de Ingenieria Electron., Univ. Politecnica de Madrid

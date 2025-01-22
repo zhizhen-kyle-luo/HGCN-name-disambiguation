@@ -1,0 +1,1035 @@
+0	1	null	University of Alabama at Birmingham, Birmingham, Alabama
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	University of Jinan
+0	6	null	University of Jinan
+0	7	null	null
+0	8	null	null
+0	9	null	Beijing University of Chinese Medicine, Beijing, 100102, China
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+0	17	null	null
+0	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+0	19	null	null
+0	20	null	IBM, Beijing, China
+0	21	null	null
+0	22	null	null
+0	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+0	24	null	null
+0	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+0	26	null	null
+0	27	null	null
+0	28	null	null
+0	29	null	Southeast Univ., Nanjing
+0	30	null	null
+0	31	null	null
+0	32	null	null
+0	33	null	null
+0	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+0	35	null	Southern Illinois University, Edwardsville
+0	36	null	null
+0	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+0	38	null	null
+0	39	null	TimeSys Corp., Pittsburgh, PA
+0	40	null	Taiwan
+0	41	null	null
+0	42	null	null
+0	43	null	null
+0	44	null	null
+0	45	null	null
+1	2	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	3	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	4	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	5	University of Alabama at Birmingham, Birmingham, Alabama	University of Jinan
+1	6	University of Alabama at Birmingham, Birmingham, Alabama	University of Jinan
+1	7	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	8	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	9	University of Alabama at Birmingham, Birmingham, Alabama	Beijing University of Chinese Medicine, Beijing, 100102, China
+1	10	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	11	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	12	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	13	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	14	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	15	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	16	University of Alabama at Birmingham, Birmingham, Alabama	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+1	17	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	18	University of Alabama at Birmingham, Birmingham, Alabama	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+1	19	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	20	University of Alabama at Birmingham, Birmingham, Alabama	IBM, Beijing, China
+1	21	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	22	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	23	University of Alabama at Birmingham, Birmingham, Alabama	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+1	24	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	25	University of Alabama at Birmingham, Birmingham, Alabama	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+1	26	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	27	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	28	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	29	University of Alabama at Birmingham, Birmingham, Alabama	Southeast Univ., Nanjing
+1	30	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	31	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	32	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	33	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	34	University of Alabama at Birmingham, Birmingham, Alabama	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+1	35	University of Alabama at Birmingham, Birmingham, Alabama	Southern Illinois University, Edwardsville
+1	36	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	37	University of Alabama at Birmingham, Birmingham, Alabama	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+1	38	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	39	University of Alabama at Birmingham, Birmingham, Alabama	TimeSys Corp., Pittsburgh, PA
+1	40	University of Alabama at Birmingham, Birmingham, Alabama	Taiwan
+1	41	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	42	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	43	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	44	University of Alabama at Birmingham, Birmingham, Alabama	null
+1	45	University of Alabama at Birmingham, Birmingham, Alabama	null
+2	3	null	null
+2	4	null	null
+2	5	null	University of Jinan
+2	6	null	University of Jinan
+2	7	null	null
+2	8	null	null
+2	9	null	Beijing University of Chinese Medicine, Beijing, 100102, China
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+2	17	null	null
+2	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+2	19	null	null
+2	20	null	IBM, Beijing, China
+2	21	null	null
+2	22	null	null
+2	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+2	24	null	null
+2	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+2	26	null	null
+2	27	null	null
+2	28	null	null
+2	29	null	Southeast Univ., Nanjing
+2	30	null	null
+2	31	null	null
+2	32	null	null
+2	33	null	null
+2	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+2	35	null	Southern Illinois University, Edwardsville
+2	36	null	null
+2	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+2	38	null	null
+2	39	null	TimeSys Corp., Pittsburgh, PA
+2	40	null	Taiwan
+2	41	null	null
+2	42	null	null
+2	43	null	null
+2	44	null	null
+2	45	null	null
+3	4	null	null
+3	5	null	University of Jinan
+3	6	null	University of Jinan
+3	7	null	null
+3	8	null	null
+3	9	null	Beijing University of Chinese Medicine, Beijing, 100102, China
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+3	17	null	null
+3	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+3	19	null	null
+3	20	null	IBM, Beijing, China
+3	21	null	null
+3	22	null	null
+3	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+3	24	null	null
+3	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+3	26	null	null
+3	27	null	null
+3	28	null	null
+3	29	null	Southeast Univ., Nanjing
+3	30	null	null
+3	31	null	null
+3	32	null	null
+3	33	null	null
+3	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+3	35	null	Southern Illinois University, Edwardsville
+3	36	null	null
+3	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+3	38	null	null
+3	39	null	TimeSys Corp., Pittsburgh, PA
+3	40	null	Taiwan
+3	41	null	null
+3	42	null	null
+3	43	null	null
+3	44	null	null
+3	45	null	null
+4	5	null	University of Jinan
+4	6	null	University of Jinan
+4	7	null	null
+4	8	null	null
+4	9	null	Beijing University of Chinese Medicine, Beijing, 100102, China
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+4	17	null	null
+4	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+4	19	null	null
+4	20	null	IBM, Beijing, China
+4	21	null	null
+4	22	null	null
+4	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+4	24	null	null
+4	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+4	26	null	null
+4	27	null	null
+4	28	null	null
+4	29	null	Southeast Univ., Nanjing
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+4	35	null	Southern Illinois University, Edwardsville
+4	36	null	null
+4	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+4	38	null	null
+4	39	null	TimeSys Corp., Pittsburgh, PA
+4	40	null	Taiwan
+4	41	null	null
+4	42	null	null
+4	43	null	null
+4	44	null	null
+4	45	null	null
+5	6	University of Jinan	University of Jinan
+5	7	University of Jinan	null
+5	8	University of Jinan	null
+5	9	University of Jinan	Beijing University of Chinese Medicine, Beijing, 100102, China
+5	10	University of Jinan	null
+5	11	University of Jinan	null
+5	12	University of Jinan	null
+5	13	University of Jinan	null
+5	14	University of Jinan	null
+5	15	University of Jinan	null
+5	16	University of Jinan	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+5	17	University of Jinan	null
+5	18	University of Jinan	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+5	19	University of Jinan	null
+5	20	University of Jinan	IBM, Beijing, China
+5	21	University of Jinan	null
+5	22	University of Jinan	null
+5	23	University of Jinan	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+5	24	University of Jinan	null
+5	25	University of Jinan	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+5	26	University of Jinan	null
+5	27	University of Jinan	null
+5	28	University of Jinan	null
+5	29	University of Jinan	Southeast Univ., Nanjing
+5	30	University of Jinan	null
+5	31	University of Jinan	null
+5	32	University of Jinan	null
+5	33	University of Jinan	null
+5	34	University of Jinan	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+5	35	University of Jinan	Southern Illinois University, Edwardsville
+5	36	University of Jinan	null
+5	37	University of Jinan	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+5	38	University of Jinan	null
+5	39	University of Jinan	TimeSys Corp., Pittsburgh, PA
+5	40	University of Jinan	Taiwan
+5	41	University of Jinan	null
+5	42	University of Jinan	null
+5	43	University of Jinan	null
+5	44	University of Jinan	null
+5	45	University of Jinan	null
+6	7	University of Jinan	null
+6	8	University of Jinan	null
+6	9	University of Jinan	Beijing University of Chinese Medicine, Beijing, 100102, China
+6	10	University of Jinan	null
+6	11	University of Jinan	null
+6	12	University of Jinan	null
+6	13	University of Jinan	null
+6	14	University of Jinan	null
+6	15	University of Jinan	null
+6	16	University of Jinan	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+6	17	University of Jinan	null
+6	18	University of Jinan	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+6	19	University of Jinan	null
+6	20	University of Jinan	IBM, Beijing, China
+6	21	University of Jinan	null
+6	22	University of Jinan	null
+6	23	University of Jinan	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+6	24	University of Jinan	null
+6	25	University of Jinan	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+6	26	University of Jinan	null
+6	27	University of Jinan	null
+6	28	University of Jinan	null
+6	29	University of Jinan	Southeast Univ., Nanjing
+6	30	University of Jinan	null
+6	31	University of Jinan	null
+6	32	University of Jinan	null
+6	33	University of Jinan	null
+6	34	University of Jinan	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+6	35	University of Jinan	Southern Illinois University, Edwardsville
+6	36	University of Jinan	null
+6	37	University of Jinan	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+6	38	University of Jinan	null
+6	39	University of Jinan	TimeSys Corp., Pittsburgh, PA
+6	40	University of Jinan	Taiwan
+6	41	University of Jinan	null
+6	42	University of Jinan	null
+6	43	University of Jinan	null
+6	44	University of Jinan	null
+6	45	University of Jinan	null
+7	8	null	null
+7	9	null	Beijing University of Chinese Medicine, Beijing, 100102, China
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+7	17	null	null
+7	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+7	19	null	null
+7	20	null	IBM, Beijing, China
+7	21	null	null
+7	22	null	null
+7	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+7	24	null	null
+7	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+7	26	null	null
+7	27	null	null
+7	28	null	null
+7	29	null	Southeast Univ., Nanjing
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	null
+7	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+7	35	null	Southern Illinois University, Edwardsville
+7	36	null	null
+7	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+7	38	null	null
+7	39	null	TimeSys Corp., Pittsburgh, PA
+7	40	null	Taiwan
+7	41	null	null
+7	42	null	null
+7	43	null	null
+7	44	null	null
+7	45	null	null
+8	9	null	Beijing University of Chinese Medicine, Beijing, 100102, China
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+8	17	null	null
+8	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+8	19	null	null
+8	20	null	IBM, Beijing, China
+8	21	null	null
+8	22	null	null
+8	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+8	24	null	null
+8	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+8	26	null	null
+8	27	null	null
+8	28	null	null
+8	29	null	Southeast Univ., Nanjing
+8	30	null	null
+8	31	null	null
+8	32	null	null
+8	33	null	null
+8	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+8	35	null	Southern Illinois University, Edwardsville
+8	36	null	null
+8	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+8	38	null	null
+8	39	null	TimeSys Corp., Pittsburgh, PA
+8	40	null	Taiwan
+8	41	null	null
+8	42	null	null
+8	43	null	null
+8	44	null	null
+8	45	null	null
+9	10	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	11	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	12	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	13	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	14	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	15	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	16	Beijing University of Chinese Medicine, Beijing, 100102, China	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+9	17	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	18	Beijing University of Chinese Medicine, Beijing, 100102, China	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+9	19	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	20	Beijing University of Chinese Medicine, Beijing, 100102, China	IBM, Beijing, China
+9	21	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	22	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	23	Beijing University of Chinese Medicine, Beijing, 100102, China	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+9	24	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	25	Beijing University of Chinese Medicine, Beijing, 100102, China	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+9	26	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	27	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	28	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	29	Beijing University of Chinese Medicine, Beijing, 100102, China	Southeast Univ., Nanjing
+9	30	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	31	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	32	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	33	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	34	Beijing University of Chinese Medicine, Beijing, 100102, China	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+9	35	Beijing University of Chinese Medicine, Beijing, 100102, China	Southern Illinois University, Edwardsville
+9	36	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	37	Beijing University of Chinese Medicine, Beijing, 100102, China	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+9	38	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	39	Beijing University of Chinese Medicine, Beijing, 100102, China	TimeSys Corp., Pittsburgh, PA
+9	40	Beijing University of Chinese Medicine, Beijing, 100102, China	Taiwan
+9	41	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	42	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	43	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	44	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+9	45	Beijing University of Chinese Medicine, Beijing, 100102, China	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+10	17	null	null
+10	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+10	19	null	null
+10	20	null	IBM, Beijing, China
+10	21	null	null
+10	22	null	null
+10	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+10	24	null	null
+10	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+10	26	null	null
+10	27	null	null
+10	28	null	null
+10	29	null	Southeast Univ., Nanjing
+10	30	null	null
+10	31	null	null
+10	32	null	null
+10	33	null	null
+10	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+10	35	null	Southern Illinois University, Edwardsville
+10	36	null	null
+10	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+10	38	null	null
+10	39	null	TimeSys Corp., Pittsburgh, PA
+10	40	null	Taiwan
+10	41	null	null
+10	42	null	null
+10	43	null	null
+10	44	null	null
+10	45	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+11	17	null	null
+11	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+11	19	null	null
+11	20	null	IBM, Beijing, China
+11	21	null	null
+11	22	null	null
+11	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+11	24	null	null
+11	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+11	26	null	null
+11	27	null	null
+11	28	null	null
+11	29	null	Southeast Univ., Nanjing
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	null
+11	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+11	35	null	Southern Illinois University, Edwardsville
+11	36	null	null
+11	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+11	38	null	null
+11	39	null	TimeSys Corp., Pittsburgh, PA
+11	40	null	Taiwan
+11	41	null	null
+11	42	null	null
+11	43	null	null
+11	44	null	null
+11	45	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+12	17	null	null
+12	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+12	19	null	null
+12	20	null	IBM, Beijing, China
+12	21	null	null
+12	22	null	null
+12	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+12	24	null	null
+12	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+12	26	null	null
+12	27	null	null
+12	28	null	null
+12	29	null	Southeast Univ., Nanjing
+12	30	null	null
+12	31	null	null
+12	32	null	null
+12	33	null	null
+12	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+12	35	null	Southern Illinois University, Edwardsville
+12	36	null	null
+12	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+12	38	null	null
+12	39	null	TimeSys Corp., Pittsburgh, PA
+12	40	null	Taiwan
+12	41	null	null
+12	42	null	null
+12	43	null	null
+12	44	null	null
+12	45	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+13	17	null	null
+13	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+13	19	null	null
+13	20	null	IBM, Beijing, China
+13	21	null	null
+13	22	null	null
+13	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+13	24	null	null
+13	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+13	26	null	null
+13	27	null	null
+13	28	null	null
+13	29	null	Southeast Univ., Nanjing
+13	30	null	null
+13	31	null	null
+13	32	null	null
+13	33	null	null
+13	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+13	35	null	Southern Illinois University, Edwardsville
+13	36	null	null
+13	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+13	38	null	null
+13	39	null	TimeSys Corp., Pittsburgh, PA
+13	40	null	Taiwan
+13	41	null	null
+13	42	null	null
+13	43	null	null
+13	44	null	null
+13	45	null	null
+14	15	null	null
+14	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+14	17	null	null
+14	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+14	19	null	null
+14	20	null	IBM, Beijing, China
+14	21	null	null
+14	22	null	null
+14	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+14	24	null	null
+14	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+14	26	null	null
+14	27	null	null
+14	28	null	null
+14	29	null	Southeast Univ., Nanjing
+14	30	null	null
+14	31	null	null
+14	32	null	null
+14	33	null	null
+14	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+14	35	null	Southern Illinois University, Edwardsville
+14	36	null	null
+14	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+14	38	null	null
+14	39	null	TimeSys Corp., Pittsburgh, PA
+14	40	null	Taiwan
+14	41	null	null
+14	42	null	null
+14	43	null	null
+14	44	null	null
+14	45	null	null
+15	16	null	Department of Automation, Tsinghua University, Beijing, P.R. China 100084
+15	17	null	null
+15	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+15	19	null	null
+15	20	null	IBM, Beijing, China
+15	21	null	null
+15	22	null	null
+15	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+15	24	null	null
+15	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+15	26	null	null
+15	27	null	null
+15	28	null	null
+15	29	null	Southeast Univ., Nanjing
+15	30	null	null
+15	31	null	null
+15	32	null	null
+15	33	null	null
+15	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+15	35	null	Southern Illinois University, Edwardsville
+15	36	null	null
+15	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+15	38	null	null
+15	39	null	TimeSys Corp., Pittsburgh, PA
+15	40	null	Taiwan
+15	41	null	null
+15	42	null	null
+15	43	null	null
+15	44	null	null
+15	45	null	null
+16	17	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	18	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+16	19	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	20	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	IBM, Beijing, China
+16	21	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	22	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	23	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+16	24	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	25	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+16	26	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	27	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	28	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	29	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	Southeast Univ., Nanjing
+16	30	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	31	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	32	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	33	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	34	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+16	35	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	Southern Illinois University, Edwardsville
+16	36	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	37	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+16	38	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	39	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	TimeSys Corp., Pittsburgh, PA
+16	40	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	Taiwan
+16	41	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	42	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	43	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	44	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+16	45	Department of Automation, Tsinghua University, Beijing, P.R. China 100084	null
+17	18	null	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.
+17	19	null	null
+17	20	null	IBM, Beijing, China
+17	21	null	null
+17	22	null	null
+17	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+17	24	null	null
+17	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+17	26	null	null
+17	27	null	null
+17	28	null	null
+17	29	null	Southeast Univ., Nanjing
+17	30	null	null
+17	31	null	null
+17	32	null	null
+17	33	null	null
+17	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+17	35	null	Southern Illinois University, Edwardsville
+17	36	null	null
+17	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+17	38	null	null
+17	39	null	TimeSys Corp., Pittsburgh, PA
+17	40	null	Taiwan
+17	41	null	null
+17	42	null	null
+17	43	null	null
+17	44	null	null
+17	45	null	null
+18	19	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	20	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	IBM, Beijing, China
+18	21	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	22	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	23	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+18	24	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	25	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+18	26	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	27	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	28	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	29	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	Southeast Univ., Nanjing
+18	30	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	31	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	32	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	33	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	34	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+18	35	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	Southern Illinois University, Edwardsville
+18	36	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	37	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+18	38	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	39	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	TimeSys Corp., Pittsburgh, PA
+18	40	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	Taiwan
+18	41	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	42	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	43	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	44	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+18	45	Dept. of Comput. Sci., Concordia Univ., Montreal, Que.	null
+19	20	null	IBM, Beijing, China
+19	21	null	null
+19	22	null	null
+19	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+19	24	null	null
+19	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+19	26	null	null
+19	27	null	null
+19	28	null	null
+19	29	null	Southeast Univ., Nanjing
+19	30	null	null
+19	31	null	null
+19	32	null	null
+19	33	null	null
+19	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+19	35	null	Southern Illinois University, Edwardsville
+19	36	null	null
+19	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+19	38	null	null
+19	39	null	TimeSys Corp., Pittsburgh, PA
+19	40	null	Taiwan
+19	41	null	null
+19	42	null	null
+19	43	null	null
+19	44	null	null
+19	45	null	null
+20	21	IBM, Beijing, China	null
+20	22	IBM, Beijing, China	null
+20	23	IBM, Beijing, China	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+20	24	IBM, Beijing, China	null
+20	25	IBM, Beijing, China	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+20	26	IBM, Beijing, China	null
+20	27	IBM, Beijing, China	null
+20	28	IBM, Beijing, China	null
+20	29	IBM, Beijing, China	Southeast Univ., Nanjing
+20	30	IBM, Beijing, China	null
+20	31	IBM, Beijing, China	null
+20	32	IBM, Beijing, China	null
+20	33	IBM, Beijing, China	null
+20	34	IBM, Beijing, China	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+20	35	IBM, Beijing, China	Southern Illinois University, Edwardsville
+20	36	IBM, Beijing, China	null
+20	37	IBM, Beijing, China	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+20	38	IBM, Beijing, China	null
+20	39	IBM, Beijing, China	TimeSys Corp., Pittsburgh, PA
+20	40	IBM, Beijing, China	Taiwan
+20	41	IBM, Beijing, China	null
+20	42	IBM, Beijing, China	null
+20	43	IBM, Beijing, China	null
+20	44	IBM, Beijing, China	null
+20	45	IBM, Beijing, China	null
+21	22	null	null
+21	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+21	24	null	null
+21	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+21	26	null	null
+21	27	null	null
+21	28	null	null
+21	29	null	Southeast Univ., Nanjing
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	null
+21	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+21	35	null	Southern Illinois University, Edwardsville
+21	36	null	null
+21	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+21	38	null	null
+21	39	null	TimeSys Corp., Pittsburgh, PA
+21	40	null	Taiwan
+21	41	null	null
+21	42	null	null
+21	43	null	null
+21	44	null	null
+21	45	null	null
+22	23	null	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China
+22	24	null	null
+22	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+22	26	null	null
+22	27	null	null
+22	28	null	null
+22	29	null	Southeast Univ., Nanjing
+22	30	null	null
+22	31	null	null
+22	32	null	null
+22	33	null	null
+22	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+22	35	null	Southern Illinois University, Edwardsville
+22	36	null	null
+22	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+22	38	null	null
+22	39	null	TimeSys Corp., Pittsburgh, PA
+22	40	null	Taiwan
+22	41	null	null
+22	42	null	null
+22	43	null	null
+22	44	null	null
+22	45	null	null
+23	24	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	25	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+23	26	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	27	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	28	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	29	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	Southeast Univ., Nanjing
+23	30	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	31	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	32	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	33	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	34	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+23	35	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	Southern Illinois University, Edwardsville
+23	36	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	37	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+23	38	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	39	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	TimeSys Corp., Pittsburgh, PA
+23	40	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	Taiwan
+23	41	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	42	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	43	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	44	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+23	45	Software and Solution Group (SSG), Intel China Software Center, Shanghai, China	null
+24	25	null	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA
+24	26	null	null
+24	27	null	null
+24	28	null	null
+24	29	null	Southeast Univ., Nanjing
+24	30	null	null
+24	31	null	null
+24	32	null	null
+24	33	null	null
+24	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+24	35	null	Southern Illinois University, Edwardsville
+24	36	null	null
+24	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+24	38	null	null
+24	39	null	TimeSys Corp., Pittsburgh, PA
+24	40	null	Taiwan
+24	41	null	null
+24	42	null	null
+24	43	null	null
+24	44	null	null
+24	45	null	null
+25	26	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	27	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	28	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	29	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	Southeast Univ., Nanjing
+25	30	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	31	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	32	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	33	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	34	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+25	35	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	Southern Illinois University, Edwardsville
+25	36	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	37	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+25	38	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	39	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	TimeSys Corp., Pittsburgh, PA
+25	40	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	Taiwan
+25	41	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	42	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	43	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	44	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+25	45	Center for Outcomes Research and Evaluation, Yale University and Yale-New Haven Health, CORE, 300 George Street, Suite 505, New Haven, CT 06511, USA and Qualidigm, 100 Roscommon Drive, Middletown, CT 06457, USA	null
+26	27	null	null
+26	28	null	null
+26	29	null	Southeast Univ., Nanjing
+26	30	null	null
+26	31	null	null
+26	32	null	null
+26	33	null	null
+26	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+26	35	null	Southern Illinois University, Edwardsville
+26	36	null	null
+26	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+26	38	null	null
+26	39	null	TimeSys Corp., Pittsburgh, PA
+26	40	null	Taiwan
+26	41	null	null
+26	42	null	null
+26	43	null	null
+26	44	null	null
+26	45	null	null
+27	28	null	null
+27	29	null	Southeast Univ., Nanjing
+27	30	null	null
+27	31	null	null
+27	32	null	null
+27	33	null	null
+27	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+27	35	null	Southern Illinois University, Edwardsville
+27	36	null	null
+27	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+27	38	null	null
+27	39	null	TimeSys Corp., Pittsburgh, PA
+27	40	null	Taiwan
+27	41	null	null
+27	42	null	null
+27	43	null	null
+27	44	null	null
+27	45	null	null
+28	29	null	Southeast Univ., Nanjing
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	null
+28	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+28	35	null	Southern Illinois University, Edwardsville
+28	36	null	null
+28	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+28	38	null	null
+28	39	null	TimeSys Corp., Pittsburgh, PA
+28	40	null	Taiwan
+28	41	null	null
+28	42	null	null
+28	43	null	null
+28	44	null	null
+28	45	null	null
+29	30	Southeast Univ., Nanjing	null
+29	31	Southeast Univ., Nanjing	null
+29	32	Southeast Univ., Nanjing	null
+29	33	Southeast Univ., Nanjing	null
+29	34	Southeast Univ., Nanjing	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+29	35	Southeast Univ., Nanjing	Southern Illinois University, Edwardsville
+29	36	Southeast Univ., Nanjing	null
+29	37	Southeast Univ., Nanjing	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+29	38	Southeast Univ., Nanjing	null
+29	39	Southeast Univ., Nanjing	TimeSys Corp., Pittsburgh, PA
+29	40	Southeast Univ., Nanjing	Taiwan
+29	41	Southeast Univ., Nanjing	null
+29	42	Southeast Univ., Nanjing	null
+29	43	Southeast Univ., Nanjing	null
+29	44	Southeast Univ., Nanjing	null
+29	45	Southeast Univ., Nanjing	null
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+30	35	null	Southern Illinois University, Edwardsville
+30	36	null	null
+30	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+30	38	null	null
+30	39	null	TimeSys Corp., Pittsburgh, PA
+30	40	null	Taiwan
+30	41	null	null
+30	42	null	null
+30	43	null	null
+30	44	null	null
+30	45	null	null
+31	32	null	null
+31	33	null	null
+31	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+31	35	null	Southern Illinois University, Edwardsville
+31	36	null	null
+31	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+31	38	null	null
+31	39	null	TimeSys Corp., Pittsburgh, PA
+31	40	null	Taiwan
+31	41	null	null
+31	42	null	null
+31	43	null	null
+31	44	null	null
+31	45	null	null
+32	33	null	null
+32	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+32	35	null	Southern Illinois University, Edwardsville
+32	36	null	null
+32	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+32	38	null	null
+32	39	null	TimeSys Corp., Pittsburgh, PA
+32	40	null	Taiwan
+32	41	null	null
+32	42	null	null
+32	43	null	null
+32	44	null	null
+32	45	null	null
+33	34	null	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China
+33	35	null	Southern Illinois University, Edwardsville
+33	36	null	null
+33	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+33	38	null	null
+33	39	null	TimeSys Corp., Pittsburgh, PA
+33	40	null	Taiwan
+33	41	null	null
+33	42	null	null
+33	43	null	null
+33	44	null	null
+33	45	null	null
+34	35	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	Southern Illinois University, Edwardsville
+34	36	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	null
+34	37	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+34	38	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	null
+34	39	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	TimeSys Corp., Pittsburgh, PA
+34	40	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	Taiwan
+34	41	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	null
+34	42	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	null
+34	43	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	null
+34	44	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	null
+34	45	School of Science, University of Jinan, 106 Jiwei Road, Jinan, Shandong 250022, PR China	null
+35	36	Southern Illinois University, Edwardsville	null
+35	37	Southern Illinois University, Edwardsville	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+35	38	Southern Illinois University, Edwardsville	null
+35	39	Southern Illinois University, Edwardsville	TimeSys Corp., Pittsburgh, PA
+35	40	Southern Illinois University, Edwardsville	Taiwan
+35	41	Southern Illinois University, Edwardsville	null
+35	42	Southern Illinois University, Edwardsville	null
+35	43	Southern Illinois University, Edwardsville	null
+35	44	Southern Illinois University, Edwardsville	null
+35	45	Southern Illinois University, Edwardsville	null
+36	37	null	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China
+36	38	null	null
+36	39	null	TimeSys Corp., Pittsburgh, PA
+36	40	null	Taiwan
+36	41	null	null
+36	42	null	null
+36	43	null	null
+36	44	null	null
+36	45	null	null
+37	38	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	null
+37	39	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	TimeSys Corp., Pittsburgh, PA
+37	40	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	Taiwan
+37	41	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	null
+37	42	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	null
+37	43	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	null
+37	44	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	null
+37	45	Coll. of Oceanogr. & Environ. Sci., Xiamen Univ., Xiamen, China	null
+38	39	null	TimeSys Corp., Pittsburgh, PA
+38	40	null	Taiwan
+38	41	null	null
+38	42	null	null
+38	43	null	null
+38	44	null	null
+38	45	null	null
+39	40	TimeSys Corp., Pittsburgh, PA	Taiwan
+39	41	TimeSys Corp., Pittsburgh, PA	null
+39	42	TimeSys Corp., Pittsburgh, PA	null
+39	43	TimeSys Corp., Pittsburgh, PA	null
+39	44	TimeSys Corp., Pittsburgh, PA	null
+39	45	TimeSys Corp., Pittsburgh, PA	null
+40	41	Taiwan	null
+40	42	Taiwan	null
+40	43	Taiwan	null
+40	44	Taiwan	null
+40	45	Taiwan	null
+41	42	null	null
+41	43	null	null
+41	44	null	null
+41	45	null	null
+42	43	null	null
+42	44	null	null
+42	45	null	null
+43	44	null	null
+43	45	null	null
+44	45	null	null

@@ -1,0 +1,308 @@
+0	ACIS-ICIS
+1	CIT
+2	IEEE ICCI
+3	Asia-Pacific Computer Systems Architecture Conference
+4	Asia-Pacific Computer Systems Architecture Conference
+5	ACCV (2)
+6	ACCV (1)
+7	AI*IA
+8	APPT
+9	APSEC
+10	APWeb
+11	ASWEC
+12	Asian Test Symposium
+13	BIOCOMP
+14	CC
+15	CCGRID
+16	CIKM
+17	CIS (2)
+18	CLUSTER
+19	COCOON
+20	COMPSAC
+21	COMPSAC (1)
+22	COMPSAC
+23	Security and Management
+24	CT-RSA
+25	CVPR (2)
+26	CVPR (1)
+27	CVPR
+28	Databases and Applications
+29	DICTA
+30	DICTA
+31	DICTA
+32	ECCV (4)
+33	EMMCVPR
+34	EPEW
+35	EUROCRYPT
+36	FSE
+37	FSKD (2)
+38	FSKD (4)
+39	FSKD (5)
+40	GCC (1)
+41	GCC
+42	GECCO
+43	ACM Great Lakes Symposium on VLSI
+44	IC-AI
+45	International Conference on Computational Science (1)
+46	ICCAD
+47	ICCD
+48	ICCD
+49	ICCD
+50	ICCSA (4)
+51	ICCV
+52	ICDCIT
+53	ICDM
+54	ICEBE
+55	ICECCS
+56	ICESS
+57	ICESS
+58	ICIAR (1)
+59	ICIC (2)
+60	ICIC (3)
+61	ICIP
+62	ICIP (1)
+63	ICIP (1)
+64	ICIP
+65	ICIP (2)
+66	ICIP (2)
+67	ICIP (5)
+68	ICIP
+69	ICME
+70	ICME
+71	ICME
+72	ICME
+73	ICMENS
+74	ICNC (3)
+75	ICNC (2)
+76	ICNC (2)
+77	ICPADS
+78	ICPR (3)
+79	ICPR (3)
+80	ICPR (2)
+81	ICPR (4)
+82	ICS
+83	IDEAL
+84	IJCNN
+85	INFOCOM
+86	IPDPS
+87	IPDPS
+88	IRREGULAR
+89	ISCAS (2)
+90	ISCAS (1)
+91	ISCAS (1)
+92	ISCAS
+93	ISCAS
+94	ISCAS
+95	ISCAS
+96	ISCAS
+97	ISCIS
+98	ISCSLP
+99	ISDA (1)
+100	ISLPED
+101	ISLPED
+102	ISNN (3)
+103	ISNN (2)
+104	ISNN (3)
+105	ISNN (2)
+106	ISNN (1)
+107	ISNN (1)
+108	ISNN (3)
+109	Revised Papers from MDM/KDD and PAKDD/KDMCD
+110	MDM/KDD
+111	LCPC
+112	MASCOTS
+113	MICCAI (1)
+114	Multimedia Information Retrieval
+115	Multimedia Information Systems
+116	Multimedia Information Systems
+117	ACM Multimedia
+118	ACM Multimedia
+119	MMDB
+120	MMM
+121	NIPS
+122	PAKDD Workshops
+123	PCM
+124	PDCAT
+125	PDCAT
+126	PDCAT
+127	PerCom
+128	PRICAI
+129	RSFDGrC
+130	RTCSA
+131	RTCSA
+132	SAC
+133	SAC
+134	SAFECOMP
+135	China HPC
+136	SCAM
+137	Software Engineering Research and Practice
+138	SIGSOFT FSE
+139	SNPD (1)
+140	SNPD (2)
+141	TREC
+142	UIC
+143	UIC
+144	VISUAL
+145	VTS
+146	WAA
+147	WAIM
+148	WCRE
+149	Web Intelligence
+150	Web Intelligence
+151	Web Intelligence
+152	WINE
+153	WOWMOM
+154	WOWMOM
+155	WASA
+156	ICICIC (2)
+157	VTC Spring
+158	IEEE Congress on Evolutionary Computation (1)
+159	GLOBECOM
+160	GLOBECOM
+161	IITA
+162	ISIP
+163	MoMM
+164	ICIW
+165	C3S2E
+166	AFRICACRYPT
+167	ISECS
+168	CSSE (1)
+169	CSSE (3)
+170	CSSE (3)
+171	CSSE (3)
+172	CSSE (4)
+173	ICYCS
+174	WCNC
+175	WCNC
+176	ICNSC
+177	ICNSC
+178	CoRR
+179	IEICE Transactions
+180	IEICE Transactions
+181	IEICE Transactions
+182	IEICE Transactions
+183	IEICE Transactions
+184	IEICE Transactions
+185	International Journal of Computer Vision
+186	Int. J. Image Graphics
+187	Neurocomputing
+188	IJWIS
+189	J. Comput. Sci. Technol.
+190	J. Comput. Sci. Technol.
+191	JETC
+192	J. Parallel Distrib. Comput.
+193	Multimedia Tools Appl.
+194	Neural Networks
+195	Pattern Anal. Appl.
+196	IEEE Trans. Pattern Anal. Mach. Intell.
+197	Perform. Eval.
+198	Pattern Recognition
+199	Pattern Recognition Letters
+200	Pattern Recognition Letters
+201	IEEE Trans. on CAD of Integrated Circuits and Systems
+202	IEEE Transactions on Communications
+203	IEEE Transactions on Communications
+204	IEEE Trans. Med. Imaging
+205	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+206	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+207	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+208	IEEE Trans. VLSI Syst.
+209	IEEE Trans. VLSI Syst.
+210	IEEE Trans. VLSI Syst.
+211	IEEE Trans. VLSI Syst.
+212	The Visual Computer
+213	Applied Mathematics and Computation
+214	Journal of Computer Research and Development
+215	IEEE Transactions on Wireless Communications
+216	JCP
+217	Wiley Encyclopedia of Computer Science and Engineering
+218	GEC Summit
+219	ISNN (2)
+220	ISNN (2)
+221	ISNN (2)
+222	BIOSTEC (Selected Papers)
+223	WICON
+224	Complex (1)
+225	Complex (1)
+226	Complex (1)
+227	CoRR
+228	IEICE Transactions
+229	IEICE Transactions
+230	IEICE Transactions
+231	IEICE Transactions
+232	IEICE Transactions
+233	IEEE Trans. Pattern Anal. Mach. Intell.
+234	Applied Mathematics and Computation
+235	Applied Mathematics and Computation
+236	IEEE Transactions on Neural Networks
+237	CIKM
+238	ICSM
+239	ISLPED
+240	IWSEC
+241	Computer Languages, Systems & Structures
+242	IAS
+243	IEEE Transactions on Audio, Speech & Language Processing
+244	Genomics, Proteomics & Bioinformatics
+245	Genomics, Proteomics & Bioinformatics
+246	Business & Information Systems Engineering
+247	NAS
+248	CoRR
+249	JETC
+250	Synthesis Lectures on Information Concepts, Retrieval, and Services
+251	Synthesis Lectures on Information Concepts, Retrieval, and Services
+252	Advances in Adaptive Data Analysis
+253	null
+254	null
+255	null
+256	null
+257	null
+258	null
+259	null
+260	null
+261	null
+262	null
+263	null
+264	null
+265	null
+266	null
+267	null
+268	null
+269	null
+270	null
+271	null
+272	null
+273	null
+274	null
+275	null
+276	null
+277	null
+278	null
+279	null
+280	null
+281	CoRR
+282	JETC
+283	Signal Processing
+284	Signal Processing
+285	Journal of Zhejiang University - Science C
+286	Proceedings of the Seventh International Conference on Web-Age Information Management Workshops
+287	Proceedings of the 15th Asian Test Symposium
+288	Engineering Applications of Artificial Intelligence
+289	Proceedings of the 2009 Second International Workshop on Knowledge Discovery and Data Mining
+290	Proceedings of the 2009 International Conference on Electronic Computer Technology
+291	Proceedings of the 2009 International Symposium on Code Generation and Optimization
+292	International Journal of Distributed Sensor Networks
+293	null
+294	Proceedings of the 2003 International Conference on Computer Networks and Mobile Computing
+295	Proceedings of the 1996 ACM/IEEE conference on Supercomputing (CDROM)
+296	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+297	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+298	Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference
+299	Proceedings of the 4th ACM international workshop on Experimental evaluation and characterization
+300	Proceedings of the 2009 International Conference on Environmental Science and Information Application Technology - Volume 03
+301	Proceedings of the 4th ACM international workshop on Experimental evaluation and characterization
+302	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 02
+303	Proceedings of the 2009 Second International Conference on Dependability
+304	Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02
+305	Proceedings of the 2009 International Conference on Computational Intelligence and Natural Computing - Volume 01
+306	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 05
+307	Journal of Computational and Applied Mathematics

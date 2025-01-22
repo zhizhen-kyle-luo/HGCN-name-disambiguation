@@ -1,0 +1,237 @@
+1	76	Nanjing University	Nanjing University, China
+1	77	Nanjing University	Nanjing University, China
+1	119	Nanjing University	State Key Lab of Novel Software Technology, Nanjing University, Nanjing 210093, People's Republic of China
+1	167	Nanjing University	Nanjing University, China
+2	14	Tsinghua Univ., Beijing	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+2	25	Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+2	29	Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+2	31	Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+2	32	Tsinghua Univ., Beijing	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China
+2	47	Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084
+2	67	Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+2	87	Tsinghua Univ., Beijing	Tsinghua University, Tsinghua University Beijing, China
+2	88	Tsinghua Univ., Beijing	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+2	97	Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+2	99	Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+2	126	Tsinghua Univ., Beijing	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+2	144	Tsinghua Univ., Beijing	Sch. of Software, Tsinghua Univ., Beijing, China
+2	164	Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+5	6	Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei	MOE-Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei
+5	36	Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei	Nature Inspired Comput. & Applications Lab., Univ. of Sci. & Technol. of China, Hefei
+5	81	Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei	Univ. of Sci. & Technol. of China, Hefei
+5	83	Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei	Nature Inspired Comput. & Applic. Lab., Univ. of Sci. & Technol. of China, Hefei
+6	36	MOE-Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei	Nature Inspired Comput. & Applications Lab., Univ. of Sci. & Technol. of China, Hefei
+6	81	MOE-Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei	Univ. of Sci. & Technol. of China, Hefei
+6	83	MOE-Microsoft Key Lab. of Multimedia Comput. & Commun., Univ. of Sci. & Technol. of China, Hefei	Nature Inspired Comput. & Applic. Lab., Univ. of Sci. & Technol. of China, Hefei
+7	8	Nanjing Univ. of Aeronaut. & Astronaut., Nanjing	Nanjing Univ. of Aeronaut. & Astronaut., Nanjing
+14	25	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+14	29	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+14	31	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+14	32	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China
+14	47	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084
+14	67	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+14	88	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+14	97	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+14	99	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+14	126	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+14	144	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Sch. of Software, Tsinghua Univ., Beijing, China
+14	164	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+20	21	Southeast Univ., Nanjing	Sch. of Inf. Sci. & Eng., Southeast Univ., Jiangsu
+20	22	Southeast Univ., Nanjing	Sch. of Inf. Sci. & Eng., Southeast Univ., Nanjing
+20	153	Southeast Univ., Nanjing	Dept. of Environ. Eng., Southeast Univ., Nanjing, China
+21	22	Sch. of Inf. Sci. & Eng., Southeast Univ., Jiangsu	Sch. of Inf. Sci. & Eng., Southeast Univ., Nanjing
+22	153	Sch. of Inf. Sci. & Eng., Southeast Univ., Nanjing	Dept. of Environ. Eng., Southeast Univ., Nanjing, China
+25	29	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+25	31	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+25	32	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China
+25	47	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084
+25	67	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+25	87	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Tsinghua University, Tsinghua University Beijing, China
+25	88	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+25	97	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+25	99	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+25	126	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+25	144	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Sch. of Software, Tsinghua Univ., Beijing, China
+25	164	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+26	27	Sun Yat-sen Univ., Guangzhou	Sun Yat-Sen Univ., Guangzhou
+26	28	Sun Yat-sen Univ., Guangzhou	Sch. of Inf. Sci. & Technol., Sun Yat-Sen Univ., Guangzhou
+26	84	Sun Yat-sen Univ., Guangzhou	Sun Yat-sen University, Guangzhou, China
+26	98	Sun Yat-sen Univ., Guangzhou	Dept. of Electron. & Commun. Eng., Sun Yat-sen Univ., Guangzhou
+26	160	Sun Yat-sen Univ., Guangzhou	School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China 510275 and New Jersey Institute of Technology, Newark, USA NJ 07102
+27	28	Sun Yat-Sen Univ., Guangzhou	Sch. of Inf. Sci. & Technol., Sun Yat-Sen Univ., Guangzhou
+27	84	Sun Yat-Sen Univ., Guangzhou	Sun Yat-sen University, Guangzhou, China
+27	98	Sun Yat-Sen Univ., Guangzhou	Dept. of Electron. & Commun. Eng., Sun Yat-sen Univ., Guangzhou
+27	160	Sun Yat-Sen Univ., Guangzhou	School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China 510275 and New Jersey Institute of Technology, Newark, USA NJ 07102
+28	84	Sch. of Inf. Sci. & Technol., Sun Yat-Sen Univ., Guangzhou	Sun Yat-sen University, Guangzhou, China
+28	98	Sch. of Inf. Sci. & Technol., Sun Yat-Sen Univ., Guangzhou	Dept. of Electron. & Commun. Eng., Sun Yat-sen Univ., Guangzhou
+28	160	Sch. of Inf. Sci. & Technol., Sun Yat-Sen Univ., Guangzhou	School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China 510275 and New Jersey Institute of Technology, Newark, USA NJ 07102
+29	31	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+29	32	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China
+29	47	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084
+29	67	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+29	88	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+29	97	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+29	99	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+29	126	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+29	144	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Sch. of Software, Tsinghua Univ., Beijing, China
+29	164	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+31	32	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China
+31	47	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084
+31	67	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+31	88	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+31	97	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+31	99	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+31	126	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+31	144	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Sch. of Software, Tsinghua Univ., Beijing, China
+31	164	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+32	47	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084
+32	67	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+32	87	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Tsinghua University, Tsinghua University Beijing, China
+32	88	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+32	97	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+32	99	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+32	126	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+32	144	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Sch. of Software, Tsinghua Univ., Beijing, China
+32	164	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+36	81	Nature Inspired Comput. & Applications Lab., Univ. of Sci. & Technol. of China, Hefei	Univ. of Sci. & Technol. of China, Hefei
+36	83	Nature Inspired Comput. & Applications Lab., Univ. of Sci. & Technol. of China, Hefei	Nature Inspired Comput. & Applic. Lab., Univ. of Sci. & Technol. of China, Hefei
+37	64	University of Science and Technology of China, Hefei, China	University of Science and Technology of China, Hefei, China
+37	106	University of Science and Technology of China, Hefei, China	Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, Hefei 230027, China
+37	166	University of Science and Technology of China, Hefei, China	University of Science and Technology of China
+37	171	University of Science and Technology of China, Hefei, China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 Hefei, China and Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, 230027 Hefei, China
+37	172	University of Science and Technology of China, Hefei, China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 HeFei, Email: simonlee@mail.ustc.edu.cn, China
+38	39	University of Scientist & Technology of China	University of Scientist & Technology of China
+40	41	Dept. of Syst. Eng., Ibaraki Univ., Hitachi, Japan	Dept. of Syst. Eng., Ibaraki Univ., Hitachi, Japan
+42	43	Robotics Lab., Shenyang Inst. of Autom., China	Robotics Lab., Shenyang Inst. of Autom., China
+42	54	Robotics Lab., Shenyang Inst. of Autom., China	Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China
+42	94	Robotics Lab., Shenyang Inst. of Autom., China	Robotics Lab., Chinese Acad. of Sci., Shenyang
+42	104	Robotics Lab., Shenyang Inst. of Autom., China	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+43	54	Robotics Lab., Shenyang Inst. of Autom., China	Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China
+43	94	Robotics Lab., Shenyang Inst. of Autom., China	Robotics Lab., Chinese Acad. of Sci., Shenyang
+43	104	Robotics Lab., Shenyang Inst. of Autom., China	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+45	92	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang
+45	93	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Chinese Acad. of Sci., Shenyang
+45	94	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Robotics Lab., Chinese Acad. of Sci., Shenyang
+45	95	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Beijing
+45	104	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+45	149	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China
+45	152	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+47	67	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+47	87	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Tsinghua University, Tsinghua University Beijing, China
+47	88	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+47	97	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+47	99	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+47	126	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+47	144	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Sch. of Software, Tsinghua Univ., Beijing, China
+47	164	Educational Technology Institute, Tsinghua University, Beijing, P.R. China 100084	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+49	165	Jilin University, China	Jilin University
+49	169	Jilin University, China	Jilin University, China
+50	174	Beijing Univ. of Posts & Telecommun., China	Key Lab. of Opt. Commun. & Lightwave Technol., Beijing Univ. of Posts & Telecommun., Beijing, China
+54	94	Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China	Robotics Lab., Chinese Acad. of Sci., Shenyang
+54	104	Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+54	145	Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China	State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+54	146	Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China	State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+54	149	Robotics Laboratory of Chinese Academy of Sciences, Shenyang Institute of Automation, Shenyang, China	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China
+58	59	AMSS, Beijing, China	Chinese Academy of Sciences, Beijing, China
+58	60	AMSS, Beijing, China	AMSS, Beijing, China
+58	120	AMSS, Beijing, China	Key Lab of Mathematics Mechanization, AMSS, Beijing 100190, China
+58	148	AMSS, Beijing, China	Chinese Acad. of Surveying & Mapping, Beijing, China
+58	168	AMSS, Beijing, China	Beijing Institute of Technology, China
+59	60	Chinese Academy of Sciences, Beijing, China	AMSS, Beijing, China
+59	148	Chinese Academy of Sciences, Beijing, China	Chinese Acad. of Surveying & Mapping, Beijing, China
+59	168	Chinese Academy of Sciences, Beijing, China	Beijing Institute of Technology, China
+60	120	AMSS, Beijing, China	Key Lab of Mathematics Mechanization, AMSS, Beijing 100190, China
+60	148	AMSS, Beijing, China	Chinese Acad. of Surveying & Mapping, Beijing, China
+60	168	AMSS, Beijing, China	Beijing Institute of Technology, China
+64	106	University of Science and Technology of China, Hefei, China	Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, Hefei 230027, China
+64	166	University of Science and Technology of China, Hefei, China	University of Science and Technology of China
+64	171	University of Science and Technology of China, Hefei, China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 Hefei, China and Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, 230027 Hefei, China
+64	172	University of Science and Technology of China, Hefei, China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 HeFei, Email: simonlee@mail.ustc.edu.cn, China
+65	66	Nankai University, Tianjin, China	Nankai University, Tianjin, China
+65	175	Nankai University, Tianjin, China	Inst. of Robot. & Autom. Inf. Syst., Nankai Univ., Tianjin, China
+66	175	Nankai University, Tianjin, China	Inst. of Robot. & Autom. Inf. Syst., Nankai Univ., Tianjin, China
+67	88	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing
+67	97	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+67	99	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+67	126	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+67	144	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Sch. of Software, Tsinghua Univ., Beijing, China
+67	164	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+74	124	Louisiana State University, Baton Rouge, LA, USA	Louisiana State University, 70803 Baton Rouge, LA, United States
+76	77	Nanjing University, China	Nanjing University, China
+76	119	Nanjing University, China	State Key Lab of Novel Software Technology, Nanjing University, Nanjing 210093, People's Republic of China
+76	167	Nanjing University, China	Nanjing University, China
+77	119	Nanjing University, China	State Key Lab of Novel Software Technology, Nanjing University, Nanjing 210093, People's Republic of China
+77	167	Nanjing University, China	Nanjing University, China
+80	122	Princeton Univ., Princeton	Princeton Univ., Princeton
+81	83	Univ. of Sci. & Technol. of China, Hefei	Nature Inspired Comput. & Applic. Lab., Univ. of Sci. & Technol. of China, Hefei
+84	98	Sun Yat-sen University, Guangzhou, China	Dept. of Electron. & Commun. Eng., Sun Yat-sen Univ., Guangzhou
+84	160	Sun Yat-sen University, Guangzhou, China	School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China 510275 and New Jersey Institute of Technology, Newark, USA NJ 07102
+87	97	Tsinghua University, Tsinghua University Beijing, China	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+87	144	Tsinghua University, Tsinghua University Beijing, China	Sch. of Software, Tsinghua Univ., Beijing, China
+88	97	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Educational Technology Institute, Tsinghua University, Beijing, China 100084
+88	99	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+88	126	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+88	144	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Sch. of Software, Tsinghua Univ., Beijing, China
+88	164	Key Lab. for Inf. Syst. Security Sch. of Software, Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+89	90	National NC System Engineering Research Center, Huazhong University of Science and Technology, Email: zwm8917@263.net, Wuhan, 430074	National NC System Engineering Research Center, Huazhong University of Science and Technology, Wuhan, China 430074
+89	91	National NC System Engineering Research Center, Huazhong University of Science and Technology, Email: zwm8917@263.net, Wuhan, 430074	National Numerical Control System Engineering Research Center, Huazhong University of Science and Technology, Wuhan, China 430074
+90	91	National NC System Engineering Research Center, Huazhong University of Science and Technology, Wuhan, China 430074	National Numerical Control System Engineering Research Center, Huazhong University of Science and Technology, Wuhan, China 430074
+92	93	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Chinese Acad. of Sci., Shenyang
+92	94	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Robotics Lab., Chinese Acad. of Sci., Shenyang
+92	95	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Beijing
+92	104	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+92	149	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China
+92	152	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+93	94	Chinese Acad. of Sci., Shenyang	Robotics Lab., Chinese Acad. of Sci., Shenyang
+93	95	Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Beijing
+93	104	Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+93	149	Chinese Acad. of Sci., Shenyang	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China
+93	152	Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+94	95	Robotics Lab., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Beijing
+94	104	Robotics Lab., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+94	152	Robotics Lab., Chinese Acad. of Sci., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+95	104	Shenyang Inst. of Autom., Chinese Acad. of Sci., Beijing	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+95	152	Shenyang Inst. of Autom., Chinese Acad. of Sci., Beijing	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+97	99	Educational Technology Institute, Tsinghua University, Beijing, China 100084	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+97	126	Educational Technology Institute, Tsinghua University, Beijing, China 100084	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+97	144	Educational Technology Institute, Tsinghua University, Beijing, China 100084	Sch. of Software, Tsinghua Univ., Beijing, China
+97	164	Educational Technology Institute, Tsinghua University, Beijing, China 100084	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+98	160	Dept. of Electron. & Commun. Eng., Sun Yat-sen Univ., Guangzhou	School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China 510275 and New Jersey Institute of Technology, Newark, USA NJ 07102
+99	126	Dept. of Electron. Eng., Tsinghua Univ., Beijing	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084
+99	144	Dept. of Electron. Eng., Tsinghua Univ., Beijing	Sch. of Software, Tsinghua Univ., Beijing, China
+99	164	Dept. of Electron. Eng., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+100	104	Graduate Sch., Chinese Acad. of Sci., Shenyang Inst. of Autom., China	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China
+100	149	Graduate Sch., Chinese Acad. of Sci., Shenyang Inst. of Autom., China	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China
+101	118	Sch. of Comput. Sci., Fudan Univ., Shanghai	Department of Computer Science and Engineering, Fudan University, Shanghai 200433, China
+101	135	Sch. of Comput. Sci., Fudan Univ., Shanghai	Fudan University, Shanghai, China
+101	177	Sch. of Comput. Sci., Fudan Univ., Shanghai	School of Computer Science, Fudan University, 220 Handan Road, Shanghai, China
+102	103	Sch. of Mech. Eng., Xi'an Jiaotong Univ., China	Sch. of Mech. Eng., Xi'an Jiaotong Univ., China
+104	145	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China	State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+104	146	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China	State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+104	149	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China
+104	152	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang, China	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+106	166	Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, Hefei 230027, China	University of Science and Technology of China
+106	171	Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, Hefei 230027, China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 Hefei, China and Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, 230027 Hefei, China
+106	172	Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, Hefei 230027, China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 HeFei, Email: simonlee@mail.ustc.edu.cn, China
+116	123	Dept. of Comput. Sci., Hong Kong Univ. of Sci. & Technol., Kowloon, China	Hong Kong Univ. of Sci. & Technol., Kowloon, China
+116	163	Dept. of Comput. Sci., Hong Kong Univ. of Sci. & Technol., Kowloon, China	Dept. of Comput. Sci., Hong Kong Univ. of Sci. & Technol., Kowloon, China
+118	135	Department of Computer Science and Engineering, Fudan University, Shanghai 200433, China	Fudan University, Shanghai, China
+118	177	Department of Computer Science and Engineering, Fudan University, Shanghai 200433, China	School of Computer Science, Fudan University, 220 Handan Road, Shanghai, China
+119	167	State Key Lab of Novel Software Technology, Nanjing University, Nanjing 210093, People's Republic of China	Nanjing University, China
+121	162	Dept. of Radiology, State Univ. of New York, Stony Brook, NY, USA	State University of New York at Stony Brook
+123	163	Hong Kong Univ. of Sci. & Technol., Kowloon, China	Dept. of Comput. Sci., Hong Kong Univ. of Sci. & Technol., Kowloon, China
+126	144	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084	Sch. of Software, Tsinghua Univ., Beijing, China
+126	164	Center For Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University, Beijing, China 100084	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+135	177	Fudan University, Shanghai, China	School of Computer Science, Fudan University, 220 Handan Road, Shanghai, China
+144	164	Sch. of Software, Tsinghua Univ., Beijing, China	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, PR China
+145	146	State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China	State Key Laboratory of Robotics, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China
+148	168	Chinese Acad. of Surveying & Mapping, Beijing, China	Beijing Institute of Technology, China
+148	179	Chinese Acad. of Surveying & Mapping, Beijing, China	Res. Centre of Gov. GIS, Chinese Acad. of Surveying & Mapping, Beijing
+149	152	State Key Lab. of Robot., Chinese Acad. of Sci., Shenyang, China	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+151	152	Robot. Lab., Shenyang Inst. of Autom., Shenyang	Shenyang Inst. of Autom., Chinese Acad. of Sci., Shenyang
+158	160	College of Information Engineering, Shenzhen University, Shenzhen, China and School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China	School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China 510275 and New Jersey Institute of Technology, Newark, USA NJ 07102
+165	169	Jilin University	Jilin University, China
+166	171	University of Science and Technology of China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 Hefei, China and Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, 230027 Hefei, China
+166	172	University of Science and Technology of China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 HeFei, Email: simonlee@mail.ustc.edu.cn, China
+170	173	Dept. of Comput. Sci. & Eng., Yangzhou Univ., Yangzhou	Dept. of Comput. Sci. & Eng., Yangzhou Univ., Yangzhou
+171	172	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 Hefei, China and Anhui Key Laboratory of Software in Computing and Communication, University of Science and Technology of China, 230027 Hefei, China	MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China, 230027 HeFei, Email: simonlee@mail.ustc.edu.cn, China

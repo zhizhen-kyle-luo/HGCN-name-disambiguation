@@ -1,0 +1,70 @@
+50575	Speeding up the learning of equivalence classes of bayesian network structures
+165646	Flexible Graphplan
+221285	Towards Temporal Linguistic Variables
+221443	Selection of Features in Transparent Fuzzy Modelling
+221467	Linguistic Hedges on Tradezoidal Fuzzy Sets: A Revisit
+221887	Tolerance-based and Fuzzy-Rough Feature Selection
+221936	Towards Fuzzy Compositional Modelling
+221954	Distance Measure Assisted Rough Set Feature Selection
+266414	Linguistic Bayesian Networks for Reasoning will Objective Probabilities in Forensic Statistics
+266435	Probabilistic Abductive Computation of Evidence Collection Strategies in Crime Investigation
+276204	Admission Control for Providing QoS in Wireless Mesh Networks
+389468	Prioritising Behaviours in Qualitative Simulation
+510563	Semantics-Preserving Dimensionality Reduction in Intelligent Modelling
+561359	Rough Set-Based Dimensionality Reduction for Multivariate Adaptive Regression Splines
+561449	Webpage Classification with ACO-Enhanced Fuzzy-Rough Feature Selection
+561848	Using Fuzzy Dependency-Guided Attribute Grouping in Feature Selection
+561850	Finding Rough Set Reducts with SAT
+561866	A Rough Set-Based Approach to Text Classification
+654918	A Rough Set-Aided System for Sorting WWW Bookmarks
+737950	Rough Set-Aided Keyword Reduction for Text Categorization
+743446	Selecting tools and techniques for model-based diagnosis
+743810	FuREAP: a Fuzzy-Rough Estimator of Algae Populations
+743824	On extending the quantity space in qualitative reasoning
+743826	Diagnosing continuous systems with qualitative dynamic models
+745518	Fuzzy rrDFCSP and planning
+746509	On the specification of multiple models for diagnosis of dynamic systems
+748667	Solution Techniques for Constraint Satisfaction Problems: Foundations
+748669	Solution Techniques for Constraint Satisfaction Problems: Advanced Approaches
+751778	A Preliminary Specification Methodology for Model-based Diagnosis
+754927	Dynamic Flexible Constraint Satisfaction
+755067	Granularity and disaggregation in compositional modelling with applications to ecological systems
+755081	Data-driven fuzzy rule generation and its application for student academic performance evaluation
+755175	Approximation-based feature selection and application for algae population estimation
+879903	Fuzzy-rough attribute reduction with application to web categorization
+879904	Fuzzy-rough data reduction with ant colony optimization
+910398	Rough Feature Selection for Neural Network Based Image Classification
+952189	Compositional Model Repositories via Dynamic Constraint Satisfaction with Order-of-Magnitude Preferences
+1041319	A rough-fuzzy approach for generating classification rules
+1041320	Combining rough sets and data-driven fuzzy learning for generation of classification rules
+1041324	Selecting informative features with fuzzy-rough sets and its application for complex systems monitoring
+1070236	Linguistic probabilities: theory and application
+1070237	Random fuzzy alternating renewal processes
+1099798	Fuzzy Interpolative Reasoning via Scale and Move Transformations
+1099888	Fuzzy-Rough Sets Assisted Attribute Selection
+1100041	Modeling Random Fuzzy Renewal Reward Processes
+1100064	Fuzzy Interpolation and Extrapolation: A Practical Approach
+1112985	Semantics-Preserving Dimensionality Reduction: Rough and Fuzzy-Rough-Based Approaches
+1127191	Rough Feature Selection for Intelligent Classifiers
+1131688	Exhibiting the behavior of time-delayed systems via an extension to qualitative simulation
+1132121	Fault identification through the combination of symbolic conflict recognition and Markov chain-aided belief revision
+1157233	The evaluation of evidence for exponentially distributed data
+1184301	Fuzzy diagnosis of turbomachines
+1184305	Reinforcing fuzzy rule-based diagnosis of turbomachines with case-based reasoning
+1201140	Simultaneous Ant Colony Optimization Algorithms for Learning Linguistic Fuzzy Rules
+1209524	Intelligent hybrid approach to false identity detection
+1226912	Exploring the boundary region of tolerance rough sets for feature selection
+1273167	Feature selection for aiding glass forensic evidence analysis
+1285324	Power controlled network protocols for Multi-Rate ad hoc networks
+1309307	Fuzzy Sets and Rough Sets for Scenario Modelling and Analysis.
+1309341	Taking Fuzzy-Rough Application to Mars.
+1320996	Effective Feature Selection for Mars McMurdo Terrain Image Classification.
+1331606	Intelligent Systems for Decision Support.
+1342450	Random fuzzy delayed renewal processes.
+1391979	A Cluster Warhead Projection-Time Self-Adaptive Algorithm and Simulation
+1392024	Design of Range Correction Fuze Trajectory Calculation and Control Device
+1411576	Evolutionary approaches to fuzzy modelling for classification
+1428845	Combining Dimensional Analysis and Heuristics for Causal Ordering--In Memory of Dr Rob Milne --
+1434480	Improving throughput by tuning carrier sensing in 802.11 wireless networks
+1512582	Combining qualitative simulation and fuzzy sets
+1615497	Optimum Power Assignment for Maximum Throughput in CDMA Personal Communication Systems with Integrated Voice/Data Traffic

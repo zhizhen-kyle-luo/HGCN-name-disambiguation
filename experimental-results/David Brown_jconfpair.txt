@@ -1,0 +1,31 @@
+2	3	ESANN	ESANN
+11	12	IWANN (1)	IWANN (1)
+11	13	IWANN (1)	IWANN (1)
+11	14	IWANN (1)	IWANN
+12	13	IWANN (1)	IWANN (1)
+12	14	IWANN (1)	IWANN
+13	14	IWANN (1)	IWANN
+15	16	KES (1)	KES (1)
+15	17	KES (1)	KES (1)
+16	17	KES (1)	KES (1)
+27	28	Neurocomputing	Neurocomputing
+27	29	Neurocomputing	Neurocomputing
+27	30	Neurocomputing	Neurocomputing
+27	31	Neurocomputing	Neurocomputing
+27	32	Neurocomputing	Neurocomputing
+28	29	Neurocomputing	Neurocomputing
+28	30	Neurocomputing	Neurocomputing
+28	31	Neurocomputing	Neurocomputing
+28	32	Neurocomputing	Neurocomputing
+29	30	Neurocomputing	Neurocomputing
+29	31	Neurocomputing	Neurocomputing
+29	32	Neurocomputing	Neurocomputing
+30	31	Neurocomputing	Neurocomputing
+30	32	Neurocomputing	Neurocomputing
+31	32	Neurocomputing	Neurocomputing
+35	36	Journal of Computer-Aided Molecular Design	Journal of Computer-Aided Molecular Design
+38	39	Neural Computation	Neural Computation
+38	52	Neural Computation	Neural Computation
+39	52	Neural Computation	Neural Computation
+43	44	Applied Mathematics and Computation	Applied Mathematics and Computation
+48	49	Biological Cybernetics	Biological Cybernetics

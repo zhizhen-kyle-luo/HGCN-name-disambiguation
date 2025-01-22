@@ -1,0 +1,158 @@
+0	7	Steven J. Shute	Steven J. Shute
+0	8	Steven J. Shute	Steven J. Shute
+0	8	Mark H. Chignell	Mark H. Chignell
+0	13	Steven J. Shute	Steven J. Shute
+0	14	Steven J. Shute	Steven J. Shute
+0	14	Mark H. Chignell	Mark H. Chignell
+0	22	Steven J. Shute	Steven J. Shute
+0	22	Mark H. Chignell	Mark H. Chignell
+0	29	Steven J. Shute	Steven J. Shute
+0	29	Mark H. Chignell	Mark H. Chignell
+1	3	Rebecca Denning	Rebecca Denning
+1	17	Rebecca Denning	Rebecca Denning
+1	32	Rebecca Denning	Rebecca Denning
+2	3	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+2	3	Stephanie Guerlain	Stephanie Guerlain
+2	3	Jack W. Smith	Jack W. Smith
+2	3	Sally Rudmann	Sally Rudmann
+2	3	Larry Sachs	Larry Sachs
+2	3	Patricia Strohm	Patricia Strohm
+2	4	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+2	4	Stephanie Guerlain	Stephanie Guerlain
+2	4	Jack W. Smith	Jack W. Smith
+2	4	Sally Rudmann	Sally Rudmann
+2	4	Larry Sachs	Larry Sachs
+2	4	John Svirbley	John Svirbley
+2	4	Patricia Strohm	Patricia Strohm
+2	10	Jack W. Smith	Jack W. Smith
+2	12	Jack W. Smith	Jack W. Smith
+2	12	Sally Rudmann	Sally Rudmann
+2	12	Melanie Kennedy	Melanie Kennedy
+2	18	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+2	18	Stephanie Guerlain	Stephanie Guerlain
+2	18	Jack W. Smith	Jack W. Smith
+2	18	Sally Rudmann	Sally Rudmann
+2	18	Larry Sachs	Larry Sachs
+2	18	John Svirbley	John Svirbley
+2	18	Melanie Kennedy	Melanie Kennedy
+2	19	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+2	19	Stephanie Guerlain	Stephanie Guerlain
+2	19	Jack W. Smith	Jack W. Smith
+2	19	Sally Rudmann	Sally Rudmann
+2	19	Larry Sachs	Larry Sachs
+2	19	John Svirbley	John Svirbley
+2	19	Melanie Kennedy	Melanie Kennedy
+2	30	Jack W. Smith	Jack W. Smith
+2	30	Sally Rudmann	Sally Rudmann
+2	30	Melanie Kennedy	Melanie Kennedy
+2	32	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+3	4	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+3	4	Stephanie Guerlain	Stephanie Guerlain
+3	4	Sally Rudmann	Sally Rudmann
+3	4	Patricia Strohm	Patricia Strohm
+3	4	Jack W. Smith	Jack W. Smith
+3	4	Larry Sachs	Larry Sachs
+3	10	Jack W. Smith	Jack W. Smith
+3	12	Sally Rudmann	Sally Rudmann
+3	12	Jack W. Smith	Jack W. Smith
+3	17	Rebecca Denning	Rebecca Denning
+3	18	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+3	18	Stephanie Guerlain	Stephanie Guerlain
+3	18	Sally Rudmann	Sally Rudmann
+3	18	Jack W. Smith	Jack W. Smith
+3	18	Larry Sachs	Larry Sachs
+3	19	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+3	19	Stephanie Guerlain	Stephanie Guerlain
+3	19	Sally Rudmann	Sally Rudmann
+3	19	Jack W. Smith	Jack W. Smith
+3	19	Larry Sachs	Larry Sachs
+3	30	Sally Rudmann	Sally Rudmann
+3	30	Jack W. Smith	Jack W. Smith
+3	32	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+3	32	Rebecca Denning	Rebecca Denning
+4	10	Jack W. Smith	Jack W. Smith
+4	12	Sally Rudmann	Sally Rudmann
+4	12	Jack W. Smith	Jack W. Smith
+4	18	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+4	18	Stephanie Guerlain	Stephanie Guerlain
+4	18	Sally Rudmann	Sally Rudmann
+4	18	Jack W. Smith	Jack W. Smith
+4	18	John Svirbley	John Svirbley
+4	18	Larry Sachs	Larry Sachs
+4	19	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+4	19	Stephanie Guerlain	Stephanie Guerlain
+4	19	Sally Rudmann	Sally Rudmann
+4	19	Jack W. Smith	Jack W. Smith
+4	19	John Svirbley	John Svirbley
+4	19	Larry Sachs	Larry Sachs
+4	30	Sally Rudmann	Sally Rudmann
+4	30	Jack W. Smith	Jack W. Smith
+4	32	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+6	27	Bekka Denning	Bekka Denning
+7	8	Steven J. Shute	Steven J. Shute
+7	13	Steven J. Shute	Steven J. Shute
+7	14	Steven J. Shute	Steven J. Shute
+7	22	Steven J. Shute	Steven J. Shute
+7	29	Steven J. Shute	Steven J. Shute
+8	12	Deb Galdes	Deb Galdes
+8	13	Steven J. Shute	Steven J. Shute
+8	14	Steven J. Shute	Steven J. Shute
+8	14	Deb Galdes	Deb Galdes
+8	14	Mark H. Chignell	Mark H. Chignell
+8	22	Steven J. Shute	Steven J. Shute
+8	22	Mark H. Chignell	Mark H. Chignell
+8	29	Steven J. Shute	Steven J. Shute
+8	29	Mark H. Chignell	Mark H. Chignell
+10	12	Jane M. Fraser	Jane M. Fraser
+10	12	Jack W. Smith	Jack W. Smith
+10	18	Jack W. Smith	Jack W. Smith
+10	19	Jack W. Smith	Jack W. Smith
+10	30	Jane M. Fraser	Jane Fraser
+10	30	Jack W. Smith	Jack W. Smith
+12	14	Deb Galdes	Deb Galdes
+12	18	Jack W. Smith	Jack W. Smith
+12	18	Melanie Kennedy	Melanie Kennedy
+12	18	Sally Rudmann	Sally Rudmann
+12	19	Jack W. Smith	Jack W. Smith
+12	19	Melanie Kennedy	Melanie Kennedy
+12	19	Sally Rudmann	Sally Rudmann
+12	30	Jane M. Fraser	Jane Fraser
+12	30	Thomas Miller	Thomas Miller
+12	30	Jack W. Smith	Jack W. Smith
+12	30	John R. Svirbely	John R. Svirbely
+12	30	Janice Blazina	Janice Blazina
+12	30	Melanie Kennedy	Melanie Kennedy
+12	30	Sally Rudmann	Sally Rudmann
+12	30	Donna L. Thomas	Donna L. Thomas
+13	14	Steven J. Shute	Steven J. Shute
+13	22	Steven J. Shute	Steven J. Shute
+13	29	Steven J. Shute	Steven J. Shute
+14	22	Steven J. Shute	Steven J. Shute
+14	22	Mark H. Chignell	Mark H. Chignell
+14	29	Steven J. Shute	Steven J. Shute
+14	29	Mark H. Chignell	Mark H. Chignell
+17	32	Rebecca Denning	Rebecca Denning
+18	19	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+18	19	Stephanie Guerlain	Stephanie Guerlain
+18	19	Jack W. Smith	Jack W. Smith
+18	19	Jr.	Jr.
+18	19	Sally Rudmann	Sally Rudmann
+18	19	Larry Sachs	Larry Sachs
+18	19	John Svirbley	John Svirbley
+18	19	Melanie Kennedy	Melanie Kennedy
+18	19	Patricia L. Strohm	Patricia L. Strohm
+18	30	Jack W. Smith	Jack W. Smith
+18	30	Jr.	Jr.
+18	30	Sally Rudmann	Sally Rudmann
+18	30	Melanie Kennedy	Melanie Kennedy
+18	32	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+19	30	Jack W. Smith	Jack W. Smith
+19	30	Jr.	Jr.
+19	30	Sally Rudmann	Sally Rudmann
+19	30	Melanie Kennedy	Melanie Kennedy
+19	32	Jodi Heintz Obradovich	Jodi Heintz Obradovich
+20	24	Liu Kwan-Ma	Kwan-Liu Ma
+20	25	Liu Kwan-Ma	Kwan-Liu Ma
+22	29	Steven J. Shute	Steven J. Shute
+22	29	Mark H. Chignell	Mark H. Chignell
+24	25	Kwan-Liu Ma	Kwan-Liu Ma

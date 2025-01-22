@@ -1,0 +1,903 @@
+0	1	null	UCLA CSD
+0	2	null	USC/ISI
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	California Univ., Los Angeles, CA, USA
+0	8	null	null
+0	9	null	Colorado State University
+0	10	null	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+0	11	null	null
+0	12	null	null
+0	13	null	USC/Information Science Institute
+0	14	null	null
+0	15	null	null
+0	16	null	California Univ., Los Angeles, CA
+0	17	null	null
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	Colorado State University
+0	22	null	null
+0	23	null	Colorado State University
+0	24	null	null
+0	25	null	null
+0	26	null	null
+0	27	null	null
+0	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+0	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+0	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+0	31	null	null
+0	32	null	CS Department at Colorado State University
+0	33	null	null
+0	34	null	null
+0	35	null	California Univ., Los Angeles, CA, USA
+0	36	null	null
+0	37	null	null
+0	38	null	Colorado State University
+0	39	null	null
+0	40	null	null
+0	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+0	42	null	Colorado State University
+1	2	UCLA CSD	USC/ISI
+1	3	UCLA CSD	null
+1	4	UCLA CSD	null
+1	5	UCLA CSD	null
+1	6	UCLA CSD	null
+1	7	UCLA CSD	California Univ., Los Angeles, CA, USA
+1	8	UCLA CSD	null
+1	9	UCLA CSD	Colorado State University
+1	10	UCLA CSD	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+1	11	UCLA CSD	null
+1	12	UCLA CSD	null
+1	13	UCLA CSD	USC/Information Science Institute
+1	14	UCLA CSD	null
+1	15	UCLA CSD	null
+1	16	UCLA CSD	California Univ., Los Angeles, CA
+1	17	UCLA CSD	null
+1	18	UCLA CSD	null
+1	19	UCLA CSD	null
+1	20	UCLA CSD	null
+1	21	UCLA CSD	Colorado State University
+1	22	UCLA CSD	null
+1	23	UCLA CSD	Colorado State University
+1	24	UCLA CSD	null
+1	25	UCLA CSD	null
+1	26	UCLA CSD	null
+1	27	UCLA CSD	null
+1	28	UCLA CSD	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+1	29	UCLA CSD	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+1	30	UCLA CSD	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+1	31	UCLA CSD	null
+1	32	UCLA CSD	CS Department at Colorado State University
+1	33	UCLA CSD	null
+1	34	UCLA CSD	null
+1	35	UCLA CSD	California Univ., Los Angeles, CA, USA
+1	36	UCLA CSD	null
+1	37	UCLA CSD	null
+1	38	UCLA CSD	Colorado State University
+1	39	UCLA CSD	null
+1	40	UCLA CSD	null
+1	41	UCLA CSD	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+1	42	UCLA CSD	Colorado State University
+2	3	USC/ISI	null
+2	4	USC/ISI	null
+2	5	USC/ISI	null
+2	6	USC/ISI	null
+2	7	USC/ISI	California Univ., Los Angeles, CA, USA
+2	8	USC/ISI	null
+2	9	USC/ISI	Colorado State University
+2	10	USC/ISI	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+2	11	USC/ISI	null
+2	12	USC/ISI	null
+2	13	USC/ISI	USC/Information Science Institute
+2	14	USC/ISI	null
+2	15	USC/ISI	null
+2	16	USC/ISI	California Univ., Los Angeles, CA
+2	17	USC/ISI	null
+2	18	USC/ISI	null
+2	19	USC/ISI	null
+2	20	USC/ISI	null
+2	21	USC/ISI	Colorado State University
+2	22	USC/ISI	null
+2	23	USC/ISI	Colorado State University
+2	24	USC/ISI	null
+2	25	USC/ISI	null
+2	26	USC/ISI	null
+2	27	USC/ISI	null
+2	28	USC/ISI	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+2	29	USC/ISI	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+2	30	USC/ISI	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+2	31	USC/ISI	null
+2	32	USC/ISI	CS Department at Colorado State University
+2	33	USC/ISI	null
+2	34	USC/ISI	null
+2	35	USC/ISI	California Univ., Los Angeles, CA, USA
+2	36	USC/ISI	null
+2	37	USC/ISI	null
+2	38	USC/ISI	Colorado State University
+2	39	USC/ISI	null
+2	40	USC/ISI	null
+2	41	USC/ISI	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+2	42	USC/ISI	Colorado State University
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	California Univ., Los Angeles, CA, USA
+3	8	null	null
+3	9	null	Colorado State University
+3	10	null	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+3	11	null	null
+3	12	null	null
+3	13	null	USC/Information Science Institute
+3	14	null	null
+3	15	null	null
+3	16	null	California Univ., Los Angeles, CA
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	null
+3	21	null	Colorado State University
+3	22	null	null
+3	23	null	Colorado State University
+3	24	null	null
+3	25	null	null
+3	26	null	null
+3	27	null	null
+3	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+3	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+3	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+3	31	null	null
+3	32	null	CS Department at Colorado State University
+3	33	null	null
+3	34	null	null
+3	35	null	California Univ., Los Angeles, CA, USA
+3	36	null	null
+3	37	null	null
+3	38	null	Colorado State University
+3	39	null	null
+3	40	null	null
+3	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+3	42	null	Colorado State University
+4	5	null	null
+4	6	null	null
+4	7	null	California Univ., Los Angeles, CA, USA
+4	8	null	null
+4	9	null	Colorado State University
+4	10	null	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+4	11	null	null
+4	12	null	null
+4	13	null	USC/Information Science Institute
+4	14	null	null
+4	15	null	null
+4	16	null	California Univ., Los Angeles, CA
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	Colorado State University
+4	22	null	null
+4	23	null	Colorado State University
+4	24	null	null
+4	25	null	null
+4	26	null	null
+4	27	null	null
+4	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+4	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+4	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+4	31	null	null
+4	32	null	CS Department at Colorado State University
+4	33	null	null
+4	34	null	null
+4	35	null	California Univ., Los Angeles, CA, USA
+4	36	null	null
+4	37	null	null
+4	38	null	Colorado State University
+4	39	null	null
+4	40	null	null
+4	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+4	42	null	Colorado State University
+5	6	null	null
+5	7	null	California Univ., Los Angeles, CA, USA
+5	8	null	null
+5	9	null	Colorado State University
+5	10	null	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+5	11	null	null
+5	12	null	null
+5	13	null	USC/Information Science Institute
+5	14	null	null
+5	15	null	null
+5	16	null	California Univ., Los Angeles, CA
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	null
+5	21	null	Colorado State University
+5	22	null	null
+5	23	null	Colorado State University
+5	24	null	null
+5	25	null	null
+5	26	null	null
+5	27	null	null
+5	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+5	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+5	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+5	31	null	null
+5	32	null	CS Department at Colorado State University
+5	33	null	null
+5	34	null	null
+5	35	null	California Univ., Los Angeles, CA, USA
+5	36	null	null
+5	37	null	null
+5	38	null	Colorado State University
+5	39	null	null
+5	40	null	null
+5	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+5	42	null	Colorado State University
+6	7	null	California Univ., Los Angeles, CA, USA
+6	8	null	null
+6	9	null	Colorado State University
+6	10	null	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+6	11	null	null
+6	12	null	null
+6	13	null	USC/Information Science Institute
+6	14	null	null
+6	15	null	null
+6	16	null	California Univ., Los Angeles, CA
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	Colorado State University
+6	22	null	null
+6	23	null	Colorado State University
+6	24	null	null
+6	25	null	null
+6	26	null	null
+6	27	null	null
+6	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+6	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+6	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+6	31	null	null
+6	32	null	CS Department at Colorado State University
+6	33	null	null
+6	34	null	null
+6	35	null	California Univ., Los Angeles, CA, USA
+6	36	null	null
+6	37	null	null
+6	38	null	Colorado State University
+6	39	null	null
+6	40	null	null
+6	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+6	42	null	Colorado State University
+7	8	California Univ., Los Angeles, CA, USA	null
+7	9	California Univ., Los Angeles, CA, USA	Colorado State University
+7	10	California Univ., Los Angeles, CA, USA	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+7	11	California Univ., Los Angeles, CA, USA	null
+7	12	California Univ., Los Angeles, CA, USA	null
+7	13	California Univ., Los Angeles, CA, USA	USC/Information Science Institute
+7	14	California Univ., Los Angeles, CA, USA	null
+7	15	California Univ., Los Angeles, CA, USA	null
+7	16	California Univ., Los Angeles, CA, USA	California Univ., Los Angeles, CA
+7	17	California Univ., Los Angeles, CA, USA	null
+7	18	California Univ., Los Angeles, CA, USA	null
+7	19	California Univ., Los Angeles, CA, USA	null
+7	20	California Univ., Los Angeles, CA, USA	null
+7	21	California Univ., Los Angeles, CA, USA	Colorado State University
+7	22	California Univ., Los Angeles, CA, USA	null
+7	23	California Univ., Los Angeles, CA, USA	Colorado State University
+7	24	California Univ., Los Angeles, CA, USA	null
+7	25	California Univ., Los Angeles, CA, USA	null
+7	26	California Univ., Los Angeles, CA, USA	null
+7	27	California Univ., Los Angeles, CA, USA	null
+7	28	California Univ., Los Angeles, CA, USA	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+7	29	California Univ., Los Angeles, CA, USA	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+7	30	California Univ., Los Angeles, CA, USA	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+7	31	California Univ., Los Angeles, CA, USA	null
+7	32	California Univ., Los Angeles, CA, USA	CS Department at Colorado State University
+7	33	California Univ., Los Angeles, CA, USA	null
+7	34	California Univ., Los Angeles, CA, USA	null
+7	35	California Univ., Los Angeles, CA, USA	California Univ., Los Angeles, CA, USA
+7	36	California Univ., Los Angeles, CA, USA	null
+7	37	California Univ., Los Angeles, CA, USA	null
+7	38	California Univ., Los Angeles, CA, USA	Colorado State University
+7	39	California Univ., Los Angeles, CA, USA	null
+7	40	California Univ., Los Angeles, CA, USA	null
+7	41	California Univ., Los Angeles, CA, USA	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+7	42	California Univ., Los Angeles, CA, USA	Colorado State University
+8	9	null	Colorado State University
+8	10	null	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+8	11	null	null
+8	12	null	null
+8	13	null	USC/Information Science Institute
+8	14	null	null
+8	15	null	null
+8	16	null	California Univ., Los Angeles, CA
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	Colorado State University
+8	22	null	null
+8	23	null	Colorado State University
+8	24	null	null
+8	25	null	null
+8	26	null	null
+8	27	null	null
+8	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+8	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+8	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+8	31	null	null
+8	32	null	CS Department at Colorado State University
+8	33	null	null
+8	34	null	null
+8	35	null	California Univ., Los Angeles, CA, USA
+8	36	null	null
+8	37	null	null
+8	38	null	Colorado State University
+8	39	null	null
+8	40	null	null
+8	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+8	42	null	Colorado State University
+9	10	Colorado State University	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA
+9	11	Colorado State University	null
+9	12	Colorado State University	null
+9	13	Colorado State University	USC/Information Science Institute
+9	14	Colorado State University	null
+9	15	Colorado State University	null
+9	16	Colorado State University	California Univ., Los Angeles, CA
+9	17	Colorado State University	null
+9	18	Colorado State University	null
+9	19	Colorado State University	null
+9	20	Colorado State University	null
+9	21	Colorado State University	Colorado State University
+9	22	Colorado State University	null
+9	23	Colorado State University	Colorado State University
+9	24	Colorado State University	null
+9	25	Colorado State University	null
+9	26	Colorado State University	null
+9	27	Colorado State University	null
+9	28	Colorado State University	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+9	29	Colorado State University	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+9	30	Colorado State University	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+9	31	Colorado State University	null
+9	32	Colorado State University	CS Department at Colorado State University
+9	33	Colorado State University	null
+9	34	Colorado State University	null
+9	35	Colorado State University	California Univ., Los Angeles, CA, USA
+9	36	Colorado State University	null
+9	37	Colorado State University	null
+9	38	Colorado State University	Colorado State University
+9	39	Colorado State University	null
+9	40	Colorado State University	null
+9	41	Colorado State University	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+9	42	Colorado State University	Colorado State University
+10	11	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	12	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	13	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	USC/Information Science Institute
+10	14	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	15	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	16	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	California Univ., Los Angeles, CA
+10	17	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	18	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	19	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	20	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	21	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	Colorado State University
+10	22	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	23	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	Colorado State University
+10	24	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	25	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	26	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	27	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	28	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+10	29	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+10	30	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+10	31	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	32	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	CS Department at Colorado State University
+10	33	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	34	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	35	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	California Univ., Los Angeles, CA, USA
+10	36	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	37	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	38	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	Colorado State University
+10	39	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	40	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	null
+10	41	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+10	42	Dept. of Comput. Sci., California Univ., Los Angeles, CA, USA	Colorado State University
+11	12	null	null
+11	13	null	USC/Information Science Institute
+11	14	null	null
+11	15	null	null
+11	16	null	California Univ., Los Angeles, CA
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	Colorado State University
+11	22	null	null
+11	23	null	Colorado State University
+11	24	null	null
+11	25	null	null
+11	26	null	null
+11	27	null	null
+11	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+11	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+11	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+11	31	null	null
+11	32	null	CS Department at Colorado State University
+11	33	null	null
+11	34	null	null
+11	35	null	California Univ., Los Angeles, CA, USA
+11	36	null	null
+11	37	null	null
+11	38	null	Colorado State University
+11	39	null	null
+11	40	null	null
+11	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+11	42	null	Colorado State University
+12	13	null	USC/Information Science Institute
+12	14	null	null
+12	15	null	null
+12	16	null	California Univ., Los Angeles, CA
+12	17	null	null
+12	18	null	null
+12	19	null	null
+12	20	null	null
+12	21	null	Colorado State University
+12	22	null	null
+12	23	null	Colorado State University
+12	24	null	null
+12	25	null	null
+12	26	null	null
+12	27	null	null
+12	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+12	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+12	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+12	31	null	null
+12	32	null	CS Department at Colorado State University
+12	33	null	null
+12	34	null	null
+12	35	null	California Univ., Los Angeles, CA, USA
+12	36	null	null
+12	37	null	null
+12	38	null	Colorado State University
+12	39	null	null
+12	40	null	null
+12	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+12	42	null	Colorado State University
+13	14	USC/Information Science Institute	null
+13	15	USC/Information Science Institute	null
+13	16	USC/Information Science Institute	California Univ., Los Angeles, CA
+13	17	USC/Information Science Institute	null
+13	18	USC/Information Science Institute	null
+13	19	USC/Information Science Institute	null
+13	20	USC/Information Science Institute	null
+13	21	USC/Information Science Institute	Colorado State University
+13	22	USC/Information Science Institute	null
+13	23	USC/Information Science Institute	Colorado State University
+13	24	USC/Information Science Institute	null
+13	25	USC/Information Science Institute	null
+13	26	USC/Information Science Institute	null
+13	27	USC/Information Science Institute	null
+13	28	USC/Information Science Institute	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+13	29	USC/Information Science Institute	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+13	30	USC/Information Science Institute	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+13	31	USC/Information Science Institute	null
+13	32	USC/Information Science Institute	CS Department at Colorado State University
+13	33	USC/Information Science Institute	null
+13	34	USC/Information Science Institute	null
+13	35	USC/Information Science Institute	California Univ., Los Angeles, CA, USA
+13	36	USC/Information Science Institute	null
+13	37	USC/Information Science Institute	null
+13	38	USC/Information Science Institute	Colorado State University
+13	39	USC/Information Science Institute	null
+13	40	USC/Information Science Institute	null
+13	41	USC/Information Science Institute	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+13	42	USC/Information Science Institute	Colorado State University
+14	15	null	null
+14	16	null	California Univ., Los Angeles, CA
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	Colorado State University
+14	22	null	null
+14	23	null	Colorado State University
+14	24	null	null
+14	25	null	null
+14	26	null	null
+14	27	null	null
+14	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+14	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+14	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+14	31	null	null
+14	32	null	CS Department at Colorado State University
+14	33	null	null
+14	34	null	null
+14	35	null	California Univ., Los Angeles, CA, USA
+14	36	null	null
+14	37	null	null
+14	38	null	Colorado State University
+14	39	null	null
+14	40	null	null
+14	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+14	42	null	Colorado State University
+15	16	null	California Univ., Los Angeles, CA
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	Colorado State University
+15	22	null	null
+15	23	null	Colorado State University
+15	24	null	null
+15	25	null	null
+15	26	null	null
+15	27	null	null
+15	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+15	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+15	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+15	31	null	null
+15	32	null	CS Department at Colorado State University
+15	33	null	null
+15	34	null	null
+15	35	null	California Univ., Los Angeles, CA, USA
+15	36	null	null
+15	37	null	null
+15	38	null	Colorado State University
+15	39	null	null
+15	40	null	null
+15	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+15	42	null	Colorado State University
+16	17	California Univ., Los Angeles, CA	null
+16	18	California Univ., Los Angeles, CA	null
+16	19	California Univ., Los Angeles, CA	null
+16	20	California Univ., Los Angeles, CA	null
+16	21	California Univ., Los Angeles, CA	Colorado State University
+16	22	California Univ., Los Angeles, CA	null
+16	23	California Univ., Los Angeles, CA	Colorado State University
+16	24	California Univ., Los Angeles, CA	null
+16	25	California Univ., Los Angeles, CA	null
+16	26	California Univ., Los Angeles, CA	null
+16	27	California Univ., Los Angeles, CA	null
+16	28	California Univ., Los Angeles, CA	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+16	29	California Univ., Los Angeles, CA	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+16	30	California Univ., Los Angeles, CA	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+16	31	California Univ., Los Angeles, CA	null
+16	32	California Univ., Los Angeles, CA	CS Department at Colorado State University
+16	33	California Univ., Los Angeles, CA	null
+16	34	California Univ., Los Angeles, CA	null
+16	35	California Univ., Los Angeles, CA	California Univ., Los Angeles, CA, USA
+16	36	California Univ., Los Angeles, CA	null
+16	37	California Univ., Los Angeles, CA	null
+16	38	California Univ., Los Angeles, CA	Colorado State University
+16	39	California Univ., Los Angeles, CA	null
+16	40	California Univ., Los Angeles, CA	null
+16	41	California Univ., Los Angeles, CA	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+16	42	California Univ., Los Angeles, CA	Colorado State University
+17	18	null	null
+17	19	null	null
+17	20	null	null
+17	21	null	Colorado State University
+17	22	null	null
+17	23	null	Colorado State University
+17	24	null	null
+17	25	null	null
+17	26	null	null
+17	27	null	null
+17	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+17	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+17	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+17	31	null	null
+17	32	null	CS Department at Colorado State University
+17	33	null	null
+17	34	null	null
+17	35	null	California Univ., Los Angeles, CA, USA
+17	36	null	null
+17	37	null	null
+17	38	null	Colorado State University
+17	39	null	null
+17	40	null	null
+17	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+17	42	null	Colorado State University
+18	19	null	null
+18	20	null	null
+18	21	null	Colorado State University
+18	22	null	null
+18	23	null	Colorado State University
+18	24	null	null
+18	25	null	null
+18	26	null	null
+18	27	null	null
+18	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+18	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+18	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+18	31	null	null
+18	32	null	CS Department at Colorado State University
+18	33	null	null
+18	34	null	null
+18	35	null	California Univ., Los Angeles, CA, USA
+18	36	null	null
+18	37	null	null
+18	38	null	Colorado State University
+18	39	null	null
+18	40	null	null
+18	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+18	42	null	Colorado State University
+19	20	null	null
+19	21	null	Colorado State University
+19	22	null	null
+19	23	null	Colorado State University
+19	24	null	null
+19	25	null	null
+19	26	null	null
+19	27	null	null
+19	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+19	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+19	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+19	31	null	null
+19	32	null	CS Department at Colorado State University
+19	33	null	null
+19	34	null	null
+19	35	null	California Univ., Los Angeles, CA, USA
+19	36	null	null
+19	37	null	null
+19	38	null	Colorado State University
+19	39	null	null
+19	40	null	null
+19	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+19	42	null	Colorado State University
+20	21	null	Colorado State University
+20	22	null	null
+20	23	null	Colorado State University
+20	24	null	null
+20	25	null	null
+20	26	null	null
+20	27	null	null
+20	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+20	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+20	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+20	31	null	null
+20	32	null	CS Department at Colorado State University
+20	33	null	null
+20	34	null	null
+20	35	null	California Univ., Los Angeles, CA, USA
+20	36	null	null
+20	37	null	null
+20	38	null	Colorado State University
+20	39	null	null
+20	40	null	null
+20	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+20	42	null	Colorado State University
+21	22	Colorado State University	null
+21	23	Colorado State University	Colorado State University
+21	24	Colorado State University	null
+21	25	Colorado State University	null
+21	26	Colorado State University	null
+21	27	Colorado State University	null
+21	28	Colorado State University	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+21	29	Colorado State University	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+21	30	Colorado State University	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+21	31	Colorado State University	null
+21	32	Colorado State University	CS Department at Colorado State University
+21	33	Colorado State University	null
+21	34	Colorado State University	null
+21	35	Colorado State University	California Univ., Los Angeles, CA, USA
+21	36	Colorado State University	null
+21	37	Colorado State University	null
+21	38	Colorado State University	Colorado State University
+21	39	Colorado State University	null
+21	40	Colorado State University	null
+21	41	Colorado State University	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+21	42	Colorado State University	Colorado State University
+22	23	null	Colorado State University
+22	24	null	null
+22	25	null	null
+22	26	null	null
+22	27	null	null
+22	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+22	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+22	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+22	31	null	null
+22	32	null	CS Department at Colorado State University
+22	33	null	null
+22	34	null	null
+22	35	null	California Univ., Los Angeles, CA, USA
+22	36	null	null
+22	37	null	null
+22	38	null	Colorado State University
+22	39	null	null
+22	40	null	null
+22	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+22	42	null	Colorado State University
+23	24	Colorado State University	null
+23	25	Colorado State University	null
+23	26	Colorado State University	null
+23	27	Colorado State University	null
+23	28	Colorado State University	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+23	29	Colorado State University	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+23	30	Colorado State University	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+23	31	Colorado State University	null
+23	32	Colorado State University	CS Department at Colorado State University
+23	33	Colorado State University	null
+23	34	Colorado State University	null
+23	35	Colorado State University	California Univ., Los Angeles, CA, USA
+23	36	Colorado State University	null
+23	37	Colorado State University	null
+23	38	Colorado State University	Colorado State University
+23	39	Colorado State University	null
+23	40	Colorado State University	null
+23	41	Colorado State University	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+23	42	Colorado State University	Colorado State University
+24	25	null	null
+24	26	null	null
+24	27	null	null
+24	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+24	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+24	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+24	31	null	null
+24	32	null	CS Department at Colorado State University
+24	33	null	null
+24	34	null	null
+24	35	null	California Univ., Los Angeles, CA, USA
+24	36	null	null
+24	37	null	null
+24	38	null	Colorado State University
+24	39	null	null
+24	40	null	null
+24	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+24	42	null	Colorado State University
+25	26	null	null
+25	27	null	null
+25	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+25	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+25	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+25	31	null	null
+25	32	null	CS Department at Colorado State University
+25	33	null	null
+25	34	null	null
+25	35	null	California Univ., Los Angeles, CA, USA
+25	36	null	null
+25	37	null	null
+25	38	null	Colorado State University
+25	39	null	null
+25	40	null	null
+25	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+25	42	null	Colorado State University
+26	27	null	null
+26	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+26	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+26	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+26	31	null	null
+26	32	null	CS Department at Colorado State University
+26	33	null	null
+26	34	null	null
+26	35	null	California Univ., Los Angeles, CA, USA
+26	36	null	null
+26	37	null	null
+26	38	null	Colorado State University
+26	39	null	null
+26	40	null	null
+26	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+26	42	null	Colorado State University
+27	28	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+27	29	null	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+27	30	null	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+27	31	null	null
+27	32	null	CS Department at Colorado State University
+27	33	null	null
+27	34	null	null
+27	35	null	California Univ., Los Angeles, CA, USA
+27	36	null	null
+27	37	null	null
+27	38	null	Colorado State University
+27	39	null	null
+27	40	null	null
+27	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+27	42	null	Colorado State University
+28	29	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA
+28	30	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+28	31	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+28	32	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	CS Department at Colorado State University
+28	33	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+28	34	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+28	35	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	California Univ., Los Angeles, CA, USA
+28	36	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+28	37	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+28	38	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	Colorado State University
+28	39	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+28	40	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+28	41	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+28	42	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	Colorado State University
+29	30	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States
+29	31	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+29	32	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	CS Department at Colorado State University
+29	33	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+29	34	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+29	35	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	California Univ., Los Angeles, CA, USA
+29	36	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+29	37	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+29	38	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	Colorado State University
+29	39	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+29	40	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	null
+29	41	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+29	42	Computer Science Department, Colorado State University, Fort Collins, CO 80523-1873, USA	Colorado State University
+30	31	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	null
+30	32	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	CS Department at Colorado State University
+30	33	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	null
+30	34	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	null
+30	35	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	California Univ., Los Angeles, CA, USA
+30	36	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	null
+30	37	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	null
+30	38	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	Colorado State University
+30	39	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	null
+30	40	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	null
+30	41	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+30	42	University of Memphis, Computer Science Department, 318 Dunn Hall, Memphis, TN 38152, United States and Colorado State University, Computer Science Department, Fort Collins, CO 80523, United States and University of California, Los Angeles, Computer Science Department, Los Angeles, CA 90095, United States	Colorado State University
+31	32	null	CS Department at Colorado State University
+31	33	null	null
+31	34	null	null
+31	35	null	California Univ., Los Angeles, CA, USA
+31	36	null	null
+31	37	null	null
+31	38	null	Colorado State University
+31	39	null	null
+31	40	null	null
+31	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+31	42	null	Colorado State University
+32	33	CS Department at Colorado State University	null
+32	34	CS Department at Colorado State University	null
+32	35	CS Department at Colorado State University	California Univ., Los Angeles, CA, USA
+32	36	CS Department at Colorado State University	null
+32	37	CS Department at Colorado State University	null
+32	38	CS Department at Colorado State University	Colorado State University
+32	39	CS Department at Colorado State University	null
+32	40	CS Department at Colorado State University	null
+32	41	CS Department at Colorado State University	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+32	42	CS Department at Colorado State University	Colorado State University
+33	34	null	null
+33	35	null	California Univ., Los Angeles, CA, USA
+33	36	null	null
+33	37	null	null
+33	38	null	Colorado State University
+33	39	null	null
+33	40	null	null
+33	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+33	42	null	Colorado State University
+34	35	null	California Univ., Los Angeles, CA, USA
+34	36	null	null
+34	37	null	null
+34	38	null	Colorado State University
+34	39	null	null
+34	40	null	null
+34	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+34	42	null	Colorado State University
+35	36	California Univ., Los Angeles, CA, USA	null
+35	37	California Univ., Los Angeles, CA, USA	null
+35	38	California Univ., Los Angeles, CA, USA	Colorado State University
+35	39	California Univ., Los Angeles, CA, USA	null
+35	40	California Univ., Los Angeles, CA, USA	null
+35	41	California Univ., Los Angeles, CA, USA	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+35	42	California Univ., Los Angeles, CA, USA	Colorado State University
+36	37	null	null
+36	38	null	Colorado State University
+36	39	null	null
+36	40	null	null
+36	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+36	42	null	Colorado State University
+37	38	null	Colorado State University
+37	39	null	null
+37	40	null	null
+37	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+37	42	null	Colorado State University
+38	39	Colorado State University	null
+38	40	Colorado State University	null
+38	41	Colorado State University	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+38	42	Colorado State University	Colorado State University
+39	40	null	null
+39	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+39	42	null	Colorado State University
+40	41	null	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA
+40	42	null	Colorado State University
+41	42	Dept. of Comput. Sci., Colorado State Univ., Fort Collins, CO, USA	Colorado State University

@@ -1,0 +1,351 @@
+0	1	University of Minnesota, Minneapolis, MN	null
+0	2	University of Minnesota, Minneapolis, MN	null
+0	3	University of Minnesota, Minneapolis, MN	null
+0	4	University of Minnesota, Minneapolis, MN	null
+0	5	University of Minnesota, Minneapolis, MN	Dept of Computer Science and Engineering, University of Minnesota
+0	6	University of Minnesota, Minneapolis, MN	null
+0	7	University of Minnesota, Minneapolis, MN	null
+0	8	University of Minnesota, Minneapolis, MN	null
+0	9	University of Minnesota, Minneapolis, MN	null
+0	10	University of Minnesota, Minneapolis, MN	null
+0	11	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	12	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	13	University of Minnesota, Minneapolis, MN	University of Nebraska
+0	14	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	15	University of Minnesota, Minneapolis, MN	null
+0	16	University of Minnesota, Minneapolis, MN	null
+0	17	University of Minnesota, Minneapolis, MN	null
+0	18	University of Minnesota, Minneapolis, MN	null
+0	19	University of Minnesota, Minneapolis, MN	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+0	20	University of Minnesota, Minneapolis, MN	Dept. of Comput. Sci., Minnesota Univ., MN
+0	21	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	22	University of Minnesota, Minneapolis, MN	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+0	23	University of Minnesota, Minneapolis, MN	School of Engineering, AUT University, Auckland, New Zealand 1010
+0	24	University of Minnesota, Minneapolis, MN	null
+0	25	University of Minnesota, Minneapolis, MN	null
+0	26	University of Minnesota, Minneapolis, MN	null
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	Dept of Computer Science and Engineering, University of Minnesota
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	University of Minnesota
+1	12	null	University of Minnesota
+1	13	null	University of Nebraska
+1	14	null	University of Minnesota
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+1	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+1	21	null	University of Minnesota
+1	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+1	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+1	24	null	null
+1	25	null	null
+1	26	null	null
+2	3	null	null
+2	4	null	null
+2	5	null	Dept of Computer Science and Engineering, University of Minnesota
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	University of Minnesota
+2	12	null	University of Minnesota
+2	13	null	University of Nebraska
+2	14	null	University of Minnesota
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+2	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+2	21	null	University of Minnesota
+2	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+2	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+2	24	null	null
+2	25	null	null
+2	26	null	null
+3	4	null	null
+3	5	null	Dept of Computer Science and Engineering, University of Minnesota
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	University of Minnesota
+3	12	null	University of Minnesota
+3	13	null	University of Nebraska
+3	14	null	University of Minnesota
+3	15	null	null
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+3	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+3	21	null	University of Minnesota
+3	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+3	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+3	24	null	null
+3	25	null	null
+3	26	null	null
+4	5	null	Dept of Computer Science and Engineering, University of Minnesota
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	University of Minnesota
+4	12	null	University of Minnesota
+4	13	null	University of Nebraska
+4	14	null	University of Minnesota
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+4	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+4	21	null	University of Minnesota
+4	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+4	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+4	24	null	null
+4	25	null	null
+4	26	null	null
+5	6	Dept of Computer Science and Engineering, University of Minnesota	null
+5	7	Dept of Computer Science and Engineering, University of Minnesota	null
+5	8	Dept of Computer Science and Engineering, University of Minnesota	null
+5	9	Dept of Computer Science and Engineering, University of Minnesota	null
+5	10	Dept of Computer Science and Engineering, University of Minnesota	null
+5	11	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+5	12	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+5	13	Dept of Computer Science and Engineering, University of Minnesota	University of Nebraska
+5	14	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+5	15	Dept of Computer Science and Engineering, University of Minnesota	null
+5	16	Dept of Computer Science and Engineering, University of Minnesota	null
+5	17	Dept of Computer Science and Engineering, University of Minnesota	null
+5	18	Dept of Computer Science and Engineering, University of Minnesota	null
+5	19	Dept of Computer Science and Engineering, University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+5	20	Dept of Computer Science and Engineering, University of Minnesota	Dept. of Comput. Sci., Minnesota Univ., MN
+5	21	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+5	22	Dept of Computer Science and Engineering, University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+5	23	Dept of Computer Science and Engineering, University of Minnesota	School of Engineering, AUT University, Auckland, New Zealand 1010
+5	24	Dept of Computer Science and Engineering, University of Minnesota	null
+5	25	Dept of Computer Science and Engineering, University of Minnesota	null
+5	26	Dept of Computer Science and Engineering, University of Minnesota	null
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	University of Minnesota
+6	12	null	University of Minnesota
+6	13	null	University of Nebraska
+6	14	null	University of Minnesota
+6	15	null	null
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+6	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+6	21	null	University of Minnesota
+6	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+6	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+6	24	null	null
+6	25	null	null
+6	26	null	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	University of Minnesota
+7	12	null	University of Minnesota
+7	13	null	University of Nebraska
+7	14	null	University of Minnesota
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+7	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+7	21	null	University of Minnesota
+7	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+7	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+7	24	null	null
+7	25	null	null
+7	26	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	University of Minnesota
+8	12	null	University of Minnesota
+8	13	null	University of Nebraska
+8	14	null	University of Minnesota
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+8	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+8	21	null	University of Minnesota
+8	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+8	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+8	24	null	null
+8	25	null	null
+8	26	null	null
+9	10	null	null
+9	11	null	University of Minnesota
+9	12	null	University of Minnesota
+9	13	null	University of Nebraska
+9	14	null	University of Minnesota
+9	15	null	null
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+9	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+9	21	null	University of Minnesota
+9	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+9	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+9	24	null	null
+9	25	null	null
+9	26	null	null
+10	11	null	University of Minnesota
+10	12	null	University of Minnesota
+10	13	null	University of Nebraska
+10	14	null	University of Minnesota
+10	15	null	null
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+10	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+10	21	null	University of Minnesota
+10	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+10	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+10	24	null	null
+10	25	null	null
+10	26	null	null
+11	12	University of Minnesota	University of Minnesota
+11	13	University of Minnesota	University of Nebraska
+11	14	University of Minnesota	University of Minnesota
+11	15	University of Minnesota	null
+11	16	University of Minnesota	null
+11	17	University of Minnesota	null
+11	18	University of Minnesota	null
+11	19	University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+11	20	University of Minnesota	Dept. of Comput. Sci., Minnesota Univ., MN
+11	21	University of Minnesota	University of Minnesota
+11	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+11	23	University of Minnesota	School of Engineering, AUT University, Auckland, New Zealand 1010
+11	24	University of Minnesota	null
+11	25	University of Minnesota	null
+11	26	University of Minnesota	null
+12	13	University of Minnesota	University of Nebraska
+12	14	University of Minnesota	University of Minnesota
+12	15	University of Minnesota	null
+12	16	University of Minnesota	null
+12	17	University of Minnesota	null
+12	18	University of Minnesota	null
+12	19	University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+12	20	University of Minnesota	Dept. of Comput. Sci., Minnesota Univ., MN
+12	21	University of Minnesota	University of Minnesota
+12	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+12	23	University of Minnesota	School of Engineering, AUT University, Auckland, New Zealand 1010
+12	24	University of Minnesota	null
+12	25	University of Minnesota	null
+12	26	University of Minnesota	null
+13	14	University of Nebraska	University of Minnesota
+13	15	University of Nebraska	null
+13	16	University of Nebraska	null
+13	17	University of Nebraska	null
+13	18	University of Nebraska	null
+13	19	University of Nebraska	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+13	20	University of Nebraska	Dept. of Comput. Sci., Minnesota Univ., MN
+13	21	University of Nebraska	University of Minnesota
+13	22	University of Nebraska	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+13	23	University of Nebraska	School of Engineering, AUT University, Auckland, New Zealand 1010
+13	24	University of Nebraska	null
+13	25	University of Nebraska	null
+13	26	University of Nebraska	null
+14	15	University of Minnesota	null
+14	16	University of Minnesota	null
+14	17	University of Minnesota	null
+14	18	University of Minnesota	null
+14	19	University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+14	20	University of Minnesota	Dept. of Comput. Sci., Minnesota Univ., MN
+14	21	University of Minnesota	University of Minnesota
+14	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+14	23	University of Minnesota	School of Engineering, AUT University, Auckland, New Zealand 1010
+14	24	University of Minnesota	null
+14	25	University of Minnesota	null
+14	26	University of Minnesota	null
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+15	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+15	21	null	University of Minnesota
+15	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+15	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+15	24	null	null
+15	25	null	null
+15	26	null	null
+16	17	null	null
+16	18	null	null
+16	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+16	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+16	21	null	University of Minnesota
+16	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+16	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+16	24	null	null
+16	25	null	null
+16	26	null	null
+17	18	null	null
+17	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+17	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+17	21	null	University of Minnesota
+17	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+17	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+17	24	null	null
+17	25	null	null
+17	26	null	null
+18	19	null	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+18	20	null	Dept. of Comput. Sci., Minnesota Univ., MN
+18	21	null	University of Minnesota
+18	22	null	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+18	23	null	School of Engineering, AUT University, Auckland, New Zealand 1010
+18	24	null	null
+18	25	null	null
+18	26	null	null
+19	20	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	Dept. of Comput. Sci., Minnesota Univ., MN
+19	21	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	University of Minnesota
+19	22	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+19	23	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	School of Engineering, AUT University, Auckland, New Zealand 1010
+19	24	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	null
+19	25	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	null
+19	26	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	null
+20	21	Dept. of Comput. Sci., Minnesota Univ., MN	University of Minnesota
+20	22	Dept. of Comput. Sci., Minnesota Univ., MN	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+20	23	Dept. of Comput. Sci., Minnesota Univ., MN	School of Engineering, AUT University, Auckland, New Zealand 1010
+20	24	Dept. of Comput. Sci., Minnesota Univ., MN	null
+20	25	Dept. of Comput. Sci., Minnesota Univ., MN	null
+20	26	Dept. of Comput. Sci., Minnesota Univ., MN	null
+21	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+21	23	University of Minnesota	School of Engineering, AUT University, Auckland, New Zealand 1010
+21	24	University of Minnesota	null
+21	25	University of Minnesota	null
+21	26	University of Minnesota	null
+22	23	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA	School of Engineering, AUT University, Auckland, New Zealand 1010
+22	24	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA	null
+22	25	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA	null
+22	26	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA	null
+23	24	School of Engineering, AUT University, Auckland, New Zealand 1010	null
+23	25	School of Engineering, AUT University, Auckland, New Zealand 1010	null
+23	26	School of Engineering, AUT University, Auckland, New Zealand 1010	null
+24	25	null	null
+24	26	null	null
+25	26	null	null

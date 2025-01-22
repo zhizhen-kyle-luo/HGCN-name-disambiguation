@@ -1,0 +1,86 @@
+3	4	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu
+3	5	Texas A&M University, College Station	Texas A&M Univ., College Station
+3	6	Texas A&M University, College Station	Texas A&M Univ., College Station
+3	8	Texas A&M University, College Station	Texas A&M Univ., College Station, TX
+3	10	Texas A&M University, College Station	Texas A&M University, College Station, TX
+3	11	Texas A&M University, College Station	Texas A&M University, College Station, TX, USA
+3	21	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	22	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	23	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	24	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	27	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	28	Texas A&M University, College Station	Texas A&M University, College Station, TX
+4	5	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M Univ., College Station
+4	6	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M Univ., College Station
+4	8	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M Univ., College Station, TX
+4	10	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M University, College Station, TX
+4	11	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M University, College Station, TX, USA
+4	21	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	22	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	23	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	24	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	27	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	28	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M University, College Station, TX
+5	6	Texas A&M Univ., College Station	Texas A&M Univ., College Station
+5	8	Texas A&M Univ., College Station	Texas A&M Univ., College Station, TX
+5	10	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+5	11	Texas A&M Univ., College Station	Texas A&M University, College Station, TX, USA
+5	21	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	22	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	23	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	24	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	27	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	28	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+6	8	Texas A&M Univ., College Station	Texas A&M Univ., College Station, TX
+6	10	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+6	11	Texas A&M Univ., College Station	Texas A&M University, College Station, TX, USA
+6	21	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	22	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	23	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	24	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	27	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	28	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+8	10	Texas A&M Univ., College Station, TX	Texas A&M University, College Station, TX
+8	11	Texas A&M Univ., College Station, TX	Texas A&M University, College Station, TX, USA
+8	21	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	22	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	23	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	24	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	27	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	28	Texas A&M Univ., College Station, TX	Texas A&M University, College Station, TX
+10	11	Texas A&M University, College Station, TX	Texas A&M University, College Station, TX, USA
+10	21	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	22	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	23	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	24	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	27	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	28	Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+11	21	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	22	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	23	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	24	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	27	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	28	Texas A&M University, College Station, TX, USA	Texas A&M University, College Station, TX
+12	13	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+12	14	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+12	20	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+12	29	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+13	14	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+13	29	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+14	20	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+14	29	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+21	22	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	23	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	24	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+22	23	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+22	24	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+22	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+22	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+23	24	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+23	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+23	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+24	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+24	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+27	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX

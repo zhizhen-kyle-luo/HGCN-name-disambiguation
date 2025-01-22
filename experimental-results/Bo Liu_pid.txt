@@ -1,0 +1,124 @@
+8141	Rate-Distortion Optimized Progressive Geometry Compression
+8149	Multi-resolution Meshes Deformation Based on Pyramid Coordinates
+8164	A Blind Watermarking of 3D Triangular Meshes Using Geometry Image
+8193	Mesh Editing in ROI with Dual Laplacian
+35593	Multi-Agent Based Network Management Task Decomposition and Scheduling
+36524	SQUARE: A New TCP Variant for Future High Speed and Long Delay Environments
+48641	Research on Architecture and Key Technology for Service-Oriented Workflow Performance Analysis
+97041	Hybrid Particle Swarm Optimization for Flow Shop Scheduling with Stochastic Processing Time
+122305	Distributed Intelligent Network Management Model for the Large-Scale Computer Network
+122388	Semi-online Task Allocation Algorithm among Cooperative Agents
+166912	Collective Behavior Analysis of a Class of Social Foraging Swarms
+218671	Controllability of a Leader-Follower Dynamic Network with Interaction Time Delays
+218884	Variable Weights Decision-Making and Its Fuzzy Inference Implementation
+219061	A Graph-Based Algorithm for Mining Maximal Frequent Itemsets
+222807	CoDevFrame: An Event-drive Grid Oriented Cooperative Software Development System
+223591	Manufacturing Grid: Needs, Concept, and Architecture
+223628	A Distributed Data Server in Grid Environment
+223682	A High-Performance Intelligent Integrated Data Services System in Data Grid
+223836	WBEM Based Distributed Network Monitoring
+224525	A New Performance Evaluation Model and AHP-Based Analysis Method in Service-Oriented Workflow
+260877	Classification Rule Discovery with Ant Colony Optimization
+261732	A Learning Process Using SVMs for Multi-agents Decision Classification
+275975	Semi-Data-Aided Nonlinear Carrier Recovery for BPSK Burst-Mode Transmissions
+278642	Mixed Monte Carlo Parallel Algorithms for Matrix Computation
+279438	Numerical Experiments with Monte Carlo Methods and SPAI Preconditioner for Solving System of Linear Equations
+279473	Design and Analysis of Test Signals for System Identification
+303714	Multi-Space-Mapped SVMs for Multi-class Classification
+313432	Improved Differential Evolution with Dynamic Population Size
+314092	DE and NLP Based QPLS Algorithm
+314151	Constrained Nonlinear State Estimation - A Differential Evolution Based Moving Horizon Approach
+332946	An Energy-Minimizing Mesh Parameterization
+336484	A Study on Information Extraction from PDF Files
+371261	Research on Service-Oriented Workflow and Performance Evaluation
+417117	Joint estimation of image and coil sensitivities in parallel MRI
+417695	Improved spiral sense reconstruction using a multiscale wavelet model
+418016	Joint Estimation of Image and Coil Sensitivities in Parallel Spiral MRI
+418053	Regularized Sense Reconstruction Using Iteratively Refined Total Variation Method
+422585	The design of nonuniform-band maxmally decimated filter banks
+422587	Adaptive Video Coding using Mixed-Domain Filter Banks having Optimal-Shaped Subbands
+437835	BitTube: Case Study of a Web-Based Peer-Assisted Video-on-Demand System
+442184	Twi-Map Support Vector Machine for Multi-classification Problems
+442545	Designing Neural Networks Using Hybrid Particle Swarm Optimization
+442567	Binary Tree Support Vector Machine Based on Kernel Fisher Discriminant for Multi-classification
+443725	An Intelligent Differential Evolution Algorithm for Designing Trading-Ratio System of Water Market
+443819	Designing Neural Networks Using PSO-Based Memetic Algorithm
+518969	Hybrid Monte Carlo Methods for Matrix Computation
+525133	A Novel Worm Detection Model Based on Host Packet Behavior Ranking
+579905	Incremental Clustering Based on Swarm Intelligence
+609317	A Scable Peer-to-Peer Overlay for Applications with Time Constraints
+652414	ASG Automated Signature Generation for Worm-Like P2P Traffic Patterns
+655446	Support Vector Machines for Text Categorization in Chinese Question Classification
+679447	Cut-and-Paste Editing over 3D Meshes
+695594	Multi-agent System for Custom Relationship Management with SVMs Tool
+697744	A memetic co-evolutionary differential evolution algorithm for constrained optimization
+698218	Hybrid differential evolution for noisy optimization
+700520	Hybrid Ant Colony Algorithm and Its Application on Function Optimization
+724663	Flocking of Multi-Vehicle Systems With A Leader
+728991	Design and Study of Distribution Map of a General Architecture for Wireless Sensor Networks Based on GDI+
+729765	Multithreaded Optimizing Technique for Dynamic Binary Translator CrossBit
+730255	Hybrid Algorithm Combining Ant Colony Algorithm with Genetic Algorithm for Continuous Domain
+730381	A Vector Matrix Iterative Self-Organizing Assistant Clustering Algorithm of XML Document
+730582	Performance Analysis of the HLLACF
+789293	Classification Rule Discovery with Ant Colony Optimization
+802219	Intrusion detection system for high-speed network
+811207	A service-oriented business performance evaluation model and the performance-aware service selection method
+814728	An effective hybrid PSO-based algorithm for flow shop scheduling with limited buffers
+898630	Noise-Analysis Based Threshold-Choosing Algorithm in Motion Estimation
+905114	A Rotary Micromirror For Fiber-Optic Switching
+905116	Development Of An Soi-Based Micro Check Valve
+964804	Substitution effect on the geometry and electronic structure of the ferrocene
+964940	Theoretical study on the Br + CH3SCH3 reaction
+965051	Theoretical study on the OH + CH3NHC(O)OCH3 reaction
+965189	Theoretical study on the reaction of SiH(CH3)3 with SiH3 radical
+1011044	Robust content-based image indexing using contextual clues and automatic pseudofeedback
+1070003	Nesting Algorithm for Multi-Classification Problems
+1122214	Database and location management schemes for mobile communications
+1132898	An Effective PSO-Based Memetic Algorithm for Flow Shop Scheduling
+1133053	An Effective PSO-Based Hybrid Algorithm for Multiobjective Permutation Flow Shop Scheduling
+1145616	Particle swarm optimization for function optimization in noisy environment
+1157746	Defending against distributed denial-of-service attacks with an auction-based method
+1172210	A Chinese question classification using one-vs-one method as a learning tool
+1207585	A weight based compact genetic algorithm
+1213967	Accommodating colorblind users in image search
+1227846	A memetic approach to the automatic design of high-performance analog integrated circuits
+1230374	Consensus in Networks of Multiagents With Cooperation and Competition Via Stochastically Switching Topologies
+1230405	Nesting One-Against-One Algorithm Based on SVMs for Pattern Classification
+1237522	Fully Automatic Text Categorization by Exploiting WordNet
+1243171	ALHACF: An Anonymity-Level Selected Hierarchical Anonymous Communication Framework
+1243262	An Analytical Model for Broadcasting by Self Pruning in Wireless Ad Hoc Networks
+1248093	Boundary Constrained Manifold Unfolding
+1253029	Accessible image search
+1256530	Repairing Inconsistency and Uncertainty in DL-based Ontologies
+1259112	Estimation of Distribution Algorithms for the Machine-Part Cell Formation
+1275726	Analog circuit optimization system based on hybrid evolutionary algorithms
+1279506	ARDB - Antibiotic Resistance Genes Database
+1280398	Fully automatic and segmentation-robust classification of breast tumors based on local texture analysis of ultrasound images
+1292789	A Quality Metric Based on Color Similarity for Image Fusion
+1304550	Distributed network self-management model based on CSCW.
+1312646	The Design of the GPS-Based Surveying Robot Automatic Monitoring System for Underground Mining Safety.
+1315524	Filtering Spam in Social Tagging System with Dynamic Behavior Analysis.
+1318353	Design and Implementation of Control System on Embedded Downloading Server Based on C/S Architecture.
+1318850	Stability Analysis of Swarm with Interaction Time Delays Using Nearest Neighbors Information.
+1318943	Non-linear Correlation Techniques in Educational Data Mining.
+1319201	Scheduling strategies for mapping application workflows onto the grid.
+1319564	Multi-sphere Support Vector Data Description for Outliers Detection on Multi-distribution Data.
+1322975	Prediction and Analysis of Landslide Based on Fuzzy Theory.
+1322976	Complex Analysis of Anisotropic Swarms with Gaussian Profiles.
+1365799	Collective Behavior of Dynamic Swarm with General Topology and Complex Communication Time-Delays
+1376335	Reactive-ion etching of Ge2Sb2Te5 in CF4/Ar plasma for non-volatile phase-change memories
+1383923	Adaptive Resource Allocation in Multiuser OFDM System Based on Genetic Algorithm
+1385496	Enhanced sensitivity refractive index sensor using tilted fiber Bragg grating with thinned cladding
+1385648	Temperature wireless sensors network based on fiber Bragg grating
+1414703	Region-of-Interest Coding of 3D Mesh Based on Wavelet Transform
+1552536	On the spectral properties and stabilization of acoustic flow
+1582434	A Co-evolutionary Differential Evolution Algorithm for Constrained Optimization
+1583573	A Scalable Peer-to-Peer Overlay for Applications with Time Constraints
+1585435	A Population-Based Incremental Learning Algorithm with Elitist Strategy
+1613835	Demand Flow Network
+1652140	Entropy-based metrics in swarm clustering
+1652295	Neural Network Identification Method Applied to the Nonlinear System
+1658986	Complex Analysis of Anisotropic Swarms
+1658996	Stability Analysis of Social Foraging Swarm with Interaction Time Delays
+1753760	A New Parallel Segmentation Model Based on Dictionary and Mutual Information
+1755014	An effective parameter extraction method based on memetic differential evolution algorithm

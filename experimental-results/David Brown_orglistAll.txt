@@ -1,0 +1,1830 @@
+0	1	Oak Ridge Nat. Lab., TN, USA	null
+0	2	Oak Ridge Nat. Lab., TN, USA	null
+0	3	Oak Ridge Nat. Lab., TN, USA	null
+0	4	Oak Ridge Nat. Lab., TN, USA	null
+0	5	Oak Ridge Nat. Lab., TN, USA	null
+0	6	Oak Ridge Nat. Lab., TN, USA	Wake Forest University
+0	7	Oak Ridge Nat. Lab., TN, USA	null
+0	8	Oak Ridge Nat. Lab., TN, USA	null
+0	9	Oak Ridge Nat. Lab., TN, USA	Alabama Criminal Justice Inf. Center, Montgomery
+0	10	Oak Ridge Nat. Lab., TN, USA	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+0	11	Oak Ridge Nat. Lab., TN, USA	null
+0	12	Oak Ridge Nat. Lab., TN, USA	null
+0	13	Oak Ridge Nat. Lab., TN, USA	null
+0	14	Oak Ridge Nat. Lab., TN, USA	null
+0	15	Oak Ridge Nat. Lab., TN, USA	null
+0	16	Oak Ridge Nat. Lab., TN, USA	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+0	17	Oak Ridge Nat. Lab., TN, USA	The Institute of Industrial Research, University of Portsmouth, UK
+0	18	Oak Ridge Nat. Lab., TN, USA	null
+0	19	Oak Ridge Nat. Lab., TN, USA	null
+0	20	Oak Ridge Nat. Lab., TN, USA	Motorola, UK
+0	21	Oak Ridge Nat. Lab., TN, USA	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+0	22	Oak Ridge Nat. Lab., TN, USA	Google, Mountain View, CA
+0	23	Oak Ridge Nat. Lab., TN, USA	null
+0	24	Oak Ridge Nat. Lab., TN, USA	null
+0	25	Oak Ridge Nat. Lab., TN, USA	null
+0	26	Oak Ridge Nat. Lab., TN, USA	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+0	27	Oak Ridge Nat. Lab., TN, USA	null
+0	28	Oak Ridge Nat. Lab., TN, USA	null
+0	29	Oak Ridge Nat. Lab., TN, USA	null
+0	30	Oak Ridge Nat. Lab., TN, USA	null
+0	31	Oak Ridge Nat. Lab., TN, USA	null
+0	32	Oak Ridge Nat. Lab., TN, USA	null
+0	33	Oak Ridge Nat. Lab., TN, USA	null
+0	34	Oak Ridge Nat. Lab., TN, USA	null
+0	35	Oak Ridge Nat. Lab., TN, USA	null
+0	36	Oak Ridge Nat. Lab., TN, USA	null
+0	37	Oak Ridge Nat. Lab., TN, USA	null
+0	38	Oak Ridge Nat. Lab., TN, USA	null
+0	39	Oak Ridge Nat. Lab., TN, USA	null
+0	40	Oak Ridge Nat. Lab., TN, USA	null
+0	41	Oak Ridge Nat. Lab., TN, USA	null
+0	42	Oak Ridge Nat. Lab., TN, USA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+0	43	Oak Ridge Nat. Lab., TN, USA	null
+0	44	Oak Ridge Nat. Lab., TN, USA	null
+0	45	Oak Ridge Nat. Lab., TN, USA	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+0	46	Oak Ridge Nat. Lab., TN, USA	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+0	47	Oak Ridge Nat. Lab., TN, USA	null
+0	48	Oak Ridge Nat. Lab., TN, USA	null
+0	49	Oak Ridge Nat. Lab., TN, USA	null
+0	50	Oak Ridge Nat. Lab., TN, USA	Head of Scholarly Communications and Innovation Support, The British Library
+0	51	Oak Ridge Nat. Lab., TN, USA	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+0	52	Oak Ridge Nat. Lab., TN, USA	null
+0	53	Oak Ridge Nat. Lab., TN, USA	null
+0	54	Oak Ridge Nat. Lab., TN, USA	D'Amour Center for Cancer Care, Springfield MA 01199
+0	55	Oak Ridge Nat. Lab., TN, USA	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+0	56	Oak Ridge Nat. Lab., TN, USA	null
+0	57	Oak Ridge Nat. Lab., TN, USA	null
+0	58	Oak Ridge Nat. Lab., TN, USA	University of Houston-Downtown
+0	59	Oak Ridge Nat. Lab., TN, USA	Scientific Computing Group CIC-19, Los Alamos NM
+0	60	Oak Ridge Nat. Lab., TN, USA	null
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	Wake Forest University
+1	7	null	null
+1	8	null	null
+1	9	null	Alabama Criminal Justice Inf. Center, Montgomery
+1	10	null	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+1	11	null	null
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+1	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+1	18	null	null
+1	19	null	null
+1	20	null	Motorola, UK
+1	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+1	22	null	Google, Mountain View, CA
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	null
+1	33	null	null
+1	34	null	null
+1	35	null	null
+1	36	null	null
+1	37	null	null
+1	38	null	null
+1	39	null	null
+1	40	null	null
+1	41	null	null
+1	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+1	43	null	null
+1	44	null	null
+1	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+1	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+1	47	null	null
+1	48	null	null
+1	49	null	null
+1	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+1	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+1	52	null	null
+1	53	null	null
+1	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+1	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+1	56	null	null
+1	57	null	null
+1	58	null	University of Houston-Downtown
+1	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+1	60	null	null
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	Wake Forest University
+2	7	null	null
+2	8	null	null
+2	9	null	Alabama Criminal Justice Inf. Center, Montgomery
+2	10	null	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+2	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+2	18	null	null
+2	19	null	null
+2	20	null	Motorola, UK
+2	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+2	22	null	Google, Mountain View, CA
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+2	27	null	null
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	null
+2	33	null	null
+2	34	null	null
+2	35	null	null
+2	36	null	null
+2	37	null	null
+2	38	null	null
+2	39	null	null
+2	40	null	null
+2	41	null	null
+2	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+2	43	null	null
+2	44	null	null
+2	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+2	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+2	47	null	null
+2	48	null	null
+2	49	null	null
+2	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+2	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+2	52	null	null
+2	53	null	null
+2	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+2	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+2	56	null	null
+2	57	null	null
+2	58	null	University of Houston-Downtown
+2	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+2	60	null	null
+3	4	null	null
+3	5	null	null
+3	6	null	Wake Forest University
+3	7	null	null
+3	8	null	null
+3	9	null	Alabama Criminal Justice Inf. Center, Montgomery
+3	10	null	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+3	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+3	18	null	null
+3	19	null	null
+3	20	null	Motorola, UK
+3	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+3	22	null	Google, Mountain View, CA
+3	23	null	null
+3	24	null	null
+3	25	null	null
+3	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+3	27	null	null
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	null
+3	33	null	null
+3	34	null	null
+3	35	null	null
+3	36	null	null
+3	37	null	null
+3	38	null	null
+3	39	null	null
+3	40	null	null
+3	41	null	null
+3	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+3	43	null	null
+3	44	null	null
+3	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+3	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+3	47	null	null
+3	48	null	null
+3	49	null	null
+3	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+3	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+3	52	null	null
+3	53	null	null
+3	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+3	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+3	56	null	null
+3	57	null	null
+3	58	null	University of Houston-Downtown
+3	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+3	60	null	null
+4	5	null	null
+4	6	null	Wake Forest University
+4	7	null	null
+4	8	null	null
+4	9	null	Alabama Criminal Justice Inf. Center, Montgomery
+4	10	null	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+4	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+4	18	null	null
+4	19	null	null
+4	20	null	Motorola, UK
+4	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+4	22	null	Google, Mountain View, CA
+4	23	null	null
+4	24	null	null
+4	25	null	null
+4	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+4	27	null	null
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	null
+4	35	null	null
+4	36	null	null
+4	37	null	null
+4	38	null	null
+4	39	null	null
+4	40	null	null
+4	41	null	null
+4	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+4	43	null	null
+4	44	null	null
+4	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+4	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+4	47	null	null
+4	48	null	null
+4	49	null	null
+4	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+4	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+4	52	null	null
+4	53	null	null
+4	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+4	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+4	56	null	null
+4	57	null	null
+4	58	null	University of Houston-Downtown
+4	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+4	60	null	null
+5	6	null	Wake Forest University
+5	7	null	null
+5	8	null	null
+5	9	null	Alabama Criminal Justice Inf. Center, Montgomery
+5	10	null	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+5	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+5	18	null	null
+5	19	null	null
+5	20	null	Motorola, UK
+5	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+5	22	null	Google, Mountain View, CA
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	null
+5	34	null	null
+5	35	null	null
+5	36	null	null
+5	37	null	null
+5	38	null	null
+5	39	null	null
+5	40	null	null
+5	41	null	null
+5	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+5	43	null	null
+5	44	null	null
+5	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+5	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+5	47	null	null
+5	48	null	null
+5	49	null	null
+5	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+5	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+5	52	null	null
+5	53	null	null
+5	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+5	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+5	56	null	null
+5	57	null	null
+5	58	null	University of Houston-Downtown
+5	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+5	60	null	null
+6	7	Wake Forest University	null
+6	8	Wake Forest University	null
+6	9	Wake Forest University	Alabama Criminal Justice Inf. Center, Montgomery
+6	10	Wake Forest University	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+6	11	Wake Forest University	null
+6	12	Wake Forest University	null
+6	13	Wake Forest University	null
+6	14	Wake Forest University	null
+6	15	Wake Forest University	null
+6	16	Wake Forest University	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+6	17	Wake Forest University	The Institute of Industrial Research, University of Portsmouth, UK
+6	18	Wake Forest University	null
+6	19	Wake Forest University	null
+6	20	Wake Forest University	Motorola, UK
+6	21	Wake Forest University	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+6	22	Wake Forest University	Google, Mountain View, CA
+6	23	Wake Forest University	null
+6	24	Wake Forest University	null
+6	25	Wake Forest University	null
+6	26	Wake Forest University	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+6	27	Wake Forest University	null
+6	28	Wake Forest University	null
+6	29	Wake Forest University	null
+6	30	Wake Forest University	null
+6	31	Wake Forest University	null
+6	32	Wake Forest University	null
+6	33	Wake Forest University	null
+6	34	Wake Forest University	null
+6	35	Wake Forest University	null
+6	36	Wake Forest University	null
+6	37	Wake Forest University	null
+6	38	Wake Forest University	null
+6	39	Wake Forest University	null
+6	40	Wake Forest University	null
+6	41	Wake Forest University	null
+6	42	Wake Forest University	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+6	43	Wake Forest University	null
+6	44	Wake Forest University	null
+6	45	Wake Forest University	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+6	46	Wake Forest University	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+6	47	Wake Forest University	null
+6	48	Wake Forest University	null
+6	49	Wake Forest University	null
+6	50	Wake Forest University	Head of Scholarly Communications and Innovation Support, The British Library
+6	51	Wake Forest University	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+6	52	Wake Forest University	null
+6	53	Wake Forest University	null
+6	54	Wake Forest University	D'Amour Center for Cancer Care, Springfield MA 01199
+6	55	Wake Forest University	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+6	56	Wake Forest University	null
+6	57	Wake Forest University	null
+6	58	Wake Forest University	University of Houston-Downtown
+6	59	Wake Forest University	Scientific Computing Group CIC-19, Los Alamos NM
+6	60	Wake Forest University	null
+7	8	null	null
+7	9	null	Alabama Criminal Justice Inf. Center, Montgomery
+7	10	null	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+7	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+7	18	null	null
+7	19	null	null
+7	20	null	Motorola, UK
+7	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+7	22	null	Google, Mountain View, CA
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+7	27	null	null
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	null
+7	34	null	null
+7	35	null	null
+7	36	null	null
+7	37	null	null
+7	38	null	null
+7	39	null	null
+7	40	null	null
+7	41	null	null
+7	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+7	43	null	null
+7	44	null	null
+7	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+7	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+7	47	null	null
+7	48	null	null
+7	49	null	null
+7	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+7	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+7	52	null	null
+7	53	null	null
+7	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+7	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+7	56	null	null
+7	57	null	null
+7	58	null	University of Houston-Downtown
+7	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+7	60	null	null
+8	9	null	Alabama Criminal Justice Inf. Center, Montgomery
+8	10	null	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+8	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+8	18	null	null
+8	19	null	null
+8	20	null	Motorola, UK
+8	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+8	22	null	Google, Mountain View, CA
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+8	27	null	null
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	null
+8	33	null	null
+8	34	null	null
+8	35	null	null
+8	36	null	null
+8	37	null	null
+8	38	null	null
+8	39	null	null
+8	40	null	null
+8	41	null	null
+8	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+8	43	null	null
+8	44	null	null
+8	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+8	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+8	47	null	null
+8	48	null	null
+8	49	null	null
+8	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+8	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+8	52	null	null
+8	53	null	null
+8	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+8	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+8	56	null	null
+8	57	null	null
+8	58	null	University of Houston-Downtown
+8	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+8	60	null	null
+9	10	Alabama Criminal Justice Inf. Center, Montgomery	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA
+9	11	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	12	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	13	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	14	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	15	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	16	Alabama Criminal Justice Inf. Center, Montgomery	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+9	17	Alabama Criminal Justice Inf. Center, Montgomery	The Institute of Industrial Research, University of Portsmouth, UK
+9	18	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	19	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	20	Alabama Criminal Justice Inf. Center, Montgomery	Motorola, UK
+9	21	Alabama Criminal Justice Inf. Center, Montgomery	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+9	22	Alabama Criminal Justice Inf. Center, Montgomery	Google, Mountain View, CA
+9	23	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	24	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	25	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	26	Alabama Criminal Justice Inf. Center, Montgomery	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+9	27	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	28	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	29	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	30	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	31	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	32	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	33	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	34	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	35	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	36	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	37	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	38	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	39	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	40	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	41	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	42	Alabama Criminal Justice Inf. Center, Montgomery	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+9	43	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	44	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	45	Alabama Criminal Justice Inf. Center, Montgomery	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+9	46	Alabama Criminal Justice Inf. Center, Montgomery	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+9	47	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	48	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	49	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	50	Alabama Criminal Justice Inf. Center, Montgomery	Head of Scholarly Communications and Innovation Support, The British Library
+9	51	Alabama Criminal Justice Inf. Center, Montgomery	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+9	52	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	53	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	54	Alabama Criminal Justice Inf. Center, Montgomery	D'Amour Center for Cancer Care, Springfield MA 01199
+9	55	Alabama Criminal Justice Inf. Center, Montgomery	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+9	56	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	57	Alabama Criminal Justice Inf. Center, Montgomery	null
+9	58	Alabama Criminal Justice Inf. Center, Montgomery	University of Houston-Downtown
+9	59	Alabama Criminal Justice Inf. Center, Montgomery	Scientific Computing Group CIC-19, Los Alamos NM
+9	60	Alabama Criminal Justice Inf. Center, Montgomery	null
+10	11	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	12	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	13	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	14	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	15	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	16	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+10	17	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	The Institute of Industrial Research, University of Portsmouth, UK
+10	18	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	19	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	20	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Motorola, UK
+10	21	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+10	22	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Google, Mountain View, CA
+10	23	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	24	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	25	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	26	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+10	27	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	28	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	29	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	30	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	31	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	32	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	33	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	34	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	35	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	36	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	37	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	38	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	39	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	40	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	41	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	42	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+10	43	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	44	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	45	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+10	46	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+10	47	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	48	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	49	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	50	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Head of Scholarly Communications and Innovation Support, The British Library
+10	51	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+10	52	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	53	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	54	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	D'Amour Center for Cancer Care, Springfield MA 01199
+10	55	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+10	56	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	57	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+10	58	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	University of Houston-Downtown
+10	59	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	Scientific Computing Group CIC-19, Los Alamos NM
+10	60	Computer Science Department, Worcester Polytechnic Institute, 100 Institute Road, Worcester, MA	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+11	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+11	18	null	null
+11	19	null	null
+11	20	null	Motorola, UK
+11	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+11	22	null	Google, Mountain View, CA
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	null
+11	34	null	null
+11	35	null	null
+11	36	null	null
+11	37	null	null
+11	38	null	null
+11	39	null	null
+11	40	null	null
+11	41	null	null
+11	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+11	43	null	null
+11	44	null	null
+11	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+11	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+11	47	null	null
+11	48	null	null
+11	49	null	null
+11	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+11	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+11	52	null	null
+11	53	null	null
+11	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+11	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+11	56	null	null
+11	57	null	null
+11	58	null	University of Houston-Downtown
+11	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+11	60	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+12	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+12	18	null	null
+12	19	null	null
+12	20	null	Motorola, UK
+12	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+12	22	null	Google, Mountain View, CA
+12	23	null	null
+12	24	null	null
+12	25	null	null
+12	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+12	27	null	null
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	null
+12	33	null	null
+12	34	null	null
+12	35	null	null
+12	36	null	null
+12	37	null	null
+12	38	null	null
+12	39	null	null
+12	40	null	null
+12	41	null	null
+12	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+12	43	null	null
+12	44	null	null
+12	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+12	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+12	47	null	null
+12	48	null	null
+12	49	null	null
+12	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+12	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+12	52	null	null
+12	53	null	null
+12	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+12	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+12	56	null	null
+12	57	null	null
+12	58	null	University of Houston-Downtown
+12	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+12	60	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+13	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+13	18	null	null
+13	19	null	null
+13	20	null	Motorola, UK
+13	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+13	22	null	Google, Mountain View, CA
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+13	27	null	null
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	null
+13	33	null	null
+13	34	null	null
+13	35	null	null
+13	36	null	null
+13	37	null	null
+13	38	null	null
+13	39	null	null
+13	40	null	null
+13	41	null	null
+13	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+13	43	null	null
+13	44	null	null
+13	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+13	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+13	47	null	null
+13	48	null	null
+13	49	null	null
+13	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+13	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+13	52	null	null
+13	53	null	null
+13	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+13	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+13	56	null	null
+13	57	null	null
+13	58	null	University of Houston-Downtown
+13	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+13	60	null	null
+14	15	null	null
+14	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+14	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+14	18	null	null
+14	19	null	null
+14	20	null	Motorola, UK
+14	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+14	22	null	Google, Mountain View, CA
+14	23	null	null
+14	24	null	null
+14	25	null	null
+14	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+14	27	null	null
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	null
+14	33	null	null
+14	34	null	null
+14	35	null	null
+14	36	null	null
+14	37	null	null
+14	38	null	null
+14	39	null	null
+14	40	null	null
+14	41	null	null
+14	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+14	43	null	null
+14	44	null	null
+14	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+14	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+14	47	null	null
+14	48	null	null
+14	49	null	null
+14	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+14	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+14	52	null	null
+14	53	null	null
+14	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+14	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+14	56	null	null
+14	57	null	null
+14	58	null	University of Houston-Downtown
+14	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+14	60	null	null
+15	16	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL
+15	17	null	The Institute of Industrial Research, University of Portsmouth, UK
+15	18	null	null
+15	19	null	null
+15	20	null	Motorola, UK
+15	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+15	22	null	Google, Mountain View, CA
+15	23	null	null
+15	24	null	null
+15	25	null	null
+15	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+15	27	null	null
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	null
+15	33	null	null
+15	34	null	null
+15	35	null	null
+15	36	null	null
+15	37	null	null
+15	38	null	null
+15	39	null	null
+15	40	null	null
+15	41	null	null
+15	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+15	43	null	null
+15	44	null	null
+15	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+15	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+15	47	null	null
+15	48	null	null
+15	49	null	null
+15	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+15	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+15	52	null	null
+15	53	null	null
+15	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+15	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+15	56	null	null
+15	57	null	null
+15	58	null	University of Houston-Downtown
+15	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+15	60	null	null
+16	17	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	The Institute of Industrial Research, University of Portsmouth, UK
+16	18	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	19	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	20	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Motorola, UK
+16	21	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+16	22	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Google, Mountain View, CA
+16	23	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	24	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	25	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	26	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+16	27	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	28	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	29	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	30	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	31	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	32	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	33	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	34	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	35	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	36	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	37	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	38	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	39	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	40	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	41	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	42	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+16	43	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	44	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	45	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+16	46	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+16	47	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	48	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	49	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	50	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Head of Scholarly Communications and Innovation Support, The British Library
+16	51	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+16	52	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	53	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	54	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	D'Amour Center for Cancer Care, Springfield MA 01199
+16	55	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+16	56	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	57	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+16	58	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	University of Houston-Downtown
+16	59	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	Scientific Computing Group CIC-19, Los Alamos NM
+16	60	Institute of Industrial Research, University of Portsmouth, Portsmouth, England PO1 3QL	null
+17	18	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	19	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	20	The Institute of Industrial Research, University of Portsmouth, UK	Motorola, UK
+17	21	The Institute of Industrial Research, University of Portsmouth, UK	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+17	22	The Institute of Industrial Research, University of Portsmouth, UK	Google, Mountain View, CA
+17	23	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	24	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	25	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	26	The Institute of Industrial Research, University of Portsmouth, UK	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+17	27	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	28	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	29	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	30	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	31	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	32	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	33	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	34	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	35	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	36	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	37	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	38	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	39	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	40	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	41	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	42	The Institute of Industrial Research, University of Portsmouth, UK	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+17	43	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	44	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	45	The Institute of Industrial Research, University of Portsmouth, UK	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+17	46	The Institute of Industrial Research, University of Portsmouth, UK	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+17	47	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	48	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	49	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	50	The Institute of Industrial Research, University of Portsmouth, UK	Head of Scholarly Communications and Innovation Support, The British Library
+17	51	The Institute of Industrial Research, University of Portsmouth, UK	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+17	52	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	53	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	54	The Institute of Industrial Research, University of Portsmouth, UK	D'Amour Center for Cancer Care, Springfield MA 01199
+17	55	The Institute of Industrial Research, University of Portsmouth, UK	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+17	56	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	57	The Institute of Industrial Research, University of Portsmouth, UK	null
+17	58	The Institute of Industrial Research, University of Portsmouth, UK	University of Houston-Downtown
+17	59	The Institute of Industrial Research, University of Portsmouth, UK	Scientific Computing Group CIC-19, Los Alamos NM
+17	60	The Institute of Industrial Research, University of Portsmouth, UK	null
+18	19	null	null
+18	20	null	Motorola, UK
+18	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+18	22	null	Google, Mountain View, CA
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+18	27	null	null
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	null
+18	33	null	null
+18	34	null	null
+18	35	null	null
+18	36	null	null
+18	37	null	null
+18	38	null	null
+18	39	null	null
+18	40	null	null
+18	41	null	null
+18	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+18	43	null	null
+18	44	null	null
+18	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+18	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+18	47	null	null
+18	48	null	null
+18	49	null	null
+18	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+18	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+18	52	null	null
+18	53	null	null
+18	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+18	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+18	56	null	null
+18	57	null	null
+18	58	null	University of Houston-Downtown
+18	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+18	60	null	null
+19	20	null	Motorola, UK
+19	21	null	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+19	22	null	Google, Mountain View, CA
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+19	27	null	null
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	null
+19	33	null	null
+19	34	null	null
+19	35	null	null
+19	36	null	null
+19	37	null	null
+19	38	null	null
+19	39	null	null
+19	40	null	null
+19	41	null	null
+19	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+19	43	null	null
+19	44	null	null
+19	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+19	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+19	47	null	null
+19	48	null	null
+19	49	null	null
+19	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+19	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+19	52	null	null
+19	53	null	null
+19	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+19	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+19	56	null	null
+19	57	null	null
+19	58	null	University of Houston-Downtown
+19	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+19	60	null	null
+20	21	Motorola, UK	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL
+20	22	Motorola, UK	Google, Mountain View, CA
+20	23	Motorola, UK	null
+20	24	Motorola, UK	null
+20	25	Motorola, UK	null
+20	26	Motorola, UK	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+20	27	Motorola, UK	null
+20	28	Motorola, UK	null
+20	29	Motorola, UK	null
+20	30	Motorola, UK	null
+20	31	Motorola, UK	null
+20	32	Motorola, UK	null
+20	33	Motorola, UK	null
+20	34	Motorola, UK	null
+20	35	Motorola, UK	null
+20	36	Motorola, UK	null
+20	37	Motorola, UK	null
+20	38	Motorola, UK	null
+20	39	Motorola, UK	null
+20	40	Motorola, UK	null
+20	41	Motorola, UK	null
+20	42	Motorola, UK	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+20	43	Motorola, UK	null
+20	44	Motorola, UK	null
+20	45	Motorola, UK	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+20	46	Motorola, UK	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+20	47	Motorola, UK	null
+20	48	Motorola, UK	null
+20	49	Motorola, UK	null
+20	50	Motorola, UK	Head of Scholarly Communications and Innovation Support, The British Library
+20	51	Motorola, UK	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+20	52	Motorola, UK	null
+20	53	Motorola, UK	null
+20	54	Motorola, UK	D'Amour Center for Cancer Care, Springfield MA 01199
+20	55	Motorola, UK	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+20	56	Motorola, UK	null
+20	57	Motorola, UK	null
+20	58	Motorola, UK	University of Houston-Downtown
+20	59	Motorola, UK	Scientific Computing Group CIC-19, Los Alamos NM
+20	60	Motorola, UK	null
+21	22	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	Google, Mountain View, CA
+21	23	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	24	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	25	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	26	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+21	27	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	28	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	29	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	30	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	31	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	32	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	33	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	34	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	35	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	36	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	37	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	38	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	39	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	40	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	41	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	42	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+21	43	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	44	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	45	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+21	46	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+21	47	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	48	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	49	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	50	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	Head of Scholarly Communications and Innovation Support, The British Library
+21	51	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+21	52	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	53	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	54	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	D'Amour Center for Cancer Care, Springfield MA 01199
+21	55	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+21	56	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	57	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+21	58	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	University of Houston-Downtown
+21	59	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	Scientific Computing Group CIC-19, Los Alamos NM
+21	60	Institute of Industrial Research, University of Portsmouth, Portsmouth, UK PO1 3QL	null
+22	23	Google, Mountain View, CA	null
+22	24	Google, Mountain View, CA	null
+22	25	Google, Mountain View, CA	null
+22	26	Google, Mountain View, CA	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+22	27	Google, Mountain View, CA	null
+22	28	Google, Mountain View, CA	null
+22	29	Google, Mountain View, CA	null
+22	30	Google, Mountain View, CA	null
+22	31	Google, Mountain View, CA	null
+22	32	Google, Mountain View, CA	null
+22	33	Google, Mountain View, CA	null
+22	34	Google, Mountain View, CA	null
+22	35	Google, Mountain View, CA	null
+22	36	Google, Mountain View, CA	null
+22	37	Google, Mountain View, CA	null
+22	38	Google, Mountain View, CA	null
+22	39	Google, Mountain View, CA	null
+22	40	Google, Mountain View, CA	null
+22	41	Google, Mountain View, CA	null
+22	42	Google, Mountain View, CA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+22	43	Google, Mountain View, CA	null
+22	44	Google, Mountain View, CA	null
+22	45	Google, Mountain View, CA	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+22	46	Google, Mountain View, CA	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+22	47	Google, Mountain View, CA	null
+22	48	Google, Mountain View, CA	null
+22	49	Google, Mountain View, CA	null
+22	50	Google, Mountain View, CA	Head of Scholarly Communications and Innovation Support, The British Library
+22	51	Google, Mountain View, CA	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+22	52	Google, Mountain View, CA	null
+22	53	Google, Mountain View, CA	null
+22	54	Google, Mountain View, CA	D'Amour Center for Cancer Care, Springfield MA 01199
+22	55	Google, Mountain View, CA	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+22	56	Google, Mountain View, CA	null
+22	57	Google, Mountain View, CA	null
+22	58	Google, Mountain View, CA	University of Houston-Downtown
+22	59	Google, Mountain View, CA	Scientific Computing Group CIC-19, Los Alamos NM
+22	60	Google, Mountain View, CA	null
+23	24	null	null
+23	25	null	null
+23	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+23	27	null	null
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+23	32	null	null
+23	33	null	null
+23	34	null	null
+23	35	null	null
+23	36	null	null
+23	37	null	null
+23	38	null	null
+23	39	null	null
+23	40	null	null
+23	41	null	null
+23	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+23	43	null	null
+23	44	null	null
+23	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+23	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+23	47	null	null
+23	48	null	null
+23	49	null	null
+23	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+23	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+23	52	null	null
+23	53	null	null
+23	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+23	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+23	56	null	null
+23	57	null	null
+23	58	null	University of Houston-Downtown
+23	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+23	60	null	null
+24	25	null	null
+24	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+24	27	null	null
+24	28	null	null
+24	29	null	null
+24	30	null	null
+24	31	null	null
+24	32	null	null
+24	33	null	null
+24	34	null	null
+24	35	null	null
+24	36	null	null
+24	37	null	null
+24	38	null	null
+24	39	null	null
+24	40	null	null
+24	41	null	null
+24	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+24	43	null	null
+24	44	null	null
+24	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+24	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+24	47	null	null
+24	48	null	null
+24	49	null	null
+24	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+24	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+24	52	null	null
+24	53	null	null
+24	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+24	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+24	56	null	null
+24	57	null	null
+24	58	null	University of Houston-Downtown
+24	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+24	60	null	null
+25	26	null	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA
+25	27	null	null
+25	28	null	null
+25	29	null	null
+25	30	null	null
+25	31	null	null
+25	32	null	null
+25	33	null	null
+25	34	null	null
+25	35	null	null
+25	36	null	null
+25	37	null	null
+25	38	null	null
+25	39	null	null
+25	40	null	null
+25	41	null	null
+25	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+25	43	null	null
+25	44	null	null
+25	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+25	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+25	47	null	null
+25	48	null	null
+25	49	null	null
+25	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+25	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+25	52	null	null
+25	53	null	null
+25	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+25	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+25	56	null	null
+25	57	null	null
+25	58	null	University of Houston-Downtown
+25	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+25	60	null	null
+26	27	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	28	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	29	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	30	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	31	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	32	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	33	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	34	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	35	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	36	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	37	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	38	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	39	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	40	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	41	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	42	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+26	43	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	44	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	45	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+26	46	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+26	47	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	48	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	49	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	50	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	Head of Scholarly Communications and Innovation Support, The British Library
+26	51	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+26	52	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	53	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	54	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	D'Amour Center for Cancer Care, Springfield MA 01199
+26	55	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+26	56	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	57	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+26	58	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	University of Houston-Downtown
+26	59	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	Scientific Computing Group CIC-19, Los Alamos NM
+26	60	IBM Research Division, Thomas J. Watson Research Center, 19 Skyline Drive, Hawthorne, New York, 10532, USA	null
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	null
+27	33	null	null
+27	34	null	null
+27	35	null	null
+27	36	null	null
+27	37	null	null
+27	38	null	null
+27	39	null	null
+27	40	null	null
+27	41	null	null
+27	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+27	43	null	null
+27	44	null	null
+27	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+27	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+27	47	null	null
+27	48	null	null
+27	49	null	null
+27	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+27	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+27	52	null	null
+27	53	null	null
+27	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+27	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+27	56	null	null
+27	57	null	null
+27	58	null	University of Houston-Downtown
+27	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+27	60	null	null
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	null
+28	34	null	null
+28	35	null	null
+28	36	null	null
+28	37	null	null
+28	38	null	null
+28	39	null	null
+28	40	null	null
+28	41	null	null
+28	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+28	43	null	null
+28	44	null	null
+28	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+28	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+28	47	null	null
+28	48	null	null
+28	49	null	null
+28	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+28	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+28	52	null	null
+28	53	null	null
+28	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+28	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+28	56	null	null
+28	57	null	null
+28	58	null	University of Houston-Downtown
+28	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+28	60	null	null
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	null
+29	34	null	null
+29	35	null	null
+29	36	null	null
+29	37	null	null
+29	38	null	null
+29	39	null	null
+29	40	null	null
+29	41	null	null
+29	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+29	43	null	null
+29	44	null	null
+29	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+29	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+29	47	null	null
+29	48	null	null
+29	49	null	null
+29	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+29	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+29	52	null	null
+29	53	null	null
+29	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+29	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+29	56	null	null
+29	57	null	null
+29	58	null	University of Houston-Downtown
+29	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+29	60	null	null
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	null
+30	35	null	null
+30	36	null	null
+30	37	null	null
+30	38	null	null
+30	39	null	null
+30	40	null	null
+30	41	null	null
+30	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+30	43	null	null
+30	44	null	null
+30	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+30	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+30	47	null	null
+30	48	null	null
+30	49	null	null
+30	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+30	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+30	52	null	null
+30	53	null	null
+30	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+30	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+30	56	null	null
+30	57	null	null
+30	58	null	University of Houston-Downtown
+30	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+30	60	null	null
+31	32	null	null
+31	33	null	null
+31	34	null	null
+31	35	null	null
+31	36	null	null
+31	37	null	null
+31	38	null	null
+31	39	null	null
+31	40	null	null
+31	41	null	null
+31	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+31	43	null	null
+31	44	null	null
+31	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+31	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+31	47	null	null
+31	48	null	null
+31	49	null	null
+31	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+31	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+31	52	null	null
+31	53	null	null
+31	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+31	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+31	56	null	null
+31	57	null	null
+31	58	null	University of Houston-Downtown
+31	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+31	60	null	null
+32	33	null	null
+32	34	null	null
+32	35	null	null
+32	36	null	null
+32	37	null	null
+32	38	null	null
+32	39	null	null
+32	40	null	null
+32	41	null	null
+32	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+32	43	null	null
+32	44	null	null
+32	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+32	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+32	47	null	null
+32	48	null	null
+32	49	null	null
+32	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+32	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+32	52	null	null
+32	53	null	null
+32	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+32	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+32	56	null	null
+32	57	null	null
+32	58	null	University of Houston-Downtown
+32	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+32	60	null	null
+33	34	null	null
+33	35	null	null
+33	36	null	null
+33	37	null	null
+33	38	null	null
+33	39	null	null
+33	40	null	null
+33	41	null	null
+33	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+33	43	null	null
+33	44	null	null
+33	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+33	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+33	47	null	null
+33	48	null	null
+33	49	null	null
+33	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+33	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+33	52	null	null
+33	53	null	null
+33	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+33	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+33	56	null	null
+33	57	null	null
+33	58	null	University of Houston-Downtown
+33	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+33	60	null	null
+34	35	null	null
+34	36	null	null
+34	37	null	null
+34	38	null	null
+34	39	null	null
+34	40	null	null
+34	41	null	null
+34	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+34	43	null	null
+34	44	null	null
+34	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+34	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+34	47	null	null
+34	48	null	null
+34	49	null	null
+34	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+34	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+34	52	null	null
+34	53	null	null
+34	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+34	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+34	56	null	null
+34	57	null	null
+34	58	null	University of Houston-Downtown
+34	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+34	60	null	null
+35	36	null	null
+35	37	null	null
+35	38	null	null
+35	39	null	null
+35	40	null	null
+35	41	null	null
+35	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+35	43	null	null
+35	44	null	null
+35	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+35	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+35	47	null	null
+35	48	null	null
+35	49	null	null
+35	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+35	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+35	52	null	null
+35	53	null	null
+35	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+35	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+35	56	null	null
+35	57	null	null
+35	58	null	University of Houston-Downtown
+35	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+35	60	null	null
+36	37	null	null
+36	38	null	null
+36	39	null	null
+36	40	null	null
+36	41	null	null
+36	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+36	43	null	null
+36	44	null	null
+36	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+36	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+36	47	null	null
+36	48	null	null
+36	49	null	null
+36	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+36	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+36	52	null	null
+36	53	null	null
+36	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+36	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+36	56	null	null
+36	57	null	null
+36	58	null	University of Houston-Downtown
+36	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+36	60	null	null
+37	38	null	null
+37	39	null	null
+37	40	null	null
+37	41	null	null
+37	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+37	43	null	null
+37	44	null	null
+37	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+37	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+37	47	null	null
+37	48	null	null
+37	49	null	null
+37	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+37	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+37	52	null	null
+37	53	null	null
+37	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+37	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+37	56	null	null
+37	57	null	null
+37	58	null	University of Houston-Downtown
+37	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+37	60	null	null
+38	39	null	null
+38	40	null	null
+38	41	null	null
+38	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+38	43	null	null
+38	44	null	null
+38	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+38	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+38	47	null	null
+38	48	null	null
+38	49	null	null
+38	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+38	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+38	52	null	null
+38	53	null	null
+38	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+38	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+38	56	null	null
+38	57	null	null
+38	58	null	University of Houston-Downtown
+38	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+38	60	null	null
+39	40	null	null
+39	41	null	null
+39	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+39	43	null	null
+39	44	null	null
+39	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+39	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+39	47	null	null
+39	48	null	null
+39	49	null	null
+39	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+39	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+39	52	null	null
+39	53	null	null
+39	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+39	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+39	56	null	null
+39	57	null	null
+39	58	null	University of Houston-Downtown
+39	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+39	60	null	null
+40	41	null	null
+40	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+40	43	null	null
+40	44	null	null
+40	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+40	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+40	47	null	null
+40	48	null	null
+40	49	null	null
+40	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+40	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+40	52	null	null
+40	53	null	null
+40	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+40	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+40	56	null	null
+40	57	null	null
+40	58	null	University of Houston-Downtown
+40	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+40	60	null	null
+41	42	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+41	43	null	null
+41	44	null	null
+41	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+41	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+41	47	null	null
+41	48	null	null
+41	49	null	null
+41	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+41	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+41	52	null	null
+41	53	null	null
+41	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+41	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+41	56	null	null
+41	57	null	null
+41	58	null	University of Houston-Downtown
+41	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+41	60	null	null
+42	43	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	44	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	45	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+42	46	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+42	47	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	48	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	49	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	50	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Head of Scholarly Communications and Innovation Support, The British Library
+42	51	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+42	52	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	53	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	54	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	D'Amour Center for Cancer Care, Springfield MA 01199
+42	55	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+42	56	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	57	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+42	58	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	University of Houston-Downtown
+42	59	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Scientific Computing Group CIC-19, Los Alamos NM
+42	60	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+43	44	null	null
+43	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+43	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+43	47	null	null
+43	48	null	null
+43	49	null	null
+43	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+43	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+43	52	null	null
+43	53	null	null
+43	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+43	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+43	56	null	null
+43	57	null	null
+43	58	null	University of Houston-Downtown
+43	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+43	60	null	null
+44	45	null	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK
+44	46	null	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+44	47	null	null
+44	48	null	null
+44	49	null	null
+44	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+44	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+44	52	null	null
+44	53	null	null
+44	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+44	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+44	56	null	null
+44	57	null	null
+44	58	null	University of Houston-Downtown
+44	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+44	60	null	null
+45	46	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750
+45	47	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+45	48	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+45	49	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+45	50	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	Head of Scholarly Communications and Innovation Support, The British Library
+45	51	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+45	52	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+45	53	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+45	54	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	D'Amour Center for Cancer Care, Springfield MA 01199
+45	55	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+45	56	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+45	57	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+45	58	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	University of Houston-Downtown
+45	59	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	Scientific Computing Group CIC-19, Los Alamos NM
+45	60	Institute of Industrial Research, University of Portsmouth, Portsmouth PO1 3QL, England, UK	null
+46	47	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+46	48	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+46	49	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+46	50	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	Head of Scholarly Communications and Innovation Support, The British Library
+46	51	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+46	52	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+46	53	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+46	54	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	D'Amour Center for Cancer Care, Springfield MA 01199
+46	55	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+46	56	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+46	57	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+46	58	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	University of Houston-Downtown
+46	59	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	Scientific Computing Group CIC-19, Los Alamos NM
+46	60	Computer Science Department, Maine School of Science and Mathematics, Limestone, United States 04750	null
+47	48	null	null
+47	49	null	null
+47	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+47	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+47	52	null	null
+47	53	null	null
+47	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+47	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+47	56	null	null
+47	57	null	null
+47	58	null	University of Houston-Downtown
+47	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+47	60	null	null
+48	49	null	null
+48	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+48	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+48	52	null	null
+48	53	null	null
+48	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+48	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+48	56	null	null
+48	57	null	null
+48	58	null	University of Houston-Downtown
+48	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+48	60	null	null
+49	50	null	Head of Scholarly Communications and Innovation Support, The British Library
+49	51	null	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+49	52	null	null
+49	53	null	null
+49	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+49	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+49	56	null	null
+49	57	null	null
+49	58	null	University of Houston-Downtown
+49	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+49	60	null	null
+50	51	Head of Scholarly Communications and Innovation Support, The British Library	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK
+50	52	Head of Scholarly Communications and Innovation Support, The British Library	null
+50	53	Head of Scholarly Communications and Innovation Support, The British Library	null
+50	54	Head of Scholarly Communications and Innovation Support, The British Library	D'Amour Center for Cancer Care, Springfield MA 01199
+50	55	Head of Scholarly Communications and Innovation Support, The British Library	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+50	56	Head of Scholarly Communications and Innovation Support, The British Library	null
+50	57	Head of Scholarly Communications and Innovation Support, The British Library	null
+50	58	Head of Scholarly Communications and Innovation Support, The British Library	University of Houston-Downtown
+50	59	Head of Scholarly Communications and Innovation Support, The British Library	Scientific Computing Group CIC-19, Los Alamos NM
+50	60	Head of Scholarly Communications and Innovation Support, The British Library	null
+51	52	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	null
+51	53	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	null
+51	54	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	D'Amour Center for Cancer Care, Springfield MA 01199
+51	55	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+51	56	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	null
+51	57	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	null
+51	58	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	University of Houston-Downtown
+51	59	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	Scientific Computing Group CIC-19, Los Alamos NM
+51	60	Institute of Industrial Research, University of Portsmouth, PO1 3QL, England, UK	null
+52	53	null	null
+52	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+52	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+52	56	null	null
+52	57	null	null
+52	58	null	University of Houston-Downtown
+52	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+52	60	null	null
+53	54	null	D'Amour Center for Cancer Care, Springfield MA 01199
+53	55	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+53	56	null	null
+53	57	null	null
+53	58	null	University of Houston-Downtown
+53	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+53	60	null	null
+54	55	D'Amour Center for Cancer Care, Springfield MA 01199	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester
+54	56	D'Amour Center for Cancer Care, Springfield MA 01199	null
+54	57	D'Amour Center for Cancer Care, Springfield MA 01199	null
+54	58	D'Amour Center for Cancer Care, Springfield MA 01199	University of Houston-Downtown
+54	59	D'Amour Center for Cancer Care, Springfield MA 01199	Scientific Computing Group CIC-19, Los Alamos NM
+54	60	D'Amour Center for Cancer Care, Springfield MA 01199	null
+55	56	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester	null
+55	57	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester	null
+55	58	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester	University of Houston-Downtown
+55	59	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester	Scientific Computing Group CIC-19, Los Alamos NM
+55	60	Department of Computer Science, Worcester Polytechnic Institute, Worcester and Department of Mechanical Engineering, Worcester Polytechnic Institute, Worcester	null
+56	57	null	null
+56	58	null	University of Houston-Downtown
+56	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+56	60	null	null
+57	58	null	University of Houston-Downtown
+57	59	null	Scientific Computing Group CIC-19, Los Alamos NM
+57	60	null	null
+58	59	University of Houston-Downtown	Scientific Computing Group CIC-19, Los Alamos NM
+58	60	University of Houston-Downtown	null
+59	60	Scientific Computing Group CIC-19, Los Alamos NM	null

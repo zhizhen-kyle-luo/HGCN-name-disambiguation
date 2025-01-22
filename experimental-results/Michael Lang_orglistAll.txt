@@ -1,0 +1,136 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	Nat. Univ. of Ireland, Galway
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	National University of Ireland, Galway
+0	13	null	null
+0	14	null	Los Alamos National Laboratory
+0	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+0	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	Nat. Univ. of Ireland, Galway
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	National University of Ireland, Galway
+1	13	null	null
+1	14	null	Los Alamos National Laboratory
+1	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+1	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	Nat. Univ. of Ireland, Galway
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	National University of Ireland, Galway
+2	13	null	null
+2	14	null	Los Alamos National Laboratory
+2	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+2	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	Nat. Univ. of Ireland, Galway
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	National University of Ireland, Galway
+3	13	null	null
+3	14	null	Los Alamos National Laboratory
+3	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+3	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+4	5	null	null
+4	6	null	null
+4	7	null	Nat. Univ. of Ireland, Galway
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	National University of Ireland, Galway
+4	13	null	null
+4	14	null	Los Alamos National Laboratory
+4	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+4	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+5	6	null	null
+5	7	null	Nat. Univ. of Ireland, Galway
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	National University of Ireland, Galway
+5	13	null	null
+5	14	null	Los Alamos National Laboratory
+5	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+5	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+6	7	null	Nat. Univ. of Ireland, Galway
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	National University of Ireland, Galway
+6	13	null	null
+6	14	null	Los Alamos National Laboratory
+6	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+6	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+7	8	Nat. Univ. of Ireland, Galway	null
+7	9	Nat. Univ. of Ireland, Galway	null
+7	10	Nat. Univ. of Ireland, Galway	null
+7	11	Nat. Univ. of Ireland, Galway	null
+7	12	Nat. Univ. of Ireland, Galway	National University of Ireland, Galway
+7	13	Nat. Univ. of Ireland, Galway	null
+7	14	Nat. Univ. of Ireland, Galway	Los Alamos National Laboratory
+7	15	Nat. Univ. of Ireland, Galway	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+7	16	Nat. Univ. of Ireland, Galway	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	National University of Ireland, Galway
+8	13	null	null
+8	14	null	Los Alamos National Laboratory
+8	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+8	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+9	10	null	null
+9	11	null	null
+9	12	null	National University of Ireland, Galway
+9	13	null	null
+9	14	null	Los Alamos National Laboratory
+9	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+9	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+10	11	null	null
+10	12	null	National University of Ireland, Galway
+10	13	null	null
+10	14	null	Los Alamos National Laboratory
+10	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+10	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+11	12	null	National University of Ireland, Galway
+11	13	null	null
+11	14	null	Los Alamos National Laboratory
+11	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+11	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+12	13	National University of Ireland, Galway	null
+12	14	National University of Ireland, Galway	Los Alamos National Laboratory
+12	15	National University of Ireland, Galway	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+12	16	National University of Ireland, Galway	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+13	14	null	Los Alamos National Laboratory
+13	15	null	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+13	16	null	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+14	15	Los Alamos National Laboratory	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA
+14	16	Los Alamos National Laboratory	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany
+15	16	(Corresponding author: Michael Lang, Los Alamos National Laboratory, TA3 Bldg 2011, Los Alamos, NM 87545, USA. Tel.: +1 505 665 5756; Fax: +1 505 665 4939; E-mail: mlang@lanl.gov) Los Alamos National Laboratory, Los Alamos, NM, USA	Institute for Experimental and Applied Physics, Polymer Physics, University of Regensburg, 93040 Regensburg, Germany

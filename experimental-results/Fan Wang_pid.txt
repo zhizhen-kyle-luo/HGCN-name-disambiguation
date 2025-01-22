@@ -1,0 +1,56 @@
+59380	A New Neighborhood Based on Improvement Graph for Robust Graph Coloring Problem
+59517	A New Hybrid Genetic Algorithm for the Robust Graph Coloring Problem
+60151	A Compromised Large-Scale Neighborhood Search Heuristic for Cargo Loading Planning
+63543	Graph and Topological Structure Mining on Scientific Articles
+63655	SNPMiner: A Domain-Specific Deep Web Mining Tool
+105397	k-Center Problems with Minimum Coverage
+105399	On the Selection and Assignment with Minimum Quantity Commitments
+166275	Flexible Demand Assignment Problem
+246367	Robust Graph Coloring for Uncertain Supply Chain Management
+275886	Precoded Single Carrier Data Transmission with Orthogonal Frequency Domain Multiplexing Pilots
+277029	An Adaptive MIMO System Based on Unified Belief Propagation Detection
+325793	Inequivalent manifold ranking for content-based image retrieval
+367205	A Smoothed Dynamic Tabu Search Embedded GRASP for m-VRPTW
+367207	Robust Airport Gate Assignment
+367310	Meta-Heuristics for Robust Graph Coloring Problem
+374315	Improved GRASP with Tabu Search for Vehicle Routing with Both Time Window and Limited Number of Vehicles
+375251	Meta-heuristic Algorithm for the Transshipment Problem with Fixed Transportation Schedules
+375252	A Survey on Reviewer Assignment Problem
+403891	Spectrum Sharing in Cognitive Radio Networks
+415747	The Capacitated Traveling Salesman Problem with Pickups and Deliveries on a Tree
+504926	A New Multi-view Learning Algorithm Based on ICA Feature for Image Retrieval
+567336	The shortest route cut and fill problem in linear topological structure
+618444	Query Planning for Searching Inter-dependent Deep-Web Databases
+646516	Single Event Upset: An Embedded Tutorial
+646527	Soft Error Rates with Inertial and Logical Masking
+662698	GMAC: A game-theoretic MAC protocol for mobile ad hoc networks
+666727	HRPD-A Downlink Voice/IP and Data Throughput and Delay Analysis
+687753	WiMAX System Performance with Multiple Transmit and Multiple Receive Antennas
+688421	WiMAX Overview and System Performance
+688976	A Bidirectional Adaptive Sequential Gaussian Approximation for MIMO Systems
+735087	Link Performance of WiMAX PUSC
+743143	Throughput-oriented MAC for mobile ad hoc networks: A game-theoretic approach
+857566	A stochastic beam search for the berth allocation problem
+904520	A genetic algorithm for machine scheduling problem under shared resource constraints
+964288	Analytical energy gradient evaluation in relativistic and nonrelativistic density functional calculations
+964289	Numerical examination of performance of some exchange-correlation functionals for molecules containing heavy elements
+1024755	The one-commodity pickup and delivery travelling salesman problem on a path or a tree
+1093021	k-Center problems with minimum coverage
+1207015	Exploiting Parallelism to Accelerate Keyword Search on Deep-Web Sources
+1214481	SEEDEEP: A System for Exploring and Querying Scientific Deep Web Data Sources
+1230093	A compromised large-scale neighborhood search heuristic for capacitated air cargo loading planning
+1241928	Personality Based Latent Friendship Mining
+1265009	On scheduling concurrent multicast sessions over resource reserved network
+1288439	A Transportation Problem with Minimum Quantity Commitment
+1292517	Effective Neighborhood Operators for Solving the Flexible Demand Assignment Problem
+1303962	A Study on the Application of GA-BP Neural Network in the Bridge Reliability Assessment.
+1305255	Estimate Test Execution Effort at an Early Stage: An Empirical Study.
+1311666	Simulation of the defect removal process with queuing theory.
+1316588	A Survey on Vehicle Routing Problem with Loading Constraints.
+1317471	Analysis on Network Model Parameters of BP Neural Network in the Assessment for Bridge Reliability.
+1319530	Extracting Output Metadata from Scientific Deep Web Data Sources.
+1325629	Multi-channel spectrum-agile MAC protocol with adaptive load control.
+1389351	An Object-Oriented Product Data Management
+1403366	Asymptotic periodicity and permanence in a competition-diffusion system with discrete delays
+1656942	Short-Term Traffic Flow Prediction Based on Parallel Quasi-Newton Neural Network
+1752672	Even aberration measurement of lithographic projection system based on optimized phase-shifting marks

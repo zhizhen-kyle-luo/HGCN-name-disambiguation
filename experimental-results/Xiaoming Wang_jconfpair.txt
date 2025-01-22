@@ -1,0 +1,29 @@
+3	4	ICNP	ICNP
+5	6	INFOCOM	INFOCOM
+5	7	INFOCOM	INFOCOM
+5	8	INFOCOM	INFOCOM
+6	7	INFOCOM	INFOCOM
+6	8	INFOCOM	INFOCOM
+7	8	INFOCOM	INFOCOM
+12	13	WASA	WASA
+12	14	WASA	WASA
+13	14	WASA	WASA
+16	17	Appl. Math. Lett.	Appl. Math. Lett.
+16	18	Appl. Math. Lett.	Appl. Math. Lett.
+17	18	Appl. Math. Lett.	Appl. Math. Lett.
+21	22	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+21	23	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+21	24	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+21	27	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+22	23	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+22	24	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+22	27	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+23	24	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+23	27	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+24	27	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+33	34	Physica D	Physica D
+33	35	Physica D	Physica D
+33	37	Physica D	Physica D
+34	35	Physica D	Physica D
+34	37	Physica D	Physica D
+35	37	Physica D	Physica D

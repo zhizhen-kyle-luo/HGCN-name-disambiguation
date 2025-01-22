@@ -1,0 +1,728 @@
+0	The Data Mining and Knowledge Discovery Handbook
+1	ARES
+2	CIT
+3	CIT
+4	CIT
+5	CIT
+6	CIT
+7	CIT
+8	CIT
+9	IEEE ICCI
+10	IEEE SCC
+11	IEEE SCC
+12	IEEE SCC
+13	IEEE SCC
+14	IEEE SCC (2)
+15	ACCV (1)
+16	ACL
+17	ACSAC
+18	Australasian Database Conference
+19	ADMA
+20	ADMA
+21	AINA (1)
+22	AINA
+23	AINA
+24	AIRS
+25	APWeb
+26	APWeb Workshops
+27	APWeb
+28	APWeb
+29	APWeb
+30	APWeb/WAIM Workshops
+31	APWeb/WAIM Workshops
+32	APWeb/WAIM Workshops
+33	ASIAN
+34	ASWC
+35	Australian Conference on Artificial Intelligence
+36	AVBPA
+37	BIBE
+38	ACM Conference on Computer and Communications Security
+39	CEEMAS
+40	Computer Graphics International
+41	CIKM
+42	CIKM
+43	CIKM
+44	CIKM
+45	CIS
+46	CIS (1)
+47	CIS
+48	CIVR
+49	CIVR
+50	COLING
+51	COMPSAC (1)
+52	COMPSAC
+53	CSB
+54	CSB
+55	CSB
+56	CSB
+57	CSB
+58	CSB
+59	CSB
+60	CSC
+61	CSCWD
+62	CSCWD
+63	Security and Management
+64	Security and Management
+65	DASC
+66	DASFAA
+67	DASFAA
+68	DASFAA
+69	DASFAA
+70	DASFAA
+71	DASFAA
+72	DASFAA
+73	DASFAA
+74	DaWaK
+75	DaWaK
+76	DCOSS
+77	DEXA
+78	DEXA
+79	DFRWS
+80	DG.O
+81	DG.O
+82	DG.O
+83	DG.O
+84	DG.O
+85	DG.O
+86	DG.O
+87	DG.O
+88	DMIN
+89	ECML
+90	EDBT
+91	EDBT
+92	Edutainment
+93	ER
+94	ERSA
+95	EUROCRYPT
+96	Euro-Par
+97	EWSN
+98	EWSN
+99	EGC
+100	EGC
+101	FIMI
+102	FODO
+103	FORTE
+104	FSKD (1)
+105	FSKD (1)
+106	FSKD (1)
+107	FSKD (2)
+108	FSKD (2)
+109	FTCS
+110	GCC
+111	GCC
+112	GCC
+113	GCC
+114	GCC Workshops
+115	GCC (1)
+116	GCC
+117	GCC
+118	GCC
+119	GECCO
+120	GECCO
+121	ACM Great Lakes Symposium on VLSI
+122	GRAPHITE
+123	GREC
+124	HIS
+125	IAT
+126	IbPRIA (1)
+127	IbPRIA (2)
+128	ICALP
+129	ICB
+130	ICC (2)
+131	ICC
+132	ICC
+133	ICC
+134	International Conference on Computational Science (1)
+135	International Conference on Computational Science (1)
+136	ICCAD
+137	ICCCN
+138	ICCCN
+139	ICCPOL
+140	ICCPOL
+141	ICDAR
+142	ICDCS
+143	ICDE
+144	ICDE
+145	ICDE
+146	ICDE
+147	ICDE
+148	ICDE
+149	ICDE
+150	ICDE
+151	ICDE
+152	ICDE
+153	ICDE
+154	ICDE
+155	ICDE
+156	ICDE
+157	ICDE
+158	ICDE
+159	ICDE
+160	ICDE
+161	ICDE
+162	ICDE
+163	ICDE
+164	ICDE
+165	ICDE
+166	ICDE
+167	ICDE
+168	ICDM
+169	ICDM
+170	ICDM
+171	ICDM
+172	ICDM
+173	ICDM
+174	ICDM
+175	ICDM
+176	ICDM
+177	ICDM
+178	ICDM
+179	ICDM Workshops
+180	ICDM
+181	ICDM
+182	ICDM
+183	ICEBE
+184	ICEBE
+185	ICIC (2)
+186	ICIC (1)
+187	ICIC (1)
+188	ICIC (3)
+189	ICIP (3)
+190	ICIP
+191	ICIP
+192	ICIP
+193	ICMCS, Vol. 2
+194	ICME
+195	ICME
+196	ICME
+197	ICMI
+198	ICML
+199	ICPR (4)
+200	ICPR
+201	ICPR
+202	ICPR
+203	IDEAL
+204	IDEAS
+205	IDEAS
+206	PWC
+207	IJCNN
+208	IMSCCS (2)
+209	IMSCCS (2)
+210	IMSCCS
+211	IPMU
+212	IPSN
+213	IPSN
+214	IPSN
+215	IPSN
+216	ISBI
+217	ISBI
+218	ISCAS (3)
+219	ISCAS (4)
+220	ISCAS (6)
+221	ISCAS (5)
+222	ISCAS (3)
+223	ISCAS (5)
+224	ISCAS (6)
+225	ISCAS (2)
+226	ISCAS (5)
+227	ISCAS
+228	ISCAS
+229	ISCAS
+230	ISCAS
+231	ISCAS
+232	ISCAS
+233	ISCAS
+234	ISCAS
+235	ISCAS
+236	ISCAS
+237	ISCC
+238	ISDA (1)
+239	ISMB/ECCB (Supplement of Bioinformatics)
+240	ISMIS
+241	ISNN (2)
+242	ISNN (2)
+243	ISNN (2)
+244	ISNN (2)
+245	ISNN (2)
+246	ISNN (2)
+247	ISNN (2)
+248	ISNN (3)
+249	ISNN (1)
+250	ISNN (3)
+251	ISPA
+252	ISVC (2)
+253	ISVC (2)
+254	IWBRS
+255	IWSOC
+256	IWSOC
+257	JCIS
+258	KDD
+259	KDD
+260	KDD
+261	KDD
+262	KDD
+263	KDD
+264	KDD
+265	KDD
+266	KDD
+267	KDD
+268	KSEM
+269	LCN
+270	LCN
+271	MDM
+272	MIAR
+273	ACM Multimedia
+274	MOBICOM
+275	MOBICOM
+276	MOBICOM
+277	MSN
+278	MSN
+279	MSN
+280	Q2SWinet
+281	Q2SWinet
+282	HLT-NAACL
+283	NCA
+284	NLPRS
+285	NPC
+286	NSPW
+287	PaCT
+288	PAKDD
+289	PAKDD
+290	PAKDD
+291	PAKDD
+292	PAKDD
+293	PAKDD
+294	PAKDD
+295	PAKDD
+296	PAKDD Workshops
+297	PAKDD Workshops
+298	PCM
+299	PDPTA
+300	POS/PJW
+301	PRDC
+302	PRIMA
+303	PROLAMAT
+304	Pacific Symposium on Biocomputing
+305	QSIC
+306	RECOMB
+307	RECOMB
+308	RSKT
+309	RSKT
+310	RSKT
+311	SDM
+312	SDM
+313	SDM
+314	SDM
+315	SDM
+316	SDM
+317	SEBD
+318	SEBD
+319	SI3D
+320	SIGMETRICS
+321	SIGMOD Conference
+322	SIGMOD Conference
+323	SIGMOD Conference
+324	SIGMOD Conference
+325	SIGMOD Conference
+326	SIGMOD Conference
+327	SIGMOD Conference
+328	SIGMOD Conference
+329	SIGMOD Conference
+330	SIGMOD Conference
+331	SNPD
+332	SNPD
+333	SOFTVIS
+334	SSDBM
+335	SSDBM
+336	SSDBM
+337	SSDBM
+338	SSDBM
+339	SUTC (2)
+340	TREC
+341	TREC
+342	VCIP
+343	VDB
+344	VLDB
+345	VLDB
+346	VLDB
+347	VLDB
+348	VLDB
+349	VLDB
+350	WABI
+351	WAIM
+352	WAIM
+353	WAIM
+354	WAIM
+355	WAIM
+356	WAIM
+357	WAIM
+358	WAIM
+359	WAIM
+360	APWeb/WAIM
+361	WAIM
+362	WAIM
+363	APWeb/WAIM
+364	WAIM
+365	WCRE
+366	WETICE
+367	WiOpt
+368	Winter Simulation Conference
+369	Winter Simulation Conference
+370	Winter Simulation Conference
+371	Winter Simulation Conference
+372	Winter Simulation Conference
+373	Winter Simulation Conference
+374	Winter Simulation Conference
+375	Winter Simulation Conference
+376	Winter Simulation Conference
+377	Winter Simulation Conference
+378	WSCG
+379	WWW (Special interest tracks and posters)
+380	WWW (Special interest tracks and posters)
+381	WWW
+382	WWW
+383	WWW
+384	ICICIC (1)
+385	ICICIC (2)
+386	ICICIC (3)
+387	SKG
+388	VTC Spring
+389	VTC Spring
+390	VTC Spring
+391	VTC Fall
+392	VTC Spring
+393	VTC Spring
+394	VTC Spring
+395	TASE
+396	IWCMC
+397	IWCMC
+398	GLOBECOM
+399	GLOBECOM
+400	GLOBECOM
+401	GLOBECOM
+402	WImBI
+403	ISIP
+404	MOBILWARE
+405	DMSN
+406	BMEI (2)
+407	ICIRA (2)
+408	IROS
+409	IROS
+410	IROS
+411	NOMS
+412	SECON
+413	RAM
+414	CSSE (1)
+415	CSSE (2)
+416	CSSE (4)
+417	CSSE (6)
+418	ICYCS
+419	ICYCS
+420	ICYCS
+421	WiMob
+422	ICARCV
+423	ICARCV
+424	ICARCV
+425	ICARCV
+426	WCNC
+427	ICNSC
+428	Advances in Computers
+429	Arch. Math. Log.
+430	Ann. Pure Appl. Logic
+431	Appl. Math. Lett.
+432	Appl. Math. Lett.
+433	Appl. Math. Lett.
+434	Ars Comb.
+435	Biological Cybernetics
+436	Computer Communications
+437	Computers  Security
+438	Computers  OR
+439	CoRR
+440	CoRR
+441	CoRR
+442	CoRR
+443	Data Min. Knowl. Discov.
+444	Data Min. Knowl. Discov.
+445	Data Knowl. Eng.
+446	Data Knowl. Eng.
+447	Discrete Mathematics
+448	Eur. J. Comb.
+449	Electr. Notes Theor. Comput. Sci.
+450	Educational Technology  Society
+451	Fuzzy Sets and Systems
+452	IEICE Transactions
+453	International Journal on Artificial Intelligence Tools
+454	Int. J. Image Graphics
+455	Int. J. Hum.-Comput. Stud.
+456	Neurocomputing
+457	Information  Software Technology
+458	Inf. Sci.
+459	Inf. Sci.
+460	Inf. Sci.
+461	Journal of Computational Biology
+462	Journal of Computational Chemistry
+463	Journal of Circuits, Systems, and Computers
+464	J. Comput. Sci. Technol.
+465	J. Comput. Sci. Technol.
+466	J. Comput. Sci. Technol.
+467	J. Comput. Sci. Technol.
+468	J. Comput. Sci. Technol.
+469	J. Comput. Sci. Technol.
+470	J. Comput. Sci. Technol.
+471	J. Comput. Sci. Technol.
+472	J. Comput. Sci. Technol.
+473	J. Comb. Theory, Ser. B
+474	Journal of Intelligent and Fuzzy Systems
+475	J. Intell. Inf. Syst.
+476	J. Intell. Inf. Syst.
+477	Knowl. Inf. Syst.
+478	Knowl. Inf. Syst.
+479	Knowl.-Based Syst.
+480	Multimedia Syst.
+481	MONET
+482	Nucleic Acids Research
+483	Oper. Res. Lett.
+484	IEEE Trans. Pattern Anal. Mach. Intell.
+485	Pattern Recognition
+486	Pattern Recognition Letters
+487	SIAM J. Comput.
+488	SIGKDD Explorations
+489	SIGKDD Explorations
+490	SIGKDD Explorations
+491	SIGMOD Record
+492	Softw., Pract. Exper.
+493	ACM Trans. Inf. Syst. Secur.
+494	IEEE Transactions on Information Theory
+495	IEEE Trans. Knowl. Data Eng.
+496	IEEE Trans. Knowl. Data Eng.
+497	IEEE Trans. Knowl. Data Eng.
+498	IEEE Trans. Knowl. Data Eng.
+499	IEEE Trans. Knowl. Data Eng.
+500	IEEE Trans. Knowl. Data Eng.
+501	IEEE Trans. Med. Imaging
+502	IEEE Transactions on Multimedia
+503	ACM Trans. Database Syst.
+504	IEEE/ACM Trans. Netw.
+505	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+506	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+507	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+508	Wireless Communications and Mobile Computing
+509	World Wide Web
+510	World Wide Web
+511	Int. J. Communication Systems
+512	Applied Mathematics and Computation
+513	Applied Mathematics and Computation
+514	Signal Processing
+515	Signal Processing
+516	Journal of Intelligent and Robotic Systems
+517	Microelectronics Journal
+518	European Journal of Operational Research
+519	VLSI Signal Processing
+520	TKDD
+521	J. Network and Computer Applications
+522	IJBIS
+523	IJWGS
+524	IJSNET
+525	IEEE Transactions on Wireless Communications
+526	IEEE Transactions on Wireless Communications
+527	IEEE Transactions on Wireless Communications
+528	Science in China Series F: Information Sciences
+529	Science in China Series F: Information Sciences
+530	Science in China Series F: Information Sciences
+531	Automatica
+532	Automatica
+533	Automatica
+534	PVLDB
+535	PVLDB
+536	I. J. Bifurcation and Chaos
+537	Robotica
+538	J. Field Robotics
+539	Foundations of Data Mining and knowledge Discovery
+540	FSE
+541	HCI (12)
+542	HCI (12)
+543	ISNN (2)
+544	SIGIR
+545	SIGMOD Conference
+546	SIGMOD Conference
+547	SSDBM
+548	Web3D
+549	PIMRC
+550	MCSS
+551	BMC Bioinformatics
+552	BMC Bioinformatics
+553	BMC Bioinformatics
+554	BMC Bioinformatics
+555	IEEE Data Eng. Bull.
+556	IEEE Trans. Circuits Syst. Video Techn.
+557	IEEE Trans. Mob. Comput.
+558	IEEE Trans. Mob. Comput.
+559	IEEE Transactions on Signal Processing
+560	Automatica
+561	IJDWM
+562	Computers  Chemical Engineering
+563	CDVE
+564	CIKM
+565	CIKM
+566	CIKM
+567	CIKM
+568	Frontiers in Artificial Intelligence and Applications
+569	CRYPTO
+570	CSCWD
+571	CSCWD
+572	CSCWD
+573	Perspectives in Mathematical Logic
+574	Edutainment
+575	GIS
+576	ICIC (2)
+577	IWDW
+578	IWDW
+579	Bull. Acad. Polon. Sci., Sér. Sci. Math. Astronom. Phys.
+580	MOBICOM
+581	RAID
+582	IWCMC
+583	ICHIT
+584	IAS
+585	Information Systems Research
+586	Information Systems Research
+587	Information Systems Research
+588	Information Systems Research
+589	BRICS Dissertation Series
+590	CoRR
+591	Expert Syst. Appl.
+592	Expert Syst. Appl.
+593	Expert Syst. Appl.
+594	Fuzzy Sets and Systems
+595	Inf. Sci.
+596	IEEE Trans. Mob. Comput.
+597	Applied Mathematics and Computation
+598	Signal Processing Systems
+599	J. Network and Computer Applications
+600	IEEE Transactions on Signal Processing
+601	IEEE Transactions on Wireless Communications
+602	IEEE Transactions on Wireless Communications
+603	PVLDB
+604	Advances in Adaptive Data Analysis
+605	Proceedings of the 38th conference on Winter simulation
+606	null
+607	null
+608	null
+609	null
+610	null
+611	null
+612	null
+613	null
+614	null
+615	null
+616	null
+617	null
+618	null
+619	null
+620	null
+621	null
+622	null
+623	null
+624	null
+625	null
+626	null
+627	null
+628	null
+629	null
+630	null
+631	null
+632	null
+633	null
+634	null
+635	null
+636	null
+637	null
+638	null
+639	null
+640	null
+641	null
+642	null
+643	null
+644	null
+645	null
+646	null
+647	null
+648	null
+649	null
+650	null
+651	Biological Cybernetics
+652	Biological Cybernetics
+653	Computational Intelligence
+654	J. Sci. Comput.
+655	Journal of Systems and Software
+656	MONET
+657	Neural Computing and Applications
+658	Soft Comput.
+659	IEEE Transactions on Image Processing
+660	IEEE/ACM Trans. Netw.
+661	Wireless Communications and Mobile Computing
+662	Signal Processing
+663	Security and Communication Networks
+664	IEEE Communications Letters
+665	Proceedings of the 2009 WRI World Congress on Software Engineering - Volume 03
+666	null
+667	null
+668	Proceedings of the Seventh International Conference on Web-Age Information Management Workshops
+669	Proceedings of the Seventh International Conference on Web-Age Information Management Workshops
+670	Proceedings of the 15th Asian Test Symposium
+671	International Journal of Distributed Sensor Networks
+672	Proceedings of the 2009 First International Conference on Advances in Databases, Knowledge, and Data Applications
+673	Journal of Computational and Applied Mathematics
+674	Proceedings of the 2009 Second International Workshop on Knowledge Discovery and Data Mining
+675	International Journal of Distributed Sensor Networks
+676	Automatica (Journal of IFAC)
+677	Proceedings of the 19th international conference on Computational linguistics - Volume 1
+678	null
+679	Proceedings of the Third International Conference on Image and Graphics
+680	Proceedings of the 6th USENIX symposium on Networked systems design and implementation
+681	IEEE Transactions on Pattern Analysis and Machine Intelligence
+682	Information organization and databases: foundations of data organization
+683	null
+684	Proceedings of the 8th International Workshop on Persistent Object Systems (POS8) and Proceedings of the 3rd International Workshop on Persistence and Java (PJW3): Advances in Persistent Object Systems
+685	Journal of Electronic Materials
+686	Business strategies for information technology management
+687	Journal of Computer Science and Technology
+688	Information organization and databases: foundation of data organization
+689	Microelectronic Engineering
+690	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+691	Proceedings of the Third International Conference on Natural Computation - Volume 03
+692	Proceedings of the 6th IEEE Conference on Consumer Communications and Networking Conference
+693	Proceedings of the 6th IEEE Conference on Consumer Communications and Networking Conference
+694	Lecture Notes In Computer Science; Vol. 4537
+695	Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 4 - Volume 04
+696	Proceedings of the 2008 Congress on Image and Signal Processing, Vol. 5 - Volume 05
+697	Computational Intelligence and Security: International Conference, CIS 2006, Guangzhou, China, November 3-6, 2006, Revised Selected Papers
+698	Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing
+699	null
+700	Proceedings of the Acoustics, Speech, and Signal Processing, 1999. on 1999 IEEE International Conference - Volume 03
+701	null
+702	Proceedings of the 2004 ACM SIGMOD international conference on Management of data
+703	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02
+704	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 01
+705	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02
+706	Proceedings of the 2009 Asia-Pacific Conference on Information Processing - Volume 02
+707	Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+708	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 01
+709	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03
+710	Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing
+711	Journal of Computational Physics
+712	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03
+713	Proceedings of the 2003 ACM symposium on Software visualization
+714	Proceedings of the Fifth International Workshop on System-on-Chip for Real-Time Applications
+715	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 02
+716	Proceedings of the 2008 IEEE International Conference on e-Business Engineering
+717	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01
+718	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 06
+719	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01
+720	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03
+721	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 02
+722	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+723	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01
+724	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 02
+725	Proceedings of the 2008 4th International Conference on Next Generation Web Services Practices
+726	Journal of Combinatorial Theory Series B
+727	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01

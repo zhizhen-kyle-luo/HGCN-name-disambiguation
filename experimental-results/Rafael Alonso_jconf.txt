@@ -1,0 +1,40 @@
+0	ADMA
+1	CIKM
+2	CIKM
+3	EDBT
+4	FMLDO
+5	HPTS
+6	ICDCS
+7	ICDCS
+8	ICDE
+9	ICDE
+10	ICECCS
+11	ICMCS
+12	KDD
+13	RIDE-IMS
+14	SIGIR
+15	SIGMETRICS
+16	SIGMOD Conference
+17	SIGMOD Conference
+18	ACM SIGOPS European Workshop
+19	ACM SIGOPS European Workshop
+20	SRDS
+21	USENIX Winter
+22	USENIX Summer
+23	Workshop on the Management of Replicated Data
+24	ESOA
+25	IEEE Database Eng. Bull.
+26	IEEE Data Eng. Bull.
+27	Distributed and Parallel Databases
+28	MONET
+29	SIGMOD Record
+30	SIGMOD Record
+31	SIGMOD Record
+32	SIGMOD Record
+33	SIGMOD Record
+34	SIGMOD Record
+35	ACM Trans. Database Syst.
+36	ICCBR
+37	null
+38	null
+39	Proceedings of the 1995 ACM SIGMOD international conference on Management of data

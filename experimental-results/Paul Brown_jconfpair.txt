@@ -1,0 +1,10 @@
+5	6	SIGMOD Conference	SIGMOD Conference
+5	7	SIGMOD Conference	SIGMOD Conference
+6	7	SIGMOD Conference	SIGMOD Conference
+9	10	VLDB	VLDB
+9	11	VLDB	VLDB
+9	12	VLDB	VLDB
+10	11	VLDB	VLDB
+10	12	VLDB	VLDB
+11	12	VLDB	VLDB
+19	25	ACM SIGGRAPH Computer Graphics	ACM SIGGRAPH Computer Graphics

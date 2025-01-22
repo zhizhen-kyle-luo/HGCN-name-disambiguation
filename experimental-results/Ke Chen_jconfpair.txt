@@ -1,0 +1,65 @@
+1	2	CIBCB	CIBCB
+3	4	Symposium on Computational Geometry	Symposium on Computational Geometry
+5	6	CSCWD	CSCWD
+5	7	CSCWD	CSCWD
+6	7	CSCWD	CSCWD
+8	9	CSCWD (Selected Papers)	CSCWD (Selected Papers)
+12	13	ICIC (2)	ICIC (2)
+12	14	ICIC (2)	ICIC (2)
+13	14	ICIC (2)	ICIC (2)
+19	20	IJCNN (5)	IJCNN
+19	21	IJCNN (5)	IJCNN
+19	22	IJCNN (5)	IJCNN
+19	23	IJCNN (5)	IJCNN
+20	21	IJCNN	IJCNN
+20	22	IJCNN	IJCNN
+20	23	IJCNN	IJCNN
+21	22	IJCNN	IJCNN
+21	23	IJCNN	IJCNN
+22	23	IJCNN	IJCNN
+26	27	NIPS	NIPS
+28	29	SODA	SODA
+30	31	WAIM	WAIM
+30	32	WAIM	WAIM
+31	32	WAIM	WAIM
+34	35	WKDD	WKDD
+36	37	ICNSC	ICNSC
+38	39	Bioinformatics	Bioinformatics
+38	77	Bioinformatics	BMC Bioinformatics
+38	78	Bioinformatics	BMC Bioinformatics
+39	77	Bioinformatics	BMC Bioinformatics
+39	78	Bioinformatics	BMC Bioinformatics
+40	104	Concurrency and Computation: Practice and Experience	Concurrency and Computation: Practice Experience
+41	42	Int. J. Comput. Math.	Int. J. Comput. Math.
+41	43	Int. J. Comput. Math.	Int. J. Comput. Math.
+41	44	Int. J. Comput. Math.	Int. J. Comput. Math.
+41	45	Int. J. Comput. Math.	Int. J. Comput. Math.
+41	46	Int. J. Comput. Math.	Int. J. Comput. Math.
+42	43	Int. J. Comput. Math.	Int. J. Comput. Math.
+42	44	Int. J. Comput. Math.	Int. J. Comput. Math.
+42	45	Int. J. Comput. Math.	Int. J. Comput. Math.
+42	46	Int. J. Comput. Math.	Int. J. Comput. Math.
+43	44	Int. J. Comput. Math.	Int. J. Comput. Math.
+43	45	Int. J. Comput. Math.	Int. J. Comput. Math.
+43	46	Int. J. Comput. Math.	Int. J. Comput. Math.
+44	45	Int. J. Comput. Math.	Int. J. Comput. Math.
+44	46	Int. J. Comput. Math.	Int. J. Comput. Math.
+45	46	Int. J. Comput. Math.	Int. J. Comput. Math.
+48	49	Neurocomputing	Neurocomputing
+48	50	Neurocomputing	Neurocomputing
+49	50	Neurocomputing	Neurocomputing
+52	53	Journal of Computational Chemistry	Journal of Computational Chemistry
+56	57	Neural Networks	Neural Networks
+60	79	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+62	63	Pattern Recognition	Pattern Recognition Letters
+62	64	Pattern Recognition	Pattern Recognition Letters
+63	64	Pattern Recognition Letters	Pattern Recognition Letters
+65	66	SIAM J. Comput.	SIAM J. Comput.
+65	90	SIAM J. Comput.	SIAM J. Comput.
+66	90	SIAM J. Comput.	SIAM J. Comput.
+72	73	SIAM J. Scientific Computing	SIAM J. Scientific Computing
+77	78	BMC Bioinformatics	BMC Bioinformatics
+96	97	Journal of Computational and Applied Mathematics	Journal of Computational and Applied Mathematics
+100	101	SIAM Journal on Scientific Computing	SIAM Journal on Scientific Computing
+100	105	SIAM Journal on Scientific Computing	SIAM Journal on Computing
+101	105	SIAM Journal on Scientific Computing	SIAM Journal on Computing

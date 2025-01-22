@@ -1,0 +1,178 @@
+0	ACIS-ICIS
+1	AAMAS
+2	Computers and Their Applications
+3	Computer Graphics International
+4	CPM
+5	CSCWD
+6	CSCWD
+7	CSCWD
+8	CSCWD
+9	CSCWD
+10	CSCWD
+11	CSCWD
+12	CSCWD
+13	CSCWD
+14	CSCWD (Selected Papers)
+15	CSCWD
+16	CSCWD
+17	CSCWD
+18	CSCWD
+19	DAC
+20	DASFAA
+21	DASFAA
+22	DASFAA
+23	DASFAA
+24	DATE
+25	FPGA
+26	FPGA
+27	FPL
+28	FSKD (1)
+29	FSKD (2)
+30	FSKD
+31	FUZZ-IEEE
+32	GCC Workshops
+33	GCC
+34	ACM Great Lakes Symposium on VLSI
+35	GMP
+36	International Conference on Computational Science (3)
+37	International Conference on Computational Science (1)
+38	International Conference on Computational Science (1)
+39	ICCD
+40	ICDE
+41	ICDM Workshops
+42	ICEB
+43	ICIP (3)
+44	ICIP
+45	ICNC (2)
+46	ICNC (2)
+47	ICPADS
+48	International Conference on Supercomputing
+49	ICWL
+50	Computer Applications in the Automation of Shipyard Operation and Ship Design
+51	ISCAS
+52	ISNN (1)
+53	ISNN (3)
+54	ISNN (1)
+55	ISPA Workshops
+56	MFCS
+57	MIAR
+58	MICRO
+59	ACM Multimedia
+60	ACM Multimedia
+61	PCM
+62	PDCAT
+63	POPL
+64	POPL
+65	PPDP
+66	SAC
+67	SDM
+68	SNPD (1)
+69	SNPD (3)
+70	SNPD (3)
+71	VLDB
+72	VLSI Design
+73	WAIM
+74	WAIM
+75	WAIM
+76	WAIM
+77	WAIM
+78	WAIM
+79	APWeb/WAIM
+80	WAIM
+81	APWeb/WAIM
+82	Web Intelligence
+83	Web Intelligence
+84	WISE
+85	WISE (2)
+86	WWW
+87	ICICIC (3)
+88	TOOLS (27)
+89	VTC Fall
+90	Infoscale
+91	ICHL
+92	FSR
+93	CSSE (4)
+94	ICYCS
+95	ICYCS
+96	ICARCV
+97	ICARCV
+98	ICARCV
+99	Autonomous Agents and Multi-Agent Systems
+100	Bell Labs Technical Journal
+101	Computational Biology and Chemistry
+102	Discrete Mathematics
+103	Future Generation Comp. Syst.
+104	Inf. Comput.
+105	IEICE Transactions
+106	Int. J. Comput. Proc. Oriental Lang.
+107	Inf. Sci.
+108	Journal of Chemical Information and Modeling
+109	J. Log. Comput.
+110	IEEE Trans. Computers
+111	IEEE T. Fuzzy Systems
+112	IEEE Transactions on Image Processing
+113	IEEE Trans. Knowl. Data Eng.
+114	ACM Trans. Design Autom. Electr. Syst.
+115	ACM Trans. Design Autom. Electr. Syst.
+116	IEEE Trans. Parallel Distrib. Syst.
+117	IEEE Trans. Parallel Distrib. Syst.
+118	IEEE Trans. Parallel Distrib. Syst.
+119	IEEE Trans. Software Eng.
+120	Microelectronics Journal
+121	Journal of Computer Research and Development
+122	Mathematics in Computer Science
+123	IEEE Trans. Industrial Informatics
+124	CSCWD
+125	CSCWD
+126	BMC Bioinformatics
+127	J. Comput. Sci. Technol.
+128	IJISTA
+129	ACIS-ICIS
+130	CIKM
+131	COMPSAC (1)
+132	CSCWD
+133	CSCWD
+134	DEXA
+135	IJCAI
+136	IJCAI
+137	IAS
+138	Inf. Process. Manage.
+139	Synthesis Lectures on Information Concepts, Retrieval, and Services
+140	Synthesis Lectures on Mathematics & Statistics
+141	null
+142	null
+143	null
+144	null
+145	null
+146	null
+147	null
+148	null
+149	null
+150	null
+151	null
+152	null
+153	null
+154	null
+155	null
+156	null
+157	null
+158	null
+159	null
+160	Journal of Mathematical Imaging and Vision
+161	IEEE Transactions on Evolutionary Computation
+162	IEEE Transactions on Information Technology in Biomedicine
+163	Proceedings of the 2009 Second International Workshop on Computer Science and Engineering - Volume 01
+164	Proceedings of the 2006 International Conference on Hybrid Information Technology - Volume 01
+165	Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 02
+166	Proceedings of the 2009 International Conference on Computer Engineering and Technology - Volume 02
+167	Proceedings of the 26th annual international symposium on Microarchitecture
+168	Proceedings of the 10th IEEE European Symposium on Test
+169	Proceedings of the Third International Conference on Image and Graphics
+170	Physica D
+171	Proceedings of the Third International Conference on Natural Computation - Volume 01
+172	Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01
+173	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 01
+174	Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 01
+175	null
+176	Journal of Computational Physics
+177	Proceedings of the 2008 Seventh International Conference on Grid and Cooperative Computing

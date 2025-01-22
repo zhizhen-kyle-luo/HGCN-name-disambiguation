@@ -1,0 +1,55 @@
+1	6	Stony Brook University, NY	Stony Brook University, Stony Brook, NY
+1	37	Stony Brook University, NY	Stony Brook University
+1	38	Stony Brook University, NY	Stony Brook University, Stony Brook, NY
+1	67	Stony Brook University, NY	Stony Brook University
+6	37	Stony Brook University, Stony Brook, NY	Stony Brook University
+6	38	Stony Brook University, Stony Brook, NY	Stony Brook University, Stony Brook, NY
+6	67	Stony Brook University, Stony Brook, NY	Stony Brook University
+8	9	Sun Yat-sen University, China	Sun Yat-sen University
+8	40	Sun Yat-sen University, China	Sun-yat Sen Univ., Guangzhou
+8	63	Sun Yat-sen University, China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+9	40	Sun Yat-sen University	Sun-yat Sen Univ., Guangzhou
+9	63	Sun Yat-sen University	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+12	42	Motorola Labs., Schaumburg	Motorola Labs, Schaumburg
+12	54	Motorola Labs., Schaumburg	Application Res. Center, Motorola Labs., Schaumburg, IL
+14	15	Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+14	41	Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+14	44	Nanjing Univ., Nanjing	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+14	53	Nanjing Univ., Nanjing	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+14	64	Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+15	41	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+15	44	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+15	53	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+15	64	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+17	22	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	University of Southern California, Los Angeles
+17	28	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	University of Southern California, Los Angeles, CA
+17	51	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Univ. of Southern California, Los Angeles, CA, USA
+17	55	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+22	28	University of Southern California, Los Angeles	University of Southern California, Los Angeles, CA
+22	51	University of Southern California, Los Angeles	Univ. of Southern California, Los Angeles, CA, USA
+22	55	University of Southern California, Los Angeles	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+23	24	Dept. of Comput. Sci., Nankai Univ., China	Nankai University, Tianjin, China
+23	25	Dept. of Comput. Sci., Nankai Univ., China	Nankai Univ., Tianjin,China
+23	26	Dept. of Comput. Sci., Nankai Univ., China	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+23	27	Dept. of Comput. Sci., Nankai Univ., China	Nankai University, China
+24	25	Nankai University, Tianjin, China	Nankai Univ., Tianjin,China
+24	26	Nankai University, Tianjin, China	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+24	27	Nankai University, Tianjin, China	Nankai University, China
+25	26	Nankai Univ., Tianjin,China	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+25	27	Nankai Univ., Tianjin,China	Nankai University, China
+26	27	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Nankai University, China
+28	51	University of Southern California, Los Angeles, CA	Univ. of Southern California, Los Angeles, CA, USA
+28	55	University of Southern California, Los Angeles, CA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+37	38	Stony Brook University	Stony Brook University, Stony Brook, NY
+37	67	Stony Brook University	Stony Brook University
+38	67	Stony Brook University, Stony Brook, NY	Stony Brook University
+39	68	Comput. Sch., Wuhan Univ. of Technol.	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+40	63	Sun-yat Sen Univ., Guangzhou	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+41	44	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+41	53	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+41	64	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+42	54	Motorola Labs, Schaumburg	Application Res. Center, Motorola Labs., Schaumburg, IL
+44	53	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+44	64	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+51	55	Univ. of Southern California, Los Angeles, CA, USA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+53	64	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China

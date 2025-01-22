@@ -1,0 +1,61 @@
+0	11	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	16	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	27	University of Minnesota, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+0	30	University of Minnesota, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+0	43	University of Minnesota, Minneapolis, MN	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+0	45	University of Minnesota, Minneapolis, MN	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+0	51	University of Minnesota, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+0	52	University of Minnesota, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+4	5	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA
+4	6	Siemens Corp. Res. Inc., Princeton, NJ	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ
+4	7	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+4	20	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+4	33	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+4	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+5	7	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Siemens Corp. Res. Inc., Princeton, NJ
+5	20	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Siemens Corp. Res. Inc., Princeton, NJ
+5	33	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Siemens Corp. Res. Inc., Princeton, NJ
+5	37	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+6	7	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+6	20	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+6	33	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+7	20	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+7	33	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+7	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+11	16	University of Minnesota	University of Minnesota
+11	27	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+11	30	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+11	43	University of Minnesota	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+11	45	University of Minnesota	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+11	51	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+11	52	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+16	27	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+16	30	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+16	43	University of Minnesota	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+16	45	University of Minnesota	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+16	51	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+16	52	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+20	33	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+20	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+27	30	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+27	43	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+27	45	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+27	51	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+27	52	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+29	49	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Univ. of Connecticut, Storrs
+29	50	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Univ. of Connecticut, Storrs
+29	53	Treibick Electronic Commerce Initiative, University of Connecticut, USA	OPIM Department, University of Connecticut, U.S.A.
+30	43	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+30	45	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+30	51	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+30	52	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+33	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+43	45	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+43	51	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+43	52	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+45	51	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+45	52	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+49	50	Univ. of Connecticut, Storrs	Univ. of Connecticut, Storrs
+49	53	Univ. of Connecticut, Storrs	OPIM Department, University of Connecticut, U.S.A.
+50	53	Univ. of Connecticut, Storrs	OPIM Department, University of Connecticut, U.S.A.
+51	52	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN

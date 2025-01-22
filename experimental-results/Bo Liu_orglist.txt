@@ -1,0 +1,47 @@
+1	2	Beijing University of Technology, China	Beijing University of Technology, China
+1	3	Beijing University of Technology, China	Beijing University of Technology, China
+1	112	Beijing University of Technology, China	Beijing University of Technology
+2	3	Beijing University of Technology, China	Beijing University of Technology, China
+2	112	Beijing University of Technology, China	Beijing University of Technology
+3	112	Beijing University of Technology, China	Beijing University of Technology
+12	19	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+12	43	Tsinghua University, Beijing, China	Department of Automation, Tsinghua University, Beijing 100084, China
+12	44	Tsinghua University, Beijing, China	Department of Automation, Tsinghua University, Beijing 100084, China
+12	64	Tsinghua University, Beijing, China	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China
+12	65	Tsinghua University, Beijing, China	Department of Automation, Tsinghua University, Beijing 100084, China
+12	93	Tsinghua University, Beijing, China	Institute of Microelectronics, Tsinghua University, China
+12	114	Tsinghua University, Beijing, China	Tsinghua University, China
+12	123	Tsinghua University, Beijing, China	Institute of Microelectronics, Tsinghua University, Beijing, China
+13	118	Jinan University, Guangzhou, China	Dept of Computer Science, Jinan University, Guangzhou 510632, China
+19	43	Tsinghua University, Beijing	Department of Automation, Tsinghua University, Beijing 100084, China
+19	44	Tsinghua University, Beijing	Department of Automation, Tsinghua University, Beijing 100084, China
+19	64	Tsinghua University, Beijing	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China
+19	65	Tsinghua University, Beijing	Department of Automation, Tsinghua University, Beijing 100084, China
+19	93	Tsinghua University, Beijing	Institute of Microelectronics, Tsinghua University, China
+19	114	Tsinghua University, Beijing	Tsinghua University, China
+19	123	Tsinghua University, Beijing	Institute of Microelectronics, Tsinghua University, Beijing, China
+43	44	Department of Automation, Tsinghua University, Beijing 100084, China	Department of Automation, Tsinghua University, Beijing 100084, China
+43	64	Department of Automation, Tsinghua University, Beijing 100084, China	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China
+43	65	Department of Automation, Tsinghua University, Beijing 100084, China	Department of Automation, Tsinghua University, Beijing 100084, China
+43	93	Department of Automation, Tsinghua University, Beijing 100084, China	Institute of Microelectronics, Tsinghua University, China
+43	114	Department of Automation, Tsinghua University, Beijing 100084, China	Tsinghua University, China
+43	123	Department of Automation, Tsinghua University, Beijing 100084, China	Institute of Microelectronics, Tsinghua University, Beijing, China
+44	64	Department of Automation, Tsinghua University, Beijing 100084, China	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China
+44	65	Department of Automation, Tsinghua University, Beijing 100084, China	Department of Automation, Tsinghua University, Beijing 100084, China
+44	93	Department of Automation, Tsinghua University, Beijing 100084, China	Institute of Microelectronics, Tsinghua University, China
+44	114	Department of Automation, Tsinghua University, Beijing 100084, China	Tsinghua University, China
+44	123	Department of Automation, Tsinghua University, Beijing 100084, China	Institute of Microelectronics, Tsinghua University, Beijing, China
+55	116	Institute of Electrical Engineering, Yanshan University, Qinhuangdao, China 066004	Yanshan University, China
+64	65	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China	Department of Automation, Tsinghua University, Beijing 100084, China
+64	93	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China	Institute of Microelectronics, Tsinghua University, China
+64	114	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China	Tsinghua University, China
+64	123	Department of Automation, Tsinghua University, Beijing 100084, People's Republic of China	Institute of Microelectronics, Tsinghua University, Beijing, China
+65	93	Department of Automation, Tsinghua University, Beijing 100084, China	Institute of Microelectronics, Tsinghua University, China
+65	114	Department of Automation, Tsinghua University, Beijing 100084, China	Tsinghua University, China
+65	123	Department of Automation, Tsinghua University, Beijing 100084, China	Institute of Microelectronics, Tsinghua University, Beijing, China
+81	92	Hebei Academy of Sciences, Shijiazhuang, China	Hebei Academy of Sciences, Shijiazhuang, China 050081
+82	90	University of Science and Technology of China, Hefei, China	University of Science and Technology of China, Beijing, China
+93	114	Institute of Microelectronics, Tsinghua University, China	Tsinghua University, China
+93	123	Institute of Microelectronics, Tsinghua University, China	Institute of Microelectronics, Tsinghua University, Beijing, China
+110	111	Nankai university	Nankai university, Tianjin, China
+114	123	Tsinghua University, China	Institute of Microelectronics, Tsinghua University, Beijing, China

@@ -1,0 +1,528 @@
+0	1	Clemson University, Clemson, South Carolina	null
+0	2	Clemson University, Clemson, South Carolina	null
+0	3	Clemson University, Clemson, South Carolina	null
+0	4	Clemson University, Clemson, South Carolina	University of California, Los Angeles, USA
+0	5	Clemson University, Clemson, South Carolina	null
+0	6	Clemson University, Clemson, South Carolina	null
+0	7	Clemson University, Clemson, South Carolina	Univ. of Calgary, Calgary, AB
+0	8	Clemson University, Clemson, South Carolina	University of Trinidad and Tobago, Trinidad, WI
+0	9	Clemson University, Clemson, South Carolina	France Telecom R&D, South San Francisco, CA
+0	10	Clemson University, Clemson, South Carolina	University of Cambridge Computer Laboratory
+0	11	Clemson University, Clemson, South Carolina	null
+0	12	Clemson University, Clemson, South Carolina	University of Cambridge Computer Laboratory
+0	13	Clemson University, Clemson, South Carolina	null
+0	14	Clemson University, Clemson, South Carolina	null
+0	15	Clemson University, Clemson, South Carolina	University of Calgary
+0	16	Clemson University, Clemson, South Carolina	null
+0	17	Clemson University, Clemson, South Carolina	null
+0	18	Clemson University, Clemson, South Carolina	null
+0	19	Clemson University, Clemson, South Carolina	null
+0	20	Clemson University, Clemson, South Carolina	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+0	21	Clemson University, Clemson, South Carolina	null
+0	22	Clemson University, Clemson, South Carolina	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+0	23	Clemson University, Clemson, South Carolina	null
+0	24	Clemson University, Clemson, South Carolina	null
+0	25	Clemson University, Clemson, South Carolina	null
+0	26	Clemson University, Clemson, South Carolina	null
+0	27	Clemson University, Clemson, South Carolina	null
+0	28	Clemson University, Clemson, South Carolina	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+0	29	Clemson University, Clemson, South Carolina	null
+0	30	Clemson University, Clemson, South Carolina	National Institute for Occupational Safety and Health
+0	31	Clemson University, Clemson, South Carolina	Siemens Corporate Research
+0	32	Clemson University, Clemson, South Carolina	null
+1	2	null	null
+1	3	null	null
+1	4	null	University of California, Los Angeles, USA
+1	5	null	null
+1	6	null	null
+1	7	null	Univ. of Calgary, Calgary, AB
+1	8	null	University of Trinidad and Tobago, Trinidad, WI
+1	9	null	France Telecom R&D, South San Francisco, CA
+1	10	null	University of Cambridge Computer Laboratory
+1	11	null	null
+1	12	null	University of Cambridge Computer Laboratory
+1	13	null	null
+1	14	null	null
+1	15	null	University of Calgary
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+1	21	null	null
+1	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	null
+1	27	null	null
+1	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+1	29	null	null
+1	30	null	National Institute for Occupational Safety and Health
+1	31	null	Siemens Corporate Research
+1	32	null	null
+2	3	null	null
+2	4	null	University of California, Los Angeles, USA
+2	5	null	null
+2	6	null	null
+2	7	null	Univ. of Calgary, Calgary, AB
+2	8	null	University of Trinidad and Tobago, Trinidad, WI
+2	9	null	France Telecom R&D, South San Francisco, CA
+2	10	null	University of Cambridge Computer Laboratory
+2	11	null	null
+2	12	null	University of Cambridge Computer Laboratory
+2	13	null	null
+2	14	null	null
+2	15	null	University of Calgary
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	null
+2	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+2	21	null	null
+2	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	null
+2	27	null	null
+2	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+2	29	null	null
+2	30	null	National Institute for Occupational Safety and Health
+2	31	null	Siemens Corporate Research
+2	32	null	null
+3	4	null	University of California, Los Angeles, USA
+3	5	null	null
+3	6	null	null
+3	7	null	Univ. of Calgary, Calgary, AB
+3	8	null	University of Trinidad and Tobago, Trinidad, WI
+3	9	null	France Telecom R&D, South San Francisco, CA
+3	10	null	University of Cambridge Computer Laboratory
+3	11	null	null
+3	12	null	University of Cambridge Computer Laboratory
+3	13	null	null
+3	14	null	null
+3	15	null	University of Calgary
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+3	21	null	null
+3	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+3	23	null	null
+3	24	null	null
+3	25	null	null
+3	26	null	null
+3	27	null	null
+3	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+3	29	null	null
+3	30	null	National Institute for Occupational Safety and Health
+3	31	null	Siemens Corporate Research
+3	32	null	null
+4	5	University of California, Los Angeles, USA	null
+4	6	University of California, Los Angeles, USA	null
+4	7	University of California, Los Angeles, USA	Univ. of Calgary, Calgary, AB
+4	8	University of California, Los Angeles, USA	University of Trinidad and Tobago, Trinidad, WI
+4	9	University of California, Los Angeles, USA	France Telecom R&D, South San Francisco, CA
+4	10	University of California, Los Angeles, USA	University of Cambridge Computer Laboratory
+4	11	University of California, Los Angeles, USA	null
+4	12	University of California, Los Angeles, USA	University of Cambridge Computer Laboratory
+4	13	University of California, Los Angeles, USA	null
+4	14	University of California, Los Angeles, USA	null
+4	15	University of California, Los Angeles, USA	University of Calgary
+4	16	University of California, Los Angeles, USA	null
+4	17	University of California, Los Angeles, USA	null
+4	18	University of California, Los Angeles, USA	null
+4	19	University of California, Los Angeles, USA	null
+4	20	University of California, Los Angeles, USA	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+4	21	University of California, Los Angeles, USA	null
+4	22	University of California, Los Angeles, USA	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+4	23	University of California, Los Angeles, USA	null
+4	24	University of California, Los Angeles, USA	null
+4	25	University of California, Los Angeles, USA	null
+4	26	University of California, Los Angeles, USA	null
+4	27	University of California, Los Angeles, USA	null
+4	28	University of California, Los Angeles, USA	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+4	29	University of California, Los Angeles, USA	null
+4	30	University of California, Los Angeles, USA	National Institute for Occupational Safety and Health
+4	31	University of California, Los Angeles, USA	Siemens Corporate Research
+4	32	University of California, Los Angeles, USA	null
+5	6	null	null
+5	7	null	Univ. of Calgary, Calgary, AB
+5	8	null	University of Trinidad and Tobago, Trinidad, WI
+5	9	null	France Telecom R&D, South San Francisco, CA
+5	10	null	University of Cambridge Computer Laboratory
+5	11	null	null
+5	12	null	University of Cambridge Computer Laboratory
+5	13	null	null
+5	14	null	null
+5	15	null	University of Calgary
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+5	21	null	null
+5	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	null
+5	27	null	null
+5	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+5	29	null	null
+5	30	null	National Institute for Occupational Safety and Health
+5	31	null	Siemens Corporate Research
+5	32	null	null
+6	7	null	Univ. of Calgary, Calgary, AB
+6	8	null	University of Trinidad and Tobago, Trinidad, WI
+6	9	null	France Telecom R&D, South San Francisco, CA
+6	10	null	University of Cambridge Computer Laboratory
+6	11	null	null
+6	12	null	University of Cambridge Computer Laboratory
+6	13	null	null
+6	14	null	null
+6	15	null	University of Calgary
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+6	21	null	null
+6	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+6	23	null	null
+6	24	null	null
+6	25	null	null
+6	26	null	null
+6	27	null	null
+6	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+6	29	null	null
+6	30	null	National Institute for Occupational Safety and Health
+6	31	null	Siemens Corporate Research
+6	32	null	null
+7	8	Univ. of Calgary, Calgary, AB	University of Trinidad and Tobago, Trinidad, WI
+7	9	Univ. of Calgary, Calgary, AB	France Telecom R&D, South San Francisco, CA
+7	10	Univ. of Calgary, Calgary, AB	University of Cambridge Computer Laboratory
+7	11	Univ. of Calgary, Calgary, AB	null
+7	12	Univ. of Calgary, Calgary, AB	University of Cambridge Computer Laboratory
+7	13	Univ. of Calgary, Calgary, AB	null
+7	14	Univ. of Calgary, Calgary, AB	null
+7	15	Univ. of Calgary, Calgary, AB	University of Calgary
+7	16	Univ. of Calgary, Calgary, AB	null
+7	17	Univ. of Calgary, Calgary, AB	null
+7	18	Univ. of Calgary, Calgary, AB	null
+7	19	Univ. of Calgary, Calgary, AB	null
+7	20	Univ. of Calgary, Calgary, AB	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+7	21	Univ. of Calgary, Calgary, AB	null
+7	22	Univ. of Calgary, Calgary, AB	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+7	23	Univ. of Calgary, Calgary, AB	null
+7	24	Univ. of Calgary, Calgary, AB	null
+7	25	Univ. of Calgary, Calgary, AB	null
+7	26	Univ. of Calgary, Calgary, AB	null
+7	27	Univ. of Calgary, Calgary, AB	null
+7	28	Univ. of Calgary, Calgary, AB	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+7	29	Univ. of Calgary, Calgary, AB	null
+7	30	Univ. of Calgary, Calgary, AB	National Institute for Occupational Safety and Health
+7	31	Univ. of Calgary, Calgary, AB	Siemens Corporate Research
+7	32	Univ. of Calgary, Calgary, AB	null
+8	9	University of Trinidad and Tobago, Trinidad, WI	France Telecom R&D, South San Francisco, CA
+8	10	University of Trinidad and Tobago, Trinidad, WI	University of Cambridge Computer Laboratory
+8	11	University of Trinidad and Tobago, Trinidad, WI	null
+8	12	University of Trinidad and Tobago, Trinidad, WI	University of Cambridge Computer Laboratory
+8	13	University of Trinidad and Tobago, Trinidad, WI	null
+8	14	University of Trinidad and Tobago, Trinidad, WI	null
+8	15	University of Trinidad and Tobago, Trinidad, WI	University of Calgary
+8	16	University of Trinidad and Tobago, Trinidad, WI	null
+8	17	University of Trinidad and Tobago, Trinidad, WI	null
+8	18	University of Trinidad and Tobago, Trinidad, WI	null
+8	19	University of Trinidad and Tobago, Trinidad, WI	null
+8	20	University of Trinidad and Tobago, Trinidad, WI	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+8	21	University of Trinidad and Tobago, Trinidad, WI	null
+8	22	University of Trinidad and Tobago, Trinidad, WI	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+8	23	University of Trinidad and Tobago, Trinidad, WI	null
+8	24	University of Trinidad and Tobago, Trinidad, WI	null
+8	25	University of Trinidad and Tobago, Trinidad, WI	null
+8	26	University of Trinidad and Tobago, Trinidad, WI	null
+8	27	University of Trinidad and Tobago, Trinidad, WI	null
+8	28	University of Trinidad and Tobago, Trinidad, WI	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+8	29	University of Trinidad and Tobago, Trinidad, WI	null
+8	30	University of Trinidad and Tobago, Trinidad, WI	National Institute for Occupational Safety and Health
+8	31	University of Trinidad and Tobago, Trinidad, WI	Siemens Corporate Research
+8	32	University of Trinidad and Tobago, Trinidad, WI	null
+9	10	France Telecom R&D, South San Francisco, CA	University of Cambridge Computer Laboratory
+9	11	France Telecom R&D, South San Francisco, CA	null
+9	12	France Telecom R&D, South San Francisco, CA	University of Cambridge Computer Laboratory
+9	13	France Telecom R&D, South San Francisco, CA	null
+9	14	France Telecom R&D, South San Francisco, CA	null
+9	15	France Telecom R&D, South San Francisco, CA	University of Calgary
+9	16	France Telecom R&D, South San Francisco, CA	null
+9	17	France Telecom R&D, South San Francisco, CA	null
+9	18	France Telecom R&D, South San Francisco, CA	null
+9	19	France Telecom R&D, South San Francisco, CA	null
+9	20	France Telecom R&D, South San Francisco, CA	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+9	21	France Telecom R&D, South San Francisco, CA	null
+9	22	France Telecom R&D, South San Francisco, CA	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+9	23	France Telecom R&D, South San Francisco, CA	null
+9	24	France Telecom R&D, South San Francisco, CA	null
+9	25	France Telecom R&D, South San Francisco, CA	null
+9	26	France Telecom R&D, South San Francisco, CA	null
+9	27	France Telecom R&D, South San Francisco, CA	null
+9	28	France Telecom R&D, South San Francisco, CA	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+9	29	France Telecom R&D, South San Francisco, CA	null
+9	30	France Telecom R&D, South San Francisco, CA	National Institute for Occupational Safety and Health
+9	31	France Telecom R&D, South San Francisco, CA	Siemens Corporate Research
+9	32	France Telecom R&D, South San Francisco, CA	null
+10	11	University of Cambridge Computer Laboratory	null
+10	12	University of Cambridge Computer Laboratory	University of Cambridge Computer Laboratory
+10	13	University of Cambridge Computer Laboratory	null
+10	14	University of Cambridge Computer Laboratory	null
+10	15	University of Cambridge Computer Laboratory	University of Calgary
+10	16	University of Cambridge Computer Laboratory	null
+10	17	University of Cambridge Computer Laboratory	null
+10	18	University of Cambridge Computer Laboratory	null
+10	19	University of Cambridge Computer Laboratory	null
+10	20	University of Cambridge Computer Laboratory	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+10	21	University of Cambridge Computer Laboratory	null
+10	22	University of Cambridge Computer Laboratory	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+10	23	University of Cambridge Computer Laboratory	null
+10	24	University of Cambridge Computer Laboratory	null
+10	25	University of Cambridge Computer Laboratory	null
+10	26	University of Cambridge Computer Laboratory	null
+10	27	University of Cambridge Computer Laboratory	null
+10	28	University of Cambridge Computer Laboratory	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+10	29	University of Cambridge Computer Laboratory	null
+10	30	University of Cambridge Computer Laboratory	National Institute for Occupational Safety and Health
+10	31	University of Cambridge Computer Laboratory	Siemens Corporate Research
+10	32	University of Cambridge Computer Laboratory	null
+11	12	null	University of Cambridge Computer Laboratory
+11	13	null	null
+11	14	null	null
+11	15	null	University of Calgary
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+11	21	null	null
+11	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	null
+11	27	null	null
+11	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+11	29	null	null
+11	30	null	National Institute for Occupational Safety and Health
+11	31	null	Siemens Corporate Research
+11	32	null	null
+12	13	University of Cambridge Computer Laboratory	null
+12	14	University of Cambridge Computer Laboratory	null
+12	15	University of Cambridge Computer Laboratory	University of Calgary
+12	16	University of Cambridge Computer Laboratory	null
+12	17	University of Cambridge Computer Laboratory	null
+12	18	University of Cambridge Computer Laboratory	null
+12	19	University of Cambridge Computer Laboratory	null
+12	20	University of Cambridge Computer Laboratory	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+12	21	University of Cambridge Computer Laboratory	null
+12	22	University of Cambridge Computer Laboratory	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+12	23	University of Cambridge Computer Laboratory	null
+12	24	University of Cambridge Computer Laboratory	null
+12	25	University of Cambridge Computer Laboratory	null
+12	26	University of Cambridge Computer Laboratory	null
+12	27	University of Cambridge Computer Laboratory	null
+12	28	University of Cambridge Computer Laboratory	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+12	29	University of Cambridge Computer Laboratory	null
+12	30	University of Cambridge Computer Laboratory	National Institute for Occupational Safety and Health
+12	31	University of Cambridge Computer Laboratory	Siemens Corporate Research
+12	32	University of Cambridge Computer Laboratory	null
+13	14	null	null
+13	15	null	University of Calgary
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+13	21	null	null
+13	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	null
+13	27	null	null
+13	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+13	29	null	null
+13	30	null	National Institute for Occupational Safety and Health
+13	31	null	Siemens Corporate Research
+13	32	null	null
+14	15	null	University of Calgary
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+14	21	null	null
+14	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+14	23	null	null
+14	24	null	null
+14	25	null	null
+14	26	null	null
+14	27	null	null
+14	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+14	29	null	null
+14	30	null	National Institute for Occupational Safety and Health
+14	31	null	Siemens Corporate Research
+14	32	null	null
+15	16	University of Calgary	null
+15	17	University of Calgary	null
+15	18	University of Calgary	null
+15	19	University of Calgary	null
+15	20	University of Calgary	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+15	21	University of Calgary	null
+15	22	University of Calgary	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+15	23	University of Calgary	null
+15	24	University of Calgary	null
+15	25	University of Calgary	null
+15	26	University of Calgary	null
+15	27	University of Calgary	null
+15	28	University of Calgary	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+15	29	University of Calgary	null
+15	30	University of Calgary	National Institute for Occupational Safety and Health
+15	31	University of Calgary	Siemens Corporate Research
+15	32	University of Calgary	null
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+16	21	null	null
+16	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	null
+16	27	null	null
+16	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+16	29	null	null
+16	30	null	National Institute for Occupational Safety and Health
+16	31	null	Siemens Corporate Research
+16	32	null	null
+17	18	null	null
+17	19	null	null
+17	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+17	21	null	null
+17	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	null
+17	27	null	null
+17	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+17	29	null	null
+17	30	null	National Institute for Occupational Safety and Health
+17	31	null	Siemens Corporate Research
+17	32	null	null
+18	19	null	null
+18	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+18	21	null	null
+18	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	null
+18	27	null	null
+18	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+18	29	null	null
+18	30	null	National Institute for Occupational Safety and Health
+18	31	null	Siemens Corporate Research
+18	32	null	null
+19	20	null	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8
+19	21	null	null
+19	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	null
+19	27	null	null
+19	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+19	29	null	null
+19	30	null	National Institute for Occupational Safety and Health
+19	31	null	Siemens Corporate Research
+19	32	null	null
+20	21	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+20	22	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+20	23	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+20	24	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+20	25	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+20	26	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+20	27	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+20	28	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+20	29	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+20	30	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	National Institute for Occupational Safety and Health
+20	31	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	Siemens Corporate Research
+20	32	Department of Computing Science, University of Alberta, Edmonton, Canada, T6G 2E8	null
+21	22	null	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	null
+21	27	null	null
+21	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+21	29	null	null
+21	30	null	National Institute for Occupational Safety and Health
+21	31	null	Siemens Corporate Research
+21	32	null	null
+22	23	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	null
+22	24	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	null
+22	25	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	null
+22	26	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	null
+22	27	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	null
+22	28	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+22	29	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	null
+22	30	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	National Institute for Occupational Safety and Health
+22	31	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	Siemens Corporate Research
+22	32	Dept. of Electr. & Comput. Eng., Calgary Univ., Alta.	null
+23	24	null	null
+23	25	null	null
+23	26	null	null
+23	27	null	null
+23	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+23	29	null	null
+23	30	null	National Institute for Occupational Safety and Health
+23	31	null	Siemens Corporate Research
+23	32	null	null
+24	25	null	null
+24	26	null	null
+24	27	null	null
+24	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+24	29	null	null
+24	30	null	National Institute for Occupational Safety and Health
+24	31	null	Siemens Corporate Research
+24	32	null	null
+25	26	null	null
+25	27	null	null
+25	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+25	29	null	null
+25	30	null	National Institute for Occupational Safety and Health
+25	31	null	Siemens Corporate Research
+25	32	null	null
+26	27	null	null
+26	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+26	29	null	null
+26	30	null	National Institute for Occupational Safety and Health
+26	31	null	Siemens Corporate Research
+26	32	null	null
+27	28	null	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia
+27	29	null	null
+27	30	null	National Institute for Occupational Safety and Health
+27	31	null	Siemens Corporate Research
+27	32	null	null
+28	29	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia	null
+28	30	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia	National Institute for Occupational Safety and Health
+28	31	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia	Siemens Corporate Research
+28	32	Econometrics and Business Statistics Group, Faculty of Economics and Business, University of Sydney, NSW 2006, Australia	null
+29	30	null	National Institute for Occupational Safety and Health
+29	31	null	Siemens Corporate Research
+29	32	null	null
+30	31	National Institute for Occupational Safety and Health	Siemens Corporate Research
+30	32	National Institute for Occupational Safety and Health	null
+31	32	Siemens Corporate Research	null

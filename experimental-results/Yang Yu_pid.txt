@@ -1,0 +1,71 @@
+15509	A New Approach to Estimating the Expected First Hitting Time of Evolutionary Algorithms
+24051	Automated and Safe Vulnerability Assessment
+31646	Learning the Semantic Meaning of a Concept from the Web
+56780	Design of an agent-based middleware for job matchmaking in teleworking community
+65209	Simulations of Protein Folding Process
+65373	Methods and Simulations for the Protein Folding
+160333	Display-only file server: a solution against information theft due to insider attack
+224167	A Meta-model of Temporal Workflow and Its Formalization
+224431	Research on Dynamic Task Assignment in Grid Workflow System
+224441	A Workflow Model with Temporal Logic Constraints and Its Automated Verification
+276127	A Clustering Approach to Planning Base Station and Relay Station Locations in IEEE 802.16j Multi-Hop Relay Networks
+285449	A Framework for Querying Sensor Networks Using Mobile Devices
+285588	Network-Aware State Update For Large Scale Mobile Games
+290226	Representing Wholes by Structure
+303413	Cocktail Ensemble for Regression
+303634	TEFE: A Time-Efficient Approach to Feature Extraction
+341733	Power-Aware Resource Allocation for Independent Tasks in Heterogeneous Real-Time Systems
+402880	Energy-Latency Tradeoffs for Data Gathering in Wireless Sensor Networks
+403950	Utility-Driven Spatiotemporal Sampling Using Mobile Sensors
+407850	Utilization-Based Heuristics for Statically Mapping Real-Time Applications onto the HiPer-D Heterogeneous Computing System
+409016	An integer programming approach for static mapping onto heterogeneous real-time systems
+409018	A Metric and Mixed-Integer-Programming-Based Approach for Resource Allocation in Dynamic Real-Time Systems
+411365	Communication Models for Algorithm Design in Networked Sensor Systems
+445880	Practical Routing and Torus Assignment for RDT
+445979	Performance analysis of practical RDT interconnection networks with SINOMP
+446150	Fault-Tolerant Routing Algorithm for RDT Structure
+457526	A RDT-Based Interconnection Network for Scalable Network-on-Chip Designs
+457733	RDT Properties and Evaluations
+483622	Energy-balanced task allocation for collaborative processing in networked embedded systems
+486032	Secure Mobile Code Execution Service
+509479	Computer Simulation for Protein Folding
+527424	A Framework for Modeling Positive Class Expansion with Single Snapshot
+532058	Dynamic Multi-reference Prediction in Video Coding for Improved Error Resilience over Internet
+535024	Greedy Heuristics for Resource Allocation in Dynamic Distributed Real-Time Heterogeneous Computing Systems
+583622	A Bayesian Network Approach to Ontology Mapping
+584567	Supporting concurrent applications in wireless sensor networks
+663962	MetaData Pro: Ontology-Based Metadata Processing for Web Resources
+677984	A feather-weight virtual machine for windows applications
+678061	Applications of a feather-weight virtual machine
+679259	The Dynamic Grey Radial Basis Function Prediction Model and its Applications
+697715	Workflow scheduling in grids: an ant colony optimization approach
+697917	On the usefulness of infeasible solutions in evolutionary search: A theoretical study
+727850	Query privacy in wireless sensor networks
+729011	3D Simulation of Real-Time Infrared Scene Based on DSP
+746299	A new approach to estimating the expected first hitting time of evolutionary algorithms
+798309	Log-Concave Functions And Poset Probabilities
+973942	Adapt Bagging to Nearest Neighbor Classifiers
+978495	The Permanent Rank of a Matrix
+983795	Resource Allocation for Independent Real-Time Tasks in Heterogeneous Systems for Energy Minimization
+1012949	Energy-Balanced Task Allocation for Collaborative Processing in Wireless Sensor Networks
+1017580	Human appearance modeling for matching across video sequences
+1024018	Issues in Designing Middleware for Wireless Sensor Networks
+1126379	Data Gathering with Tunable Compression in Sensor Networks
+1132581	Ensembling local learners ThroughMultimodal perturbation
+1176362	Energy Minimization for Real-Time Data Gathering in Wireless Sensor Networks
+1185329	On communication models for algorithm design in networked sensor systems: A case study, 
+1222633	Weak Evolvability Equals Strong Evolvability
+1225840	Spectrum of Variable-Random Trees
+1231679	Predicting Future Customers via Ensembling Gradually Expanded Trees
+1247513	An Improved Two-Stage Camera Calibration Method Based on Particle Swarm Optimization
+1255426	A Case Study in Integrating Multiple E-commerce Standards via Semantic Web Technology
+1266399	Querying sensor networks using ad hoc mobile devices: A two-layer networking approach
+1304104	FEM Based Numerical Analysis on the Temperature Field in Grind-hardening.
+1304557	A workflow model based on fuzzy-timing Petri nets.
+1319494	Semi-naive Exploitation of One-Dependence Estimators.
+1324123	Shedding New Light on Sequence Design Criteria for Multipath Channels.
+1361884	Information Processing and Routing in Wireless Sensor Networks
+1385434	Confining windows inter-process communications for OS-level virtual machine
+1390770	SVM Based Classification Mapping for User Navigation
+1391548	Cotton Variety Selection Model and Application Design
+1586130	Medical Segmentation Using Sobolev Optical Flow

@@ -1,0 +1,2701 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	null
+0	23	null	null
+0	24	null	null
+0	25	null	null
+0	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+0	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+0	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+0	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+0	35	null	null
+0	36	null	null
+0	37	null	null
+0	38	null	Universidad de Zaragoza, Spain
+0	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+0	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+0	41	null	Zaragoza Univ., Spain
+0	42	null	null
+0	43	null	null
+0	44	null	null
+0	45	null	null
+0	46	null	null
+0	47	null	null
+0	48	null	null
+0	49	null	null
+0	50	null	null
+0	51	null	null
+0	52	null	null
+0	53	null	null
+0	54	null	null
+0	55	null	Univ. de Zaragoza, Zaragoza, Spain
+0	56	null	null
+0	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+0	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+0	59	null	Univ. de Zaragoza, Zaragoza, Spain
+0	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+0	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+0	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+0	63	null	null
+0	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+0	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+0	66	null	null
+0	67	null	Univ. de Zaragoza, Zaragoza
+0	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+0	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+0	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+0	71	null	null
+0	72	null	null
+0	73	null	null
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+1	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+1	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+1	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+1	35	null	null
+1	36	null	null
+1	37	null	null
+1	38	null	Universidad de Zaragoza, Spain
+1	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+1	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+1	41	null	Zaragoza Univ., Spain
+1	42	null	null
+1	43	null	null
+1	44	null	null
+1	45	null	null
+1	46	null	null
+1	47	null	null
+1	48	null	null
+1	49	null	null
+1	50	null	null
+1	51	null	null
+1	52	null	null
+1	53	null	null
+1	54	null	null
+1	55	null	Univ. de Zaragoza, Zaragoza, Spain
+1	56	null	null
+1	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+1	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+1	59	null	Univ. de Zaragoza, Zaragoza, Spain
+1	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+1	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+1	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+1	63	null	null
+1	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+1	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+1	66	null	null
+1	67	null	Univ. de Zaragoza, Zaragoza
+1	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+1	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+1	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+1	71	null	null
+1	72	null	null
+1	73	null	null
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+2	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+2	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+2	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+2	35	null	null
+2	36	null	null
+2	37	null	null
+2	38	null	Universidad de Zaragoza, Spain
+2	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+2	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+2	41	null	Zaragoza Univ., Spain
+2	42	null	null
+2	43	null	null
+2	44	null	null
+2	45	null	null
+2	46	null	null
+2	47	null	null
+2	48	null	null
+2	49	null	null
+2	50	null	null
+2	51	null	null
+2	52	null	null
+2	53	null	null
+2	54	null	null
+2	55	null	Univ. de Zaragoza, Zaragoza, Spain
+2	56	null	null
+2	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+2	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+2	59	null	Univ. de Zaragoza, Zaragoza, Spain
+2	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+2	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+2	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+2	63	null	null
+2	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+2	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+2	66	null	null
+2	67	null	Univ. de Zaragoza, Zaragoza
+2	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+2	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+2	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+2	71	null	null
+2	72	null	null
+2	73	null	null
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	null
+3	21	null	null
+3	22	null	null
+3	23	null	null
+3	24	null	null
+3	25	null	null
+3	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+3	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+3	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+3	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+3	35	null	null
+3	36	null	null
+3	37	null	null
+3	38	null	Universidad de Zaragoza, Spain
+3	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+3	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+3	41	null	Zaragoza Univ., Spain
+3	42	null	null
+3	43	null	null
+3	44	null	null
+3	45	null	null
+3	46	null	null
+3	47	null	null
+3	48	null	null
+3	49	null	null
+3	50	null	null
+3	51	null	null
+3	52	null	null
+3	53	null	null
+3	54	null	null
+3	55	null	Univ. de Zaragoza, Zaragoza, Spain
+3	56	null	null
+3	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+3	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+3	59	null	Univ. de Zaragoza, Zaragoza, Spain
+3	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+3	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+3	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+3	63	null	null
+3	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+3	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+3	66	null	null
+3	67	null	Univ. de Zaragoza, Zaragoza
+3	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+3	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+3	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+3	71	null	null
+3	72	null	null
+3	73	null	null
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	null
+4	24	null	null
+4	25	null	null
+4	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+4	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+4	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+4	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+4	35	null	null
+4	36	null	null
+4	37	null	null
+4	38	null	Universidad de Zaragoza, Spain
+4	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+4	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+4	41	null	Zaragoza Univ., Spain
+4	42	null	null
+4	43	null	null
+4	44	null	null
+4	45	null	null
+4	46	null	null
+4	47	null	null
+4	48	null	null
+4	49	null	null
+4	50	null	null
+4	51	null	null
+4	52	null	null
+4	53	null	null
+4	54	null	null
+4	55	null	Univ. de Zaragoza, Zaragoza, Spain
+4	56	null	null
+4	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+4	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+4	59	null	Univ. de Zaragoza, Zaragoza, Spain
+4	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+4	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+4	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+4	63	null	null
+4	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+4	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+4	66	null	null
+4	67	null	Univ. de Zaragoza, Zaragoza
+4	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+4	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+4	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+4	71	null	null
+4	72	null	null
+4	73	null	null
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+5	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+5	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+5	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+5	35	null	null
+5	36	null	null
+5	37	null	null
+5	38	null	Universidad de Zaragoza, Spain
+5	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+5	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+5	41	null	Zaragoza Univ., Spain
+5	42	null	null
+5	43	null	null
+5	44	null	null
+5	45	null	null
+5	46	null	null
+5	47	null	null
+5	48	null	null
+5	49	null	null
+5	50	null	null
+5	51	null	null
+5	52	null	null
+5	53	null	null
+5	54	null	null
+5	55	null	Univ. de Zaragoza, Zaragoza, Spain
+5	56	null	null
+5	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+5	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+5	59	null	Univ. de Zaragoza, Zaragoza, Spain
+5	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+5	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+5	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+5	63	null	null
+5	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+5	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+5	66	null	null
+5	67	null	Univ. de Zaragoza, Zaragoza
+5	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+5	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+5	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+5	71	null	null
+5	72	null	null
+5	73	null	null
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	null
+6	23	null	null
+6	24	null	null
+6	25	null	null
+6	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+6	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+6	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+6	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+6	35	null	null
+6	36	null	null
+6	37	null	null
+6	38	null	Universidad de Zaragoza, Spain
+6	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+6	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+6	41	null	Zaragoza Univ., Spain
+6	42	null	null
+6	43	null	null
+6	44	null	null
+6	45	null	null
+6	46	null	null
+6	47	null	null
+6	48	null	null
+6	49	null	null
+6	50	null	null
+6	51	null	null
+6	52	null	null
+6	53	null	null
+6	54	null	null
+6	55	null	Univ. de Zaragoza, Zaragoza, Spain
+6	56	null	null
+6	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+6	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+6	59	null	Univ. de Zaragoza, Zaragoza, Spain
+6	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+6	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+6	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+6	63	null	null
+6	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+6	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+6	66	null	null
+6	67	null	Univ. de Zaragoza, Zaragoza
+6	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+6	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+6	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+6	71	null	null
+6	72	null	null
+6	73	null	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+7	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+7	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+7	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+7	35	null	null
+7	36	null	null
+7	37	null	null
+7	38	null	Universidad de Zaragoza, Spain
+7	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+7	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+7	41	null	Zaragoza Univ., Spain
+7	42	null	null
+7	43	null	null
+7	44	null	null
+7	45	null	null
+7	46	null	null
+7	47	null	null
+7	48	null	null
+7	49	null	null
+7	50	null	null
+7	51	null	null
+7	52	null	null
+7	53	null	null
+7	54	null	null
+7	55	null	Univ. de Zaragoza, Zaragoza, Spain
+7	56	null	null
+7	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+7	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+7	59	null	Univ. de Zaragoza, Zaragoza, Spain
+7	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+7	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+7	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+7	63	null	null
+7	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+7	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+7	66	null	null
+7	67	null	Univ. de Zaragoza, Zaragoza
+7	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+7	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+7	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+7	71	null	null
+7	72	null	null
+7	73	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+8	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+8	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+8	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+8	35	null	null
+8	36	null	null
+8	37	null	null
+8	38	null	Universidad de Zaragoza, Spain
+8	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+8	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+8	41	null	Zaragoza Univ., Spain
+8	42	null	null
+8	43	null	null
+8	44	null	null
+8	45	null	null
+8	46	null	null
+8	47	null	null
+8	48	null	null
+8	49	null	null
+8	50	null	null
+8	51	null	null
+8	52	null	null
+8	53	null	null
+8	54	null	null
+8	55	null	Univ. de Zaragoza, Zaragoza, Spain
+8	56	null	null
+8	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+8	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+8	59	null	Univ. de Zaragoza, Zaragoza, Spain
+8	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+8	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+8	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+8	63	null	null
+8	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+8	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+8	66	null	null
+8	67	null	Univ. de Zaragoza, Zaragoza
+8	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+8	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+8	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+8	71	null	null
+8	72	null	null
+8	73	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	null
+9	15	null	null
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	null
+9	20	null	null
+9	21	null	null
+9	22	null	null
+9	23	null	null
+9	24	null	null
+9	25	null	null
+9	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+9	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+9	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+9	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+9	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+9	35	null	null
+9	36	null	null
+9	37	null	null
+9	38	null	Universidad de Zaragoza, Spain
+9	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+9	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+9	41	null	Zaragoza Univ., Spain
+9	42	null	null
+9	43	null	null
+9	44	null	null
+9	45	null	null
+9	46	null	null
+9	47	null	null
+9	48	null	null
+9	49	null	null
+9	50	null	null
+9	51	null	null
+9	52	null	null
+9	53	null	null
+9	54	null	null
+9	55	null	Univ. de Zaragoza, Zaragoza, Spain
+9	56	null	null
+9	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+9	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+9	59	null	Univ. de Zaragoza, Zaragoza, Spain
+9	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+9	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+9	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+9	63	null	null
+9	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+9	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+9	66	null	null
+9	67	null	Univ. de Zaragoza, Zaragoza
+9	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+9	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+9	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+9	71	null	null
+9	72	null	null
+9	73	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	null
+10	23	null	null
+10	24	null	null
+10	25	null	null
+10	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+10	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	null
+10	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+10	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+10	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+10	35	null	null
+10	36	null	null
+10	37	null	null
+10	38	null	Universidad de Zaragoza, Spain
+10	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+10	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+10	41	null	Zaragoza Univ., Spain
+10	42	null	null
+10	43	null	null
+10	44	null	null
+10	45	null	null
+10	46	null	null
+10	47	null	null
+10	48	null	null
+10	49	null	null
+10	50	null	null
+10	51	null	null
+10	52	null	null
+10	53	null	null
+10	54	null	null
+10	55	null	Univ. de Zaragoza, Zaragoza, Spain
+10	56	null	null
+10	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+10	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+10	59	null	Univ. de Zaragoza, Zaragoza, Spain
+10	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+10	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+10	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+10	63	null	null
+10	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+10	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+10	66	null	null
+10	67	null	Univ. de Zaragoza, Zaragoza
+10	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+10	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+10	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+10	71	null	null
+10	72	null	null
+10	73	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+11	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+11	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+11	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+11	35	null	null
+11	36	null	null
+11	37	null	null
+11	38	null	Universidad de Zaragoza, Spain
+11	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+11	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+11	41	null	Zaragoza Univ., Spain
+11	42	null	null
+11	43	null	null
+11	44	null	null
+11	45	null	null
+11	46	null	null
+11	47	null	null
+11	48	null	null
+11	49	null	null
+11	50	null	null
+11	51	null	null
+11	52	null	null
+11	53	null	null
+11	54	null	null
+11	55	null	Univ. de Zaragoza, Zaragoza, Spain
+11	56	null	null
+11	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+11	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+11	59	null	Univ. de Zaragoza, Zaragoza, Spain
+11	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+11	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+11	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+11	63	null	null
+11	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+11	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+11	66	null	null
+11	67	null	Univ. de Zaragoza, Zaragoza
+11	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+11	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+11	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+11	71	null	null
+11	72	null	null
+11	73	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	null
+12	17	null	null
+12	18	null	null
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	null
+12	23	null	null
+12	24	null	null
+12	25	null	null
+12	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+12	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+12	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+12	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+12	35	null	null
+12	36	null	null
+12	37	null	null
+12	38	null	Universidad de Zaragoza, Spain
+12	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+12	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+12	41	null	Zaragoza Univ., Spain
+12	42	null	null
+12	43	null	null
+12	44	null	null
+12	45	null	null
+12	46	null	null
+12	47	null	null
+12	48	null	null
+12	49	null	null
+12	50	null	null
+12	51	null	null
+12	52	null	null
+12	53	null	null
+12	54	null	null
+12	55	null	Univ. de Zaragoza, Zaragoza, Spain
+12	56	null	null
+12	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+12	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+12	59	null	Univ. de Zaragoza, Zaragoza, Spain
+12	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+12	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+12	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+12	63	null	null
+12	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+12	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+12	66	null	null
+12	67	null	Univ. de Zaragoza, Zaragoza
+12	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+12	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+12	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+12	71	null	null
+12	72	null	null
+12	73	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	null
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+13	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+13	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+13	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+13	35	null	null
+13	36	null	null
+13	37	null	null
+13	38	null	Universidad de Zaragoza, Spain
+13	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+13	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+13	41	null	Zaragoza Univ., Spain
+13	42	null	null
+13	43	null	null
+13	44	null	null
+13	45	null	null
+13	46	null	null
+13	47	null	null
+13	48	null	null
+13	49	null	null
+13	50	null	null
+13	51	null	null
+13	52	null	null
+13	53	null	null
+13	54	null	null
+13	55	null	Univ. de Zaragoza, Zaragoza, Spain
+13	56	null	null
+13	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+13	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+13	59	null	Univ. de Zaragoza, Zaragoza, Spain
+13	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+13	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+13	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+13	63	null	null
+13	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+13	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+13	66	null	null
+13	67	null	Univ. de Zaragoza, Zaragoza
+13	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+13	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+13	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+13	71	null	null
+13	72	null	null
+13	73	null	null
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	null
+14	24	null	null
+14	25	null	null
+14	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+14	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+14	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+14	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+14	35	null	null
+14	36	null	null
+14	37	null	null
+14	38	null	Universidad de Zaragoza, Spain
+14	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+14	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+14	41	null	Zaragoza Univ., Spain
+14	42	null	null
+14	43	null	null
+14	44	null	null
+14	45	null	null
+14	46	null	null
+14	47	null	null
+14	48	null	null
+14	49	null	null
+14	50	null	null
+14	51	null	null
+14	52	null	null
+14	53	null	null
+14	54	null	null
+14	55	null	Univ. de Zaragoza, Zaragoza, Spain
+14	56	null	null
+14	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+14	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+14	59	null	Univ. de Zaragoza, Zaragoza, Spain
+14	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+14	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+14	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+14	63	null	null
+14	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+14	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+14	66	null	null
+14	67	null	Univ. de Zaragoza, Zaragoza
+14	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+14	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+14	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+14	71	null	null
+14	72	null	null
+14	73	null	null
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	null
+15	24	null	null
+15	25	null	null
+15	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+15	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+15	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+15	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+15	35	null	null
+15	36	null	null
+15	37	null	null
+15	38	null	Universidad de Zaragoza, Spain
+15	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+15	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+15	41	null	Zaragoza Univ., Spain
+15	42	null	null
+15	43	null	null
+15	44	null	null
+15	45	null	null
+15	46	null	null
+15	47	null	null
+15	48	null	null
+15	49	null	null
+15	50	null	null
+15	51	null	null
+15	52	null	null
+15	53	null	null
+15	54	null	null
+15	55	null	Univ. de Zaragoza, Zaragoza, Spain
+15	56	null	null
+15	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+15	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+15	59	null	Univ. de Zaragoza, Zaragoza, Spain
+15	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+15	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+15	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+15	63	null	null
+15	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+15	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+15	66	null	null
+15	67	null	Univ. de Zaragoza, Zaragoza
+15	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+15	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+15	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+15	71	null	null
+15	72	null	null
+15	73	null	null
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+16	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+16	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+16	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+16	35	null	null
+16	36	null	null
+16	37	null	null
+16	38	null	Universidad de Zaragoza, Spain
+16	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+16	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+16	41	null	Zaragoza Univ., Spain
+16	42	null	null
+16	43	null	null
+16	44	null	null
+16	45	null	null
+16	46	null	null
+16	47	null	null
+16	48	null	null
+16	49	null	null
+16	50	null	null
+16	51	null	null
+16	52	null	null
+16	53	null	null
+16	54	null	null
+16	55	null	Univ. de Zaragoza, Zaragoza, Spain
+16	56	null	null
+16	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+16	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+16	59	null	Univ. de Zaragoza, Zaragoza, Spain
+16	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+16	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+16	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+16	63	null	null
+16	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+16	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+16	66	null	null
+16	67	null	Univ. de Zaragoza, Zaragoza
+16	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+16	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+16	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+16	71	null	null
+16	72	null	null
+16	73	null	null
+17	18	null	null
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+17	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	null
+17	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+17	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+17	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+17	35	null	null
+17	36	null	null
+17	37	null	null
+17	38	null	Universidad de Zaragoza, Spain
+17	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+17	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+17	41	null	Zaragoza Univ., Spain
+17	42	null	null
+17	43	null	null
+17	44	null	null
+17	45	null	null
+17	46	null	null
+17	47	null	null
+17	48	null	null
+17	49	null	null
+17	50	null	null
+17	51	null	null
+17	52	null	null
+17	53	null	null
+17	54	null	null
+17	55	null	Univ. de Zaragoza, Zaragoza, Spain
+17	56	null	null
+17	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+17	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+17	59	null	Univ. de Zaragoza, Zaragoza, Spain
+17	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+17	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+17	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+17	63	null	null
+17	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+17	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+17	66	null	null
+17	67	null	Univ. de Zaragoza, Zaragoza
+17	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+17	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+17	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+17	71	null	null
+17	72	null	null
+17	73	null	null
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+18	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+18	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+18	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+18	35	null	null
+18	36	null	null
+18	37	null	null
+18	38	null	Universidad de Zaragoza, Spain
+18	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+18	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+18	41	null	Zaragoza Univ., Spain
+18	42	null	null
+18	43	null	null
+18	44	null	null
+18	45	null	null
+18	46	null	null
+18	47	null	null
+18	48	null	null
+18	49	null	null
+18	50	null	null
+18	51	null	null
+18	52	null	null
+18	53	null	null
+18	54	null	null
+18	55	null	Univ. de Zaragoza, Zaragoza, Spain
+18	56	null	null
+18	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+18	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+18	59	null	Univ. de Zaragoza, Zaragoza, Spain
+18	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+18	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+18	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+18	63	null	null
+18	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+18	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+18	66	null	null
+18	67	null	Univ. de Zaragoza, Zaragoza
+18	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+18	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+18	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+18	71	null	null
+18	72	null	null
+18	73	null	null
+19	20	null	null
+19	21	null	null
+19	22	null	null
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+19	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+19	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+19	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+19	35	null	null
+19	36	null	null
+19	37	null	null
+19	38	null	Universidad de Zaragoza, Spain
+19	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+19	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+19	41	null	Zaragoza Univ., Spain
+19	42	null	null
+19	43	null	null
+19	44	null	null
+19	45	null	null
+19	46	null	null
+19	47	null	null
+19	48	null	null
+19	49	null	null
+19	50	null	null
+19	51	null	null
+19	52	null	null
+19	53	null	null
+19	54	null	null
+19	55	null	Univ. de Zaragoza, Zaragoza, Spain
+19	56	null	null
+19	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+19	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+19	59	null	Univ. de Zaragoza, Zaragoza, Spain
+19	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+19	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+19	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+19	63	null	null
+19	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+19	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+19	66	null	null
+19	67	null	Univ. de Zaragoza, Zaragoza
+19	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+19	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+19	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+19	71	null	null
+19	72	null	null
+19	73	null	null
+20	21	null	null
+20	22	null	null
+20	23	null	null
+20	24	null	null
+20	25	null	null
+20	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+20	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+20	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+20	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+20	35	null	null
+20	36	null	null
+20	37	null	null
+20	38	null	Universidad de Zaragoza, Spain
+20	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+20	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+20	41	null	Zaragoza Univ., Spain
+20	42	null	null
+20	43	null	null
+20	44	null	null
+20	45	null	null
+20	46	null	null
+20	47	null	null
+20	48	null	null
+20	49	null	null
+20	50	null	null
+20	51	null	null
+20	52	null	null
+20	53	null	null
+20	54	null	null
+20	55	null	Univ. de Zaragoza, Zaragoza, Spain
+20	56	null	null
+20	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+20	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+20	59	null	Univ. de Zaragoza, Zaragoza, Spain
+20	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+20	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+20	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+20	63	null	null
+20	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+20	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+20	66	null	null
+20	67	null	Univ. de Zaragoza, Zaragoza
+20	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+20	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+20	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+20	71	null	null
+20	72	null	null
+20	73	null	null
+21	22	null	null
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+21	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+21	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+21	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+21	35	null	null
+21	36	null	null
+21	37	null	null
+21	38	null	Universidad de Zaragoza, Spain
+21	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+21	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+21	41	null	Zaragoza Univ., Spain
+21	42	null	null
+21	43	null	null
+21	44	null	null
+21	45	null	null
+21	46	null	null
+21	47	null	null
+21	48	null	null
+21	49	null	null
+21	50	null	null
+21	51	null	null
+21	52	null	null
+21	53	null	null
+21	54	null	null
+21	55	null	Univ. de Zaragoza, Zaragoza, Spain
+21	56	null	null
+21	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+21	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+21	59	null	Univ. de Zaragoza, Zaragoza, Spain
+21	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+21	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+21	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+21	63	null	null
+21	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+21	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+21	66	null	null
+21	67	null	Univ. de Zaragoza, Zaragoza
+21	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+21	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+21	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+21	71	null	null
+21	72	null	null
+21	73	null	null
+22	23	null	null
+22	24	null	null
+22	25	null	null
+22	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+22	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+22	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+22	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+22	35	null	null
+22	36	null	null
+22	37	null	null
+22	38	null	Universidad de Zaragoza, Spain
+22	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+22	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+22	41	null	Zaragoza Univ., Spain
+22	42	null	null
+22	43	null	null
+22	44	null	null
+22	45	null	null
+22	46	null	null
+22	47	null	null
+22	48	null	null
+22	49	null	null
+22	50	null	null
+22	51	null	null
+22	52	null	null
+22	53	null	null
+22	54	null	null
+22	55	null	Univ. de Zaragoza, Zaragoza, Spain
+22	56	null	null
+22	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+22	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+22	59	null	Univ. de Zaragoza, Zaragoza, Spain
+22	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+22	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+22	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+22	63	null	null
+22	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+22	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+22	66	null	null
+22	67	null	Univ. de Zaragoza, Zaragoza
+22	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+22	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+22	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+22	71	null	null
+22	72	null	null
+22	73	null	null
+23	24	null	null
+23	25	null	null
+23	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+23	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+23	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+23	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+23	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+23	35	null	null
+23	36	null	null
+23	37	null	null
+23	38	null	Universidad de Zaragoza, Spain
+23	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+23	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+23	41	null	Zaragoza Univ., Spain
+23	42	null	null
+23	43	null	null
+23	44	null	null
+23	45	null	null
+23	46	null	null
+23	47	null	null
+23	48	null	null
+23	49	null	null
+23	50	null	null
+23	51	null	null
+23	52	null	null
+23	53	null	null
+23	54	null	null
+23	55	null	Univ. de Zaragoza, Zaragoza, Spain
+23	56	null	null
+23	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+23	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+23	59	null	Univ. de Zaragoza, Zaragoza, Spain
+23	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+23	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+23	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+23	63	null	null
+23	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+23	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+23	66	null	null
+23	67	null	Univ. de Zaragoza, Zaragoza
+23	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+23	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+23	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+23	71	null	null
+23	72	null	null
+23	73	null	null
+24	25	null	null
+24	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+24	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+24	28	null	null
+24	29	null	null
+24	30	null	null
+24	31	null	null
+24	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+24	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+24	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+24	35	null	null
+24	36	null	null
+24	37	null	null
+24	38	null	Universidad de Zaragoza, Spain
+24	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+24	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+24	41	null	Zaragoza Univ., Spain
+24	42	null	null
+24	43	null	null
+24	44	null	null
+24	45	null	null
+24	46	null	null
+24	47	null	null
+24	48	null	null
+24	49	null	null
+24	50	null	null
+24	51	null	null
+24	52	null	null
+24	53	null	null
+24	54	null	null
+24	55	null	Univ. de Zaragoza, Zaragoza, Spain
+24	56	null	null
+24	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+24	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+24	59	null	Univ. de Zaragoza, Zaragoza, Spain
+24	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+24	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+24	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+24	63	null	null
+24	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+24	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+24	66	null	null
+24	67	null	Univ. de Zaragoza, Zaragoza
+24	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+24	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+24	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+24	71	null	null
+24	72	null	null
+24	73	null	null
+25	26	null	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018
+25	27	null	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+25	28	null	null
+25	29	null	null
+25	30	null	null
+25	31	null	null
+25	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+25	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+25	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+25	35	null	null
+25	36	null	null
+25	37	null	null
+25	38	null	Universidad de Zaragoza, Spain
+25	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+25	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+25	41	null	Zaragoza Univ., Spain
+25	42	null	null
+25	43	null	null
+25	44	null	null
+25	45	null	null
+25	46	null	null
+25	47	null	null
+25	48	null	null
+25	49	null	null
+25	50	null	null
+25	51	null	null
+25	52	null	null
+25	53	null	null
+25	54	null	null
+25	55	null	Univ. de Zaragoza, Zaragoza, Spain
+25	56	null	null
+25	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+25	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+25	59	null	Univ. de Zaragoza, Zaragoza, Spain
+25	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+25	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+25	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+25	63	null	null
+25	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+25	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+25	66	null	null
+25	67	null	Univ. de Zaragoza, Zaragoza
+25	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+25	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+25	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+25	71	null	null
+25	72	null	null
+25	73	null	null
+26	27	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.
+26	28	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	29	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	30	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	31	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	32	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. of Circuits & Syst., Hiroshima Univ.
+26	33	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+26	34	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+26	35	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	36	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	37	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	38	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Universidad de Zaragoza, Spain
+26	39	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+26	40	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+26	41	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Zaragoza Univ., Spain
+26	42	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	43	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	44	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	45	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	46	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	47	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	48	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	49	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	50	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	51	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	52	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	53	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	54	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	55	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Univ. de Zaragoza, Zaragoza, Spain
+26	56	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	57	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+26	58	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+26	59	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Univ. de Zaragoza, Zaragoza, Spain
+26	60	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+26	61	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+26	62	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+26	63	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	64	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+26	65	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+26	66	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	67	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Univ. de Zaragoza, Zaragoza
+26	68	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+26	69	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+26	70	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+26	71	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	72	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+26	73	Dep. de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Zaragoza, Spain E-50018	null
+27	28	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	29	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	30	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	31	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	32	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. of Circuits & Syst., Hiroshima Univ.
+27	33	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+27	34	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+27	35	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	36	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	37	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	38	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Universidad de Zaragoza, Spain
+27	39	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+27	40	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+27	41	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Zaragoza Univ., Spain
+27	42	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	43	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	44	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	45	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	46	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	47	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	48	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	49	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	50	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	51	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	52	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	53	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	54	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	55	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza, Spain
+27	56	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	57	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+27	58	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+27	59	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza, Spain
+27	60	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+27	61	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+27	62	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+27	63	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	64	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+27	65	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+27	66	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	67	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza
+27	68	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+27	69	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+27	70	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+27	71	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	72	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+27	73	Dpto. Ingenieria Electrica e Inf., Zaragoza Univ.	null
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+28	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+28	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+28	35	null	null
+28	36	null	null
+28	37	null	null
+28	38	null	Universidad de Zaragoza, Spain
+28	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+28	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+28	41	null	Zaragoza Univ., Spain
+28	42	null	null
+28	43	null	null
+28	44	null	null
+28	45	null	null
+28	46	null	null
+28	47	null	null
+28	48	null	null
+28	49	null	null
+28	50	null	null
+28	51	null	null
+28	52	null	null
+28	53	null	null
+28	54	null	null
+28	55	null	Univ. de Zaragoza, Zaragoza, Spain
+28	56	null	null
+28	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+28	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+28	59	null	Univ. de Zaragoza, Zaragoza, Spain
+28	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+28	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+28	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+28	63	null	null
+28	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+28	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+28	66	null	null
+28	67	null	Univ. de Zaragoza, Zaragoza
+28	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+28	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+28	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+28	71	null	null
+28	72	null	null
+28	73	null	null
+29	30	null	null
+29	31	null	null
+29	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+29	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+29	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+29	35	null	null
+29	36	null	null
+29	37	null	null
+29	38	null	Universidad de Zaragoza, Spain
+29	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+29	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+29	41	null	Zaragoza Univ., Spain
+29	42	null	null
+29	43	null	null
+29	44	null	null
+29	45	null	null
+29	46	null	null
+29	47	null	null
+29	48	null	null
+29	49	null	null
+29	50	null	null
+29	51	null	null
+29	52	null	null
+29	53	null	null
+29	54	null	null
+29	55	null	Univ. de Zaragoza, Zaragoza, Spain
+29	56	null	null
+29	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+29	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+29	59	null	Univ. de Zaragoza, Zaragoza, Spain
+29	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+29	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+29	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+29	63	null	null
+29	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+29	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+29	66	null	null
+29	67	null	Univ. de Zaragoza, Zaragoza
+29	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+29	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+29	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+29	71	null	null
+29	72	null	null
+29	73	null	null
+30	31	null	null
+30	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+30	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+30	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+30	35	null	null
+30	36	null	null
+30	37	null	null
+30	38	null	Universidad de Zaragoza, Spain
+30	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+30	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+30	41	null	Zaragoza Univ., Spain
+30	42	null	null
+30	43	null	null
+30	44	null	null
+30	45	null	null
+30	46	null	null
+30	47	null	null
+30	48	null	null
+30	49	null	null
+30	50	null	null
+30	51	null	null
+30	52	null	null
+30	53	null	null
+30	54	null	null
+30	55	null	Univ. de Zaragoza, Zaragoza, Spain
+30	56	null	null
+30	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+30	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+30	59	null	Univ. de Zaragoza, Zaragoza, Spain
+30	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+30	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+30	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+30	63	null	null
+30	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+30	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+30	66	null	null
+30	67	null	Univ. de Zaragoza, Zaragoza
+30	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+30	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+30	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+30	71	null	null
+30	72	null	null
+30	73	null	null
+31	32	null	Dept. of Circuits & Syst., Hiroshima Univ.
+31	33	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+31	34	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+31	35	null	null
+31	36	null	null
+31	37	null	null
+31	38	null	Universidad de Zaragoza, Spain
+31	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+31	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+31	41	null	Zaragoza Univ., Spain
+31	42	null	null
+31	43	null	null
+31	44	null	null
+31	45	null	null
+31	46	null	null
+31	47	null	null
+31	48	null	null
+31	49	null	null
+31	50	null	null
+31	51	null	null
+31	52	null	null
+31	53	null	null
+31	54	null	null
+31	55	null	Univ. de Zaragoza, Zaragoza, Spain
+31	56	null	null
+31	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+31	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+31	59	null	Univ. de Zaragoza, Zaragoza, Spain
+31	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+31	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+31	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+31	63	null	null
+31	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+31	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+31	66	null	null
+31	67	null	Univ. de Zaragoza, Zaragoza
+31	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+31	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+31	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+31	71	null	null
+31	72	null	null
+31	73	null	null
+32	33	Dept. of Circuits & Syst., Hiroshima Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+32	34	Dept. of Circuits & Syst., Hiroshima Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+32	35	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	36	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	37	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	38	Dept. of Circuits & Syst., Hiroshima Univ.	Universidad de Zaragoza, Spain
+32	39	Dept. of Circuits & Syst., Hiroshima Univ.	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+32	40	Dept. of Circuits & Syst., Hiroshima Univ.	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+32	41	Dept. of Circuits & Syst., Hiroshima Univ.	Zaragoza Univ., Spain
+32	42	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	43	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	44	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	45	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	46	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	47	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	48	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	49	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	50	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	51	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	52	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	53	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	54	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	55	Dept. of Circuits & Syst., Hiroshima Univ.	Univ. de Zaragoza, Zaragoza, Spain
+32	56	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	57	Dept. of Circuits & Syst., Hiroshima Univ.	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+32	58	Dept. of Circuits & Syst., Hiroshima Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+32	59	Dept. of Circuits & Syst., Hiroshima Univ.	Univ. de Zaragoza, Zaragoza, Spain
+32	60	Dept. of Circuits & Syst., Hiroshima Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+32	61	Dept. of Circuits & Syst., Hiroshima Univ.	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+32	62	Dept. of Circuits & Syst., Hiroshima Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+32	63	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	64	Dept. of Circuits & Syst., Hiroshima Univ.	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+32	65	Dept. of Circuits & Syst., Hiroshima Univ.	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+32	66	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	67	Dept. of Circuits & Syst., Hiroshima Univ.	Univ. de Zaragoza, Zaragoza
+32	68	Dept. of Circuits & Syst., Hiroshima Univ.	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+32	69	Dept. of Circuits & Syst., Hiroshima Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+32	70	Dept. of Circuits & Syst., Hiroshima Univ.	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+32	71	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	72	Dept. of Circuits & Syst., Hiroshima Univ.	null
+32	73	Dept. of Circuits & Syst., Hiroshima Univ.	null
+33	34	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+33	35	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	36	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	37	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	38	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Universidad de Zaragoza, Spain
+33	39	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+33	40	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+33	41	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Zaragoza Univ., Spain
+33	42	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	43	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	44	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	45	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	46	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	47	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	48	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	49	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	50	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	51	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	52	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	53	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	54	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	55	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza, Spain
+33	56	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	57	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+33	58	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+33	59	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza, Spain
+33	60	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+33	61	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+33	62	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+33	63	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	64	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+33	65	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+33	66	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	67	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza
+33	68	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+33	69	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+33	70	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+33	71	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	72	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+33	73	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	35	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	36	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	37	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	38	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Universidad de Zaragoza, Spain
+34	39	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+34	40	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+34	41	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Zaragoza Univ., Spain
+34	42	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	43	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	44	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	45	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	46	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	47	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	48	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	49	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	50	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	51	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	52	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	53	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	54	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	55	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza, Spain
+34	56	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	57	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+34	58	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+34	59	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza, Spain
+34	60	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+34	61	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+34	62	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+34	63	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	64	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+34	65	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+34	66	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	67	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza
+34	68	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+34	69	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+34	70	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+34	71	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	72	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+34	73	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+35	36	null	null
+35	37	null	null
+35	38	null	Universidad de Zaragoza, Spain
+35	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+35	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+35	41	null	Zaragoza Univ., Spain
+35	42	null	null
+35	43	null	null
+35	44	null	null
+35	45	null	null
+35	46	null	null
+35	47	null	null
+35	48	null	null
+35	49	null	null
+35	50	null	null
+35	51	null	null
+35	52	null	null
+35	53	null	null
+35	54	null	null
+35	55	null	Univ. de Zaragoza, Zaragoza, Spain
+35	56	null	null
+35	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+35	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+35	59	null	Univ. de Zaragoza, Zaragoza, Spain
+35	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+35	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+35	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+35	63	null	null
+35	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+35	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+35	66	null	null
+35	67	null	Univ. de Zaragoza, Zaragoza
+35	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+35	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+35	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+35	71	null	null
+35	72	null	null
+35	73	null	null
+36	37	null	null
+36	38	null	Universidad de Zaragoza, Spain
+36	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+36	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+36	41	null	Zaragoza Univ., Spain
+36	42	null	null
+36	43	null	null
+36	44	null	null
+36	45	null	null
+36	46	null	null
+36	47	null	null
+36	48	null	null
+36	49	null	null
+36	50	null	null
+36	51	null	null
+36	52	null	null
+36	53	null	null
+36	54	null	null
+36	55	null	Univ. de Zaragoza, Zaragoza, Spain
+36	56	null	null
+36	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+36	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+36	59	null	Univ. de Zaragoza, Zaragoza, Spain
+36	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+36	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+36	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+36	63	null	null
+36	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+36	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+36	66	null	null
+36	67	null	Univ. de Zaragoza, Zaragoza
+36	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+36	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+36	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+36	71	null	null
+36	72	null	null
+36	73	null	null
+37	38	null	Universidad de Zaragoza, Spain
+37	39	null	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+37	40	null	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+37	41	null	Zaragoza Univ., Spain
+37	42	null	null
+37	43	null	null
+37	44	null	null
+37	45	null	null
+37	46	null	null
+37	47	null	null
+37	48	null	null
+37	49	null	null
+37	50	null	null
+37	51	null	null
+37	52	null	null
+37	53	null	null
+37	54	null	null
+37	55	null	Univ. de Zaragoza, Zaragoza, Spain
+37	56	null	null
+37	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+37	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+37	59	null	Univ. de Zaragoza, Zaragoza, Spain
+37	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+37	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+37	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+37	63	null	null
+37	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+37	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+37	66	null	null
+37	67	null	Univ. de Zaragoza, Zaragoza
+37	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+37	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+37	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+37	71	null	null
+37	72	null	null
+37	73	null	null
+38	39	Universidad de Zaragoza, Spain	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain
+38	40	Universidad de Zaragoza, Spain	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+38	41	Universidad de Zaragoza, Spain	Zaragoza Univ., Spain
+38	42	Universidad de Zaragoza, Spain	null
+38	43	Universidad de Zaragoza, Spain	null
+38	44	Universidad de Zaragoza, Spain	null
+38	45	Universidad de Zaragoza, Spain	null
+38	46	Universidad de Zaragoza, Spain	null
+38	47	Universidad de Zaragoza, Spain	null
+38	48	Universidad de Zaragoza, Spain	null
+38	49	Universidad de Zaragoza, Spain	null
+38	50	Universidad de Zaragoza, Spain	null
+38	51	Universidad de Zaragoza, Spain	null
+38	52	Universidad de Zaragoza, Spain	null
+38	53	Universidad de Zaragoza, Spain	null
+38	54	Universidad de Zaragoza, Spain	null
+38	55	Universidad de Zaragoza, Spain	Univ. de Zaragoza, Zaragoza, Spain
+38	56	Universidad de Zaragoza, Spain	null
+38	57	Universidad de Zaragoza, Spain	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+38	58	Universidad de Zaragoza, Spain	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+38	59	Universidad de Zaragoza, Spain	Univ. de Zaragoza, Zaragoza, Spain
+38	60	Universidad de Zaragoza, Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+38	61	Universidad de Zaragoza, Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+38	62	Universidad de Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+38	63	Universidad de Zaragoza, Spain	null
+38	64	Universidad de Zaragoza, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+38	65	Universidad de Zaragoza, Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+38	66	Universidad de Zaragoza, Spain	null
+38	67	Universidad de Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+38	68	Universidad de Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+38	69	Universidad de Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+38	70	Universidad de Zaragoza, Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+38	71	Universidad de Zaragoza, Spain	null
+38	72	Universidad de Zaragoza, Spain	null
+38	73	Universidad de Zaragoza, Spain	null
+39	40	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain
+39	41	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Zaragoza Univ., Spain
+39	42	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	43	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	44	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	45	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	46	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	47	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	48	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	49	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	50	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	51	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	52	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	53	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	54	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	55	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Univ. de Zaragoza, Zaragoza, Spain
+39	56	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	57	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+39	58	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+39	59	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Univ. de Zaragoza, Zaragoza, Spain
+39	60	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+39	61	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+39	62	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+39	63	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	64	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+39	65	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+39	66	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	67	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Univ. de Zaragoza, Zaragoza
+39	68	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+39	69	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+39	70	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+39	71	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	72	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+39	73	Dep. de Informatica e Ingenieria de Sistemas, Zaragoza Univ., Spain	null
+40	41	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Zaragoza Univ., Spain
+40	42	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	43	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	44	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	45	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	46	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	47	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	48	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	49	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	50	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	51	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	52	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	53	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	54	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	55	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Univ. de Zaragoza, Zaragoza, Spain
+40	56	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	57	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+40	58	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+40	59	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Univ. de Zaragoza, Zaragoza, Spain
+40	60	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+40	61	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+40	62	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+40	63	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	64	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+40	65	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+40	66	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	67	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Univ. de Zaragoza, Zaragoza
+40	68	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+40	69	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+40	70	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+40	71	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	72	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+40	73	Dept. Ingenieria Eloctrica, Universidad de La Rioja, Spain	null
+41	42	Zaragoza Univ., Spain	null
+41	43	Zaragoza Univ., Spain	null
+41	44	Zaragoza Univ., Spain	null
+41	45	Zaragoza Univ., Spain	null
+41	46	Zaragoza Univ., Spain	null
+41	47	Zaragoza Univ., Spain	null
+41	48	Zaragoza Univ., Spain	null
+41	49	Zaragoza Univ., Spain	null
+41	50	Zaragoza Univ., Spain	null
+41	51	Zaragoza Univ., Spain	null
+41	52	Zaragoza Univ., Spain	null
+41	53	Zaragoza Univ., Spain	null
+41	54	Zaragoza Univ., Spain	null
+41	55	Zaragoza Univ., Spain	Univ. de Zaragoza, Zaragoza, Spain
+41	56	Zaragoza Univ., Spain	null
+41	57	Zaragoza Univ., Spain	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+41	58	Zaragoza Univ., Spain	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+41	59	Zaragoza Univ., Spain	Univ. de Zaragoza, Zaragoza, Spain
+41	60	Zaragoza Univ., Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+41	61	Zaragoza Univ., Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+41	62	Zaragoza Univ., Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+41	63	Zaragoza Univ., Spain	null
+41	64	Zaragoza Univ., Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+41	65	Zaragoza Univ., Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+41	66	Zaragoza Univ., Spain	null
+41	67	Zaragoza Univ., Spain	Univ. de Zaragoza, Zaragoza
+41	68	Zaragoza Univ., Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+41	69	Zaragoza Univ., Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+41	70	Zaragoza Univ., Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+41	71	Zaragoza Univ., Spain	null
+41	72	Zaragoza Univ., Spain	null
+41	73	Zaragoza Univ., Spain	null
+42	43	null	null
+42	44	null	null
+42	45	null	null
+42	46	null	null
+42	47	null	null
+42	48	null	null
+42	49	null	null
+42	50	null	null
+42	51	null	null
+42	52	null	null
+42	53	null	null
+42	54	null	null
+42	55	null	Univ. de Zaragoza, Zaragoza, Spain
+42	56	null	null
+42	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+42	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+42	59	null	Univ. de Zaragoza, Zaragoza, Spain
+42	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+42	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+42	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+42	63	null	null
+42	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+42	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+42	66	null	null
+42	67	null	Univ. de Zaragoza, Zaragoza
+42	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+42	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+42	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+42	71	null	null
+42	72	null	null
+42	73	null	null
+43	44	null	null
+43	45	null	null
+43	46	null	null
+43	47	null	null
+43	48	null	null
+43	49	null	null
+43	50	null	null
+43	51	null	null
+43	52	null	null
+43	53	null	null
+43	54	null	null
+43	55	null	Univ. de Zaragoza, Zaragoza, Spain
+43	56	null	null
+43	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+43	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+43	59	null	Univ. de Zaragoza, Zaragoza, Spain
+43	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+43	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+43	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+43	63	null	null
+43	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+43	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+43	66	null	null
+43	67	null	Univ. de Zaragoza, Zaragoza
+43	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+43	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+43	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+43	71	null	null
+43	72	null	null
+43	73	null	null
+44	45	null	null
+44	46	null	null
+44	47	null	null
+44	48	null	null
+44	49	null	null
+44	50	null	null
+44	51	null	null
+44	52	null	null
+44	53	null	null
+44	54	null	null
+44	55	null	Univ. de Zaragoza, Zaragoza, Spain
+44	56	null	null
+44	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+44	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+44	59	null	Univ. de Zaragoza, Zaragoza, Spain
+44	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+44	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+44	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+44	63	null	null
+44	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+44	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+44	66	null	null
+44	67	null	Univ. de Zaragoza, Zaragoza
+44	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+44	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+44	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+44	71	null	null
+44	72	null	null
+44	73	null	null
+45	46	null	null
+45	47	null	null
+45	48	null	null
+45	49	null	null
+45	50	null	null
+45	51	null	null
+45	52	null	null
+45	53	null	null
+45	54	null	null
+45	55	null	Univ. de Zaragoza, Zaragoza, Spain
+45	56	null	null
+45	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+45	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+45	59	null	Univ. de Zaragoza, Zaragoza, Spain
+45	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+45	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+45	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+45	63	null	null
+45	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+45	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+45	66	null	null
+45	67	null	Univ. de Zaragoza, Zaragoza
+45	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+45	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+45	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+45	71	null	null
+45	72	null	null
+45	73	null	null
+46	47	null	null
+46	48	null	null
+46	49	null	null
+46	50	null	null
+46	51	null	null
+46	52	null	null
+46	53	null	null
+46	54	null	null
+46	55	null	Univ. de Zaragoza, Zaragoza, Spain
+46	56	null	null
+46	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+46	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+46	59	null	Univ. de Zaragoza, Zaragoza, Spain
+46	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+46	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+46	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+46	63	null	null
+46	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+46	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+46	66	null	null
+46	67	null	Univ. de Zaragoza, Zaragoza
+46	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+46	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+46	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+46	71	null	null
+46	72	null	null
+46	73	null	null
+47	48	null	null
+47	49	null	null
+47	50	null	null
+47	51	null	null
+47	52	null	null
+47	53	null	null
+47	54	null	null
+47	55	null	Univ. de Zaragoza, Zaragoza, Spain
+47	56	null	null
+47	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+47	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+47	59	null	Univ. de Zaragoza, Zaragoza, Spain
+47	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+47	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+47	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+47	63	null	null
+47	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+47	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+47	66	null	null
+47	67	null	Univ. de Zaragoza, Zaragoza
+47	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+47	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+47	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+47	71	null	null
+47	72	null	null
+47	73	null	null
+48	49	null	null
+48	50	null	null
+48	51	null	null
+48	52	null	null
+48	53	null	null
+48	54	null	null
+48	55	null	Univ. de Zaragoza, Zaragoza, Spain
+48	56	null	null
+48	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+48	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+48	59	null	Univ. de Zaragoza, Zaragoza, Spain
+48	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+48	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+48	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+48	63	null	null
+48	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+48	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+48	66	null	null
+48	67	null	Univ. de Zaragoza, Zaragoza
+48	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+48	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+48	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+48	71	null	null
+48	72	null	null
+48	73	null	null
+49	50	null	null
+49	51	null	null
+49	52	null	null
+49	53	null	null
+49	54	null	null
+49	55	null	Univ. de Zaragoza, Zaragoza, Spain
+49	56	null	null
+49	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+49	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+49	59	null	Univ. de Zaragoza, Zaragoza, Spain
+49	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+49	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+49	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+49	63	null	null
+49	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+49	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+49	66	null	null
+49	67	null	Univ. de Zaragoza, Zaragoza
+49	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+49	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+49	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+49	71	null	null
+49	72	null	null
+49	73	null	null
+50	51	null	null
+50	52	null	null
+50	53	null	null
+50	54	null	null
+50	55	null	Univ. de Zaragoza, Zaragoza, Spain
+50	56	null	null
+50	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+50	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+50	59	null	Univ. de Zaragoza, Zaragoza, Spain
+50	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+50	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+50	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+50	63	null	null
+50	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+50	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+50	66	null	null
+50	67	null	Univ. de Zaragoza, Zaragoza
+50	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+50	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+50	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+50	71	null	null
+50	72	null	null
+50	73	null	null
+51	52	null	null
+51	53	null	null
+51	54	null	null
+51	55	null	Univ. de Zaragoza, Zaragoza, Spain
+51	56	null	null
+51	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+51	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+51	59	null	Univ. de Zaragoza, Zaragoza, Spain
+51	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+51	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+51	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+51	63	null	null
+51	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+51	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+51	66	null	null
+51	67	null	Univ. de Zaragoza, Zaragoza
+51	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+51	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+51	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+51	71	null	null
+51	72	null	null
+51	73	null	null
+52	53	null	null
+52	54	null	null
+52	55	null	Univ. de Zaragoza, Zaragoza, Spain
+52	56	null	null
+52	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+52	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+52	59	null	Univ. de Zaragoza, Zaragoza, Spain
+52	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+52	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+52	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+52	63	null	null
+52	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+52	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+52	66	null	null
+52	67	null	Univ. de Zaragoza, Zaragoza
+52	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+52	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+52	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+52	71	null	null
+52	72	null	null
+52	73	null	null
+53	54	null	null
+53	55	null	Univ. de Zaragoza, Zaragoza, Spain
+53	56	null	null
+53	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+53	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+53	59	null	Univ. de Zaragoza, Zaragoza, Spain
+53	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+53	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+53	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+53	63	null	null
+53	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+53	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+53	66	null	null
+53	67	null	Univ. de Zaragoza, Zaragoza
+53	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+53	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+53	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+53	71	null	null
+53	72	null	null
+53	73	null	null
+54	55	null	Univ. de Zaragoza, Zaragoza, Spain
+54	56	null	null
+54	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+54	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+54	59	null	Univ. de Zaragoza, Zaragoza, Spain
+54	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+54	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+54	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+54	63	null	null
+54	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+54	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+54	66	null	null
+54	67	null	Univ. de Zaragoza, Zaragoza
+54	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+54	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+54	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+54	71	null	null
+54	72	null	null
+54	73	null	null
+55	56	Univ. de Zaragoza, Zaragoza, Spain	null
+55	57	Univ. de Zaragoza, Zaragoza, Spain	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+55	58	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+55	59	Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza, Spain
+55	60	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+55	61	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+55	62	Univ. de Zaragoza, Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+55	63	Univ. de Zaragoza, Zaragoza, Spain	null
+55	64	Univ. de Zaragoza, Zaragoza, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+55	65	Univ. de Zaragoza, Zaragoza, Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+55	66	Univ. de Zaragoza, Zaragoza, Spain	null
+55	67	Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+55	68	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+55	69	Univ. de Zaragoza, Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+55	70	Univ. de Zaragoza, Zaragoza, Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+55	71	Univ. de Zaragoza, Zaragoza, Spain	null
+55	72	Univ. de Zaragoza, Zaragoza, Spain	null
+55	73	Univ. de Zaragoza, Zaragoza, Spain	null
+56	57	null	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal
+56	58	null	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+56	59	null	Univ. de Zaragoza, Zaragoza, Spain
+56	60	null	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+56	61	null	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+56	62	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+56	63	null	null
+56	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+56	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+56	66	null	null
+56	67	null	Univ. de Zaragoza, Zaragoza
+56	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+56	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+56	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+56	71	null	null
+56	72	null	null
+56	73	null	null
+57	58	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.
+57	59	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Univ. de Zaragoza, Zaragoza, Spain
+57	60	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+57	61	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+57	62	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+57	63	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	null
+57	64	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+57	65	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+57	66	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	null
+57	67	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Univ. de Zaragoza, Zaragoza
+57	68	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+57	69	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+57	70	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+57	71	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	null
+57	72	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	null
+57	73	Departamento de Matemática, Universidade Nova de Lisboa, Quinta da Torre, 2829-516 Caparica, Portugal	null
+58	59	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza, Spain
+58	60	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+58	61	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+58	62	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+58	63	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+58	64	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+58	65	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+58	66	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+58	67	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Univ. de Zaragoza, Zaragoza
+58	68	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+58	69	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+58	70	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+58	71	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+58	72	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+58	73	Dept. de Ingenieria Electr. e Inf., Zaragoza Univ.	null
+59	60	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.
+59	61	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+59	62	Univ. de Zaragoza, Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+59	63	Univ. de Zaragoza, Zaragoza, Spain	null
+59	64	Univ. de Zaragoza, Zaragoza, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+59	65	Univ. de Zaragoza, Zaragoza, Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+59	66	Univ. de Zaragoza, Zaragoza, Spain	null
+59	67	Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+59	68	Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+59	69	Univ. de Zaragoza, Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+59	70	Univ. de Zaragoza, Zaragoza, Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+59	71	Univ. de Zaragoza, Zaragoza, Spain	null
+59	72	Univ. de Zaragoza, Zaragoza, Spain	null
+59	73	Univ. de Zaragoza, Zaragoza, Spain	null
+60	61	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain
+60	62	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+60	63	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	null
+60	64	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+60	65	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+60	66	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	null
+60	67	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Univ. de Zaragoza, Zaragoza
+60	68	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+60	69	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+60	70	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+60	71	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	null
+60	72	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	null
+60	73	Dept. de Inf. & Ingenieria de Sistemas, Zaragoza Univ.	null
+61	62	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain
+61	63	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	null
+61	64	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+61	65	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+61	66	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	null
+61	67	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+61	68	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+61	69	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+61	70	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+61	71	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	null
+61	72	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	null
+61	73	Dept. de Informatica e Ingenieria de Sistemas, Univ. de Zaragoza, Spain	null
+62	63	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	null
+62	64	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+62	65	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+62	66	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	null
+62	67	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	Univ. de Zaragoza, Zaragoza
+62	68	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+62	69	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+62	70	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+62	71	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	null
+62	72	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	null
+62	73	Instituto de Investigación en Ingeniería de Aragón (I3A), Departamento de Informática e Ingeniería de Sistemas, Centro Politécnico Superior, Universidad de Zaragoza, Saragossa, Spain	null
+63	64	null	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain
+63	65	null	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+63	66	null	null
+63	67	null	Univ. de Zaragoza, Zaragoza
+63	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+63	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+63	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+63	71	null	null
+63	72	null	null
+63	73	null	null
+64	65	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA
+64	66	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	null
+64	67	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	Univ. de Zaragoza, Zaragoza
+64	68	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+64	69	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+64	70	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+64	71	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	null
+64	72	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	null
+64	73	Dep. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza, Spain	null
+65	66	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	null
+65	67	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	Univ. de Zaragoza, Zaragoza
+65	68	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+65	69	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+65	70	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+65	71	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	null
+65	72	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	null
+65	73	Center for Inf. & Syst. Eng., Boston Univ., Brookline, MA, USA	null
+66	67	null	Univ. de Zaragoza, Zaragoza
+66	68	null	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+66	69	null	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+66	70	null	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+66	71	null	null
+66	72	null	null
+66	73	null	null
+67	68	Univ. de Zaragoza, Zaragoza	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza
+67	69	Univ. de Zaragoza, Zaragoza	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+67	70	Univ. de Zaragoza, Zaragoza	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+67	71	Univ. de Zaragoza, Zaragoza	null
+67	72	Univ. de Zaragoza, Zaragoza	null
+67	73	Univ. de Zaragoza, Zaragoza	null
+68	69	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018
+68	70	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+68	71	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza	null
+68	72	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza	null
+68	73	Dept. de Inf. e Ing. de Sist., Univ. de Zaragoza, Zaragoza	null
+69	70	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015
+69	71	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018	null
+69	72	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018	null
+69	73	Instituto de Investigación en Ingeniería de Aragón (I3A), Universidad de Zaragoza, Zaragoza, Spain 50018	null
+70	71	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015	null
+70	72	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015	null
+70	73	Dep. de Informática e Ingeniería de Sistemas, Zaragoza, Spain 50015	null
+71	72	null	null
+71	73	null	null
+72	73	null	null

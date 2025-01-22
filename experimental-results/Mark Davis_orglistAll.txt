@@ -1,0 +1,276 @@
+0	1	Dublin Inst. of Technol., Dublin	Commun. Network Res. Inst., Dublin
+0	2	Dublin Inst. of Technol., Dublin	null
+0	3	Dublin Inst. of Technol., Dublin	null
+0	4	Dublin Inst. of Technol., Dublin	null
+0	5	Dublin Inst. of Technol., Dublin	null
+0	6	Dublin Inst. of Technol., Dublin	null
+0	7	Dublin Inst. of Technol., Dublin	null
+0	8	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Ireland
+0	9	Dublin Inst. of Technol., Dublin	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+0	10	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology
+0	11	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, IRELAND
+0	12	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Dublin, Ireland
+0	13	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology
+0	14	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Ireland
+0	15	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Dublin, Ireland
+0	16	Dublin Inst. of Technol., Dublin	CNRI, Dublin
+0	17	Dublin Inst. of Technol., Dublin	null
+0	18	Dublin Inst. of Technol., Dublin	null
+0	19	Dublin Inst. of Technol., Dublin	null
+0	20	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Dublin, Ireland
+0	21	Dublin Inst. of Technol., Dublin	The Unicode Consortium
+0	22	Dublin Inst. of Technol., Dublin	null
+0	23	Dublin Inst. of Technol., Dublin	Intermetrics, Inc., Cambridge, Mass.
+1	2	Commun. Network Res. Inst., Dublin	null
+1	3	Commun. Network Res. Inst., Dublin	null
+1	4	Commun. Network Res. Inst., Dublin	null
+1	5	Commun. Network Res. Inst., Dublin	null
+1	6	Commun. Network Res. Inst., Dublin	null
+1	7	Commun. Network Res. Inst., Dublin	null
+1	8	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology, Ireland
+1	9	Commun. Network Res. Inst., Dublin	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+1	10	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology
+1	11	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology, IRELAND
+1	12	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology, Dublin, Ireland
+1	13	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology
+1	14	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology, Ireland
+1	15	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology, Dublin, Ireland
+1	16	Commun. Network Res. Inst., Dublin	CNRI, Dublin
+1	17	Commun. Network Res. Inst., Dublin	null
+1	18	Commun. Network Res. Inst., Dublin	null
+1	19	Commun. Network Res. Inst., Dublin	null
+1	20	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology, Dublin, Ireland
+1	21	Commun. Network Res. Inst., Dublin	The Unicode Consortium
+1	22	Commun. Network Res. Inst., Dublin	null
+1	23	Commun. Network Res. Inst., Dublin	Intermetrics, Inc., Cambridge, Mass.
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	Dublin Institute of Technology, Ireland
+2	9	null	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+2	10	null	Dublin Institute of Technology
+2	11	null	Dublin Institute of Technology, IRELAND
+2	12	null	Dublin Institute of Technology, Dublin, Ireland
+2	13	null	Dublin Institute of Technology
+2	14	null	Dublin Institute of Technology, Ireland
+2	15	null	Dublin Institute of Technology, Dublin, Ireland
+2	16	null	CNRI, Dublin
+2	17	null	null
+2	18	null	null
+2	19	null	null
+2	20	null	Dublin Institute of Technology, Dublin, Ireland
+2	21	null	The Unicode Consortium
+2	22	null	null
+2	23	null	Intermetrics, Inc., Cambridge, Mass.
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	Dublin Institute of Technology, Ireland
+3	9	null	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+3	10	null	Dublin Institute of Technology
+3	11	null	Dublin Institute of Technology, IRELAND
+3	12	null	Dublin Institute of Technology, Dublin, Ireland
+3	13	null	Dublin Institute of Technology
+3	14	null	Dublin Institute of Technology, Ireland
+3	15	null	Dublin Institute of Technology, Dublin, Ireland
+3	16	null	CNRI, Dublin
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	Dublin Institute of Technology, Dublin, Ireland
+3	21	null	The Unicode Consortium
+3	22	null	null
+3	23	null	Intermetrics, Inc., Cambridge, Mass.
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	Dublin Institute of Technology, Ireland
+4	9	null	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+4	10	null	Dublin Institute of Technology
+4	11	null	Dublin Institute of Technology, IRELAND
+4	12	null	Dublin Institute of Technology, Dublin, Ireland
+4	13	null	Dublin Institute of Technology
+4	14	null	Dublin Institute of Technology, Ireland
+4	15	null	Dublin Institute of Technology, Dublin, Ireland
+4	16	null	CNRI, Dublin
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	Dublin Institute of Technology, Dublin, Ireland
+4	21	null	The Unicode Consortium
+4	22	null	null
+4	23	null	Intermetrics, Inc., Cambridge, Mass.
+5	6	null	null
+5	7	null	null
+5	8	null	Dublin Institute of Technology, Ireland
+5	9	null	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+5	10	null	Dublin Institute of Technology
+5	11	null	Dublin Institute of Technology, IRELAND
+5	12	null	Dublin Institute of Technology, Dublin, Ireland
+5	13	null	Dublin Institute of Technology
+5	14	null	Dublin Institute of Technology, Ireland
+5	15	null	Dublin Institute of Technology, Dublin, Ireland
+5	16	null	CNRI, Dublin
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	Dublin Institute of Technology, Dublin, Ireland
+5	21	null	The Unicode Consortium
+5	22	null	null
+5	23	null	Intermetrics, Inc., Cambridge, Mass.
+6	7	null	null
+6	8	null	Dublin Institute of Technology, Ireland
+6	9	null	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+6	10	null	Dublin Institute of Technology
+6	11	null	Dublin Institute of Technology, IRELAND
+6	12	null	Dublin Institute of Technology, Dublin, Ireland
+6	13	null	Dublin Institute of Technology
+6	14	null	Dublin Institute of Technology, Ireland
+6	15	null	Dublin Institute of Technology, Dublin, Ireland
+6	16	null	CNRI, Dublin
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	Dublin Institute of Technology, Dublin, Ireland
+6	21	null	The Unicode Consortium
+6	22	null	null
+6	23	null	Intermetrics, Inc., Cambridge, Mass.
+7	8	null	Dublin Institute of Technology, Ireland
+7	9	null	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+7	10	null	Dublin Institute of Technology
+7	11	null	Dublin Institute of Technology, IRELAND
+7	12	null	Dublin Institute of Technology, Dublin, Ireland
+7	13	null	Dublin Institute of Technology
+7	14	null	Dublin Institute of Technology, Ireland
+7	15	null	Dublin Institute of Technology, Dublin, Ireland
+7	16	null	CNRI, Dublin
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	Dublin Institute of Technology, Dublin, Ireland
+7	21	null	The Unicode Consortium
+7	22	null	null
+7	23	null	Intermetrics, Inc., Cambridge, Mass.
+8	9	Dublin Institute of Technology, Ireland	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.
+8	10	Dublin Institute of Technology, Ireland	Dublin Institute of Technology
+8	11	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, IRELAND
+8	12	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+8	13	Dublin Institute of Technology, Ireland	Dublin Institute of Technology
+8	14	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Ireland
+8	15	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+8	16	Dublin Institute of Technology, Ireland	CNRI, Dublin
+8	17	Dublin Institute of Technology, Ireland	null
+8	18	Dublin Institute of Technology, Ireland	null
+8	19	Dublin Institute of Technology, Ireland	null
+8	20	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+8	21	Dublin Institute of Technology, Ireland	The Unicode Consortium
+8	22	Dublin Institute of Technology, Ireland	null
+8	23	Dublin Institute of Technology, Ireland	Intermetrics, Inc., Cambridge, Mass.
+9	10	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Dublin Institute of Technology
+9	11	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Dublin Institute of Technology, IRELAND
+9	12	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Dublin Institute of Technology, Dublin, Ireland
+9	13	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Dublin Institute of Technology
+9	14	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Dublin Institute of Technology, Ireland
+9	15	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Dublin Institute of Technology, Dublin, Ireland
+9	16	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	CNRI, Dublin
+9	17	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	null
+9	18	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	null
+9	19	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	null
+9	20	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Dublin Institute of Technology, Dublin, Ireland
+9	21	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	The Unicode Consortium
+9	22	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	null
+9	23	Sch. of Electron. & Commun. Eng., Dublin Inst. of Technol.	Intermetrics, Inc., Cambridge, Mass.
+10	11	Dublin Institute of Technology	Dublin Institute of Technology, IRELAND
+10	12	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+10	13	Dublin Institute of Technology	Dublin Institute of Technology
+10	14	Dublin Institute of Technology	Dublin Institute of Technology, Ireland
+10	15	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+10	16	Dublin Institute of Technology	CNRI, Dublin
+10	17	Dublin Institute of Technology	null
+10	18	Dublin Institute of Technology	null
+10	19	Dublin Institute of Technology	null
+10	20	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+10	21	Dublin Institute of Technology	The Unicode Consortium
+10	22	Dublin Institute of Technology	null
+10	23	Dublin Institute of Technology	Intermetrics, Inc., Cambridge, Mass.
+11	12	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Dublin, Ireland
+11	13	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology
+11	14	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Ireland
+11	15	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Dublin, Ireland
+11	16	Dublin Institute of Technology, IRELAND	CNRI, Dublin
+11	17	Dublin Institute of Technology, IRELAND	null
+11	18	Dublin Institute of Technology, IRELAND	null
+11	19	Dublin Institute of Technology, IRELAND	null
+11	20	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Dublin, Ireland
+11	21	Dublin Institute of Technology, IRELAND	The Unicode Consortium
+11	22	Dublin Institute of Technology, IRELAND	null
+11	23	Dublin Institute of Technology, IRELAND	Intermetrics, Inc., Cambridge, Mass.
+12	13	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology
+12	14	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Ireland
+12	15	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Dublin, Ireland
+12	16	Dublin Institute of Technology, Dublin, Ireland	CNRI, Dublin
+12	17	Dublin Institute of Technology, Dublin, Ireland	null
+12	18	Dublin Institute of Technology, Dublin, Ireland	null
+12	19	Dublin Institute of Technology, Dublin, Ireland	null
+12	20	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Dublin, Ireland
+12	21	Dublin Institute of Technology, Dublin, Ireland	The Unicode Consortium
+12	22	Dublin Institute of Technology, Dublin, Ireland	null
+12	23	Dublin Institute of Technology, Dublin, Ireland	Intermetrics, Inc., Cambridge, Mass.
+13	14	Dublin Institute of Technology	Dublin Institute of Technology, Ireland
+13	15	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+13	16	Dublin Institute of Technology	CNRI, Dublin
+13	17	Dublin Institute of Technology	null
+13	18	Dublin Institute of Technology	null
+13	19	Dublin Institute of Technology	null
+13	20	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+13	21	Dublin Institute of Technology	The Unicode Consortium
+13	22	Dublin Institute of Technology	null
+13	23	Dublin Institute of Technology	Intermetrics, Inc., Cambridge, Mass.
+14	15	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+14	16	Dublin Institute of Technology, Ireland	CNRI, Dublin
+14	17	Dublin Institute of Technology, Ireland	null
+14	18	Dublin Institute of Technology, Ireland	null
+14	19	Dublin Institute of Technology, Ireland	null
+14	20	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+14	21	Dublin Institute of Technology, Ireland	The Unicode Consortium
+14	22	Dublin Institute of Technology, Ireland	null
+14	23	Dublin Institute of Technology, Ireland	Intermetrics, Inc., Cambridge, Mass.
+15	16	Dublin Institute of Technology, Dublin, Ireland	CNRI, Dublin
+15	17	Dublin Institute of Technology, Dublin, Ireland	null
+15	18	Dublin Institute of Technology, Dublin, Ireland	null
+15	19	Dublin Institute of Technology, Dublin, Ireland	null
+15	20	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Dublin, Ireland
+15	21	Dublin Institute of Technology, Dublin, Ireland	The Unicode Consortium
+15	22	Dublin Institute of Technology, Dublin, Ireland	null
+15	23	Dublin Institute of Technology, Dublin, Ireland	Intermetrics, Inc., Cambridge, Mass.
+16	17	CNRI, Dublin	null
+16	18	CNRI, Dublin	null
+16	19	CNRI, Dublin	null
+16	20	CNRI, Dublin	Dublin Institute of Technology, Dublin, Ireland
+16	21	CNRI, Dublin	The Unicode Consortium
+16	22	CNRI, Dublin	null
+16	23	CNRI, Dublin	Intermetrics, Inc., Cambridge, Mass.
+17	18	null	null
+17	19	null	null
+17	20	null	Dublin Institute of Technology, Dublin, Ireland
+17	21	null	The Unicode Consortium
+17	22	null	null
+17	23	null	Intermetrics, Inc., Cambridge, Mass.
+18	19	null	null
+18	20	null	Dublin Institute of Technology, Dublin, Ireland
+18	21	null	The Unicode Consortium
+18	22	null	null
+18	23	null	Intermetrics, Inc., Cambridge, Mass.
+19	20	null	Dublin Institute of Technology, Dublin, Ireland
+19	21	null	The Unicode Consortium
+19	22	null	null
+19	23	null	Intermetrics, Inc., Cambridge, Mass.
+20	21	Dublin Institute of Technology, Dublin, Ireland	The Unicode Consortium
+20	22	Dublin Institute of Technology, Dublin, Ireland	null
+20	23	Dublin Institute of Technology, Dublin, Ireland	Intermetrics, Inc., Cambridge, Mass.
+21	22	The Unicode Consortium	null
+21	23	The Unicode Consortium	Intermetrics, Inc., Cambridge, Mass.
+22	23	null	Intermetrics, Inc., Cambridge, Mass.

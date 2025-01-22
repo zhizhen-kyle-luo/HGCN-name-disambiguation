@@ -1,0 +1,58 @@
+3	4	COMPSAC	COMPSAC
+3	5	COMPSAC	COMPSAC Workshops
+4	5	COMPSAC	COMPSAC Workshops
+10	11	EEE	EEE
+19	20	ICDE Workshops	ICDE
+19	21	ICDE Workshops	ICDE
+19	22	ICDE Workshops	ICDE
+20	21	ICDE	ICDE
+20	22	ICDE	ICDE
+21	22	ICDE	ICDE
+23	24	ICEIS (4)	ICEIS (4)
+26	27	ICIP (1)	ICIP
+29	30	IPDPS	IPDPS
+32	33	ISCC	ISCC
+32	34	ISCC	ISCC
+32	35	ISCC	ISCC
+33	34	ISCC	ISCC
+33	35	ISCC	ISCC
+34	35	ISCC	ISCC
+36	37	ISNN (2)	ISNN (2)
+38	39	ITCC (1)	ITCC (1)
+46	47	SAC	SAC
+46	48	SAC	SAC
+47	48	SAC	SAC
+49	50	SEC	SEC
+49	103	SEC	SEC
+50	103	SEC	SEC
+56	57	VLDB	VLDB
+58	59	Web Intelligence	Web Intelligence
+58	60	Web Intelligence	Web Intelligence
+59	60	Web Intelligence	Web Intelligence
+64	65	IAS	IAS
+64	66	IAS	IAS
+65	66	IAS	IAS
+68	100	Bioinformatics	BMC Bioinformatics
+69	70	Comput. J.	Comput. J.
+71	72	Computer Networks	Computer Networks
+71	73	Computer Networks	Computer Networks
+72	73	Computer Networks	Computer Networks
+75	76	Data Science Journal	Data Science Journal
+82	83	Journal of Systems and Software	Journal of Systems and Software
+82	84	Journal of Systems and Software	Journal of Systems and Software
+83	84	Journal of Systems and Software	Journal of Systems and Software
+89	90	IEEE Transactions on Image Processing	IEEE Transactions on Image Processing
+89	91	IEEE Transactions on Image Processing	IEEE Transactions on Image Processing
+90	91	IEEE Transactions on Image Processing	IEEE Transactions on Image Processing
+92	93	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+92	94	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+92	95	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+92	96	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+93	94	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+93	95	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+93	96	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+94	95	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+94	96	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+95	96	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+98	99	Complex (1)	Complex (1)
+124	125	Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01	Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 02

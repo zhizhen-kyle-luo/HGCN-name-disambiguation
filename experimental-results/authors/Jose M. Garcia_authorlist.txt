@@ -1,0 +1,1036 @@
+0	1	Manuel E. Acacio	Manuel E. Acacio
+0	3	Manuel E. Acacio	Manuel E. Acacio
+0	4	Manuel E. Acacio	Manuel E. Acacio
+0	6	Manuel E. Acacio	Manuel E. Acacio
+0	6	Jose Duato	Jose Duato
+0	8	Jose Gonzalez	Jose Gonzalez
+0	8	Jose Duato	Jose Duato
+0	11	Manuel E. Acacio	Manuel E. Acacio
+0	13	Jose Gonzalez	Jose Gonzalez
+0	14	Jose Duato	Jose Duato
+0	15	Manuel E. Acacio	Manuel E. Acacio
+0	16	Manuel E. Acacio	Manuel E. Acacio
+0	17	Manuel E. Acacio	Manuel E. Acacio
+0	17	Jose Duato	Jose Duato
+0	19	Manuel E. Acacio	Manuel E. Acacio
+0	19	Jose Gonzalez	Jose Gonzalez
+0	19	Jose Duato	Jose Duato
+0	20	Manuel E. Acacio	Manuel E. Acacio
+0	20	Jose Duato	Jose Duato
+0	21	Manuel E. Acacio	Manuel E. Acacio
+0	24	Manuel E. Acacio	Manuel E. Acacio
+0	25	Jose Gonzalez	Jose Gonzalez
+0	30	Manuel E. Acacio	Manuel E. Acacio
+0	30	Jose Gonzalez	Jose Gonzalez
+0	30	Jose Duato	Jose Duato
+0	31	Jose Duato	Jose Duato
+0	32	Manuel E. Acacio	Manuel E. Acacio
+0	35	Manuel E. Acacio	Manuel E. Acacio
+0	39	Jose Duato	Jose Duato
+0	45	Manuel E. Acacio	Manuel E. Acacio
+0	45	Jose Gonzalez	Jose Gonzalez
+0	45	Jose Duato	Jose Duato
+0	46	Jose Gonzalez	Jose Gonzalez
+0	47	Manuel E. Acacio	Manuel E. Acacio
+0	48	Manuel E. Acacio	Manuel E. Acacio
+0	49	Manuel E. Acacio	Manuel E. Acacio
+0	50	Manuel E. Acacio	Manuel E. Acacio
+0	55	Manuel E. Acacio	Manuel E. Acacio
+0	56	Manuel E. Acacio	Manuel E. Acacio
+0	56	Jose Gonzalez	Jose Gonzalez
+0	56	Jose Duato	Jose Duato
+0	60	Manuel E. Acacio	Manuel E. Acacio
+0	61	Manuel E. Acacio	Manuel E. Acacio
+0	62	Manuel E. Acacio	Manuel E. Acacio
+0	63	Manuel E. Acacio	Manuel E. Acacio
+0	63	Jose Gonzalez	Jose Gonzalez
+0	66	Manuel E. Acacio	Manuel E. Acacio
+0	66	Jose Gonzalez	Jose Gonzalez
+0	66	Jose Duato	Jose Duato
+0	67	Manuel E. Acacio	Manuel E. Acacio
+0	67	Jose Gonzalez	Jose Gonzalez
+0	67	Jose Duato	Jose Duato
+0	68	Manuel E. Acacio	Manuel E. Acacio
+0	68	Jose Duato	Jose Duato
+0	69	Jose Gonzalez	Jose Gonzalez
+0	70	Jose Duato	Jose Duato
+0	71	Jose Gonzalez	Jose Gonzalez
+0	72	Manuel E. Acacio	Manuel E. Acacio
+0	77	Manuel E. Acacio	Manuel E. Acacio
+0	77	Jose Duato	Jose Duato
+0	78	Jose Duato	Jose Duato
+0	80	Manuel E. Acacio	Manuel E. Acacio
+0	81	Manuel E. Acacio	Manuel E. Acacio
+1	3	Manuel E. Acacio	Manuel E. Acacio
+1	4	Manuel E. Acacio	Manuel E. Acacio
+1	6	Manuel E. Acacio	Manuel E. Acacio
+1	11	Manuel E. Acacio	Manuel E. Acacio
+1	15	Manuel E. Acacio	Manuel E. Acacio
+1	16	Manuel E. Acacio	Manuel E. Acacio
+1	17	Manuel E. Acacio	Manuel E. Acacio
+1	19	Manuel E. Acacio	Manuel E. Acacio
+1	20	Manuel E. Acacio	Manuel E. Acacio
+1	21	Manuel E. Acacio	Manuel E. Acacio
+1	24	Manuel E. Acacio	Manuel E. Acacio
+1	27	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+1	29	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+1	30	Manuel E. Acacio	Manuel E. Acacio
+1	32	Manuel E. Acacio	Manuel E. Acacio
+1	32	Oscar Canovas Reverte	Oscar Canovas Reverte
+1	32	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+1	35	Manuel E. Acacio	Manuel E. Acacio
+1	45	Manuel E. Acacio	Manuel E. Acacio
+1	47	Manuel E. Acacio	Manuel E. Acacio
+1	48	Manuel E. Acacio	Manuel E. Acacio
+1	48	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+1	49	Manuel E. Acacio	Manuel E. Acacio
+1	49	Oscar Canovas Reverte	Oscar Canovas Reverte
+1	49	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+1	50	Manuel E. Acacio	Manuel E. Acacio
+1	50	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+1	55	Manuel E. Acacio	Manuel E. Acacio
+1	56	Manuel E. Acacio	Manuel E. Acacio
+1	60	Manuel E. Acacio	Manuel E. Acacio
+1	60	Oscar Canovas Reverte	Oscar Canovas Reverte
+1	60	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+1	61	Manuel E. Acacio	Manuel E. Acacio
+1	62	Manuel E. Acacio	Manuel E. Acacio
+1	63	Manuel E. Acacio	Manuel E. Acacio
+1	66	Manuel E. Acacio	Manuel E. Acacio
+1	67	Manuel E. Acacio	Manuel E. Acacio
+1	68	Manuel E. Acacio	Manuel E. Acacio
+1	72	Manuel E. Acacio	Manuel E. Acacio
+1	77	Manuel E. Acacio	Manuel E. Acacio
+1	80	Manuel E. Acacio	Manuel E. Acacio
+1	81	Manuel E. Acacio	Manuel E. Acacio
+1	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+2	10	Lorenzo Fernandez	Lorenzo Fernandez
+3	4	Alberto Ros	Alberto Ros
+3	4	Manuel E. Acacio	Manuel E. Acacio
+3	6	Manuel E. Acacio	Manuel E. Acacio
+3	11	Alberto Ros	Alberto Ros
+3	11	Manuel E. Acacio	Manuel E. Acacio
+3	15	Manuel E. Acacio	Manuel E. Acacio
+3	16	Alberto Ros	Alberto Ros
+3	16	Manuel E. Acacio	Manuel E. Acacio
+3	17	Manuel E. Acacio	Manuel E. Acacio
+3	19	Manuel E. Acacio	Manuel E. Acacio
+3	20	Manuel E. Acacio	Manuel E. Acacio
+3	21	Manuel E. Acacio	Manuel E. Acacio
+3	24	Manuel E. Acacio	Manuel E. Acacio
+3	30	Manuel E. Acacio	Manuel E. Acacio
+3	32	Manuel E. Acacio	Manuel E. Acacio
+3	35	Alberto Ros	Alberto Ros
+3	35	Manuel E. Acacio	Manuel E. Acacio
+3	45	Manuel E. Acacio	Manuel E. Acacio
+3	47	Manuel E. Acacio	Manuel E. Acacio
+3	48	Manuel E. Acacio	Manuel E. Acacio
+3	49	Manuel E. Acacio	Manuel E. Acacio
+3	50	Manuel E. Acacio	Manuel E. Acacio
+3	55	Manuel E. Acacio	Manuel E. Acacio
+3	56	Manuel E. Acacio	Manuel E. Acacio
+3	60	Manuel E. Acacio	Manuel E. Acacio
+3	61	Alberto Ros	Alberto Ros
+3	61	Manuel E. Acacio	Manuel E. Acacio
+3	62	Manuel E. Acacio	Manuel E. Acacio
+3	63	Manuel E. Acacio	Manuel E. Acacio
+3	66	Manuel E. Acacio	Manuel E. Acacio
+3	67	Manuel E. Acacio	Manuel E. Acacio
+3	68	Manuel E. Acacio	Manuel E. Acacio
+3	72	Alberto Ros	Alberto Ros
+3	72	Manuel E. Acacio	Manuel E. Acacio
+3	77	Manuel E. Acacio	Manuel E. Acacio
+3	80	Alberto Ros	Alberto Ros
+3	80	Manuel E. Acacio	Manuel E. Acacio
+3	81	Alberto Ros	Alberto Ros
+3	81	Manuel E. Acacio	Manuel E. Acacio
+4	6	Manuel E. Acacio	Manuel E. Acacio
+4	11	Alberto Ros	Alberto Ros
+4	11	Manuel E. Acacio	Manuel E. Acacio
+4	15	Manuel E. Acacio	Manuel E. Acacio
+4	16	Alberto Ros	Alberto Ros
+4	16	Manuel E. Acacio	Manuel E. Acacio
+4	17	Manuel E. Acacio	Manuel E. Acacio
+4	19	Manuel E. Acacio	Manuel E. Acacio
+4	20	Manuel E. Acacio	Manuel E. Acacio
+4	21	Manuel E. Acacio	Manuel E. Acacio
+4	24	Manuel E. Acacio	Manuel E. Acacio
+4	30	Manuel E. Acacio	Manuel E. Acacio
+4	32	Manuel E. Acacio	Manuel E. Acacio
+4	35	Alberto Ros	Alberto Ros
+4	35	Manuel E. Acacio	Manuel E. Acacio
+4	45	Manuel E. Acacio	Manuel E. Acacio
+4	47	Manuel E. Acacio	Manuel E. Acacio
+4	48	Manuel E. Acacio	Manuel E. Acacio
+4	49	Manuel E. Acacio	Manuel E. Acacio
+4	50	Manuel E. Acacio	Manuel E. Acacio
+4	55	Manuel E. Acacio	Manuel E. Acacio
+4	56	Manuel E. Acacio	Manuel E. Acacio
+4	60	Manuel E. Acacio	Manuel E. Acacio
+4	61	Alberto Ros	Alberto Ros
+4	61	Manuel E. Acacio	Manuel E. Acacio
+4	62	Manuel E. Acacio	Manuel E. Acacio
+4	63	Manuel E. Acacio	Manuel E. Acacio
+4	66	Manuel E. Acacio	Manuel E. Acacio
+4	67	Manuel E. Acacio	Manuel E. Acacio
+4	68	Manuel E. Acacio	Manuel E. Acacio
+4	72	Alberto Ros	Alberto Ros
+4	72	Manuel E. Acacio	Manuel E. Acacio
+4	77	Manuel E. Acacio	Manuel E. Acacio
+4	80	Alberto Ros	Alberto Ros
+4	80	Manuel E. Acacio	Manuel E. Acacio
+4	81	Alberto Ros	Alberto Ros
+4	81	Manuel E. Acacio	Manuel E. Acacio
+5	13	Juan L. Aragon	Juan L. Aragon
+5	25	Juan L. Aragon	Juan L. Aragon
+5	34	Juan M. Cebrian	Juan M. Cebrian
+5	34	Juan L. Aragon	Juan L. Aragon
+5	73	Juan L. Aragon	Juan L. Aragon
+5	74	Juan M. Cebrian	Juan M. Cebrian
+5	74	Juan L. Aragon	Juan L. Aragon
+5	74	Stefanos Kaxiras	Stefanos Kaxiras
+5	75	Juan L. Aragon	Juan L. Aragon
+6	8	Jose Duato	Jose Duato
+6	11	Manuel E. Acacio	Manuel E. Acacio
+6	14	Jose Duato	Jose Duato
+6	15	Manuel E. Acacio	Manuel E. Acacio
+6	16	Manuel E. Acacio	Manuel E. Acacio
+6	17	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+6	17	Manuel E. Acacio	Manuel E. Acacio
+6	17	Jose Duato	Jose Duato
+6	19	Manuel E. Acacio	Manuel E. Acacio
+6	19	Jose Duato	Jose Duato
+6	20	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+6	20	Manuel E. Acacio	Manuel E. Acacio
+6	20	Jose Duato	Jose Duato
+6	21	Manuel E. Acacio	Manuel E. Acacio
+6	24	Manuel E. Acacio	Manuel E. Acacio
+6	30	Manuel E. Acacio	Manuel E. Acacio
+6	30	Jose Duato	Jose Duato
+6	31	Jose Duato	Jose Duato
+6	32	Manuel E. Acacio	Manuel E. Acacio
+6	35	Manuel E. Acacio	Manuel E. Acacio
+6	39	Jose Duato	Jose Duato
+6	45	Manuel E. Acacio	Manuel E. Acacio
+6	45	Jose Duato	Jose Duato
+6	47	Manuel E. Acacio	Manuel E. Acacio
+6	48	Manuel E. Acacio	Manuel E. Acacio
+6	49	Manuel E. Acacio	Manuel E. Acacio
+6	50	Manuel E. Acacio	Manuel E. Acacio
+6	55	Manuel E. Acacio	Manuel E. Acacio
+6	56	Manuel E. Acacio	Manuel E. Acacio
+6	56	Jose Duato	Jose Duato
+6	60	Manuel E. Acacio	Manuel E. Acacio
+6	61	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+6	61	Manuel E. Acacio	Manuel E. Acacio
+6	62	Manuel E. Acacio	Manuel E. Acacio
+6	63	Manuel E. Acacio	Manuel E. Acacio
+6	66	Manuel E. Acacio	Manuel E. Acacio
+6	66	Jose Duato	Jose Duato
+6	67	Manuel E. Acacio	Manuel E. Acacio
+6	67	Jose Duato	Jose Duato
+6	68	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+6	68	Manuel E. Acacio	Manuel E. Acacio
+6	68	Jose Duato	Jose Duato
+6	70	Jose Duato	Jose Duato
+6	72	Manuel E. Acacio	Manuel E. Acacio
+6	77	Ricardo Fernandez Pascual	Ricardo Fernandez-Pascual
+6	77	Manuel E. Acacio	Manuel E. Acacio
+6	77	Jose Duato	Jose Duato
+6	78	Jose Duato	Jose Duato
+6	80	Manuel E. Acacio	Manuel E. Acacio
+6	81	Manuel E. Acacio	Manuel E. Acacio
+7	12	Diego Sevilla	Diego Sevilla
+7	12	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+7	26	Diego Sevilla	Diego Sevilla
+7	26	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+7	37	Diego Sevilla	Diego Sevilla
+7	37	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+7	38	Diego Sevilla	Diego Sevilla
+7	38	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+7	40	Diego Sevilla	Diego Sevilla
+7	40	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+7	44	Diego Sevilla	Diego Sevilla
+7	57	Diego Sevilla	Diego Sevilla
+8	13	Jose Gonzalez	Jose Gonzalez
+8	14	Jose Duato	Jose Duato
+8	17	Jose Duato	Jose Duato
+8	19	Jose Gonzalez	Jose Gonzalez
+8	19	Jose Duato	Jose Duato
+8	20	Jose Duato	Jose Duato
+8	25	Jose Gonzalez	Jose Gonzalez
+8	30	Jose Gonzalez	Jose Gonzalez
+8	30	Jose Duato	Jose Duato
+8	31	Jose Duato	Jose Duato
+8	39	Jose Duato	Jose Duato
+8	45	Jose Gonzalez	Jose Gonzalez
+8	45	Jose Duato	Jose Duato
+8	46	Gregorio Bernabe	Gregorio Bernabe
+8	46	Jose Gonzalez	Jose Gonzalez
+8	47	Gregorio Bernabe	Gregorio Bernabe
+8	56	Jose Gonzalez	Jose Gonzalez
+8	56	Jose Duato	Jose Duato
+8	63	Gregorio Bernabe	Gregorio Bernabe
+8	63	Jose Gonzalez	Jose Gonzalez
+8	66	Jose Gonzalez	Jose Gonzalez
+8	66	Jose Duato	Jose Duato
+8	67	Jose Gonzalez	Jose Gonzalez
+8	67	Jose Duato	Jose Duato
+8	68	Jose Duato	Jose Duato
+8	69	Gregorio Bernabe	Gregorio Bernabe
+8	69	Jose Gonzalez	Jose Gonzalez
+8	70	Jose Duato	Jose Duato
+8	71	Gregorio Bernabe	Gregorio Bernabe
+8	71	Jose Gonzalez	Jose Gonzalez
+8	77	Jose Duato	Jose Duato
+8	78	Jose Duato	Jose Duato
+9	41	A. Flores	A. Flores
+9	54	A. Flores	A. Flores
+11	15	Manuel E. Acacio	Manuel E. Acacio
+11	16	Alberto Ros	Alberto Ros
+11	16	Manuel E. Acacio	Manuel E. Acacio
+11	17	Manuel E. Acacio	Manuel E. Acacio
+11	19	Manuel E. Acacio	Manuel E. Acacio
+11	20	Manuel E. Acacio	Manuel E. Acacio
+11	21	Manuel E. Acacio	Manuel E. Acacio
+11	24	Manuel E. Acacio	Manuel E. Acacio
+11	30	Manuel E. Acacio	Manuel E. Acacio
+11	32	Manuel E. Acacio	Manuel E. Acacio
+11	35	Alberto Ros	Alberto Ros
+11	35	Manuel E. Acacio	Manuel E. Acacio
+11	45	Manuel E. Acacio	Manuel E. Acacio
+11	47	Manuel E. Acacio	Manuel E. Acacio
+11	48	Manuel E. Acacio	Manuel E. Acacio
+11	49	Manuel E. Acacio	Manuel E. Acacio
+11	50	Manuel E. Acacio	Manuel E. Acacio
+11	55	Manuel E. Acacio	Manuel E. Acacio
+11	56	Manuel E. Acacio	Manuel E. Acacio
+11	60	Manuel E. Acacio	Manuel E. Acacio
+11	61	Alberto Ros	Alberto Ros
+11	61	Manuel E. Acacio	Manuel E. Acacio
+11	62	Manuel E. Acacio	Manuel E. Acacio
+11	63	Manuel E. Acacio	Manuel E. Acacio
+11	66	Manuel E. Acacio	Manuel E. Acacio
+11	67	Manuel E. Acacio	Manuel E. Acacio
+11	68	Manuel E. Acacio	Manuel E. Acacio
+11	72	Alberto Ros	Alberto Ros
+11	72	Manuel E. Acacio	Manuel E. Acacio
+11	77	Manuel E. Acacio	Manuel E. Acacio
+11	80	Alberto Ros	Alberto Ros
+11	80	Manuel E. Acacio	Manuel E. Acacio
+11	81	Alberto Ros	Alberto Ros
+11	81	Manuel E. Acacio	Manuel E. Acacio
+12	26	Diego Sevilla	Diego Sevilla
+12	26	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+12	37	Diego Sevilla	Diego Sevilla
+12	37	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+12	38	Diego Sevilla	Diego Sevilla
+12	38	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+12	40	Diego Sevilla	Diego Sevilla
+12	40	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+12	44	Diego Sevilla	Diego Sevilla
+12	57	Diego Sevilla	Diego Sevilla
+13	19	Jose Gonzalez	Jose Gonzalez
+13	25	Juan L. Aragon	Juan L. Aragon
+13	25	Jose Gonzalez	Jose Gonzalez
+13	25	Antonio Gonzalez	Antonio Gonzalez
+13	30	Jose Gonzalez	Jose Gonzalez
+13	34	Juan L. Aragon	Juan L. Aragon
+13	45	Jose Gonzalez	Jose Gonzalez
+13	46	Jose Gonzalez	Jose Gonzalez
+13	56	Jose Gonzalez	Jose Gonzalez
+13	63	Jose Gonzalez	Jose Gonzalez
+13	66	Jose Gonzalez	Jose Gonzalez
+13	67	Jose Gonzalez	Jose Gonzalez
+13	69	Jose Gonzalez	Jose Gonzalez
+13	71	Jose Gonzalez	Jose Gonzalez
+13	73	Juan L. Aragon	Juan L. Aragon
+13	74	Juan L. Aragon	Juan L. Aragon
+13	75	Juan L. Aragon	Juan L. Aragon
+14	17	Jose Duato	Jose Duato
+14	19	Jose Duato	Jose Duato
+14	20	Jose Duato	Jose Duato
+14	30	Jose Duato	Jose Duato
+14	31	Jose Duato	Jose Duato
+14	39	Juan Fernandez	J. Fernandez
+14	39	Jose Duato	Jose Duato
+14	45	Jose Duato	Jose Duato
+14	53	Juan Fernandez	Juan Fernandez
+14	56	Jose Duato	Jose Duato
+14	66	Jose Duato	Jose Duato
+14	67	Jose Duato	Jose Duato
+14	68	Jose Duato	Jose Duato
+14	70	Jose Duato	Jose Duato
+14	77	Jose Duato	Jose Duato
+14	78	Jose Duato	Jose Duato
+15	16	Manuel E. Acacio	Manuel E. Acacio
+15	17	Manuel E. Acacio	Manuel E. Acacio
+15	19	Manuel E. Acacio	Manuel E. Acacio
+15	20	Manuel E. Acacio	Manuel E. Acacio
+15	21	Manuel E. Acacio	Manuel E. Acacio
+15	24	Manuel E. Acacio	Manuel E. Acacio
+15	30	Manuel E. Acacio	Manuel E. Acacio
+15	32	Manuel E. Acacio	Manuel E. Acacio
+15	35	Manuel E. Acacio	Manuel E. Acacio
+15	45	Manuel E. Acacio	Manuel E. Acacio
+15	47	Manuel E. Acacio	Manuel E. Acacio
+15	48	Manuel E. Acacio	Manuel E. Acacio
+15	49	Manuel E. Acacio	Manuel E. Acacio
+15	50	Manuel E. Acacio	Manuel E. Acacio
+15	55	Manuel E. Acacio	Manuel E. Acacio
+15	56	Manuel E. Acacio	Manuel E. Acacio
+15	60	Manuel E. Acacio	Manuel E. Acacio
+15	61	Manuel E. Acacio	Manuel E. Acacio
+15	62	Manuel E. Acacio	Manuel E. Acacio
+15	63	Manuel E. Acacio	Manuel E. Acacio
+15	66	Manuel E. Acacio	Manuel E. Acacio
+15	67	Manuel E. Acacio	Manuel E. Acacio
+15	68	Manuel E. Acacio	Manuel E. Acacio
+15	72	Manuel E. Acacio	Manuel E. Acacio
+15	77	Manuel E. Acacio	Manuel E. Acacio
+15	80	Manuel E. Acacio	Manuel E. Acacio
+15	81	Manuel E. Acacio	Manuel E. Acacio
+16	17	Manuel E. Acacio	Manuel E. Acacio
+16	19	Manuel E. Acacio	Manuel E. Acacio
+16	20	Manuel E. Acacio	Manuel E. Acacio
+16	21	Manuel E. Acacio	Manuel E. Acacio
+16	24	Manuel E. Acacio	Manuel E. Acacio
+16	30	Manuel E. Acacio	Manuel E. Acacio
+16	32	Manuel E. Acacio	Manuel E. Acacio
+16	35	Alberto Ros	Alberto Ros
+16	35	Manuel E. Acacio	Manuel E. Acacio
+16	45	Manuel E. Acacio	Manuel E. Acacio
+16	47	Manuel E. Acacio	Manuel E. Acacio
+16	48	Manuel E. Acacio	Manuel E. Acacio
+16	49	Manuel E. Acacio	Manuel E. Acacio
+16	50	Manuel E. Acacio	Manuel E. Acacio
+16	55	Manuel E. Acacio	Manuel E. Acacio
+16	56	Manuel E. Acacio	Manuel E. Acacio
+16	60	Manuel E. Acacio	Manuel E. Acacio
+16	61	Alberto Ros	Alberto Ros
+16	61	Manuel E. Acacio	Manuel E. Acacio
+16	62	Manuel E. Acacio	Manuel E. Acacio
+16	63	Manuel E. Acacio	Manuel E. Acacio
+16	66	Manuel E. Acacio	Manuel E. Acacio
+16	67	Manuel E. Acacio	Manuel E. Acacio
+16	68	Manuel E. Acacio	Manuel E. Acacio
+16	72	Alberto Ros	Alberto Ros
+16	72	Manuel E. Acacio	Manuel E. Acacio
+16	77	Manuel E. Acacio	Manuel E. Acacio
+16	80	Alberto Ros	Alberto Ros
+16	80	Manuel E. Acacio	Manuel E. Acacio
+16	81	Alberto Ros	Alberto Ros
+16	81	Manuel E. Acacio	Manuel E. Acacio
+17	19	Manuel E. Acacio	Manuel E. Acacio
+17	19	Jose Duato	Jose Duato
+17	20	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+17	20	Manuel E. Acacio	Manuel E. Acacio
+17	20	Jose Duato	Jose Duato
+17	21	Manuel E. Acacio	Manuel E. Acacio
+17	24	Manuel E. Acacio	Manuel E. Acacio
+17	30	Manuel E. Acacio	Manuel E. Acacio
+17	30	Jose Duato	Jose Duato
+17	31	Jose Duato	Jose Duato
+17	32	Manuel E. Acacio	Manuel E. Acacio
+17	35	Manuel E. Acacio	Manuel E. Acacio
+17	39	Jose Duato	Jose Duato
+17	45	Manuel E. Acacio	Manuel E. Acacio
+17	45	Jose Duato	Jose Duato
+17	47	Manuel E. Acacio	Manuel E. Acacio
+17	48	Manuel E. Acacio	Manuel E. Acacio
+17	49	Manuel E. Acacio	Manuel E. Acacio
+17	50	Manuel E. Acacio	Manuel E. Acacio
+17	55	Manuel E. Acacio	Manuel E. Acacio
+17	56	Manuel E. Acacio	Manuel E. Acacio
+17	56	Jose Duato	Jose Duato
+17	60	Manuel E. Acacio	Manuel E. Acacio
+17	61	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+17	61	Manuel E. Acacio	Manuel E. Acacio
+17	62	Manuel E. Acacio	Manuel E. Acacio
+17	63	Manuel E. Acacio	Manuel E. Acacio
+17	66	Manuel E. Acacio	Manuel E. Acacio
+17	66	Jose Duato	Jose Duato
+17	67	Manuel E. Acacio	Manuel E. Acacio
+17	67	Jose Duato	Jose Duato
+17	68	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+17	68	Manuel E. Acacio	Manuel E. Acacio
+17	68	Jose Duato	Jose Duato
+17	70	Jose Duato	Jose Duato
+17	72	Manuel E. Acacio	Manuel E. Acacio
+17	77	Ricardo Fernandez Pascual	Ricardo Fernandez-Pascual
+17	77	Manuel E. Acacio	Manuel E. Acacio
+17	77	Jose Duato	Jose Duato
+17	78	Jose Duato	Jose Duato
+17	80	Manuel E. Acacio	Manuel E. Acacio
+17	81	Manuel E. Acacio	Manuel E. Acacio
+18	22	Sebastian Lozano	Sebastian Lozano
+18	22	Fernando Guerrero	Fernando Guerrero
+18	36	Fernando Guerrero	Fernando Guerrero
+19	20	Manuel E. Acacio	Manuel E. Acacio
+19	20	Jose Duato	Jose Duato
+19	21	Manuel E. Acacio	Manuel E. Acacio
+19	24	Manuel E. Acacio	Manuel E. Acacio
+19	25	Jose Gonzalez	Jose Gonzalez
+19	30	Manuel E. Acacio	Manuel E. Acacio
+19	30	Jose Gonzalez	Jose Gonzalez
+19	30	Jose Duato	Jose Duato
+19	31	Jose Duato	Jose Duato
+19	32	Manuel E. Acacio	Manuel E. Acacio
+19	35	Manuel E. Acacio	Manuel E. Acacio
+19	39	Jose Duato	Jose Duato
+19	45	Manuel E. Acacio	Manuel E. Acacio
+19	45	Jose Gonzalez	Jose Gonzalez
+19	45	Jose Duato	Jose Duato
+19	46	Jose Gonzalez	Jose Gonzalez
+19	47	Manuel E. Acacio	Manuel E. Acacio
+19	48	Manuel E. Acacio	Manuel E. Acacio
+19	49	Manuel E. Acacio	Manuel E. Acacio
+19	50	Manuel E. Acacio	Manuel E. Acacio
+19	55	Manuel E. Acacio	Manuel E. Acacio
+19	56	Manuel E. Acacio	Manuel E. Acacio
+19	56	Jose Gonzalez	Jose Gonzalez
+19	56	Jose Duato	Jose Duato
+19	60	Manuel E. Acacio	Manuel E. Acacio
+19	61	Manuel E. Acacio	Manuel E. Acacio
+19	62	Manuel E. Acacio	Manuel E. Acacio
+19	63	Manuel E. Acacio	Manuel E. Acacio
+19	63	Jose Gonzalez	Jose Gonzalez
+19	66	Manuel E. Acacio	Manuel E. Acacio
+19	66	Jose Gonzalez	Jose Gonzalez
+19	66	Jose Duato	Jose Duato
+19	67	Manuel E. Acacio	Manuel E. Acacio
+19	67	Jose Gonzalez	Jose Gonzalez
+19	67	Jose Duato	Jose Duato
+19	68	Manuel E. Acacio	Manuel E. Acacio
+19	68	Jose Duato	Jose Duato
+19	69	Jose Gonzalez	Jose Gonzalez
+19	70	Jose Duato	Jose Duato
+19	71	Jose Gonzalez	Jose Gonzalez
+19	72	Manuel E. Acacio	Manuel E. Acacio
+19	77	Manuel E. Acacio	Manuel E. Acacio
+19	77	Jose Duato	Jose Duato
+19	78	Jose Duato	Jose Duato
+19	80	Manuel E. Acacio	Manuel E. Acacio
+19	81	Manuel E. Acacio	Manuel E. Acacio
+20	21	Manuel E. Acacio	Manuel E. Acacio
+20	24	Manuel E. Acacio	Manuel E. Acacio
+20	30	Manuel E. Acacio	Manuel E. Acacio
+20	30	Jose Duato	Jose Duato
+20	31	Jose Duato	Jose Duato
+20	32	Manuel E. Acacio	Manuel E. Acacio
+20	35	Manuel E. Acacio	Manuel E. Acacio
+20	39	Jose Duato	Jose Duato
+20	45	Manuel E. Acacio	Manuel E. Acacio
+20	45	Jose Duato	Jose Duato
+20	47	Manuel E. Acacio	Manuel E. Acacio
+20	48	Manuel E. Acacio	Manuel E. Acacio
+20	49	Manuel E. Acacio	Manuel E. Acacio
+20	50	Manuel E. Acacio	Manuel E. Acacio
+20	55	Manuel E. Acacio	Manuel E. Acacio
+20	56	Manuel E. Acacio	Manuel E. Acacio
+20	56	Jose Duato	Jose Duato
+20	60	Manuel E. Acacio	Manuel E. Acacio
+20	61	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+20	61	Manuel E. Acacio	Manuel E. Acacio
+20	62	Manuel E. Acacio	Manuel E. Acacio
+20	63	Manuel E. Acacio	Manuel E. Acacio
+20	66	Manuel E. Acacio	Manuel E. Acacio
+20	66	Jose Duato	Jose Duato
+20	67	Manuel E. Acacio	Manuel E. Acacio
+20	67	Jose Duato	Jose Duato
+20	68	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+20	68	Manuel E. Acacio	Manuel E. Acacio
+20	68	Jose Duato	Jose Duato
+20	70	Jose Duato	Jose Duato
+20	72	Manuel E. Acacio	Manuel E. Acacio
+20	77	Ricardo Fernandez Pascual	Ricardo Fernandez-Pascual
+20	77	Manuel E. Acacio	Manuel E. Acacio
+20	77	Jose Duato	Jose Duato
+20	78	Jose Duato	Jose Duato
+20	80	Manuel E. Acacio	Manuel E. Acacio
+20	81	Manuel E. Acacio	Manuel E. Acacio
+21	24	Francisco J. Villa	Francisco J. Villa
+21	24	Manuel E. Acacio	Manuel E. Acacio
+21	30	Manuel E. Acacio	Manuel E. Acacio
+21	32	Manuel E. Acacio	Manuel E. Acacio
+21	35	Manuel E. Acacio	Manuel E. Acacio
+21	45	Manuel E. Acacio	Manuel E. Acacio
+21	47	Manuel E. Acacio	Manuel E. Acacio
+21	48	Manuel E. Acacio	Manuel E. Acacio
+21	49	Manuel E. Acacio	Manuel E. Acacio
+21	50	Manuel E. Acacio	Manuel E. Acacio
+21	55	Francisco J. Villa	Francisco J. Villa
+21	55	Manuel E. Acacio	Manuel E. Acacio
+21	56	Manuel E. Acacio	Manuel E. Acacio
+21	60	Manuel E. Acacio	Manuel E. Acacio
+21	61	Manuel E. Acacio	Manuel E. Acacio
+21	62	Francisco J. Villa	Francisco J. Villa
+21	62	Manuel E. Acacio	Manuel E. Acacio
+21	63	Manuel E. Acacio	Manuel E. Acacio
+21	66	Manuel E. Acacio	Manuel E. Acacio
+21	67	Manuel E. Acacio	Manuel E. Acacio
+21	68	Manuel E. Acacio	Manuel E. Acacio
+21	72	Manuel E. Acacio	Manuel E. Acacio
+21	77	Manuel E. Acacio	Manuel E. Acacio
+21	80	Manuel E. Acacio	Manuel E. Acacio
+21	81	Manuel E. Acacio	Manuel E. Acacio
+22	36	Fernando Guerrero	Fernando Guerrero
+23	36	Pablo Cortes	Pablo Cortes
+23	58	Pablo Cortes	Pablo Cortes
+23	58	Luis Onieva	Luis Onieva
+23	59	Pablo Cortes	Pablo Cortes
+23	59	Luis Onieva	Luis Onieva
+23	59	Jesus Munuzuri	Jesus Munuzuri
+24	30	Manuel E. Acacio	Manuel E. Acacio
+24	32	Manuel E. Acacio	Manuel E. Acacio
+24	35	Manuel E. Acacio	Manuel E. Acacio
+24	45	Manuel E. Acacio	Manuel E. Acacio
+24	47	Manuel E. Acacio	Manuel E. Acacio
+24	48	Manuel E. Acacio	Manuel E. Acacio
+24	49	Manuel E. Acacio	Manuel E. Acacio
+24	50	Manuel E. Acacio	Manuel E. Acacio
+24	55	Francisco J. Villa	Francisco J. Villa
+24	55	Manuel E. Acacio	Manuel E. Acacio
+24	56	Manuel E. Acacio	Manuel E. Acacio
+24	60	Manuel E. Acacio	Manuel E. Acacio
+24	61	Manuel E. Acacio	Manuel E. Acacio
+24	62	Francisco J. Villa	Francisco J. Villa
+24	62	Manuel E. Acacio	Manuel E. Acacio
+24	63	Manuel E. Acacio	Manuel E. Acacio
+24	66	Manuel E. Acacio	Manuel E. Acacio
+24	67	Manuel E. Acacio	Manuel E. Acacio
+24	68	Manuel E. Acacio	Manuel E. Acacio
+24	72	Manuel E. Acacio	Manuel E. Acacio
+24	77	Manuel E. Acacio	Manuel E. Acacio
+24	80	Manuel E. Acacio	Manuel E. Acacio
+24	81	Manuel E. Acacio	Manuel E. Acacio
+25	30	Jose Gonzalez	Jose Gonzalez
+25	34	Juan L. Aragon	Juan L. Aragon
+25	45	Jose Gonzalez	Jose Gonzalez
+25	46	Jose Gonzalez	Jose Gonzalez
+25	56	Jose Gonzalez	Jose Gonzalez
+25	63	Jose Gonzalez	Jose Gonzalez
+25	66	Jose Gonzalez	Jose Gonzalez
+25	67	Jose Gonzalez	Jose Gonzalez
+25	69	Jose Gonzalez	Jose Gonzalez
+25	71	Jose Gonzalez	Jose Gonzalez
+25	73	Juan L. Aragon	Juan L. Aragon
+25	74	Juan L. Aragon	Juan L. Aragon
+25	75	Juan L. Aragon	Juan L. Aragon
+26	37	Diego Sevilla	Diego Sevilla
+26	37	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+26	38	Diego Sevilla	Diego Sevilla
+26	38	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+26	40	Diego Sevilla	Diego Sevilla
+26	40	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+26	44	Diego Sevilla	Diego Sevilla
+26	57	Diego Sevilla	Diego Sevilla
+27	29	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+27	29	Alberto Ruiz	Alberto Ruiz
+27	32	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+27	48	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+27	49	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+27	50	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+27	60	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+27	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+27	82	Alberto Ruiz	Alberto Ruiz
+28	54	Juan Piernas	Juan Piernas
+28	65	Juan Piernas	Juan Piernas
+28	65	Toni Cortes	Toni Cortes
+29	32	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+29	48	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+29	49	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+29	50	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+29	60	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+29	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+29	82	Alberto Ruiz	Alberto Ruiz
+29	82	Gines Garcia-Mateos	Gines Garcia-Mateos
+30	31	Jose Duato	Jose Duato
+30	32	Manuel E. Acacio	Manuel E. Acacio
+30	35	Manuel E. Acacio	Manuel E. Acacio
+30	39	Jose Duato	Jose Duato
+30	45	Manuel E. Acacio	Manuel E. Acacio
+30	45	Jose Gonzalez	Jose Gonzalez
+30	45	Jose Duato	Jose Duato
+30	46	Jose Gonzalez	Jose Gonzalez
+30	47	Manuel E. Acacio	Manuel E. Acacio
+30	48	Manuel E. Acacio	Manuel E. Acacio
+30	49	Manuel E. Acacio	Manuel E. Acacio
+30	50	Manuel E. Acacio	Manuel E. Acacio
+30	55	Manuel E. Acacio	Manuel E. Acacio
+30	56	Manuel E. Acacio	Manuel E. Acacio
+30	56	Jose Gonzalez	Jose Gonzalez
+30	56	Jose Duato	Jose Duato
+30	60	Manuel E. Acacio	Manuel E. Acacio
+30	61	Manuel E. Acacio	Manuel E. Acacio
+30	62	Manuel E. Acacio	Manuel E. Acacio
+30	63	Manuel E. Acacio	Manuel E. Acacio
+30	63	Jose Gonzalez	Jose Gonzalez
+30	66	Manuel E. Acacio	Manuel E. Acacio
+30	66	Jose Gonzalez	Jose Gonzalez
+30	66	Jose Duato	Jose Duato
+30	67	Manuel E. Acacio	Manuel E. Acacio
+30	67	Jose Gonzalez	Jose Gonzalez
+30	67	Jose Duato	Jose Duato
+30	68	Manuel E. Acacio	Manuel E. Acacio
+30	68	Jose Duato	Jose Duato
+30	69	Jose Gonzalez	Jose Gonzalez
+30	70	Jose Duato	Jose Duato
+30	71	Jose Gonzalez	Jose Gonzalez
+30	72	Manuel E. Acacio	Manuel E. Acacio
+30	77	Manuel E. Acacio	Manuel E. Acacio
+30	77	Jose Duato	Jose Duato
+30	78	Jose Duato	Jose Duato
+30	80	Manuel E. Acacio	Manuel E. Acacio
+30	81	Manuel E. Acacio	Manuel E. Acacio
+31	39	Joaquin Fernandez	J. Fernandez
+31	39	Jose Duato	Jose Duato
+31	43	Joaquin Fernandez	Joaquin Fernandez
+31	45	Jose Duato	Jose Duato
+31	56	Jose Duato	Jose Duato
+31	66	Jose Duato	Jose Duato
+31	67	Jose Duato	Jose Duato
+31	68	Jose Duato	Jose Duato
+31	70	Jose Duato	Jose Duato
+31	77	Jose Duato	Jose Duato
+31	78	Jose Duato	Jose Duato
+32	35	Manuel E. Acacio	Manuel E. Acacio
+32	45	Manuel E. Acacio	Manuel E. Acacio
+32	47	Manuel E. Acacio	Manuel E. Acacio
+32	48	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+32	48	Manuel E. Acacio	Manuel E. Acacio
+32	49	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+32	49	Manuel E. Acacio	Manuel E. Acacio
+32	49	Oscar Canovas Reverte	Oscar Canovas Reverte
+32	50	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+32	50	Manuel E. Acacio	Manuel E. Acacio
+32	55	Manuel E. Acacio	Manuel E. Acacio
+32	56	Manuel E. Acacio	Manuel E. Acacio
+32	60	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+32	60	Manuel E. Acacio	Manuel E. Acacio
+32	60	Oscar Canovas Reverte	Oscar Canovas Reverte
+32	61	Manuel E. Acacio	Manuel E. Acacio
+32	62	Manuel E. Acacio	Manuel E. Acacio
+32	63	Manuel E. Acacio	Manuel E. Acacio
+32	66	Manuel E. Acacio	Manuel E. Acacio
+32	67	Manuel E. Acacio	Manuel E. Acacio
+32	68	Manuel E. Acacio	Manuel E. Acacio
+32	72	Manuel E. Acacio	Manuel E. Acacio
+32	77	Manuel E. Acacio	Manuel E. Acacio
+32	80	Manuel E. Acacio	Manuel E. Acacio
+32	81	Manuel E. Acacio	Manuel E. Acacio
+32	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+33	42	Jose L. Sanchez	Jose L. Sanchez
+33	43	Jose L. Sanchez	Jose L. Sanchez
+33	76	Jose L. Sanchez	Jose L. Sanchez
+34	73	Juan L. Aragon	Juan L. Aragon
+34	74	Juan M. Cebrian	Juan M. Cebrian
+34	74	Juan L. Aragon	Juan L. Aragon
+34	75	Juan L. Aragon	Juan L. Aragon
+35	45	Manuel E. Acacio	Manuel E. Acacio
+35	47	Manuel E. Acacio	Manuel E. Acacio
+35	48	Manuel E. Acacio	Manuel E. Acacio
+35	49	Manuel E. Acacio	Manuel E. Acacio
+35	50	Manuel E. Acacio	Manuel E. Acacio
+35	55	Manuel E. Acacio	Manuel E. Acacio
+35	56	Manuel E. Acacio	Manuel E. Acacio
+35	60	Manuel E. Acacio	Manuel E. Acacio
+35	61	Alberto Ros	Alberto Ros
+35	61	Manuel E. Acacio	Manuel E. Acacio
+35	62	Manuel E. Acacio	Manuel E. Acacio
+35	63	Manuel E. Acacio	Manuel E. Acacio
+35	66	Manuel E. Acacio	Manuel E. Acacio
+35	67	Manuel E. Acacio	Manuel E. Acacio
+35	68	Manuel E. Acacio	Manuel E. Acacio
+35	72	Alberto Ros	Alberto Ros
+35	72	Manuel E. Acacio	Manuel E. Acacio
+35	77	Manuel E. Acacio	Manuel E. Acacio
+35	80	Alberto Ros	Alberto Ros
+35	80	Manuel E. Acacio	Manuel E. Acacio
+35	81	Alberto Ros	Alberto Ros
+35	81	Manuel E. Acacio	Manuel E. Acacio
+36	58	Pablo Cortes	Pablo Cortes
+36	59	Pablo Cortes	Pablo Cortes
+37	38	Diego Sevilla	Diego Sevilla
+37	38	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+37	40	Diego Sevilla	Diego Sevilla
+37	40	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+37	44	Diego Sevilla	Diego Sevilla
+37	57	Diego Sevilla	Diego Sevilla
+38	40	Diego Sevilla	Diego Sevilla
+38	40	Antonio F. Gomez-Skarmeta	Antonio F. Gomez-Skarmeta
+38	44	Diego Sevilla	Diego Sevilla
+38	57	Diego Sevilla	Diego Sevilla
+39	43	J. Fernandez	Joaquin Fernandez
+39	45	Jose Duato	Jose Duato
+39	53	J. Fernandez	Juan Fernandez
+39	56	Jose Duato	Jose Duato
+39	66	Jose Duato	Jose Duato
+39	67	Jose Duato	Jose Duato
+39	68	Jose Duato	Jose Duato
+39	70	Jose Duato	Jose Duato
+39	77	Jose Duato	Jose Duato
+39	78	Jose Duato	Jose Duato
+40	44	Diego Sevilla	Diego Sevilla
+40	57	Diego Sevilla	Diego Sevilla
+41	54	A. Flores	A. Flores
+42	43	Jose L. Sanchez	Jose L. Sanchez
+42	76	Jose L. Sanchez	Jose L. Sanchez
+43	76	Jose L. Sanchez	Jose L. Sanchez
+44	57	Diego Sevilla	Diego Sevilla
+44	57	Antonio Gomez	Antonio Gomez
+45	46	Jose Gonzalez	Jose Gonzalez
+45	47	Manuel E. Acacio	Manuel E. Acacio
+45	48	Manuel E. Acacio	Manuel E. Acacio
+45	49	Manuel E. Acacio	Manuel E. Acacio
+45	50	Manuel E. Acacio	Manuel E. Acacio
+45	55	Manuel E. Acacio	Manuel E. Acacio
+45	56	Manuel E. Acacio	Manuel E. Acacio
+45	56	Jose Gonzalez	Jose Gonzalez
+45	56	Jose Duato	Jose Duato
+45	60	Manuel E. Acacio	Manuel E. Acacio
+45	61	Manuel E. Acacio	Manuel E. Acacio
+45	62	Manuel E. Acacio	Manuel E. Acacio
+45	63	Manuel E. Acacio	Manuel E. Acacio
+45	63	Jose Gonzalez	Jose Gonzalez
+45	66	Manuel E. Acacio	Manuel E. Acacio
+45	66	Jose Gonzalez	Jose Gonzalez
+45	66	Jose Duato	Jose Duato
+45	67	Manuel E. Acacio	Manuel E. Acacio
+45	67	Jose Gonzalez	Jose Gonzalez
+45	67	Jose Duato	Jose Duato
+45	68	Manuel E. Acacio	Manuel E. Acacio
+45	68	Jose Duato	Jose Duato
+45	69	Jose Gonzalez	Jose Gonzalez
+45	70	Jose Duato	Jose Duato
+45	71	Jose Gonzalez	Jose Gonzalez
+45	72	Manuel E. Acacio	Manuel E. Acacio
+45	77	Manuel E. Acacio	Manuel E. Acacio
+45	77	Jose Duato	Jose Duato
+45	78	Jose Duato	Jose Duato
+45	80	Manuel E. Acacio	Manuel E. Acacio
+45	81	Manuel E. Acacio	Manuel E. Acacio
+46	47	Gregorio Bernabe	Gregorio Bernabe
+46	56	Jose Gonzalez	Jose Gonzalez
+46	63	Gregorio Bernabe	Gregorio Bernabe
+46	63	Jose Gonzalez	Jose Gonzalez
+46	66	Jose Gonzalez	Jose Gonzalez
+46	67	Jose Gonzalez	Jose Gonzalez
+46	69	Gregorio Bernabe	Gregorio Bernabe
+46	69	Jose Gonzalez	Jose Gonzalez
+46	71	Gregorio Bernabe	Gregorio Bernabe
+46	71	Jose Gonzalez	Jose Gonzalez
+47	48	Manuel E. Acacio	Manuel E. Acacio
+47	49	Manuel E. Acacio	Manuel E. Acacio
+47	50	Manuel E. Acacio	Manuel E. Acacio
+47	55	Manuel E. Acacio	Manuel E. Acacio
+47	56	Manuel E. Acacio	Manuel E. Acacio
+47	60	Manuel E. Acacio	Manuel E. Acacio
+47	61	Manuel E. Acacio	Manuel E. Acacio
+47	62	Manuel E. Acacio	Manuel E. Acacio
+47	63	Ricardo Fernandez	Ricardo Fernandez
+47	63	Gregorio Bernabe	Gregorio Bernabe
+47	63	Manuel E. Acacio	Manuel E. Acacio
+47	66	Manuel E. Acacio	Manuel E. Acacio
+47	67	Manuel E. Acacio	Manuel E. Acacio
+47	68	Manuel E. Acacio	Manuel E. Acacio
+47	69	Gregorio Bernabe	Gregorio Bernabe
+47	71	Gregorio Bernabe	Gregorio Bernabe
+47	72	Manuel E. Acacio	Manuel E. Acacio
+47	77	Manuel E. Acacio	Manuel E. Acacio
+47	80	Manuel E. Acacio	Manuel E. Acacio
+47	81	Manuel E. Acacio	Manuel E. Acacio
+48	49	Manuel E. Acacio	Manuel E. Acacio
+48	49	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+48	50	Manuel E. Acacio	Manuel E. Acacio
+48	50	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+48	55	Manuel E. Acacio	Manuel E. Acacio
+48	56	Manuel E. Acacio	Manuel E. Acacio
+48	60	Manuel E. Acacio	Manuel E. Acacio
+48	60	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+48	61	Manuel E. Acacio	Manuel E. Acacio
+48	62	Manuel E. Acacio	Manuel E. Acacio
+48	63	Manuel E. Acacio	Manuel E. Acacio
+48	66	Manuel E. Acacio	Manuel E. Acacio
+48	67	Manuel E. Acacio	Manuel E. Acacio
+48	68	Manuel E. Acacio	Manuel E. Acacio
+48	72	Manuel E. Acacio	Manuel E. Acacio
+48	77	Manuel E. Acacio	Manuel E. Acacio
+48	80	Manuel E. Acacio	Manuel E. Acacio
+48	81	Manuel E. Acacio	Manuel E. Acacio
+48	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+49	50	Manuel E. Acacio	Manuel E. Acacio
+49	50	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+49	55	Manuel E. Acacio	Manuel E. Acacio
+49	56	Manuel E. Acacio	Manuel E. Acacio
+49	60	Manuel E. Acacio	Manuel E. Acacio
+49	60	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+49	60	Oscar Canovas Reverte	Oscar Canovas Reverte
+49	61	Manuel E. Acacio	Manuel E. Acacio
+49	62	Manuel E. Acacio	Manuel E. Acacio
+49	63	Manuel E. Acacio	Manuel E. Acacio
+49	66	Manuel E. Acacio	Manuel E. Acacio
+49	67	Manuel E. Acacio	Manuel E. Acacio
+49	68	Manuel E. Acacio	Manuel E. Acacio
+49	72	Manuel E. Acacio	Manuel E. Acacio
+49	77	Manuel E. Acacio	Manuel E. Acacio
+49	80	Manuel E. Acacio	Manuel E. Acacio
+49	81	Manuel E. Acacio	Manuel E. Acacio
+49	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+50	55	Manuel E. Acacio	Manuel E. Acacio
+50	56	Manuel E. Acacio	Manuel E. Acacio
+50	60	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+50	60	Manuel E. Acacio	Manuel E. Acacio
+50	61	Manuel E. Acacio	Manuel E. Acacio
+50	62	Manuel E. Acacio	Manuel E. Acacio
+50	63	Manuel E. Acacio	Manuel E. Acacio
+50	66	Manuel E. Acacio	Manuel E. Acacio
+50	67	Manuel E. Acacio	Manuel E. Acacio
+50	68	Manuel E. Acacio	Manuel E. Acacio
+50	72	Manuel E. Acacio	Manuel E. Acacio
+50	77	Manuel E. Acacio	Manuel E. Acacio
+50	80	Manuel E. Acacio	Manuel E. Acacio
+50	81	Manuel E. Acacio	Manuel E. Acacio
+50	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+51	52	Jose A. Gallud	Jose A. Gallud
+51	52	Jesus D. Garcia-Consuegra	Jesus D. Garcia-Consuegra
+51	64	Jose A. Gallud	Jose A. Gallud
+52	64	Jose A. Gallud	Jose A. Gallud
+54	65	Juan Piernas	Juan Piernas
+55	56	Manuel E. Acacio	Manuel E. Acacio
+55	60	Manuel E. Acacio	Manuel E. Acacio
+55	61	Manuel E. Acacio	Manuel E. Acacio
+55	62	Francisco J. Villa	Francisco J. Villa
+55	62	Manuel E. Acacio	Manuel E. Acacio
+55	63	Manuel E. Acacio	Manuel E. Acacio
+55	66	Manuel E. Acacio	Manuel E. Acacio
+55	67	Manuel E. Acacio	Manuel E. Acacio
+55	68	Manuel E. Acacio	Manuel E. Acacio
+55	72	Manuel E. Acacio	Manuel E. Acacio
+55	77	Manuel E. Acacio	Manuel E. Acacio
+55	80	Manuel E. Acacio	Manuel E. Acacio
+55	81	Manuel E. Acacio	Manuel E. Acacio
+56	60	Manuel E. Acacio	Manuel E. Acacio
+56	61	Manuel E. Acacio	Manuel E. Acacio
+56	62	Manuel E. Acacio	Manuel E. Acacio
+56	63	Manuel E. Acacio	Manuel E. Acacio
+56	63	Jose Gonzalez	Jose Gonzalez
+56	66	Manuel E. Acacio	Manuel E. Acacio
+56	66	Jose Gonzalez	Jose Gonzalez
+56	66	Jose Duato	Jose Duato
+56	67	Manuel E. Acacio	Manuel E. Acacio
+56	67	Jose Gonzalez	Jose Gonzalez
+56	67	Jose Duato	Jose Duato
+56	68	Manuel E. Acacio	Manuel E. Acacio
+56	68	Jose Duato	Jose Duato
+56	69	Jose Gonzalez	Jose Gonzalez
+56	70	Jose Duato	Jose Duato
+56	71	Jose Gonzalez	Jose Gonzalez
+56	72	Manuel E. Acacio	Manuel E. Acacio
+56	77	Manuel E. Acacio	Manuel E. Acacio
+56	77	Jose Duato	Jose Duato
+56	78	Jose Duato	Jose Duato
+56	80	Manuel E. Acacio	Manuel E. Acacio
+56	81	Manuel E. Acacio	Manuel E. Acacio
+58	59	Pablo Cortes	Pablo Cortes
+58	59	Luis Onieva	Luis Onieva
+60	61	Manuel E. Acacio	Manuel E. Acacio
+60	62	Manuel E. Acacio	Manuel E. Acacio
+60	63	Manuel E. Acacio	Manuel E. Acacio
+60	66	Manuel E. Acacio	Manuel E. Acacio
+60	67	Manuel E. Acacio	Manuel E. Acacio
+60	68	Manuel E. Acacio	Manuel E. Acacio
+60	72	Manuel E. Acacio	Manuel E. Acacio
+60	77	Manuel E. Acacio	Manuel E. Acacio
+60	80	Manuel E. Acacio	Manuel E. Acacio
+60	81	Manuel E. Acacio	Manuel E. Acacio
+60	82	Pedro E. Lopez-de-Teruel	Pedro E. Lopez-de-Teruel
+61	62	Manuel E. Acacio	Manuel E. Acacio
+61	63	Manuel E. Acacio	Manuel E. Acacio
+61	66	Manuel E. Acacio	Manuel E. Acacio
+61	67	Manuel E. Acacio	Manuel E. Acacio
+61	68	Ricardo Fernandez Pascual	Ricardo Fernandez Pascual
+61	68	Manuel E. Acacio	Manuel E. Acacio
+61	72	Alberto Ros	Alberto Ros
+61	72	Manuel E. Acacio	Manuel E. Acacio
+61	77	Ricardo Fernandez Pascual	Ricardo Fernandez-Pascual
+61	77	Manuel E. Acacio	Manuel E. Acacio
+61	80	Alberto Ros	Alberto Ros
+61	80	Manuel E. Acacio	Manuel E. Acacio
+61	81	Alberto Ros	Alberto Ros
+61	81	Manuel E. Acacio	Manuel E. Acacio
+62	63	Manuel E. Acacio	Manuel E. Acacio
+62	66	Manuel E. Acacio	Manuel E. Acacio
+62	67	Manuel E. Acacio	Manuel E. Acacio
+62	68	Manuel E. Acacio	Manuel E. Acacio
+62	72	Manuel E. Acacio	Manuel E. Acacio
+62	77	Manuel E. Acacio	Manuel E. Acacio
+62	80	Manuel E. Acacio	Manuel E. Acacio
+62	81	Manuel E. Acacio	Manuel E. Acacio
+63	66	Manuel E. Acacio	Manuel E. Acacio
+63	66	Jose Gonzalez	Jose Gonzalez
+63	67	Manuel E. Acacio	Manuel E. Acacio
+63	67	Jose Gonzalez	Jose Gonzalez
+63	68	Manuel E. Acacio	Manuel E. Acacio
+63	69	Gregorio Bernabe	Gregorio Bernabe
+63	69	Jose Gonzalez	Jose Gonzalez
+63	71	Gregorio Bernabe	Gregorio Bernabe
+63	71	Jose Gonzalez	Jose Gonzalez
+63	72	Manuel E. Acacio	Manuel E. Acacio
+63	77	Manuel E. Acacio	Manuel E. Acacio
+63	80	Manuel E. Acacio	Manuel E. Acacio
+63	81	Manuel E. Acacio	Manuel E. Acacio
+66	67	Manuel E. Acacio	Manuel E. Acacio
+66	67	Jose Gonzalez	Jose Gonzalez
+66	67	Jose Duato	Jose Duato
+66	68	Manuel E. Acacio	Manuel E. Acacio
+66	68	Jose Duato	Jose Duato
+66	69	Jose Gonzalez	Jose Gonzalez
+66	70	Jose Duato	Jose Duato
+66	71	Jose Gonzalez	Jose Gonzalez
+66	72	Manuel E. Acacio	Manuel E. Acacio
+66	77	Manuel E. Acacio	Manuel E. Acacio
+66	77	Jose Duato	Jose Duato
+66	78	Jose Duato	Jose Duato
+66	80	Manuel E. Acacio	Manuel E. Acacio
+66	81	Manuel E. Acacio	Manuel E. Acacio
+67	68	Manuel E. Acacio	Manuel E. Acacio
+67	68	Jose Duato	Jose Duato
+67	69	Jose Gonzalez	Jose Gonzalez
+67	70	Jose Duato	Jose Duato
+67	71	Jose Gonzalez	Jose Gonzalez
+67	72	Manuel E. Acacio	Manuel E. Acacio
+67	77	Manuel E. Acacio	Manuel E. Acacio
+67	77	Jose Duato	Jose Duato
+67	78	Jose Duato	Jose Duato
+67	80	Manuel E. Acacio	Manuel E. Acacio
+67	81	Manuel E. Acacio	Manuel E. Acacio
+68	70	Jose Duato	Jose Duato
+68	72	Manuel E. Acacio	Manuel E. Acacio
+68	77	Ricardo Fernandez Pascual	Ricardo Fernandez-Pascual
+68	77	Manuel E. Acacio	Manuel E. Acacio
+68	77	Jose Duato	Jose Duato
+68	78	Jose Duato	Jose Duato
+68	80	Manuel E. Acacio	Manuel E. Acacio
+68	81	Manuel E. Acacio	Manuel E. Acacio
+69	71	Gregorio Bernabe	Gregorio Bernabe
+69	71	Jose Gonzalez	Jose Gonzalez
+70	77	Jose Duato	Jose Duato
+70	78	Jose Duato	Jose Duato
+72	77	Manuel E. Acacio	Manuel E. Acacio
+72	80	Alberto Ros	Alberto Ros
+72	80	Manuel E. Acacio	Manuel E. Acacio
+72	81	Alberto Ros	Alberto Ros
+72	81	Manuel E. Acacio	Manuel E. Acacio
+73	74	Juan L. Aragon	Juan L. Aragon
+73	75	Daniel Sanchez	Daniel Sanchez
+73	75	Juan L. Aragon	Juan L. Aragon
+74	75	Juan L. Aragon	Juan L. Aragon
+77	78	Jose Duato	Jose Duato
+77	80	Manuel E. Acacio	Manuel E. Acacio
+77	81	Manuel E. Acacio	Manuel E. Acacio
+79	80	José M. García	José M. García
+79	81	José M. García	José M. García
+80	81	Alberto Ros	Alberto Ros
+80	81	Manuel E. Acacio	Manuel E. Acacio
+80	81	José M. García	José M. García

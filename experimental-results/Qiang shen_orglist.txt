@@ -1,0 +1,76 @@
+2	3	Div. of Informatics, Edinburgh Univ.	Div. of Informatics, Edinburgh Univ.
+2	42	Div. of Informatics, Edinburgh Univ.	Sch. of Informatics, Edinburgh Univ.
+2	46	Div. of Informatics, Edinburgh Univ.	Sch. of Informatics, Edinburgh Univ., UK
+3	42	Div. of Informatics, Edinburgh Univ.	Sch. of Informatics, Edinburgh Univ.
+3	46	Div. of Informatics, Edinburgh Univ.	Sch. of Informatics, Edinburgh Univ., UK
+5	30	Univ. of Wales, Aberystwyth	Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB
+5	31	Univ. of Wales, Aberystwyth	Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB
+5	32	Univ. of Wales, Aberystwyth	Department of Computer Science, The University of Wales, Aberystwyth, UK
+5	34	Univ. of Wales, Aberystwyth	Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK
+5	43	Univ. of Wales, Aberystwyth	Dept. of Comput. Sci., Univ. of Wales, Aberystwyth
+5	65	Univ. of Wales, Aberystwyth	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk
+5	66	Univ. of Wales, Aberystwyth	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB
+6	7	Wales Univ., Aberystwyth	Wales Univ., Aberystwyth
+10	67	Provincial Key Lab. of Inf. Coding & Transm., Southwest Jiaotong Univ., Chengdu	Provincial Key Lab of Information Coding and Transmission, Southwest Jiaotong University, Chengdu, Sichuan 610031, PR China
+24	25	School of Informatics, University of Edinburgh, Edinburgh EH8 9LE, UK	Division of Informatics, University of Edinburgh, 80 South Bridge, Edinburgh EH1 1HN, UK E&dash;mail: qiangs&commat;dai.ed.ac.uk
+24	29	School of Informatics, University of Edinburgh, Edinburgh EH8 9LE, UK	Institute for Representation and Reasoning, Division of Informatics, University of Edinburgh, 80 South Bridge, Edinburgh, EH1, 1HN qiangs@dai.ed.ac.uk
+25	29	Division of Informatics, University of Edinburgh, 80 South Bridge, Edinburgh EH1 1HN, UK E&dash;mail: qiangs&commat;dai.ed.ac.uk	Institute for Representation and Reasoning, Division of Informatics, University of Edinburgh, 80 South Bridge, Edinburgh, EH1, 1HN qiangs@dai.ed.ac.uk
+30	31	Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB	Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB
+30	32	Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB	Department of Computer Science, The University of Wales, Aberystwyth, UK
+30	34	Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB	Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK
+30	43	Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB	Dept. of Comput. Sci., Univ. of Wales, Aberystwyth
+30	65	Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk
+30	66	Department of Computer Science, University of Wales, Aberystwyth, UK SY23 3DB	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB
+31	32	Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB	Department of Computer Science, The University of Wales, Aberystwyth, UK
+31	34	Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB	Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK
+31	43	Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB	Dept. of Comput. Sci., Univ. of Wales, Aberystwyth
+31	65	Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk
+31	66	Department of Computer Science, University of Wales, Aberystwyth, United Kingdom SY23 3DB	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB
+32	34	Department of Computer Science, The University of Wales, Aberystwyth, UK	Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK
+32	43	Department of Computer Science, The University of Wales, Aberystwyth, UK	Dept. of Comput. Sci., Univ. of Wales, Aberystwyth
+32	65	Department of Computer Science, The University of Wales, Aberystwyth, UK	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk
+32	66	Department of Computer Science, The University of Wales, Aberystwyth, UK	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB
+34	43	Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK	Dept. of Comput. Sci., Univ. of Wales, Aberystwyth
+34	65	Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk
+34	66	Department of Computer Science, The University of Wales, Aberystwyth, Penglais, Aberystwyth, Ceredigion, Wales, UK	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB
+42	46	Sch. of Informatics, Edinburgh Univ.	Sch. of Informatics, Edinburgh Univ., UK
+43	65	Dept. of Comput. Sci., Univ. of Wales, Aberystwyth	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk
+43	66	Dept. of Comput. Sci., Univ. of Wales, Aberystwyth	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB
+44	51	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Department of Computer Sciences, Aberystwyth University, Wales, UK
+44	52	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Department of Computer Science, Aberystwyth University, Wales, UK
+44	54	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Aberystwyth University, Aberystwyth, UK
+44	56	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Department of Computer Science, Aberystwyth University, Wales, UK
+44	58	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Dept. of Computer Science, Aberystwyth University, Wales, UK
+44	59	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Dept. of Computer Science, Aberystwyth University, Wales, UK
+44	60	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK
+44	62	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+51	52	Department of Computer Sciences, Aberystwyth University, Wales, UK	Department of Computer Science, Aberystwyth University, Wales, UK
+51	54	Department of Computer Sciences, Aberystwyth University, Wales, UK	Aberystwyth University, Aberystwyth, UK
+51	56	Department of Computer Sciences, Aberystwyth University, Wales, UK	Department of Computer Science, Aberystwyth University, Wales, UK
+51	58	Department of Computer Sciences, Aberystwyth University, Wales, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+51	59	Department of Computer Sciences, Aberystwyth University, Wales, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+51	60	Department of Computer Sciences, Aberystwyth University, Wales, UK	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK
+51	62	Department of Computer Sciences, Aberystwyth University, Wales, UK	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+52	54	Department of Computer Science, Aberystwyth University, Wales, UK	Aberystwyth University, Aberystwyth, UK
+52	56	Department of Computer Science, Aberystwyth University, Wales, UK	Department of Computer Science, Aberystwyth University, Wales, UK
+52	58	Department of Computer Science, Aberystwyth University, Wales, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+52	59	Department of Computer Science, Aberystwyth University, Wales, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+52	60	Department of Computer Science, Aberystwyth University, Wales, UK	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK
+52	62	Department of Computer Science, Aberystwyth University, Wales, UK	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+54	56	Aberystwyth University, Aberystwyth, UK	Department of Computer Science, Aberystwyth University, Wales, UK
+54	58	Aberystwyth University, Aberystwyth, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+54	59	Aberystwyth University, Aberystwyth, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+54	60	Aberystwyth University, Aberystwyth, UK	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK
+54	62	Aberystwyth University, Aberystwyth, UK	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+56	58	Department of Computer Science, Aberystwyth University, Wales, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+56	59	Department of Computer Science, Aberystwyth University, Wales, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+56	60	Department of Computer Science, Aberystwyth University, Wales, UK	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK
+56	62	Department of Computer Science, Aberystwyth University, Wales, UK	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+58	59	Dept. of Computer Science, Aberystwyth University, Wales, UK	Dept. of Computer Science, Aberystwyth University, Wales, UK
+58	60	Dept. of Computer Science, Aberystwyth University, Wales, UK	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK
+58	62	Dept. of Computer Science, Aberystwyth University, Wales, UK	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+59	60	Dept. of Computer Science, Aberystwyth University, Wales, UK	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK
+59	62	Dept. of Computer Science, Aberystwyth University, Wales, UK	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+60	62	Dept. of Comput. Sci., Aberystwyth Univ., Aberystwyth, UK	Aberystwyth University, Department of Computer Science, SY23 3DB, Wales, UK
+63	64	Sch. of Astronaut. Sci. & Technol., Beijing Inst. of Technol., Beijing	Sch. of Astronaut. Sci. & Technol., Beijing Inst. of Technol., Beijing
+65	66	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB, UK; e-mail: qqs&commat;aber.ac.uk	Department of Computer Science, University of Wales, Aberystwyth SY23 3DB

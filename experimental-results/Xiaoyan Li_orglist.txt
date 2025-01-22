@@ -1,0 +1,12 @@
+1	3	University of Massachusetts, MA	University of Massachusetts, Amherst, MA
+1	14	University of Massachusetts, MA	University of Massachusetts Amherst, MA
+1	31	University of Massachusetts, MA	University of Massachusetts, Amherst, MA
+3	14	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, MA
+3	31	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+10	12	Rutgers University, Pisacataway, NJ	Rutgers University, Piscataway, NJ
+10	32	Rutgers University, Pisacataway, NJ	Rutgers University, Piscataway, NJ
+12	32	Rutgers University, Piscataway, NJ	Rutgers University, Piscataway, NJ
+13	27	Lafayette College	Lafayette College, Easton, PA
+14	31	University of Massachusetts Amherst, MA	University of Massachusetts, Amherst, MA
+18	29	Center for Spatial Information Science and System, George Mason University, Greenbelt, USA MD 20770	Center for Spatial Inf. Sci. & Syst., George Mason Univ., Greenbelt, MD, USA
+20	25	Zhejiang University, Hangzhou, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China

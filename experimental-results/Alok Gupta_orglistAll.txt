@@ -1,0 +1,1596 @@
+0	1	University of Minnesota, Minneapolis, MN	null
+0	2	University of Minnesota, Minneapolis, MN	Siemens Medical Solutions, Malvern, PA, USA
+0	3	University of Minnesota, Minneapolis, MN	Columbia Univ., New York, NY
+0	4	University of Minnesota, Minneapolis, MN	Siemens Corp. Res. Inc., Princeton, NJ
+0	5	University of Minnesota, Minneapolis, MN	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA
+0	6	University of Minnesota, Minneapolis, MN	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ
+0	7	University of Minnesota, Minneapolis, MN	Siemens Corp. Res. Inc., Princeton, NJ
+0	8	University of Minnesota, Minneapolis, MN	null
+0	9	University of Minnesota, Minneapolis, MN	null
+0	10	University of Minnesota, Minneapolis, MN	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+0	11	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	12	University of Minnesota, Minneapolis, MN	MIS Area, Northeastern Univ., Boston, MA, USA
+0	13	University of Minnesota, Minneapolis, MN	null
+0	14	University of Minnesota, Minneapolis, MN	U. Minnesota, Minneapolis, MN
+0	15	University of Minnesota, Minneapolis, MN	null
+0	16	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	17	University of Minnesota, Minneapolis, MN	null
+0	18	University of Minnesota, Minneapolis, MN	null
+0	19	University of Minnesota, Minneapolis, MN	null
+0	20	University of Minnesota, Minneapolis, MN	Siemens Corp. Res. Inc., Princeton, NJ
+0	21	University of Minnesota, Minneapolis, MN	null
+0	22	University of Minnesota, Minneapolis, MN	null
+0	23	University of Minnesota, Minneapolis, MN	null
+0	24	University of Minnesota, Minneapolis, MN	null
+0	25	University of Minnesota, Minneapolis, MN	null
+0	26	University of Minnesota, Minneapolis, MN	null
+0	27	University of Minnesota, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+0	28	University of Minnesota, Minneapolis, MN	null
+0	29	University of Minnesota, Minneapolis, MN	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+0	30	University of Minnesota, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+0	31	University of Minnesota, Minneapolis, MN	null
+0	32	University of Minnesota, Minneapolis, MN	null
+0	33	University of Minnesota, Minneapolis, MN	Siemens Corp. Res. Inc., Princeton, NJ
+0	34	University of Minnesota, Minneapolis, MN	null
+0	35	University of Minnesota, Minneapolis, MN	null
+0	36	University of Minnesota, Minneapolis, MN	Courant Inst. of Math. Sci., New York Univ., NY
+0	37	University of Minnesota, Minneapolis, MN	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+0	38	University of Minnesota, Minneapolis, MN	null
+0	39	University of Minnesota, Minneapolis, MN	null
+0	40	University of Minnesota, Minneapolis, MN	null
+0	41	University of Minnesota, Minneapolis, MN	null
+0	42	University of Minnesota, Minneapolis, MN	null
+0	43	University of Minnesota, Minneapolis, MN	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+0	44	University of Minnesota, Minneapolis, MN	null
+0	45	University of Minnesota, Minneapolis, MN	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+0	46	University of Minnesota, Minneapolis, MN	null
+0	47	University of Minnesota, Minneapolis, MN	null
+0	48	University of Minnesota, Minneapolis, MN	null
+0	49	University of Minnesota, Minneapolis, MN	Univ. of Connecticut, Storrs
+0	50	University of Minnesota, Minneapolis, MN	Univ. of Connecticut, Storrs
+0	51	University of Minnesota, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+0	52	University of Minnesota, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+0	53	University of Minnesota, Minneapolis, MN	OPIM Department, University of Connecticut, U.S.A.
+0	54	University of Minnesota, Minneapolis, MN	null
+0	55	University of Minnesota, Minneapolis, MN	null
+0	56	University of Minnesota, Minneapolis, MN	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+1	2	null	Siemens Medical Solutions, Malvern, PA, USA
+1	3	null	Columbia Univ., New York, NY
+1	4	null	Siemens Corp. Res. Inc., Princeton, NJ
+1	5	null	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA
+1	6	null	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ
+1	7	null	Siemens Corp. Res. Inc., Princeton, NJ
+1	8	null	null
+1	9	null	null
+1	10	null	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+1	11	null	University of Minnesota
+1	12	null	MIS Area, Northeastern Univ., Boston, MA, USA
+1	13	null	null
+1	14	null	U. Minnesota, Minneapolis, MN
+1	15	null	null
+1	16	null	University of Minnesota
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	null
+1	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+1	28	null	null
+1	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+1	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+1	31	null	null
+1	32	null	null
+1	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+1	34	null	null
+1	35	null	null
+1	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+1	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+1	38	null	null
+1	39	null	null
+1	40	null	null
+1	41	null	null
+1	42	null	null
+1	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+1	44	null	null
+1	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+1	46	null	null
+1	47	null	null
+1	48	null	null
+1	49	null	Univ. of Connecticut, Storrs
+1	50	null	Univ. of Connecticut, Storrs
+1	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+1	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+1	53	null	OPIM Department, University of Connecticut, U.S.A.
+1	54	null	null
+1	55	null	null
+1	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+2	3	Siemens Medical Solutions, Malvern, PA, USA	Columbia Univ., New York, NY
+2	4	Siemens Medical Solutions, Malvern, PA, USA	Siemens Corp. Res. Inc., Princeton, NJ
+2	5	Siemens Medical Solutions, Malvern, PA, USA	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA
+2	6	Siemens Medical Solutions, Malvern, PA, USA	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ
+2	7	Siemens Medical Solutions, Malvern, PA, USA	Siemens Corp. Res. Inc., Princeton, NJ
+2	8	Siemens Medical Solutions, Malvern, PA, USA	null
+2	9	Siemens Medical Solutions, Malvern, PA, USA	null
+2	10	Siemens Medical Solutions, Malvern, PA, USA	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+2	11	Siemens Medical Solutions, Malvern, PA, USA	University of Minnesota
+2	12	Siemens Medical Solutions, Malvern, PA, USA	MIS Area, Northeastern Univ., Boston, MA, USA
+2	13	Siemens Medical Solutions, Malvern, PA, USA	null
+2	14	Siemens Medical Solutions, Malvern, PA, USA	U. Minnesota, Minneapolis, MN
+2	15	Siemens Medical Solutions, Malvern, PA, USA	null
+2	16	Siemens Medical Solutions, Malvern, PA, USA	University of Minnesota
+2	17	Siemens Medical Solutions, Malvern, PA, USA	null
+2	18	Siemens Medical Solutions, Malvern, PA, USA	null
+2	19	Siemens Medical Solutions, Malvern, PA, USA	null
+2	20	Siemens Medical Solutions, Malvern, PA, USA	Siemens Corp. Res. Inc., Princeton, NJ
+2	21	Siemens Medical Solutions, Malvern, PA, USA	null
+2	22	Siemens Medical Solutions, Malvern, PA, USA	null
+2	23	Siemens Medical Solutions, Malvern, PA, USA	null
+2	24	Siemens Medical Solutions, Malvern, PA, USA	null
+2	25	Siemens Medical Solutions, Malvern, PA, USA	null
+2	26	Siemens Medical Solutions, Malvern, PA, USA	null
+2	27	Siemens Medical Solutions, Malvern, PA, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+2	28	Siemens Medical Solutions, Malvern, PA, USA	null
+2	29	Siemens Medical Solutions, Malvern, PA, USA	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+2	30	Siemens Medical Solutions, Malvern, PA, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+2	31	Siemens Medical Solutions, Malvern, PA, USA	null
+2	32	Siemens Medical Solutions, Malvern, PA, USA	null
+2	33	Siemens Medical Solutions, Malvern, PA, USA	Siemens Corp. Res. Inc., Princeton, NJ
+2	34	Siemens Medical Solutions, Malvern, PA, USA	null
+2	35	Siemens Medical Solutions, Malvern, PA, USA	null
+2	36	Siemens Medical Solutions, Malvern, PA, USA	Courant Inst. of Math. Sci., New York Univ., NY
+2	37	Siemens Medical Solutions, Malvern, PA, USA	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+2	38	Siemens Medical Solutions, Malvern, PA, USA	null
+2	39	Siemens Medical Solutions, Malvern, PA, USA	null
+2	40	Siemens Medical Solutions, Malvern, PA, USA	null
+2	41	Siemens Medical Solutions, Malvern, PA, USA	null
+2	42	Siemens Medical Solutions, Malvern, PA, USA	null
+2	43	Siemens Medical Solutions, Malvern, PA, USA	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+2	44	Siemens Medical Solutions, Malvern, PA, USA	null
+2	45	Siemens Medical Solutions, Malvern, PA, USA	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+2	46	Siemens Medical Solutions, Malvern, PA, USA	null
+2	47	Siemens Medical Solutions, Malvern, PA, USA	null
+2	48	Siemens Medical Solutions, Malvern, PA, USA	null
+2	49	Siemens Medical Solutions, Malvern, PA, USA	Univ. of Connecticut, Storrs
+2	50	Siemens Medical Solutions, Malvern, PA, USA	Univ. of Connecticut, Storrs
+2	51	Siemens Medical Solutions, Malvern, PA, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+2	52	Siemens Medical Solutions, Malvern, PA, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+2	53	Siemens Medical Solutions, Malvern, PA, USA	OPIM Department, University of Connecticut, U.S.A.
+2	54	Siemens Medical Solutions, Malvern, PA, USA	null
+2	55	Siemens Medical Solutions, Malvern, PA, USA	null
+2	56	Siemens Medical Solutions, Malvern, PA, USA	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+3	4	Columbia Univ., New York, NY	Siemens Corp. Res. Inc., Princeton, NJ
+3	5	Columbia Univ., New York, NY	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA
+3	6	Columbia Univ., New York, NY	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ
+3	7	Columbia Univ., New York, NY	Siemens Corp. Res. Inc., Princeton, NJ
+3	8	Columbia Univ., New York, NY	null
+3	9	Columbia Univ., New York, NY	null
+3	10	Columbia Univ., New York, NY	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+3	11	Columbia Univ., New York, NY	University of Minnesota
+3	12	Columbia Univ., New York, NY	MIS Area, Northeastern Univ., Boston, MA, USA
+3	13	Columbia Univ., New York, NY	null
+3	14	Columbia Univ., New York, NY	U. Minnesota, Minneapolis, MN
+3	15	Columbia Univ., New York, NY	null
+3	16	Columbia Univ., New York, NY	University of Minnesota
+3	17	Columbia Univ., New York, NY	null
+3	18	Columbia Univ., New York, NY	null
+3	19	Columbia Univ., New York, NY	null
+3	20	Columbia Univ., New York, NY	Siemens Corp. Res. Inc., Princeton, NJ
+3	21	Columbia Univ., New York, NY	null
+3	22	Columbia Univ., New York, NY	null
+3	23	Columbia Univ., New York, NY	null
+3	24	Columbia Univ., New York, NY	null
+3	25	Columbia Univ., New York, NY	null
+3	26	Columbia Univ., New York, NY	null
+3	27	Columbia Univ., New York, NY	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+3	28	Columbia Univ., New York, NY	null
+3	29	Columbia Univ., New York, NY	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+3	30	Columbia Univ., New York, NY	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+3	31	Columbia Univ., New York, NY	null
+3	32	Columbia Univ., New York, NY	null
+3	33	Columbia Univ., New York, NY	Siemens Corp. Res. Inc., Princeton, NJ
+3	34	Columbia Univ., New York, NY	null
+3	35	Columbia Univ., New York, NY	null
+3	36	Columbia Univ., New York, NY	Courant Inst. of Math. Sci., New York Univ., NY
+3	37	Columbia Univ., New York, NY	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+3	38	Columbia Univ., New York, NY	null
+3	39	Columbia Univ., New York, NY	null
+3	40	Columbia Univ., New York, NY	null
+3	41	Columbia Univ., New York, NY	null
+3	42	Columbia Univ., New York, NY	null
+3	43	Columbia Univ., New York, NY	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+3	44	Columbia Univ., New York, NY	null
+3	45	Columbia Univ., New York, NY	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+3	46	Columbia Univ., New York, NY	null
+3	47	Columbia Univ., New York, NY	null
+3	48	Columbia Univ., New York, NY	null
+3	49	Columbia Univ., New York, NY	Univ. of Connecticut, Storrs
+3	50	Columbia Univ., New York, NY	Univ. of Connecticut, Storrs
+3	51	Columbia Univ., New York, NY	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+3	52	Columbia Univ., New York, NY	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+3	53	Columbia Univ., New York, NY	OPIM Department, University of Connecticut, U.S.A.
+3	54	Columbia Univ., New York, NY	null
+3	55	Columbia Univ., New York, NY	null
+3	56	Columbia Univ., New York, NY	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+4	5	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA
+4	6	Siemens Corp. Res. Inc., Princeton, NJ	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ
+4	7	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+4	8	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	9	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	10	Siemens Corp. Res. Inc., Princeton, NJ	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+4	11	Siemens Corp. Res. Inc., Princeton, NJ	University of Minnesota
+4	12	Siemens Corp. Res. Inc., Princeton, NJ	MIS Area, Northeastern Univ., Boston, MA, USA
+4	13	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	14	Siemens Corp. Res. Inc., Princeton, NJ	U. Minnesota, Minneapolis, MN
+4	15	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	16	Siemens Corp. Res. Inc., Princeton, NJ	University of Minnesota
+4	17	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	18	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	19	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	20	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+4	21	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	22	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	23	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	24	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	25	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	26	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	27	Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+4	28	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	29	Siemens Corp. Res. Inc., Princeton, NJ	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+4	30	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+4	31	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	32	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	33	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+4	34	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	35	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	36	Siemens Corp. Res. Inc., Princeton, NJ	Courant Inst. of Math. Sci., New York Univ., NY
+4	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+4	38	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	39	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	40	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	41	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	42	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	43	Siemens Corp. Res. Inc., Princeton, NJ	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+4	44	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	45	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+4	46	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	47	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	48	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	49	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+4	50	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+4	51	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+4	52	Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+4	53	Siemens Corp. Res. Inc., Princeton, NJ	OPIM Department, University of Connecticut, U.S.A.
+4	54	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	55	Siemens Corp. Res. Inc., Princeton, NJ	null
+4	56	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+5	6	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ
+5	7	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Siemens Corp. Res. Inc., Princeton, NJ
+5	8	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	9	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	10	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+5	11	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	University of Minnesota
+5	12	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	MIS Area, Northeastern Univ., Boston, MA, USA
+5	13	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	14	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	U. Minnesota, Minneapolis, MN
+5	15	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	16	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	University of Minnesota
+5	17	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	18	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	19	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	20	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Siemens Corp. Res. Inc., Princeton, NJ
+5	21	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	22	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	23	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	24	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	25	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	26	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	27	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+5	28	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	29	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+5	30	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+5	31	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	32	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	33	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Siemens Corp. Res. Inc., Princeton, NJ
+5	34	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	35	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	36	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Courant Inst. of Math. Sci., New York Univ., NY
+5	37	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+5	38	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	39	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	40	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	41	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	42	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	43	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+5	44	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	45	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+5	46	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	47	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	48	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	49	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Univ. of Connecticut, Storrs
+5	50	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Univ. of Connecticut, Storrs
+5	51	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+5	52	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+5	53	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	OPIM Department, University of Connecticut, U.S.A.
+5	54	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	55	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	null
+5	56	Integrated Data Syst. Dept., Siemens Corp. Res. Inc., Princeton, NJ, USA	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+6	7	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+6	8	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	9	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	10	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+6	11	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	University of Minnesota
+6	12	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	MIS Area, Northeastern Univ., Boston, MA, USA
+6	13	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	14	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	U. Minnesota, Minneapolis, MN
+6	15	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	16	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	University of Minnesota
+6	17	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	18	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	19	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	20	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+6	21	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	22	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	23	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	24	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	25	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	26	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	27	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+6	28	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	29	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+6	30	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+6	31	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	32	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	33	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+6	34	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	35	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	36	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Courant Inst. of Math. Sci., New York Univ., NY
+6	37	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+6	38	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	39	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	40	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	41	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	42	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	43	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+6	44	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	45	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+6	46	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	47	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	48	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	49	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+6	50	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+6	51	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+6	52	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+6	53	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	OPIM Department, University of Connecticut, U.S.A.
+6	54	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	55	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	null
+6	56	Dept. of Imaging & Visualization, Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+7	8	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	9	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	10	Siemens Corp. Res. Inc., Princeton, NJ	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+7	11	Siemens Corp. Res. Inc., Princeton, NJ	University of Minnesota
+7	12	Siemens Corp. Res. Inc., Princeton, NJ	MIS Area, Northeastern Univ., Boston, MA, USA
+7	13	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	14	Siemens Corp. Res. Inc., Princeton, NJ	U. Minnesota, Minneapolis, MN
+7	15	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	16	Siemens Corp. Res. Inc., Princeton, NJ	University of Minnesota
+7	17	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	18	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	19	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	20	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+7	21	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	22	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	23	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	24	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	25	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	26	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	27	Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+7	28	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	29	Siemens Corp. Res. Inc., Princeton, NJ	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+7	30	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+7	31	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	32	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	33	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+7	34	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	35	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	36	Siemens Corp. Res. Inc., Princeton, NJ	Courant Inst. of Math. Sci., New York Univ., NY
+7	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+7	38	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	39	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	40	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	41	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	42	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	43	Siemens Corp. Res. Inc., Princeton, NJ	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+7	44	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	45	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+7	46	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	47	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	48	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	49	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+7	50	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+7	51	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+7	52	Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+7	53	Siemens Corp. Res. Inc., Princeton, NJ	OPIM Department, University of Connecticut, U.S.A.
+7	54	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	55	Siemens Corp. Res. Inc., Princeton, NJ	null
+7	56	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+8	9	null	null
+8	10	null	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+8	11	null	University of Minnesota
+8	12	null	MIS Area, Northeastern Univ., Boston, MA, USA
+8	13	null	null
+8	14	null	U. Minnesota, Minneapolis, MN
+8	15	null	null
+8	16	null	University of Minnesota
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	null
+8	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+8	28	null	null
+8	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+8	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+8	31	null	null
+8	32	null	null
+8	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+8	34	null	null
+8	35	null	null
+8	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+8	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+8	38	null	null
+8	39	null	null
+8	40	null	null
+8	41	null	null
+8	42	null	null
+8	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+8	44	null	null
+8	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+8	46	null	null
+8	47	null	null
+8	48	null	null
+8	49	null	Univ. of Connecticut, Storrs
+8	50	null	Univ. of Connecticut, Storrs
+8	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+8	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+8	53	null	OPIM Department, University of Connecticut, U.S.A.
+8	54	null	null
+8	55	null	null
+8	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+9	10	null	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan
+9	11	null	University of Minnesota
+9	12	null	MIS Area, Northeastern Univ., Boston, MA, USA
+9	13	null	null
+9	14	null	U. Minnesota, Minneapolis, MN
+9	15	null	null
+9	16	null	University of Minnesota
+9	17	null	null
+9	18	null	null
+9	19	null	null
+9	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+9	21	null	null
+9	22	null	null
+9	23	null	null
+9	24	null	null
+9	25	null	null
+9	26	null	null
+9	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+9	28	null	null
+9	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+9	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+9	31	null	null
+9	32	null	null
+9	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+9	34	null	null
+9	35	null	null
+9	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+9	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+9	38	null	null
+9	39	null	null
+9	40	null	null
+9	41	null	null
+9	42	null	null
+9	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+9	44	null	null
+9	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+9	46	null	null
+9	47	null	null
+9	48	null	null
+9	49	null	Univ. of Connecticut, Storrs
+9	50	null	Univ. of Connecticut, Storrs
+9	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+9	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+9	53	null	OPIM Department, University of Connecticut, U.S.A.
+9	54	null	null
+9	55	null	null
+9	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+10	11	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	University of Minnesota
+10	12	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	MIS Area, Northeastern Univ., Boston, MA, USA
+10	13	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	14	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	U. Minnesota, Minneapolis, MN
+10	15	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	16	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	University of Minnesota
+10	17	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	18	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	19	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	20	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Siemens Corp. Res. Inc., Princeton, NJ
+10	21	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	22	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	23	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	24	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	25	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	26	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	27	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+10	28	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	29	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+10	30	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+10	31	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	32	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	33	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Siemens Corp. Res. Inc., Princeton, NJ
+10	34	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	35	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	36	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Courant Inst. of Math. Sci., New York Univ., NY
+10	37	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+10	38	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	39	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	40	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	41	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	42	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	43	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+10	44	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	45	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+10	46	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	47	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	48	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	49	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Univ. of Connecticut, Storrs
+10	50	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Univ. of Connecticut, Storrs
+10	51	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+10	52	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+10	53	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	OPIM Department, University of Connecticut, U.S.A.
+10	54	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	55	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	null
+10	56	Dept. of Inf., Nat. Central Univ., Chung-li, Taiwan	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+11	12	University of Minnesota	MIS Area, Northeastern Univ., Boston, MA, USA
+11	13	University of Minnesota	null
+11	14	University of Minnesota	U. Minnesota, Minneapolis, MN
+11	15	University of Minnesota	null
+11	16	University of Minnesota	University of Minnesota
+11	17	University of Minnesota	null
+11	18	University of Minnesota	null
+11	19	University of Minnesota	null
+11	20	University of Minnesota	Siemens Corp. Res. Inc., Princeton, NJ
+11	21	University of Minnesota	null
+11	22	University of Minnesota	null
+11	23	University of Minnesota	null
+11	24	University of Minnesota	null
+11	25	University of Minnesota	null
+11	26	University of Minnesota	null
+11	27	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+11	28	University of Minnesota	null
+11	29	University of Minnesota	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+11	30	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+11	31	University of Minnesota	null
+11	32	University of Minnesota	null
+11	33	University of Minnesota	Siemens Corp. Res. Inc., Princeton, NJ
+11	34	University of Minnesota	null
+11	35	University of Minnesota	null
+11	36	University of Minnesota	Courant Inst. of Math. Sci., New York Univ., NY
+11	37	University of Minnesota	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+11	38	University of Minnesota	null
+11	39	University of Minnesota	null
+11	40	University of Minnesota	null
+11	41	University of Minnesota	null
+11	42	University of Minnesota	null
+11	43	University of Minnesota	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+11	44	University of Minnesota	null
+11	45	University of Minnesota	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+11	46	University of Minnesota	null
+11	47	University of Minnesota	null
+11	48	University of Minnesota	null
+11	49	University of Minnesota	Univ. of Connecticut, Storrs
+11	50	University of Minnesota	Univ. of Connecticut, Storrs
+11	51	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+11	52	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+11	53	University of Minnesota	OPIM Department, University of Connecticut, U.S.A.
+11	54	University of Minnesota	null
+11	55	University of Minnesota	null
+11	56	University of Minnesota	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+12	13	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	14	MIS Area, Northeastern Univ., Boston, MA, USA	U. Minnesota, Minneapolis, MN
+12	15	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	16	MIS Area, Northeastern Univ., Boston, MA, USA	University of Minnesota
+12	17	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	18	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	19	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	20	MIS Area, Northeastern Univ., Boston, MA, USA	Siemens Corp. Res. Inc., Princeton, NJ
+12	21	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	22	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	23	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	24	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	25	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	26	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	27	MIS Area, Northeastern Univ., Boston, MA, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+12	28	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	29	MIS Area, Northeastern Univ., Boston, MA, USA	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+12	30	MIS Area, Northeastern Univ., Boston, MA, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+12	31	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	32	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	33	MIS Area, Northeastern Univ., Boston, MA, USA	Siemens Corp. Res. Inc., Princeton, NJ
+12	34	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	35	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	36	MIS Area, Northeastern Univ., Boston, MA, USA	Courant Inst. of Math. Sci., New York Univ., NY
+12	37	MIS Area, Northeastern Univ., Boston, MA, USA	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+12	38	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	39	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	40	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	41	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	42	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	43	MIS Area, Northeastern Univ., Boston, MA, USA	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+12	44	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	45	MIS Area, Northeastern Univ., Boston, MA, USA	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+12	46	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	47	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	48	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	49	MIS Area, Northeastern Univ., Boston, MA, USA	Univ. of Connecticut, Storrs
+12	50	MIS Area, Northeastern Univ., Boston, MA, USA	Univ. of Connecticut, Storrs
+12	51	MIS Area, Northeastern Univ., Boston, MA, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+12	52	MIS Area, Northeastern Univ., Boston, MA, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+12	53	MIS Area, Northeastern Univ., Boston, MA, USA	OPIM Department, University of Connecticut, U.S.A.
+12	54	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	55	MIS Area, Northeastern Univ., Boston, MA, USA	null
+12	56	MIS Area, Northeastern Univ., Boston, MA, USA	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+13	14	null	U. Minnesota, Minneapolis, MN
+13	15	null	null
+13	16	null	University of Minnesota
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+13	21	null	null
+13	22	null	null
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	null
+13	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+13	28	null	null
+13	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+13	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+13	31	null	null
+13	32	null	null
+13	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+13	34	null	null
+13	35	null	null
+13	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+13	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+13	38	null	null
+13	39	null	null
+13	40	null	null
+13	41	null	null
+13	42	null	null
+13	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+13	44	null	null
+13	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+13	46	null	null
+13	47	null	null
+13	48	null	null
+13	49	null	Univ. of Connecticut, Storrs
+13	50	null	Univ. of Connecticut, Storrs
+13	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+13	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+13	53	null	OPIM Department, University of Connecticut, U.S.A.
+13	54	null	null
+13	55	null	null
+13	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+14	15	U. Minnesota, Minneapolis, MN	null
+14	16	U. Minnesota, Minneapolis, MN	University of Minnesota
+14	17	U. Minnesota, Minneapolis, MN	null
+14	18	U. Minnesota, Minneapolis, MN	null
+14	19	U. Minnesota, Minneapolis, MN	null
+14	20	U. Minnesota, Minneapolis, MN	Siemens Corp. Res. Inc., Princeton, NJ
+14	21	U. Minnesota, Minneapolis, MN	null
+14	22	U. Minnesota, Minneapolis, MN	null
+14	23	U. Minnesota, Minneapolis, MN	null
+14	24	U. Minnesota, Minneapolis, MN	null
+14	25	U. Minnesota, Minneapolis, MN	null
+14	26	U. Minnesota, Minneapolis, MN	null
+14	27	U. Minnesota, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+14	28	U. Minnesota, Minneapolis, MN	null
+14	29	U. Minnesota, Minneapolis, MN	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+14	30	U. Minnesota, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+14	31	U. Minnesota, Minneapolis, MN	null
+14	32	U. Minnesota, Minneapolis, MN	null
+14	33	U. Minnesota, Minneapolis, MN	Siemens Corp. Res. Inc., Princeton, NJ
+14	34	U. Minnesota, Minneapolis, MN	null
+14	35	U. Minnesota, Minneapolis, MN	null
+14	36	U. Minnesota, Minneapolis, MN	Courant Inst. of Math. Sci., New York Univ., NY
+14	37	U. Minnesota, Minneapolis, MN	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+14	38	U. Minnesota, Minneapolis, MN	null
+14	39	U. Minnesota, Minneapolis, MN	null
+14	40	U. Minnesota, Minneapolis, MN	null
+14	41	U. Minnesota, Minneapolis, MN	null
+14	42	U. Minnesota, Minneapolis, MN	null
+14	43	U. Minnesota, Minneapolis, MN	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+14	44	U. Minnesota, Minneapolis, MN	null
+14	45	U. Minnesota, Minneapolis, MN	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+14	46	U. Minnesota, Minneapolis, MN	null
+14	47	U. Minnesota, Minneapolis, MN	null
+14	48	U. Minnesota, Minneapolis, MN	null
+14	49	U. Minnesota, Minneapolis, MN	Univ. of Connecticut, Storrs
+14	50	U. Minnesota, Minneapolis, MN	Univ. of Connecticut, Storrs
+14	51	U. Minnesota, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+14	52	U. Minnesota, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+14	53	U. Minnesota, Minneapolis, MN	OPIM Department, University of Connecticut, U.S.A.
+14	54	U. Minnesota, Minneapolis, MN	null
+14	55	U. Minnesota, Minneapolis, MN	null
+14	56	U. Minnesota, Minneapolis, MN	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+15	16	null	University of Minnesota
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+15	21	null	null
+15	22	null	null
+15	23	null	null
+15	24	null	null
+15	25	null	null
+15	26	null	null
+15	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+15	28	null	null
+15	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+15	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+15	31	null	null
+15	32	null	null
+15	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+15	34	null	null
+15	35	null	null
+15	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+15	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+15	38	null	null
+15	39	null	null
+15	40	null	null
+15	41	null	null
+15	42	null	null
+15	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+15	44	null	null
+15	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+15	46	null	null
+15	47	null	null
+15	48	null	null
+15	49	null	Univ. of Connecticut, Storrs
+15	50	null	Univ. of Connecticut, Storrs
+15	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+15	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+15	53	null	OPIM Department, University of Connecticut, U.S.A.
+15	54	null	null
+15	55	null	null
+15	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+16	17	University of Minnesota	null
+16	18	University of Minnesota	null
+16	19	University of Minnesota	null
+16	20	University of Minnesota	Siemens Corp. Res. Inc., Princeton, NJ
+16	21	University of Minnesota	null
+16	22	University of Minnesota	null
+16	23	University of Minnesota	null
+16	24	University of Minnesota	null
+16	25	University of Minnesota	null
+16	26	University of Minnesota	null
+16	27	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+16	28	University of Minnesota	null
+16	29	University of Minnesota	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+16	30	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+16	31	University of Minnesota	null
+16	32	University of Minnesota	null
+16	33	University of Minnesota	Siemens Corp. Res. Inc., Princeton, NJ
+16	34	University of Minnesota	null
+16	35	University of Minnesota	null
+16	36	University of Minnesota	Courant Inst. of Math. Sci., New York Univ., NY
+16	37	University of Minnesota	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+16	38	University of Minnesota	null
+16	39	University of Minnesota	null
+16	40	University of Minnesota	null
+16	41	University of Minnesota	null
+16	42	University of Minnesota	null
+16	43	University of Minnesota	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+16	44	University of Minnesota	null
+16	45	University of Minnesota	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+16	46	University of Minnesota	null
+16	47	University of Minnesota	null
+16	48	University of Minnesota	null
+16	49	University of Minnesota	Univ. of Connecticut, Storrs
+16	50	University of Minnesota	Univ. of Connecticut, Storrs
+16	51	University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+16	52	University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+16	53	University of Minnesota	OPIM Department, University of Connecticut, U.S.A.
+16	54	University of Minnesota	null
+16	55	University of Minnesota	null
+16	56	University of Minnesota	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+17	18	null	null
+17	19	null	null
+17	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+17	21	null	null
+17	22	null	null
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	null
+17	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+17	28	null	null
+17	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+17	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+17	31	null	null
+17	32	null	null
+17	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+17	34	null	null
+17	35	null	null
+17	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+17	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+17	38	null	null
+17	39	null	null
+17	40	null	null
+17	41	null	null
+17	42	null	null
+17	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+17	44	null	null
+17	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+17	46	null	null
+17	47	null	null
+17	48	null	null
+17	49	null	Univ. of Connecticut, Storrs
+17	50	null	Univ. of Connecticut, Storrs
+17	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+17	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+17	53	null	OPIM Department, University of Connecticut, U.S.A.
+17	54	null	null
+17	55	null	null
+17	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+18	19	null	null
+18	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	null
+18	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+18	28	null	null
+18	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+18	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+18	31	null	null
+18	32	null	null
+18	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+18	34	null	null
+18	35	null	null
+18	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+18	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+18	38	null	null
+18	39	null	null
+18	40	null	null
+18	41	null	null
+18	42	null	null
+18	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+18	44	null	null
+18	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+18	46	null	null
+18	47	null	null
+18	48	null	null
+18	49	null	Univ. of Connecticut, Storrs
+18	50	null	Univ. of Connecticut, Storrs
+18	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+18	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+18	53	null	OPIM Department, University of Connecticut, U.S.A.
+18	54	null	null
+18	55	null	null
+18	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+19	20	null	Siemens Corp. Res. Inc., Princeton, NJ
+19	21	null	null
+19	22	null	null
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	null
+19	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+19	28	null	null
+19	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+19	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+19	31	null	null
+19	32	null	null
+19	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+19	34	null	null
+19	35	null	null
+19	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+19	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+19	38	null	null
+19	39	null	null
+19	40	null	null
+19	41	null	null
+19	42	null	null
+19	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+19	44	null	null
+19	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+19	46	null	null
+19	47	null	null
+19	48	null	null
+19	49	null	Univ. of Connecticut, Storrs
+19	50	null	Univ. of Connecticut, Storrs
+19	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+19	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+19	53	null	OPIM Department, University of Connecticut, U.S.A.
+19	54	null	null
+19	55	null	null
+19	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+20	21	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	22	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	23	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	24	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	25	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	26	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	27	Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+20	28	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	29	Siemens Corp. Res. Inc., Princeton, NJ	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+20	30	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+20	31	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	32	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	33	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corp. Res. Inc., Princeton, NJ
+20	34	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	35	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	36	Siemens Corp. Res. Inc., Princeton, NJ	Courant Inst. of Math. Sci., New York Univ., NY
+20	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+20	38	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	39	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	40	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	41	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	42	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	43	Siemens Corp. Res. Inc., Princeton, NJ	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+20	44	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	45	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+20	46	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	47	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	48	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	49	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+20	50	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+20	51	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+20	52	Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+20	53	Siemens Corp. Res. Inc., Princeton, NJ	OPIM Department, University of Connecticut, U.S.A.
+20	54	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	55	Siemens Corp. Res. Inc., Princeton, NJ	null
+20	56	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+21	22	null	null
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	null
+21	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+21	28	null	null
+21	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+21	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+21	31	null	null
+21	32	null	null
+21	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+21	34	null	null
+21	35	null	null
+21	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+21	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+21	38	null	null
+21	39	null	null
+21	40	null	null
+21	41	null	null
+21	42	null	null
+21	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+21	44	null	null
+21	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+21	46	null	null
+21	47	null	null
+21	48	null	null
+21	49	null	Univ. of Connecticut, Storrs
+21	50	null	Univ. of Connecticut, Storrs
+21	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+21	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+21	53	null	OPIM Department, University of Connecticut, U.S.A.
+21	54	null	null
+21	55	null	null
+21	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+22	23	null	null
+22	24	null	null
+22	25	null	null
+22	26	null	null
+22	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+22	28	null	null
+22	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+22	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+22	31	null	null
+22	32	null	null
+22	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+22	34	null	null
+22	35	null	null
+22	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+22	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+22	38	null	null
+22	39	null	null
+22	40	null	null
+22	41	null	null
+22	42	null	null
+22	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+22	44	null	null
+22	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+22	46	null	null
+22	47	null	null
+22	48	null	null
+22	49	null	Univ. of Connecticut, Storrs
+22	50	null	Univ. of Connecticut, Storrs
+22	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+22	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+22	53	null	OPIM Department, University of Connecticut, U.S.A.
+22	54	null	null
+22	55	null	null
+22	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+23	24	null	null
+23	25	null	null
+23	26	null	null
+23	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+23	28	null	null
+23	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+23	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+23	31	null	null
+23	32	null	null
+23	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+23	34	null	null
+23	35	null	null
+23	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+23	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+23	38	null	null
+23	39	null	null
+23	40	null	null
+23	41	null	null
+23	42	null	null
+23	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+23	44	null	null
+23	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+23	46	null	null
+23	47	null	null
+23	48	null	null
+23	49	null	Univ. of Connecticut, Storrs
+23	50	null	Univ. of Connecticut, Storrs
+23	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+23	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+23	53	null	OPIM Department, University of Connecticut, U.S.A.
+23	54	null	null
+23	55	null	null
+23	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+24	25	null	null
+24	26	null	null
+24	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+24	28	null	null
+24	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+24	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+24	31	null	null
+24	32	null	null
+24	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+24	34	null	null
+24	35	null	null
+24	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+24	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+24	38	null	null
+24	39	null	null
+24	40	null	null
+24	41	null	null
+24	42	null	null
+24	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+24	44	null	null
+24	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+24	46	null	null
+24	47	null	null
+24	48	null	null
+24	49	null	Univ. of Connecticut, Storrs
+24	50	null	Univ. of Connecticut, Storrs
+24	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+24	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+24	53	null	OPIM Department, University of Connecticut, U.S.A.
+24	54	null	null
+24	55	null	null
+24	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+25	26	null	null
+25	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+25	28	null	null
+25	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+25	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+25	31	null	null
+25	32	null	null
+25	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+25	34	null	null
+25	35	null	null
+25	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+25	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+25	38	null	null
+25	39	null	null
+25	40	null	null
+25	41	null	null
+25	42	null	null
+25	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+25	44	null	null
+25	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+25	46	null	null
+25	47	null	null
+25	48	null	null
+25	49	null	Univ. of Connecticut, Storrs
+25	50	null	Univ. of Connecticut, Storrs
+25	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+25	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+25	53	null	OPIM Department, University of Connecticut, U.S.A.
+25	54	null	null
+25	55	null	null
+25	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+26	27	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN
+26	28	null	null
+26	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+26	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+26	31	null	null
+26	32	null	null
+26	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+26	34	null	null
+26	35	null	null
+26	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+26	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+26	38	null	null
+26	39	null	null
+26	40	null	null
+26	41	null	null
+26	42	null	null
+26	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+26	44	null	null
+26	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+26	46	null	null
+26	47	null	null
+26	48	null	null
+26	49	null	Univ. of Connecticut, Storrs
+26	50	null	Univ. of Connecticut, Storrs
+26	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+26	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+26	53	null	OPIM Department, University of Connecticut, U.S.A.
+26	54	null	null
+26	55	null	null
+26	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+27	28	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	29	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+27	30	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+27	31	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	32	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	33	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Siemens Corp. Res. Inc., Princeton, NJ
+27	34	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	35	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	36	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Courant Inst. of Math. Sci., New York Univ., NY
+27	37	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+27	38	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	39	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	40	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	41	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	42	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	43	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+27	44	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	45	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+27	46	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	47	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	48	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	49	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Univ. of Connecticut, Storrs
+27	50	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Univ. of Connecticut, Storrs
+27	51	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+27	52	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+27	53	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	OPIM Department, University of Connecticut, U.S.A.
+27	54	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	55	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	null
+27	56	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, 321-19th Avenue South, Minneapolis, MN	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+28	29	null	Treibick Electronic Commerce Initiative, University of Connecticut, USA
+28	30	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+28	31	null	null
+28	32	null	null
+28	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+28	34	null	null
+28	35	null	null
+28	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+28	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+28	38	null	null
+28	39	null	null
+28	40	null	null
+28	41	null	null
+28	42	null	null
+28	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+28	44	null	null
+28	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+28	46	null	null
+28	47	null	null
+28	48	null	null
+28	49	null	Univ. of Connecticut, Storrs
+28	50	null	Univ. of Connecticut, Storrs
+28	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+28	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+28	53	null	OPIM Department, University of Connecticut, U.S.A.
+28	54	null	null
+28	55	null	null
+28	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+29	30	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+29	31	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	32	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	33	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Siemens Corp. Res. Inc., Princeton, NJ
+29	34	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	35	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	36	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Courant Inst. of Math. Sci., New York Univ., NY
+29	37	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+29	38	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	39	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	40	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	41	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	42	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	43	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+29	44	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	45	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+29	46	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	47	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	48	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	49	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Univ. of Connecticut, Storrs
+29	50	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Univ. of Connecticut, Storrs
+29	51	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+29	52	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+29	53	Treibick Electronic Commerce Initiative, University of Connecticut, USA	OPIM Department, University of Connecticut, U.S.A.
+29	54	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	55	Treibick Electronic Commerce Initiative, University of Connecticut, USA	null
+29	56	Treibick Electronic Commerce Initiative, University of Connecticut, USA	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+30	31	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	32	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	33	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Siemens Corp. Res. Inc., Princeton, NJ
+30	34	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	35	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	36	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Courant Inst. of Math. Sci., New York Univ., NY
+30	37	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+30	38	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	39	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	40	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	41	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	42	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	43	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+30	44	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	45	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+30	46	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	47	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	48	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	49	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Univ. of Connecticut, Storrs
+30	50	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Univ. of Connecticut, Storrs
+30	51	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+30	52	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+30	53	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	OPIM Department, University of Connecticut, U.S.A.
+30	54	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	55	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+30	56	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+31	32	null	null
+31	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+31	34	null	null
+31	35	null	null
+31	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+31	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+31	38	null	null
+31	39	null	null
+31	40	null	null
+31	41	null	null
+31	42	null	null
+31	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+31	44	null	null
+31	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+31	46	null	null
+31	47	null	null
+31	48	null	null
+31	49	null	Univ. of Connecticut, Storrs
+31	50	null	Univ. of Connecticut, Storrs
+31	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+31	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+31	53	null	OPIM Department, University of Connecticut, U.S.A.
+31	54	null	null
+31	55	null	null
+31	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+32	33	null	Siemens Corp. Res. Inc., Princeton, NJ
+32	34	null	null
+32	35	null	null
+32	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+32	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+32	38	null	null
+32	39	null	null
+32	40	null	null
+32	41	null	null
+32	42	null	null
+32	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+32	44	null	null
+32	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+32	46	null	null
+32	47	null	null
+32	48	null	null
+32	49	null	Univ. of Connecticut, Storrs
+32	50	null	Univ. of Connecticut, Storrs
+32	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+32	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+32	53	null	OPIM Department, University of Connecticut, U.S.A.
+32	54	null	null
+32	55	null	null
+32	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+33	34	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	35	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	36	Siemens Corp. Res. Inc., Princeton, NJ	Courant Inst. of Math. Sci., New York Univ., NY
+33	37	Siemens Corp. Res. Inc., Princeton, NJ	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+33	38	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	39	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	40	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	41	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	42	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	43	Siemens Corp. Res. Inc., Princeton, NJ	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+33	44	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	45	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+33	46	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	47	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	48	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	49	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+33	50	Siemens Corp. Res. Inc., Princeton, NJ	Univ. of Connecticut, Storrs
+33	51	Siemens Corp. Res. Inc., Princeton, NJ	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+33	52	Siemens Corp. Res. Inc., Princeton, NJ	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+33	53	Siemens Corp. Res. Inc., Princeton, NJ	OPIM Department, University of Connecticut, U.S.A.
+33	54	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	55	Siemens Corp. Res. Inc., Princeton, NJ	null
+33	56	Siemens Corp. Res. Inc., Princeton, NJ	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+34	35	null	null
+34	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+34	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+34	38	null	null
+34	39	null	null
+34	40	null	null
+34	41	null	null
+34	42	null	null
+34	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+34	44	null	null
+34	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+34	46	null	null
+34	47	null	null
+34	48	null	null
+34	49	null	Univ. of Connecticut, Storrs
+34	50	null	Univ. of Connecticut, Storrs
+34	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+34	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+34	53	null	OPIM Department, University of Connecticut, U.S.A.
+34	54	null	null
+34	55	null	null
+34	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+35	36	null	Courant Inst. of Math. Sci., New York Univ., NY
+35	37	null	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+35	38	null	null
+35	39	null	null
+35	40	null	null
+35	41	null	null
+35	42	null	null
+35	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+35	44	null	null
+35	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+35	46	null	null
+35	47	null	null
+35	48	null	null
+35	49	null	Univ. of Connecticut, Storrs
+35	50	null	Univ. of Connecticut, Storrs
+35	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+35	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+35	53	null	OPIM Department, University of Connecticut, U.S.A.
+35	54	null	null
+35	55	null	null
+35	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+36	37	Courant Inst. of Math. Sci., New York Univ., NY	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA
+36	38	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	39	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	40	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	41	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	42	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	43	Courant Inst. of Math. Sci., New York Univ., NY	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+36	44	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	45	Courant Inst. of Math. Sci., New York Univ., NY	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+36	46	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	47	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	48	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	49	Courant Inst. of Math. Sci., New York Univ., NY	Univ. of Connecticut, Storrs
+36	50	Courant Inst. of Math. Sci., New York Univ., NY	Univ. of Connecticut, Storrs
+36	51	Courant Inst. of Math. Sci., New York Univ., NY	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+36	52	Courant Inst. of Math. Sci., New York Univ., NY	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+36	53	Courant Inst. of Math. Sci., New York Univ., NY	OPIM Department, University of Connecticut, U.S.A.
+36	54	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	55	Courant Inst. of Math. Sci., New York Univ., NY	null
+36	56	Courant Inst. of Math. Sci., New York Univ., NY	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+37	38	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	39	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	40	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	41	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	42	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	43	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+37	44	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	45	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+37	46	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	47	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	48	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	49	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	Univ. of Connecticut, Storrs
+37	50	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	Univ. of Connecticut, Storrs
+37	51	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+37	52	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+37	53	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	OPIM Department, University of Connecticut, U.S.A.
+37	54	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	55	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	null
+37	56	Integrated Data Syst. Dept., Siemens Corp. Res., Princeton, NJ, USA	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+38	39	null	null
+38	40	null	null
+38	41	null	null
+38	42	null	null
+38	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+38	44	null	null
+38	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+38	46	null	null
+38	47	null	null
+38	48	null	null
+38	49	null	Univ. of Connecticut, Storrs
+38	50	null	Univ. of Connecticut, Storrs
+38	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+38	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+38	53	null	OPIM Department, University of Connecticut, U.S.A.
+38	54	null	null
+38	55	null	null
+38	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+39	40	null	null
+39	41	null	null
+39	42	null	null
+39	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+39	44	null	null
+39	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+39	46	null	null
+39	47	null	null
+39	48	null	null
+39	49	null	Univ. of Connecticut, Storrs
+39	50	null	Univ. of Connecticut, Storrs
+39	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+39	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+39	53	null	OPIM Department, University of Connecticut, U.S.A.
+39	54	null	null
+39	55	null	null
+39	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+40	41	null	null
+40	42	null	null
+40	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+40	44	null	null
+40	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+40	46	null	null
+40	47	null	null
+40	48	null	null
+40	49	null	Univ. of Connecticut, Storrs
+40	50	null	Univ. of Connecticut, Storrs
+40	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+40	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+40	53	null	OPIM Department, University of Connecticut, U.S.A.
+40	54	null	null
+40	55	null	null
+40	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+41	42	null	null
+41	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+41	44	null	null
+41	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+41	46	null	null
+41	47	null	null
+41	48	null	null
+41	49	null	Univ. of Connecticut, Storrs
+41	50	null	Univ. of Connecticut, Storrs
+41	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+41	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+41	53	null	OPIM Department, University of Connecticut, U.S.A.
+41	54	null	null
+41	55	null	null
+41	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+42	43	null	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455
+42	44	null	null
+42	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+42	46	null	null
+42	47	null	null
+42	48	null	null
+42	49	null	Univ. of Connecticut, Storrs
+42	50	null	Univ. of Connecticut, Storrs
+42	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+42	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+42	53	null	OPIM Department, University of Connecticut, U.S.A.
+42	54	null	null
+42	55	null	null
+42	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+43	44	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+43	45	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+43	46	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+43	47	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+43	48	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+43	49	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Univ. of Connecticut, Storrs
+43	50	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Univ. of Connecticut, Storrs
+43	51	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+43	52	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+43	53	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	OPIM Department, University of Connecticut, U.S.A.
+43	54	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+43	55	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	null
+43	56	Carlson School of Management, University of Minnesota, Minneapolis, Minnesota 55455	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+44	45	null	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota
+44	46	null	null
+44	47	null	null
+44	48	null	null
+44	49	null	Univ. of Connecticut, Storrs
+44	50	null	Univ. of Connecticut, Storrs
+44	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+44	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+44	53	null	OPIM Department, University of Connecticut, U.S.A.
+44	54	null	null
+44	55	null	null
+44	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+45	46	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	null
+45	47	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	null
+45	48	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	null
+45	49	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	Univ. of Connecticut, Storrs
+45	50	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	Univ. of Connecticut, Storrs
+45	51	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+45	52	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+45	53	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	OPIM Department, University of Connecticut, U.S.A.
+45	54	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	null
+45	55	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	null
+45	56	Information and Decision Sciences (IDSc) Department at Carlson School of Management, University of Minnesota	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+46	47	null	null
+46	48	null	null
+46	49	null	Univ. of Connecticut, Storrs
+46	50	null	Univ. of Connecticut, Storrs
+46	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+46	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+46	53	null	OPIM Department, University of Connecticut, U.S.A.
+46	54	null	null
+46	55	null	null
+46	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+47	48	null	null
+47	49	null	Univ. of Connecticut, Storrs
+47	50	null	Univ. of Connecticut, Storrs
+47	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+47	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+47	53	null	OPIM Department, University of Connecticut, U.S.A.
+47	54	null	null
+47	55	null	null
+47	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+48	49	null	Univ. of Connecticut, Storrs
+48	50	null	Univ. of Connecticut, Storrs
+48	51	null	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+48	52	null	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+48	53	null	OPIM Department, University of Connecticut, U.S.A.
+48	54	null	null
+48	55	null	null
+48	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+49	50	Univ. of Connecticut, Storrs	Univ. of Connecticut, Storrs
+49	51	Univ. of Connecticut, Storrs	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+49	52	Univ. of Connecticut, Storrs	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+49	53	Univ. of Connecticut, Storrs	OPIM Department, University of Connecticut, U.S.A.
+49	54	Univ. of Connecticut, Storrs	null
+49	55	Univ. of Connecticut, Storrs	null
+49	56	Univ. of Connecticut, Storrs	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+50	51	Univ. of Connecticut, Storrs	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455
+50	52	Univ. of Connecticut, Storrs	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+50	53	Univ. of Connecticut, Storrs	OPIM Department, University of Connecticut, U.S.A.
+50	54	Univ. of Connecticut, Storrs	null
+50	55	Univ. of Connecticut, Storrs	null
+50	56	Univ. of Connecticut, Storrs	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+51	52	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN
+51	53	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455	OPIM Department, University of Connecticut, U.S.A.
+51	54	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455	null
+51	55	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455	null
+51	56	Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, USA 55455	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+52	53	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN	OPIM Department, University of Connecticut, U.S.A.
+52	54	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN	null
+52	55	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN	null
+52	56	Department of Information and Decision Sciences, Carlson School of Management, University of Minnesota, Minneapolis, MN	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+53	54	OPIM Department, University of Connecticut, U.S.A.	null
+53	55	OPIM Department, University of Connecticut, U.S.A.	null
+53	56	OPIM Department, University of Connecticut, U.S.A.	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+54	55	null	null
+54	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.
+55	56	null	Siemens Corporate Research Inc., David Michael, Cognex Corp.

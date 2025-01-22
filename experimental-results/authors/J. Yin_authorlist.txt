@@ -1,0 +1,38 @@
+0	1	Chiman Kwan	C. Kwan
+0	1	S. Chu	S. Chu
+0	1	X. Liu	X. Liu
+0	1	M. Kruger	M. Kruger
+0	1	I. Sityar	I. Sityar
+0	2	Chiman Kwan	C. Kwan
+0	2	S. Chu	S. Chu
+0	2	X. Liu	X. Liu
+0	2	M. Kruger	M. Kruger
+0	2	I. Sityar	I. Sityar
+1	2	C. Kwan	C. Kwan
+1	2	B. Ayhan	B. Ayhan
+1	2	S. Chu	S. Chu
+1	2	X. Liu	X. Liu
+1	2	K. Puckett	K. Puckett
+1	2	Y. Zhao	Y. Zhao
+1	2	K. C. Ho	K. C. Ho
+1	2	M. Kruger	M. Kruger
+1	2	I. Sityar	I. Sityar
+5	13	J. Wang	J. Wang
+6	7	Frank E. Bennett	Frank E. Bennett
+6	8	Frank E. Bennett	Frank E. Bennett
+6	16	Frank E. Bennett	F. E. Bennett
+6	17	Frank E. Bennett	F. E. Bennett
+7	8	Frank E. Bennett	Frank E. Bennett
+7	8	Lie Zhu	Lie Zhu
+7	16	Frank E. Bennett	F. E. Bennett
+7	16	Lie Zhu	L. Zhu
+7	17	Frank E. Bennett	F. E. Bennett
+7	17	Kevin T. Phelps	K. T. Phelps
+7	17	Christopher A. Rodger	C. A. Rodger
+7	17	Lie Zhu	L. Zhu
+8	16	Frank E. Bennett	F. E. Bennett
+8	16	Lie Zhu	L. Zhu
+8	17	Frank E. Bennett	F. E. Bennett
+8	17	Lie Zhu	L. Zhu
+16	17	F. E. Bennett	F. E. Bennett
+16	17	L. Zhu	L. Zhu

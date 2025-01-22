@@ -1,0 +1,239 @@
+7	8	COMPSAC	COMPSAC
+7	9	COMPSAC	COMPSAC
+8	9	COMPSAC	COMPSAC
+11	13	CVPR (1)	CVPR
+11	14	CVPR (1)	CVPR
+12	13	CVPR (2)	CVPR
+12	14	CVPR (2)	CVPR
+13	14	CVPR	CVPR
+24	25	ICC	ICC
+24	26	ICC	ICC
+25	26	ICC	ICC
+30	31	ICME	ICME
+30	32	ICME	ICME
+31	32	ICME	ICME
+33	34	ICMENS	ICMENS
+36	38	ICPR (1)	ICPR
+36	39	ICPR (1)	ICPR
+37	38	ICPR (3)	ICPR
+37	39	ICPR (3)	ICPR
+38	39	ICPR	ICPR
+44	45	ACM Multimedia	ACM Multimedia
+44	114	ACM Multimedia	ACM Multimedia
+45	114	ACM Multimedia	ACM Multimedia
+54	55	SIGIR	SIGIR
+54	56	SIGIR	SIGIR
+54	57	SIGIR	SIGIR
+54	58	SIGIR	SIGIR
+54	59	SIGIR	SIGIR
+54	60	SIGIR	SIGIR
+55	56	SIGIR	SIGIR
+55	57	SIGIR	SIGIR
+55	58	SIGIR	SIGIR
+55	59	SIGIR	SIGIR
+55	60	SIGIR	SIGIR
+56	57	SIGIR	SIGIR
+56	58	SIGIR	SIGIR
+56	59	SIGIR	SIGIR
+56	60	SIGIR	SIGIR
+57	58	SIGIR	SIGIR
+57	59	SIGIR	SIGIR
+57	60	SIGIR	SIGIR
+58	59	SIGIR	SIGIR
+58	60	SIGIR	SIGIR
+59	60	SIGIR	SIGIR
+73	146	CVGIP: Graphical Model and Image Processing	CVGIP: Graphical Models and Image Processing
+75	147	Fuzzy Sets and Systems	Fuzzy Sets and Systems
+84	85	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	86	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	87	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	88	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	89	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	90	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	91	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+84	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	86	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	87	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	88	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	89	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	90	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	91	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+85	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	87	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	88	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	89	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	90	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	91	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+86	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	88	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	89	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	90	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	91	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+87	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	89	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	90	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	91	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+88	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	90	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	91	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+89	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	91	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+90	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	92	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+91	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	93	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+92	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	94	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+93	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	95	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+94	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	96	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+95	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+96	97	Applied Mathematics and Computation	Applied Mathematics and Computation
+96	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+96	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+96	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+96	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+96	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+96	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+97	98	Applied Mathematics and Computation	Applied Mathematics and Computation
+97	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+97	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+97	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+97	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+97	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+98	99	Applied Mathematics and Computation	Applied Mathematics and Computation
+98	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+98	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+98	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+98	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+99	100	Applied Mathematics and Computation	Applied Mathematics and Computation
+99	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+99	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+99	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+100	101	Applied Mathematics and Computation	Applied Mathematics and Computation
+100	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+100	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+101	120	Applied Mathematics and Computation	Applied Mathematics and Computation
+101	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+105	106	I. J. Bifurcation and Chaos	I. J. Bifurcation and Chaos
+111	152	BMC Bioinformatics	Bioinformatics
+120	121	Applied Mathematics and Computation	Applied Mathematics and Computation
+134	139	Zeitschrift f&uuml;r Angewandte Mathematik und Physik (ZAMP)	Zeitschrift f&uuml;r Angewandte Mathematik und Physik (ZAMP)

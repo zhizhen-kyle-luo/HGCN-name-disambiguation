@@ -1,0 +1,76 @@
+16653	A Class of Low-Density Parity-Check Codes Constructed Based on Reed-Solomon Codes with Two Information Symbols
+16784	New Constructions of Quasi-cyclic LDPC Codes Based on Two Classes of Balanced Incomplete Block Designs: For AWGN and Binary Erasure Channels
+16785	Algebraic Constructions of Quasi-cyclic LDPC Codes - Part I: For AWGN and Binary Random Erasure Channels
+16831	Some Results on Linear Unequal-Error-Protection Codes Specified by their Generator Matrix
+16932	Algebraic Construction of Quasi-cyclic LDPC Codes - Part II: For AWGN and Binary Random and Burst Erasure Channels
+326310	Impact of Manufacturing Practices on Adoption of Plant Information Systems
+453476	Low-complexity and high-performance multilevel coded modulation for the AWGN and Rayleigh fading channels
+502699	Similarity queries in the DISIMA image DBMS
+599470	DISIMA: A Distributed and Interoperable Image Database System
+643461	An Extendible Hash for Multi-Precision Similarity Querying of Image Databases
+703183	Construction of High Performance and Efficiently Encodable Nonbinary Quasi-Cyclic LDPC Codes
+703217	Cyclic Codes for Correcting Bursts of Errors or Erasures With Iterative Decoding
+705660	A Two-Stage Iterative Decoding of LDPC Codes for Lowering Error Floors
+839180	Block coded modulation and concatenated coding schemes for error control on fading channels
+852736	Codes with multi-level error-correcting capabilities
+888746	Long BCH Codes Are Bad
+888748	An Improvement to Multifold Euclidean Geometry Codes
+890573	On a Class of One-Step Majority-Logic Decodable Cyclic Codes
+1087222	Near-Shannon-limit quasi-cyclic low-density parity-check codes
+1087408	Efficient Encoding of Quasi-Cyclic Low-Density Parity-Check Codes
+1087525	Efficient encoding of quasi-cyclic low-density parity-check codes
+1087582	Turbo encoding and decoding of Reed-Solomon codes through binary decomposition and self-concatenation
+1087916	Construction of low-density parity-check codes by superposition
+1088389	New Constructions of Quasi-Cyclic LDPC Codes Based on Special Classes of BIBDs for the AWGN and Binary Erasure Channels
+1088410	Algebraic Construction of Quasi-Cyclic LDPC Codes for the AWGN and Erasure Channels
+1088418	New constructions of quasi-cyclic LDPC codes based on special classes of BIDBs for the AWGN and binary erasure channels
+1088463	Transactions Papers - Constructions of Nonbinary Quasi-Cyclic LDPC Codes: A Finite Field Approach
+1088525	Construction of nonbinary cyclic, quasi-cyclic and regular LDPC codes: a finite geometry approach
+1103951	Construction of Low-Density Parity-Check Codes Based on Balanced Incomplete Block Designs
+1105570	Error and erasure control (d, k) block codes
+1105643	Differential trellis decoding of convolutional codes
+1105644	Error performance analysis for reliability-based decoding algorithms
+1105645	Soft-decision decoding of linear block codes based on ordered statistics
+1105646	Correction to 'Soft decision decoding of linear block codes based on ordered statistics' (Sep 95 1379-1396)
+1105647	Computationally efficient soft-decision decoding of linear block codes based on ordered statistics
+1105648	First-order approximation of the ordered binary-symmetric channel
+1105649	Weight distribution for closest coset decoding of |u|u+v| constructed codes
+1105650	Complementary reliability-based decodings of binary linear block codes
+1105651	Some decomposable codes: the |a+x|b+x|a+b+x| construction
+1105652	A Unified Method for Evaluating the Error-Correction Radius of Reliability-Based Soft-Decision Algorithms for Linear Block Codes
+1105653	On the weight distribution of terminated convolutional codes
+1105654	Bit-Error Probability for Maximum-Likelihood Decoding of Linear Block Codes and Related Soft-Decision Decoding Methods
+1105655	Reliability-Based Syndrome Decoding of Linear Block Codes
+1105736	An approximation to the weight distribution of binary primitive BCH codes with designed distances 9 and 11
+1105738	A Trellis-Based Recursive Maximum-Likelihood Decoding Algorithm for Binary Linear Block Codes
+1106651	Coding for the binary symmetric broadcast channel with two receivers
+1106653	On linear structure and phase rotation invariant properties of block M-PSK modulation codes
+1106655	On multilevel block modulation codes
+1106657	On the optimum bit orders with respect to the state complexity of trellis diagrams for binary linear codes
+1106659	Linear block codes for error detection
+1106662	On complexity of trellis structure of linear block codes
+1106728	Graph theoretic approaches to the code construction for the two-user multiple- access binary adder channel
+1106784	An approximation to the weight distribution of binary linear codes
+1106786	A cascaded coding scheme for error control and its performance analysis
+1106962	Low-density parity-check codes based on finite geometries: A rediscovery and new results
+1106967	A Low-Weight Trellis-Based Iterative Soft-Decision Decoding Algorithm for Binary Linear Block Codes
+1107252	Cyclic unequal error protection codes constructed from cyclic codes of composite length
+1107256	Computer search for binary cyclic UEP codes of odd length up to 65
+1107268	Nonhomogeneous Trellis codes for the Quasi-Synchronous Multiple-Access Binary adder channel with Two Users
+1107737	Soft-decision decoding of binary linear block codes based on an iterative search algorithm
+1107741	Constructions of Generalized Concatenated Codes and Their Trellis-Based Decoding Complexity
+1107742	On a class of optimal nonbinary linear unequal-error-protection codes for two sets of messages
+1107743	QPSK block-modulation codes for unequal error protection
+1107744	On primitive BCH codes with unequal error protection capabilities
+1108984	Multistage decoding of multilevel block M-PSK modulation codes and its performance analysis
+1108985	Suboptimum decoding of decomposable block codes
+1109012	On Algebraic Construction of Gallager and Circulant Low-Density Parity-Check Codes
+1109013	Codes on finite geometries
+1110111	Construction of Regular and Irregular LDPC Codes: Geometry Decomposition and Masking
+1110375	Construction of Quasi-Cyclic LDPC Codes for AWGN and Binary Erasure Channels: A Finite Field Approach
+1241314	Accelerating FPGA-based emulation of quasi-cyclic LDPC codes with vector processing
+1364755	A unified approach to the construction of binary and nonbinary quasi-cyclic LDPC codes based on finite fields
+1364882	High performance non-binary quasi-cyclic LDPC codes on euclidean geometries
+1535626	Trellises and Trellis-Based Decoding Algorithms for Linear Block Codes
+1550339	DISIMA: a distributed and interoperable image database system
+1558189	Error Control Coding, Second Edition

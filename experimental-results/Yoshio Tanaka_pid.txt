@@ -1,0 +1,43 @@
+8623	BAXSQL: A Functional MRI Data Management Tool for the Medical Grid Using Ninf-G
+8657	GEO Grid: Grid Infrastructure for Integration of Huge Satellite Imagery and Geoscience Data Setsets
+8679	Design and Implementation of Distributed Task Sequencing on GridRPC
+8743	Dynamic Resource Allocation Based on On-the-Fly Reservation
+8762	Web Service-Based Dynamic Resource and Job Managements for Large-Scale and Long-Time Grid Computations
+8815	Design and Implementation of a Local Scheduling System with Advance Reservation for Co-allocation on the Grid
+83019	P3: P2P-based middleware enabling transfer and aggregation of computational resources
+83255	The PRAGMA Testbed - Building a Multi-Application International Grid
+115263	Partial Marking GC
+236864	Design, Implementation and Performance Evaluation of GridRPC Programming Middleware for a Large-Scale Computational Grid
+236911	GridFMO - Quantum chemistry of proteins on the grid
+254274	Network Interface Active Messages for Low Overhead Communication on SMP PC Clusters
+254468	Parallelization of Saprse Cholesky Factorization on an SMP Cluster
+255378	Performance Evaluation of a Firewall-Compliant Globus-based Wide-Area Cluster System
+350761	Vision Based Navigation System by Variable Template Matching for Autonomous Mobile Robots
+350763	Vision Based Navigation System for Autonomous Mobile Robot with Global Matching
+352508	Mechanism and Control of Mobile Pipeline Maintenance Robot with Lazy Tongs Mechanism
+410987	COMPaS: A Pentium Pro PC-based SMP Cluster and Its Experience
+435428	OpenGR: A Directive-Based Grid Programming Environment
+445645	GRPLib: A Web Service Based Framework Supporting Sustainable Execution of Large-Scale and Long-Time Grid Applications
+463331	Resource Manager for Globus-Based Wide-Area Cluster Computing
+465099	Complementary Garbage Collector
+466777	The ninf portal: an automatic generation tool for grid portals
+471176	GridARS: An Advance Reservation-Based Grid Co-allocation Framework for Distributed Computing and Network Resources
+529265	Communication Performance of Gigabit LAN Workstation Cluster RWC/WSC
+575708	Grid applications - Sustainable adaptive grid supercomputing: multiscale simulation of semiconductor processing across the pacific
+636710	A Multi-Site Virtual Cluster System for Wide Area Networks
+666077	OmniRPC: A Grid RPC Facility for Cluster and Global Computing in OpenMP
+802910	Overlay Weaver: An overlay construction toolkit
+811434	Interoperation of world-wide production e-Science infrastructures
+877374	Network interface active messages for low overhead communication on SMP PC clusters
+885285	Implementation of Fault-Tolerant GridRPC Applications
+885296	Constructing Grid Applications Using Standard Grid Middleware
+885300	Ninf-G: A Reference Implementation of RPC-based Programming Middleware for Grid Computing
+1034786	OpenGR: A directive-based grid programming environment
+1055992	Implementation and evaluation of adaptive garbage collection
+1170364	Lessons learned through driving science applications in the PRAGMA grid
+1303575	The Grid Enablement and Sustainable Simulation of Multiscale Physics Applications.
+1373450	G-lambda: coordination of a grid scheduler and lambda path service over GMPLS
+1383008	GridFMO Quantum chemistry of proteins on the grid
+1613263	The Design and Implementation of a Fault-Tolerant RPC System: Ninf-C
+1613424	Relis-G: Remote Library Install System for Computational Grids
+1614420	Grid PSE Builder: A Framework for Building Web-based Distributed PSE on Grid

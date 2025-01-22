@@ -1,0 +1,27 @@
+8	12	The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology
+8	13	The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology
+8	14	The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology
+8	33	The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong.
+8	37	The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+8	43	The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Department of Industrial Engineering and Engineering Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+12	13	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+12	14	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+12	33	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong.
+12	37	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+12	43	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+13	14	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+13	33	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong.
+13	37	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+13	43	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+14	33	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong.
+14	37	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+14	43	Hong Kong University of Science and Technology	Department of Industrial Engineering and Engineering Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+16	17	School of Business, Sun Yat-Sen University, Guangzhou, China	School of Business, Sun Yat-Sen University, Guangzhou, P.R. China
+16	36	School of Business, Sun Yat-Sen University, Guangzhou, China	School of Business, Sun Yat-Sen University, Guangzhou, People's Republic of China
+17	36	School of Business, Sun Yat-Sen University, Guangzhou, P.R. China	School of Business, Sun Yat-Sen University, Guangzhou, People's Republic of China
+22	38	Department of Computer Science and Engineering, Ohio State University, Columbus OH 43210	Department of Computer Science and Engineering, Ohio State University, Columbus 43210
+22	39	Department of Computer Science and Engineering, Ohio State University, Columbus OH 43210	Department of Computer Science and Engineering, Ohio State University, Columbus OH 43210
+33	37	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong.	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+33	43	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong.	Department of Industrial Engineering and Engineering Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+37	43	Department of Industrial Engineering and Engineering Management, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Department of Industrial Engineering and Engineering Management, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+38	39	Department of Computer Science and Engineering, Ohio State University, Columbus 43210	Department of Computer Science and Engineering, Ohio State University, Columbus OH 43210

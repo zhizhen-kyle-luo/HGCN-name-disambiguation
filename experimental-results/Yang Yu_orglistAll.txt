@@ -1,0 +1,2485 @@
+0	1	null	Stony Brook University, NY
+0	2	null	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA
+0	3	null	Chiba Institute of Technology, Narashino, Japan
+0	4	null	null
+0	5	null	null
+0	6	null	Stony Brook University, Stony Brook, NY
+0	7	null	null
+0	8	null	Sun Yat-sen University, China
+0	9	null	Sun Yat-sen University
+0	10	null	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+0	11	null	Illinois Univ., Chicago
+0	12	null	Motorola Labs., Schaumburg
+0	13	null	null
+0	14	null	Nanjing Univ., Nanjing
+0	15	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+0	16	null	null
+0	17	null	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+0	18	null	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+0	19	null	Purdue University
+0	20	null	null
+0	21	null	null
+0	22	null	University of Southern California, Los Angeles
+0	23	null	Dept. of Comput. Sci., Nankai Univ., China
+0	24	null	Nankai University, Tianjin, China
+0	25	null	Nankai Univ., Tianjin,China
+0	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+0	27	null	Nankai University, China
+0	28	null	University of Southern California, Los Angeles, CA
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	null
+0	33	null	null
+0	34	null	null
+0	35	null	Motorola Labs
+0	36	null	null
+0	37	null	Stony Brook University
+0	38	null	Stony Brook University, Stony Brook, NY
+0	39	null	Comput. Sch., Wuhan Univ. of Technol.
+0	40	null	Sun-yat Sen Univ., Guangzhou
+0	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+0	42	null	Motorola Labs, Schaumburg
+0	43	null	null
+0	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+0	45	null	null
+0	46	null	null
+0	47	null	null
+0	48	null	null
+0	49	null	null
+0	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+0	51	null	Univ. of Southern California, Los Angeles, CA, USA
+0	52	null	IEEE
+0	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+0	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+0	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+0	56	null	null
+0	57	null	null
+0	58	null	null
+0	59	null	null
+0	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+0	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+0	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+0	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+0	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+0	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+0	66	null	null
+0	67	null	Stony Brook University
+0	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+0	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+0	70	null	Northeastern University, China
+1	2	Stony Brook University, NY	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA
+1	3	Stony Brook University, NY	Chiba Institute of Technology, Narashino, Japan
+1	4	Stony Brook University, NY	null
+1	5	Stony Brook University, NY	null
+1	6	Stony Brook University, NY	Stony Brook University, Stony Brook, NY
+1	7	Stony Brook University, NY	null
+1	8	Stony Brook University, NY	Sun Yat-sen University, China
+1	9	Stony Brook University, NY	Sun Yat-sen University
+1	10	Stony Brook University, NY	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+1	11	Stony Brook University, NY	Illinois Univ., Chicago
+1	12	Stony Brook University, NY	Motorola Labs., Schaumburg
+1	13	Stony Brook University, NY	null
+1	14	Stony Brook University, NY	Nanjing Univ., Nanjing
+1	15	Stony Brook University, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+1	16	Stony Brook University, NY	null
+1	17	Stony Brook University, NY	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+1	18	Stony Brook University, NY	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+1	19	Stony Brook University, NY	Purdue University
+1	20	Stony Brook University, NY	null
+1	21	Stony Brook University, NY	null
+1	22	Stony Brook University, NY	University of Southern California, Los Angeles
+1	23	Stony Brook University, NY	Dept. of Comput. Sci., Nankai Univ., China
+1	24	Stony Brook University, NY	Nankai University, Tianjin, China
+1	25	Stony Brook University, NY	Nankai Univ., Tianjin,China
+1	26	Stony Brook University, NY	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+1	27	Stony Brook University, NY	Nankai University, China
+1	28	Stony Brook University, NY	University of Southern California, Los Angeles, CA
+1	29	Stony Brook University, NY	null
+1	30	Stony Brook University, NY	null
+1	31	Stony Brook University, NY	null
+1	32	Stony Brook University, NY	null
+1	33	Stony Brook University, NY	null
+1	34	Stony Brook University, NY	null
+1	35	Stony Brook University, NY	Motorola Labs
+1	36	Stony Brook University, NY	null
+1	37	Stony Brook University, NY	Stony Brook University
+1	38	Stony Brook University, NY	Stony Brook University, Stony Brook, NY
+1	39	Stony Brook University, NY	Comput. Sch., Wuhan Univ. of Technol.
+1	40	Stony Brook University, NY	Sun-yat Sen Univ., Guangzhou
+1	41	Stony Brook University, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+1	42	Stony Brook University, NY	Motorola Labs, Schaumburg
+1	43	Stony Brook University, NY	null
+1	44	Stony Brook University, NY	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+1	45	Stony Brook University, NY	null
+1	46	Stony Brook University, NY	null
+1	47	Stony Brook University, NY	null
+1	48	Stony Brook University, NY	null
+1	49	Stony Brook University, NY	null
+1	50	Stony Brook University, NY	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+1	51	Stony Brook University, NY	Univ. of Southern California, Los Angeles, CA, USA
+1	52	Stony Brook University, NY	IEEE
+1	53	Stony Brook University, NY	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+1	54	Stony Brook University, NY	Application Res. Center, Motorola Labs., Schaumburg, IL
+1	55	Stony Brook University, NY	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+1	56	Stony Brook University, NY	null
+1	57	Stony Brook University, NY	null
+1	58	Stony Brook University, NY	null
+1	59	Stony Brook University, NY	null
+1	60	Stony Brook University, NY	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+1	61	Stony Brook University, NY	GainSpan, Inc., Los Gatos, California 95032, United States
+1	62	Stony Brook University, NY	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+1	63	Stony Brook University, NY	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+1	64	Stony Brook University, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+1	65	Stony Brook University, NY	Datang Mobile Commun. Equip. Com., Ltd., China
+1	66	Stony Brook University, NY	null
+1	67	Stony Brook University, NY	Stony Brook University
+1	68	Stony Brook University, NY	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+1	69	Stony Brook University, NY	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+1	70	Stony Brook University, NY	Northeastern University, China
+2	3	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Chiba Institute of Technology, Narashino, Japan
+2	4	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	5	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	6	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Stony Brook University, Stony Brook, NY
+2	7	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	8	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Sun Yat-sen University, China
+2	9	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Sun Yat-sen University
+2	10	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+2	11	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Illinois Univ., Chicago
+2	12	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Motorola Labs., Schaumburg
+2	13	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	14	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nanjing Univ., Nanjing
+2	15	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+2	16	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	17	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+2	18	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+2	19	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Purdue University
+2	20	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	21	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	22	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	University of Southern California, Los Angeles
+2	23	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Dept. of Comput. Sci., Nankai Univ., China
+2	24	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nankai University, Tianjin, China
+2	25	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nankai Univ., Tianjin,China
+2	26	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+2	27	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nankai University, China
+2	28	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	University of Southern California, Los Angeles, CA
+2	29	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	30	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	31	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	32	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	33	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	34	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	35	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Motorola Labs
+2	36	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	37	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Stony Brook University
+2	38	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Stony Brook University, Stony Brook, NY
+2	39	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Comput. Sch., Wuhan Univ. of Technol.
+2	40	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Sun-yat Sen Univ., Guangzhou
+2	41	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+2	42	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Motorola Labs, Schaumburg
+2	43	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	44	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+2	45	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	46	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	47	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	48	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	49	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	50	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+2	51	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Univ. of Southern California, Los Angeles, CA, USA
+2	52	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	IEEE
+2	53	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+2	54	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Application Res. Center, Motorola Labs., Schaumburg, IL
+2	55	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+2	56	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	57	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	58	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	59	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	60	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+2	61	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	GainSpan, Inc., Los Gatos, California 95032, United States
+2	62	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+2	63	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+2	64	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+2	65	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Datang Mobile Commun. Equip. Com., Ltd., China
+2	66	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	null
+2	67	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Stony Brook University
+2	68	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+2	69	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+2	70	Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, Baltimore, MD 21250, USA	Northeastern University, China
+3	4	Chiba Institute of Technology, Narashino, Japan	null
+3	5	Chiba Institute of Technology, Narashino, Japan	null
+3	6	Chiba Institute of Technology, Narashino, Japan	Stony Brook University, Stony Brook, NY
+3	7	Chiba Institute of Technology, Narashino, Japan	null
+3	8	Chiba Institute of Technology, Narashino, Japan	Sun Yat-sen University, China
+3	9	Chiba Institute of Technology, Narashino, Japan	Sun Yat-sen University
+3	10	Chiba Institute of Technology, Narashino, Japan	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+3	11	Chiba Institute of Technology, Narashino, Japan	Illinois Univ., Chicago
+3	12	Chiba Institute of Technology, Narashino, Japan	Motorola Labs., Schaumburg
+3	13	Chiba Institute of Technology, Narashino, Japan	null
+3	14	Chiba Institute of Technology, Narashino, Japan	Nanjing Univ., Nanjing
+3	15	Chiba Institute of Technology, Narashino, Japan	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+3	16	Chiba Institute of Technology, Narashino, Japan	null
+3	17	Chiba Institute of Technology, Narashino, Japan	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+3	18	Chiba Institute of Technology, Narashino, Japan	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+3	19	Chiba Institute of Technology, Narashino, Japan	Purdue University
+3	20	Chiba Institute of Technology, Narashino, Japan	null
+3	21	Chiba Institute of Technology, Narashino, Japan	null
+3	22	Chiba Institute of Technology, Narashino, Japan	University of Southern California, Los Angeles
+3	23	Chiba Institute of Technology, Narashino, Japan	Dept. of Comput. Sci., Nankai Univ., China
+3	24	Chiba Institute of Technology, Narashino, Japan	Nankai University, Tianjin, China
+3	25	Chiba Institute of Technology, Narashino, Japan	Nankai Univ., Tianjin,China
+3	26	Chiba Institute of Technology, Narashino, Japan	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+3	27	Chiba Institute of Technology, Narashino, Japan	Nankai University, China
+3	28	Chiba Institute of Technology, Narashino, Japan	University of Southern California, Los Angeles, CA
+3	29	Chiba Institute of Technology, Narashino, Japan	null
+3	30	Chiba Institute of Technology, Narashino, Japan	null
+3	31	Chiba Institute of Technology, Narashino, Japan	null
+3	32	Chiba Institute of Technology, Narashino, Japan	null
+3	33	Chiba Institute of Technology, Narashino, Japan	null
+3	34	Chiba Institute of Technology, Narashino, Japan	null
+3	35	Chiba Institute of Technology, Narashino, Japan	Motorola Labs
+3	36	Chiba Institute of Technology, Narashino, Japan	null
+3	37	Chiba Institute of Technology, Narashino, Japan	Stony Brook University
+3	38	Chiba Institute of Technology, Narashino, Japan	Stony Brook University, Stony Brook, NY
+3	39	Chiba Institute of Technology, Narashino, Japan	Comput. Sch., Wuhan Univ. of Technol.
+3	40	Chiba Institute of Technology, Narashino, Japan	Sun-yat Sen Univ., Guangzhou
+3	41	Chiba Institute of Technology, Narashino, Japan	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+3	42	Chiba Institute of Technology, Narashino, Japan	Motorola Labs, Schaumburg
+3	43	Chiba Institute of Technology, Narashino, Japan	null
+3	44	Chiba Institute of Technology, Narashino, Japan	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+3	45	Chiba Institute of Technology, Narashino, Japan	null
+3	46	Chiba Institute of Technology, Narashino, Japan	null
+3	47	Chiba Institute of Technology, Narashino, Japan	null
+3	48	Chiba Institute of Technology, Narashino, Japan	null
+3	49	Chiba Institute of Technology, Narashino, Japan	null
+3	50	Chiba Institute of Technology, Narashino, Japan	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+3	51	Chiba Institute of Technology, Narashino, Japan	Univ. of Southern California, Los Angeles, CA, USA
+3	52	Chiba Institute of Technology, Narashino, Japan	IEEE
+3	53	Chiba Institute of Technology, Narashino, Japan	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+3	54	Chiba Institute of Technology, Narashino, Japan	Application Res. Center, Motorola Labs., Schaumburg, IL
+3	55	Chiba Institute of Technology, Narashino, Japan	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+3	56	Chiba Institute of Technology, Narashino, Japan	null
+3	57	Chiba Institute of Technology, Narashino, Japan	null
+3	58	Chiba Institute of Technology, Narashino, Japan	null
+3	59	Chiba Institute of Technology, Narashino, Japan	null
+3	60	Chiba Institute of Technology, Narashino, Japan	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+3	61	Chiba Institute of Technology, Narashino, Japan	GainSpan, Inc., Los Gatos, California 95032, United States
+3	62	Chiba Institute of Technology, Narashino, Japan	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+3	63	Chiba Institute of Technology, Narashino, Japan	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+3	64	Chiba Institute of Technology, Narashino, Japan	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+3	65	Chiba Institute of Technology, Narashino, Japan	Datang Mobile Commun. Equip. Com., Ltd., China
+3	66	Chiba Institute of Technology, Narashino, Japan	null
+3	67	Chiba Institute of Technology, Narashino, Japan	Stony Brook University
+3	68	Chiba Institute of Technology, Narashino, Japan	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+3	69	Chiba Institute of Technology, Narashino, Japan	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+3	70	Chiba Institute of Technology, Narashino, Japan	Northeastern University, China
+4	5	null	null
+4	6	null	Stony Brook University, Stony Brook, NY
+4	7	null	null
+4	8	null	Sun Yat-sen University, China
+4	9	null	Sun Yat-sen University
+4	10	null	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+4	11	null	Illinois Univ., Chicago
+4	12	null	Motorola Labs., Schaumburg
+4	13	null	null
+4	14	null	Nanjing Univ., Nanjing
+4	15	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+4	16	null	null
+4	17	null	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+4	18	null	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+4	19	null	Purdue University
+4	20	null	null
+4	21	null	null
+4	22	null	University of Southern California, Los Angeles
+4	23	null	Dept. of Comput. Sci., Nankai Univ., China
+4	24	null	Nankai University, Tianjin, China
+4	25	null	Nankai Univ., Tianjin,China
+4	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+4	27	null	Nankai University, China
+4	28	null	University of Southern California, Los Angeles, CA
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	null
+4	35	null	Motorola Labs
+4	36	null	null
+4	37	null	Stony Brook University
+4	38	null	Stony Brook University, Stony Brook, NY
+4	39	null	Comput. Sch., Wuhan Univ. of Technol.
+4	40	null	Sun-yat Sen Univ., Guangzhou
+4	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+4	42	null	Motorola Labs, Schaumburg
+4	43	null	null
+4	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+4	45	null	null
+4	46	null	null
+4	47	null	null
+4	48	null	null
+4	49	null	null
+4	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+4	51	null	Univ. of Southern California, Los Angeles, CA, USA
+4	52	null	IEEE
+4	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+4	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+4	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+4	56	null	null
+4	57	null	null
+4	58	null	null
+4	59	null	null
+4	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+4	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+4	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+4	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+4	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+4	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+4	66	null	null
+4	67	null	Stony Brook University
+4	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+4	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+4	70	null	Northeastern University, China
+5	6	null	Stony Brook University, Stony Brook, NY
+5	7	null	null
+5	8	null	Sun Yat-sen University, China
+5	9	null	Sun Yat-sen University
+5	10	null	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+5	11	null	Illinois Univ., Chicago
+5	12	null	Motorola Labs., Schaumburg
+5	13	null	null
+5	14	null	Nanjing Univ., Nanjing
+5	15	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+5	16	null	null
+5	17	null	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+5	18	null	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+5	19	null	Purdue University
+5	20	null	null
+5	21	null	null
+5	22	null	University of Southern California, Los Angeles
+5	23	null	Dept. of Comput. Sci., Nankai Univ., China
+5	24	null	Nankai University, Tianjin, China
+5	25	null	Nankai Univ., Tianjin,China
+5	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+5	27	null	Nankai University, China
+5	28	null	University of Southern California, Los Angeles, CA
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	null
+5	34	null	null
+5	35	null	Motorola Labs
+5	36	null	null
+5	37	null	Stony Brook University
+5	38	null	Stony Brook University, Stony Brook, NY
+5	39	null	Comput. Sch., Wuhan Univ. of Technol.
+5	40	null	Sun-yat Sen Univ., Guangzhou
+5	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+5	42	null	Motorola Labs, Schaumburg
+5	43	null	null
+5	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+5	45	null	null
+5	46	null	null
+5	47	null	null
+5	48	null	null
+5	49	null	null
+5	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+5	51	null	Univ. of Southern California, Los Angeles, CA, USA
+5	52	null	IEEE
+5	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+5	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+5	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+5	56	null	null
+5	57	null	null
+5	58	null	null
+5	59	null	null
+5	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+5	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+5	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+5	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+5	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+5	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+5	66	null	null
+5	67	null	Stony Brook University
+5	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+5	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+5	70	null	Northeastern University, China
+6	7	Stony Brook University, Stony Brook, NY	null
+6	8	Stony Brook University, Stony Brook, NY	Sun Yat-sen University, China
+6	9	Stony Brook University, Stony Brook, NY	Sun Yat-sen University
+6	10	Stony Brook University, Stony Brook, NY	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+6	11	Stony Brook University, Stony Brook, NY	Illinois Univ., Chicago
+6	12	Stony Brook University, Stony Brook, NY	Motorola Labs., Schaumburg
+6	13	Stony Brook University, Stony Brook, NY	null
+6	14	Stony Brook University, Stony Brook, NY	Nanjing Univ., Nanjing
+6	15	Stony Brook University, Stony Brook, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+6	16	Stony Brook University, Stony Brook, NY	null
+6	17	Stony Brook University, Stony Brook, NY	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+6	18	Stony Brook University, Stony Brook, NY	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+6	19	Stony Brook University, Stony Brook, NY	Purdue University
+6	20	Stony Brook University, Stony Brook, NY	null
+6	21	Stony Brook University, Stony Brook, NY	null
+6	22	Stony Brook University, Stony Brook, NY	University of Southern California, Los Angeles
+6	23	Stony Brook University, Stony Brook, NY	Dept. of Comput. Sci., Nankai Univ., China
+6	24	Stony Brook University, Stony Brook, NY	Nankai University, Tianjin, China
+6	25	Stony Brook University, Stony Brook, NY	Nankai Univ., Tianjin,China
+6	26	Stony Brook University, Stony Brook, NY	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+6	27	Stony Brook University, Stony Brook, NY	Nankai University, China
+6	28	Stony Brook University, Stony Brook, NY	University of Southern California, Los Angeles, CA
+6	29	Stony Brook University, Stony Brook, NY	null
+6	30	Stony Brook University, Stony Brook, NY	null
+6	31	Stony Brook University, Stony Brook, NY	null
+6	32	Stony Brook University, Stony Brook, NY	null
+6	33	Stony Brook University, Stony Brook, NY	null
+6	34	Stony Brook University, Stony Brook, NY	null
+6	35	Stony Brook University, Stony Brook, NY	Motorola Labs
+6	36	Stony Brook University, Stony Brook, NY	null
+6	37	Stony Brook University, Stony Brook, NY	Stony Brook University
+6	38	Stony Brook University, Stony Brook, NY	Stony Brook University, Stony Brook, NY
+6	39	Stony Brook University, Stony Brook, NY	Comput. Sch., Wuhan Univ. of Technol.
+6	40	Stony Brook University, Stony Brook, NY	Sun-yat Sen Univ., Guangzhou
+6	41	Stony Brook University, Stony Brook, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+6	42	Stony Brook University, Stony Brook, NY	Motorola Labs, Schaumburg
+6	43	Stony Brook University, Stony Brook, NY	null
+6	44	Stony Brook University, Stony Brook, NY	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+6	45	Stony Brook University, Stony Brook, NY	null
+6	46	Stony Brook University, Stony Brook, NY	null
+6	47	Stony Brook University, Stony Brook, NY	null
+6	48	Stony Brook University, Stony Brook, NY	null
+6	49	Stony Brook University, Stony Brook, NY	null
+6	50	Stony Brook University, Stony Brook, NY	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+6	51	Stony Brook University, Stony Brook, NY	Univ. of Southern California, Los Angeles, CA, USA
+6	52	Stony Brook University, Stony Brook, NY	IEEE
+6	53	Stony Brook University, Stony Brook, NY	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+6	54	Stony Brook University, Stony Brook, NY	Application Res. Center, Motorola Labs., Schaumburg, IL
+6	55	Stony Brook University, Stony Brook, NY	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+6	56	Stony Brook University, Stony Brook, NY	null
+6	57	Stony Brook University, Stony Brook, NY	null
+6	58	Stony Brook University, Stony Brook, NY	null
+6	59	Stony Brook University, Stony Brook, NY	null
+6	60	Stony Brook University, Stony Brook, NY	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+6	61	Stony Brook University, Stony Brook, NY	GainSpan, Inc., Los Gatos, California 95032, United States
+6	62	Stony Brook University, Stony Brook, NY	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+6	63	Stony Brook University, Stony Brook, NY	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+6	64	Stony Brook University, Stony Brook, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+6	65	Stony Brook University, Stony Brook, NY	Datang Mobile Commun. Equip. Com., Ltd., China
+6	66	Stony Brook University, Stony Brook, NY	null
+6	67	Stony Brook University, Stony Brook, NY	Stony Brook University
+6	68	Stony Brook University, Stony Brook, NY	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+6	69	Stony Brook University, Stony Brook, NY	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+6	70	Stony Brook University, Stony Brook, NY	Northeastern University, China
+7	8	null	Sun Yat-sen University, China
+7	9	null	Sun Yat-sen University
+7	10	null	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+7	11	null	Illinois Univ., Chicago
+7	12	null	Motorola Labs., Schaumburg
+7	13	null	null
+7	14	null	Nanjing Univ., Nanjing
+7	15	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+7	16	null	null
+7	17	null	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+7	18	null	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+7	19	null	Purdue University
+7	20	null	null
+7	21	null	null
+7	22	null	University of Southern California, Los Angeles
+7	23	null	Dept. of Comput. Sci., Nankai Univ., China
+7	24	null	Nankai University, Tianjin, China
+7	25	null	Nankai Univ., Tianjin,China
+7	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+7	27	null	Nankai University, China
+7	28	null	University of Southern California, Los Angeles, CA
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	null
+7	34	null	null
+7	35	null	Motorola Labs
+7	36	null	null
+7	37	null	Stony Brook University
+7	38	null	Stony Brook University, Stony Brook, NY
+7	39	null	Comput. Sch., Wuhan Univ. of Technol.
+7	40	null	Sun-yat Sen Univ., Guangzhou
+7	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+7	42	null	Motorola Labs, Schaumburg
+7	43	null	null
+7	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+7	45	null	null
+7	46	null	null
+7	47	null	null
+7	48	null	null
+7	49	null	null
+7	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+7	51	null	Univ. of Southern California, Los Angeles, CA, USA
+7	52	null	IEEE
+7	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+7	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+7	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+7	56	null	null
+7	57	null	null
+7	58	null	null
+7	59	null	null
+7	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+7	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+7	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+7	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+7	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+7	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+7	66	null	null
+7	67	null	Stony Brook University
+7	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+7	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+7	70	null	Northeastern University, China
+8	9	Sun Yat-sen University, China	Sun Yat-sen University
+8	10	Sun Yat-sen University, China	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+8	11	Sun Yat-sen University, China	Illinois Univ., Chicago
+8	12	Sun Yat-sen University, China	Motorola Labs., Schaumburg
+8	13	Sun Yat-sen University, China	null
+8	14	Sun Yat-sen University, China	Nanjing Univ., Nanjing
+8	15	Sun Yat-sen University, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+8	16	Sun Yat-sen University, China	null
+8	17	Sun Yat-sen University, China	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+8	18	Sun Yat-sen University, China	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+8	19	Sun Yat-sen University, China	Purdue University
+8	20	Sun Yat-sen University, China	null
+8	21	Sun Yat-sen University, China	null
+8	22	Sun Yat-sen University, China	University of Southern California, Los Angeles
+8	23	Sun Yat-sen University, China	Dept. of Comput. Sci., Nankai Univ., China
+8	24	Sun Yat-sen University, China	Nankai University, Tianjin, China
+8	25	Sun Yat-sen University, China	Nankai Univ., Tianjin,China
+8	26	Sun Yat-sen University, China	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+8	27	Sun Yat-sen University, China	Nankai University, China
+8	28	Sun Yat-sen University, China	University of Southern California, Los Angeles, CA
+8	29	Sun Yat-sen University, China	null
+8	30	Sun Yat-sen University, China	null
+8	31	Sun Yat-sen University, China	null
+8	32	Sun Yat-sen University, China	null
+8	33	Sun Yat-sen University, China	null
+8	34	Sun Yat-sen University, China	null
+8	35	Sun Yat-sen University, China	Motorola Labs
+8	36	Sun Yat-sen University, China	null
+8	37	Sun Yat-sen University, China	Stony Brook University
+8	38	Sun Yat-sen University, China	Stony Brook University, Stony Brook, NY
+8	39	Sun Yat-sen University, China	Comput. Sch., Wuhan Univ. of Technol.
+8	40	Sun Yat-sen University, China	Sun-yat Sen Univ., Guangzhou
+8	41	Sun Yat-sen University, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+8	42	Sun Yat-sen University, China	Motorola Labs, Schaumburg
+8	43	Sun Yat-sen University, China	null
+8	44	Sun Yat-sen University, China	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+8	45	Sun Yat-sen University, China	null
+8	46	Sun Yat-sen University, China	null
+8	47	Sun Yat-sen University, China	null
+8	48	Sun Yat-sen University, China	null
+8	49	Sun Yat-sen University, China	null
+8	50	Sun Yat-sen University, China	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+8	51	Sun Yat-sen University, China	Univ. of Southern California, Los Angeles, CA, USA
+8	52	Sun Yat-sen University, China	IEEE
+8	53	Sun Yat-sen University, China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+8	54	Sun Yat-sen University, China	Application Res. Center, Motorola Labs., Schaumburg, IL
+8	55	Sun Yat-sen University, China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+8	56	Sun Yat-sen University, China	null
+8	57	Sun Yat-sen University, China	null
+8	58	Sun Yat-sen University, China	null
+8	59	Sun Yat-sen University, China	null
+8	60	Sun Yat-sen University, China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+8	61	Sun Yat-sen University, China	GainSpan, Inc., Los Gatos, California 95032, United States
+8	62	Sun Yat-sen University, China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+8	63	Sun Yat-sen University, China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+8	64	Sun Yat-sen University, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+8	65	Sun Yat-sen University, China	Datang Mobile Commun. Equip. Com., Ltd., China
+8	66	Sun Yat-sen University, China	null
+8	67	Sun Yat-sen University, China	Stony Brook University
+8	68	Sun Yat-sen University, China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+8	69	Sun Yat-sen University, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+8	70	Sun Yat-sen University, China	Northeastern University, China
+9	10	Sun Yat-sen University	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin
+9	11	Sun Yat-sen University	Illinois Univ., Chicago
+9	12	Sun Yat-sen University	Motorola Labs., Schaumburg
+9	13	Sun Yat-sen University	null
+9	14	Sun Yat-sen University	Nanjing Univ., Nanjing
+9	15	Sun Yat-sen University	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+9	16	Sun Yat-sen University	null
+9	17	Sun Yat-sen University	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+9	18	Sun Yat-sen University	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+9	19	Sun Yat-sen University	Purdue University
+9	20	Sun Yat-sen University	null
+9	21	Sun Yat-sen University	null
+9	22	Sun Yat-sen University	University of Southern California, Los Angeles
+9	23	Sun Yat-sen University	Dept. of Comput. Sci., Nankai Univ., China
+9	24	Sun Yat-sen University	Nankai University, Tianjin, China
+9	25	Sun Yat-sen University	Nankai Univ., Tianjin,China
+9	26	Sun Yat-sen University	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+9	27	Sun Yat-sen University	Nankai University, China
+9	28	Sun Yat-sen University	University of Southern California, Los Angeles, CA
+9	29	Sun Yat-sen University	null
+9	30	Sun Yat-sen University	null
+9	31	Sun Yat-sen University	null
+9	32	Sun Yat-sen University	null
+9	33	Sun Yat-sen University	null
+9	34	Sun Yat-sen University	null
+9	35	Sun Yat-sen University	Motorola Labs
+9	36	Sun Yat-sen University	null
+9	37	Sun Yat-sen University	Stony Brook University
+9	38	Sun Yat-sen University	Stony Brook University, Stony Brook, NY
+9	39	Sun Yat-sen University	Comput. Sch., Wuhan Univ. of Technol.
+9	40	Sun Yat-sen University	Sun-yat Sen Univ., Guangzhou
+9	41	Sun Yat-sen University	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+9	42	Sun Yat-sen University	Motorola Labs, Schaumburg
+9	43	Sun Yat-sen University	null
+9	44	Sun Yat-sen University	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+9	45	Sun Yat-sen University	null
+9	46	Sun Yat-sen University	null
+9	47	Sun Yat-sen University	null
+9	48	Sun Yat-sen University	null
+9	49	Sun Yat-sen University	null
+9	50	Sun Yat-sen University	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+9	51	Sun Yat-sen University	Univ. of Southern California, Los Angeles, CA, USA
+9	52	Sun Yat-sen University	IEEE
+9	53	Sun Yat-sen University	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+9	54	Sun Yat-sen University	Application Res. Center, Motorola Labs., Schaumburg, IL
+9	55	Sun Yat-sen University	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+9	56	Sun Yat-sen University	null
+9	57	Sun Yat-sen University	null
+9	58	Sun Yat-sen University	null
+9	59	Sun Yat-sen University	null
+9	60	Sun Yat-sen University	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+9	61	Sun Yat-sen University	GainSpan, Inc., Los Gatos, California 95032, United States
+9	62	Sun Yat-sen University	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+9	63	Sun Yat-sen University	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+9	64	Sun Yat-sen University	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+9	65	Sun Yat-sen University	Datang Mobile Commun. Equip. Com., Ltd., China
+9	66	Sun Yat-sen University	null
+9	67	Sun Yat-sen University	Stony Brook University
+9	68	Sun Yat-sen University	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+9	69	Sun Yat-sen University	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+9	70	Sun Yat-sen University	Northeastern University, China
+10	11	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Illinois Univ., Chicago
+10	12	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Motorola Labs., Schaumburg
+10	13	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	14	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nanjing Univ., Nanjing
+10	15	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+10	16	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	17	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+10	18	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+10	19	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Purdue University
+10	20	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	21	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	22	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	University of Southern California, Los Angeles
+10	23	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Dept. of Comput. Sci., Nankai Univ., China
+10	24	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nankai University, Tianjin, China
+10	25	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nankai Univ., Tianjin,China
+10	26	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+10	27	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nankai University, China
+10	28	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	University of Southern California, Los Angeles, CA
+10	29	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	30	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	31	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	32	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	33	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	34	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	35	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Motorola Labs
+10	36	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	37	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Stony Brook University
+10	38	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Stony Brook University, Stony Brook, NY
+10	39	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Comput. Sch., Wuhan Univ. of Technol.
+10	40	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Sun-yat Sen Univ., Guangzhou
+10	41	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+10	42	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Motorola Labs, Schaumburg
+10	43	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	44	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+10	45	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	46	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	47	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	48	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	49	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	50	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+10	51	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Univ. of Southern California, Los Angeles, CA, USA
+10	52	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	IEEE
+10	53	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+10	54	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Application Res. Center, Motorola Labs., Schaumburg, IL
+10	55	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+10	56	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	57	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	58	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	59	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	60	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+10	61	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	GainSpan, Inc., Los Gatos, California 95032, United States
+10	62	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+10	63	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+10	64	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+10	65	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Datang Mobile Commun. Equip. Com., Ltd., China
+10	66	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	null
+10	67	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Stony Brook University
+10	68	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+10	69	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+10	70	Dept. of Comput. Sci. & Inf., Univ. Coll. Dublin, Dublin	Northeastern University, China
+11	12	Illinois Univ., Chicago	Motorola Labs., Schaumburg
+11	13	Illinois Univ., Chicago	null
+11	14	Illinois Univ., Chicago	Nanjing Univ., Nanjing
+11	15	Illinois Univ., Chicago	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+11	16	Illinois Univ., Chicago	null
+11	17	Illinois Univ., Chicago	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+11	18	Illinois Univ., Chicago	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+11	19	Illinois Univ., Chicago	Purdue University
+11	20	Illinois Univ., Chicago	null
+11	21	Illinois Univ., Chicago	null
+11	22	Illinois Univ., Chicago	University of Southern California, Los Angeles
+11	23	Illinois Univ., Chicago	Dept. of Comput. Sci., Nankai Univ., China
+11	24	Illinois Univ., Chicago	Nankai University, Tianjin, China
+11	25	Illinois Univ., Chicago	Nankai Univ., Tianjin,China
+11	26	Illinois Univ., Chicago	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+11	27	Illinois Univ., Chicago	Nankai University, China
+11	28	Illinois Univ., Chicago	University of Southern California, Los Angeles, CA
+11	29	Illinois Univ., Chicago	null
+11	30	Illinois Univ., Chicago	null
+11	31	Illinois Univ., Chicago	null
+11	32	Illinois Univ., Chicago	null
+11	33	Illinois Univ., Chicago	null
+11	34	Illinois Univ., Chicago	null
+11	35	Illinois Univ., Chicago	Motorola Labs
+11	36	Illinois Univ., Chicago	null
+11	37	Illinois Univ., Chicago	Stony Brook University
+11	38	Illinois Univ., Chicago	Stony Brook University, Stony Brook, NY
+11	39	Illinois Univ., Chicago	Comput. Sch., Wuhan Univ. of Technol.
+11	40	Illinois Univ., Chicago	Sun-yat Sen Univ., Guangzhou
+11	41	Illinois Univ., Chicago	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+11	42	Illinois Univ., Chicago	Motorola Labs, Schaumburg
+11	43	Illinois Univ., Chicago	null
+11	44	Illinois Univ., Chicago	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+11	45	Illinois Univ., Chicago	null
+11	46	Illinois Univ., Chicago	null
+11	47	Illinois Univ., Chicago	null
+11	48	Illinois Univ., Chicago	null
+11	49	Illinois Univ., Chicago	null
+11	50	Illinois Univ., Chicago	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+11	51	Illinois Univ., Chicago	Univ. of Southern California, Los Angeles, CA, USA
+11	52	Illinois Univ., Chicago	IEEE
+11	53	Illinois Univ., Chicago	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+11	54	Illinois Univ., Chicago	Application Res. Center, Motorola Labs., Schaumburg, IL
+11	55	Illinois Univ., Chicago	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+11	56	Illinois Univ., Chicago	null
+11	57	Illinois Univ., Chicago	null
+11	58	Illinois Univ., Chicago	null
+11	59	Illinois Univ., Chicago	null
+11	60	Illinois Univ., Chicago	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+11	61	Illinois Univ., Chicago	GainSpan, Inc., Los Gatos, California 95032, United States
+11	62	Illinois Univ., Chicago	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+11	63	Illinois Univ., Chicago	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+11	64	Illinois Univ., Chicago	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+11	65	Illinois Univ., Chicago	Datang Mobile Commun. Equip. Com., Ltd., China
+11	66	Illinois Univ., Chicago	null
+11	67	Illinois Univ., Chicago	Stony Brook University
+11	68	Illinois Univ., Chicago	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+11	69	Illinois Univ., Chicago	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+11	70	Illinois Univ., Chicago	Northeastern University, China
+12	13	Motorola Labs., Schaumburg	null
+12	14	Motorola Labs., Schaumburg	Nanjing Univ., Nanjing
+12	15	Motorola Labs., Schaumburg	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+12	16	Motorola Labs., Schaumburg	null
+12	17	Motorola Labs., Schaumburg	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+12	18	Motorola Labs., Schaumburg	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+12	19	Motorola Labs., Schaumburg	Purdue University
+12	20	Motorola Labs., Schaumburg	null
+12	21	Motorola Labs., Schaumburg	null
+12	22	Motorola Labs., Schaumburg	University of Southern California, Los Angeles
+12	23	Motorola Labs., Schaumburg	Dept. of Comput. Sci., Nankai Univ., China
+12	24	Motorola Labs., Schaumburg	Nankai University, Tianjin, China
+12	25	Motorola Labs., Schaumburg	Nankai Univ., Tianjin,China
+12	26	Motorola Labs., Schaumburg	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+12	27	Motorola Labs., Schaumburg	Nankai University, China
+12	28	Motorola Labs., Schaumburg	University of Southern California, Los Angeles, CA
+12	29	Motorola Labs., Schaumburg	null
+12	30	Motorola Labs., Schaumburg	null
+12	31	Motorola Labs., Schaumburg	null
+12	32	Motorola Labs., Schaumburg	null
+12	33	Motorola Labs., Schaumburg	null
+12	34	Motorola Labs., Schaumburg	null
+12	35	Motorola Labs., Schaumburg	Motorola Labs
+12	36	Motorola Labs., Schaumburg	null
+12	37	Motorola Labs., Schaumburg	Stony Brook University
+12	38	Motorola Labs., Schaumburg	Stony Brook University, Stony Brook, NY
+12	39	Motorola Labs., Schaumburg	Comput. Sch., Wuhan Univ. of Technol.
+12	40	Motorola Labs., Schaumburg	Sun-yat Sen Univ., Guangzhou
+12	41	Motorola Labs., Schaumburg	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+12	42	Motorola Labs., Schaumburg	Motorola Labs, Schaumburg
+12	43	Motorola Labs., Schaumburg	null
+12	44	Motorola Labs., Schaumburg	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+12	45	Motorola Labs., Schaumburg	null
+12	46	Motorola Labs., Schaumburg	null
+12	47	Motorola Labs., Schaumburg	null
+12	48	Motorola Labs., Schaumburg	null
+12	49	Motorola Labs., Schaumburg	null
+12	50	Motorola Labs., Schaumburg	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+12	51	Motorola Labs., Schaumburg	Univ. of Southern California, Los Angeles, CA, USA
+12	52	Motorola Labs., Schaumburg	IEEE
+12	53	Motorola Labs., Schaumburg	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+12	54	Motorola Labs., Schaumburg	Application Res. Center, Motorola Labs., Schaumburg, IL
+12	55	Motorola Labs., Schaumburg	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+12	56	Motorola Labs., Schaumburg	null
+12	57	Motorola Labs., Schaumburg	null
+12	58	Motorola Labs., Schaumburg	null
+12	59	Motorola Labs., Schaumburg	null
+12	60	Motorola Labs., Schaumburg	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+12	61	Motorola Labs., Schaumburg	GainSpan, Inc., Los Gatos, California 95032, United States
+12	62	Motorola Labs., Schaumburg	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+12	63	Motorola Labs., Schaumburg	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+12	64	Motorola Labs., Schaumburg	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+12	65	Motorola Labs., Schaumburg	Datang Mobile Commun. Equip. Com., Ltd., China
+12	66	Motorola Labs., Schaumburg	null
+12	67	Motorola Labs., Schaumburg	Stony Brook University
+12	68	Motorola Labs., Schaumburg	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+12	69	Motorola Labs., Schaumburg	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+12	70	Motorola Labs., Schaumburg	Northeastern University, China
+13	14	null	Nanjing Univ., Nanjing
+13	15	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+13	16	null	null
+13	17	null	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+13	18	null	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+13	19	null	Purdue University
+13	20	null	null
+13	21	null	null
+13	22	null	University of Southern California, Los Angeles
+13	23	null	Dept. of Comput. Sci., Nankai Univ., China
+13	24	null	Nankai University, Tianjin, China
+13	25	null	Nankai Univ., Tianjin,China
+13	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+13	27	null	Nankai University, China
+13	28	null	University of Southern California, Los Angeles, CA
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	null
+13	33	null	null
+13	34	null	null
+13	35	null	Motorola Labs
+13	36	null	null
+13	37	null	Stony Brook University
+13	38	null	Stony Brook University, Stony Brook, NY
+13	39	null	Comput. Sch., Wuhan Univ. of Technol.
+13	40	null	Sun-yat Sen Univ., Guangzhou
+13	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+13	42	null	Motorola Labs, Schaumburg
+13	43	null	null
+13	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+13	45	null	null
+13	46	null	null
+13	47	null	null
+13	48	null	null
+13	49	null	null
+13	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+13	51	null	Univ. of Southern California, Los Angeles, CA, USA
+13	52	null	IEEE
+13	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+13	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+13	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+13	56	null	null
+13	57	null	null
+13	58	null	null
+13	59	null	null
+13	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+13	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+13	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+13	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+13	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+13	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+13	66	null	null
+13	67	null	Stony Brook University
+13	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+13	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+13	70	null	Northeastern University, China
+14	15	Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+14	16	Nanjing Univ., Nanjing	null
+14	17	Nanjing Univ., Nanjing	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+14	18	Nanjing Univ., Nanjing	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+14	19	Nanjing Univ., Nanjing	Purdue University
+14	20	Nanjing Univ., Nanjing	null
+14	21	Nanjing Univ., Nanjing	null
+14	22	Nanjing Univ., Nanjing	University of Southern California, Los Angeles
+14	23	Nanjing Univ., Nanjing	Dept. of Comput. Sci., Nankai Univ., China
+14	24	Nanjing Univ., Nanjing	Nankai University, Tianjin, China
+14	25	Nanjing Univ., Nanjing	Nankai Univ., Tianjin,China
+14	26	Nanjing Univ., Nanjing	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+14	27	Nanjing Univ., Nanjing	Nankai University, China
+14	28	Nanjing Univ., Nanjing	University of Southern California, Los Angeles, CA
+14	29	Nanjing Univ., Nanjing	null
+14	30	Nanjing Univ., Nanjing	null
+14	31	Nanjing Univ., Nanjing	null
+14	32	Nanjing Univ., Nanjing	null
+14	33	Nanjing Univ., Nanjing	null
+14	34	Nanjing Univ., Nanjing	null
+14	35	Nanjing Univ., Nanjing	Motorola Labs
+14	36	Nanjing Univ., Nanjing	null
+14	37	Nanjing Univ., Nanjing	Stony Brook University
+14	38	Nanjing Univ., Nanjing	Stony Brook University, Stony Brook, NY
+14	39	Nanjing Univ., Nanjing	Comput. Sch., Wuhan Univ. of Technol.
+14	40	Nanjing Univ., Nanjing	Sun-yat Sen Univ., Guangzhou
+14	41	Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+14	42	Nanjing Univ., Nanjing	Motorola Labs, Schaumburg
+14	43	Nanjing Univ., Nanjing	null
+14	44	Nanjing Univ., Nanjing	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+14	45	Nanjing Univ., Nanjing	null
+14	46	Nanjing Univ., Nanjing	null
+14	47	Nanjing Univ., Nanjing	null
+14	48	Nanjing Univ., Nanjing	null
+14	49	Nanjing Univ., Nanjing	null
+14	50	Nanjing Univ., Nanjing	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+14	51	Nanjing Univ., Nanjing	Univ. of Southern California, Los Angeles, CA, USA
+14	52	Nanjing Univ., Nanjing	IEEE
+14	53	Nanjing Univ., Nanjing	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+14	54	Nanjing Univ., Nanjing	Application Res. Center, Motorola Labs., Schaumburg, IL
+14	55	Nanjing Univ., Nanjing	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+14	56	Nanjing Univ., Nanjing	null
+14	57	Nanjing Univ., Nanjing	null
+14	58	Nanjing Univ., Nanjing	null
+14	59	Nanjing Univ., Nanjing	null
+14	60	Nanjing Univ., Nanjing	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+14	61	Nanjing Univ., Nanjing	GainSpan, Inc., Los Gatos, California 95032, United States
+14	62	Nanjing Univ., Nanjing	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+14	63	Nanjing Univ., Nanjing	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+14	64	Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+14	65	Nanjing Univ., Nanjing	Datang Mobile Commun. Equip. Com., Ltd., China
+14	66	Nanjing Univ., Nanjing	null
+14	67	Nanjing Univ., Nanjing	Stony Brook University
+14	68	Nanjing Univ., Nanjing	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+14	69	Nanjing Univ., Nanjing	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+14	70	Nanjing Univ., Nanjing	Northeastern University, China
+15	16	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	17	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+15	18	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+15	19	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Purdue University
+15	20	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	21	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	22	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	University of Southern California, Los Angeles
+15	23	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Dept. of Comput. Sci., Nankai Univ., China
+15	24	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nankai University, Tianjin, China
+15	25	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nankai Univ., Tianjin,China
+15	26	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+15	27	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nankai University, China
+15	28	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	University of Southern California, Los Angeles, CA
+15	29	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	30	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	31	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	32	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	33	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	34	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	35	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Motorola Labs
+15	36	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	37	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Stony Brook University
+15	38	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Stony Brook University, Stony Brook, NY
+15	39	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Comput. Sch., Wuhan Univ. of Technol.
+15	40	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Sun-yat Sen Univ., Guangzhou
+15	41	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+15	42	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Motorola Labs, Schaumburg
+15	43	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	44	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+15	45	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	46	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	47	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	48	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	49	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	50	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+15	51	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Univ. of Southern California, Los Angeles, CA, USA
+15	52	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	IEEE
+15	53	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+15	54	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Application Res. Center, Motorola Labs., Schaumburg, IL
+15	55	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+15	56	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	57	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	58	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	59	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	60	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+15	61	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	GainSpan, Inc., Los Gatos, California 95032, United States
+15	62	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+15	63	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+15	64	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+15	65	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Datang Mobile Commun. Equip. Com., Ltd., China
+15	66	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+15	67	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Stony Brook University
+15	68	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+15	69	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+15	70	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Northeastern University, China
+16	17	null	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA
+16	18	null	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+16	19	null	Purdue University
+16	20	null	null
+16	21	null	null
+16	22	null	University of Southern California, Los Angeles
+16	23	null	Dept. of Comput. Sci., Nankai Univ., China
+16	24	null	Nankai University, Tianjin, China
+16	25	null	Nankai Univ., Tianjin,China
+16	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+16	27	null	Nankai University, China
+16	28	null	University of Southern California, Los Angeles, CA
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	null
+16	33	null	null
+16	34	null	null
+16	35	null	Motorola Labs
+16	36	null	null
+16	37	null	Stony Brook University
+16	38	null	Stony Brook University, Stony Brook, NY
+16	39	null	Comput. Sch., Wuhan Univ. of Technol.
+16	40	null	Sun-yat Sen Univ., Guangzhou
+16	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+16	42	null	Motorola Labs, Schaumburg
+16	43	null	null
+16	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+16	45	null	null
+16	46	null	null
+16	47	null	null
+16	48	null	null
+16	49	null	null
+16	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+16	51	null	Univ. of Southern California, Los Angeles, CA, USA
+16	52	null	IEEE
+16	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+16	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+16	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+16	56	null	null
+16	57	null	null
+16	58	null	null
+16	59	null	null
+16	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+16	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+16	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+16	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+16	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+16	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+16	66	null	null
+16	67	null	Stony Brook University
+16	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+16	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+16	70	null	Northeastern University, China
+17	18	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore
+17	19	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Purdue University
+17	20	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	21	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	22	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	University of Southern California, Los Angeles
+17	23	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Dept. of Comput. Sci., Nankai Univ., China
+17	24	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Nankai University, Tianjin, China
+17	25	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Nankai Univ., Tianjin,China
+17	26	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+17	27	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Nankai University, China
+17	28	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	University of Southern California, Los Angeles, CA
+17	29	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	30	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	31	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	32	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	33	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	34	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	35	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Motorola Labs
+17	36	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	37	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Stony Brook University
+17	38	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Stony Brook University, Stony Brook, NY
+17	39	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Comput. Sch., Wuhan Univ. of Technol.
+17	40	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Sun-yat Sen Univ., Guangzhou
+17	41	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+17	42	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Motorola Labs, Schaumburg
+17	43	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	44	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+17	45	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	46	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	47	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	48	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	49	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	50	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+17	51	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Univ. of Southern California, Los Angeles, CA, USA
+17	52	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	IEEE
+17	53	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+17	54	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Application Res. Center, Motorola Labs., Schaumburg, IL
+17	55	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+17	56	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	57	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	58	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	59	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	60	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+17	61	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	GainSpan, Inc., Los Gatos, California 95032, United States
+17	62	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+17	63	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+17	64	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+17	65	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Datang Mobile Commun. Equip. Com., Ltd., China
+17	66	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	null
+17	67	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Stony Brook University
+17	68	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+17	69	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+17	70	Dept. of Electr. Eng., Univ. of Southern California, Los Angeles, CA, USA	Northeastern University, China
+18	19	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Purdue University
+18	20	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	21	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	22	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	University of Southern California, Los Angeles
+18	23	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Dept. of Comput. Sci., Nankai Univ., China
+18	24	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Nankai University, Tianjin, China
+18	25	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Nankai Univ., Tianjin,China
+18	26	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+18	27	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Nankai University, China
+18	28	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	University of Southern California, Los Angeles, CA
+18	29	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	30	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	31	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	32	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	33	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	34	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	35	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Motorola Labs
+18	36	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	37	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Stony Brook University
+18	38	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Stony Brook University, Stony Brook, NY
+18	39	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Comput. Sch., Wuhan Univ. of Technol.
+18	40	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Sun-yat Sen Univ., Guangzhou
+18	41	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+18	42	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Motorola Labs, Schaumburg
+18	43	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	44	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+18	45	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	46	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	47	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	48	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	49	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	50	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+18	51	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Univ. of Southern California, Los Angeles, CA, USA
+18	52	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	IEEE
+18	53	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+18	54	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Application Res. Center, Motorola Labs., Schaumburg, IL
+18	55	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+18	56	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	57	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	58	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	59	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	60	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+18	61	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	GainSpan, Inc., Los Gatos, California 95032, United States
+18	62	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+18	63	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+18	64	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+18	65	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Datang Mobile Commun. Equip. Com., Ltd., China
+18	66	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	null
+18	67	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Stony Brook University
+18	68	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+18	69	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+18	70	Pervasive Platforms & Archit. Lab., Applic. Res. Center, Motorola Labs., Bangalore	Northeastern University, China
+19	20	Purdue University	null
+19	21	Purdue University	null
+19	22	Purdue University	University of Southern California, Los Angeles
+19	23	Purdue University	Dept. of Comput. Sci., Nankai Univ., China
+19	24	Purdue University	Nankai University, Tianjin, China
+19	25	Purdue University	Nankai Univ., Tianjin,China
+19	26	Purdue University	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+19	27	Purdue University	Nankai University, China
+19	28	Purdue University	University of Southern California, Los Angeles, CA
+19	29	Purdue University	null
+19	30	Purdue University	null
+19	31	Purdue University	null
+19	32	Purdue University	null
+19	33	Purdue University	null
+19	34	Purdue University	null
+19	35	Purdue University	Motorola Labs
+19	36	Purdue University	null
+19	37	Purdue University	Stony Brook University
+19	38	Purdue University	Stony Brook University, Stony Brook, NY
+19	39	Purdue University	Comput. Sch., Wuhan Univ. of Technol.
+19	40	Purdue University	Sun-yat Sen Univ., Guangzhou
+19	41	Purdue University	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+19	42	Purdue University	Motorola Labs, Schaumburg
+19	43	Purdue University	null
+19	44	Purdue University	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+19	45	Purdue University	null
+19	46	Purdue University	null
+19	47	Purdue University	null
+19	48	Purdue University	null
+19	49	Purdue University	null
+19	50	Purdue University	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+19	51	Purdue University	Univ. of Southern California, Los Angeles, CA, USA
+19	52	Purdue University	IEEE
+19	53	Purdue University	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+19	54	Purdue University	Application Res. Center, Motorola Labs., Schaumburg, IL
+19	55	Purdue University	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+19	56	Purdue University	null
+19	57	Purdue University	null
+19	58	Purdue University	null
+19	59	Purdue University	null
+19	60	Purdue University	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+19	61	Purdue University	GainSpan, Inc., Los Gatos, California 95032, United States
+19	62	Purdue University	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+19	63	Purdue University	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+19	64	Purdue University	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+19	65	Purdue University	Datang Mobile Commun. Equip. Com., Ltd., China
+19	66	Purdue University	null
+19	67	Purdue University	Stony Brook University
+19	68	Purdue University	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+19	69	Purdue University	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+19	70	Purdue University	Northeastern University, China
+20	21	null	null
+20	22	null	University of Southern California, Los Angeles
+20	23	null	Dept. of Comput. Sci., Nankai Univ., China
+20	24	null	Nankai University, Tianjin, China
+20	25	null	Nankai Univ., Tianjin,China
+20	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+20	27	null	Nankai University, China
+20	28	null	University of Southern California, Los Angeles, CA
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	null
+20	33	null	null
+20	34	null	null
+20	35	null	Motorola Labs
+20	36	null	null
+20	37	null	Stony Brook University
+20	38	null	Stony Brook University, Stony Brook, NY
+20	39	null	Comput. Sch., Wuhan Univ. of Technol.
+20	40	null	Sun-yat Sen Univ., Guangzhou
+20	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+20	42	null	Motorola Labs, Schaumburg
+20	43	null	null
+20	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+20	45	null	null
+20	46	null	null
+20	47	null	null
+20	48	null	null
+20	49	null	null
+20	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+20	51	null	Univ. of Southern California, Los Angeles, CA, USA
+20	52	null	IEEE
+20	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+20	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+20	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+20	56	null	null
+20	57	null	null
+20	58	null	null
+20	59	null	null
+20	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+20	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+20	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+20	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+20	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+20	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+20	66	null	null
+20	67	null	Stony Brook University
+20	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+20	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+20	70	null	Northeastern University, China
+21	22	null	University of Southern California, Los Angeles
+21	23	null	Dept. of Comput. Sci., Nankai Univ., China
+21	24	null	Nankai University, Tianjin, China
+21	25	null	Nankai Univ., Tianjin,China
+21	26	null	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+21	27	null	Nankai University, China
+21	28	null	University of Southern California, Los Angeles, CA
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	null
+21	34	null	null
+21	35	null	Motorola Labs
+21	36	null	null
+21	37	null	Stony Brook University
+21	38	null	Stony Brook University, Stony Brook, NY
+21	39	null	Comput. Sch., Wuhan Univ. of Technol.
+21	40	null	Sun-yat Sen Univ., Guangzhou
+21	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+21	42	null	Motorola Labs, Schaumburg
+21	43	null	null
+21	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+21	45	null	null
+21	46	null	null
+21	47	null	null
+21	48	null	null
+21	49	null	null
+21	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+21	51	null	Univ. of Southern California, Los Angeles, CA, USA
+21	52	null	IEEE
+21	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+21	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+21	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+21	56	null	null
+21	57	null	null
+21	58	null	null
+21	59	null	null
+21	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+21	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+21	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+21	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+21	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+21	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+21	66	null	null
+21	67	null	Stony Brook University
+21	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+21	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+21	70	null	Northeastern University, China
+22	23	University of Southern California, Los Angeles	Dept. of Comput. Sci., Nankai Univ., China
+22	24	University of Southern California, Los Angeles	Nankai University, Tianjin, China
+22	25	University of Southern California, Los Angeles	Nankai Univ., Tianjin,China
+22	26	University of Southern California, Los Angeles	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+22	27	University of Southern California, Los Angeles	Nankai University, China
+22	28	University of Southern California, Los Angeles	University of Southern California, Los Angeles, CA
+22	29	University of Southern California, Los Angeles	null
+22	30	University of Southern California, Los Angeles	null
+22	31	University of Southern California, Los Angeles	null
+22	32	University of Southern California, Los Angeles	null
+22	33	University of Southern California, Los Angeles	null
+22	34	University of Southern California, Los Angeles	null
+22	35	University of Southern California, Los Angeles	Motorola Labs
+22	36	University of Southern California, Los Angeles	null
+22	37	University of Southern California, Los Angeles	Stony Brook University
+22	38	University of Southern California, Los Angeles	Stony Brook University, Stony Brook, NY
+22	39	University of Southern California, Los Angeles	Comput. Sch., Wuhan Univ. of Technol.
+22	40	University of Southern California, Los Angeles	Sun-yat Sen Univ., Guangzhou
+22	41	University of Southern California, Los Angeles	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+22	42	University of Southern California, Los Angeles	Motorola Labs, Schaumburg
+22	43	University of Southern California, Los Angeles	null
+22	44	University of Southern California, Los Angeles	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+22	45	University of Southern California, Los Angeles	null
+22	46	University of Southern California, Los Angeles	null
+22	47	University of Southern California, Los Angeles	null
+22	48	University of Southern California, Los Angeles	null
+22	49	University of Southern California, Los Angeles	null
+22	50	University of Southern California, Los Angeles	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+22	51	University of Southern California, Los Angeles	Univ. of Southern California, Los Angeles, CA, USA
+22	52	University of Southern California, Los Angeles	IEEE
+22	53	University of Southern California, Los Angeles	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+22	54	University of Southern California, Los Angeles	Application Res. Center, Motorola Labs., Schaumburg, IL
+22	55	University of Southern California, Los Angeles	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+22	56	University of Southern California, Los Angeles	null
+22	57	University of Southern California, Los Angeles	null
+22	58	University of Southern California, Los Angeles	null
+22	59	University of Southern California, Los Angeles	null
+22	60	University of Southern California, Los Angeles	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+22	61	University of Southern California, Los Angeles	GainSpan, Inc., Los Gatos, California 95032, United States
+22	62	University of Southern California, Los Angeles	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+22	63	University of Southern California, Los Angeles	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+22	64	University of Southern California, Los Angeles	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+22	65	University of Southern California, Los Angeles	Datang Mobile Commun. Equip. Com., Ltd., China
+22	66	University of Southern California, Los Angeles	null
+22	67	University of Southern California, Los Angeles	Stony Brook University
+22	68	University of Southern California, Los Angeles	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+22	69	University of Southern California, Los Angeles	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+22	70	University of Southern California, Los Angeles	Northeastern University, China
+23	24	Dept. of Comput. Sci., Nankai Univ., China	Nankai University, Tianjin, China
+23	25	Dept. of Comput. Sci., Nankai Univ., China	Nankai Univ., Tianjin,China
+23	26	Dept. of Comput. Sci., Nankai Univ., China	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+23	27	Dept. of Comput. Sci., Nankai Univ., China	Nankai University, China
+23	28	Dept. of Comput. Sci., Nankai Univ., China	University of Southern California, Los Angeles, CA
+23	29	Dept. of Comput. Sci., Nankai Univ., China	null
+23	30	Dept. of Comput. Sci., Nankai Univ., China	null
+23	31	Dept. of Comput. Sci., Nankai Univ., China	null
+23	32	Dept. of Comput. Sci., Nankai Univ., China	null
+23	33	Dept. of Comput. Sci., Nankai Univ., China	null
+23	34	Dept. of Comput. Sci., Nankai Univ., China	null
+23	35	Dept. of Comput. Sci., Nankai Univ., China	Motorola Labs
+23	36	Dept. of Comput. Sci., Nankai Univ., China	null
+23	37	Dept. of Comput. Sci., Nankai Univ., China	Stony Brook University
+23	38	Dept. of Comput. Sci., Nankai Univ., China	Stony Brook University, Stony Brook, NY
+23	39	Dept. of Comput. Sci., Nankai Univ., China	Comput. Sch., Wuhan Univ. of Technol.
+23	40	Dept. of Comput. Sci., Nankai Univ., China	Sun-yat Sen Univ., Guangzhou
+23	41	Dept. of Comput. Sci., Nankai Univ., China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+23	42	Dept. of Comput. Sci., Nankai Univ., China	Motorola Labs, Schaumburg
+23	43	Dept. of Comput. Sci., Nankai Univ., China	null
+23	44	Dept. of Comput. Sci., Nankai Univ., China	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+23	45	Dept. of Comput. Sci., Nankai Univ., China	null
+23	46	Dept. of Comput. Sci., Nankai Univ., China	null
+23	47	Dept. of Comput. Sci., Nankai Univ., China	null
+23	48	Dept. of Comput. Sci., Nankai Univ., China	null
+23	49	Dept. of Comput. Sci., Nankai Univ., China	null
+23	50	Dept. of Comput. Sci., Nankai Univ., China	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+23	51	Dept. of Comput. Sci., Nankai Univ., China	Univ. of Southern California, Los Angeles, CA, USA
+23	52	Dept. of Comput. Sci., Nankai Univ., China	IEEE
+23	53	Dept. of Comput. Sci., Nankai Univ., China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+23	54	Dept. of Comput. Sci., Nankai Univ., China	Application Res. Center, Motorola Labs., Schaumburg, IL
+23	55	Dept. of Comput. Sci., Nankai Univ., China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+23	56	Dept. of Comput. Sci., Nankai Univ., China	null
+23	57	Dept. of Comput. Sci., Nankai Univ., China	null
+23	58	Dept. of Comput. Sci., Nankai Univ., China	null
+23	59	Dept. of Comput. Sci., Nankai Univ., China	null
+23	60	Dept. of Comput. Sci., Nankai Univ., China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+23	61	Dept. of Comput. Sci., Nankai Univ., China	GainSpan, Inc., Los Gatos, California 95032, United States
+23	62	Dept. of Comput. Sci., Nankai Univ., China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+23	63	Dept. of Comput. Sci., Nankai Univ., China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+23	64	Dept. of Comput. Sci., Nankai Univ., China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+23	65	Dept. of Comput. Sci., Nankai Univ., China	Datang Mobile Commun. Equip. Com., Ltd., China
+23	66	Dept. of Comput. Sci., Nankai Univ., China	null
+23	67	Dept. of Comput. Sci., Nankai Univ., China	Stony Brook University
+23	68	Dept. of Comput. Sci., Nankai Univ., China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+23	69	Dept. of Comput. Sci., Nankai Univ., China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+23	70	Dept. of Comput. Sci., Nankai Univ., China	Northeastern University, China
+24	25	Nankai University, Tianjin, China	Nankai Univ., Tianjin,China
+24	26	Nankai University, Tianjin, China	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+24	27	Nankai University, Tianjin, China	Nankai University, China
+24	28	Nankai University, Tianjin, China	University of Southern California, Los Angeles, CA
+24	29	Nankai University, Tianjin, China	null
+24	30	Nankai University, Tianjin, China	null
+24	31	Nankai University, Tianjin, China	null
+24	32	Nankai University, Tianjin, China	null
+24	33	Nankai University, Tianjin, China	null
+24	34	Nankai University, Tianjin, China	null
+24	35	Nankai University, Tianjin, China	Motorola Labs
+24	36	Nankai University, Tianjin, China	null
+24	37	Nankai University, Tianjin, China	Stony Brook University
+24	38	Nankai University, Tianjin, China	Stony Brook University, Stony Brook, NY
+24	39	Nankai University, Tianjin, China	Comput. Sch., Wuhan Univ. of Technol.
+24	40	Nankai University, Tianjin, China	Sun-yat Sen Univ., Guangzhou
+24	41	Nankai University, Tianjin, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+24	42	Nankai University, Tianjin, China	Motorola Labs, Schaumburg
+24	43	Nankai University, Tianjin, China	null
+24	44	Nankai University, Tianjin, China	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+24	45	Nankai University, Tianjin, China	null
+24	46	Nankai University, Tianjin, China	null
+24	47	Nankai University, Tianjin, China	null
+24	48	Nankai University, Tianjin, China	null
+24	49	Nankai University, Tianjin, China	null
+24	50	Nankai University, Tianjin, China	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+24	51	Nankai University, Tianjin, China	Univ. of Southern California, Los Angeles, CA, USA
+24	52	Nankai University, Tianjin, China	IEEE
+24	53	Nankai University, Tianjin, China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+24	54	Nankai University, Tianjin, China	Application Res. Center, Motorola Labs., Schaumburg, IL
+24	55	Nankai University, Tianjin, China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+24	56	Nankai University, Tianjin, China	null
+24	57	Nankai University, Tianjin, China	null
+24	58	Nankai University, Tianjin, China	null
+24	59	Nankai University, Tianjin, China	null
+24	60	Nankai University, Tianjin, China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+24	61	Nankai University, Tianjin, China	GainSpan, Inc., Los Gatos, California 95032, United States
+24	62	Nankai University, Tianjin, China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+24	63	Nankai University, Tianjin, China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+24	64	Nankai University, Tianjin, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+24	65	Nankai University, Tianjin, China	Datang Mobile Commun. Equip. Com., Ltd., China
+24	66	Nankai University, Tianjin, China	null
+24	67	Nankai University, Tianjin, China	Stony Brook University
+24	68	Nankai University, Tianjin, China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+24	69	Nankai University, Tianjin, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+24	70	Nankai University, Tianjin, China	Northeastern University, China
+25	26	Nankai Univ., Tianjin,China	Dept. of Comput. Sci., Nankai Univ., Tianjin, China
+25	27	Nankai Univ., Tianjin,China	Nankai University, China
+25	28	Nankai Univ., Tianjin,China	University of Southern California, Los Angeles, CA
+25	29	Nankai Univ., Tianjin,China	null
+25	30	Nankai Univ., Tianjin,China	null
+25	31	Nankai Univ., Tianjin,China	null
+25	32	Nankai Univ., Tianjin,China	null
+25	33	Nankai Univ., Tianjin,China	null
+25	34	Nankai Univ., Tianjin,China	null
+25	35	Nankai Univ., Tianjin,China	Motorola Labs
+25	36	Nankai Univ., Tianjin,China	null
+25	37	Nankai Univ., Tianjin,China	Stony Brook University
+25	38	Nankai Univ., Tianjin,China	Stony Brook University, Stony Brook, NY
+25	39	Nankai Univ., Tianjin,China	Comput. Sch., Wuhan Univ. of Technol.
+25	40	Nankai Univ., Tianjin,China	Sun-yat Sen Univ., Guangzhou
+25	41	Nankai Univ., Tianjin,China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+25	42	Nankai Univ., Tianjin,China	Motorola Labs, Schaumburg
+25	43	Nankai Univ., Tianjin,China	null
+25	44	Nankai Univ., Tianjin,China	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+25	45	Nankai Univ., Tianjin,China	null
+25	46	Nankai Univ., Tianjin,China	null
+25	47	Nankai Univ., Tianjin,China	null
+25	48	Nankai Univ., Tianjin,China	null
+25	49	Nankai Univ., Tianjin,China	null
+25	50	Nankai Univ., Tianjin,China	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+25	51	Nankai Univ., Tianjin,China	Univ. of Southern California, Los Angeles, CA, USA
+25	52	Nankai Univ., Tianjin,China	IEEE
+25	53	Nankai Univ., Tianjin,China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+25	54	Nankai Univ., Tianjin,China	Application Res. Center, Motorola Labs., Schaumburg, IL
+25	55	Nankai Univ., Tianjin,China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+25	56	Nankai Univ., Tianjin,China	null
+25	57	Nankai Univ., Tianjin,China	null
+25	58	Nankai Univ., Tianjin,China	null
+25	59	Nankai Univ., Tianjin,China	null
+25	60	Nankai Univ., Tianjin,China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+25	61	Nankai Univ., Tianjin,China	GainSpan, Inc., Los Gatos, California 95032, United States
+25	62	Nankai Univ., Tianjin,China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+25	63	Nankai Univ., Tianjin,China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+25	64	Nankai Univ., Tianjin,China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+25	65	Nankai Univ., Tianjin,China	Datang Mobile Commun. Equip. Com., Ltd., China
+25	66	Nankai Univ., Tianjin,China	null
+25	67	Nankai Univ., Tianjin,China	Stony Brook University
+25	68	Nankai Univ., Tianjin,China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+25	69	Nankai Univ., Tianjin,China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+25	70	Nankai Univ., Tianjin,China	Northeastern University, China
+26	27	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Nankai University, China
+26	28	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	University of Southern California, Los Angeles, CA
+26	29	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	30	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	31	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	32	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	33	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	34	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	35	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Motorola Labs
+26	36	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	37	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Stony Brook University
+26	38	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Stony Brook University, Stony Brook, NY
+26	39	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Comput. Sch., Wuhan Univ. of Technol.
+26	40	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Sun-yat Sen Univ., Guangzhou
+26	41	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+26	42	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Motorola Labs, Schaumburg
+26	43	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	44	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+26	45	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	46	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	47	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	48	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	49	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	50	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+26	51	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Univ. of Southern California, Los Angeles, CA, USA
+26	52	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	IEEE
+26	53	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+26	54	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Application Res. Center, Motorola Labs., Schaumburg, IL
+26	55	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+26	56	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	57	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	58	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	59	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	60	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+26	61	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	GainSpan, Inc., Los Gatos, California 95032, United States
+26	62	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+26	63	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+26	64	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+26	65	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Datang Mobile Commun. Equip. Com., Ltd., China
+26	66	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	null
+26	67	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Stony Brook University
+26	68	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+26	69	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+26	70	Dept. of Comput. Sci., Nankai Univ., Tianjin, China	Northeastern University, China
+27	28	Nankai University, China	University of Southern California, Los Angeles, CA
+27	29	Nankai University, China	null
+27	30	Nankai University, China	null
+27	31	Nankai University, China	null
+27	32	Nankai University, China	null
+27	33	Nankai University, China	null
+27	34	Nankai University, China	null
+27	35	Nankai University, China	Motorola Labs
+27	36	Nankai University, China	null
+27	37	Nankai University, China	Stony Brook University
+27	38	Nankai University, China	Stony Brook University, Stony Brook, NY
+27	39	Nankai University, China	Comput. Sch., Wuhan Univ. of Technol.
+27	40	Nankai University, China	Sun-yat Sen Univ., Guangzhou
+27	41	Nankai University, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+27	42	Nankai University, China	Motorola Labs, Schaumburg
+27	43	Nankai University, China	null
+27	44	Nankai University, China	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+27	45	Nankai University, China	null
+27	46	Nankai University, China	null
+27	47	Nankai University, China	null
+27	48	Nankai University, China	null
+27	49	Nankai University, China	null
+27	50	Nankai University, China	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+27	51	Nankai University, China	Univ. of Southern California, Los Angeles, CA, USA
+27	52	Nankai University, China	IEEE
+27	53	Nankai University, China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+27	54	Nankai University, China	Application Res. Center, Motorola Labs., Schaumburg, IL
+27	55	Nankai University, China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+27	56	Nankai University, China	null
+27	57	Nankai University, China	null
+27	58	Nankai University, China	null
+27	59	Nankai University, China	null
+27	60	Nankai University, China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+27	61	Nankai University, China	GainSpan, Inc., Los Gatos, California 95032, United States
+27	62	Nankai University, China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+27	63	Nankai University, China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+27	64	Nankai University, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+27	65	Nankai University, China	Datang Mobile Commun. Equip. Com., Ltd., China
+27	66	Nankai University, China	null
+27	67	Nankai University, China	Stony Brook University
+27	68	Nankai University, China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+27	69	Nankai University, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+27	70	Nankai University, China	Northeastern University, China
+28	29	University of Southern California, Los Angeles, CA	null
+28	30	University of Southern California, Los Angeles, CA	null
+28	31	University of Southern California, Los Angeles, CA	null
+28	32	University of Southern California, Los Angeles, CA	null
+28	33	University of Southern California, Los Angeles, CA	null
+28	34	University of Southern California, Los Angeles, CA	null
+28	35	University of Southern California, Los Angeles, CA	Motorola Labs
+28	36	University of Southern California, Los Angeles, CA	null
+28	37	University of Southern California, Los Angeles, CA	Stony Brook University
+28	38	University of Southern California, Los Angeles, CA	Stony Brook University, Stony Brook, NY
+28	39	University of Southern California, Los Angeles, CA	Comput. Sch., Wuhan Univ. of Technol.
+28	40	University of Southern California, Los Angeles, CA	Sun-yat Sen Univ., Guangzhou
+28	41	University of Southern California, Los Angeles, CA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+28	42	University of Southern California, Los Angeles, CA	Motorola Labs, Schaumburg
+28	43	University of Southern California, Los Angeles, CA	null
+28	44	University of Southern California, Los Angeles, CA	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+28	45	University of Southern California, Los Angeles, CA	null
+28	46	University of Southern California, Los Angeles, CA	null
+28	47	University of Southern California, Los Angeles, CA	null
+28	48	University of Southern California, Los Angeles, CA	null
+28	49	University of Southern California, Los Angeles, CA	null
+28	50	University of Southern California, Los Angeles, CA	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+28	51	University of Southern California, Los Angeles, CA	Univ. of Southern California, Los Angeles, CA, USA
+28	52	University of Southern California, Los Angeles, CA	IEEE
+28	53	University of Southern California, Los Angeles, CA	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+28	54	University of Southern California, Los Angeles, CA	Application Res. Center, Motorola Labs., Schaumburg, IL
+28	55	University of Southern California, Los Angeles, CA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+28	56	University of Southern California, Los Angeles, CA	null
+28	57	University of Southern California, Los Angeles, CA	null
+28	58	University of Southern California, Los Angeles, CA	null
+28	59	University of Southern California, Los Angeles, CA	null
+28	60	University of Southern California, Los Angeles, CA	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+28	61	University of Southern California, Los Angeles, CA	GainSpan, Inc., Los Gatos, California 95032, United States
+28	62	University of Southern California, Los Angeles, CA	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+28	63	University of Southern California, Los Angeles, CA	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+28	64	University of Southern California, Los Angeles, CA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+28	65	University of Southern California, Los Angeles, CA	Datang Mobile Commun. Equip. Com., Ltd., China
+28	66	University of Southern California, Los Angeles, CA	null
+28	67	University of Southern California, Los Angeles, CA	Stony Brook University
+28	68	University of Southern California, Los Angeles, CA	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+28	69	University of Southern California, Los Angeles, CA	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+28	70	University of Southern California, Los Angeles, CA	Northeastern University, China
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	null
+29	34	null	null
+29	35	null	Motorola Labs
+29	36	null	null
+29	37	null	Stony Brook University
+29	38	null	Stony Brook University, Stony Brook, NY
+29	39	null	Comput. Sch., Wuhan Univ. of Technol.
+29	40	null	Sun-yat Sen Univ., Guangzhou
+29	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+29	42	null	Motorola Labs, Schaumburg
+29	43	null	null
+29	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+29	45	null	null
+29	46	null	null
+29	47	null	null
+29	48	null	null
+29	49	null	null
+29	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+29	51	null	Univ. of Southern California, Los Angeles, CA, USA
+29	52	null	IEEE
+29	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+29	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+29	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+29	56	null	null
+29	57	null	null
+29	58	null	null
+29	59	null	null
+29	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+29	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+29	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+29	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+29	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+29	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+29	66	null	null
+29	67	null	Stony Brook University
+29	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+29	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+29	70	null	Northeastern University, China
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	null
+30	35	null	Motorola Labs
+30	36	null	null
+30	37	null	Stony Brook University
+30	38	null	Stony Brook University, Stony Brook, NY
+30	39	null	Comput. Sch., Wuhan Univ. of Technol.
+30	40	null	Sun-yat Sen Univ., Guangzhou
+30	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+30	42	null	Motorola Labs, Schaumburg
+30	43	null	null
+30	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+30	45	null	null
+30	46	null	null
+30	47	null	null
+30	48	null	null
+30	49	null	null
+30	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+30	51	null	Univ. of Southern California, Los Angeles, CA, USA
+30	52	null	IEEE
+30	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+30	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+30	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+30	56	null	null
+30	57	null	null
+30	58	null	null
+30	59	null	null
+30	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+30	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+30	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+30	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+30	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+30	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+30	66	null	null
+30	67	null	Stony Brook University
+30	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+30	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+30	70	null	Northeastern University, China
+31	32	null	null
+31	33	null	null
+31	34	null	null
+31	35	null	Motorola Labs
+31	36	null	null
+31	37	null	Stony Brook University
+31	38	null	Stony Brook University, Stony Brook, NY
+31	39	null	Comput. Sch., Wuhan Univ. of Technol.
+31	40	null	Sun-yat Sen Univ., Guangzhou
+31	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+31	42	null	Motorola Labs, Schaumburg
+31	43	null	null
+31	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+31	45	null	null
+31	46	null	null
+31	47	null	null
+31	48	null	null
+31	49	null	null
+31	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+31	51	null	Univ. of Southern California, Los Angeles, CA, USA
+31	52	null	IEEE
+31	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+31	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+31	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+31	56	null	null
+31	57	null	null
+31	58	null	null
+31	59	null	null
+31	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+31	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+31	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+31	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+31	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+31	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+31	66	null	null
+31	67	null	Stony Brook University
+31	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+31	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+31	70	null	Northeastern University, China
+32	33	null	null
+32	34	null	null
+32	35	null	Motorola Labs
+32	36	null	null
+32	37	null	Stony Brook University
+32	38	null	Stony Brook University, Stony Brook, NY
+32	39	null	Comput. Sch., Wuhan Univ. of Technol.
+32	40	null	Sun-yat Sen Univ., Guangzhou
+32	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+32	42	null	Motorola Labs, Schaumburg
+32	43	null	null
+32	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+32	45	null	null
+32	46	null	null
+32	47	null	null
+32	48	null	null
+32	49	null	null
+32	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+32	51	null	Univ. of Southern California, Los Angeles, CA, USA
+32	52	null	IEEE
+32	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+32	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+32	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+32	56	null	null
+32	57	null	null
+32	58	null	null
+32	59	null	null
+32	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+32	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+32	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+32	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+32	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+32	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+32	66	null	null
+32	67	null	Stony Brook University
+32	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+32	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+32	70	null	Northeastern University, China
+33	34	null	null
+33	35	null	Motorola Labs
+33	36	null	null
+33	37	null	Stony Brook University
+33	38	null	Stony Brook University, Stony Brook, NY
+33	39	null	Comput. Sch., Wuhan Univ. of Technol.
+33	40	null	Sun-yat Sen Univ., Guangzhou
+33	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+33	42	null	Motorola Labs, Schaumburg
+33	43	null	null
+33	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+33	45	null	null
+33	46	null	null
+33	47	null	null
+33	48	null	null
+33	49	null	null
+33	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+33	51	null	Univ. of Southern California, Los Angeles, CA, USA
+33	52	null	IEEE
+33	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+33	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+33	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+33	56	null	null
+33	57	null	null
+33	58	null	null
+33	59	null	null
+33	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+33	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+33	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+33	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+33	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+33	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+33	66	null	null
+33	67	null	Stony Brook University
+33	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+33	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+33	70	null	Northeastern University, China
+34	35	null	Motorola Labs
+34	36	null	null
+34	37	null	Stony Brook University
+34	38	null	Stony Brook University, Stony Brook, NY
+34	39	null	Comput. Sch., Wuhan Univ. of Technol.
+34	40	null	Sun-yat Sen Univ., Guangzhou
+34	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+34	42	null	Motorola Labs, Schaumburg
+34	43	null	null
+34	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+34	45	null	null
+34	46	null	null
+34	47	null	null
+34	48	null	null
+34	49	null	null
+34	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+34	51	null	Univ. of Southern California, Los Angeles, CA, USA
+34	52	null	IEEE
+34	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+34	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+34	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+34	56	null	null
+34	57	null	null
+34	58	null	null
+34	59	null	null
+34	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+34	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+34	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+34	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+34	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+34	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+34	66	null	null
+34	67	null	Stony Brook University
+34	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+34	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+34	70	null	Northeastern University, China
+35	36	Motorola Labs	null
+35	37	Motorola Labs	Stony Brook University
+35	38	Motorola Labs	Stony Brook University, Stony Brook, NY
+35	39	Motorola Labs	Comput. Sch., Wuhan Univ. of Technol.
+35	40	Motorola Labs	Sun-yat Sen Univ., Guangzhou
+35	41	Motorola Labs	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+35	42	Motorola Labs	Motorola Labs, Schaumburg
+35	43	Motorola Labs	null
+35	44	Motorola Labs	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+35	45	Motorola Labs	null
+35	46	Motorola Labs	null
+35	47	Motorola Labs	null
+35	48	Motorola Labs	null
+35	49	Motorola Labs	null
+35	50	Motorola Labs	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+35	51	Motorola Labs	Univ. of Southern California, Los Angeles, CA, USA
+35	52	Motorola Labs	IEEE
+35	53	Motorola Labs	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+35	54	Motorola Labs	Application Res. Center, Motorola Labs., Schaumburg, IL
+35	55	Motorola Labs	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+35	56	Motorola Labs	null
+35	57	Motorola Labs	null
+35	58	Motorola Labs	null
+35	59	Motorola Labs	null
+35	60	Motorola Labs	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+35	61	Motorola Labs	GainSpan, Inc., Los Gatos, California 95032, United States
+35	62	Motorola Labs	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+35	63	Motorola Labs	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+35	64	Motorola Labs	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+35	65	Motorola Labs	Datang Mobile Commun. Equip. Com., Ltd., China
+35	66	Motorola Labs	null
+35	67	Motorola Labs	Stony Brook University
+35	68	Motorola Labs	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+35	69	Motorola Labs	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+35	70	Motorola Labs	Northeastern University, China
+36	37	null	Stony Brook University
+36	38	null	Stony Brook University, Stony Brook, NY
+36	39	null	Comput. Sch., Wuhan Univ. of Technol.
+36	40	null	Sun-yat Sen Univ., Guangzhou
+36	41	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+36	42	null	Motorola Labs, Schaumburg
+36	43	null	null
+36	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+36	45	null	null
+36	46	null	null
+36	47	null	null
+36	48	null	null
+36	49	null	null
+36	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+36	51	null	Univ. of Southern California, Los Angeles, CA, USA
+36	52	null	IEEE
+36	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+36	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+36	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+36	56	null	null
+36	57	null	null
+36	58	null	null
+36	59	null	null
+36	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+36	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+36	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+36	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+36	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+36	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+36	66	null	null
+36	67	null	Stony Brook University
+36	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+36	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+36	70	null	Northeastern University, China
+37	38	Stony Brook University	Stony Brook University, Stony Brook, NY
+37	39	Stony Brook University	Comput. Sch., Wuhan Univ. of Technol.
+37	40	Stony Brook University	Sun-yat Sen Univ., Guangzhou
+37	41	Stony Brook University	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+37	42	Stony Brook University	Motorola Labs, Schaumburg
+37	43	Stony Brook University	null
+37	44	Stony Brook University	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+37	45	Stony Brook University	null
+37	46	Stony Brook University	null
+37	47	Stony Brook University	null
+37	48	Stony Brook University	null
+37	49	Stony Brook University	null
+37	50	Stony Brook University	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+37	51	Stony Brook University	Univ. of Southern California, Los Angeles, CA, USA
+37	52	Stony Brook University	IEEE
+37	53	Stony Brook University	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+37	54	Stony Brook University	Application Res. Center, Motorola Labs., Schaumburg, IL
+37	55	Stony Brook University	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+37	56	Stony Brook University	null
+37	57	Stony Brook University	null
+37	58	Stony Brook University	null
+37	59	Stony Brook University	null
+37	60	Stony Brook University	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+37	61	Stony Brook University	GainSpan, Inc., Los Gatos, California 95032, United States
+37	62	Stony Brook University	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+37	63	Stony Brook University	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+37	64	Stony Brook University	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+37	65	Stony Brook University	Datang Mobile Commun. Equip. Com., Ltd., China
+37	66	Stony Brook University	null
+37	67	Stony Brook University	Stony Brook University
+37	68	Stony Brook University	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+37	69	Stony Brook University	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+37	70	Stony Brook University	Northeastern University, China
+38	39	Stony Brook University, Stony Brook, NY	Comput. Sch., Wuhan Univ. of Technol.
+38	40	Stony Brook University, Stony Brook, NY	Sun-yat Sen Univ., Guangzhou
+38	41	Stony Brook University, Stony Brook, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+38	42	Stony Brook University, Stony Brook, NY	Motorola Labs, Schaumburg
+38	43	Stony Brook University, Stony Brook, NY	null
+38	44	Stony Brook University, Stony Brook, NY	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+38	45	Stony Brook University, Stony Brook, NY	null
+38	46	Stony Brook University, Stony Brook, NY	null
+38	47	Stony Brook University, Stony Brook, NY	null
+38	48	Stony Brook University, Stony Brook, NY	null
+38	49	Stony Brook University, Stony Brook, NY	null
+38	50	Stony Brook University, Stony Brook, NY	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+38	51	Stony Brook University, Stony Brook, NY	Univ. of Southern California, Los Angeles, CA, USA
+38	52	Stony Brook University, Stony Brook, NY	IEEE
+38	53	Stony Brook University, Stony Brook, NY	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+38	54	Stony Brook University, Stony Brook, NY	Application Res. Center, Motorola Labs., Schaumburg, IL
+38	55	Stony Brook University, Stony Brook, NY	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+38	56	Stony Brook University, Stony Brook, NY	null
+38	57	Stony Brook University, Stony Brook, NY	null
+38	58	Stony Brook University, Stony Brook, NY	null
+38	59	Stony Brook University, Stony Brook, NY	null
+38	60	Stony Brook University, Stony Brook, NY	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+38	61	Stony Brook University, Stony Brook, NY	GainSpan, Inc., Los Gatos, California 95032, United States
+38	62	Stony Brook University, Stony Brook, NY	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+38	63	Stony Brook University, Stony Brook, NY	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+38	64	Stony Brook University, Stony Brook, NY	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+38	65	Stony Brook University, Stony Brook, NY	Datang Mobile Commun. Equip. Com., Ltd., China
+38	66	Stony Brook University, Stony Brook, NY	null
+38	67	Stony Brook University, Stony Brook, NY	Stony Brook University
+38	68	Stony Brook University, Stony Brook, NY	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+38	69	Stony Brook University, Stony Brook, NY	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+38	70	Stony Brook University, Stony Brook, NY	Northeastern University, China
+39	40	Comput. Sch., Wuhan Univ. of Technol.	Sun-yat Sen Univ., Guangzhou
+39	41	Comput. Sch., Wuhan Univ. of Technol.	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+39	42	Comput. Sch., Wuhan Univ. of Technol.	Motorola Labs, Schaumburg
+39	43	Comput. Sch., Wuhan Univ. of Technol.	null
+39	44	Comput. Sch., Wuhan Univ. of Technol.	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+39	45	Comput. Sch., Wuhan Univ. of Technol.	null
+39	46	Comput. Sch., Wuhan Univ. of Technol.	null
+39	47	Comput. Sch., Wuhan Univ. of Technol.	null
+39	48	Comput. Sch., Wuhan Univ. of Technol.	null
+39	49	Comput. Sch., Wuhan Univ. of Technol.	null
+39	50	Comput. Sch., Wuhan Univ. of Technol.	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+39	51	Comput. Sch., Wuhan Univ. of Technol.	Univ. of Southern California, Los Angeles, CA, USA
+39	52	Comput. Sch., Wuhan Univ. of Technol.	IEEE
+39	53	Comput. Sch., Wuhan Univ. of Technol.	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+39	54	Comput. Sch., Wuhan Univ. of Technol.	Application Res. Center, Motorola Labs., Schaumburg, IL
+39	55	Comput. Sch., Wuhan Univ. of Technol.	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+39	56	Comput. Sch., Wuhan Univ. of Technol.	null
+39	57	Comput. Sch., Wuhan Univ. of Technol.	null
+39	58	Comput. Sch., Wuhan Univ. of Technol.	null
+39	59	Comput. Sch., Wuhan Univ. of Technol.	null
+39	60	Comput. Sch., Wuhan Univ. of Technol.	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+39	61	Comput. Sch., Wuhan Univ. of Technol.	GainSpan, Inc., Los Gatos, California 95032, United States
+39	62	Comput. Sch., Wuhan Univ. of Technol.	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+39	63	Comput. Sch., Wuhan Univ. of Technol.	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+39	64	Comput. Sch., Wuhan Univ. of Technol.	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+39	65	Comput. Sch., Wuhan Univ. of Technol.	Datang Mobile Commun. Equip. Com., Ltd., China
+39	66	Comput. Sch., Wuhan Univ. of Technol.	null
+39	67	Comput. Sch., Wuhan Univ. of Technol.	Stony Brook University
+39	68	Comput. Sch., Wuhan Univ. of Technol.	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+39	69	Comput. Sch., Wuhan Univ. of Technol.	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+39	70	Comput. Sch., Wuhan Univ. of Technol.	Northeastern University, China
+40	41	Sun-yat Sen Univ., Guangzhou	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing
+40	42	Sun-yat Sen Univ., Guangzhou	Motorola Labs, Schaumburg
+40	43	Sun-yat Sen Univ., Guangzhou	null
+40	44	Sun-yat Sen Univ., Guangzhou	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+40	45	Sun-yat Sen Univ., Guangzhou	null
+40	46	Sun-yat Sen Univ., Guangzhou	null
+40	47	Sun-yat Sen Univ., Guangzhou	null
+40	48	Sun-yat Sen Univ., Guangzhou	null
+40	49	Sun-yat Sen Univ., Guangzhou	null
+40	50	Sun-yat Sen Univ., Guangzhou	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+40	51	Sun-yat Sen Univ., Guangzhou	Univ. of Southern California, Los Angeles, CA, USA
+40	52	Sun-yat Sen Univ., Guangzhou	IEEE
+40	53	Sun-yat Sen Univ., Guangzhou	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+40	54	Sun-yat Sen Univ., Guangzhou	Application Res. Center, Motorola Labs., Schaumburg, IL
+40	55	Sun-yat Sen Univ., Guangzhou	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+40	56	Sun-yat Sen Univ., Guangzhou	null
+40	57	Sun-yat Sen Univ., Guangzhou	null
+40	58	Sun-yat Sen Univ., Guangzhou	null
+40	59	Sun-yat Sen Univ., Guangzhou	null
+40	60	Sun-yat Sen Univ., Guangzhou	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+40	61	Sun-yat Sen Univ., Guangzhou	GainSpan, Inc., Los Gatos, California 95032, United States
+40	62	Sun-yat Sen Univ., Guangzhou	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+40	63	Sun-yat Sen Univ., Guangzhou	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+40	64	Sun-yat Sen Univ., Guangzhou	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+40	65	Sun-yat Sen Univ., Guangzhou	Datang Mobile Commun. Equip. Com., Ltd., China
+40	66	Sun-yat Sen Univ., Guangzhou	null
+40	67	Sun-yat Sen Univ., Guangzhou	Stony Brook University
+40	68	Sun-yat Sen Univ., Guangzhou	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+40	69	Sun-yat Sen Univ., Guangzhou	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+40	70	Sun-yat Sen Univ., Guangzhou	Northeastern University, China
+41	42	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Motorola Labs, Schaumburg
+41	43	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	44	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+41	45	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	46	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	47	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	48	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	49	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	50	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+41	51	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Univ. of Southern California, Los Angeles, CA, USA
+41	52	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	IEEE
+41	53	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+41	54	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Application Res. Center, Motorola Labs., Schaumburg, IL
+41	55	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+41	56	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	57	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	58	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	59	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	60	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+41	61	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	GainSpan, Inc., Los Gatos, California 95032, United States
+41	62	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+41	63	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+41	64	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+41	65	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Datang Mobile Commun. Equip. Com., Ltd., China
+41	66	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	null
+41	67	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Stony Brook University
+41	68	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+41	69	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+41	70	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing	Northeastern University, China
+42	43	Motorola Labs, Schaumburg	null
+42	44	Motorola Labs, Schaumburg	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+42	45	Motorola Labs, Schaumburg	null
+42	46	Motorola Labs, Schaumburg	null
+42	47	Motorola Labs, Schaumburg	null
+42	48	Motorola Labs, Schaumburg	null
+42	49	Motorola Labs, Schaumburg	null
+42	50	Motorola Labs, Schaumburg	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+42	51	Motorola Labs, Schaumburg	Univ. of Southern California, Los Angeles, CA, USA
+42	52	Motorola Labs, Schaumburg	IEEE
+42	53	Motorola Labs, Schaumburg	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+42	54	Motorola Labs, Schaumburg	Application Res. Center, Motorola Labs., Schaumburg, IL
+42	55	Motorola Labs, Schaumburg	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+42	56	Motorola Labs, Schaumburg	null
+42	57	Motorola Labs, Schaumburg	null
+42	58	Motorola Labs, Schaumburg	null
+42	59	Motorola Labs, Schaumburg	null
+42	60	Motorola Labs, Schaumburg	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+42	61	Motorola Labs, Schaumburg	GainSpan, Inc., Los Gatos, California 95032, United States
+42	62	Motorola Labs, Schaumburg	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+42	63	Motorola Labs, Schaumburg	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+42	64	Motorola Labs, Schaumburg	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+42	65	Motorola Labs, Schaumburg	Datang Mobile Commun. Equip. Com., Ltd., China
+42	66	Motorola Labs, Schaumburg	null
+42	67	Motorola Labs, Schaumburg	Stony Brook University
+42	68	Motorola Labs, Schaumburg	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+42	69	Motorola Labs, Schaumburg	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+42	70	Motorola Labs, Schaumburg	Northeastern University, China
+43	44	null	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China
+43	45	null	null
+43	46	null	null
+43	47	null	null
+43	48	null	null
+43	49	null	null
+43	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+43	51	null	Univ. of Southern California, Los Angeles, CA, USA
+43	52	null	IEEE
+43	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+43	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+43	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+43	56	null	null
+43	57	null	null
+43	58	null	null
+43	59	null	null
+43	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+43	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+43	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+43	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+43	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+43	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+43	66	null	null
+43	67	null	Stony Brook University
+43	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+43	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+43	70	null	Northeastern University, China
+44	45	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	46	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	47	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	48	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	49	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	50	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+44	51	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Univ. of Southern California, Los Angeles, CA, USA
+44	52	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	IEEE
+44	53	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+44	54	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Application Res. Center, Motorola Labs., Schaumburg, IL
+44	55	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+44	56	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	57	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	58	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	59	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	60	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+44	61	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	GainSpan, Inc., Los Gatos, California 95032, United States
+44	62	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+44	63	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+44	64	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+44	65	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Datang Mobile Commun. Equip. Com., Ltd., China
+44	66	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	null
+44	67	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Stony Brook University
+44	68	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+44	69	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+44	70	National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing 210093, China	Northeastern University, China
+45	46	null	null
+45	47	null	null
+45	48	null	null
+45	49	null	null
+45	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+45	51	null	Univ. of Southern California, Los Angeles, CA, USA
+45	52	null	IEEE
+45	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+45	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+45	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+45	56	null	null
+45	57	null	null
+45	58	null	null
+45	59	null	null
+45	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+45	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+45	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+45	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+45	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+45	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+45	66	null	null
+45	67	null	Stony Brook University
+45	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+45	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+45	70	null	Northeastern University, China
+46	47	null	null
+46	48	null	null
+46	49	null	null
+46	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+46	51	null	Univ. of Southern California, Los Angeles, CA, USA
+46	52	null	IEEE
+46	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+46	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+46	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+46	56	null	null
+46	57	null	null
+46	58	null	null
+46	59	null	null
+46	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+46	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+46	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+46	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+46	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+46	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+46	66	null	null
+46	67	null	Stony Brook University
+46	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+46	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+46	70	null	Northeastern University, China
+47	48	null	null
+47	49	null	null
+47	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+47	51	null	Univ. of Southern California, Los Angeles, CA, USA
+47	52	null	IEEE
+47	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+47	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+47	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+47	56	null	null
+47	57	null	null
+47	58	null	null
+47	59	null	null
+47	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+47	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+47	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+47	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+47	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+47	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+47	66	null	null
+47	67	null	Stony Brook University
+47	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+47	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+47	70	null	Northeastern University, China
+48	49	null	null
+48	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+48	51	null	Univ. of Southern California, Los Angeles, CA, USA
+48	52	null	IEEE
+48	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+48	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+48	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+48	56	null	null
+48	57	null	null
+48	58	null	null
+48	59	null	null
+48	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+48	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+48	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+48	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+48	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+48	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+48	66	null	null
+48	67	null	Stony Brook University
+48	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+48	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+48	70	null	Northeastern University, China
+49	50	null	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA
+49	51	null	Univ. of Southern California, Los Angeles, CA, USA
+49	52	null	IEEE
+49	53	null	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+49	54	null	Application Res. Center, Motorola Labs., Schaumburg, IL
+49	55	null	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+49	56	null	null
+49	57	null	null
+49	58	null	null
+49	59	null	null
+49	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+49	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+49	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+49	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+49	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+49	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+49	66	null	null
+49	67	null	Stony Brook University
+49	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+49	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+49	70	null	Northeastern University, China
+50	51	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Univ. of Southern California, Los Angeles, CA, USA
+50	52	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	IEEE
+50	53	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+50	54	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Application Res. Center, Motorola Labs., Schaumburg, IL
+50	55	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+50	56	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	null
+50	57	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	null
+50	58	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	null
+50	59	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	null
+50	60	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+50	61	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	GainSpan, Inc., Los Gatos, California 95032, United States
+50	62	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+50	63	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+50	64	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+50	65	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Datang Mobile Commun. Equip. Com., Ltd., China
+50	66	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	null
+50	67	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Stony Brook University
+50	68	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+50	69	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+50	70	University of Maryland, Institute for Advanced Computer Studies (UMIACS), 20742, College Park, MD, USA	Northeastern University, China
+51	52	Univ. of Southern California, Los Angeles, CA, USA	IEEE
+51	53	Univ. of Southern California, Los Angeles, CA, USA	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+51	54	Univ. of Southern California, Los Angeles, CA, USA	Application Res. Center, Motorola Labs., Schaumburg, IL
+51	55	Univ. of Southern California, Los Angeles, CA, USA	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+51	56	Univ. of Southern California, Los Angeles, CA, USA	null
+51	57	Univ. of Southern California, Los Angeles, CA, USA	null
+51	58	Univ. of Southern California, Los Angeles, CA, USA	null
+51	59	Univ. of Southern California, Los Angeles, CA, USA	null
+51	60	Univ. of Southern California, Los Angeles, CA, USA	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+51	61	Univ. of Southern California, Los Angeles, CA, USA	GainSpan, Inc., Los Gatos, California 95032, United States
+51	62	Univ. of Southern California, Los Angeles, CA, USA	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+51	63	Univ. of Southern California, Los Angeles, CA, USA	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+51	64	Univ. of Southern California, Los Angeles, CA, USA	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+51	65	Univ. of Southern California, Los Angeles, CA, USA	Datang Mobile Commun. Equip. Com., Ltd., China
+51	66	Univ. of Southern California, Los Angeles, CA, USA	null
+51	67	Univ. of Southern California, Los Angeles, CA, USA	Stony Brook University
+51	68	Univ. of Southern California, Los Angeles, CA, USA	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+51	69	Univ. of Southern California, Los Angeles, CA, USA	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+51	70	Univ. of Southern California, Los Angeles, CA, USA	Northeastern University, China
+52	53	IEEE	Nat. Lab. for Novel Software Technol., Nanjing Univ., China
+52	54	IEEE	Application Res. Center, Motorola Labs., Schaumburg, IL
+52	55	IEEE	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+52	56	IEEE	null
+52	57	IEEE	null
+52	58	IEEE	null
+52	59	IEEE	null
+52	60	IEEE	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+52	61	IEEE	GainSpan, Inc., Los Gatos, California 95032, United States
+52	62	IEEE	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+52	63	IEEE	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+52	64	IEEE	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+52	65	IEEE	Datang Mobile Commun. Equip. Com., Ltd., China
+52	66	IEEE	null
+52	67	IEEE	Stony Brook University
+52	68	IEEE	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+52	69	IEEE	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+52	70	IEEE	Northeastern University, China
+53	54	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Application Res. Center, Motorola Labs., Schaumburg, IL
+53	55	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+53	56	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	null
+53	57	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	null
+53	58	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	null
+53	59	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	null
+53	60	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+53	61	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	GainSpan, Inc., Los Gatos, California 95032, United States
+53	62	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+53	63	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+53	64	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+53	65	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Datang Mobile Commun. Equip. Com., Ltd., China
+53	66	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	null
+53	67	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Stony Brook University
+53	68	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+53	69	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+53	70	Nat. Lab. for Novel Software Technol., Nanjing Univ., China	Northeastern University, China
+54	55	Application Res. Center, Motorola Labs., Schaumburg, IL	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States
+54	56	Application Res. Center, Motorola Labs., Schaumburg, IL	null
+54	57	Application Res. Center, Motorola Labs., Schaumburg, IL	null
+54	58	Application Res. Center, Motorola Labs., Schaumburg, IL	null
+54	59	Application Res. Center, Motorola Labs., Schaumburg, IL	null
+54	60	Application Res. Center, Motorola Labs., Schaumburg, IL	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+54	61	Application Res. Center, Motorola Labs., Schaumburg, IL	GainSpan, Inc., Los Gatos, California 95032, United States
+54	62	Application Res. Center, Motorola Labs., Schaumburg, IL	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+54	63	Application Res. Center, Motorola Labs., Schaumburg, IL	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+54	64	Application Res. Center, Motorola Labs., Schaumburg, IL	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+54	65	Application Res. Center, Motorola Labs., Schaumburg, IL	Datang Mobile Commun. Equip. Com., Ltd., China
+54	66	Application Res. Center, Motorola Labs., Schaumburg, IL	null
+54	67	Application Res. Center, Motorola Labs., Schaumburg, IL	Stony Brook University
+54	68	Application Res. Center, Motorola Labs., Schaumburg, IL	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+54	69	Application Res. Center, Motorola Labs., Schaumburg, IL	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+54	70	Application Res. Center, Motorola Labs., Schaumburg, IL	Northeastern University, China
+55	56	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	null
+55	57	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	null
+55	58	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	null
+55	59	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	null
+55	60	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+55	61	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	GainSpan, Inc., Los Gatos, California 95032, United States
+55	62	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+55	63	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+55	64	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+55	65	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Datang Mobile Commun. Equip. Com., Ltd., China
+55	66	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	null
+55	67	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Stony Brook University
+55	68	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+55	69	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+55	70	Department of Electrical Engineering, University of Southern California, Los Angeles, CA 90089-2562, United States	Northeastern University, China
+56	57	null	null
+56	58	null	null
+56	59	null	null
+56	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+56	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+56	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+56	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+56	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+56	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+56	66	null	null
+56	67	null	Stony Brook University
+56	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+56	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+56	70	null	Northeastern University, China
+57	58	null	null
+57	59	null	null
+57	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+57	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+57	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+57	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+57	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+57	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+57	66	null	null
+57	67	null	Stony Brook University
+57	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+57	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+57	70	null	Northeastern University, China
+58	59	null	null
+58	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+58	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+58	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+58	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+58	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+58	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+58	66	null	null
+58	67	null	Stony Brook University
+58	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+58	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+58	70	null	Northeastern University, China
+59	60	null	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015
+59	61	null	GainSpan, Inc., Los Gatos, California 95032, United States
+59	62	null	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+59	63	null	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+59	64	null	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+59	65	null	Datang Mobile Commun. Equip. Com., Ltd., China
+59	66	null	null
+59	67	null	Stony Brook University
+59	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+59	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+59	70	null	Northeastern University, China
+60	61	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	GainSpan, Inc., Los Gatos, California 95032, United States
+60	62	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+60	63	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+60	64	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+60	65	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	Datang Mobile Commun. Equip. Com., Ltd., China
+60	66	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	null
+60	67	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	Stony Brook University
+60	68	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+60	69	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+60	70	Department of Computer Science and Engineering, Lehigh University, Bethlehem 18015	Northeastern University, China
+61	62	GainSpan, Inc., Los Gatos, California 95032, United States	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China
+61	63	GainSpan, Inc., Los Gatos, California 95032, United States	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+61	64	GainSpan, Inc., Los Gatos, California 95032, United States	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+61	65	GainSpan, Inc., Los Gatos, California 95032, United States	Datang Mobile Commun. Equip. Com., Ltd., China
+61	66	GainSpan, Inc., Los Gatos, California 95032, United States	null
+61	67	GainSpan, Inc., Los Gatos, California 95032, United States	Stony Brook University
+61	68	GainSpan, Inc., Los Gatos, California 95032, United States	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+61	69	GainSpan, Inc., Los Gatos, California 95032, United States	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+61	70	GainSpan, Inc., Los Gatos, California 95032, United States	Northeastern University, China
+62	63	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	Dept. of Comput. Sci., Sun Yat-sen Univ., China
+62	64	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+62	65	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	Datang Mobile Commun. Equip. Com., Ltd., China
+62	66	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	null
+62	67	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	Stony Brook University
+62	68	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+62	69	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+62	70	Sch. of Mech. Eng., Hebei Univ. of Technol., Tianjin, China	Northeastern University, China
+63	64	Dept. of Comput. Sci., Sun Yat-sen Univ., China	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China
+63	65	Dept. of Comput. Sci., Sun Yat-sen Univ., China	Datang Mobile Commun. Equip. Com., Ltd., China
+63	66	Dept. of Comput. Sci., Sun Yat-sen Univ., China	null
+63	67	Dept. of Comput. Sci., Sun Yat-sen Univ., China	Stony Brook University
+63	68	Dept. of Comput. Sci., Sun Yat-sen Univ., China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+63	69	Dept. of Comput. Sci., Sun Yat-sen Univ., China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+63	70	Dept. of Comput. Sci., Sun Yat-sen Univ., China	Northeastern University, China
+64	65	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China	Datang Mobile Commun. Equip. Com., Ltd., China
+64	66	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China	null
+64	67	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China	Stony Brook University
+64	68	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+64	69	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+64	70	Nat. Key Lab. for Novel Software Technol., Nanjing Univ., Nanjing, China	Northeastern University, China
+65	66	Datang Mobile Commun. Equip. Com., Ltd., China	null
+65	67	Datang Mobile Commun. Equip. Com., Ltd., China	Stony Brook University
+65	68	Datang Mobile Commun. Equip. Com., Ltd., China	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+65	69	Datang Mobile Commun. Equip. Com., Ltd., China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+65	70	Datang Mobile Commun. Equip. Com., Ltd., China	Northeastern University, China
+66	67	null	Stony Brook University
+66	68	null	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+66	69	null	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+66	70	null	Northeastern University, China
+67	68	Stony Brook University	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China
+67	69	Stony Brook University	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+67	70	Stony Brook University	Northeastern University, China
+68	69	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing
+68	70	School of Computer Science and Technology, Wuhan University of Technology, Wuhan, Hubei, China	Northeastern University, China
+69	70	Sch. of Econ. & Manage., Beijing Univ. of Aeronaut. & Astronaut., Beijing	Northeastern University, China

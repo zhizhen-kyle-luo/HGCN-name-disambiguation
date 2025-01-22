@@ -1,0 +1,52 @@
+7	82	Department of Computer Science and Engineering, The University of New South Wales, Sydney 2052, NSW, Commonwealth of Australia	The University of New South Wales, Department of Computer Science and Engineering, 2052, Sydney, NSW, Australia
+8	16	University of South Brittany, LORIENT cedex, France	University of South-Brittany, France
+8	18	University of South Brittany, LORIENT cedex, France	LESTER / University of South Brittany, France
+8	22	University of South Brittany, LORIENT cedex, France	LESTER/University of South Brittany, LORIENT cedex, France
+8	62	University of South Brittany, LORIENT cedex, France	Lester Laboratory, University of South Brittany
+8	83	University of South Brittany, LORIENT cedex, France	LESTER, University of South Brittany, Lorient, France
+10	11	Université de Bretagne Sud	LESTER, Université de Bretagne Sud, Lorient, France
+12	19	Lab. of LESTER, South Brittany Univ., Lorient, France	South Brittany Univ., Lorient, France
+12	40	Lab. of LESTER, South Brittany Univ., Lorient, France	L.E.S.T.E.R., South-Brittany Univ., Lorient Cedex, France
+12	41	Lab. of LESTER, South Brittany Univ., Lorient, France	LESTER Lab., South Brittany Univ., Lorient, France
+16	18	University of South-Brittany, France	LESTER / University of South Brittany, France
+16	22	University of South-Brittany, France	LESTER/University of South Brittany, LORIENT cedex, France
+16	62	University of South-Brittany, France	Lester Laboratory, University of South Brittany
+16	83	University of South-Brittany, France	LESTER, University of South Brittany, Lorient, France
+17	27	LESTER Lab., UBS Univ., Lorient, France	UBS University, France
+17	36	LESTER Lab., UBS Univ., Lorient, France	LESTER LAB, UBS Univ., France
+17	52	LESTER Lab., UBS Univ., Lorient, France	LESTER LAB, UBS Univ., France
+17	69	LESTER Lab., UBS Univ., Lorient, France	UBS University, Lorient Cedex, France
+17	74	LESTER Lab., UBS Univ., Lorient, France	Lester Lab., UBS Univ., Lorient
+18	22	LESTER / University of South Brittany, France	LESTER/University of South Brittany, LORIENT cedex, France
+18	62	LESTER / University of South Brittany, France	Lester Laboratory, University of South Brittany
+18	83	LESTER / University of South Brittany, France	LESTER, University of South Brittany, Lorient, France
+19	40	South Brittany Univ., Lorient, France	L.E.S.T.E.R., South-Brittany Univ., Lorient Cedex, France
+19	41	South Brittany Univ., Lorient, France	LESTER Lab., South Brittany Univ., Lorient, France
+22	62	LESTER/University of South Brittany, LORIENT cedex, France	Lester Laboratory, University of South Brittany
+22	83	LESTER/University of South Brittany, LORIENT cedex, France	LESTER, University of South Brittany, Lorient, France
+27	36	UBS University, France	LESTER LAB, UBS Univ., France
+27	52	UBS University, France	LESTER LAB, UBS Univ., France
+27	69	UBS University, France	UBS University, Lorient Cedex, France
+27	74	UBS University, France	Lester Lab., UBS Univ., Lorient
+36	52	LESTER LAB, UBS Univ., France	LESTER LAB, UBS Univ., France
+36	69	LESTER LAB, UBS Univ., France	UBS University, Lorient Cedex, France
+36	74	LESTER LAB, UBS Univ., France	Lester Lab., UBS Univ., Lorient
+37	56	LESTER, Univ. de Bretagne Sud, Lorient	LESTER, Univ. de Bretagne Sud, Lorient, France
+37	79	LESTER, Univ. de Bretagne Sud, Lorient	LESTER-CNRS, Univ. de Bretagne Sud
+38	47	STMicroelectronics, Crolles	STMicroelectronics, Crolles
+40	41	L.E.S.T.E.R., South-Brittany Univ., Lorient Cedex, France	LESTER Lab., South Brittany Univ., Lorient, France
+52	69	LESTER LAB, UBS Univ., France	UBS University, Lorient Cedex, France
+52	74	LESTER LAB, UBS Univ., France	Lester Lab., UBS Univ., Lorient
+56	79	LESTER, Univ. de Bretagne Sud, Lorient, France	LESTER-CNRS, Univ. de Bretagne Sud
+62	83	Lester Laboratory, University of South Brittany	LESTER, University of South Brittany, Lorient, France
+64	66	School of Computer Science and Engineering, UNSW Sydney NSW 2052, Australia	School of Computer Science and Engineering, UNSW Sydney, NSW, Australia
+64	67	School of Computer Science and Engineering, UNSW Sydney NSW 2052, Australia	School of Computer Science and Engineering, UNSW Sydney, NSW 2052, Australia and National ICT Australia, UNSW Sydney, NSW 2052, Australia
+64	68	School of Computer Science and Engineering, UNSW Sydney NSW 2052, Australia	School of Computer Science and Engineering, The University of New South Wales, UNSW Sydney NSW 2052, Australia and National ICT Australia, UNSW Sydney NSW 2052, Australia 11National ICT Australia is funded by the Australian Governments Department of Communications, Information Technology and the Arts and the Australian Research Council through Backing Australias Ability and the ICT Centre of Excellence Program.
+64	78	School of Computer Science and Engineering, UNSW Sydney NSW 2052, Australia	School of Computer Science and Eng., UNSW Sydney, Australia 2052
+66	67	School of Computer Science and Engineering, UNSW Sydney, NSW, Australia	School of Computer Science and Engineering, UNSW Sydney, NSW 2052, Australia and National ICT Australia, UNSW Sydney, NSW 2052, Australia
+66	68	School of Computer Science and Engineering, UNSW Sydney, NSW, Australia	School of Computer Science and Engineering, The University of New South Wales, UNSW Sydney NSW 2052, Australia and National ICT Australia, UNSW Sydney NSW 2052, Australia 11National ICT Australia is funded by the Australian Governments Department of Communications, Information Technology and the Arts and the Australian Research Council through Backing Australias Ability and the ICT Centre of Excellence Program.
+66	78	School of Computer Science and Engineering, UNSW Sydney, NSW, Australia	School of Computer Science and Eng., UNSW Sydney, Australia 2052
+67	68	School of Computer Science and Engineering, UNSW Sydney, NSW 2052, Australia and National ICT Australia, UNSW Sydney, NSW 2052, Australia	School of Computer Science and Engineering, The University of New South Wales, UNSW Sydney NSW 2052, Australia and National ICT Australia, UNSW Sydney NSW 2052, Australia 11National ICT Australia is funded by the Australian Governments Department of Communications, Information Technology and the Arts and the Australian Research Council through Backing Australias Ability and the ICT Centre of Excellence Program.
+67	78	School of Computer Science and Engineering, UNSW Sydney, NSW 2052, Australia and National ICT Australia, UNSW Sydney, NSW 2052, Australia	School of Computer Science and Eng., UNSW Sydney, Australia 2052
+68	82	School of Computer Science and Engineering, The University of New South Wales, UNSW Sydney NSW 2052, Australia and National ICT Australia, UNSW Sydney NSW 2052, Australia 11National ICT Australia is funded by the Australian Governments Department of Communications, Information Technology and the Arts and the Australian Research Council through Backing Australias Ability and the ICT Centre of Excellence Program.	The University of New South Wales, Department of Computer Science and Engineering, 2052, Sydney, NSW, Australia
+69	74	UBS University, Lorient Cedex, France	Lester Lab., UBS Univ., Lorient

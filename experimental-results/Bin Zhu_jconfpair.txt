@@ -1,0 +1,16 @@
+1	35	CSCWD	CSCWD
+8	9	ICIP (2)	ICIP (2)
+8	10	ICIP (2)	ICIP (2)
+8	11	ICIP (2)	ICIP
+9	10	ICIP (2)	ICIP (2)
+9	11	ICIP (2)	ICIP
+10	11	ICIP (2)	ICIP
+12	34	ICIS	ACIS-ICIS
+14	15	IFSA (1)	IFSA (1)
+17	18	ISC	ISC
+19	20	JCDL	JCDL
+26	27	Decision Support Systems	Decision Support Systems
+26	36	Decision Support Systems	Decision Support Systems
+27	36	Decision Support Systems	Decision Support Systems
+29	30	JASIS	JASIS
+32	33	IEEE Transactions on Image Processing	IEEE Transactions on Image Processing

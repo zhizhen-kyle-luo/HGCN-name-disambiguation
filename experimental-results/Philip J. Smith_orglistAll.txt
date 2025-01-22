@@ -1,0 +1,528 @@
+0	1	null	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+0	16	null	The Ohio State University
+0	17	null	The Ohio State University
+0	18	null	The Ohio State University, Columbus, OH
+0	19	null	null
+0	20	null	null
+0	21	null	The Ohio State University
+0	22	null	Ohio State Univ., Columbus
+0	23	null	null
+0	24	null	University of Utah, Salt Lake City, Utah
+0	25	null	University of Utah, Salt Lake City, Utah
+0	26	null	null
+0	27	null	null
+0	28	null	null
+0	29	null	Ohio State Univ., Columbus
+0	30	null	null
+0	31	null	Institute for Ergonomics, Ohio State University
+0	32	null	null
+1	2	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	3	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	4	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	5	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	6	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	7	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	8	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	9	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	10	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	11	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	12	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	13	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	14	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	15	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+1	16	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University
+1	17	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University
+1	18	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University, Columbus, OH
+1	19	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	20	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	21	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University
+1	22	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	Ohio State Univ., Columbus
+1	23	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	24	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	University of Utah, Salt Lake City, Utah
+1	25	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	University of Utah, Salt Lake City, Utah
+1	26	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	27	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	28	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	29	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	Ohio State Univ., Columbus
+1	30	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+1	31	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	Institute for Ergonomics, Ohio State University
+1	32	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	null
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+2	16	null	The Ohio State University
+2	17	null	The Ohio State University
+2	18	null	The Ohio State University, Columbus, OH
+2	19	null	null
+2	20	null	null
+2	21	null	The Ohio State University
+2	22	null	Ohio State Univ., Columbus
+2	23	null	null
+2	24	null	University of Utah, Salt Lake City, Utah
+2	25	null	University of Utah, Salt Lake City, Utah
+2	26	null	null
+2	27	null	null
+2	28	null	null
+2	29	null	Ohio State Univ., Columbus
+2	30	null	null
+2	31	null	Institute for Ergonomics, Ohio State University
+2	32	null	null
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+3	16	null	The Ohio State University
+3	17	null	The Ohio State University
+3	18	null	The Ohio State University, Columbus, OH
+3	19	null	null
+3	20	null	null
+3	21	null	The Ohio State University
+3	22	null	Ohio State Univ., Columbus
+3	23	null	null
+3	24	null	University of Utah, Salt Lake City, Utah
+3	25	null	University of Utah, Salt Lake City, Utah
+3	26	null	null
+3	27	null	null
+3	28	null	null
+3	29	null	Ohio State Univ., Columbus
+3	30	null	null
+3	31	null	Institute for Ergonomics, Ohio State University
+3	32	null	null
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+4	16	null	The Ohio State University
+4	17	null	The Ohio State University
+4	18	null	The Ohio State University, Columbus, OH
+4	19	null	null
+4	20	null	null
+4	21	null	The Ohio State University
+4	22	null	Ohio State Univ., Columbus
+4	23	null	null
+4	24	null	University of Utah, Salt Lake City, Utah
+4	25	null	University of Utah, Salt Lake City, Utah
+4	26	null	null
+4	27	null	null
+4	28	null	null
+4	29	null	Ohio State Univ., Columbus
+4	30	null	null
+4	31	null	Institute for Ergonomics, Ohio State University
+4	32	null	null
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	null
+5	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+5	16	null	The Ohio State University
+5	17	null	The Ohio State University
+5	18	null	The Ohio State University, Columbus, OH
+5	19	null	null
+5	20	null	null
+5	21	null	The Ohio State University
+5	22	null	Ohio State Univ., Columbus
+5	23	null	null
+5	24	null	University of Utah, Salt Lake City, Utah
+5	25	null	University of Utah, Salt Lake City, Utah
+5	26	null	null
+5	27	null	null
+5	28	null	null
+5	29	null	Ohio State Univ., Columbus
+5	30	null	null
+5	31	null	Institute for Ergonomics, Ohio State University
+5	32	null	null
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+6	16	null	The Ohio State University
+6	17	null	The Ohio State University
+6	18	null	The Ohio State University, Columbus, OH
+6	19	null	null
+6	20	null	null
+6	21	null	The Ohio State University
+6	22	null	Ohio State Univ., Columbus
+6	23	null	null
+6	24	null	University of Utah, Salt Lake City, Utah
+6	25	null	University of Utah, Salt Lake City, Utah
+6	26	null	null
+6	27	null	null
+6	28	null	null
+6	29	null	Ohio State Univ., Columbus
+6	30	null	null
+6	31	null	Institute for Ergonomics, Ohio State University
+6	32	null	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+7	16	null	The Ohio State University
+7	17	null	The Ohio State University
+7	18	null	The Ohio State University, Columbus, OH
+7	19	null	null
+7	20	null	null
+7	21	null	The Ohio State University
+7	22	null	Ohio State Univ., Columbus
+7	23	null	null
+7	24	null	University of Utah, Salt Lake City, Utah
+7	25	null	University of Utah, Salt Lake City, Utah
+7	26	null	null
+7	27	null	null
+7	28	null	null
+7	29	null	Ohio State Univ., Columbus
+7	30	null	null
+7	31	null	Institute for Ergonomics, Ohio State University
+7	32	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+8	16	null	The Ohio State University
+8	17	null	The Ohio State University
+8	18	null	The Ohio State University, Columbus, OH
+8	19	null	null
+8	20	null	null
+8	21	null	The Ohio State University
+8	22	null	Ohio State Univ., Columbus
+8	23	null	null
+8	24	null	University of Utah, Salt Lake City, Utah
+8	25	null	University of Utah, Salt Lake City, Utah
+8	26	null	null
+8	27	null	null
+8	28	null	null
+8	29	null	Ohio State Univ., Columbus
+8	30	null	null
+8	31	null	Institute for Ergonomics, Ohio State University
+8	32	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	null
+9	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+9	16	null	The Ohio State University
+9	17	null	The Ohio State University
+9	18	null	The Ohio State University, Columbus, OH
+9	19	null	null
+9	20	null	null
+9	21	null	The Ohio State University
+9	22	null	Ohio State Univ., Columbus
+9	23	null	null
+9	24	null	University of Utah, Salt Lake City, Utah
+9	25	null	University of Utah, Salt Lake City, Utah
+9	26	null	null
+9	27	null	null
+9	28	null	null
+9	29	null	Ohio State Univ., Columbus
+9	30	null	null
+9	31	null	Institute for Ergonomics, Ohio State University
+9	32	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+10	16	null	The Ohio State University
+10	17	null	The Ohio State University
+10	18	null	The Ohio State University, Columbus, OH
+10	19	null	null
+10	20	null	null
+10	21	null	The Ohio State University
+10	22	null	Ohio State Univ., Columbus
+10	23	null	null
+10	24	null	University of Utah, Salt Lake City, Utah
+10	25	null	University of Utah, Salt Lake City, Utah
+10	26	null	null
+10	27	null	null
+10	28	null	null
+10	29	null	Ohio State Univ., Columbus
+10	30	null	null
+10	31	null	Institute for Ergonomics, Ohio State University
+10	32	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+11	16	null	The Ohio State University
+11	17	null	The Ohio State University
+11	18	null	The Ohio State University, Columbus, OH
+11	19	null	null
+11	20	null	null
+11	21	null	The Ohio State University
+11	22	null	Ohio State Univ., Columbus
+11	23	null	null
+11	24	null	University of Utah, Salt Lake City, Utah
+11	25	null	University of Utah, Salt Lake City, Utah
+11	26	null	null
+11	27	null	null
+11	28	null	null
+11	29	null	Ohio State Univ., Columbus
+11	30	null	null
+11	31	null	Institute for Ergonomics, Ohio State University
+11	32	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+12	16	null	The Ohio State University
+12	17	null	The Ohio State University
+12	18	null	The Ohio State University, Columbus, OH
+12	19	null	null
+12	20	null	null
+12	21	null	The Ohio State University
+12	22	null	Ohio State Univ., Columbus
+12	23	null	null
+12	24	null	University of Utah, Salt Lake City, Utah
+12	25	null	University of Utah, Salt Lake City, Utah
+12	26	null	null
+12	27	null	null
+12	28	null	null
+12	29	null	Ohio State Univ., Columbus
+12	30	null	null
+12	31	null	Institute for Ergonomics, Ohio State University
+12	32	null	null
+13	14	null	null
+13	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+13	16	null	The Ohio State University
+13	17	null	The Ohio State University
+13	18	null	The Ohio State University, Columbus, OH
+13	19	null	null
+13	20	null	null
+13	21	null	The Ohio State University
+13	22	null	Ohio State Univ., Columbus
+13	23	null	null
+13	24	null	University of Utah, Salt Lake City, Utah
+13	25	null	University of Utah, Salt Lake City, Utah
+13	26	null	null
+13	27	null	null
+13	28	null	null
+13	29	null	Ohio State Univ., Columbus
+13	30	null	null
+13	31	null	Institute for Ergonomics, Ohio State University
+13	32	null	null
+14	15	null	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+14	16	null	The Ohio State University
+14	17	null	The Ohio State University
+14	18	null	The Ohio State University, Columbus, OH
+14	19	null	null
+14	20	null	null
+14	21	null	The Ohio State University
+14	22	null	Ohio State Univ., Columbus
+14	23	null	null
+14	24	null	University of Utah, Salt Lake City, Utah
+14	25	null	University of Utah, Salt Lake City, Utah
+14	26	null	null
+14	27	null	null
+14	28	null	null
+14	29	null	Ohio State Univ., Columbus
+14	30	null	null
+14	31	null	Institute for Ergonomics, Ohio State University
+14	32	null	null
+15	16	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University
+15	17	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University
+15	18	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University, Columbus, OH
+15	19	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+15	20	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+15	21	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University
+15	22	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	Ohio State Univ., Columbus
+15	23	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+15	24	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	University of Utah, Salt Lake City, Utah
+15	25	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	University of Utah, Salt Lake City, Utah
+15	26	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+15	27	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+15	28	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+15	29	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	Ohio State Univ., Columbus
+15	30	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+15	31	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	Institute for Ergonomics, Ohio State University
+15	32	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	null
+16	17	The Ohio State University	The Ohio State University
+16	18	The Ohio State University	The Ohio State University, Columbus, OH
+16	19	The Ohio State University	null
+16	20	The Ohio State University	null
+16	21	The Ohio State University	The Ohio State University
+16	22	The Ohio State University	Ohio State Univ., Columbus
+16	23	The Ohio State University	null
+16	24	The Ohio State University	University of Utah, Salt Lake City, Utah
+16	25	The Ohio State University	University of Utah, Salt Lake City, Utah
+16	26	The Ohio State University	null
+16	27	The Ohio State University	null
+16	28	The Ohio State University	null
+16	29	The Ohio State University	Ohio State Univ., Columbus
+16	30	The Ohio State University	null
+16	31	The Ohio State University	Institute for Ergonomics, Ohio State University
+16	32	The Ohio State University	null
+17	18	The Ohio State University	The Ohio State University, Columbus, OH
+17	19	The Ohio State University	null
+17	20	The Ohio State University	null
+17	21	The Ohio State University	The Ohio State University
+17	22	The Ohio State University	Ohio State Univ., Columbus
+17	23	The Ohio State University	null
+17	24	The Ohio State University	University of Utah, Salt Lake City, Utah
+17	25	The Ohio State University	University of Utah, Salt Lake City, Utah
+17	26	The Ohio State University	null
+17	27	The Ohio State University	null
+17	28	The Ohio State University	null
+17	29	The Ohio State University	Ohio State Univ., Columbus
+17	30	The Ohio State University	null
+17	31	The Ohio State University	Institute for Ergonomics, Ohio State University
+17	32	The Ohio State University	null
+18	19	The Ohio State University, Columbus, OH	null
+18	20	The Ohio State University, Columbus, OH	null
+18	21	The Ohio State University, Columbus, OH	The Ohio State University
+18	22	The Ohio State University, Columbus, OH	Ohio State Univ., Columbus
+18	23	The Ohio State University, Columbus, OH	null
+18	24	The Ohio State University, Columbus, OH	University of Utah, Salt Lake City, Utah
+18	25	The Ohio State University, Columbus, OH	University of Utah, Salt Lake City, Utah
+18	26	The Ohio State University, Columbus, OH	null
+18	27	The Ohio State University, Columbus, OH	null
+18	28	The Ohio State University, Columbus, OH	null
+18	29	The Ohio State University, Columbus, OH	Ohio State Univ., Columbus
+18	30	The Ohio State University, Columbus, OH	null
+18	31	The Ohio State University, Columbus, OH	Institute for Ergonomics, Ohio State University
+18	32	The Ohio State University, Columbus, OH	null
+19	20	null	null
+19	21	null	The Ohio State University
+19	22	null	Ohio State Univ., Columbus
+19	23	null	null
+19	24	null	University of Utah, Salt Lake City, Utah
+19	25	null	University of Utah, Salt Lake City, Utah
+19	26	null	null
+19	27	null	null
+19	28	null	null
+19	29	null	Ohio State Univ., Columbus
+19	30	null	null
+19	31	null	Institute for Ergonomics, Ohio State University
+19	32	null	null
+20	21	null	The Ohio State University
+20	22	null	Ohio State Univ., Columbus
+20	23	null	null
+20	24	null	University of Utah, Salt Lake City, Utah
+20	25	null	University of Utah, Salt Lake City, Utah
+20	26	null	null
+20	27	null	null
+20	28	null	null
+20	29	null	Ohio State Univ., Columbus
+20	30	null	null
+20	31	null	Institute for Ergonomics, Ohio State University
+20	32	null	null
+21	22	The Ohio State University	Ohio State Univ., Columbus
+21	23	The Ohio State University	null
+21	24	The Ohio State University	University of Utah, Salt Lake City, Utah
+21	25	The Ohio State University	University of Utah, Salt Lake City, Utah
+21	26	The Ohio State University	null
+21	27	The Ohio State University	null
+21	28	The Ohio State University	null
+21	29	The Ohio State University	Ohio State Univ., Columbus
+21	30	The Ohio State University	null
+21	31	The Ohio State University	Institute for Ergonomics, Ohio State University
+21	32	The Ohio State University	null
+22	23	Ohio State Univ., Columbus	null
+22	24	Ohio State Univ., Columbus	University of Utah, Salt Lake City, Utah
+22	25	Ohio State Univ., Columbus	University of Utah, Salt Lake City, Utah
+22	26	Ohio State Univ., Columbus	null
+22	27	Ohio State Univ., Columbus	null
+22	28	Ohio State Univ., Columbus	null
+22	29	Ohio State Univ., Columbus	Ohio State Univ., Columbus
+22	30	Ohio State Univ., Columbus	null
+22	31	Ohio State Univ., Columbus	Institute for Ergonomics, Ohio State University
+22	32	Ohio State Univ., Columbus	null
+23	24	null	University of Utah, Salt Lake City, Utah
+23	25	null	University of Utah, Salt Lake City, Utah
+23	26	null	null
+23	27	null	null
+23	28	null	null
+23	29	null	Ohio State Univ., Columbus
+23	30	null	null
+23	31	null	Institute for Ergonomics, Ohio State University
+23	32	null	null
+24	25	University of Utah, Salt Lake City, Utah	University of Utah, Salt Lake City, Utah
+24	26	University of Utah, Salt Lake City, Utah	null
+24	27	University of Utah, Salt Lake City, Utah	null
+24	28	University of Utah, Salt Lake City, Utah	null
+24	29	University of Utah, Salt Lake City, Utah	Ohio State Univ., Columbus
+24	30	University of Utah, Salt Lake City, Utah	null
+24	31	University of Utah, Salt Lake City, Utah	Institute for Ergonomics, Ohio State University
+24	32	University of Utah, Salt Lake City, Utah	null
+25	26	University of Utah, Salt Lake City, Utah	null
+25	27	University of Utah, Salt Lake City, Utah	null
+25	28	University of Utah, Salt Lake City, Utah	null
+25	29	University of Utah, Salt Lake City, Utah	Ohio State Univ., Columbus
+25	30	University of Utah, Salt Lake City, Utah	null
+25	31	University of Utah, Salt Lake City, Utah	Institute for Ergonomics, Ohio State University
+25	32	University of Utah, Salt Lake City, Utah	null
+26	27	null	null
+26	28	null	null
+26	29	null	Ohio State Univ., Columbus
+26	30	null	null
+26	31	null	Institute for Ergonomics, Ohio State University
+26	32	null	null
+27	28	null	null
+27	29	null	Ohio State Univ., Columbus
+27	30	null	null
+27	31	null	Institute for Ergonomics, Ohio State University
+27	32	null	null
+28	29	null	Ohio State Univ., Columbus
+28	30	null	null
+28	31	null	Institute for Ergonomics, Ohio State University
+28	32	null	null
+29	30	Ohio State Univ., Columbus	null
+29	31	Ohio State Univ., Columbus	Institute for Ergonomics, Ohio State University
+29	32	Ohio State Univ., Columbus	null
+30	31	null	Institute for Ergonomics, Ohio State University
+30	32	null	null
+31	32	Institute for Ergonomics, Ohio State University	null

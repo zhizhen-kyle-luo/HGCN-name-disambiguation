@@ -1,0 +1,112 @@
+7	8	BIOCOMP	BIOCOMP
+12	13	COMPSAC	COMPSAC
+12	14	COMPSAC	COMPSAC
+12	167	COMPSAC	COMPSAC (1)
+13	14	COMPSAC	COMPSAC
+13	167	COMPSAC	COMPSAC (1)
+14	167	COMPSAC	COMPSAC (1)
+16	18	CSCWD	CSCWD
+21	22	DG.O	DG.O
+24	25	Edutainment	Edutainment
+24	26	Edutainment	Edutainment
+24	27	Edutainment	Edutainment
+24	28	Edutainment	Edutainment
+25	26	Edutainment	Edutainment
+25	27	Edutainment	Edutainment
+25	28	Edutainment	Edutainment
+26	27	Edutainment	Edutainment
+26	28	Edutainment	Edutainment
+27	28	Edutainment	Edutainment
+31	32	FSKD (4)	FSKD (4)
+35	36	HICSS	HICSS
+35	37	HICSS	HICSS
+35	38	HICSS	HICSS
+35	39	HICSS	HICSS
+35	40	HICSS	HICSS
+36	37	HICSS	HICSS
+36	38	HICSS	HICSS
+36	39	HICSS	HICSS
+36	40	HICSS	HICSS
+37	38	HICSS	HICSS
+37	39	HICSS	HICSS
+37	40	HICSS	HICSS
+38	39	HICSS	HICSS
+38	40	HICSS	HICSS
+39	40	HICSS	HICSS
+45	46	International Conference on Computational Science	International Conference on Computational Science
+45	47	International Conference on Computational Science	International Conference on Computational Science (4)
+46	47	International Conference on Computational Science	International Conference on Computational Science (4)
+53	54	ICIC (2)	ICIC (2)
+58	59	ICN/ICONS/MCL	ICN/ICONS/MCL
+60	61	ICNC (1)	ICNC (1)
+64	65	ICPR (3)	ICPR (3)
+64	67	ICPR (3)	ICPR
+65	67	ICPR (3)	ICPR
+66	67	ICPR (1)	ICPR
+71	169	ICWS	ICWS
+74	75	IMSCCS (1)	IMSCCS
+78	80	ISNN (1)	ISNN (1)
+79	81	ISNN (2)	ISNN (2)
+89	90	OOPSLA Companion	OOPSLA Companion
+89	91	OOPSLA Companion	OOPSLA Companion
+90	91	OOPSLA Companion	OOPSLA Companion
+92	93	PAKDD	PAKDD
+100	101	WAIM	WAIM
+100	102	WAIM	WAIM
+100	103	WAIM	APWeb/WAIM
+101	102	WAIM	WAIM
+101	103	WAIM	APWeb/WAIM
+102	103	WAIM	APWeb/WAIM
+104	105	WWW	WWW
+104	106	WWW	WWW
+105	106	WWW	WWW
+109	110	VTC Fall	VTC Fall
+123	124	ICARCV	ICARCV
+123	125	ICARCV	ICARCV
+123	126	ICARCV	ICARCV
+124	125	ICARCV	ICARCV
+124	126	ICARCV	ICARCV
+125	126	ICARCV	ICARCV
+129	130	Bioinformatics	Bioinformatics
+129	131	Bioinformatics	Bioinformatics
+129	132	Bioinformatics	Bioinformatics
+129	133	Bioinformatics	BMC Bioinformatics
+129	225	Bioinformatics	Bioinformatics
+130	131	Bioinformatics	Bioinformatics
+130	132	Bioinformatics	Bioinformatics
+130	133	Bioinformatics	BMC Bioinformatics
+130	225	Bioinformatics	Bioinformatics
+131	132	Bioinformatics	Bioinformatics
+131	133	Bioinformatics	BMC Bioinformatics
+131	225	Bioinformatics	Bioinformatics
+132	133	Bioinformatics	BMC Bioinformatics
+132	225	Bioinformatics	Bioinformatics
+133	225	BMC Bioinformatics	Bioinformatics
+138	139	IEICE Transactions	IEICE Transactions
+144	145	IEEE Journal on Selected Areas in Communications	IEEE Journal on Selected Areas in Communications
+144	146	IEEE Journal on Selected Areas in Communications	IEEE Journal on Selected Areas in Communications
+145	146	IEEE Journal on Selected Areas in Communications	IEEE Journal on Selected Areas in Communications
+148	149	Pattern Recognition	Pattern Recognition
+152	153	IEEE/ACM Trans. Netw.	IEEE/ACM Trans. Netw.
+162	163	D.GO	D.GO
+207	208	Proceedings of the Third International Conference on Natural Computation - Volume 05	Proceedings of the Third International Conference on Natural Computation - Volume 04
+207	209	Proceedings of the Third International Conference on Natural Computation - Volume 05	Proceedings of the Third International Conference on Natural Computation - Volume 03
+207	210	Proceedings of the Third International Conference on Natural Computation - Volume 05	Proceedings of the Third International Conference on Natural Computation - Volume 03
+207	224	Proceedings of the Third International Conference on Natural Computation - Volume 05	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01
+207	227	Proceedings of the Third International Conference on Natural Computation - Volume 05	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03
+208	209	Proceedings of the Third International Conference on Natural Computation - Volume 04	Proceedings of the Third International Conference on Natural Computation - Volume 03
+208	210	Proceedings of the Third International Conference on Natural Computation - Volume 04	Proceedings of the Third International Conference on Natural Computation - Volume 03
+208	224	Proceedings of the Third International Conference on Natural Computation - Volume 04	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01
+208	227	Proceedings of the Third International Conference on Natural Computation - Volume 04	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03
+209	210	Proceedings of the Third International Conference on Natural Computation - Volume 03	Proceedings of the Third International Conference on Natural Computation - Volume 03
+209	224	Proceedings of the Third International Conference on Natural Computation - Volume 03	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01
+209	227	Proceedings of the Third International Conference on Natural Computation - Volume 03	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03
+210	224	Proceedings of the Third International Conference on Natural Computation - Volume 03	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01
+210	227	Proceedings of the Third International Conference on Natural Computation - Volume 03	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03
+222	223	Proceedings of the 2008 International Conference on Risk Management & Engineering Management	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+222	229	Proceedings of the 2008 International Conference on Risk Management & Engineering Management	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+223	229	Proceedings of the 2008 International Conference on Risk Management & Engineering Management	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+224	227	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 01	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 03
+226	228	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01
+226	230	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01
+228	230	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01	Proceedings of the 2008 International Conference on Intelligent Computation Technology and Automation - Volume 01

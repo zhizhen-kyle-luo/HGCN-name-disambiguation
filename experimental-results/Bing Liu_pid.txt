@@ -1,0 +1,182 @@
+3637	Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data
+8253	Controlling FD and MVD Inferences in MLS
+8331	Incorporating with Recursive Model Training in Time Series Clustering
+8432	A Formal Specification for Web Services Composition and Verification
+8555	Non-Almost-Derivable Frequent Itemsets Mining
+11842	Mining Opinion Features in Customer Reviews
+11897	Opinion Extraction and Summarization on the Web
+13328	Mining Comparative Sentences and Relations
+13849	Post-Analysis of Learned Rules
+13851	Intuitive Representation of Decision Trees Using General Rules and Exceptions
+13855	Using Constraints to Model Disjunctions in Rule-Based Reasoning
+13875	Text Classification by Labeling Words
+15564	Automatic Wrapper Generation Using Tree Matching and Partial Tree Alignment
+23956	Towards a Multi-agent Model for Planning and Design of Exposition Spaces
+48182	A Grid-Based System for the Multi-reservoir Optimal Scheduling in Huaihe River Basin
+95617	Clustering Through Decision Tree Construction
+95632	Mining community structure of named entities from free text
+95644	Using micro information units for internet search
+96014	Clustering Transactions Using Large Items
+96048	Opportunity map: a visualization framework for fast identification of actionable knowledge
+96070	Measuring the meaning in time series clustering of text search queries
+97234	A Novel RBF Neural Network with Fast Training and Accurate Generalization
+112374	Web for Data Mining Applications
+120935	Experimental Studies of the Universal Chemical Key (UCK)Algorithm on the NCI Database of Chemical Compounds
+140478	Semi-supervised Text Classification Using Partitioned EM
+144324	Mining Changes for Real-Life Applications
+156389	Assigning Unique Keys to Chemical Compounds for Data Integration: Some Interesting Counter Examples
+159059	Efficiently Determine the Starting Sample Size for Progressive Sampling
+165054	A Reinforcement Approach to Schelduling
+165134	Intelligent Route Finding: Combining Knowledge and Cases and an Efficient Search Algorithm
+172140	Learning from Positive and Unlabeled Examples with Different Data Distributions
+172251	Efficiently Determining the Starting Sample Size for Progressive Sampling
+172753	Learning to Classify Documents with Only a Small Positive Training Set
+294813	Content-based Index and Retrieval Method of Chinese Document Images
+300541	Multivariate Time Series Prediction via Temporal Classification
+302262	Finding Actionable Knowledge via Automated Comparison
+302509	Speed-up Iterative Frequent Itemset Mining with Constraint Changes
+302784	Building Text Classifiers Using Positive and Unlabeled Examples
+302786	Analyzing the Interestingness of Association Rules from the Temporal Dimension
+303048	Detecting Patterns of Change Using Enhanced Parallel Coordinates Visualization
+303050	A Visual Data Mining Framework for Convenient Identification of Useful Knowledge
+303222	Mining Latent Associations of Objects Using a Typed Mixture Model--A Case Study on Expert/Expertise Mining
+303456	Analyzing and Detecting Review Spam
+303691	Time Sensitive Ranking with Application to Publication Search
+335212	Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression
+335275	Partially Supervised Classification of Text Documents
+337281	An Adaptive Schedule Medium Access Control for Wireless Sensor Networks
+367226	Integrating Rules and Constraints
+370781	A Small Listener for Heterogeneous Mobile Devices: A Service Enabler with a Uniform Web Object View
+374393	A Refinement Approach to Search and Constraint Satisfaction Problem
+374396	Intelligent Air Travel and Tourist Information Systems
+389510	Using Knowledge to Isolate Search in Route Finding
+389524	Learning to Classify Texts Using Positive and Unlabeled Data
+389605	Increasing Functional Constraints Need to Be Checked Only Once
+389615	Discovering Interesting Holes in Data
+391220	Web Page Cleaning for Web Mining through Feature Weighting
+391440	Learning to Identify Unexpected Instances in the Test Set
+408098	ECO: An Empirical-Based Compilation and Optimization System
+442983	A Novel Fuzzy Neural Network with Fast Training and Accurate Generalization
+442985	On the Universal Approximation Theorem of Fuzzy Neural Networks with Random Membership Function Parameters
+472557	Mining and summarizing customer reviews
+472812	Exploration mining in diabetic patients databases: findings and conclusions
+473022	Mining data records in Web pages
+473023	Using General Impressions to Analyze Discovered Classification Rules
+473024	Multi-level organization and summarization of the discovered rules
+473025	Identifying non-actionable association rules
+473026	Discovering the set of fundamental rule changes
+473027	Integrating Classification and Association Rule Mining
+473028	Pruning and Summarizing the Discovered Associations
+473029	Mining Association Rules with Multiple Minimum Supports
+473030	Mining Interesting Knowledge Using DM-II
+473033	Discovering unexpected information from your competitors' web sites
+473037	Rule interestingness analysis using OLAP operations
+473047	Targeting the right students using data mining
+473370	Querying multiple sets of discovered rules
+473400	Interestingness-Based Interval Merger for Numeric Association Rules
+473438	A refinement approach to handling model misfit in text categorization
+473484	Opportunity map: identifying causes of failure - a deployed data mining system
+473486	V-Miner: using enhanced parallel coordinates to mine product design and test data
+473513	Eliminating noisy information in Web pages for data mining
+475089	Accelerated Bundle Adjustment in Multiple-View Reconstruction
+483074	Selector: A Language Construct for Developing Dynamic Applications
+487716	Forward and Backward Chaining in Constraint Programming (Abstract)
+499961	SyD: A Middleware Testbed for Collaborative Applications over Small Heterogeneous Devices and Data Stores
+526962	Visually Aided Exploration of Interesting Association Rules
+541840	Discovering Overlapping Communities of Named Entities
+541862	Improving an Association Rule Based Classifier
+542095	Semantic Text Classification of Emergent Disease Reports
+551650	An Improved Generic Arc Consistency Algorithm and Its Specializations
+551664	Using Decision Tree Induction for Discovering Holes in Data
+551898	Concurrent Discretization of Multiple Attributes
+562293	A Bottom-Up Distance-Based Index Tree for Metric Space
+562295	Subsequence Similarity Search Under Time Shifting
+579035	Discovering Frequent Substructures from Hierarchical Semi-structured Data
+595109	Identifying comparative sentences in text documents
+596209	Semantic text classification of disease reporting
+596295	The utility of linguistic rules in opinion mining
+609466	MAC Performance and Improvement in Mobile Wireless Sensor Networks
+618933	Recognition of 3D Objects from 2D Images - Some Issues
+651973	A Reputation Management Scheme Based on Global Trust Model for Peer-to-Peer Virtual Communities
+652000	Dynamic Incremental Data Summarization for Hierarchical Clustering
+652003	Tight Bounds on the Estimation Distance Using Wavelet
+652101	An Effective Approach for Hiding Sensitive Knowledge in Data Publishing
+655065	An EM Based Training Algorithm for Cross-Language Text Categorization
+655134	Adding the Temporal Dimension to Search - A Case Study in Publication Search
+663551	WISE-2005 Tutorial: Web Content Mining
+663755	NET - A System for Extracting Web Data from Flat and Nested Data Records
+664006	Extracting Web Data Using Instance-Based Learning
+673801	Dealing with different distributions in learning from
+674341	Mining topic-specific concepts and definitions on the web
+674347	Opinion observer: analyzing and comparing opinions on the Web
+674368	Visualizing web site comparisons
+674878	On the temporal dimension of search
+674890	Web data extraction based on partial tree alignment
+675151	Review spam detection
+675269	Extracting Web Data Using Instance-Based Learning
+686956	Classification using support vector machines with graded resolution
+710420	A holistic lexicon-based approach to opinion mining
+710428	Opinion spam and analysis
+743698	Scheduling via reinforcement
+755019	Scoring the Data Using Association Rules
+756010	Positive solutions of three-point boundary value problems for the one-dimensional p-laplacian with infinitely many singularities
+756018	Existence and uniqueness of solutionsto first-order multipoint boundary value problems
+756040	Note on third-order boundary value problem for differential equations with deviating arguments
+763403	Characterizing the dynamic connectivity between genes by variable parameter regression and Kalman filtering based on temporal gene expression data
+768594	Esub8: A novel tool to predict protein subcellular localizations in eukaryotic organisms
+768798	A combinational feature selection and ensemble neural network method for classification of gene expression data
+769581	Business applications of data mining
+777762	Managing large collections of data mining models
+778648	Conceptual design: issues and challenges
+875062	Finding the Shortest Route Using Cases, Knowledge, and Djikstra's Algorithm
+875065	Mining Web Pages for Data Records
+875066	Analyzing the Subjective Interestingness of Association Rules
+906495	A Neural Network Approach to Shape from Shading
+907015	Systematic benchmarking of microarray data feature extraction and classification
+907982	An Efficient and Accurate Method for 3D-Point Reconstruction from Multiple Views
+959166	An Empirical Study of the Universal Chemical Key Algorithm for Assigning Unique Keys to Chemical Compounds
+963560	SARS-CoV protease inhibitors design using virtual screening method from natural products libraries
+1003702	Top 10 algorithms in data mining
+1063588	Editorial: special issue on web content mining
+1063593	Web for Data Mining: Organizing and Interpreting the Discovered Rules using the Web
+1063610	WebKDD 2004: web mining and web usage analysis post-workshop report
+1063733	KDD Cup and workshop 2007
+1064846	Research Activities in Database Management and Information Retrieval at the University of Illinois at Chicago
+1067720	ConstraintLisp: an object-oriented constraint programming language
+1113197	Guest Editors' Introduction: Special Section on Mining and Searching the Web
+1113207	Finding Interesting Patterns Using User Expectations
+1113812	Structured Data Extraction from the Web Based on Partial Tree Alignment
+1113840	Guest Editors' Introduction: Special Section on Intelligent Data Preparation
+1148990	The dynamics of a prey-dependent consumption model concerning impulsive control strategy
+1194213	Dynamic Complexities in a Lotka-volterra Predator-prey Model Concerning impulsive Control Strategy
+1204666	Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data
+1212507	Entity discovery and assignment for opinion mining applications
+1213601	Positive Unlabeled Learning for Data Stream Classification
+1229568	Positive solutions of a nonlinear four-point boundary value problems
+1235972	Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data
+1239226	What's behind topic formation and development: a perspective of community core groups
+1239833	Probabilistic Approximations of Signaling Pathway Dynamics
+1244164	Towards the SocioScope: an information system for the study of social dynamics through digital traces
+1249682	Expanding Domain Sentiment Lexicon through Double Propagation
+1266617	A singular integral of the composite operator
+1277422	Discovery of functional miRNA-mRNA regulatory modules with computational methods
+1283282	A note on a nonlocal boundary value problems
+1283700	Dynamics of a two-species Lotka-Volterra competition system in a polluted environment with pulse toxicant input
+1288314	Guest editorial
+1297210	Classification by Association Rule Analysis
+1298452	Opinion Mining
+1314189	Semantic-Based Remote Sensing Images Intelligent Service on Grid Environment.
+1318365	A Heuristic Greedy Optimum Algorithm for Target Coverage in Wireless Sensor Networks.
+1318398	An New Global Dynamic Scheduling Algorithm with Multi-Hop Path Splitting and Multi-Pathing Using GridFTP.
+1318983	An Ontology-Based Approach to Knowledge Management.
+1353755	Advances in Web Mining and Web Usage Analysis: 6th International Workshop on Knowledge Discovery on the Web, WEBKDD 2004Seattle, WA, USA, August 22-25, ... Papers (Lecture Notes in Computer Science)
+1357963	Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data (Data-Centric Systems and Applications)
+1379741	Proceedings of the Seventh SIAM International Conference on Data Mining
+1415986	Solvability of multi-point boundary value problem at resonance-part IV
+1431826	Automatic extraction of outbreak information from news
+1522803	Solvability of multi-point boundary value problem at resonance (III)
+1618795	Research activities in database management and information retrieval at University of Illinois at Chicago
+1643707	Reprogrammable gate arrays for hardware accelerated IC design verification
+1651883	Robot Obstacle Avoidance based on an Improved Ant Colony Algorithm
+1694347	Content-Based Indexing and Retrieval Method of Chinese Document Images
+1698629	Positive solutions of a nonlinear three-point boundary value problem

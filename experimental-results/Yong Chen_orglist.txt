@@ -1,0 +1,44 @@
+0	59	Sch. of Sci., Jinan Univ.	School of Mathematics and System Sciences, Shandong University, Jinan 250100, Shandong, China; School of Sciences, Jinan University, Jinan 250022, Shandong, China.
+4	10	Illinois Inst. of Technol., Chicago, IL	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA
+4	15	Illinois Inst. of Technol., Chicago, IL	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL
+4	25	Illinois Inst. of Technol., Chicago, IL	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL
+4	30	Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+4	31	Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+4	32	Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+5	79	Dept. of Comput. Sci. & Eng., Michigan State Univ., East Lansing, MI	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI
+10	15	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL
+10	25	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL
+10	30	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA	Illinois Institute of Technology, Chicago, IL
+10	31	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA	Illinois Institute of Technology, Chicago, IL
+10	32	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA	Illinois Institute of Technology, Chicago, IL
+10	42	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA	Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA
+10	63	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL, USA	Department of Computer Science, Illinois Institute of Technology, Chicago, 60616, USA
+15	25	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL
+15	30	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+15	31	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+15	32	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+15	42	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA
+15	63	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Department of Computer Science, Illinois Institute of Technology, Chicago, 60616, USA
+23	72	Institute of Theoretical Physics, Lanzhou University, 730000 Lanzhou, China	Sch. of Inf. Sci. & Eng., Lanzhou Univ., Lanzhou, China
+25	30	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+25	31	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+25	32	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Illinois Institute of Technology, Chicago, IL
+25	42	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA
+25	63	Dept. of Comput. Sci., Illinois Inst. of Technol., Chicago, IL	Department of Computer Science, Illinois Institute of Technology, Chicago, 60616, USA
+30	31	Illinois Institute of Technology, Chicago, IL	Illinois Institute of Technology, Chicago, IL
+30	32	Illinois Institute of Technology, Chicago, IL	Illinois Institute of Technology, Chicago, IL
+30	42	Illinois Institute of Technology, Chicago, IL	Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA
+31	32	Illinois Institute of Technology, Chicago, IL	Illinois Institute of Technology, Chicago, IL
+31	42	Illinois Institute of Technology, Chicago, IL	Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA
+32	42	Illinois Institute of Technology, Chicago, IL	Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA
+37	44	Department of Mechanical and Industrial Engineering, The University of Iowa, Iowa City, IA 52242, USA	Dept. of Mech., Univ. of Iowa, Iowa City, IA, USA
+37	45	Department of Mechanical and Industrial Engineering, The University of Iowa, Iowa City, IA 52242, USA	Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA
+37	46	Department of Mechanical and Industrial Engineering, The University of Iowa, Iowa City, IA 52242, USA	Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA
+38	80	Department of Computer Science, Trinity College, Dublin, Ireland	Trinity College Dublin
+42	63	Department of Computer Science, Illinois Institute of Technology, Chicago, IL 60616, USA	Department of Computer Science, Illinois Institute of Technology, Chicago, 60616, USA
+44	45	Dept. of Mech., Univ. of Iowa, Iowa City, IA, USA	Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA
+44	46	Dept. of Mech., Univ. of Iowa, Iowa City, IA, USA	Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA
+45	46	Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA	Dept. of Mech. & Ind. Eng., Univ. of Iowa, Iowa City, IA, USA
+48	75	Nonlinear Science Center and Department of Mathematics, Ningbo University, Ningbo, PR China	Nonlinear Science Center and Department of Mathematics, Ningbo University, Ningbo, China and Key Laboratory of Mathematics Mechanization, Chinese Academy of Sciences, Beijing, China
+68	73	Sch. of Autom. Eng., Univ. of Electron. Sci. & Technol. of China, Chengdu, China	Sch. of Autom. Eng., Univ. of Electron. Sci. & Technol. of China (UESTC), Chengdu, China
+76	77	Ecole Normale Supérieure, 24 Rue Lhomond, 75231 Paris, France	Ecole Normale Supérieure de Paris, 24 rue lhomond,Paris 750005, France

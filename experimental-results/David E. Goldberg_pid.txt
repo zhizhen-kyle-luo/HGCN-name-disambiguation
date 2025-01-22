@@ -1,0 +1,231 @@
+140	Genetic Algorithms in Search Optimization and Machine Learning
+2912	Discovering Deep Building Blocks for Competent Genetic Algorithms Using Chance Discovery via KeyGraphs
+39156	Generalized State Values in an Anticipatory Learning Classifier System
+59459	Little Models, Big Results
+59889	Sub-structural Niching in Non-stationary Environments
+194167	Where Does the Good Stuff Go, and Why? How Contextual Semantics Influences Program Structure in Simple Genetic Programming
+199384	Fluctuating Crosstalk as a Source of Deterministic Noise and Its Effects on GA Scalability
+212439	Variable Default Hierarchy Separation in a Classifier System
+212456	The Nonuniform Walsh-Schema Transform
+212470	Analyzing Deception in Trap Functions
+212484	A Comparative Analysis of Selection Schemes Used in Genetic Algorithms
+212486	Accounting for Noise in the Sizing of Populations
+212496	Learning Linkage
+212505	Genetic Algorithm Difficulty and the Modality of Fitness Landscapes
+212507	Toward a Control Map for Niching
+212523	SEARCH, Blackbox Optimization, And Sample Complexity
+225406	Real-Coded Bayesian Optimization Algorithm: Bringing the Strength of BOA into the Continuous World
+225422	Efficient Discretization Scheduling In Multiple Dimensions
+225559	Bounding the Population Size in XCS to Ensure Reproductive Opportunities
+225561	Bounding Learning Time in XCS
+225563	Gradient-Based Learning Updates Improve XCS Performance in Multistep Problems
+225565	Introducing a Genetic Generalization Pressure to the Anticipatory Classifier System - Part 1: Theoretical approach
+225583	Extracted global structure makes local building block processing effective in XCS
+225585	Tournament Selection: Stable Fitness Pressure in XCS
+225620	Are Multiple Runs of Genetic Algorithms Better than One?
+225659	An Analysis of a Reordering Operator with Tournament Selection on a GA-Hard Problem
+225660	Tightness Time for the Linkage Learning Genetic Algorithm
+225661	Introducing Subchromosome Representations to the Linkage Learning Genetic Algorithm
+225662	Fitness Inheritance In Multi-objective Optimization
+225664	Quality-time analysis of multi-objective evolutionary algorithms
+225863	Performance Evaluation and Population Reduction for a Self Adaptive Hybrid Genetic Algorithm (SAHGA)
+225974	Using Time Efficiently: Genetic-Evolutionary Algorithms and the Continuation Problem
+225975	Optimizing Global-Local Search Hybrids
+226121	From Twomax To The Ising Model: Easy And Hard Symmetrical Problems
+226253	Multiple-objective Bayesian Optimization Algorithm
+226307	Extending XCSF beyond linear approximation
+226309	XCS with computed prediction in multistep environments
+226311	Classifier prediction based on tile coding
+226312	OMEGA - Ordering Messy GA: Solving Permutation Problems with the Fast Genetic Algorithm and Random Keys
+226313	Prediction update algorithms for XCSF: RLS, Kalman filter, and gain adaptation
+226343	Evolutionary Computation As A Form Of Organization
+226420	Combining competent crossover and mutation operators: a probabilistic model building approach
+226434	Wise Breeding GA via Machine Learning Techniques for Function Optimization
+226436	Enhanced Innovation: A Fusion of Chance Discovery and Evolutionary Computation to Foster Creative Processes and Decision Making
+226438	Analyzing active interactive genetic algorithms using visual analytics
+226439	The compact classifier system: motivation, analysis, and first results
+226440	Binary rule encoding schemes: a study using the compact classifier system
+226441	Combating user fatigue in iGAs: partial ordering, support vector machines, and synthetic fitness
+226445	Time Complexity of genetic algorithms on exponentially scaled problems
+226518	Toward an Understanding of the Quality and Efficiency of Model Building for Genetic Algorithms
+226519	Dependency Structure Matrix Analysis: Offline Utility of the Dependency Structure Matrix Genetic Algorithm
+226542	Conquering hierarchical difficulty by explicit chunking: substructural chromosome compression
+226642	Inducing Sequentiality Using Grammatical Genetic Codes
+226694	Dynamic Uniform Scaling for Multiobjective Genetic Algorithms
+226696	Hierarchical Problem Solving and the Bayesian Optimization Algorithm
+226697	Hierarchical BOA Solves Ising Spin Glasses and MAXSAT
+226698	Bayesian Optimization Algorithm, Population Sizing, and Time to Convergence
+226699	Combining The Strengths Of Bayesian Optimization Algorithm And Adaptive Evolution Strategies
+226704	Hierarchical BOA on random decomposable problems
+226705	Multiobjective hBOA, clustering, and scalability
+226706	Sporadic model building for efficiency enhancement of hierarchical BOA
+226808	Bad Codings and the Utility of Well-Designed Genetic Algorithms
+226837	Sub-structural niching in estimation of distribution algorithms
+226838	Genetic Algorithms, Efficiency Enhancement, And Deciding Well With Differing Fitness Variances
+226839	Genetic Algorithms, Efficiency Enhancement, And Deciding Well With Differing Fitness Bias Values
+226840	Scalability of Selectorecombinative Genetic Algorithms for Problems with Tight Linkage
+226841	Designing Competent Mutation Operators Via Probabilistic Model Building of Neighborhoods
+226842	Let's Get Ready to Rumble: Crossover Versus Mutation Head to Head
+226843	Multiobjective genetic algorithms for multiscaling excited state direct dynamics in photochemistry
+226844	Evaluation relaxation using substructural information and linear estimation
+226924	Modified Linkage Learning Genetic Algorithm For Difficult Non-stationary Problems
+226925	Modified Linkage Learning Genetic Algorithm for Difficult Non-Stationary Problems
+227037	Towards Building Block Propagation in XCS: A Negative Result and Its Implications
+227167	Fluctuating crosstalk, deterministic noise, and GA scalability
+227224	Genetic Algorithm Design Inspired by Organizational Theory: Pilot Study of a Dependency Structure Matrix Driven Genetic Algorithm
+227225	Optimal Sampling and Speed-Up for Genetic Algorithms on the Sampled OneMax Problem
+227230	Linkage learning, overlapping building blocks, and systematic strategy for scalable recombination
+227263	Do not match, inherit: fitness surrogates for genetics-based machine learning techniques
+227268	Empirical analysis of ideal recombination on random decomposable problems
+227374	Modeling XCS in class imbalances: population size and parameter settings
+227519	Modeling selection pressure in XCS for proportionate and tournament selection
+227536	Let's get ready to rumble redux: crossover versus mutation head to head on exponentially scaled problems
+227585	Towards billion-bit optimization via a parallel estimation of distribution algorithm
+227657	Substructrual surrogates for learning decomposable classification problems: implementation and first results
+227665	Empirical analysis of generalization and learning in XCS with gradient descent
+227668	Population sizing for entropy-based model building in discrete estimation of distribution algorithms
+227775	Graph-theoretic measure for active iGAs: interaction sizing and parallel evaluation ensemble
+227956	Improving the efficiency of the extended compact genetic algorithm
+227962	Speeding online synthesis via enforced selecto-recombination
+227978	Improving small population performance under noise with viral infection + tropism
+228049	iBOA: the incremental bayesian optimization algorithm
+228099	Using previous models to bias structural learning in the hierarchical BOA
+228125	A new approach for multi-label classification based on default hierarchies and organizational learning
+304881	A Niched Pareto Genetic Algorithm for Multiobjective Optimization
+304936	Polynominal Complexity Blackbox Search: Lessons From the SEARCH Framework
+305090	Elitist Recombination: An Integrated Selection Recombination GA
+307748	Delineating Topic and Discussant Transitions in Online Collaborative Environments
+308199	Facilitation Support for On-Line Focus Group Discussions by Message Feature Map
+308480	Key Elements Extraction in Online Collaborative Environments
+310485	Genetic Algorithms and Rules Learning in Dynamic System Control
+310486	Sizing Populations for Serial and Parallel Genetic Algorithms
+310487	Zen and the Art of Genetic Algorithms
+310488	Don't Worry, Be Messy
+310489	RapidAccurate Optimization of Difficult Problems Using Fast Messy Genetic Algorithms
+310496	Predicting Speedups of Ideal Bounding Cases of Parallel Genetic Algorithms
+310554	An Investigation of Niche and Species Formation in Genetic Function Optimization
+310585	An Analysis of Reproduction and Crossover in a Binary-Coded Genetic Algorithm
+310619	AllelesLociand the Traveling Salesman Problem
+310621	Genetic Algorithms with Sharing for Multimodalfunction Optimization
+310625	Finite Markov Chain Analysis of Genetic Algorithms
+310626	Nonstationary Function Optimization Using Genetic Algorithms with Dominance and Diploidy
+310702	Genetic Algorithms and Computer-Assisted Music Composition
+310863	Takeover Time in a Noisy Environment
+310923	Mixing in Genetic Algorithms
+310967	A Critical Review of Classifier Systems
+388642	Dynamic System Control Using Rule Learning and Genetic Algorithms
+434199	Analysis and Evaluation of Learning Classifier Systems applied to Hyperspectral Image Classification
+463476	What Is a Learning Classifier System?
+463491	Substructural Surrogates for Learning Decomposable Classification Problems
+463505	Linkage Learning, Rule Representation, and the X-Ary Extended Compact Classifier System
+464952	Probability-Enhanced Predictions in the Anticipatory Classifier System
+464974	Accuracy, Parsimony, and Generality in Evolutionary Learning Systems via Multiobjective Selection
+464992	Binary Rule Encoding Schemes: A Study Using the Compact Classifier System
+464996	Improving the Performance of a Pittsburgh Learning Classifier System Using a Default Rule
+464999	Effect of Pure Error-Based Fitness in XCS
+547425	Multiple-Deme Parallel Estimation of Distribution Algorithms: Basic Framework and Application
+549808	Speeding-Up Pittsburgh Learning Classifier Systems: Modeling Time and Accuracy
+549819	Investigating Generalization in the Anticipatory Classifier System
+549821	Knowledge Extraction and Problem Structure Identification in XCS
+549847	Introducing Start Expression Genes to the Linkage Learning Genetic Algorithm
+550015	The Theory of Virtual Alphabets
+550017	Massive Multimodality, Deception, and Genetic Algorithms
+550032	Ordering Genetic Algorithms and Deception
+550056	A Timing Analysis of Convergence to Fitness Sharing Equilibrium
+550058	Long Path Problems
+550067	Large-Scale Permutation Optimization with the Ordering Messy Genetic Algorithm
+550168	Substructural Neighborhoods for Local Search in the Bayesian Optimization Algorithm
+550199	A Genetic Algorithm for Parallel Simulated Annealing
+550264	Genetic Algorithms, Clustering, and the Breaking of Symmetry
+550268	Performance of Evolutionary Algorithms on Random Decomposable Problems
+550354	Pruefer Numbers and Genetic Algorithms: A Lesson on How the Low Locality of an Encoding Can Harm the Performance of GAs
+550395	Convergence Models of Genetic Algorithm Selection Schemes
+550590	Enhancing the Efficiency of the ECGA
+674430	Mining directed social network from message board
+696891	Online population size adjusting using noise and substructural measurements
+696924	Limits of scalability of multiobjective estimation of distribution algorithms
+696928	The compact classifier system: scalability analysis and first results
+697031	XCS with computed prediction in continuous multistep environments
+697097	XCS with computed prediction for the learning of Boolean functions
+697632	Influence of selection and replacement strategies on linkage learning in BOA
+697703	A Simple Real-Coded Extended Compact Genetic Algorithm
+721922	Communication Gaps in Social Networks
+738354	Reinforcement learning with classifier systems: Adaptive default hierarchy formation
+744392	Classifier Systems and Genetic Algorithms
+751603	Sufficient Conditions for Deceptive and Easy Binary Functions
+751643	Construction of High-Order Deceptive Functions Using Low-Order Walsh Coefficients
+772242	Genetic and Evolutionary Algorithms Come of Age
+818764	Efficiency Enhancement of Probabilistic Model Building Genetic Algorithms
+818765	Let's Get Ready to Rumble: Crossover Versus Mutation Head to Head
+818766	Designing Competent Mutation Operators via Probabilistic Model Building of Neighborhoods
+818767	Efficiency Enhancement of Genetic Algorithms via Building-Block-Wise Fitness Estimation
+822174	Population Sizing for Genetic Programming Based Upon Decision Making
+822175	Oiling the Wheels of Change: The Role of Adaptive Automatic Problem Decomposition in Non-Stationary Environments
+822176	Sub-Structural Niching in Non-Stationary Environments
+822177	Sub-structural Niching in Estimation of Distribution Algorithms
+822188	Multiobjective hBOA, Clustering, and Scalability
+822211	Decomposable Problems, Niching, and Scalability of Multiobjective Estimation of Distribution Algorithms
+825988	iBOA: The Incremental Bayesian Optimization Algorithm
+860723	Implicit Niching in a Learning Classifier System: Nature's Way
+860729	Spin-Flip Symmetry and Synchronization
+860770	Analysis and Improvement of Fitness Exploitation in XCS: Bounding Models, Tournament Selection, and Bilateral Accuracy
+860772	On the Scalability of Parallel Genetic Algorithms
+860776	The Gambler's Ruin Problem, Genetic Algorithms, and the Sizing of Populations
+860779	Bounding the effect of noise in Multiobjective Learning Classifier Systems
+860814	Genetic Algorithms, Selection Schemes, and the Varying Effects of Noise
+860834	Linkage Identification by Non-monotonicity Detection for Overlapping Functions
+860857	Linkage Problem, Distribution Estimation, and Bayesian Networks
+860874	Redundant Representations in Evolutionary Computation
+860875	Efficient Genetic Algorithms Using Discretization Scheduling
+860876	Network Random Keys-A Tree Representation Scheme for Genetic and Evolutionary Algorithms
+860896	FOX-GA: A Genetic Algorithm for Generating and Analyzing Battlefield Courses of Action
+860945	Automated Global Structure Extraction for Effective Local Building Block Processing in XCS
+860957	Convergence Time for the Linkage Learning Genetic Algorithm
+860961	Generalization in the XCSF Classifier System: Analysis, Improvement, and Extension
+861023	The Crowding Approach to Niching in Genetic Algorithms
+884949	Strong, Stable, and Reliable Fitness Pressure in XCS due to Tournament Selection
+885080	Problem solution sustenance in XCS: Markov chain analysis of niche support distributions and the impact on computational complexity
+885090	Sporadic model building for efficiency enhancement of the hierarchical BOA
+903948	Scalability of the Bayesian optimization algorithm
+941057	The parameter-less genetic algorithm in practice
+941480	Getting the best of both worlds: Discrete and continuous genetic and evolutionary algorithms in concert
+941984	Search space boundary extension method in real-coded genetic algorithms
+1009462	Probability Matching, the Magnitude of Reinforcement, and Classifier System Bidding
+1009466	Genetic Algorithms and Machine Learning
+1035085	Parallel Recombinative Simulated Annealing: A Genetic Algorithm
+1069982	Communication Gap Management for Fertile Community
+1098153	Gradient descent methods in learning classifier systems: improving XCS performance in multistep problems
+1098196	The compact genetic algorithm
+1098310	Genetic Programming 1998: Proceedings of the Third Annual Conference
+1171808	A hierarchy machine: Learning to optimize from nature and humans
+1171994	Toward routine billion-variable optimization using genetic algorithms
+1201123	Hierarchical Bayesian Optimization Algorithm
+1201125	Effective and Reliable Online Classification Combining XCS with EDA Mechanisms
+1201128	Efficiency Enhancement of Estimation of Distribution Algorithms
+1201130	Military Antenna Design Using a Simple Genetic Algorithm and hBOA
+1201131	Multiobjective Estimation of Distribution Algorithms
+1201349	Population Sizing to Go: Online Adaptation Using Noise and Substructural Measurements
+1202190	Real-Coded ECGA for Solving Decomposable Real-Valued Optimization Problems
+1202224	Real-Coded Extended Compact Genetic Algorithm Based on Mixtures of Models
+1202285	Linkage Learning Accuracy in the Bayesian Optimization Algorithm
+1203564	Genetic Algorithms in Search Optimization and Machine Learning
+1207690	Performance of evolutionary algorithms on NK landscapes with nearest neighbor interactions and tunable overlap
+1207721	On the scalability of XCS(F)
+1207801	A new method for linkage learning in the ECGA
+1207867	Effects of a deterministic hill climber on hBOA
+1207918	Binary representation in gene expression programming: towards a better scalability
+1207935	The multi-label OCS with a genetic algorithm for rule discovery: implementation and first results
+1234869	Genetic Algorithms in Search Optimization and Machine Learning
+1259161	Loopy Substructural Local Search for the Bayesian Optimization Algorithm
+1321018	Binary Representation in Gene Expression Programming: Towards a Better Scalability.
+1321104	Scaling Genetic Algorithms Using MapReduce.
+1353665	Toward routine billion-variable optimization using genetic algorithms: Short Communication
+1444143	Genetic algorithms with sharing for multimodal function optimization
+1469469	Nonstationary function optimization using genetic algorithm with dominance and diploidy
+1474564	Two analysis tools to describe the operation of classifier systems
+1488959	Solving permutation problems with the ordering messy genetic algorithm
+1575131	Teching PL/I using a microcomputer
+1578543	Performance Analyses of Factorization Based on Gaussian PDF In rECGA
+1586656	Evolutionary Algorithm for Large Scale Problems
+1588526	What Is a Learning Classifier System?
+1588786	AllelesLociand the Traveling Salesman Problem

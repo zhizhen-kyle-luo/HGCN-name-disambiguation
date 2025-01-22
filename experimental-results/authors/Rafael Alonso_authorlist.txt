@@ -1,0 +1,68 @@
+0	1	Hua Li	Hua Li
+0	2	Hua Li	Hua Li
+0	12	Hua Li	Hua Li
+0	36	Hua Li	Hua Li
+1	2	Hua Li	Hua Li
+1	12	Jeffrey A. Bloom	Jeffrey A. Bloom
+1	12	Hua Li	Hua Li
+1	36	Hua Li	Hua Li
+2	12	Hua Li	Hua Li
+2	36	Hua Li	Hua Li
+3	5	Hector Garcia-Molina	Hector Garcia-Molina
+3	8	Daniel Barbara	Daniel Barbara
+3	9	Daniel Barbara	Daniel Barbara
+3	19	Daniel Barbara	Daniel Barbara
+3	20	Daniel Barbara	Daniel Barbara
+3	25	Daniel Barbara	Daniel Barbara
+3	25	Hector Garcia-Molina	Hector Garcia-Molina
+3	26	Hector Garcia-Molina	Hector Garcia-Molina
+3	35	Daniel Barbara	Daniel Barbara
+3	35	Hector Garcia-Molina	Hector Garcia-Molina
+5	25	Hector Garcia-Molina	Hector Garcia-Molina
+5	26	Kenneth Salem	Kenneth Salem
+5	26	Hector Garcia-Molina	Hector Garcia-Molina
+5	35	Hector Garcia-Molina	Hector Garcia-Molina
+6	18	Luis L. Cova	Luis L. Cova
+6	19	Luis L. Cova	Luis L. Cova
+6	20	Luis L. Cova	Luis L. Cova
+6	23	Luis L. Cova	Luis L. Cova
+7	22	Matt Blaze	Matt Blaze
+8	9	Daniel Barbara	Daniel Barbara
+8	19	Daniel Barbara	Daniel Barbara
+8	20	Daniel Barbara	Daniel Barbara
+8	25	Daniel Barbara	Daniel Barbara
+8	35	Daniel Barbara	Daniel Barbara
+9	19	Daniel Barbara	Daniel Barbara
+9	20	Daniel Barbara	Daniel Barbara
+9	25	Daniel Barbara	Daniel Barbara
+9	35	Daniel Barbara	Daniel Barbara
+10	17	Swarup Acharya	Swarup Acharya
+10	37	Swarup Acharya	Swarup Acharya
+10	39	Swarup Acharya	Swarup Acharya
+11	34	Yuh-Lin Chang	Yuh-Lin Chang
+12	36	Hua Li	Hua Li
+13	16	Henry F. Korth	Henry F. Korth
+17	37	Swarup Acharya	Swarup Acharya
+17	37	Michael J. Franklin	Michael Franklin
+17	37	Stanley B. Zdonik	Stanley Zdonik
+17	39	Swarup Acharya	Swarup Acharya
+17	39	Michael J. Franklin	Michael Franklin
+17	39	Stanley B. Zdonik	Stanley Zdonik
+18	19	Luis L. Cova	Luis L. Cova
+18	20	Luis L. Cova	Luis L. Cova
+18	23	Luis L. Cova	Luis L. Cova
+19	20	Luis L. Cova	Luis L. Cova
+19	20	Daniel Barbara	Daniel Barbara
+19	23	Luis L. Cova	Luis L. Cova
+19	25	Daniel Barbara	Daniel Barbara
+19	35	Daniel Barbara	Daniel Barbara
+20	23	Luis L. Cova	Luis L. Cova
+20	25	Daniel Barbara	Daniel Barbara
+20	35	Daniel Barbara	Daniel Barbara
+25	26	Hector Garcia-Molina	Hector Garcia-Molina
+25	35	Daniel Barbara	Daniel Barbara
+25	35	Hector Garcia-Molina	Hector Garcia-Molina
+26	35	Hector Garcia-Molina	Hector Garcia-Molina
+37	39	Swarup Acharya	Swarup Acharya
+37	39	Michael Franklin	Michael Franklin
+37	39	Stanley Zdonik	Stanley Zdonik

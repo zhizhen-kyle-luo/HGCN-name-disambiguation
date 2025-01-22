@@ -1,0 +1,136 @@
+0	8	University of Wisconsin-Madison, USA	University of Wisconsin, Madison, WI
+0	78	University of Wisconsin-Madison, USA	University of Wisconsin-Madison
+0	133	University of Wisconsin-Madison, USA	University of Wisconsin - Madison, Madison
+5	9	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA, USA	Molecular Basis of Disease Program, Georgia State Univ., Atlanta, GA
+8	78	University of Wisconsin, Madison, WI	University of Wisconsin-Madison
+8	133	University of Wisconsin, Madison, WI	University of Wisconsin - Madison, Madison
+17	92	Guangdong University of Technology, China	Guangdong University of Technology, China
+17	168	Guangdong University of Technology, China	Guangdong University of Technology
+19	82	South China University of Technology, China	Sch. of Comput. Sci. & Eng., South China Univ. of Technol., Guangzhou
+19	102	South China University of Technology, China	School of Computer Science and Engineering, South China University of Technology, Guangzhou 510640, China
+23	137	Hefei University of Technology	Department of Computer Science and Technology, Hefei University of Technology, Hefei, Anhui province, China 230009
+23	145	Hefei University of Technology	Department of Computer Science and Technology, Hefei University of Technology, Hefei 23009, China
+28	61	Sch. of Eng. & Electron., Univ. of Edinburgh, Edinburgh	Joint Res. Inst. for Signal & Image Process., Univ. of Edinburgh, Edinburgh
+34	38	Visual Commun. Lab., Nokia Res. Center, Beijing	Visual Commun. Lab., Nokia Res. Center, Beijing
+34	40	Visual Commun. Lab., Nokia Res. Center, Beijing	Nokia Res. Center, Beijing
+35	43	Yale University, New Haven, CT	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA
+35	44	Yale University, New Haven, CT	Dept. of Comput. Sci., Yale Univ., New Haven, CT
+35	53	Yale University, New Haven, CT	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA
+35	74	Yale University, New Haven, CT	Yale University
+35	75	Yale University, New Haven, CT	Yale University, New Haven, CT
+35	131	Yale University, New Haven, CT	Yale Univ., New Haven, CT, USA
+35	138	Yale University, New Haven, CT	Yale University
+35	173	Yale University, New Haven, CT	Yale University, New Haven, CT
+35	175	Yale University, New Haven, CT	Yale University, New Haven, CT
+36	47	IBM China Res. Lab., Beijing	IBM China Research Laboratory, Beijing, 100094, China
+36	51	IBM China Res. Lab., Beijing	IBM China Res. Lab., Beijing
+36	62	IBM China Res. Lab., Beijing	Nokia Research Center, Beijing, China
+36	94	IBM China Res. Lab., Beijing	IBM China Res. Lab., Beijing
+36	107	IBM China Res. Lab., Beijing	Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China
+36	165	IBM China Res. Lab., Beijing	IBM China Research Lab, Beijing, China
+36	169	IBM China Res. Lab., Beijing	IBM China Research Lab, Beijing, China
+38	40	Visual Commun. Lab., Nokia Res. Center, Beijing	Nokia Res. Center, Beijing
+39	55	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci., Tsinghua Univ., Beijing
+39	63	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	singhua University, Beijing, China
+39	85	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+39	162	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+43	44	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Dept. of Comput. Sci., Yale Univ., New Haven, CT
+43	53	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA
+43	74	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University
+43	75	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+43	131	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale Univ., New Haven, CT, USA
+43	138	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University
+43	173	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+43	175	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+44	53	Dept. of Comput. Sci., Yale Univ., New Haven, CT	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA
+44	74	Dept. of Comput. Sci., Yale Univ., New Haven, CT	Yale University
+44	75	Dept. of Comput. Sci., Yale Univ., New Haven, CT	Yale University, New Haven, CT
+44	131	Dept. of Comput. Sci., Yale Univ., New Haven, CT	Yale Univ., New Haven, CT, USA
+44	138	Dept. of Comput. Sci., Yale Univ., New Haven, CT	Yale University
+44	173	Dept. of Comput. Sci., Yale Univ., New Haven, CT	Yale University, New Haven, CT
+44	175	Dept. of Comput. Sci., Yale Univ., New Haven, CT	Yale University, New Haven, CT
+45	93	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China 200240
+45	95	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China	Shanghai JiaoTong Univ., Shanghai
+45	105	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China	Auto-Body Manufacturing Technology Center, School of Mechanical and Power Energy Engineering, Shanghai Jiao Tong University, Shanghai, 200030, P.R. China.
+45	114	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China	Shanghai Jiaotong University, China
+45	153	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China
+46	47	IBM China Research Lab., Beijing, China 100193	IBM China Research Laboratory, Beijing, 100094, China
+46	62	IBM China Research Lab., Beijing, China 100193	Nokia Research Center, Beijing, China
+46	107	IBM China Research Lab., Beijing, China 100193	Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China
+46	165	IBM China Research Lab., Beijing, China 100193	IBM China Research Lab, Beijing, China
+46	169	IBM China Research Lab., Beijing, China 100193	IBM China Research Lab, Beijing, China
+47	51	IBM China Research Laboratory, Beijing, 100094, China	IBM China Res. Lab., Beijing
+47	62	IBM China Research Laboratory, Beijing, 100094, China	Nokia Research Center, Beijing, China
+47	94	IBM China Research Laboratory, Beijing, 100094, China	IBM China Res. Lab., Beijing
+47	107	IBM China Research Laboratory, Beijing, 100094, China	Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China
+47	165	IBM China Research Laboratory, Beijing, 100094, China	IBM China Research Lab, Beijing, China
+47	169	IBM China Research Laboratory, Beijing, 100094, China	IBM China Research Lab, Beijing, China
+51	62	IBM China Res. Lab., Beijing	Nokia Research Center, Beijing, China
+51	94	IBM China Res. Lab., Beijing	IBM China Res. Lab., Beijing
+51	107	IBM China Res. Lab., Beijing	Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China
+51	165	IBM China Res. Lab., Beijing	IBM China Research Lab, Beijing, China
+51	169	IBM China Res. Lab., Beijing	IBM China Research Lab, Beijing, China
+52	58	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore	Sch. of Comput., Nat. Univ. of Singapore
+52	69	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore	Sch. of Comput., Nat. Univ. of Singapore
+53	74	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University
+53	75	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+53	131	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale Univ., New Haven, CT, USA
+53	138	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University
+53	173	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+53	175	Dept. of Comput. Sci., Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+55	63	Dept. of Comput. Sci., Tsinghua Univ., Beijing	singhua University, Beijing, China
+55	85	Dept. of Comput. Sci., Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+55	162	Dept. of Comput. Sci., Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+58	69	Sch. of Comput., Nat. Univ. of Singapore	Sch. of Comput., Nat. Univ. of Singapore
+59	103	Kennesaw State Univ., Kennesaw	Computer Science and Information Systems Department, Kennesaw State University, 1000 Chastain Rd., Kennesaw, GA 30144-5591, USA
+62	91	Nokia Research Center, Beijing, China	Nokia Research Center, China
+62	94	Nokia Research Center, Beijing, China	IBM China Res. Lab., Beijing
+62	142	Nokia Research Center, Beijing, China	Nokia Research Center Beijing, Mobile Social Networking, P.R. China 100176
+62	165	Nokia Research Center, Beijing, China	IBM China Research Lab, Beijing, China
+62	169	Nokia Research Center, Beijing, China	IBM China Research Lab, Beijing, China
+63	85	singhua University, Beijing, China	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+63	162	singhua University, Beijing, China	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+74	75	Yale University	Yale University, New Haven, CT
+74	131	Yale University	Yale Univ., New Haven, CT, USA
+74	138	Yale University	Yale University
+74	173	Yale University	Yale University, New Haven, CT
+74	175	Yale University	Yale University, New Haven, CT
+75	131	Yale University, New Haven, CT	Yale Univ., New Haven, CT, USA
+75	138	Yale University, New Haven, CT	Yale University
+75	173	Yale University, New Haven, CT	Yale University, New Haven, CT
+75	175	Yale University, New Haven, CT	Yale University, New Haven, CT
+76	146	Univ. of Utah, Salt Lake City, UT	University of Utah, Salt Lake City
+77	99	Comput. Sci. & Technol. Inst., Harbin Eng. Univ., Harbin	Comput. Sci. & Technol. Inst., Harbin Eng. Univ., Harbin
+78	133	University of Wisconsin-Madison	University of Wisconsin - Madison, Madison
+82	102	Sch. of Comput. Sci. & Eng., South China Univ. of Technol., Guangzhou	School of Computer Science and Engineering, South China University of Technology, Guangzhou 510640, China
+85	162	Dept. of Electron. Eng., Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+91	142	Nokia Research Center, China	Nokia Research Center Beijing, Mobile Social Networking, P.R. China 100176
+92	168	Guangdong University of Technology, China	Guangdong University of Technology
+93	95	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China 200240	Shanghai JiaoTong Univ., Shanghai
+93	114	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China 200240	Shanghai Jiaotong University, China
+93	153	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China 200240	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China
+94	107	IBM China Res. Lab., Beijing	Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China
+94	165	IBM China Res. Lab., Beijing	IBM China Research Lab, Beijing, China
+94	169	IBM China Res. Lab., Beijing	IBM China Research Lab, Beijing, China
+95	105	Shanghai JiaoTong Univ., Shanghai	Auto-Body Manufacturing Technology Center, School of Mechanical and Power Energy Engineering, Shanghai Jiao Tong University, Shanghai, 200030, P.R. China.
+95	114	Shanghai JiaoTong Univ., Shanghai	Shanghai Jiaotong University, China
+95	153	Shanghai JiaoTong Univ., Shanghai	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China
+105	114	Auto-Body Manufacturing Technology Center, School of Mechanical and Power Energy Engineering, Shanghai Jiao Tong University, Shanghai, 200030, P.R. China.	Shanghai Jiaotong University, China
+105	153	Auto-Body Manufacturing Technology Center, School of Mechanical and Power Energy Engineering, Shanghai Jiao Tong University, Shanghai, 200030, P.R. China.	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China
+107	165	Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China	IBM China Research Lab, Beijing, China
+107	169	Nokia System Research Center, Nokia Building 2, No. 5 Donghuan Zhonglu, Beijing Economic & Technological Development Area, Beijing 100176, China	IBM China Research Lab, Beijing, China
+114	153	Shanghai Jiaotong University, China	Dept. of Comput. Sci. & Eng., Shanghai Jiao Tong Univ., Shanghai, China
+131	138	Yale Univ., New Haven, CT, USA	Yale University
+131	173	Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+131	175	Yale Univ., New Haven, CT, USA	Yale University, New Haven, CT
+135	166	Southern Polytechnic State University, Marietta, GA	Southern Polytechnic State University, Marietta, GA
+137	145	Department of Computer Science and Technology, Hefei University of Technology, Hefei, Anhui province, China 230009	Department of Computer Science and Technology, Hefei University of Technology, Hefei 23009, China
+138	173	Yale University	Yale University, New Haven, CT
+138	175	Yale University	Yale University, New Haven, CT
+142	165	Nokia Research Center Beijing, Mobile Social Networking, P.R. China 100176	IBM China Research Lab, Beijing, China
+142	169	Nokia Research Center Beijing, Mobile Social Networking, P.R. China 100176	IBM China Research Lab, Beijing, China
+147	157	Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China	Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China
+147	170	Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China	Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China
+157	170	Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China	Coll. of Inf. Sci. & Eng., Xinjiang Univ., Urumqi, China
+165	169	IBM China Research Lab, Beijing, China	IBM China Research Lab, Beijing, China
+173	175	Yale University, New Haven, CT	Yale University, New Haven, CT

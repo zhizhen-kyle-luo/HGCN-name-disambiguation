@@ -1,0 +1,1378 @@
+0	1	null	null
+0	2	null	null
+0	3	null	Rockwell Collins, Cedar Rapids, IA
+0	4	null	null
+0	5	null	University of Massachusetts, Amherst, MA
+0	6	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+0	7	null	null
+0	8	null	University of Massachusetts Amherst
+0	9	null	University of Massachusetts at Amherst
+0	10	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+0	11	null	Univ. of Massachusetts, Amherst
+0	12	null	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	null
+0	23	null	University of Massachusetts - Amherst, Amherst, MA
+0	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+0	25	null	University of Massachusetts, Amherst, MA
+0	26	null	null
+0	27	null	University of Massachusetts, Amherst, MA
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	University of Massachusetts Amherst
+0	32	null	University of Massachusetts Amherst, Amherst, MA
+0	33	null	University of Massachusetts Amherst
+0	34	null	null
+0	35	null	null
+0	36	null	University of Massachusetts Amherst, Amherst, MA
+0	37	null	null
+0	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+0	39	null	null
+0	40	null	null
+0	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+0	42	null	null
+0	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+0	44	null	null
+0	45	null	University of Massachusetts Amherst, Amherst, MA
+0	46	null	University of Massachusetts, Amherst, MA
+0	47	null	University of Massachusetts Amherst
+0	48	null	null
+0	49	null	null
+0	50	null	University of Massachusetts Amherst, Amherst, MA
+0	51	null	null
+0	52	null	University of Massachusetts Amherst
+1	2	null	null
+1	3	null	Rockwell Collins, Cedar Rapids, IA
+1	4	null	null
+1	5	null	University of Massachusetts, Amherst, MA
+1	6	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+1	7	null	null
+1	8	null	University of Massachusetts Amherst
+1	9	null	University of Massachusetts at Amherst
+1	10	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+1	11	null	Univ. of Massachusetts, Amherst
+1	12	null	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	University of Massachusetts - Amherst, Amherst, MA
+1	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+1	25	null	University of Massachusetts, Amherst, MA
+1	26	null	null
+1	27	null	University of Massachusetts, Amherst, MA
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	University of Massachusetts Amherst
+1	32	null	University of Massachusetts Amherst, Amherst, MA
+1	33	null	University of Massachusetts Amherst
+1	34	null	null
+1	35	null	null
+1	36	null	University of Massachusetts Amherst, Amherst, MA
+1	37	null	null
+1	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+1	39	null	null
+1	40	null	null
+1	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+1	42	null	null
+1	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+1	44	null	null
+1	45	null	University of Massachusetts Amherst, Amherst, MA
+1	46	null	University of Massachusetts, Amherst, MA
+1	47	null	University of Massachusetts Amherst
+1	48	null	null
+1	49	null	null
+1	50	null	University of Massachusetts Amherst, Amherst, MA
+1	51	null	null
+1	52	null	University of Massachusetts Amherst
+2	3	null	Rockwell Collins, Cedar Rapids, IA
+2	4	null	null
+2	5	null	University of Massachusetts, Amherst, MA
+2	6	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+2	7	null	null
+2	8	null	University of Massachusetts Amherst
+2	9	null	University of Massachusetts at Amherst
+2	10	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+2	11	null	Univ. of Massachusetts, Amherst
+2	12	null	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	University of Massachusetts - Amherst, Amherst, MA
+2	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+2	25	null	University of Massachusetts, Amherst, MA
+2	26	null	null
+2	27	null	University of Massachusetts, Amherst, MA
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	University of Massachusetts Amherst
+2	32	null	University of Massachusetts Amherst, Amherst, MA
+2	33	null	University of Massachusetts Amherst
+2	34	null	null
+2	35	null	null
+2	36	null	University of Massachusetts Amherst, Amherst, MA
+2	37	null	null
+2	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+2	39	null	null
+2	40	null	null
+2	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+2	42	null	null
+2	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+2	44	null	null
+2	45	null	University of Massachusetts Amherst, Amherst, MA
+2	46	null	University of Massachusetts, Amherst, MA
+2	47	null	University of Massachusetts Amherst
+2	48	null	null
+2	49	null	null
+2	50	null	University of Massachusetts Amherst, Amherst, MA
+2	51	null	null
+2	52	null	University of Massachusetts Amherst
+3	4	Rockwell Collins, Cedar Rapids, IA	null
+3	5	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts, Amherst, MA
+3	6	Rockwell Collins, Cedar Rapids, IA	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+3	7	Rockwell Collins, Cedar Rapids, IA	null
+3	8	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst
+3	9	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts at Amherst
+3	10	Rockwell Collins, Cedar Rapids, IA	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+3	11	Rockwell Collins, Cedar Rapids, IA	Univ. of Massachusetts, Amherst
+3	12	Rockwell Collins, Cedar Rapids, IA	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+3	13	Rockwell Collins, Cedar Rapids, IA	null
+3	14	Rockwell Collins, Cedar Rapids, IA	null
+3	15	Rockwell Collins, Cedar Rapids, IA	null
+3	16	Rockwell Collins, Cedar Rapids, IA	null
+3	17	Rockwell Collins, Cedar Rapids, IA	null
+3	18	Rockwell Collins, Cedar Rapids, IA	null
+3	19	Rockwell Collins, Cedar Rapids, IA	null
+3	20	Rockwell Collins, Cedar Rapids, IA	null
+3	21	Rockwell Collins, Cedar Rapids, IA	null
+3	22	Rockwell Collins, Cedar Rapids, IA	null
+3	23	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts - Amherst, Amherst, MA
+3	24	Rockwell Collins, Cedar Rapids, IA	Univ. of Massachusetts - Amherst, Amherst, MA
+3	25	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts, Amherst, MA
+3	26	Rockwell Collins, Cedar Rapids, IA	null
+3	27	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts, Amherst, MA
+3	28	Rockwell Collins, Cedar Rapids, IA	null
+3	29	Rockwell Collins, Cedar Rapids, IA	null
+3	30	Rockwell Collins, Cedar Rapids, IA	null
+3	31	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst
+3	32	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst, Amherst, MA
+3	33	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst
+3	34	Rockwell Collins, Cedar Rapids, IA	null
+3	35	Rockwell Collins, Cedar Rapids, IA	null
+3	36	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst, Amherst, MA
+3	37	Rockwell Collins, Cedar Rapids, IA	null
+3	38	Rockwell Collins, Cedar Rapids, IA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+3	39	Rockwell Collins, Cedar Rapids, IA	null
+3	40	Rockwell Collins, Cedar Rapids, IA	null
+3	41	Rockwell Collins, Cedar Rapids, IA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+3	42	Rockwell Collins, Cedar Rapids, IA	null
+3	43	Rockwell Collins, Cedar Rapids, IA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+3	44	Rockwell Collins, Cedar Rapids, IA	null
+3	45	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst, Amherst, MA
+3	46	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts, Amherst, MA
+3	47	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst
+3	48	Rockwell Collins, Cedar Rapids, IA	null
+3	49	Rockwell Collins, Cedar Rapids, IA	null
+3	50	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst, Amherst, MA
+3	51	Rockwell Collins, Cedar Rapids, IA	null
+3	52	Rockwell Collins, Cedar Rapids, IA	University of Massachusetts Amherst
+4	5	null	University of Massachusetts, Amherst, MA
+4	6	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+4	7	null	null
+4	8	null	University of Massachusetts Amherst
+4	9	null	University of Massachusetts at Amherst
+4	10	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+4	11	null	Univ. of Massachusetts, Amherst
+4	12	null	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	University of Massachusetts - Amherst, Amherst, MA
+4	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+4	25	null	University of Massachusetts, Amherst, MA
+4	26	null	null
+4	27	null	University of Massachusetts, Amherst, MA
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	University of Massachusetts Amherst
+4	32	null	University of Massachusetts Amherst, Amherst, MA
+4	33	null	University of Massachusetts Amherst
+4	34	null	null
+4	35	null	null
+4	36	null	University of Massachusetts Amherst, Amherst, MA
+4	37	null	null
+4	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+4	39	null	null
+4	40	null	null
+4	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+4	42	null	null
+4	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+4	44	null	null
+4	45	null	University of Massachusetts Amherst, Amherst, MA
+4	46	null	University of Massachusetts, Amherst, MA
+4	47	null	University of Massachusetts Amherst
+4	48	null	null
+4	49	null	null
+4	50	null	University of Massachusetts Amherst, Amherst, MA
+4	51	null	null
+4	52	null	University of Massachusetts Amherst
+5	6	University of Massachusetts, Amherst, MA	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+5	7	University of Massachusetts, Amherst, MA	null
+5	8	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	9	University of Massachusetts, Amherst, MA	University of Massachusetts at Amherst
+5	10	University of Massachusetts, Amherst, MA	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+5	11	University of Massachusetts, Amherst, MA	Univ. of Massachusetts, Amherst
+5	12	University of Massachusetts, Amherst, MA	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+5	13	University of Massachusetts, Amherst, MA	null
+5	14	University of Massachusetts, Amherst, MA	null
+5	15	University of Massachusetts, Amherst, MA	null
+5	16	University of Massachusetts, Amherst, MA	null
+5	17	University of Massachusetts, Amherst, MA	null
+5	18	University of Massachusetts, Amherst, MA	null
+5	19	University of Massachusetts, Amherst, MA	null
+5	20	University of Massachusetts, Amherst, MA	null
+5	21	University of Massachusetts, Amherst, MA	null
+5	22	University of Massachusetts, Amherst, MA	null
+5	23	University of Massachusetts, Amherst, MA	University of Massachusetts - Amherst, Amherst, MA
+5	24	University of Massachusetts, Amherst, MA	Univ. of Massachusetts - Amherst, Amherst, MA
+5	25	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+5	26	University of Massachusetts, Amherst, MA	null
+5	27	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+5	28	University of Massachusetts, Amherst, MA	null
+5	29	University of Massachusetts, Amherst, MA	null
+5	30	University of Massachusetts, Amherst, MA	null
+5	31	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	32	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	33	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	34	University of Massachusetts, Amherst, MA	null
+5	35	University of Massachusetts, Amherst, MA	null
+5	36	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	37	University of Massachusetts, Amherst, MA	null
+5	38	University of Massachusetts, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+5	39	University of Massachusetts, Amherst, MA	null
+5	40	University of Massachusetts, Amherst, MA	null
+5	41	University of Massachusetts, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+5	42	University of Massachusetts, Amherst, MA	null
+5	43	University of Massachusetts, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+5	44	University of Massachusetts, Amherst, MA	null
+5	45	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	46	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+5	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	48	University of Massachusetts, Amherst, MA	null
+5	49	University of Massachusetts, Amherst, MA	null
+5	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	51	University of Massachusetts, Amherst, MA	null
+5	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+6	7	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	8	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+6	9	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts at Amherst
+6	10	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+6	11	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Univ. of Massachusetts, Amherst
+6	12	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+6	13	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	14	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	15	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	16	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	17	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	18	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	19	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	20	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	21	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	22	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	23	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts - Amherst, Amherst, MA
+6	24	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Univ. of Massachusetts - Amherst, Amherst, MA
+6	25	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts, Amherst, MA
+6	26	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	27	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts, Amherst, MA
+6	28	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	29	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	30	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	31	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+6	32	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+6	33	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+6	34	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	35	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	36	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+6	37	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	38	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+6	39	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	40	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	41	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+6	42	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	43	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+6	44	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	45	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+6	46	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts, Amherst, MA
+6	47	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+6	48	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	49	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	50	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+6	51	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+6	52	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+7	8	null	University of Massachusetts Amherst
+7	9	null	University of Massachusetts at Amherst
+7	10	null	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+7	11	null	Univ. of Massachusetts, Amherst
+7	12	null	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	University of Massachusetts - Amherst, Amherst, MA
+7	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+7	25	null	University of Massachusetts, Amherst, MA
+7	26	null	null
+7	27	null	University of Massachusetts, Amherst, MA
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	University of Massachusetts Amherst
+7	32	null	University of Massachusetts Amherst, Amherst, MA
+7	33	null	University of Massachusetts Amherst
+7	34	null	null
+7	35	null	null
+7	36	null	University of Massachusetts Amherst, Amherst, MA
+7	37	null	null
+7	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+7	39	null	null
+7	40	null	null
+7	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+7	42	null	null
+7	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+7	44	null	null
+7	45	null	University of Massachusetts Amherst, Amherst, MA
+7	46	null	University of Massachusetts, Amherst, MA
+7	47	null	University of Massachusetts Amherst
+7	48	null	null
+7	49	null	null
+7	50	null	University of Massachusetts Amherst, Amherst, MA
+7	51	null	null
+7	52	null	University of Massachusetts Amherst
+8	9	University of Massachusetts Amherst	University of Massachusetts at Amherst
+8	10	University of Massachusetts Amherst	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+8	11	University of Massachusetts Amherst	Univ. of Massachusetts, Amherst
+8	12	University of Massachusetts Amherst	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+8	13	University of Massachusetts Amherst	null
+8	14	University of Massachusetts Amherst	null
+8	15	University of Massachusetts Amherst	null
+8	16	University of Massachusetts Amherst	null
+8	17	University of Massachusetts Amherst	null
+8	18	University of Massachusetts Amherst	null
+8	19	University of Massachusetts Amherst	null
+8	20	University of Massachusetts Amherst	null
+8	21	University of Massachusetts Amherst	null
+8	22	University of Massachusetts Amherst	null
+8	23	University of Massachusetts Amherst	University of Massachusetts - Amherst, Amherst, MA
+8	24	University of Massachusetts Amherst	Univ. of Massachusetts - Amherst, Amherst, MA
+8	25	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+8	26	University of Massachusetts Amherst	null
+8	27	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+8	28	University of Massachusetts Amherst	null
+8	29	University of Massachusetts Amherst	null
+8	30	University of Massachusetts Amherst	null
+8	31	University of Massachusetts Amherst	University of Massachusetts Amherst
+8	32	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	33	University of Massachusetts Amherst	University of Massachusetts Amherst
+8	34	University of Massachusetts Amherst	null
+8	35	University of Massachusetts Amherst	null
+8	36	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	37	University of Massachusetts Amherst	null
+8	38	University of Massachusetts Amherst	IBM T. J. Watson Research Center, Yorktown Heights, NY
+8	39	University of Massachusetts Amherst	null
+8	40	University of Massachusetts Amherst	null
+8	41	University of Massachusetts Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+8	42	University of Massachusetts Amherst	null
+8	43	University of Massachusetts Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+8	44	University of Massachusetts Amherst	null
+8	45	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	46	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+8	47	University of Massachusetts Amherst	University of Massachusetts Amherst
+8	48	University of Massachusetts Amherst	null
+8	49	University of Massachusetts Amherst	null
+8	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	51	University of Massachusetts Amherst	null
+8	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+9	10	University of Massachusetts at Amherst	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+9	11	University of Massachusetts at Amherst	Univ. of Massachusetts, Amherst
+9	12	University of Massachusetts at Amherst	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+9	13	University of Massachusetts at Amherst	null
+9	14	University of Massachusetts at Amherst	null
+9	15	University of Massachusetts at Amherst	null
+9	16	University of Massachusetts at Amherst	null
+9	17	University of Massachusetts at Amherst	null
+9	18	University of Massachusetts at Amherst	null
+9	19	University of Massachusetts at Amherst	null
+9	20	University of Massachusetts at Amherst	null
+9	21	University of Massachusetts at Amherst	null
+9	22	University of Massachusetts at Amherst	null
+9	23	University of Massachusetts at Amherst	University of Massachusetts - Amherst, Amherst, MA
+9	24	University of Massachusetts at Amherst	Univ. of Massachusetts - Amherst, Amherst, MA
+9	25	University of Massachusetts at Amherst	University of Massachusetts, Amherst, MA
+9	26	University of Massachusetts at Amherst	null
+9	27	University of Massachusetts at Amherst	University of Massachusetts, Amherst, MA
+9	28	University of Massachusetts at Amherst	null
+9	29	University of Massachusetts at Amherst	null
+9	30	University of Massachusetts at Amherst	null
+9	31	University of Massachusetts at Amherst	University of Massachusetts Amherst
+9	32	University of Massachusetts at Amherst	University of Massachusetts Amherst, Amherst, MA
+9	33	University of Massachusetts at Amherst	University of Massachusetts Amherst
+9	34	University of Massachusetts at Amherst	null
+9	35	University of Massachusetts at Amherst	null
+9	36	University of Massachusetts at Amherst	University of Massachusetts Amherst, Amherst, MA
+9	37	University of Massachusetts at Amherst	null
+9	38	University of Massachusetts at Amherst	IBM T. J. Watson Research Center, Yorktown Heights, NY
+9	39	University of Massachusetts at Amherst	null
+9	40	University of Massachusetts at Amherst	null
+9	41	University of Massachusetts at Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+9	42	University of Massachusetts at Amherst	null
+9	43	University of Massachusetts at Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+9	44	University of Massachusetts at Amherst	null
+9	45	University of Massachusetts at Amherst	University of Massachusetts Amherst, Amherst, MA
+9	46	University of Massachusetts at Amherst	University of Massachusetts, Amherst, MA
+9	47	University of Massachusetts at Amherst	University of Massachusetts Amherst
+9	48	University of Massachusetts at Amherst	null
+9	49	University of Massachusetts at Amherst	null
+9	50	University of Massachusetts at Amherst	University of Massachusetts Amherst, Amherst, MA
+9	51	University of Massachusetts at Amherst	null
+9	52	University of Massachusetts at Amherst	University of Massachusetts Amherst
+10	11	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Univ. of Massachusetts, Amherst
+10	12	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+10	13	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	14	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	15	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	16	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	17	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	18	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	19	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	20	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	21	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	22	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	23	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts - Amherst, Amherst, MA
+10	24	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Univ. of Massachusetts - Amherst, Amherst, MA
+10	25	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts, Amherst, MA
+10	26	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	27	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts, Amherst, MA
+10	28	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	29	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	30	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	31	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+10	32	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+10	33	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+10	34	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	35	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	36	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+10	37	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	38	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+10	39	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	40	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	41	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+10	42	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	43	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+10	44	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	45	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+10	46	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts, Amherst, MA
+10	47	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+10	48	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	49	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	50	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst, Amherst, MA
+10	51	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	null
+10	52	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	University of Massachusetts Amherst
+11	12	Univ. of Massachusetts, Amherst	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+11	13	Univ. of Massachusetts, Amherst	null
+11	14	Univ. of Massachusetts, Amherst	null
+11	15	Univ. of Massachusetts, Amherst	null
+11	16	Univ. of Massachusetts, Amherst	null
+11	17	Univ. of Massachusetts, Amherst	null
+11	18	Univ. of Massachusetts, Amherst	null
+11	19	Univ. of Massachusetts, Amherst	null
+11	20	Univ. of Massachusetts, Amherst	null
+11	21	Univ. of Massachusetts, Amherst	null
+11	22	Univ. of Massachusetts, Amherst	null
+11	23	Univ. of Massachusetts, Amherst	University of Massachusetts - Amherst, Amherst, MA
+11	24	Univ. of Massachusetts, Amherst	Univ. of Massachusetts - Amherst, Amherst, MA
+11	25	Univ. of Massachusetts, Amherst	University of Massachusetts, Amherst, MA
+11	26	Univ. of Massachusetts, Amherst	null
+11	27	Univ. of Massachusetts, Amherst	University of Massachusetts, Amherst, MA
+11	28	Univ. of Massachusetts, Amherst	null
+11	29	Univ. of Massachusetts, Amherst	null
+11	30	Univ. of Massachusetts, Amherst	null
+11	31	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+11	32	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	33	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+11	34	Univ. of Massachusetts, Amherst	null
+11	35	Univ. of Massachusetts, Amherst	null
+11	36	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	37	Univ. of Massachusetts, Amherst	null
+11	38	Univ. of Massachusetts, Amherst	IBM T. J. Watson Research Center, Yorktown Heights, NY
+11	39	Univ. of Massachusetts, Amherst	null
+11	40	Univ. of Massachusetts, Amherst	null
+11	41	Univ. of Massachusetts, Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+11	42	Univ. of Massachusetts, Amherst	null
+11	43	Univ. of Massachusetts, Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+11	44	Univ. of Massachusetts, Amherst	null
+11	45	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	46	Univ. of Massachusetts, Amherst	University of Massachusetts, Amherst, MA
+11	47	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+11	48	Univ. of Massachusetts, Amherst	null
+11	49	Univ. of Massachusetts, Amherst	null
+11	50	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	51	Univ. of Massachusetts, Amherst	null
+11	52	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+12	13	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	14	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	15	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	16	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	17	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	18	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	19	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	20	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	21	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	22	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	23	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts - Amherst, Amherst, MA
+12	24	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	Univ. of Massachusetts - Amherst, Amherst, MA
+12	25	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+12	26	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	27	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+12	28	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	29	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	30	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	31	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+12	32	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	33	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+12	34	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	35	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	36	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	37	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	38	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+12	39	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	40	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	41	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+12	42	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	43	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+12	44	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	45	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	46	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+12	47	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+12	48	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	49	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	50	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	51	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	null
+12	52	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	null
+13	23	null	University of Massachusetts - Amherst, Amherst, MA
+13	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+13	25	null	University of Massachusetts, Amherst, MA
+13	26	null	null
+13	27	null	University of Massachusetts, Amherst, MA
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	University of Massachusetts Amherst
+13	32	null	University of Massachusetts Amherst, Amherst, MA
+13	33	null	University of Massachusetts Amherst
+13	34	null	null
+13	35	null	null
+13	36	null	University of Massachusetts Amherst, Amherst, MA
+13	37	null	null
+13	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+13	39	null	null
+13	40	null	null
+13	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+13	42	null	null
+13	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+13	44	null	null
+13	45	null	University of Massachusetts Amherst, Amherst, MA
+13	46	null	University of Massachusetts, Amherst, MA
+13	47	null	University of Massachusetts Amherst
+13	48	null	null
+13	49	null	null
+13	50	null	University of Massachusetts Amherst, Amherst, MA
+13	51	null	null
+13	52	null	University of Massachusetts Amherst
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	University of Massachusetts - Amherst, Amherst, MA
+14	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+14	25	null	University of Massachusetts, Amherst, MA
+14	26	null	null
+14	27	null	University of Massachusetts, Amherst, MA
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	University of Massachusetts Amherst
+14	32	null	University of Massachusetts Amherst, Amherst, MA
+14	33	null	University of Massachusetts Amherst
+14	34	null	null
+14	35	null	null
+14	36	null	University of Massachusetts Amherst, Amherst, MA
+14	37	null	null
+14	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+14	39	null	null
+14	40	null	null
+14	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+14	42	null	null
+14	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+14	44	null	null
+14	45	null	University of Massachusetts Amherst, Amherst, MA
+14	46	null	University of Massachusetts, Amherst, MA
+14	47	null	University of Massachusetts Amherst
+14	48	null	null
+14	49	null	null
+14	50	null	University of Massachusetts Amherst, Amherst, MA
+14	51	null	null
+14	52	null	University of Massachusetts Amherst
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	University of Massachusetts - Amherst, Amherst, MA
+15	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+15	25	null	University of Massachusetts, Amherst, MA
+15	26	null	null
+15	27	null	University of Massachusetts, Amherst, MA
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	University of Massachusetts Amherst
+15	32	null	University of Massachusetts Amherst, Amherst, MA
+15	33	null	University of Massachusetts Amherst
+15	34	null	null
+15	35	null	null
+15	36	null	University of Massachusetts Amherst, Amherst, MA
+15	37	null	null
+15	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+15	39	null	null
+15	40	null	null
+15	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+15	42	null	null
+15	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+15	44	null	null
+15	45	null	University of Massachusetts Amherst, Amherst, MA
+15	46	null	University of Massachusetts, Amherst, MA
+15	47	null	University of Massachusetts Amherst
+15	48	null	null
+15	49	null	null
+15	50	null	University of Massachusetts Amherst, Amherst, MA
+15	51	null	null
+15	52	null	University of Massachusetts Amherst
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	University of Massachusetts - Amherst, Amherst, MA
+16	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+16	25	null	University of Massachusetts, Amherst, MA
+16	26	null	null
+16	27	null	University of Massachusetts, Amherst, MA
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	University of Massachusetts Amherst
+16	32	null	University of Massachusetts Amherst, Amherst, MA
+16	33	null	University of Massachusetts Amherst
+16	34	null	null
+16	35	null	null
+16	36	null	University of Massachusetts Amherst, Amherst, MA
+16	37	null	null
+16	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+16	39	null	null
+16	40	null	null
+16	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+16	42	null	null
+16	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+16	44	null	null
+16	45	null	University of Massachusetts Amherst, Amherst, MA
+16	46	null	University of Massachusetts, Amherst, MA
+16	47	null	University of Massachusetts Amherst
+16	48	null	null
+16	49	null	null
+16	50	null	University of Massachusetts Amherst, Amherst, MA
+16	51	null	null
+16	52	null	University of Massachusetts Amherst
+17	18	null	null
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	University of Massachusetts - Amherst, Amherst, MA
+17	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+17	25	null	University of Massachusetts, Amherst, MA
+17	26	null	null
+17	27	null	University of Massachusetts, Amherst, MA
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	University of Massachusetts Amherst
+17	32	null	University of Massachusetts Amherst, Amherst, MA
+17	33	null	University of Massachusetts Amherst
+17	34	null	null
+17	35	null	null
+17	36	null	University of Massachusetts Amherst, Amherst, MA
+17	37	null	null
+17	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+17	39	null	null
+17	40	null	null
+17	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+17	42	null	null
+17	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+17	44	null	null
+17	45	null	University of Massachusetts Amherst, Amherst, MA
+17	46	null	University of Massachusetts, Amherst, MA
+17	47	null	University of Massachusetts Amherst
+17	48	null	null
+17	49	null	null
+17	50	null	University of Massachusetts Amherst, Amherst, MA
+17	51	null	null
+17	52	null	University of Massachusetts Amherst
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	null
+18	23	null	University of Massachusetts - Amherst, Amherst, MA
+18	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+18	25	null	University of Massachusetts, Amherst, MA
+18	26	null	null
+18	27	null	University of Massachusetts, Amherst, MA
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	University of Massachusetts Amherst
+18	32	null	University of Massachusetts Amherst, Amherst, MA
+18	33	null	University of Massachusetts Amherst
+18	34	null	null
+18	35	null	null
+18	36	null	University of Massachusetts Amherst, Amherst, MA
+18	37	null	null
+18	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+18	39	null	null
+18	40	null	null
+18	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+18	42	null	null
+18	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+18	44	null	null
+18	45	null	University of Massachusetts Amherst, Amherst, MA
+18	46	null	University of Massachusetts, Amherst, MA
+18	47	null	University of Massachusetts Amherst
+18	48	null	null
+18	49	null	null
+18	50	null	University of Massachusetts Amherst, Amherst, MA
+18	51	null	null
+18	52	null	University of Massachusetts Amherst
+19	20	null	null
+19	21	null	null
+19	22	null	null
+19	23	null	University of Massachusetts - Amherst, Amherst, MA
+19	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+19	25	null	University of Massachusetts, Amherst, MA
+19	26	null	null
+19	27	null	University of Massachusetts, Amherst, MA
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	University of Massachusetts Amherst
+19	32	null	University of Massachusetts Amherst, Amherst, MA
+19	33	null	University of Massachusetts Amherst
+19	34	null	null
+19	35	null	null
+19	36	null	University of Massachusetts Amherst, Amherst, MA
+19	37	null	null
+19	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+19	39	null	null
+19	40	null	null
+19	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+19	42	null	null
+19	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+19	44	null	null
+19	45	null	University of Massachusetts Amherst, Amherst, MA
+19	46	null	University of Massachusetts, Amherst, MA
+19	47	null	University of Massachusetts Amherst
+19	48	null	null
+19	49	null	null
+19	50	null	University of Massachusetts Amherst, Amherst, MA
+19	51	null	null
+19	52	null	University of Massachusetts Amherst
+20	21	null	null
+20	22	null	null
+20	23	null	University of Massachusetts - Amherst, Amherst, MA
+20	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+20	25	null	University of Massachusetts, Amherst, MA
+20	26	null	null
+20	27	null	University of Massachusetts, Amherst, MA
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	University of Massachusetts Amherst
+20	32	null	University of Massachusetts Amherst, Amherst, MA
+20	33	null	University of Massachusetts Amherst
+20	34	null	null
+20	35	null	null
+20	36	null	University of Massachusetts Amherst, Amherst, MA
+20	37	null	null
+20	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+20	39	null	null
+20	40	null	null
+20	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+20	42	null	null
+20	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+20	44	null	null
+20	45	null	University of Massachusetts Amherst, Amherst, MA
+20	46	null	University of Massachusetts, Amherst, MA
+20	47	null	University of Massachusetts Amherst
+20	48	null	null
+20	49	null	null
+20	50	null	University of Massachusetts Amherst, Amherst, MA
+20	51	null	null
+20	52	null	University of Massachusetts Amherst
+21	22	null	null
+21	23	null	University of Massachusetts - Amherst, Amherst, MA
+21	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+21	25	null	University of Massachusetts, Amherst, MA
+21	26	null	null
+21	27	null	University of Massachusetts, Amherst, MA
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	University of Massachusetts Amherst
+21	32	null	University of Massachusetts Amherst, Amherst, MA
+21	33	null	University of Massachusetts Amherst
+21	34	null	null
+21	35	null	null
+21	36	null	University of Massachusetts Amherst, Amherst, MA
+21	37	null	null
+21	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+21	39	null	null
+21	40	null	null
+21	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+21	42	null	null
+21	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+21	44	null	null
+21	45	null	University of Massachusetts Amherst, Amherst, MA
+21	46	null	University of Massachusetts, Amherst, MA
+21	47	null	University of Massachusetts Amherst
+21	48	null	null
+21	49	null	null
+21	50	null	University of Massachusetts Amherst, Amherst, MA
+21	51	null	null
+21	52	null	University of Massachusetts Amherst
+22	23	null	University of Massachusetts - Amherst, Amherst, MA
+22	24	null	Univ. of Massachusetts - Amherst, Amherst, MA
+22	25	null	University of Massachusetts, Amherst, MA
+22	26	null	null
+22	27	null	University of Massachusetts, Amherst, MA
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	University of Massachusetts Amherst
+22	32	null	University of Massachusetts Amherst, Amherst, MA
+22	33	null	University of Massachusetts Amherst
+22	34	null	null
+22	35	null	null
+22	36	null	University of Massachusetts Amherst, Amherst, MA
+22	37	null	null
+22	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+22	39	null	null
+22	40	null	null
+22	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+22	42	null	null
+22	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+22	44	null	null
+22	45	null	University of Massachusetts Amherst, Amherst, MA
+22	46	null	University of Massachusetts, Amherst, MA
+22	47	null	University of Massachusetts Amherst
+22	48	null	null
+22	49	null	null
+22	50	null	University of Massachusetts Amherst, Amherst, MA
+22	51	null	null
+22	52	null	University of Massachusetts Amherst
+23	24	University of Massachusetts - Amherst, Amherst, MA	Univ. of Massachusetts - Amherst, Amherst, MA
+23	25	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+23	26	University of Massachusetts - Amherst, Amherst, MA	null
+23	27	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+23	28	University of Massachusetts - Amherst, Amherst, MA	null
+23	29	University of Massachusetts - Amherst, Amherst, MA	null
+23	30	University of Massachusetts - Amherst, Amherst, MA	null
+23	31	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+23	32	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	33	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+23	34	University of Massachusetts - Amherst, Amherst, MA	null
+23	35	University of Massachusetts - Amherst, Amherst, MA	null
+23	36	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	37	University of Massachusetts - Amherst, Amherst, MA	null
+23	38	University of Massachusetts - Amherst, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+23	39	University of Massachusetts - Amherst, Amherst, MA	null
+23	40	University of Massachusetts - Amherst, Amherst, MA	null
+23	41	University of Massachusetts - Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+23	42	University of Massachusetts - Amherst, Amherst, MA	null
+23	43	University of Massachusetts - Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+23	44	University of Massachusetts - Amherst, Amherst, MA	null
+23	45	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	46	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+23	47	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+23	48	University of Massachusetts - Amherst, Amherst, MA	null
+23	49	University of Massachusetts - Amherst, Amherst, MA	null
+23	50	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	51	University of Massachusetts - Amherst, Amherst, MA	null
+23	52	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	25	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+24	26	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	27	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+24	28	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	29	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	30	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	31	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	32	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	33	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	34	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	35	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	36	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	37	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	38	Univ. of Massachusetts - Amherst, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+24	39	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	40	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	41	Univ. of Massachusetts - Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+24	42	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	43	Univ. of Massachusetts - Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+24	44	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	45	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	46	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+24	47	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	48	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	49	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	50	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	51	Univ. of Massachusetts - Amherst, Amherst, MA	null
+24	52	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+25	26	University of Massachusetts, Amherst, MA	null
+25	27	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+25	28	University of Massachusetts, Amherst, MA	null
+25	29	University of Massachusetts, Amherst, MA	null
+25	30	University of Massachusetts, Amherst, MA	null
+25	31	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+25	32	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	33	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+25	34	University of Massachusetts, Amherst, MA	null
+25	35	University of Massachusetts, Amherst, MA	null
+25	36	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	37	University of Massachusetts, Amherst, MA	null
+25	38	University of Massachusetts, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+25	39	University of Massachusetts, Amherst, MA	null
+25	40	University of Massachusetts, Amherst, MA	null
+25	41	University of Massachusetts, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+25	42	University of Massachusetts, Amherst, MA	null
+25	43	University of Massachusetts, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+25	44	University of Massachusetts, Amherst, MA	null
+25	45	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	46	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+25	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+25	48	University of Massachusetts, Amherst, MA	null
+25	49	University of Massachusetts, Amherst, MA	null
+25	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	51	University of Massachusetts, Amherst, MA	null
+25	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+26	27	null	University of Massachusetts, Amherst, MA
+26	28	null	null
+26	29	null	null
+26	30	null	null
+26	31	null	University of Massachusetts Amherst
+26	32	null	University of Massachusetts Amherst, Amherst, MA
+26	33	null	University of Massachusetts Amherst
+26	34	null	null
+26	35	null	null
+26	36	null	University of Massachusetts Amherst, Amherst, MA
+26	37	null	null
+26	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+26	39	null	null
+26	40	null	null
+26	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+26	42	null	null
+26	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+26	44	null	null
+26	45	null	University of Massachusetts Amherst, Amherst, MA
+26	46	null	University of Massachusetts, Amherst, MA
+26	47	null	University of Massachusetts Amherst
+26	48	null	null
+26	49	null	null
+26	50	null	University of Massachusetts Amherst, Amherst, MA
+26	51	null	null
+26	52	null	University of Massachusetts Amherst
+27	28	University of Massachusetts, Amherst, MA	null
+27	29	University of Massachusetts, Amherst, MA	null
+27	30	University of Massachusetts, Amherst, MA	null
+27	31	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+27	32	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	33	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+27	34	University of Massachusetts, Amherst, MA	null
+27	35	University of Massachusetts, Amherst, MA	null
+27	36	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	37	University of Massachusetts, Amherst, MA	null
+27	38	University of Massachusetts, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+27	39	University of Massachusetts, Amherst, MA	null
+27	40	University of Massachusetts, Amherst, MA	null
+27	41	University of Massachusetts, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+27	42	University of Massachusetts, Amherst, MA	null
+27	43	University of Massachusetts, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+27	44	University of Massachusetts, Amherst, MA	null
+27	45	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	46	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+27	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+27	48	University of Massachusetts, Amherst, MA	null
+27	49	University of Massachusetts, Amherst, MA	null
+27	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	51	University of Massachusetts, Amherst, MA	null
+27	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+28	29	null	null
+28	30	null	null
+28	31	null	University of Massachusetts Amherst
+28	32	null	University of Massachusetts Amherst, Amherst, MA
+28	33	null	University of Massachusetts Amherst
+28	34	null	null
+28	35	null	null
+28	36	null	University of Massachusetts Amherst, Amherst, MA
+28	37	null	null
+28	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+28	39	null	null
+28	40	null	null
+28	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+28	42	null	null
+28	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+28	44	null	null
+28	45	null	University of Massachusetts Amherst, Amherst, MA
+28	46	null	University of Massachusetts, Amherst, MA
+28	47	null	University of Massachusetts Amherst
+28	48	null	null
+28	49	null	null
+28	50	null	University of Massachusetts Amherst, Amherst, MA
+28	51	null	null
+28	52	null	University of Massachusetts Amherst
+29	30	null	null
+29	31	null	University of Massachusetts Amherst
+29	32	null	University of Massachusetts Amherst, Amherst, MA
+29	33	null	University of Massachusetts Amherst
+29	34	null	null
+29	35	null	null
+29	36	null	University of Massachusetts Amherst, Amherst, MA
+29	37	null	null
+29	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+29	39	null	null
+29	40	null	null
+29	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+29	42	null	null
+29	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+29	44	null	null
+29	45	null	University of Massachusetts Amherst, Amherst, MA
+29	46	null	University of Massachusetts, Amherst, MA
+29	47	null	University of Massachusetts Amherst
+29	48	null	null
+29	49	null	null
+29	50	null	University of Massachusetts Amherst, Amherst, MA
+29	51	null	null
+29	52	null	University of Massachusetts Amherst
+30	31	null	University of Massachusetts Amherst
+30	32	null	University of Massachusetts Amherst, Amherst, MA
+30	33	null	University of Massachusetts Amherst
+30	34	null	null
+30	35	null	null
+30	36	null	University of Massachusetts Amherst, Amherst, MA
+30	37	null	null
+30	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+30	39	null	null
+30	40	null	null
+30	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+30	42	null	null
+30	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+30	44	null	null
+30	45	null	University of Massachusetts Amherst, Amherst, MA
+30	46	null	University of Massachusetts, Amherst, MA
+30	47	null	University of Massachusetts Amherst
+30	48	null	null
+30	49	null	null
+30	50	null	University of Massachusetts Amherst, Amherst, MA
+30	51	null	null
+30	52	null	University of Massachusetts Amherst
+31	32	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	33	University of Massachusetts Amherst	University of Massachusetts Amherst
+31	34	University of Massachusetts Amherst	null
+31	35	University of Massachusetts Amherst	null
+31	36	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	37	University of Massachusetts Amherst	null
+31	38	University of Massachusetts Amherst	IBM T. J. Watson Research Center, Yorktown Heights, NY
+31	39	University of Massachusetts Amherst	null
+31	40	University of Massachusetts Amherst	null
+31	41	University of Massachusetts Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+31	42	University of Massachusetts Amherst	null
+31	43	University of Massachusetts Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+31	44	University of Massachusetts Amherst	null
+31	45	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	46	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+31	47	University of Massachusetts Amherst	University of Massachusetts Amherst
+31	48	University of Massachusetts Amherst	null
+31	49	University of Massachusetts Amherst	null
+31	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	51	University of Massachusetts Amherst	null
+31	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+32	33	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+32	34	University of Massachusetts Amherst, Amherst, MA	null
+32	35	University of Massachusetts Amherst, Amherst, MA	null
+32	36	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+32	37	University of Massachusetts Amherst, Amherst, MA	null
+32	38	University of Massachusetts Amherst, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+32	39	University of Massachusetts Amherst, Amherst, MA	null
+32	40	University of Massachusetts Amherst, Amherst, MA	null
+32	41	University of Massachusetts Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+32	42	University of Massachusetts Amherst, Amherst, MA	null
+32	43	University of Massachusetts Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+32	44	University of Massachusetts Amherst, Amherst, MA	null
+32	45	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+32	46	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+32	47	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+32	48	University of Massachusetts Amherst, Amherst, MA	null
+32	49	University of Massachusetts Amherst, Amherst, MA	null
+32	50	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+32	51	University of Massachusetts Amherst, Amherst, MA	null
+32	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+33	34	University of Massachusetts Amherst	null
+33	35	University of Massachusetts Amherst	null
+33	36	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+33	37	University of Massachusetts Amherst	null
+33	38	University of Massachusetts Amherst	IBM T. J. Watson Research Center, Yorktown Heights, NY
+33	39	University of Massachusetts Amherst	null
+33	40	University of Massachusetts Amherst	null
+33	41	University of Massachusetts Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+33	42	University of Massachusetts Amherst	null
+33	43	University of Massachusetts Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+33	44	University of Massachusetts Amherst	null
+33	45	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+33	46	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+33	47	University of Massachusetts Amherst	University of Massachusetts Amherst
+33	48	University of Massachusetts Amherst	null
+33	49	University of Massachusetts Amherst	null
+33	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+33	51	University of Massachusetts Amherst	null
+33	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+34	35	null	null
+34	36	null	University of Massachusetts Amherst, Amherst, MA
+34	37	null	null
+34	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+34	39	null	null
+34	40	null	null
+34	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+34	42	null	null
+34	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+34	44	null	null
+34	45	null	University of Massachusetts Amherst, Amherst, MA
+34	46	null	University of Massachusetts, Amherst, MA
+34	47	null	University of Massachusetts Amherst
+34	48	null	null
+34	49	null	null
+34	50	null	University of Massachusetts Amherst, Amherst, MA
+34	51	null	null
+34	52	null	University of Massachusetts Amherst
+35	36	null	University of Massachusetts Amherst, Amherst, MA
+35	37	null	null
+35	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+35	39	null	null
+35	40	null	null
+35	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+35	42	null	null
+35	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+35	44	null	null
+35	45	null	University of Massachusetts Amherst, Amherst, MA
+35	46	null	University of Massachusetts, Amherst, MA
+35	47	null	University of Massachusetts Amherst
+35	48	null	null
+35	49	null	null
+35	50	null	University of Massachusetts Amherst, Amherst, MA
+35	51	null	null
+35	52	null	University of Massachusetts Amherst
+36	37	University of Massachusetts Amherst, Amherst, MA	null
+36	38	University of Massachusetts Amherst, Amherst, MA	IBM T. J. Watson Research Center, Yorktown Heights, NY
+36	39	University of Massachusetts Amherst, Amherst, MA	null
+36	40	University of Massachusetts Amherst, Amherst, MA	null
+36	41	University of Massachusetts Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+36	42	University of Massachusetts Amherst, Amherst, MA	null
+36	43	University of Massachusetts Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+36	44	University of Massachusetts Amherst, Amherst, MA	null
+36	45	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+36	46	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+36	47	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+36	48	University of Massachusetts Amherst, Amherst, MA	null
+36	49	University of Massachusetts Amherst, Amherst, MA	null
+36	50	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+36	51	University of Massachusetts Amherst, Amherst, MA	null
+36	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+37	38	null	IBM T. J. Watson Research Center, Yorktown Heights, NY
+37	39	null	null
+37	40	null	null
+37	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+37	42	null	null
+37	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+37	44	null	null
+37	45	null	University of Massachusetts Amherst, Amherst, MA
+37	46	null	University of Massachusetts, Amherst, MA
+37	47	null	University of Massachusetts Amherst
+37	48	null	null
+37	49	null	null
+37	50	null	University of Massachusetts Amherst, Amherst, MA
+37	51	null	null
+37	52	null	University of Massachusetts Amherst
+38	39	IBM T. J. Watson Research Center, Yorktown Heights, NY	null
+38	40	IBM T. J. Watson Research Center, Yorktown Heights, NY	null
+38	41	IBM T. J. Watson Research Center, Yorktown Heights, NY	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+38	42	IBM T. J. Watson Research Center, Yorktown Heights, NY	null
+38	43	IBM T. J. Watson Research Center, Yorktown Heights, NY	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+38	44	IBM T. J. Watson Research Center, Yorktown Heights, NY	null
+38	45	IBM T. J. Watson Research Center, Yorktown Heights, NY	University of Massachusetts Amherst, Amherst, MA
+38	46	IBM T. J. Watson Research Center, Yorktown Heights, NY	University of Massachusetts, Amherst, MA
+38	47	IBM T. J. Watson Research Center, Yorktown Heights, NY	University of Massachusetts Amherst
+38	48	IBM T. J. Watson Research Center, Yorktown Heights, NY	null
+38	49	IBM T. J. Watson Research Center, Yorktown Heights, NY	null
+38	50	IBM T. J. Watson Research Center, Yorktown Heights, NY	University of Massachusetts Amherst, Amherst, MA
+38	51	IBM T. J. Watson Research Center, Yorktown Heights, NY	null
+38	52	IBM T. J. Watson Research Center, Yorktown Heights, NY	University of Massachusetts Amherst
+39	40	null	null
+39	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+39	42	null	null
+39	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+39	44	null	null
+39	45	null	University of Massachusetts Amherst, Amherst, MA
+39	46	null	University of Massachusetts, Amherst, MA
+39	47	null	University of Massachusetts Amherst
+39	48	null	null
+39	49	null	null
+39	50	null	University of Massachusetts Amherst, Amherst, MA
+39	51	null	null
+39	52	null	University of Massachusetts Amherst
+40	41	null	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+40	42	null	null
+40	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+40	44	null	null
+40	45	null	University of Massachusetts Amherst, Amherst, MA
+40	46	null	University of Massachusetts, Amherst, MA
+40	47	null	University of Massachusetts Amherst
+40	48	null	null
+40	49	null	null
+40	50	null	University of Massachusetts Amherst, Amherst, MA
+40	51	null	null
+40	52	null	University of Massachusetts Amherst
+41	42	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	null
+41	43	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+41	44	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	null
+41	45	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst, Amherst, MA
+41	46	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts, Amherst, MA
+41	47	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst
+41	48	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	null
+41	49	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	null
+41	50	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst, Amherst, MA
+41	51	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	null
+41	52	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst
+42	43	null	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+42	44	null	null
+42	45	null	University of Massachusetts Amherst, Amherst, MA
+42	46	null	University of Massachusetts, Amherst, MA
+42	47	null	University of Massachusetts Amherst
+42	48	null	null
+42	49	null	null
+42	50	null	University of Massachusetts Amherst, Amherst, MA
+42	51	null	null
+42	52	null	University of Massachusetts Amherst
+43	44	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	null
+43	45	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst, Amherst, MA
+43	46	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts, Amherst, MA
+43	47	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst
+43	48	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	null
+43	49	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	null
+43	50	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst, Amherst, MA
+43	51	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	null
+43	52	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst
+44	45	null	University of Massachusetts Amherst, Amherst, MA
+44	46	null	University of Massachusetts, Amherst, MA
+44	47	null	University of Massachusetts Amherst
+44	48	null	null
+44	49	null	null
+44	50	null	University of Massachusetts Amherst, Amherst, MA
+44	51	null	null
+44	52	null	University of Massachusetts Amherst
+45	46	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+45	47	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+45	48	University of Massachusetts Amherst, Amherst, MA	null
+45	49	University of Massachusetts Amherst, Amherst, MA	null
+45	50	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+45	51	University of Massachusetts Amherst, Amherst, MA	null
+45	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+46	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+46	48	University of Massachusetts, Amherst, MA	null
+46	49	University of Massachusetts, Amherst, MA	null
+46	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+46	51	University of Massachusetts, Amherst, MA	null
+46	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+47	48	University of Massachusetts Amherst	null
+47	49	University of Massachusetts Amherst	null
+47	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+47	51	University of Massachusetts Amherst	null
+47	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+48	49	null	null
+48	50	null	University of Massachusetts Amherst, Amherst, MA
+48	51	null	null
+48	52	null	University of Massachusetts Amherst
+49	50	null	University of Massachusetts Amherst, Amherst, MA
+49	51	null	null
+49	52	null	University of Massachusetts Amherst
+50	51	University of Massachusetts Amherst, Amherst, MA	null
+50	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+51	52	null	University of Massachusetts Amherst

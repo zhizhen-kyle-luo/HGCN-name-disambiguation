@@ -1,0 +1,2211 @@
+0	1	null	University of Calgary, Alberta, Canada
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	Saarland University, Saarbrücken, Germany
+0	9	null	Saarland University
+0	10	null	Saarland University, Germany
+0	11	null	University of Calgary, Calgary, AB, Canada
+0	12	null	Saarland Univ., Germany
+0	13	null	null
+0	14	null	null
+0	15	null	Saarland University, Saarbrücken, Germany
+0	16	null	University of Calgary, Calgary, AB, Canada
+0	17	null	null
+0	18	null	Saarland University, Saarbrücken, Germany
+0	19	null	Saarland University, Germany
+0	20	null	null
+0	21	null	Saarland University, Saarbrücken, Germany
+0	22	null	null
+0	23	null	null
+0	24	null	Saarland University, Saarbrücken, Germany
+0	25	null	University of Calgary, Calgary, AB, Canada
+0	26	null	null
+0	27	null	University of Calgary, Calgary, AB, Canada
+0	28	null	null
+0	29	null	null
+0	30	null	Saarland University, Germany
+0	31	null	Saarland University, Saarbrucken, Germany
+0	32	null	null
+0	33	null	Saarland University, Saarbrücken, Germany
+0	34	null	Saarland University, Saarbrücken, Germany
+0	35	null	University of Calgary, Canada
+0	36	null	null
+0	37	null	null
+0	38	null	null
+0	39	null	null
+0	40	null	University of Calgary, Alberta, Canada
+0	41	null	University of Calgary, AB, Canada
+0	42	null	Saarland University, Germany
+0	43	null	Saarland University, Saarbrücken, Germany
+0	44	null	Saarland University, Saarbrücken, Germany
+0	45	null	University of Calgary, Calgary, Alberta, Canada
+0	46	null	null
+0	47	null	null
+0	48	null	null
+0	49	null	null
+0	50	null	University of Calgary, Calgary
+0	51	null	null
+0	52	null	null
+0	53	null	null
+0	54	null	null
+0	55	null	null
+0	56	null	Microsoft Research
+0	57	null	null
+0	58	null	null
+0	59	null	Microsoft Research, Redmond, WA, USA
+0	60	null	Microsoft Research, Seattle, WA, USA
+0	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+0	62	null	Microsoft Research Redmond, WA, USA
+0	63	null	Microsoft Research, Redmond, WA, USA
+0	64	null	Microsoft Research
+0	65	null	null
+0	66	null	Saarland University
+1	2	University of Calgary, Alberta, Canada	null
+1	3	University of Calgary, Alberta, Canada	null
+1	4	University of Calgary, Alberta, Canada	null
+1	5	University of Calgary, Alberta, Canada	null
+1	6	University of Calgary, Alberta, Canada	null
+1	7	University of Calgary, Alberta, Canada	null
+1	8	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	9	University of Calgary, Alberta, Canada	Saarland University
+1	10	University of Calgary, Alberta, Canada	Saarland University, Germany
+1	11	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	12	University of Calgary, Alberta, Canada	Saarland Univ., Germany
+1	13	University of Calgary, Alberta, Canada	null
+1	14	University of Calgary, Alberta, Canada	null
+1	15	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	16	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	17	University of Calgary, Alberta, Canada	null
+1	18	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	19	University of Calgary, Alberta, Canada	Saarland University, Germany
+1	20	University of Calgary, Alberta, Canada	null
+1	21	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	22	University of Calgary, Alberta, Canada	null
+1	23	University of Calgary, Alberta, Canada	null
+1	24	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	25	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	26	University of Calgary, Alberta, Canada	null
+1	27	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	28	University of Calgary, Alberta, Canada	null
+1	29	University of Calgary, Alberta, Canada	null
+1	30	University of Calgary, Alberta, Canada	Saarland University, Germany
+1	31	University of Calgary, Alberta, Canada	Saarland University, Saarbrucken, Germany
+1	32	University of Calgary, Alberta, Canada	null
+1	33	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	34	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	35	University of Calgary, Alberta, Canada	University of Calgary, Canada
+1	36	University of Calgary, Alberta, Canada	null
+1	37	University of Calgary, Alberta, Canada	null
+1	38	University of Calgary, Alberta, Canada	null
+1	39	University of Calgary, Alberta, Canada	null
+1	40	University of Calgary, Alberta, Canada	University of Calgary, Alberta, Canada
+1	41	University of Calgary, Alberta, Canada	University of Calgary, AB, Canada
+1	42	University of Calgary, Alberta, Canada	Saarland University, Germany
+1	43	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	44	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+1	45	University of Calgary, Alberta, Canada	University of Calgary, Calgary, Alberta, Canada
+1	46	University of Calgary, Alberta, Canada	null
+1	47	University of Calgary, Alberta, Canada	null
+1	48	University of Calgary, Alberta, Canada	null
+1	49	University of Calgary, Alberta, Canada	null
+1	50	University of Calgary, Alberta, Canada	University of Calgary, Calgary
+1	51	University of Calgary, Alberta, Canada	null
+1	52	University of Calgary, Alberta, Canada	null
+1	53	University of Calgary, Alberta, Canada	null
+1	54	University of Calgary, Alberta, Canada	null
+1	55	University of Calgary, Alberta, Canada	null
+1	56	University of Calgary, Alberta, Canada	Microsoft Research
+1	57	University of Calgary, Alberta, Canada	null
+1	58	University of Calgary, Alberta, Canada	null
+1	59	University of Calgary, Alberta, Canada	Microsoft Research, Redmond, WA, USA
+1	60	University of Calgary, Alberta, Canada	Microsoft Research, Seattle, WA, USA
+1	61	University of Calgary, Alberta, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+1	62	University of Calgary, Alberta, Canada	Microsoft Research Redmond, WA, USA
+1	63	University of Calgary, Alberta, Canada	Microsoft Research, Redmond, WA, USA
+1	64	University of Calgary, Alberta, Canada	Microsoft Research
+1	65	University of Calgary, Alberta, Canada	null
+1	66	University of Calgary, Alberta, Canada	Saarland University
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	Saarland University, Saarbrücken, Germany
+2	9	null	Saarland University
+2	10	null	Saarland University, Germany
+2	11	null	University of Calgary, Calgary, AB, Canada
+2	12	null	Saarland Univ., Germany
+2	13	null	null
+2	14	null	null
+2	15	null	Saarland University, Saarbrücken, Germany
+2	16	null	University of Calgary, Calgary, AB, Canada
+2	17	null	null
+2	18	null	Saarland University, Saarbrücken, Germany
+2	19	null	Saarland University, Germany
+2	20	null	null
+2	21	null	Saarland University, Saarbrücken, Germany
+2	22	null	null
+2	23	null	null
+2	24	null	Saarland University, Saarbrücken, Germany
+2	25	null	University of Calgary, Calgary, AB, Canada
+2	26	null	null
+2	27	null	University of Calgary, Calgary, AB, Canada
+2	28	null	null
+2	29	null	null
+2	30	null	Saarland University, Germany
+2	31	null	Saarland University, Saarbrucken, Germany
+2	32	null	null
+2	33	null	Saarland University, Saarbrücken, Germany
+2	34	null	Saarland University, Saarbrücken, Germany
+2	35	null	University of Calgary, Canada
+2	36	null	null
+2	37	null	null
+2	38	null	null
+2	39	null	null
+2	40	null	University of Calgary, Alberta, Canada
+2	41	null	University of Calgary, AB, Canada
+2	42	null	Saarland University, Germany
+2	43	null	Saarland University, Saarbrücken, Germany
+2	44	null	Saarland University, Saarbrücken, Germany
+2	45	null	University of Calgary, Calgary, Alberta, Canada
+2	46	null	null
+2	47	null	null
+2	48	null	null
+2	49	null	null
+2	50	null	University of Calgary, Calgary
+2	51	null	null
+2	52	null	null
+2	53	null	null
+2	54	null	null
+2	55	null	null
+2	56	null	Microsoft Research
+2	57	null	null
+2	58	null	null
+2	59	null	Microsoft Research, Redmond, WA, USA
+2	60	null	Microsoft Research, Seattle, WA, USA
+2	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+2	62	null	Microsoft Research Redmond, WA, USA
+2	63	null	Microsoft Research, Redmond, WA, USA
+2	64	null	Microsoft Research
+2	65	null	null
+2	66	null	Saarland University
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	Saarland University, Saarbrücken, Germany
+3	9	null	Saarland University
+3	10	null	Saarland University, Germany
+3	11	null	University of Calgary, Calgary, AB, Canada
+3	12	null	Saarland Univ., Germany
+3	13	null	null
+3	14	null	null
+3	15	null	Saarland University, Saarbrücken, Germany
+3	16	null	University of Calgary, Calgary, AB, Canada
+3	17	null	null
+3	18	null	Saarland University, Saarbrücken, Germany
+3	19	null	Saarland University, Germany
+3	20	null	null
+3	21	null	Saarland University, Saarbrücken, Germany
+3	22	null	null
+3	23	null	null
+3	24	null	Saarland University, Saarbrücken, Germany
+3	25	null	University of Calgary, Calgary, AB, Canada
+3	26	null	null
+3	27	null	University of Calgary, Calgary, AB, Canada
+3	28	null	null
+3	29	null	null
+3	30	null	Saarland University, Germany
+3	31	null	Saarland University, Saarbrucken, Germany
+3	32	null	null
+3	33	null	Saarland University, Saarbrücken, Germany
+3	34	null	Saarland University, Saarbrücken, Germany
+3	35	null	University of Calgary, Canada
+3	36	null	null
+3	37	null	null
+3	38	null	null
+3	39	null	null
+3	40	null	University of Calgary, Alberta, Canada
+3	41	null	University of Calgary, AB, Canada
+3	42	null	Saarland University, Germany
+3	43	null	Saarland University, Saarbrücken, Germany
+3	44	null	Saarland University, Saarbrücken, Germany
+3	45	null	University of Calgary, Calgary, Alberta, Canada
+3	46	null	null
+3	47	null	null
+3	48	null	null
+3	49	null	null
+3	50	null	University of Calgary, Calgary
+3	51	null	null
+3	52	null	null
+3	53	null	null
+3	54	null	null
+3	55	null	null
+3	56	null	Microsoft Research
+3	57	null	null
+3	58	null	null
+3	59	null	Microsoft Research, Redmond, WA, USA
+3	60	null	Microsoft Research, Seattle, WA, USA
+3	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+3	62	null	Microsoft Research Redmond, WA, USA
+3	63	null	Microsoft Research, Redmond, WA, USA
+3	64	null	Microsoft Research
+3	65	null	null
+3	66	null	Saarland University
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	Saarland University, Saarbrücken, Germany
+4	9	null	Saarland University
+4	10	null	Saarland University, Germany
+4	11	null	University of Calgary, Calgary, AB, Canada
+4	12	null	Saarland Univ., Germany
+4	13	null	null
+4	14	null	null
+4	15	null	Saarland University, Saarbrücken, Germany
+4	16	null	University of Calgary, Calgary, AB, Canada
+4	17	null	null
+4	18	null	Saarland University, Saarbrücken, Germany
+4	19	null	Saarland University, Germany
+4	20	null	null
+4	21	null	Saarland University, Saarbrücken, Germany
+4	22	null	null
+4	23	null	null
+4	24	null	Saarland University, Saarbrücken, Germany
+4	25	null	University of Calgary, Calgary, AB, Canada
+4	26	null	null
+4	27	null	University of Calgary, Calgary, AB, Canada
+4	28	null	null
+4	29	null	null
+4	30	null	Saarland University, Germany
+4	31	null	Saarland University, Saarbrucken, Germany
+4	32	null	null
+4	33	null	Saarland University, Saarbrücken, Germany
+4	34	null	Saarland University, Saarbrücken, Germany
+4	35	null	University of Calgary, Canada
+4	36	null	null
+4	37	null	null
+4	38	null	null
+4	39	null	null
+4	40	null	University of Calgary, Alberta, Canada
+4	41	null	University of Calgary, AB, Canada
+4	42	null	Saarland University, Germany
+4	43	null	Saarland University, Saarbrücken, Germany
+4	44	null	Saarland University, Saarbrücken, Germany
+4	45	null	University of Calgary, Calgary, Alberta, Canada
+4	46	null	null
+4	47	null	null
+4	48	null	null
+4	49	null	null
+4	50	null	University of Calgary, Calgary
+4	51	null	null
+4	52	null	null
+4	53	null	null
+4	54	null	null
+4	55	null	null
+4	56	null	Microsoft Research
+4	57	null	null
+4	58	null	null
+4	59	null	Microsoft Research, Redmond, WA, USA
+4	60	null	Microsoft Research, Seattle, WA, USA
+4	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+4	62	null	Microsoft Research Redmond, WA, USA
+4	63	null	Microsoft Research, Redmond, WA, USA
+4	64	null	Microsoft Research
+4	65	null	null
+4	66	null	Saarland University
+5	6	null	null
+5	7	null	null
+5	8	null	Saarland University, Saarbrücken, Germany
+5	9	null	Saarland University
+5	10	null	Saarland University, Germany
+5	11	null	University of Calgary, Calgary, AB, Canada
+5	12	null	Saarland Univ., Germany
+5	13	null	null
+5	14	null	null
+5	15	null	Saarland University, Saarbrücken, Germany
+5	16	null	University of Calgary, Calgary, AB, Canada
+5	17	null	null
+5	18	null	Saarland University, Saarbrücken, Germany
+5	19	null	Saarland University, Germany
+5	20	null	null
+5	21	null	Saarland University, Saarbrücken, Germany
+5	22	null	null
+5	23	null	null
+5	24	null	Saarland University, Saarbrücken, Germany
+5	25	null	University of Calgary, Calgary, AB, Canada
+5	26	null	null
+5	27	null	University of Calgary, Calgary, AB, Canada
+5	28	null	null
+5	29	null	null
+5	30	null	Saarland University, Germany
+5	31	null	Saarland University, Saarbrucken, Germany
+5	32	null	null
+5	33	null	Saarland University, Saarbrücken, Germany
+5	34	null	Saarland University, Saarbrücken, Germany
+5	35	null	University of Calgary, Canada
+5	36	null	null
+5	37	null	null
+5	38	null	null
+5	39	null	null
+5	40	null	University of Calgary, Alberta, Canada
+5	41	null	University of Calgary, AB, Canada
+5	42	null	Saarland University, Germany
+5	43	null	Saarland University, Saarbrücken, Germany
+5	44	null	Saarland University, Saarbrücken, Germany
+5	45	null	University of Calgary, Calgary, Alberta, Canada
+5	46	null	null
+5	47	null	null
+5	48	null	null
+5	49	null	null
+5	50	null	University of Calgary, Calgary
+5	51	null	null
+5	52	null	null
+5	53	null	null
+5	54	null	null
+5	55	null	null
+5	56	null	Microsoft Research
+5	57	null	null
+5	58	null	null
+5	59	null	Microsoft Research, Redmond, WA, USA
+5	60	null	Microsoft Research, Seattle, WA, USA
+5	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+5	62	null	Microsoft Research Redmond, WA, USA
+5	63	null	Microsoft Research, Redmond, WA, USA
+5	64	null	Microsoft Research
+5	65	null	null
+5	66	null	Saarland University
+6	7	null	null
+6	8	null	Saarland University, Saarbrücken, Germany
+6	9	null	Saarland University
+6	10	null	Saarland University, Germany
+6	11	null	University of Calgary, Calgary, AB, Canada
+6	12	null	Saarland Univ., Germany
+6	13	null	null
+6	14	null	null
+6	15	null	Saarland University, Saarbrücken, Germany
+6	16	null	University of Calgary, Calgary, AB, Canada
+6	17	null	null
+6	18	null	Saarland University, Saarbrücken, Germany
+6	19	null	Saarland University, Germany
+6	20	null	null
+6	21	null	Saarland University, Saarbrücken, Germany
+6	22	null	null
+6	23	null	null
+6	24	null	Saarland University, Saarbrücken, Germany
+6	25	null	University of Calgary, Calgary, AB, Canada
+6	26	null	null
+6	27	null	University of Calgary, Calgary, AB, Canada
+6	28	null	null
+6	29	null	null
+6	30	null	Saarland University, Germany
+6	31	null	Saarland University, Saarbrucken, Germany
+6	32	null	null
+6	33	null	Saarland University, Saarbrücken, Germany
+6	34	null	Saarland University, Saarbrücken, Germany
+6	35	null	University of Calgary, Canada
+6	36	null	null
+6	37	null	null
+6	38	null	null
+6	39	null	null
+6	40	null	University of Calgary, Alberta, Canada
+6	41	null	University of Calgary, AB, Canada
+6	42	null	Saarland University, Germany
+6	43	null	Saarland University, Saarbrücken, Germany
+6	44	null	Saarland University, Saarbrücken, Germany
+6	45	null	University of Calgary, Calgary, Alberta, Canada
+6	46	null	null
+6	47	null	null
+6	48	null	null
+6	49	null	null
+6	50	null	University of Calgary, Calgary
+6	51	null	null
+6	52	null	null
+6	53	null	null
+6	54	null	null
+6	55	null	null
+6	56	null	Microsoft Research
+6	57	null	null
+6	58	null	null
+6	59	null	Microsoft Research, Redmond, WA, USA
+6	60	null	Microsoft Research, Seattle, WA, USA
+6	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+6	62	null	Microsoft Research Redmond, WA, USA
+6	63	null	Microsoft Research, Redmond, WA, USA
+6	64	null	Microsoft Research
+6	65	null	null
+6	66	null	Saarland University
+7	8	null	Saarland University, Saarbrücken, Germany
+7	9	null	Saarland University
+7	10	null	Saarland University, Germany
+7	11	null	University of Calgary, Calgary, AB, Canada
+7	12	null	Saarland Univ., Germany
+7	13	null	null
+7	14	null	null
+7	15	null	Saarland University, Saarbrücken, Germany
+7	16	null	University of Calgary, Calgary, AB, Canada
+7	17	null	null
+7	18	null	Saarland University, Saarbrücken, Germany
+7	19	null	Saarland University, Germany
+7	20	null	null
+7	21	null	Saarland University, Saarbrücken, Germany
+7	22	null	null
+7	23	null	null
+7	24	null	Saarland University, Saarbrücken, Germany
+7	25	null	University of Calgary, Calgary, AB, Canada
+7	26	null	null
+7	27	null	University of Calgary, Calgary, AB, Canada
+7	28	null	null
+7	29	null	null
+7	30	null	Saarland University, Germany
+7	31	null	Saarland University, Saarbrucken, Germany
+7	32	null	null
+7	33	null	Saarland University, Saarbrücken, Germany
+7	34	null	Saarland University, Saarbrücken, Germany
+7	35	null	University of Calgary, Canada
+7	36	null	null
+7	37	null	null
+7	38	null	null
+7	39	null	null
+7	40	null	University of Calgary, Alberta, Canada
+7	41	null	University of Calgary, AB, Canada
+7	42	null	Saarland University, Germany
+7	43	null	Saarland University, Saarbrücken, Germany
+7	44	null	Saarland University, Saarbrücken, Germany
+7	45	null	University of Calgary, Calgary, Alberta, Canada
+7	46	null	null
+7	47	null	null
+7	48	null	null
+7	49	null	null
+7	50	null	University of Calgary, Calgary
+7	51	null	null
+7	52	null	null
+7	53	null	null
+7	54	null	null
+7	55	null	null
+7	56	null	Microsoft Research
+7	57	null	null
+7	58	null	null
+7	59	null	Microsoft Research, Redmond, WA, USA
+7	60	null	Microsoft Research, Seattle, WA, USA
+7	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+7	62	null	Microsoft Research Redmond, WA, USA
+7	63	null	Microsoft Research, Redmond, WA, USA
+7	64	null	Microsoft Research
+7	65	null	null
+7	66	null	Saarland University
+8	9	Saarland University, Saarbrücken, Germany	Saarland University
+8	10	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	11	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+8	12	Saarland University, Saarbrücken, Germany	Saarland Univ., Germany
+8	13	Saarland University, Saarbrücken, Germany	null
+8	14	Saarland University, Saarbrücken, Germany	null
+8	15	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	16	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+8	17	Saarland University, Saarbrücken, Germany	null
+8	18	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	19	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	20	Saarland University, Saarbrücken, Germany	null
+8	21	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	22	Saarland University, Saarbrücken, Germany	null
+8	23	Saarland University, Saarbrücken, Germany	null
+8	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	25	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+8	26	Saarland University, Saarbrücken, Germany	null
+8	27	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+8	28	Saarland University, Saarbrücken, Germany	null
+8	29	Saarland University, Saarbrücken, Germany	null
+8	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+8	32	Saarland University, Saarbrücken, Germany	null
+8	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	35	Saarland University, Saarbrücken, Germany	University of Calgary, Canada
+8	36	Saarland University, Saarbrücken, Germany	null
+8	37	Saarland University, Saarbrücken, Germany	null
+8	38	Saarland University, Saarbrücken, Germany	null
+8	39	Saarland University, Saarbrücken, Germany	null
+8	40	Saarland University, Saarbrücken, Germany	University of Calgary, Alberta, Canada
+8	41	Saarland University, Saarbrücken, Germany	University of Calgary, AB, Canada
+8	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+8	46	Saarland University, Saarbrücken, Germany	null
+8	47	Saarland University, Saarbrücken, Germany	null
+8	48	Saarland University, Saarbrücken, Germany	null
+8	49	Saarland University, Saarbrücken, Germany	null
+8	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+8	51	Saarland University, Saarbrücken, Germany	null
+8	52	Saarland University, Saarbrücken, Germany	null
+8	53	Saarland University, Saarbrücken, Germany	null
+8	54	Saarland University, Saarbrücken, Germany	null
+8	55	Saarland University, Saarbrücken, Germany	null
+8	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+8	57	Saarland University, Saarbrücken, Germany	null
+8	58	Saarland University, Saarbrücken, Germany	null
+8	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+8	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+8	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+8	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+8	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+8	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+8	65	Saarland University, Saarbrücken, Germany	null
+8	66	Saarland University, Saarbrücken, Germany	Saarland University
+9	10	Saarland University	Saarland University, Germany
+9	11	Saarland University	University of Calgary, Calgary, AB, Canada
+9	12	Saarland University	Saarland Univ., Germany
+9	13	Saarland University	null
+9	14	Saarland University	null
+9	15	Saarland University	Saarland University, Saarbrücken, Germany
+9	16	Saarland University	University of Calgary, Calgary, AB, Canada
+9	17	Saarland University	null
+9	18	Saarland University	Saarland University, Saarbrücken, Germany
+9	19	Saarland University	Saarland University, Germany
+9	20	Saarland University	null
+9	21	Saarland University	Saarland University, Saarbrücken, Germany
+9	22	Saarland University	null
+9	23	Saarland University	null
+9	24	Saarland University	Saarland University, Saarbrücken, Germany
+9	25	Saarland University	University of Calgary, Calgary, AB, Canada
+9	26	Saarland University	null
+9	27	Saarland University	University of Calgary, Calgary, AB, Canada
+9	28	Saarland University	null
+9	29	Saarland University	null
+9	30	Saarland University	Saarland University, Germany
+9	31	Saarland University	Saarland University, Saarbrucken, Germany
+9	32	Saarland University	null
+9	33	Saarland University	Saarland University, Saarbrücken, Germany
+9	34	Saarland University	Saarland University, Saarbrücken, Germany
+9	35	Saarland University	University of Calgary, Canada
+9	36	Saarland University	null
+9	37	Saarland University	null
+9	38	Saarland University	null
+9	39	Saarland University	null
+9	40	Saarland University	University of Calgary, Alberta, Canada
+9	41	Saarland University	University of Calgary, AB, Canada
+9	42	Saarland University	Saarland University, Germany
+9	43	Saarland University	Saarland University, Saarbrücken, Germany
+9	44	Saarland University	Saarland University, Saarbrücken, Germany
+9	45	Saarland University	University of Calgary, Calgary, Alberta, Canada
+9	46	Saarland University	null
+9	47	Saarland University	null
+9	48	Saarland University	null
+9	49	Saarland University	null
+9	50	Saarland University	University of Calgary, Calgary
+9	51	Saarland University	null
+9	52	Saarland University	null
+9	53	Saarland University	null
+9	54	Saarland University	null
+9	55	Saarland University	null
+9	56	Saarland University	Microsoft Research
+9	57	Saarland University	null
+9	58	Saarland University	null
+9	59	Saarland University	Microsoft Research, Redmond, WA, USA
+9	60	Saarland University	Microsoft Research, Seattle, WA, USA
+9	61	Saarland University	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+9	62	Saarland University	Microsoft Research Redmond, WA, USA
+9	63	Saarland University	Microsoft Research, Redmond, WA, USA
+9	64	Saarland University	Microsoft Research
+9	65	Saarland University	null
+9	66	Saarland University	Saarland University
+10	11	Saarland University, Germany	University of Calgary, Calgary, AB, Canada
+10	12	Saarland University, Germany	Saarland Univ., Germany
+10	13	Saarland University, Germany	null
+10	14	Saarland University, Germany	null
+10	15	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	16	Saarland University, Germany	University of Calgary, Calgary, AB, Canada
+10	17	Saarland University, Germany	null
+10	18	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	19	Saarland University, Germany	Saarland University, Germany
+10	20	Saarland University, Germany	null
+10	21	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	22	Saarland University, Germany	null
+10	23	Saarland University, Germany	null
+10	24	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	25	Saarland University, Germany	University of Calgary, Calgary, AB, Canada
+10	26	Saarland University, Germany	null
+10	27	Saarland University, Germany	University of Calgary, Calgary, AB, Canada
+10	28	Saarland University, Germany	null
+10	29	Saarland University, Germany	null
+10	30	Saarland University, Germany	Saarland University, Germany
+10	31	Saarland University, Germany	Saarland University, Saarbrucken, Germany
+10	32	Saarland University, Germany	null
+10	33	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	34	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	35	Saarland University, Germany	University of Calgary, Canada
+10	36	Saarland University, Germany	null
+10	37	Saarland University, Germany	null
+10	38	Saarland University, Germany	null
+10	39	Saarland University, Germany	null
+10	40	Saarland University, Germany	University of Calgary, Alberta, Canada
+10	41	Saarland University, Germany	University of Calgary, AB, Canada
+10	42	Saarland University, Germany	Saarland University, Germany
+10	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	45	Saarland University, Germany	University of Calgary, Calgary, Alberta, Canada
+10	46	Saarland University, Germany	null
+10	47	Saarland University, Germany	null
+10	48	Saarland University, Germany	null
+10	49	Saarland University, Germany	null
+10	50	Saarland University, Germany	University of Calgary, Calgary
+10	51	Saarland University, Germany	null
+10	52	Saarland University, Germany	null
+10	53	Saarland University, Germany	null
+10	54	Saarland University, Germany	null
+10	55	Saarland University, Germany	null
+10	56	Saarland University, Germany	Microsoft Research
+10	57	Saarland University, Germany	null
+10	58	Saarland University, Germany	null
+10	59	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+10	60	Saarland University, Germany	Microsoft Research, Seattle, WA, USA
+10	61	Saarland University, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+10	62	Saarland University, Germany	Microsoft Research Redmond, WA, USA
+10	63	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+10	64	Saarland University, Germany	Microsoft Research
+10	65	Saarland University, Germany	null
+10	66	Saarland University, Germany	Saarland University
+11	12	University of Calgary, Calgary, AB, Canada	Saarland Univ., Germany
+11	13	University of Calgary, Calgary, AB, Canada	null
+11	14	University of Calgary, Calgary, AB, Canada	null
+11	15	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	16	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+11	17	University of Calgary, Calgary, AB, Canada	null
+11	18	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	19	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+11	20	University of Calgary, Calgary, AB, Canada	null
+11	21	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	22	University of Calgary, Calgary, AB, Canada	null
+11	23	University of Calgary, Calgary, AB, Canada	null
+11	24	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	25	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+11	26	University of Calgary, Calgary, AB, Canada	null
+11	27	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+11	28	University of Calgary, Calgary, AB, Canada	null
+11	29	University of Calgary, Calgary, AB, Canada	null
+11	30	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+11	31	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrucken, Germany
+11	32	University of Calgary, Calgary, AB, Canada	null
+11	33	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	34	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+11	36	University of Calgary, Calgary, AB, Canada	null
+11	37	University of Calgary, Calgary, AB, Canada	null
+11	38	University of Calgary, Calgary, AB, Canada	null
+11	39	University of Calgary, Calgary, AB, Canada	null
+11	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+11	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+11	42	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+11	43	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	44	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+11	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+11	46	University of Calgary, Calgary, AB, Canada	null
+11	47	University of Calgary, Calgary, AB, Canada	null
+11	48	University of Calgary, Calgary, AB, Canada	null
+11	49	University of Calgary, Calgary, AB, Canada	null
+11	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+11	51	University of Calgary, Calgary, AB, Canada	null
+11	52	University of Calgary, Calgary, AB, Canada	null
+11	53	University of Calgary, Calgary, AB, Canada	null
+11	54	University of Calgary, Calgary, AB, Canada	null
+11	55	University of Calgary, Calgary, AB, Canada	null
+11	56	University of Calgary, Calgary, AB, Canada	Microsoft Research
+11	57	University of Calgary, Calgary, AB, Canada	null
+11	58	University of Calgary, Calgary, AB, Canada	null
+11	59	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+11	60	University of Calgary, Calgary, AB, Canada	Microsoft Research, Seattle, WA, USA
+11	61	University of Calgary, Calgary, AB, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+11	62	University of Calgary, Calgary, AB, Canada	Microsoft Research Redmond, WA, USA
+11	63	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+11	64	University of Calgary, Calgary, AB, Canada	Microsoft Research
+11	65	University of Calgary, Calgary, AB, Canada	null
+11	66	University of Calgary, Calgary, AB, Canada	Saarland University
+12	13	Saarland Univ., Germany	null
+12	14	Saarland Univ., Germany	null
+12	15	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	16	Saarland Univ., Germany	University of Calgary, Calgary, AB, Canada
+12	17	Saarland Univ., Germany	null
+12	18	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	19	Saarland Univ., Germany	Saarland University, Germany
+12	20	Saarland Univ., Germany	null
+12	21	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	22	Saarland Univ., Germany	null
+12	23	Saarland Univ., Germany	null
+12	24	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	25	Saarland Univ., Germany	University of Calgary, Calgary, AB, Canada
+12	26	Saarland Univ., Germany	null
+12	27	Saarland Univ., Germany	University of Calgary, Calgary, AB, Canada
+12	28	Saarland Univ., Germany	null
+12	29	Saarland Univ., Germany	null
+12	30	Saarland Univ., Germany	Saarland University, Germany
+12	31	Saarland Univ., Germany	Saarland University, Saarbrucken, Germany
+12	32	Saarland Univ., Germany	null
+12	33	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	34	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	35	Saarland Univ., Germany	University of Calgary, Canada
+12	36	Saarland Univ., Germany	null
+12	37	Saarland Univ., Germany	null
+12	38	Saarland Univ., Germany	null
+12	39	Saarland Univ., Germany	null
+12	40	Saarland Univ., Germany	University of Calgary, Alberta, Canada
+12	41	Saarland Univ., Germany	University of Calgary, AB, Canada
+12	42	Saarland Univ., Germany	Saarland University, Germany
+12	43	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	44	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	45	Saarland Univ., Germany	University of Calgary, Calgary, Alberta, Canada
+12	46	Saarland Univ., Germany	null
+12	47	Saarland Univ., Germany	null
+12	48	Saarland Univ., Germany	null
+12	49	Saarland Univ., Germany	null
+12	50	Saarland Univ., Germany	University of Calgary, Calgary
+12	51	Saarland Univ., Germany	null
+12	52	Saarland Univ., Germany	null
+12	53	Saarland Univ., Germany	null
+12	54	Saarland Univ., Germany	null
+12	55	Saarland Univ., Germany	null
+12	56	Saarland Univ., Germany	Microsoft Research
+12	57	Saarland Univ., Germany	null
+12	58	Saarland Univ., Germany	null
+12	59	Saarland Univ., Germany	Microsoft Research, Redmond, WA, USA
+12	60	Saarland Univ., Germany	Microsoft Research, Seattle, WA, USA
+12	61	Saarland Univ., Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+12	62	Saarland Univ., Germany	Microsoft Research Redmond, WA, USA
+12	63	Saarland Univ., Germany	Microsoft Research, Redmond, WA, USA
+12	64	Saarland Univ., Germany	Microsoft Research
+12	65	Saarland Univ., Germany	null
+12	66	Saarland Univ., Germany	Saarland University
+13	14	null	null
+13	15	null	Saarland University, Saarbrücken, Germany
+13	16	null	University of Calgary, Calgary, AB, Canada
+13	17	null	null
+13	18	null	Saarland University, Saarbrücken, Germany
+13	19	null	Saarland University, Germany
+13	20	null	null
+13	21	null	Saarland University, Saarbrücken, Germany
+13	22	null	null
+13	23	null	null
+13	24	null	Saarland University, Saarbrücken, Germany
+13	25	null	University of Calgary, Calgary, AB, Canada
+13	26	null	null
+13	27	null	University of Calgary, Calgary, AB, Canada
+13	28	null	null
+13	29	null	null
+13	30	null	Saarland University, Germany
+13	31	null	Saarland University, Saarbrucken, Germany
+13	32	null	null
+13	33	null	Saarland University, Saarbrücken, Germany
+13	34	null	Saarland University, Saarbrücken, Germany
+13	35	null	University of Calgary, Canada
+13	36	null	null
+13	37	null	null
+13	38	null	null
+13	39	null	null
+13	40	null	University of Calgary, Alberta, Canada
+13	41	null	University of Calgary, AB, Canada
+13	42	null	Saarland University, Germany
+13	43	null	Saarland University, Saarbrücken, Germany
+13	44	null	Saarland University, Saarbrücken, Germany
+13	45	null	University of Calgary, Calgary, Alberta, Canada
+13	46	null	null
+13	47	null	null
+13	48	null	null
+13	49	null	null
+13	50	null	University of Calgary, Calgary
+13	51	null	null
+13	52	null	null
+13	53	null	null
+13	54	null	null
+13	55	null	null
+13	56	null	Microsoft Research
+13	57	null	null
+13	58	null	null
+13	59	null	Microsoft Research, Redmond, WA, USA
+13	60	null	Microsoft Research, Seattle, WA, USA
+13	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+13	62	null	Microsoft Research Redmond, WA, USA
+13	63	null	Microsoft Research, Redmond, WA, USA
+13	64	null	Microsoft Research
+13	65	null	null
+13	66	null	Saarland University
+14	15	null	Saarland University, Saarbrücken, Germany
+14	16	null	University of Calgary, Calgary, AB, Canada
+14	17	null	null
+14	18	null	Saarland University, Saarbrücken, Germany
+14	19	null	Saarland University, Germany
+14	20	null	null
+14	21	null	Saarland University, Saarbrücken, Germany
+14	22	null	null
+14	23	null	null
+14	24	null	Saarland University, Saarbrücken, Germany
+14	25	null	University of Calgary, Calgary, AB, Canada
+14	26	null	null
+14	27	null	University of Calgary, Calgary, AB, Canada
+14	28	null	null
+14	29	null	null
+14	30	null	Saarland University, Germany
+14	31	null	Saarland University, Saarbrucken, Germany
+14	32	null	null
+14	33	null	Saarland University, Saarbrücken, Germany
+14	34	null	Saarland University, Saarbrücken, Germany
+14	35	null	University of Calgary, Canada
+14	36	null	null
+14	37	null	null
+14	38	null	null
+14	39	null	null
+14	40	null	University of Calgary, Alberta, Canada
+14	41	null	University of Calgary, AB, Canada
+14	42	null	Saarland University, Germany
+14	43	null	Saarland University, Saarbrücken, Germany
+14	44	null	Saarland University, Saarbrücken, Germany
+14	45	null	University of Calgary, Calgary, Alberta, Canada
+14	46	null	null
+14	47	null	null
+14	48	null	null
+14	49	null	null
+14	50	null	University of Calgary, Calgary
+14	51	null	null
+14	52	null	null
+14	53	null	null
+14	54	null	null
+14	55	null	null
+14	56	null	Microsoft Research
+14	57	null	null
+14	58	null	null
+14	59	null	Microsoft Research, Redmond, WA, USA
+14	60	null	Microsoft Research, Seattle, WA, USA
+14	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+14	62	null	Microsoft Research Redmond, WA, USA
+14	63	null	Microsoft Research, Redmond, WA, USA
+14	64	null	Microsoft Research
+14	65	null	null
+14	66	null	Saarland University
+15	16	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+15	17	Saarland University, Saarbrücken, Germany	null
+15	18	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	19	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+15	20	Saarland University, Saarbrücken, Germany	null
+15	21	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	22	Saarland University, Saarbrücken, Germany	null
+15	23	Saarland University, Saarbrücken, Germany	null
+15	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	25	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+15	26	Saarland University, Saarbrücken, Germany	null
+15	27	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+15	28	Saarland University, Saarbrücken, Germany	null
+15	29	Saarland University, Saarbrücken, Germany	null
+15	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+15	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+15	32	Saarland University, Saarbrücken, Germany	null
+15	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	35	Saarland University, Saarbrücken, Germany	University of Calgary, Canada
+15	36	Saarland University, Saarbrücken, Germany	null
+15	37	Saarland University, Saarbrücken, Germany	null
+15	38	Saarland University, Saarbrücken, Germany	null
+15	39	Saarland University, Saarbrücken, Germany	null
+15	40	Saarland University, Saarbrücken, Germany	University of Calgary, Alberta, Canada
+15	41	Saarland University, Saarbrücken, Germany	University of Calgary, AB, Canada
+15	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+15	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+15	46	Saarland University, Saarbrücken, Germany	null
+15	47	Saarland University, Saarbrücken, Germany	null
+15	48	Saarland University, Saarbrücken, Germany	null
+15	49	Saarland University, Saarbrücken, Germany	null
+15	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+15	51	Saarland University, Saarbrücken, Germany	null
+15	52	Saarland University, Saarbrücken, Germany	null
+15	53	Saarland University, Saarbrücken, Germany	null
+15	54	Saarland University, Saarbrücken, Germany	null
+15	55	Saarland University, Saarbrücken, Germany	null
+15	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+15	57	Saarland University, Saarbrücken, Germany	null
+15	58	Saarland University, Saarbrücken, Germany	null
+15	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+15	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+15	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+15	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+15	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+15	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+15	65	Saarland University, Saarbrücken, Germany	null
+15	66	Saarland University, Saarbrücken, Germany	Saarland University
+16	17	University of Calgary, Calgary, AB, Canada	null
+16	18	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+16	19	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+16	20	University of Calgary, Calgary, AB, Canada	null
+16	21	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+16	22	University of Calgary, Calgary, AB, Canada	null
+16	23	University of Calgary, Calgary, AB, Canada	null
+16	24	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+16	25	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+16	26	University of Calgary, Calgary, AB, Canada	null
+16	27	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+16	28	University of Calgary, Calgary, AB, Canada	null
+16	29	University of Calgary, Calgary, AB, Canada	null
+16	30	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+16	31	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrucken, Germany
+16	32	University of Calgary, Calgary, AB, Canada	null
+16	33	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+16	34	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+16	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+16	36	University of Calgary, Calgary, AB, Canada	null
+16	37	University of Calgary, Calgary, AB, Canada	null
+16	38	University of Calgary, Calgary, AB, Canada	null
+16	39	University of Calgary, Calgary, AB, Canada	null
+16	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+16	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+16	42	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+16	43	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+16	44	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+16	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+16	46	University of Calgary, Calgary, AB, Canada	null
+16	47	University of Calgary, Calgary, AB, Canada	null
+16	48	University of Calgary, Calgary, AB, Canada	null
+16	49	University of Calgary, Calgary, AB, Canada	null
+16	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+16	51	University of Calgary, Calgary, AB, Canada	null
+16	52	University of Calgary, Calgary, AB, Canada	null
+16	53	University of Calgary, Calgary, AB, Canada	null
+16	54	University of Calgary, Calgary, AB, Canada	null
+16	55	University of Calgary, Calgary, AB, Canada	null
+16	56	University of Calgary, Calgary, AB, Canada	Microsoft Research
+16	57	University of Calgary, Calgary, AB, Canada	null
+16	58	University of Calgary, Calgary, AB, Canada	null
+16	59	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+16	60	University of Calgary, Calgary, AB, Canada	Microsoft Research, Seattle, WA, USA
+16	61	University of Calgary, Calgary, AB, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+16	62	University of Calgary, Calgary, AB, Canada	Microsoft Research Redmond, WA, USA
+16	63	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+16	64	University of Calgary, Calgary, AB, Canada	Microsoft Research
+16	65	University of Calgary, Calgary, AB, Canada	null
+16	66	University of Calgary, Calgary, AB, Canada	Saarland University
+17	18	null	Saarland University, Saarbrücken, Germany
+17	19	null	Saarland University, Germany
+17	20	null	null
+17	21	null	Saarland University, Saarbrücken, Germany
+17	22	null	null
+17	23	null	null
+17	24	null	Saarland University, Saarbrücken, Germany
+17	25	null	University of Calgary, Calgary, AB, Canada
+17	26	null	null
+17	27	null	University of Calgary, Calgary, AB, Canada
+17	28	null	null
+17	29	null	null
+17	30	null	Saarland University, Germany
+17	31	null	Saarland University, Saarbrucken, Germany
+17	32	null	null
+17	33	null	Saarland University, Saarbrücken, Germany
+17	34	null	Saarland University, Saarbrücken, Germany
+17	35	null	University of Calgary, Canada
+17	36	null	null
+17	37	null	null
+17	38	null	null
+17	39	null	null
+17	40	null	University of Calgary, Alberta, Canada
+17	41	null	University of Calgary, AB, Canada
+17	42	null	Saarland University, Germany
+17	43	null	Saarland University, Saarbrücken, Germany
+17	44	null	Saarland University, Saarbrücken, Germany
+17	45	null	University of Calgary, Calgary, Alberta, Canada
+17	46	null	null
+17	47	null	null
+17	48	null	null
+17	49	null	null
+17	50	null	University of Calgary, Calgary
+17	51	null	null
+17	52	null	null
+17	53	null	null
+17	54	null	null
+17	55	null	null
+17	56	null	Microsoft Research
+17	57	null	null
+17	58	null	null
+17	59	null	Microsoft Research, Redmond, WA, USA
+17	60	null	Microsoft Research, Seattle, WA, USA
+17	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+17	62	null	Microsoft Research Redmond, WA, USA
+17	63	null	Microsoft Research, Redmond, WA, USA
+17	64	null	Microsoft Research
+17	65	null	null
+17	66	null	Saarland University
+18	19	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+18	20	Saarland University, Saarbrücken, Germany	null
+18	21	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	22	Saarland University, Saarbrücken, Germany	null
+18	23	Saarland University, Saarbrücken, Germany	null
+18	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	25	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+18	26	Saarland University, Saarbrücken, Germany	null
+18	27	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+18	28	Saarland University, Saarbrücken, Germany	null
+18	29	Saarland University, Saarbrücken, Germany	null
+18	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+18	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+18	32	Saarland University, Saarbrücken, Germany	null
+18	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	35	Saarland University, Saarbrücken, Germany	University of Calgary, Canada
+18	36	Saarland University, Saarbrücken, Germany	null
+18	37	Saarland University, Saarbrücken, Germany	null
+18	38	Saarland University, Saarbrücken, Germany	null
+18	39	Saarland University, Saarbrücken, Germany	null
+18	40	Saarland University, Saarbrücken, Germany	University of Calgary, Alberta, Canada
+18	41	Saarland University, Saarbrücken, Germany	University of Calgary, AB, Canada
+18	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+18	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+18	46	Saarland University, Saarbrücken, Germany	null
+18	47	Saarland University, Saarbrücken, Germany	null
+18	48	Saarland University, Saarbrücken, Germany	null
+18	49	Saarland University, Saarbrücken, Germany	null
+18	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+18	51	Saarland University, Saarbrücken, Germany	null
+18	52	Saarland University, Saarbrücken, Germany	null
+18	53	Saarland University, Saarbrücken, Germany	null
+18	54	Saarland University, Saarbrücken, Germany	null
+18	55	Saarland University, Saarbrücken, Germany	null
+18	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+18	57	Saarland University, Saarbrücken, Germany	null
+18	58	Saarland University, Saarbrücken, Germany	null
+18	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+18	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+18	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+18	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+18	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+18	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+18	65	Saarland University, Saarbrücken, Germany	null
+18	66	Saarland University, Saarbrücken, Germany	Saarland University
+19	20	Saarland University, Germany	null
+19	21	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	22	Saarland University, Germany	null
+19	23	Saarland University, Germany	null
+19	24	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	25	Saarland University, Germany	University of Calgary, Calgary, AB, Canada
+19	26	Saarland University, Germany	null
+19	27	Saarland University, Germany	University of Calgary, Calgary, AB, Canada
+19	28	Saarland University, Germany	null
+19	29	Saarland University, Germany	null
+19	30	Saarland University, Germany	Saarland University, Germany
+19	31	Saarland University, Germany	Saarland University, Saarbrucken, Germany
+19	32	Saarland University, Germany	null
+19	33	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	34	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	35	Saarland University, Germany	University of Calgary, Canada
+19	36	Saarland University, Germany	null
+19	37	Saarland University, Germany	null
+19	38	Saarland University, Germany	null
+19	39	Saarland University, Germany	null
+19	40	Saarland University, Germany	University of Calgary, Alberta, Canada
+19	41	Saarland University, Germany	University of Calgary, AB, Canada
+19	42	Saarland University, Germany	Saarland University, Germany
+19	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	45	Saarland University, Germany	University of Calgary, Calgary, Alberta, Canada
+19	46	Saarland University, Germany	null
+19	47	Saarland University, Germany	null
+19	48	Saarland University, Germany	null
+19	49	Saarland University, Germany	null
+19	50	Saarland University, Germany	University of Calgary, Calgary
+19	51	Saarland University, Germany	null
+19	52	Saarland University, Germany	null
+19	53	Saarland University, Germany	null
+19	54	Saarland University, Germany	null
+19	55	Saarland University, Germany	null
+19	56	Saarland University, Germany	Microsoft Research
+19	57	Saarland University, Germany	null
+19	58	Saarland University, Germany	null
+19	59	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+19	60	Saarland University, Germany	Microsoft Research, Seattle, WA, USA
+19	61	Saarland University, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+19	62	Saarland University, Germany	Microsoft Research Redmond, WA, USA
+19	63	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+19	64	Saarland University, Germany	Microsoft Research
+19	65	Saarland University, Germany	null
+19	66	Saarland University, Germany	Saarland University
+20	21	null	Saarland University, Saarbrücken, Germany
+20	22	null	null
+20	23	null	null
+20	24	null	Saarland University, Saarbrücken, Germany
+20	25	null	University of Calgary, Calgary, AB, Canada
+20	26	null	null
+20	27	null	University of Calgary, Calgary, AB, Canada
+20	28	null	null
+20	29	null	null
+20	30	null	Saarland University, Germany
+20	31	null	Saarland University, Saarbrucken, Germany
+20	32	null	null
+20	33	null	Saarland University, Saarbrücken, Germany
+20	34	null	Saarland University, Saarbrücken, Germany
+20	35	null	University of Calgary, Canada
+20	36	null	null
+20	37	null	null
+20	38	null	null
+20	39	null	null
+20	40	null	University of Calgary, Alberta, Canada
+20	41	null	University of Calgary, AB, Canada
+20	42	null	Saarland University, Germany
+20	43	null	Saarland University, Saarbrücken, Germany
+20	44	null	Saarland University, Saarbrücken, Germany
+20	45	null	University of Calgary, Calgary, Alberta, Canada
+20	46	null	null
+20	47	null	null
+20	48	null	null
+20	49	null	null
+20	50	null	University of Calgary, Calgary
+20	51	null	null
+20	52	null	null
+20	53	null	null
+20	54	null	null
+20	55	null	null
+20	56	null	Microsoft Research
+20	57	null	null
+20	58	null	null
+20	59	null	Microsoft Research, Redmond, WA, USA
+20	60	null	Microsoft Research, Seattle, WA, USA
+20	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+20	62	null	Microsoft Research Redmond, WA, USA
+20	63	null	Microsoft Research, Redmond, WA, USA
+20	64	null	Microsoft Research
+20	65	null	null
+20	66	null	Saarland University
+21	22	Saarland University, Saarbrücken, Germany	null
+21	23	Saarland University, Saarbrücken, Germany	null
+21	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	25	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+21	26	Saarland University, Saarbrücken, Germany	null
+21	27	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+21	28	Saarland University, Saarbrücken, Germany	null
+21	29	Saarland University, Saarbrücken, Germany	null
+21	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+21	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+21	32	Saarland University, Saarbrücken, Germany	null
+21	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	35	Saarland University, Saarbrücken, Germany	University of Calgary, Canada
+21	36	Saarland University, Saarbrücken, Germany	null
+21	37	Saarland University, Saarbrücken, Germany	null
+21	38	Saarland University, Saarbrücken, Germany	null
+21	39	Saarland University, Saarbrücken, Germany	null
+21	40	Saarland University, Saarbrücken, Germany	University of Calgary, Alberta, Canada
+21	41	Saarland University, Saarbrücken, Germany	University of Calgary, AB, Canada
+21	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+21	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+21	46	Saarland University, Saarbrücken, Germany	null
+21	47	Saarland University, Saarbrücken, Germany	null
+21	48	Saarland University, Saarbrücken, Germany	null
+21	49	Saarland University, Saarbrücken, Germany	null
+21	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+21	51	Saarland University, Saarbrücken, Germany	null
+21	52	Saarland University, Saarbrücken, Germany	null
+21	53	Saarland University, Saarbrücken, Germany	null
+21	54	Saarland University, Saarbrücken, Germany	null
+21	55	Saarland University, Saarbrücken, Germany	null
+21	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+21	57	Saarland University, Saarbrücken, Germany	null
+21	58	Saarland University, Saarbrücken, Germany	null
+21	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+21	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+21	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+21	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+21	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+21	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+21	65	Saarland University, Saarbrücken, Germany	null
+21	66	Saarland University, Saarbrücken, Germany	Saarland University
+22	23	null	null
+22	24	null	Saarland University, Saarbrücken, Germany
+22	25	null	University of Calgary, Calgary, AB, Canada
+22	26	null	null
+22	27	null	University of Calgary, Calgary, AB, Canada
+22	28	null	null
+22	29	null	null
+22	30	null	Saarland University, Germany
+22	31	null	Saarland University, Saarbrucken, Germany
+22	32	null	null
+22	33	null	Saarland University, Saarbrücken, Germany
+22	34	null	Saarland University, Saarbrücken, Germany
+22	35	null	University of Calgary, Canada
+22	36	null	null
+22	37	null	null
+22	38	null	null
+22	39	null	null
+22	40	null	University of Calgary, Alberta, Canada
+22	41	null	University of Calgary, AB, Canada
+22	42	null	Saarland University, Germany
+22	43	null	Saarland University, Saarbrücken, Germany
+22	44	null	Saarland University, Saarbrücken, Germany
+22	45	null	University of Calgary, Calgary, Alberta, Canada
+22	46	null	null
+22	47	null	null
+22	48	null	null
+22	49	null	null
+22	50	null	University of Calgary, Calgary
+22	51	null	null
+22	52	null	null
+22	53	null	null
+22	54	null	null
+22	55	null	null
+22	56	null	Microsoft Research
+22	57	null	null
+22	58	null	null
+22	59	null	Microsoft Research, Redmond, WA, USA
+22	60	null	Microsoft Research, Seattle, WA, USA
+22	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+22	62	null	Microsoft Research Redmond, WA, USA
+22	63	null	Microsoft Research, Redmond, WA, USA
+22	64	null	Microsoft Research
+22	65	null	null
+22	66	null	Saarland University
+23	24	null	Saarland University, Saarbrücken, Germany
+23	25	null	University of Calgary, Calgary, AB, Canada
+23	26	null	null
+23	27	null	University of Calgary, Calgary, AB, Canada
+23	28	null	null
+23	29	null	null
+23	30	null	Saarland University, Germany
+23	31	null	Saarland University, Saarbrucken, Germany
+23	32	null	null
+23	33	null	Saarland University, Saarbrücken, Germany
+23	34	null	Saarland University, Saarbrücken, Germany
+23	35	null	University of Calgary, Canada
+23	36	null	null
+23	37	null	null
+23	38	null	null
+23	39	null	null
+23	40	null	University of Calgary, Alberta, Canada
+23	41	null	University of Calgary, AB, Canada
+23	42	null	Saarland University, Germany
+23	43	null	Saarland University, Saarbrücken, Germany
+23	44	null	Saarland University, Saarbrücken, Germany
+23	45	null	University of Calgary, Calgary, Alberta, Canada
+23	46	null	null
+23	47	null	null
+23	48	null	null
+23	49	null	null
+23	50	null	University of Calgary, Calgary
+23	51	null	null
+23	52	null	null
+23	53	null	null
+23	54	null	null
+23	55	null	null
+23	56	null	Microsoft Research
+23	57	null	null
+23	58	null	null
+23	59	null	Microsoft Research, Redmond, WA, USA
+23	60	null	Microsoft Research, Seattle, WA, USA
+23	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+23	62	null	Microsoft Research Redmond, WA, USA
+23	63	null	Microsoft Research, Redmond, WA, USA
+23	64	null	Microsoft Research
+23	65	null	null
+23	66	null	Saarland University
+24	25	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+24	26	Saarland University, Saarbrücken, Germany	null
+24	27	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, AB, Canada
+24	28	Saarland University, Saarbrücken, Germany	null
+24	29	Saarland University, Saarbrücken, Germany	null
+24	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+24	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+24	32	Saarland University, Saarbrücken, Germany	null
+24	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	35	Saarland University, Saarbrücken, Germany	University of Calgary, Canada
+24	36	Saarland University, Saarbrücken, Germany	null
+24	37	Saarland University, Saarbrücken, Germany	null
+24	38	Saarland University, Saarbrücken, Germany	null
+24	39	Saarland University, Saarbrücken, Germany	null
+24	40	Saarland University, Saarbrücken, Germany	University of Calgary, Alberta, Canada
+24	41	Saarland University, Saarbrücken, Germany	University of Calgary, AB, Canada
+24	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+24	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+24	46	Saarland University, Saarbrücken, Germany	null
+24	47	Saarland University, Saarbrücken, Germany	null
+24	48	Saarland University, Saarbrücken, Germany	null
+24	49	Saarland University, Saarbrücken, Germany	null
+24	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+24	51	Saarland University, Saarbrücken, Germany	null
+24	52	Saarland University, Saarbrücken, Germany	null
+24	53	Saarland University, Saarbrücken, Germany	null
+24	54	Saarland University, Saarbrücken, Germany	null
+24	55	Saarland University, Saarbrücken, Germany	null
+24	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+24	57	Saarland University, Saarbrücken, Germany	null
+24	58	Saarland University, Saarbrücken, Germany	null
+24	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+24	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+24	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+24	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+24	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+24	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+24	65	Saarland University, Saarbrücken, Germany	null
+24	66	Saarland University, Saarbrücken, Germany	Saarland University
+25	26	University of Calgary, Calgary, AB, Canada	null
+25	27	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+25	28	University of Calgary, Calgary, AB, Canada	null
+25	29	University of Calgary, Calgary, AB, Canada	null
+25	30	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+25	31	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrucken, Germany
+25	32	University of Calgary, Calgary, AB, Canada	null
+25	33	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+25	34	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+25	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+25	36	University of Calgary, Calgary, AB, Canada	null
+25	37	University of Calgary, Calgary, AB, Canada	null
+25	38	University of Calgary, Calgary, AB, Canada	null
+25	39	University of Calgary, Calgary, AB, Canada	null
+25	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+25	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+25	42	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+25	43	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+25	44	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+25	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+25	46	University of Calgary, Calgary, AB, Canada	null
+25	47	University of Calgary, Calgary, AB, Canada	null
+25	48	University of Calgary, Calgary, AB, Canada	null
+25	49	University of Calgary, Calgary, AB, Canada	null
+25	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+25	51	University of Calgary, Calgary, AB, Canada	null
+25	52	University of Calgary, Calgary, AB, Canada	null
+25	53	University of Calgary, Calgary, AB, Canada	null
+25	54	University of Calgary, Calgary, AB, Canada	null
+25	55	University of Calgary, Calgary, AB, Canada	null
+25	56	University of Calgary, Calgary, AB, Canada	Microsoft Research
+25	57	University of Calgary, Calgary, AB, Canada	null
+25	58	University of Calgary, Calgary, AB, Canada	null
+25	59	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+25	60	University of Calgary, Calgary, AB, Canada	Microsoft Research, Seattle, WA, USA
+25	61	University of Calgary, Calgary, AB, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+25	62	University of Calgary, Calgary, AB, Canada	Microsoft Research Redmond, WA, USA
+25	63	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+25	64	University of Calgary, Calgary, AB, Canada	Microsoft Research
+25	65	University of Calgary, Calgary, AB, Canada	null
+25	66	University of Calgary, Calgary, AB, Canada	Saarland University
+26	27	null	University of Calgary, Calgary, AB, Canada
+26	28	null	null
+26	29	null	null
+26	30	null	Saarland University, Germany
+26	31	null	Saarland University, Saarbrucken, Germany
+26	32	null	null
+26	33	null	Saarland University, Saarbrücken, Germany
+26	34	null	Saarland University, Saarbrücken, Germany
+26	35	null	University of Calgary, Canada
+26	36	null	null
+26	37	null	null
+26	38	null	null
+26	39	null	null
+26	40	null	University of Calgary, Alberta, Canada
+26	41	null	University of Calgary, AB, Canada
+26	42	null	Saarland University, Germany
+26	43	null	Saarland University, Saarbrücken, Germany
+26	44	null	Saarland University, Saarbrücken, Germany
+26	45	null	University of Calgary, Calgary, Alberta, Canada
+26	46	null	null
+26	47	null	null
+26	48	null	null
+26	49	null	null
+26	50	null	University of Calgary, Calgary
+26	51	null	null
+26	52	null	null
+26	53	null	null
+26	54	null	null
+26	55	null	null
+26	56	null	Microsoft Research
+26	57	null	null
+26	58	null	null
+26	59	null	Microsoft Research, Redmond, WA, USA
+26	60	null	Microsoft Research, Seattle, WA, USA
+26	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+26	62	null	Microsoft Research Redmond, WA, USA
+26	63	null	Microsoft Research, Redmond, WA, USA
+26	64	null	Microsoft Research
+26	65	null	null
+26	66	null	Saarland University
+27	28	University of Calgary, Calgary, AB, Canada	null
+27	29	University of Calgary, Calgary, AB, Canada	null
+27	30	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+27	31	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrucken, Germany
+27	32	University of Calgary, Calgary, AB, Canada	null
+27	33	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+27	34	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+27	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+27	36	University of Calgary, Calgary, AB, Canada	null
+27	37	University of Calgary, Calgary, AB, Canada	null
+27	38	University of Calgary, Calgary, AB, Canada	null
+27	39	University of Calgary, Calgary, AB, Canada	null
+27	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+27	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+27	42	University of Calgary, Calgary, AB, Canada	Saarland University, Germany
+27	43	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+27	44	University of Calgary, Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+27	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+27	46	University of Calgary, Calgary, AB, Canada	null
+27	47	University of Calgary, Calgary, AB, Canada	null
+27	48	University of Calgary, Calgary, AB, Canada	null
+27	49	University of Calgary, Calgary, AB, Canada	null
+27	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+27	51	University of Calgary, Calgary, AB, Canada	null
+27	52	University of Calgary, Calgary, AB, Canada	null
+27	53	University of Calgary, Calgary, AB, Canada	null
+27	54	University of Calgary, Calgary, AB, Canada	null
+27	55	University of Calgary, Calgary, AB, Canada	null
+27	56	University of Calgary, Calgary, AB, Canada	Microsoft Research
+27	57	University of Calgary, Calgary, AB, Canada	null
+27	58	University of Calgary, Calgary, AB, Canada	null
+27	59	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+27	60	University of Calgary, Calgary, AB, Canada	Microsoft Research, Seattle, WA, USA
+27	61	University of Calgary, Calgary, AB, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+27	62	University of Calgary, Calgary, AB, Canada	Microsoft Research Redmond, WA, USA
+27	63	University of Calgary, Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+27	64	University of Calgary, Calgary, AB, Canada	Microsoft Research
+27	65	University of Calgary, Calgary, AB, Canada	null
+27	66	University of Calgary, Calgary, AB, Canada	Saarland University
+28	29	null	null
+28	30	null	Saarland University, Germany
+28	31	null	Saarland University, Saarbrucken, Germany
+28	32	null	null
+28	33	null	Saarland University, Saarbrücken, Germany
+28	34	null	Saarland University, Saarbrücken, Germany
+28	35	null	University of Calgary, Canada
+28	36	null	null
+28	37	null	null
+28	38	null	null
+28	39	null	null
+28	40	null	University of Calgary, Alberta, Canada
+28	41	null	University of Calgary, AB, Canada
+28	42	null	Saarland University, Germany
+28	43	null	Saarland University, Saarbrücken, Germany
+28	44	null	Saarland University, Saarbrücken, Germany
+28	45	null	University of Calgary, Calgary, Alberta, Canada
+28	46	null	null
+28	47	null	null
+28	48	null	null
+28	49	null	null
+28	50	null	University of Calgary, Calgary
+28	51	null	null
+28	52	null	null
+28	53	null	null
+28	54	null	null
+28	55	null	null
+28	56	null	Microsoft Research
+28	57	null	null
+28	58	null	null
+28	59	null	Microsoft Research, Redmond, WA, USA
+28	60	null	Microsoft Research, Seattle, WA, USA
+28	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+28	62	null	Microsoft Research Redmond, WA, USA
+28	63	null	Microsoft Research, Redmond, WA, USA
+28	64	null	Microsoft Research
+28	65	null	null
+28	66	null	Saarland University
+29	30	null	Saarland University, Germany
+29	31	null	Saarland University, Saarbrucken, Germany
+29	32	null	null
+29	33	null	Saarland University, Saarbrücken, Germany
+29	34	null	Saarland University, Saarbrücken, Germany
+29	35	null	University of Calgary, Canada
+29	36	null	null
+29	37	null	null
+29	38	null	null
+29	39	null	null
+29	40	null	University of Calgary, Alberta, Canada
+29	41	null	University of Calgary, AB, Canada
+29	42	null	Saarland University, Germany
+29	43	null	Saarland University, Saarbrücken, Germany
+29	44	null	Saarland University, Saarbrücken, Germany
+29	45	null	University of Calgary, Calgary, Alberta, Canada
+29	46	null	null
+29	47	null	null
+29	48	null	null
+29	49	null	null
+29	50	null	University of Calgary, Calgary
+29	51	null	null
+29	52	null	null
+29	53	null	null
+29	54	null	null
+29	55	null	null
+29	56	null	Microsoft Research
+29	57	null	null
+29	58	null	null
+29	59	null	Microsoft Research, Redmond, WA, USA
+29	60	null	Microsoft Research, Seattle, WA, USA
+29	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+29	62	null	Microsoft Research Redmond, WA, USA
+29	63	null	Microsoft Research, Redmond, WA, USA
+29	64	null	Microsoft Research
+29	65	null	null
+29	66	null	Saarland University
+30	31	Saarland University, Germany	Saarland University, Saarbrucken, Germany
+30	32	Saarland University, Germany	null
+30	33	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	34	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	35	Saarland University, Germany	University of Calgary, Canada
+30	36	Saarland University, Germany	null
+30	37	Saarland University, Germany	null
+30	38	Saarland University, Germany	null
+30	39	Saarland University, Germany	null
+30	40	Saarland University, Germany	University of Calgary, Alberta, Canada
+30	41	Saarland University, Germany	University of Calgary, AB, Canada
+30	42	Saarland University, Germany	Saarland University, Germany
+30	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	45	Saarland University, Germany	University of Calgary, Calgary, Alberta, Canada
+30	46	Saarland University, Germany	null
+30	47	Saarland University, Germany	null
+30	48	Saarland University, Germany	null
+30	49	Saarland University, Germany	null
+30	50	Saarland University, Germany	University of Calgary, Calgary
+30	51	Saarland University, Germany	null
+30	52	Saarland University, Germany	null
+30	53	Saarland University, Germany	null
+30	54	Saarland University, Germany	null
+30	55	Saarland University, Germany	null
+30	56	Saarland University, Germany	Microsoft Research
+30	57	Saarland University, Germany	null
+30	58	Saarland University, Germany	null
+30	59	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+30	60	Saarland University, Germany	Microsoft Research, Seattle, WA, USA
+30	61	Saarland University, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+30	62	Saarland University, Germany	Microsoft Research Redmond, WA, USA
+30	63	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+30	64	Saarland University, Germany	Microsoft Research
+30	65	Saarland University, Germany	null
+30	66	Saarland University, Germany	Saarland University
+31	32	Saarland University, Saarbrucken, Germany	null
+31	33	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	34	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	35	Saarland University, Saarbrucken, Germany	University of Calgary, Canada
+31	36	Saarland University, Saarbrucken, Germany	null
+31	37	Saarland University, Saarbrucken, Germany	null
+31	38	Saarland University, Saarbrucken, Germany	null
+31	39	Saarland University, Saarbrucken, Germany	null
+31	40	Saarland University, Saarbrucken, Germany	University of Calgary, Alberta, Canada
+31	41	Saarland University, Saarbrucken, Germany	University of Calgary, AB, Canada
+31	42	Saarland University, Saarbrucken, Germany	Saarland University, Germany
+31	43	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	44	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	45	Saarland University, Saarbrucken, Germany	University of Calgary, Calgary, Alberta, Canada
+31	46	Saarland University, Saarbrucken, Germany	null
+31	47	Saarland University, Saarbrucken, Germany	null
+31	48	Saarland University, Saarbrucken, Germany	null
+31	49	Saarland University, Saarbrucken, Germany	null
+31	50	Saarland University, Saarbrucken, Germany	University of Calgary, Calgary
+31	51	Saarland University, Saarbrucken, Germany	null
+31	52	Saarland University, Saarbrucken, Germany	null
+31	53	Saarland University, Saarbrucken, Germany	null
+31	54	Saarland University, Saarbrucken, Germany	null
+31	55	Saarland University, Saarbrucken, Germany	null
+31	56	Saarland University, Saarbrucken, Germany	Microsoft Research
+31	57	Saarland University, Saarbrucken, Germany	null
+31	58	Saarland University, Saarbrucken, Germany	null
+31	59	Saarland University, Saarbrucken, Germany	Microsoft Research, Redmond, WA, USA
+31	60	Saarland University, Saarbrucken, Germany	Microsoft Research, Seattle, WA, USA
+31	61	Saarland University, Saarbrucken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+31	62	Saarland University, Saarbrucken, Germany	Microsoft Research Redmond, WA, USA
+31	63	Saarland University, Saarbrucken, Germany	Microsoft Research, Redmond, WA, USA
+31	64	Saarland University, Saarbrucken, Germany	Microsoft Research
+31	65	Saarland University, Saarbrucken, Germany	null
+31	66	Saarland University, Saarbrucken, Germany	Saarland University
+32	33	null	Saarland University, Saarbrücken, Germany
+32	34	null	Saarland University, Saarbrücken, Germany
+32	35	null	University of Calgary, Canada
+32	36	null	null
+32	37	null	null
+32	38	null	null
+32	39	null	null
+32	40	null	University of Calgary, Alberta, Canada
+32	41	null	University of Calgary, AB, Canada
+32	42	null	Saarland University, Germany
+32	43	null	Saarland University, Saarbrücken, Germany
+32	44	null	Saarland University, Saarbrücken, Germany
+32	45	null	University of Calgary, Calgary, Alberta, Canada
+32	46	null	null
+32	47	null	null
+32	48	null	null
+32	49	null	null
+32	50	null	University of Calgary, Calgary
+32	51	null	null
+32	52	null	null
+32	53	null	null
+32	54	null	null
+32	55	null	null
+32	56	null	Microsoft Research
+32	57	null	null
+32	58	null	null
+32	59	null	Microsoft Research, Redmond, WA, USA
+32	60	null	Microsoft Research, Seattle, WA, USA
+32	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+32	62	null	Microsoft Research Redmond, WA, USA
+32	63	null	Microsoft Research, Redmond, WA, USA
+32	64	null	Microsoft Research
+32	65	null	null
+32	66	null	Saarland University
+33	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+33	35	Saarland University, Saarbrücken, Germany	University of Calgary, Canada
+33	36	Saarland University, Saarbrücken, Germany	null
+33	37	Saarland University, Saarbrücken, Germany	null
+33	38	Saarland University, Saarbrücken, Germany	null
+33	39	Saarland University, Saarbrücken, Germany	null
+33	40	Saarland University, Saarbrücken, Germany	University of Calgary, Alberta, Canada
+33	41	Saarland University, Saarbrücken, Germany	University of Calgary, AB, Canada
+33	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+33	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+33	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+33	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+33	46	Saarland University, Saarbrücken, Germany	null
+33	47	Saarland University, Saarbrücken, Germany	null
+33	48	Saarland University, Saarbrücken, Germany	null
+33	49	Saarland University, Saarbrücken, Germany	null
+33	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+33	51	Saarland University, Saarbrücken, Germany	null
+33	52	Saarland University, Saarbrücken, Germany	null
+33	53	Saarland University, Saarbrücken, Germany	null
+33	54	Saarland University, Saarbrücken, Germany	null
+33	55	Saarland University, Saarbrücken, Germany	null
+33	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+33	57	Saarland University, Saarbrücken, Germany	null
+33	58	Saarland University, Saarbrücken, Germany	null
+33	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+33	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+33	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+33	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+33	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+33	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+33	65	Saarland University, Saarbrücken, Germany	null
+33	66	Saarland University, Saarbrücken, Germany	Saarland University
+34	35	Saarland University, Saarbrücken, Germany	University of Calgary, Canada
+34	36	Saarland University, Saarbrücken, Germany	null
+34	37	Saarland University, Saarbrücken, Germany	null
+34	38	Saarland University, Saarbrücken, Germany	null
+34	39	Saarland University, Saarbrücken, Germany	null
+34	40	Saarland University, Saarbrücken, Germany	University of Calgary, Alberta, Canada
+34	41	Saarland University, Saarbrücken, Germany	University of Calgary, AB, Canada
+34	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+34	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+34	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+34	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+34	46	Saarland University, Saarbrücken, Germany	null
+34	47	Saarland University, Saarbrücken, Germany	null
+34	48	Saarland University, Saarbrücken, Germany	null
+34	49	Saarland University, Saarbrücken, Germany	null
+34	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+34	51	Saarland University, Saarbrücken, Germany	null
+34	52	Saarland University, Saarbrücken, Germany	null
+34	53	Saarland University, Saarbrücken, Germany	null
+34	54	Saarland University, Saarbrücken, Germany	null
+34	55	Saarland University, Saarbrücken, Germany	null
+34	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+34	57	Saarland University, Saarbrücken, Germany	null
+34	58	Saarland University, Saarbrücken, Germany	null
+34	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+34	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+34	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+34	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+34	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+34	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+34	65	Saarland University, Saarbrücken, Germany	null
+34	66	Saarland University, Saarbrücken, Germany	Saarland University
+35	36	University of Calgary, Canada	null
+35	37	University of Calgary, Canada	null
+35	38	University of Calgary, Canada	null
+35	39	University of Calgary, Canada	null
+35	40	University of Calgary, Canada	University of Calgary, Alberta, Canada
+35	41	University of Calgary, Canada	University of Calgary, AB, Canada
+35	42	University of Calgary, Canada	Saarland University, Germany
+35	43	University of Calgary, Canada	Saarland University, Saarbrücken, Germany
+35	44	University of Calgary, Canada	Saarland University, Saarbrücken, Germany
+35	45	University of Calgary, Canada	University of Calgary, Calgary, Alberta, Canada
+35	46	University of Calgary, Canada	null
+35	47	University of Calgary, Canada	null
+35	48	University of Calgary, Canada	null
+35	49	University of Calgary, Canada	null
+35	50	University of Calgary, Canada	University of Calgary, Calgary
+35	51	University of Calgary, Canada	null
+35	52	University of Calgary, Canada	null
+35	53	University of Calgary, Canada	null
+35	54	University of Calgary, Canada	null
+35	55	University of Calgary, Canada	null
+35	56	University of Calgary, Canada	Microsoft Research
+35	57	University of Calgary, Canada	null
+35	58	University of Calgary, Canada	null
+35	59	University of Calgary, Canada	Microsoft Research, Redmond, WA, USA
+35	60	University of Calgary, Canada	Microsoft Research, Seattle, WA, USA
+35	61	University of Calgary, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+35	62	University of Calgary, Canada	Microsoft Research Redmond, WA, USA
+35	63	University of Calgary, Canada	Microsoft Research, Redmond, WA, USA
+35	64	University of Calgary, Canada	Microsoft Research
+35	65	University of Calgary, Canada	null
+35	66	University of Calgary, Canada	Saarland University
+36	37	null	null
+36	38	null	null
+36	39	null	null
+36	40	null	University of Calgary, Alberta, Canada
+36	41	null	University of Calgary, AB, Canada
+36	42	null	Saarland University, Germany
+36	43	null	Saarland University, Saarbrücken, Germany
+36	44	null	Saarland University, Saarbrücken, Germany
+36	45	null	University of Calgary, Calgary, Alberta, Canada
+36	46	null	null
+36	47	null	null
+36	48	null	null
+36	49	null	null
+36	50	null	University of Calgary, Calgary
+36	51	null	null
+36	52	null	null
+36	53	null	null
+36	54	null	null
+36	55	null	null
+36	56	null	Microsoft Research
+36	57	null	null
+36	58	null	null
+36	59	null	Microsoft Research, Redmond, WA, USA
+36	60	null	Microsoft Research, Seattle, WA, USA
+36	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+36	62	null	Microsoft Research Redmond, WA, USA
+36	63	null	Microsoft Research, Redmond, WA, USA
+36	64	null	Microsoft Research
+36	65	null	null
+36	66	null	Saarland University
+37	38	null	null
+37	39	null	null
+37	40	null	University of Calgary, Alberta, Canada
+37	41	null	University of Calgary, AB, Canada
+37	42	null	Saarland University, Germany
+37	43	null	Saarland University, Saarbrücken, Germany
+37	44	null	Saarland University, Saarbrücken, Germany
+37	45	null	University of Calgary, Calgary, Alberta, Canada
+37	46	null	null
+37	47	null	null
+37	48	null	null
+37	49	null	null
+37	50	null	University of Calgary, Calgary
+37	51	null	null
+37	52	null	null
+37	53	null	null
+37	54	null	null
+37	55	null	null
+37	56	null	Microsoft Research
+37	57	null	null
+37	58	null	null
+37	59	null	Microsoft Research, Redmond, WA, USA
+37	60	null	Microsoft Research, Seattle, WA, USA
+37	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+37	62	null	Microsoft Research Redmond, WA, USA
+37	63	null	Microsoft Research, Redmond, WA, USA
+37	64	null	Microsoft Research
+37	65	null	null
+37	66	null	Saarland University
+38	39	null	null
+38	40	null	University of Calgary, Alberta, Canada
+38	41	null	University of Calgary, AB, Canada
+38	42	null	Saarland University, Germany
+38	43	null	Saarland University, Saarbrücken, Germany
+38	44	null	Saarland University, Saarbrücken, Germany
+38	45	null	University of Calgary, Calgary, Alberta, Canada
+38	46	null	null
+38	47	null	null
+38	48	null	null
+38	49	null	null
+38	50	null	University of Calgary, Calgary
+38	51	null	null
+38	52	null	null
+38	53	null	null
+38	54	null	null
+38	55	null	null
+38	56	null	Microsoft Research
+38	57	null	null
+38	58	null	null
+38	59	null	Microsoft Research, Redmond, WA, USA
+38	60	null	Microsoft Research, Seattle, WA, USA
+38	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+38	62	null	Microsoft Research Redmond, WA, USA
+38	63	null	Microsoft Research, Redmond, WA, USA
+38	64	null	Microsoft Research
+38	65	null	null
+38	66	null	Saarland University
+39	40	null	University of Calgary, Alberta, Canada
+39	41	null	University of Calgary, AB, Canada
+39	42	null	Saarland University, Germany
+39	43	null	Saarland University, Saarbrücken, Germany
+39	44	null	Saarland University, Saarbrücken, Germany
+39	45	null	University of Calgary, Calgary, Alberta, Canada
+39	46	null	null
+39	47	null	null
+39	48	null	null
+39	49	null	null
+39	50	null	University of Calgary, Calgary
+39	51	null	null
+39	52	null	null
+39	53	null	null
+39	54	null	null
+39	55	null	null
+39	56	null	Microsoft Research
+39	57	null	null
+39	58	null	null
+39	59	null	Microsoft Research, Redmond, WA, USA
+39	60	null	Microsoft Research, Seattle, WA, USA
+39	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+39	62	null	Microsoft Research Redmond, WA, USA
+39	63	null	Microsoft Research, Redmond, WA, USA
+39	64	null	Microsoft Research
+39	65	null	null
+39	66	null	Saarland University
+40	41	University of Calgary, Alberta, Canada	University of Calgary, AB, Canada
+40	42	University of Calgary, Alberta, Canada	Saarland University, Germany
+40	43	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+40	44	University of Calgary, Alberta, Canada	Saarland University, Saarbrücken, Germany
+40	45	University of Calgary, Alberta, Canada	University of Calgary, Calgary, Alberta, Canada
+40	46	University of Calgary, Alberta, Canada	null
+40	47	University of Calgary, Alberta, Canada	null
+40	48	University of Calgary, Alberta, Canada	null
+40	49	University of Calgary, Alberta, Canada	null
+40	50	University of Calgary, Alberta, Canada	University of Calgary, Calgary
+40	51	University of Calgary, Alberta, Canada	null
+40	52	University of Calgary, Alberta, Canada	null
+40	53	University of Calgary, Alberta, Canada	null
+40	54	University of Calgary, Alberta, Canada	null
+40	55	University of Calgary, Alberta, Canada	null
+40	56	University of Calgary, Alberta, Canada	Microsoft Research
+40	57	University of Calgary, Alberta, Canada	null
+40	58	University of Calgary, Alberta, Canada	null
+40	59	University of Calgary, Alberta, Canada	Microsoft Research, Redmond, WA, USA
+40	60	University of Calgary, Alberta, Canada	Microsoft Research, Seattle, WA, USA
+40	61	University of Calgary, Alberta, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+40	62	University of Calgary, Alberta, Canada	Microsoft Research Redmond, WA, USA
+40	63	University of Calgary, Alberta, Canada	Microsoft Research, Redmond, WA, USA
+40	64	University of Calgary, Alberta, Canada	Microsoft Research
+40	65	University of Calgary, Alberta, Canada	null
+40	66	University of Calgary, Alberta, Canada	Saarland University
+41	42	University of Calgary, AB, Canada	Saarland University, Germany
+41	43	University of Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+41	44	University of Calgary, AB, Canada	Saarland University, Saarbrücken, Germany
+41	45	University of Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+41	46	University of Calgary, AB, Canada	null
+41	47	University of Calgary, AB, Canada	null
+41	48	University of Calgary, AB, Canada	null
+41	49	University of Calgary, AB, Canada	null
+41	50	University of Calgary, AB, Canada	University of Calgary, Calgary
+41	51	University of Calgary, AB, Canada	null
+41	52	University of Calgary, AB, Canada	null
+41	53	University of Calgary, AB, Canada	null
+41	54	University of Calgary, AB, Canada	null
+41	55	University of Calgary, AB, Canada	null
+41	56	University of Calgary, AB, Canada	Microsoft Research
+41	57	University of Calgary, AB, Canada	null
+41	58	University of Calgary, AB, Canada	null
+41	59	University of Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+41	60	University of Calgary, AB, Canada	Microsoft Research, Seattle, WA, USA
+41	61	University of Calgary, AB, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+41	62	University of Calgary, AB, Canada	Microsoft Research Redmond, WA, USA
+41	63	University of Calgary, AB, Canada	Microsoft Research, Redmond, WA, USA
+41	64	University of Calgary, AB, Canada	Microsoft Research
+41	65	University of Calgary, AB, Canada	null
+41	66	University of Calgary, AB, Canada	Saarland University
+42	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+42	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+42	45	Saarland University, Germany	University of Calgary, Calgary, Alberta, Canada
+42	46	Saarland University, Germany	null
+42	47	Saarland University, Germany	null
+42	48	Saarland University, Germany	null
+42	49	Saarland University, Germany	null
+42	50	Saarland University, Germany	University of Calgary, Calgary
+42	51	Saarland University, Germany	null
+42	52	Saarland University, Germany	null
+42	53	Saarland University, Germany	null
+42	54	Saarland University, Germany	null
+42	55	Saarland University, Germany	null
+42	56	Saarland University, Germany	Microsoft Research
+42	57	Saarland University, Germany	null
+42	58	Saarland University, Germany	null
+42	59	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+42	60	Saarland University, Germany	Microsoft Research, Seattle, WA, USA
+42	61	Saarland University, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+42	62	Saarland University, Germany	Microsoft Research Redmond, WA, USA
+42	63	Saarland University, Germany	Microsoft Research, Redmond, WA, USA
+42	64	Saarland University, Germany	Microsoft Research
+42	65	Saarland University, Germany	null
+42	66	Saarland University, Germany	Saarland University
+43	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+43	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+43	46	Saarland University, Saarbrücken, Germany	null
+43	47	Saarland University, Saarbrücken, Germany	null
+43	48	Saarland University, Saarbrücken, Germany	null
+43	49	Saarland University, Saarbrücken, Germany	null
+43	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+43	51	Saarland University, Saarbrücken, Germany	null
+43	52	Saarland University, Saarbrücken, Germany	null
+43	53	Saarland University, Saarbrücken, Germany	null
+43	54	Saarland University, Saarbrücken, Germany	null
+43	55	Saarland University, Saarbrücken, Germany	null
+43	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+43	57	Saarland University, Saarbrücken, Germany	null
+43	58	Saarland University, Saarbrücken, Germany	null
+43	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+43	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+43	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+43	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+43	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+43	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+43	65	Saarland University, Saarbrücken, Germany	null
+43	66	Saarland University, Saarbrücken, Germany	Saarland University
+44	45	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary, Alberta, Canada
+44	46	Saarland University, Saarbrücken, Germany	null
+44	47	Saarland University, Saarbrücken, Germany	null
+44	48	Saarland University, Saarbrücken, Germany	null
+44	49	Saarland University, Saarbrücken, Germany	null
+44	50	Saarland University, Saarbrücken, Germany	University of Calgary, Calgary
+44	51	Saarland University, Saarbrücken, Germany	null
+44	52	Saarland University, Saarbrücken, Germany	null
+44	53	Saarland University, Saarbrücken, Germany	null
+44	54	Saarland University, Saarbrücken, Germany	null
+44	55	Saarland University, Saarbrücken, Germany	null
+44	56	Saarland University, Saarbrücken, Germany	Microsoft Research
+44	57	Saarland University, Saarbrücken, Germany	null
+44	58	Saarland University, Saarbrücken, Germany	null
+44	59	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+44	60	Saarland University, Saarbrücken, Germany	Microsoft Research, Seattle, WA, USA
+44	61	Saarland University, Saarbrücken, Germany	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+44	62	Saarland University, Saarbrücken, Germany	Microsoft Research Redmond, WA, USA
+44	63	Saarland University, Saarbrücken, Germany	Microsoft Research, Redmond, WA, USA
+44	64	Saarland University, Saarbrücken, Germany	Microsoft Research
+44	65	Saarland University, Saarbrücken, Germany	null
+44	66	Saarland University, Saarbrücken, Germany	Saarland University
+45	46	University of Calgary, Calgary, Alberta, Canada	null
+45	47	University of Calgary, Calgary, Alberta, Canada	null
+45	48	University of Calgary, Calgary, Alberta, Canada	null
+45	49	University of Calgary, Calgary, Alberta, Canada	null
+45	50	University of Calgary, Calgary, Alberta, Canada	University of Calgary, Calgary
+45	51	University of Calgary, Calgary, Alberta, Canada	null
+45	52	University of Calgary, Calgary, Alberta, Canada	null
+45	53	University of Calgary, Calgary, Alberta, Canada	null
+45	54	University of Calgary, Calgary, Alberta, Canada	null
+45	55	University of Calgary, Calgary, Alberta, Canada	null
+45	56	University of Calgary, Calgary, Alberta, Canada	Microsoft Research
+45	57	University of Calgary, Calgary, Alberta, Canada	null
+45	58	University of Calgary, Calgary, Alberta, Canada	null
+45	59	University of Calgary, Calgary, Alberta, Canada	Microsoft Research, Redmond, WA, USA
+45	60	University of Calgary, Calgary, Alberta, Canada	Microsoft Research, Seattle, WA, USA
+45	61	University of Calgary, Calgary, Alberta, Canada	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+45	62	University of Calgary, Calgary, Alberta, Canada	Microsoft Research Redmond, WA, USA
+45	63	University of Calgary, Calgary, Alberta, Canada	Microsoft Research, Redmond, WA, USA
+45	64	University of Calgary, Calgary, Alberta, Canada	Microsoft Research
+45	65	University of Calgary, Calgary, Alberta, Canada	null
+45	66	University of Calgary, Calgary, Alberta, Canada	Saarland University
+46	47	null	null
+46	48	null	null
+46	49	null	null
+46	50	null	University of Calgary, Calgary
+46	51	null	null
+46	52	null	null
+46	53	null	null
+46	54	null	null
+46	55	null	null
+46	56	null	Microsoft Research
+46	57	null	null
+46	58	null	null
+46	59	null	Microsoft Research, Redmond, WA, USA
+46	60	null	Microsoft Research, Seattle, WA, USA
+46	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+46	62	null	Microsoft Research Redmond, WA, USA
+46	63	null	Microsoft Research, Redmond, WA, USA
+46	64	null	Microsoft Research
+46	65	null	null
+46	66	null	Saarland University
+47	48	null	null
+47	49	null	null
+47	50	null	University of Calgary, Calgary
+47	51	null	null
+47	52	null	null
+47	53	null	null
+47	54	null	null
+47	55	null	null
+47	56	null	Microsoft Research
+47	57	null	null
+47	58	null	null
+47	59	null	Microsoft Research, Redmond, WA, USA
+47	60	null	Microsoft Research, Seattle, WA, USA
+47	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+47	62	null	Microsoft Research Redmond, WA, USA
+47	63	null	Microsoft Research, Redmond, WA, USA
+47	64	null	Microsoft Research
+47	65	null	null
+47	66	null	Saarland University
+48	49	null	null
+48	50	null	University of Calgary, Calgary
+48	51	null	null
+48	52	null	null
+48	53	null	null
+48	54	null	null
+48	55	null	null
+48	56	null	Microsoft Research
+48	57	null	null
+48	58	null	null
+48	59	null	Microsoft Research, Redmond, WA, USA
+48	60	null	Microsoft Research, Seattle, WA, USA
+48	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+48	62	null	Microsoft Research Redmond, WA, USA
+48	63	null	Microsoft Research, Redmond, WA, USA
+48	64	null	Microsoft Research
+48	65	null	null
+48	66	null	Saarland University
+49	50	null	University of Calgary, Calgary
+49	51	null	null
+49	52	null	null
+49	53	null	null
+49	54	null	null
+49	55	null	null
+49	56	null	Microsoft Research
+49	57	null	null
+49	58	null	null
+49	59	null	Microsoft Research, Redmond, WA, USA
+49	60	null	Microsoft Research, Seattle, WA, USA
+49	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+49	62	null	Microsoft Research Redmond, WA, USA
+49	63	null	Microsoft Research, Redmond, WA, USA
+49	64	null	Microsoft Research
+49	65	null	null
+49	66	null	Saarland University
+50	51	University of Calgary, Calgary	null
+50	52	University of Calgary, Calgary	null
+50	53	University of Calgary, Calgary	null
+50	54	University of Calgary, Calgary	null
+50	55	University of Calgary, Calgary	null
+50	56	University of Calgary, Calgary	Microsoft Research
+50	57	University of Calgary, Calgary	null
+50	58	University of Calgary, Calgary	null
+50	59	University of Calgary, Calgary	Microsoft Research, Redmond, WA, USA
+50	60	University of Calgary, Calgary	Microsoft Research, Seattle, WA, USA
+50	61	University of Calgary, Calgary	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+50	62	University of Calgary, Calgary	Microsoft Research Redmond, WA, USA
+50	63	University of Calgary, Calgary	Microsoft Research, Redmond, WA, USA
+50	64	University of Calgary, Calgary	Microsoft Research
+50	65	University of Calgary, Calgary	null
+50	66	University of Calgary, Calgary	Saarland University
+51	52	null	null
+51	53	null	null
+51	54	null	null
+51	55	null	null
+51	56	null	Microsoft Research
+51	57	null	null
+51	58	null	null
+51	59	null	Microsoft Research, Redmond, WA, USA
+51	60	null	Microsoft Research, Seattle, WA, USA
+51	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+51	62	null	Microsoft Research Redmond, WA, USA
+51	63	null	Microsoft Research, Redmond, WA, USA
+51	64	null	Microsoft Research
+51	65	null	null
+51	66	null	Saarland University
+52	53	null	null
+52	54	null	null
+52	55	null	null
+52	56	null	Microsoft Research
+52	57	null	null
+52	58	null	null
+52	59	null	Microsoft Research, Redmond, WA, USA
+52	60	null	Microsoft Research, Seattle, WA, USA
+52	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+52	62	null	Microsoft Research Redmond, WA, USA
+52	63	null	Microsoft Research, Redmond, WA, USA
+52	64	null	Microsoft Research
+52	65	null	null
+52	66	null	Saarland University
+53	54	null	null
+53	55	null	null
+53	56	null	Microsoft Research
+53	57	null	null
+53	58	null	null
+53	59	null	Microsoft Research, Redmond, WA, USA
+53	60	null	Microsoft Research, Seattle, WA, USA
+53	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+53	62	null	Microsoft Research Redmond, WA, USA
+53	63	null	Microsoft Research, Redmond, WA, USA
+53	64	null	Microsoft Research
+53	65	null	null
+53	66	null	Saarland University
+54	55	null	null
+54	56	null	Microsoft Research
+54	57	null	null
+54	58	null	null
+54	59	null	Microsoft Research, Redmond, WA, USA
+54	60	null	Microsoft Research, Seattle, WA, USA
+54	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+54	62	null	Microsoft Research Redmond, WA, USA
+54	63	null	Microsoft Research, Redmond, WA, USA
+54	64	null	Microsoft Research
+54	65	null	null
+54	66	null	Saarland University
+55	56	null	Microsoft Research
+55	57	null	null
+55	58	null	null
+55	59	null	Microsoft Research, Redmond, WA, USA
+55	60	null	Microsoft Research, Seattle, WA, USA
+55	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+55	62	null	Microsoft Research Redmond, WA, USA
+55	63	null	Microsoft Research, Redmond, WA, USA
+55	64	null	Microsoft Research
+55	65	null	null
+55	66	null	Saarland University
+56	57	Microsoft Research	null
+56	58	Microsoft Research	null
+56	59	Microsoft Research	Microsoft Research, Redmond, WA, USA
+56	60	Microsoft Research	Microsoft Research, Seattle, WA, USA
+56	61	Microsoft Research	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+56	62	Microsoft Research	Microsoft Research Redmond, WA, USA
+56	63	Microsoft Research	Microsoft Research, Redmond, WA, USA
+56	64	Microsoft Research	Microsoft Research
+56	65	Microsoft Research	null
+56	66	Microsoft Research	Saarland University
+57	58	null	null
+57	59	null	Microsoft Research, Redmond, WA, USA
+57	60	null	Microsoft Research, Seattle, WA, USA
+57	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+57	62	null	Microsoft Research Redmond, WA, USA
+57	63	null	Microsoft Research, Redmond, WA, USA
+57	64	null	Microsoft Research
+57	65	null	null
+57	66	null	Saarland University
+58	59	null	Microsoft Research, Redmond, WA, USA
+58	60	null	Microsoft Research, Seattle, WA, USA
+58	61	null	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+58	62	null	Microsoft Research Redmond, WA, USA
+58	63	null	Microsoft Research, Redmond, WA, USA
+58	64	null	Microsoft Research
+58	65	null	null
+58	66	null	Saarland University
+59	60	Microsoft Research, Redmond, WA, USA	Microsoft Research, Seattle, WA, USA
+59	61	Microsoft Research, Redmond, WA, USA	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+59	62	Microsoft Research, Redmond, WA, USA	Microsoft Research Redmond, WA, USA
+59	63	Microsoft Research, Redmond, WA, USA	Microsoft Research, Redmond, WA, USA
+59	64	Microsoft Research, Redmond, WA, USA	Microsoft Research
+59	65	Microsoft Research, Redmond, WA, USA	null
+59	66	Microsoft Research, Redmond, WA, USA	Saarland University
+60	61	Microsoft Research, Seattle, WA, USA	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+60	62	Microsoft Research, Seattle, WA, USA	Microsoft Research Redmond, WA, USA
+60	63	Microsoft Research, Seattle, WA, USA	Microsoft Research, Redmond, WA, USA
+60	64	Microsoft Research, Seattle, WA, USA	Microsoft Research
+60	65	Microsoft Research, Seattle, WA, USA	null
+60	66	Microsoft Research, Seattle, WA, USA	Saarland University
+61	62	Microsoft Research One Microsoft Way Redmond, WA 98052, USA	Microsoft Research Redmond, WA, USA
+61	63	Microsoft Research One Microsoft Way Redmond, WA 98052, USA	Microsoft Research, Redmond, WA, USA
+61	64	Microsoft Research One Microsoft Way Redmond, WA 98052, USA	Microsoft Research
+61	65	Microsoft Research One Microsoft Way Redmond, WA 98052, USA	null
+61	66	Microsoft Research One Microsoft Way Redmond, WA 98052, USA	Saarland University
+62	63	Microsoft Research Redmond, WA, USA	Microsoft Research, Redmond, WA, USA
+62	64	Microsoft Research Redmond, WA, USA	Microsoft Research
+62	65	Microsoft Research Redmond, WA, USA	null
+62	66	Microsoft Research Redmond, WA, USA	Saarland University
+63	64	Microsoft Research, Redmond, WA, USA	Microsoft Research
+63	65	Microsoft Research, Redmond, WA, USA	null
+63	66	Microsoft Research, Redmond, WA, USA	Saarland University
+64	65	Microsoft Research	null
+64	66	Microsoft Research	Saarland University
+65	66	null	Saarland University

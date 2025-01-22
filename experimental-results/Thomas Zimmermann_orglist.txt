@@ -1,0 +1,192 @@
+1	11	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	16	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	25	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	27	University of Calgary, Alberta, Canada	University of Calgary, Calgary, AB, Canada
+1	35	University of Calgary, Alberta, Canada	University of Calgary, Canada
+1	40	University of Calgary, Alberta, Canada	University of Calgary, Alberta, Canada
+1	41	University of Calgary, Alberta, Canada	University of Calgary, AB, Canada
+1	45	University of Calgary, Alberta, Canada	University of Calgary, Calgary, Alberta, Canada
+1	50	University of Calgary, Alberta, Canada	University of Calgary, Calgary
+8	9	Saarland University, Saarbrücken, Germany	Saarland University
+8	10	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	12	Saarland University, Saarbrücken, Germany	Saarland Univ., Germany
+8	15	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	18	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	19	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	21	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+8	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+8	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+8	66	Saarland University, Saarbrücken, Germany	Saarland University
+9	10	Saarland University	Saarland University, Germany
+9	12	Saarland University	Saarland Univ., Germany
+9	15	Saarland University	Saarland University, Saarbrücken, Germany
+9	18	Saarland University	Saarland University, Saarbrücken, Germany
+9	19	Saarland University	Saarland University, Germany
+9	21	Saarland University	Saarland University, Saarbrücken, Germany
+9	24	Saarland University	Saarland University, Saarbrücken, Germany
+9	30	Saarland University	Saarland University, Germany
+9	31	Saarland University	Saarland University, Saarbrucken, Germany
+9	33	Saarland University	Saarland University, Saarbrücken, Germany
+9	34	Saarland University	Saarland University, Saarbrücken, Germany
+9	42	Saarland University	Saarland University, Germany
+9	43	Saarland University	Saarland University, Saarbrücken, Germany
+9	44	Saarland University	Saarland University, Saarbrücken, Germany
+9	66	Saarland University	Saarland University
+10	12	Saarland University, Germany	Saarland Univ., Germany
+10	15	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	18	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	19	Saarland University, Germany	Saarland University, Germany
+10	21	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	24	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	30	Saarland University, Germany	Saarland University, Germany
+10	31	Saarland University, Germany	Saarland University, Saarbrucken, Germany
+10	33	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	34	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	42	Saarland University, Germany	Saarland University, Germany
+10	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+10	66	Saarland University, Germany	Saarland University
+11	16	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+11	25	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+11	27	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+11	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+11	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+11	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+11	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+11	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+12	15	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	18	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	19	Saarland Univ., Germany	Saarland University, Germany
+12	21	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	24	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	30	Saarland Univ., Germany	Saarland University, Germany
+12	31	Saarland Univ., Germany	Saarland University, Saarbrucken, Germany
+12	33	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	34	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	42	Saarland Univ., Germany	Saarland University, Germany
+12	43	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	44	Saarland Univ., Germany	Saarland University, Saarbrücken, Germany
+12	66	Saarland Univ., Germany	Saarland University
+15	18	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	19	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+15	21	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+15	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+15	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+15	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+15	66	Saarland University, Saarbrücken, Germany	Saarland University
+16	25	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+16	27	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+16	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+16	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+16	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+16	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+16	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+18	19	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+18	21	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+18	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+18	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+18	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+18	66	Saarland University, Saarbrücken, Germany	Saarland University
+19	21	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	24	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	30	Saarland University, Germany	Saarland University, Germany
+19	31	Saarland University, Germany	Saarland University, Saarbrucken, Germany
+19	33	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	34	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	42	Saarland University, Germany	Saarland University, Germany
+19	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+19	66	Saarland University, Germany	Saarland University
+21	24	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+21	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+21	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+21	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+21	66	Saarland University, Saarbrücken, Germany	Saarland University
+24	30	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+24	31	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrucken, Germany
+24	33	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+24	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+24	66	Saarland University, Saarbrücken, Germany	Saarland University
+25	27	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, AB, Canada
+25	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+25	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+25	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+25	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+25	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+27	35	University of Calgary, Calgary, AB, Canada	University of Calgary, Canada
+27	40	University of Calgary, Calgary, AB, Canada	University of Calgary, Alberta, Canada
+27	41	University of Calgary, Calgary, AB, Canada	University of Calgary, AB, Canada
+27	45	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+27	50	University of Calgary, Calgary, AB, Canada	University of Calgary, Calgary
+30	31	Saarland University, Germany	Saarland University, Saarbrucken, Germany
+30	33	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	34	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	42	Saarland University, Germany	Saarland University, Germany
+30	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+30	66	Saarland University, Germany	Saarland University
+31	33	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	34	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	42	Saarland University, Saarbrucken, Germany	Saarland University, Germany
+31	43	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	44	Saarland University, Saarbrucken, Germany	Saarland University, Saarbrücken, Germany
+31	66	Saarland University, Saarbrucken, Germany	Saarland University
+33	34	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+33	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+33	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+33	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+33	66	Saarland University, Saarbrücken, Germany	Saarland University
+34	42	Saarland University, Saarbrücken, Germany	Saarland University, Germany
+34	43	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+34	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+34	66	Saarland University, Saarbrücken, Germany	Saarland University
+35	40	University of Calgary, Canada	University of Calgary, Alberta, Canada
+35	41	University of Calgary, Canada	University of Calgary, AB, Canada
+35	45	University of Calgary, Canada	University of Calgary, Calgary, Alberta, Canada
+35	50	University of Calgary, Canada	University of Calgary, Calgary
+40	41	University of Calgary, Alberta, Canada	University of Calgary, AB, Canada
+40	45	University of Calgary, Alberta, Canada	University of Calgary, Calgary, Alberta, Canada
+40	50	University of Calgary, Alberta, Canada	University of Calgary, Calgary
+41	45	University of Calgary, AB, Canada	University of Calgary, Calgary, Alberta, Canada
+41	50	University of Calgary, AB, Canada	University of Calgary, Calgary
+42	43	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+42	44	Saarland University, Germany	Saarland University, Saarbrücken, Germany
+42	66	Saarland University, Germany	Saarland University
+43	44	Saarland University, Saarbrücken, Germany	Saarland University, Saarbrücken, Germany
+43	66	Saarland University, Saarbrücken, Germany	Saarland University
+44	66	Saarland University, Saarbrücken, Germany	Saarland University
+45	50	University of Calgary, Calgary, Alberta, Canada	University of Calgary, Calgary
+56	64	Microsoft Research	Microsoft Research
+59	60	Microsoft Research, Redmond, WA, USA	Microsoft Research, Seattle, WA, USA
+59	61	Microsoft Research, Redmond, WA, USA	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+59	62	Microsoft Research, Redmond, WA, USA	Microsoft Research Redmond, WA, USA
+59	63	Microsoft Research, Redmond, WA, USA	Microsoft Research, Redmond, WA, USA
+60	61	Microsoft Research, Seattle, WA, USA	Microsoft Research One Microsoft Way Redmond, WA 98052, USA
+60	62	Microsoft Research, Seattle, WA, USA	Microsoft Research Redmond, WA, USA
+60	63	Microsoft Research, Seattle, WA, USA	Microsoft Research, Redmond, WA, USA
+61	62	Microsoft Research One Microsoft Way Redmond, WA 98052, USA	Microsoft Research Redmond, WA, USA
+61	63	Microsoft Research One Microsoft Way Redmond, WA 98052, USA	Microsoft Research, Redmond, WA, USA
+62	63	Microsoft Research Redmond, WA, USA	Microsoft Research, Redmond, WA, USA

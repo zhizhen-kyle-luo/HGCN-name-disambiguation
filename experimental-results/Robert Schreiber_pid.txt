@@ -1,0 +1,58 @@
+17128	Large-Scale Parallel Collaborative Filtering for the Netflix Prize
+17746	An Introduction to HPF
+50246	High-Level Synthesis of Nonprogrammable Hardware Accelerators
+77536	Lattice-based memory allocation
+253373	Manycores in the Future
+408675	A Constructive Solution to the Juggling Problem in Processor Array Synthesis
+414981	Support for Irregular Computation in High Performance Fortran (Abstract)
+419684	Corona: System Implications of Emerging Nanophotonic Technology
+482983	The Alignment-Distribution Graph
+482985	Array Distribution in Data-Parallel Programs
+483274	Efficient Distribution Analysis via Graph Contraction
+546078	Automatic Array Alignment in Data-Parallel Programs
+548343	Generating Local Address and Communication Sets for Data-Parallel Programs
+548378	A linear-time algorithm for optimal barrier placement
+549090	Optimal Data Placement for Distributed Memory Architectures
+549489	Efficient Parallel Sparse Cholesky Factorization
+570313	Fast exact and heuristic methods for role minimization problems
+574687	The NAS parallel benchmarks - summary and preliminary results
+574853	Mobile and replicated alignment of arrays in data-parallel programs
+575398	Improved load distribution in parallel sparse Cholesky factorization
+579226	Spatial Scan Statistics for Graph Clustering
+652728	Clustering Social Networks
+768287	On Systolic Array Methods for Band Matrix Factorizations
+768288	On On Systolic Arrays for Updating the Cholesky Factorization
+806937	PICO: Automatically Designing Custom Computers
+910094	Efficient ICCG on a Shared Memory Multiprocessor
+910133	An Assessment of the Connection Machine
+988487	Generating Local Address and Communication Sets for Data-Parallel Programs
+988488	Algorithms for Automatic Alignment of Arrays
+988827	Optimal Expression Evaluation for Data Parallel Architectures
+1038154	High Performance Fortran, Version 2
+1073300	High Performance Fortran Comes of Age: Guest Editors' Introduction
+1078852	Lattice-Based Memory Allocation
+1085057	Bitwidth cognizant architecture synthesis of custom hardwareaccelerators
+1117745	Constructing and exploiting linear schedules with prescribed parallelism
+1123417	Optimal Evaluation of Array Expressions on Massively Parallel Machines
+1165510	Guest Editorial
+1165879	PICO-NPA: High-Level Synthesis of Nonprogrammable Hardware Accelerators
+1295506	Defining and Measuring the Productivity of Programming Languages
+1325038	Light speed arbitration and flow control for nanophotonic interconnects.
+1339036	Robust Software for Computing Camera Motion Parameters.
+1446006	The Saxpy Matrix-1: A General-Purpose Systolic Computer
+1447316	Block reflectors: theory and computation
+1453683	An aplicaiton of systolic arrays to linear discrete Ill posed problems
+1453813	Computing generalized inverses and eigenvalues of symmetric matrices using sytolic arrays
+1467721	On systolic arrays for updating the Cholesky factorization
+1498685	Efficient massively parallel eigenvalue computation
+1504820	Optimal evaluation of array expressions on massively parallel machines (extended abstract)
+1507075	Generating local addresses and communication sets for data-parallel programs
+1510627	Optimal parallel solution of sparse triangular systems
+1545461	Efficient Methods for Out-of-Core Sparse Cholesky Factorization
+1576010	A New Implementation of Sparse Gaussian Elimination
+1645702	On the convergence of the cyclic Jacobi method for parallel block orderings
+1670021	Highly parallel sparse Cholesky factorization
+1675233	An improved Newton interaction for the generalized inverse of a Matrix, with applications
+1683612	Towards the Teraflops capability for CFD
+1684055	Sparse matrices in matlab: design and implementation
+1713221	Generating local addresses and communication sets for data-parallel programs

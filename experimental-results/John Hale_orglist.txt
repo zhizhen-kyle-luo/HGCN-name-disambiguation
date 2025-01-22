@@ -1,0 +1,26 @@
+2	3	Dept. of Comput. Sci., Tulsa Univ., OK	Center for Inf. Security, Tulsa Univ., OK
+2	17	Dept. of Comput. Sci., Tulsa Univ., OK	Dept. of Comput. Sci., Tulsa Univ., OK
+2	18	Dept. of Comput. Sci., Tulsa Univ., OK	Tulsa Univ., OK, USA
+2	22	Dept. of Comput. Sci., Tulsa Univ., OK	Dept. of Comput. Sci., Tulsa Univ., OK
+3	17	Center for Inf. Security, Tulsa Univ., OK	Dept. of Comput. Sci., Tulsa Univ., OK
+3	18	Center for Inf. Security, Tulsa Univ., OK	Tulsa Univ., OK, USA
+3	22	Center for Inf. Security, Tulsa Univ., OK	Dept. of Comput. Sci., Tulsa Univ., OK
+5	20	University of Tulsa, Tulsa, OK, USA	The University of Tulsa
+5	28	University of Tulsa, Tulsa, OK, USA	Institute for Information Security, University of Tulsa, Tulsa, USA
+5	31	University of Tulsa, Tulsa, OK, USA	Computer Science, University of Tulsa, Tulsa, OK, USA
+5	34	University of Tulsa, Tulsa, OK, USA	Univ. of Tulsa, Tulsa, OK
+5	36	University of Tulsa, Tulsa, OK, USA	University of Tulsa, Tulsa, OK
+17	18	Dept. of Comput. Sci., Tulsa Univ., OK	Tulsa Univ., OK, USA
+17	22	Dept. of Comput. Sci., Tulsa Univ., OK	Dept. of Comput. Sci., Tulsa Univ., OK
+18	22	Tulsa Univ., OK, USA	Dept. of Comput. Sci., Tulsa Univ., OK
+20	28	The University of Tulsa	Institute for Information Security, University of Tulsa, Tulsa, USA
+20	31	The University of Tulsa	Computer Science, University of Tulsa, Tulsa, OK, USA
+20	34	The University of Tulsa	Univ. of Tulsa, Tulsa, OK
+20	36	The University of Tulsa	University of Tulsa, Tulsa, OK
+28	31	Institute for Information Security, University of Tulsa, Tulsa, USA	Computer Science, University of Tulsa, Tulsa, OK, USA
+28	34	Institute for Information Security, University of Tulsa, Tulsa, USA	Univ. of Tulsa, Tulsa, OK
+28	36	Institute for Information Security, University of Tulsa, Tulsa, USA	University of Tulsa, Tulsa, OK
+31	34	Computer Science, University of Tulsa, Tulsa, OK, USA	Univ. of Tulsa, Tulsa, OK
+31	36	Computer Science, University of Tulsa, Tulsa, OK, USA	University of Tulsa, Tulsa, OK
+34	36	Univ. of Tulsa, Tulsa, OK	University of Tulsa, Tulsa, OK
+37	38	Michigan State University	Michigan State University, East Lansing, MI

@@ -1,0 +1,25 @@
+0	1	IJCNN	IJCNN
+0	2	IJCNN	IJCNN
+1	2	IJCNN	IJCNN
+5	6	Discrete Mathematics	Discrete Mathematics
+5	7	Discrete Mathematics	Discrete Mathematics
+5	8	Discrete Mathematics	Discrete Mathematics
+5	9	Discrete Mathematics	Discrete Mathematics
+5	16	Discrete Mathematics	Discrete Mathematics
+5	17	Discrete Mathematics	Discrete Mathematics
+6	7	Discrete Mathematics	Discrete Mathematics
+6	8	Discrete Mathematics	Discrete Mathematics
+6	9	Discrete Mathematics	Discrete Mathematics
+6	16	Discrete Mathematics	Discrete Mathematics
+6	17	Discrete Mathematics	Discrete Mathematics
+7	8	Discrete Mathematics	Discrete Mathematics
+7	9	Discrete Mathematics	Discrete Mathematics
+7	16	Discrete Mathematics	Discrete Mathematics
+7	17	Discrete Mathematics	Discrete Mathematics
+8	9	Discrete Mathematics	Discrete Mathematics
+8	16	Discrete Mathematics	Discrete Mathematics
+8	17	Discrete Mathematics	Discrete Mathematics
+9	16	Discrete Mathematics	Discrete Mathematics
+9	17	Discrete Mathematics	Discrete Mathematics
+12	13	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+16	17	Discrete Mathematics	Discrete Mathematics

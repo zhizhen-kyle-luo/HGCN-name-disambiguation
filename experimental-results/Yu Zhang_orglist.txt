@@ -1,0 +1,149 @@
+1	23	National University of Singapore	National University of Singapore
+1	34	National University of Singapore	National University of Singapore, Singapore
+1	50	National University of Singapore	National University of Singapore
+1	60	National University of Singapore	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore
+1	148	National University of Singapore	Nat. Univ. of Singapore, Singapore
+1	157	National University of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Singapore
+5	54	School of Computer Science, Sichuan University, Chengdu, China 610065	College of Computer Science, Sichuan University, Chengdu, China 610065
+5	57	School of Computer Science, Sichuan University, Chengdu, China 610065	College of Computer Science, Sichuan University, Chengdu, China 610065
+5	116	School of Computer Science, Sichuan University, Chengdu, China 610065	Department of Computer Science, Sichuan University, Chengdu, China 610065
+5	121	School of Computer Science, Sichuan University, Chengdu, China 610065	Sch. of Comput. Sci., Sichuan Univ., Chengdu
+6	17	Computer Science Department, Trinity University, San Antonio,	Trinity University, San Antonio, TX
+6	36	Computer Science Department, Trinity University, San Antonio,	Trinity University, USA
+6	100	Computer Science Department, Trinity University, San Antonio,	Trinity University
+6	192	Computer Science Department, Trinity University, San Antonio,	Trinity University
+6	193	Computer Science Department, Trinity University, San Antonio,	Dept. of Comput. Sci., Trinity Univ., San Antonio, TX, USA
+6	195	Computer Science Department, Trinity University, San Antonio,	Trinity University, San Antonio, TX, USA
+7	52	Zhejiang University, Hangzhou, China	Zhejiang University, China
+7	75	Zhejiang University, Hangzhou, China	Zhejiang University, China
+7	126	Zhejiang University, Hangzhou, China	State Key Lab. of Fluid Power Transm. & Control, Zhejiang Univ., Hangzhou
+7	206	Zhejiang University, Hangzhou, China	Zhejiang Univ., Hangzhou
+17	36	Trinity University, San Antonio, TX	Trinity University, USA
+17	100	Trinity University, San Antonio, TX	Trinity University
+17	192	Trinity University, San Antonio, TX	Trinity University
+17	193	Trinity University, San Antonio, TX	Dept. of Comput. Sci., Trinity Univ., San Antonio, TX, USA
+17	195	Trinity University, San Antonio, TX	Trinity University, San Antonio, TX, USA
+20	169	Macau University of Science and Technology, Macau SAR China, Laboratory of Computer Science, Institute of Software, Chinese Academy of Science, Beijing, China	Laboratory of Computer Science, Institute of Software, CAS, Beijing, China and FIT, Macau University of Science and Technology, Macau SAR, China
+21	51	Beihang University	Dept. of Comput. Sci. & Technol., Beihang Univ., Beijing, China
+22	42	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore
+22	44	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore
+22	45	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.	Nanyang Technol. Univ., Singapore
+22	103	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore
+22	131	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+22	153	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.	Nanyang Technol. Univ., Singapore
+22	155	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ.	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+23	34	National University of Singapore	National University of Singapore, Singapore
+23	50	National University of Singapore	National University of Singapore
+23	60	National University of Singapore	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore
+23	148	National University of Singapore	Nat. Univ. of Singapore, Singapore
+23	157	National University of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Singapore
+28	71	Northwestern University, Evanston, IL	Northwestern University, Evanston, IL, USA
+28	115	Northwestern University, Evanston, IL	Northwestern University
+28	166	Northwestern University, Evanston, IL	Northwestern University, Evanston, IL, USA
+28	168	Northwestern University, Evanston, IL	EECS Dept., Northwestern Univ., Evanston, IL
+34	50	National University of Singapore, Singapore	National University of Singapore
+34	60	National University of Singapore, Singapore	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore
+34	148	National University of Singapore, Singapore	Nat. Univ. of Singapore, Singapore
+34	157	National University of Singapore, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Singapore
+36	100	Trinity University, USA	Trinity University
+36	192	Trinity University, USA	Trinity University
+36	193	Trinity University, USA	Dept. of Comput. Sci., Trinity Univ., San Antonio, TX, USA
+36	195	Trinity University, USA	Trinity University, San Antonio, TX, USA
+42	44	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore
+42	45	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+42	103	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore
+42	131	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+42	153	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+42	155	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+43	83	Dept. of Electron. Eng., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, China
+43	222	Dept. of Electron. Eng., Tsinghua Univ., Beijing	Tsinghua University, China
+44	45	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+44	103	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore
+44	131	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+44	153	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+44	155	Centre of Multimedia & Network Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+45	103	Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore
+45	131	Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+45	153	Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+45	155	Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+50	60	National University of Singapore	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore
+50	148	National University of Singapore	Nat. Univ. of Singapore, Singapore
+50	157	National University of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Singapore
+52	75	Zhejiang University, China	Zhejiang University, China
+52	126	Zhejiang University, China	State Key Lab. of Fluid Power Transm. & Control, Zhejiang Univ., Hangzhou
+52	206	Zhejiang University, China	Zhejiang Univ., Hangzhou
+54	57	College of Computer Science, Sichuan University, Chengdu, China 610065	College of Computer Science, Sichuan University, Chengdu, China 610065
+54	116	College of Computer Science, Sichuan University, Chengdu, China 610065	Department of Computer Science, Sichuan University, Chengdu, China 610065
+57	116	College of Computer Science, Sichuan University, Chengdu, China 610065	Department of Computer Science, Sichuan University, Chengdu, China 610065
+59	231	Nanyang Technological University	School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
+60	148	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore	Nat. Univ. of Singapore, Singapore
+60	157	Dept. of Comput. Sci., Nat. Univ. of Singapore, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Singapore
+61	63	Inst. of High Performance Comput., Singapore	Inst. of High Performance Comput., Singapore
+61	64	Inst. of High Performance Comput., Singapore	Inst. of High Performance Comput., Singapore
+63	64	Inst. of High Performance Comput., Singapore	Inst. of High Performance Comput., Singapore
+67	214	Res. Center of Comput. Network & Inf. Security Technol., Harbin Inst. of Technol., Harbin	Res. Center of Comput. Network & Inf. Security Technol., Harbin Inst. of Technol., Harbin
+67	230	Res. Center of Comput. Network & Inf. Security Technol., Harbin Inst. of Technol., Harbin	Harbin Institute of Technology, Harbin, P.R. China
+71	115	Northwestern University, Evanston, IL, USA	Northwestern University
+71	166	Northwestern University, Evanston, IL, USA	Northwestern University, Evanston, IL, USA
+71	168	Northwestern University, Evanston, IL, USA	EECS Dept., Northwestern Univ., Evanston, IL
+75	126	Zhejiang University, China	State Key Lab. of Fluid Power Transm. & Control, Zhejiang Univ., Hangzhou
+75	206	Zhejiang University, China	Zhejiang Univ., Hangzhou
+77	178	Dept. of CS, Univ. of Pittsburgh, Pittsburgh, PA	Dept. of CS, Univ. of Pittsburgh, Pittsburgh, PA
+77	185	Dept. of CS, Univ. of Pittsburgh, Pittsburgh, PA	University of Pittsburgh, PA 15261 USA
+83	222	Department of Computer Science and Technology, Tsinghua University, Beijing, 100084, China	Tsinghua University, China
+86	212	Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang	Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang
+86	234	Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang	Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang
+91	186	Hong Kong University of Science and Technology,	Hong Kong University of Science and Technology,
+91	187	Hong Kong University of Science and Technology,	Hong Kong University of Science and Technology,
+100	192	Trinity University	Trinity University
+100	193	Trinity University	Dept. of Comput. Sci., Trinity Univ., San Antonio, TX, USA
+100	195	Trinity University	Trinity University, San Antonio, TX, USA
+103	131	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+103	153	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore	Nanyang Technol. Univ., Singapore
+103	155	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+111	112	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Dept. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing
+111	114	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing
+111	119	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing
+111	120	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing
+111	170	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Beijing Univ. of Posts & Telecommun., Beijing
+112	114	Dept. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing
+112	119	Dept. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing
+112	170	Dept. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing	Beijing Univ. of Posts & Telecommun., Beijing
+114	119	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing
+114	120	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing
+114	170	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Beijing Univ. of Posts & Telecommun., Beijing
+115	166	Northwestern University	Northwestern University, Evanston, IL, USA
+115	168	Northwestern University	EECS Dept., Northwestern Univ., Evanston, IL
+116	121	Department of Computer Science, Sichuan University, Chengdu, China 610065	Sch. of Comput. Sci., Sichuan Univ., Chengdu
+117	125	Rutgers Univ., Piscataway	Rutgers Univ., Piscataway
+119	120	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Key Lab. of Universal Wireless Commun., Beijing
+119	170	Key Lab. of Universal Wireless Commun., Beijing Univ. of Posts & Telecommun., Beijing	Beijing Univ. of Posts & Telecommun., Beijing
+126	206	State Key Lab. of Fluid Power Transm. & Control, Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+128	130	Res. Instn. of Comput. Applic., South China Univ. of Technol.	Dept. of Electron. Eng. & Telecom., South China Univ. of Tech., Guangzhou
+131	153	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+131	155	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+138	139	College of Information Science and Engineering, Northeastern University, P.O. Box 134, Shenyang 110004, China	College of Information Science and Engineering, Northeastern University, P.O. Box 365, Shenyang 110004, China
+138	194	College of Information Science and Engineering, Northeastern University, P.O. Box 134, Shenyang 110004, China	College of Information Science and Engineering, Northeastern University, Shenyang 110004, China
+139	194	College of Information Science and Engineering, Northeastern University, P.O. Box 365, Shenyang 110004, China	College of Information Science and Engineering, Northeastern University, Shenyang 110004, China
+148	157	Nat. Univ. of Singapore, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Singapore
+150	184	IBM China Research Lab	IBM China Research Laboratory, Beijing, China
+151	160	Sch. of Electr. Eng. & Comput. Sci., Oregon State Univ., Corvallis, OR, USA	Sch. of Electr. Eng. & Comput. Sci., Oregon State Univ., Corvallis, OR
+153	155	Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+154	182	Purdue University, West Lafayette	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN, USA
+166	168	Northwestern University, Evanston, IL, USA	EECS Dept., Northwestern Univ., Evanston, IL
+178	185	Dept. of CS, Univ. of Pittsburgh, Pittsburgh, PA	University of Pittsburgh, PA 15261 USA
+179	184	Laboratory for Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China	IBM China Research Laboratory, Beijing, China
+179	201	Laboratory for Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China	IBM China Res. Lab., Beijing, China
+179	208	Laboratory for Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China	Orange Lab. Beijing, Beijing, China
+184	201	IBM China Research Laboratory, Beijing, China	IBM China Res. Lab., Beijing, China
+184	208	IBM China Research Laboratory, Beijing, China	Orange Lab. Beijing, Beijing, China
+186	187	Hong Kong University of Science and Technology,	Hong Kong University of Science and Technology,
+189	221	Dept. of Comput. Sci. & Technol., Univ. of Sci. & Technol. of China, Hefei, China	University of Science & Technology of China, Hefei, 230027, China
+192	193	Trinity University	Dept. of Comput. Sci., Trinity Univ., San Antonio, TX, USA
+192	195	Trinity University	Trinity University, San Antonio, TX, USA
+193	195	Dept. of Comput. Sci., Trinity Univ., San Antonio, TX, USA	Trinity University, San Antonio, TX, USA
+201	208	IBM China Res. Lab., Beijing, China	Orange Lab. Beijing, Beijing, China
+202	227	Coll. of Econ. & Manage., Huazhong Agric. Univ., Wuhan	Coll. of Econ. & Manage., Huazhong Agric. Univ., Wuhan, China
+212	234	Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang	Coll. of Inf. Sci. & Eng., Northeastern Univ., Shenyang
+214	230	Res. Center of Comput. Network & Inf. Security Technol., Harbin Inst. of Technol., Harbin	Harbin Institute of Technology, Harbin, P.R. China
+226	229	Sch. of Comput. Sci., Northeast Normal Univ., Changchun, China	Comput. Sci. Sch., Northeast Normal Univ., Changchun, China

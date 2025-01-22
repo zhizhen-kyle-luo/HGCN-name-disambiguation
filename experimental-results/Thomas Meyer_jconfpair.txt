@@ -1,0 +1,12 @@
+0	1	AAAI	AAAI
+0	2	AAAI	AAAI
+0	3	AAAI	AAAI
+1	2	AAAI	AAAI
+1	3	AAAI	AAAI
+2	3	AAAI	AAAI
+6	7	Australian Conference on Artificial Intelligence	Australian Conference on Artificial Intelligence
+6	22	Australian Conference on Artificial Intelligence	Australasian Conference on Artificial Intelligence
+7	22	Australian Conference on Artificial Intelligence	Australasian Conference on Artificial Intelligence
+10	11	KR	KR
+12	13	PRICAI	PRICAI
+19	20	Journal of Computer-Aided Molecular Design	Journal of Computer-Aided Molecular Design

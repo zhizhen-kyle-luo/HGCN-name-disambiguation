@@ -1,0 +1,465 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+0	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+0	20	null	null
+0	21	null	null
+0	22	null	null
+0	23	null	null
+0	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+0	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+0	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+0	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+0	28	null	null
+0	29	null	Memorial University of Newfoundland, Canada
+0	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+1	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+1	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+1	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+1	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+1	28	null	null
+1	29	null	Memorial University of Newfoundland, Canada
+1	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+2	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	null
+2	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+2	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+2	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+2	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+2	28	null	null
+2	29	null	Memorial University of Newfoundland, Canada
+2	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+3	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+3	20	null	null
+3	21	null	null
+3	22	null	null
+3	23	null	null
+3	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+3	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+3	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+3	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+3	28	null	null
+3	29	null	Memorial University of Newfoundland, Canada
+3	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+4	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	null
+4	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+4	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+4	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+4	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+4	28	null	null
+4	29	null	Memorial University of Newfoundland, Canada
+4	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+5	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	null
+5	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+5	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+5	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+5	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+5	28	null	null
+5	29	null	Memorial University of Newfoundland, Canada
+5	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+6	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+6	20	null	null
+6	21	null	null
+6	22	null	null
+6	23	null	null
+6	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+6	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+6	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+6	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+6	28	null	null
+6	29	null	Memorial University of Newfoundland, Canada
+6	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+7	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	null
+7	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+7	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+7	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+7	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+7	28	null	null
+7	29	null	Memorial University of Newfoundland, Canada
+7	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+8	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+8	20	null	null
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+8	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+8	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+8	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+8	28	null	null
+8	29	null	Memorial University of Newfoundland, Canada
+8	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+9	10	null	null
+9	11	null	null
+9	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+9	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+9	14	null	null
+9	15	null	null
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+9	20	null	null
+9	21	null	null
+9	22	null	null
+9	23	null	null
+9	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+9	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+9	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+9	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+9	28	null	null
+9	29	null	Memorial University of Newfoundland, Canada
+9	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+10	11	null	null
+10	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+10	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+10	20	null	null
+10	21	null	null
+10	22	null	null
+10	23	null	null
+10	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+10	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+10	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+10	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+10	28	null	null
+10	29	null	Memorial University of Newfoundland, Canada
+10	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+11	12	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.
+11	13	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+11	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+11	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+11	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+11	28	null	null
+11	29	null	Memorial University of Newfoundland, Canada
+11	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+12	13	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+12	14	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	15	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	16	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	17	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	18	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	19	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+12	20	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	21	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	22	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	23	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	24	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+12	25	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+12	26	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+12	27	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+12	28	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	null
+12	29	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Memorial University of Newfoundland, Canada
+12	30	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld.	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+13	14	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	15	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	16	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	17	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	18	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	19	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+13	20	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	21	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	22	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	23	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	24	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+13	25	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+13	26	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+13	27	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+13	28	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+13	29	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Memorial University of Newfoundland, Canada
+13	30	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	null
+14	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+14	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+14	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+14	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+14	28	null	null
+14	29	null	Memorial University of Newfoundland, Canada
+14	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	null
+15	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+15	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+15	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+15	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+15	28	null	null
+15	29	null	Memorial University of Newfoundland, Canada
+15	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+16	17	null	null
+16	18	null	null
+16	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	null
+16	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+16	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+16	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+16	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+16	28	null	null
+16	29	null	Memorial University of Newfoundland, Canada
+16	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+17	18	null	null
+17	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	null
+17	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+17	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+17	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+17	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+17	28	null	null
+17	29	null	Memorial University of Newfoundland, Canada
+17	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+18	19	null	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada
+18	20	null	null
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+18	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+18	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+18	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+18	28	null	null
+18	29	null	Memorial University of Newfoundland, Canada
+18	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+19	20	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	null
+19	21	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	null
+19	22	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	null
+19	23	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	null
+19	24	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+19	25	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+19	26	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+19	27	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+19	28	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	null
+19	29	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	Memorial University of Newfoundland, Canada
+19	30	Memorial University of Newfoundland, St. John's, Newfoundland and Labrador, Canada	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+20	21	null	null
+20	22	null	null
+20	23	null	null
+20	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+20	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+20	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+20	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+20	28	null	null
+20	29	null	Memorial University of Newfoundland, Canada
+20	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+21	22	null	null
+21	23	null	null
+21	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+21	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+21	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+21	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+21	28	null	null
+21	29	null	Memorial University of Newfoundland, Canada
+21	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+22	23	null	null
+22	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+22	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+22	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+22	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+22	28	null	null
+22	29	null	Memorial University of Newfoundland, Canada
+22	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+23	24	null	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA
+23	25	null	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+23	26	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+23	27	null	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+23	28	null	null
+23	29	null	Memorial University of Newfoundland, Canada
+23	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+24	25	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada
+24	26	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+24	27	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+24	28	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA	null
+24	29	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA	Memorial University of Newfoundland, Canada
+24	30	Institute for Software Integrated Systems, Vanderbilt University, Campus Box 1829 Station B, Nashville, TN 37235, USA	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+25	26	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada
+25	27	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+25	28	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada	null
+25	29	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada	Memorial University of Newfoundland, Canada
+25	30	Memorial Univ. of Newfoundland, St. Johns, Nfld., Canada	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+26	27	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada
+26	28	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	null
+26	29	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Memorial University of Newfoundland, Canada
+26	30	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, Nfld., Canada	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+27	28	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada	null
+27	29	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada	Memorial University of Newfoundland, Canada
+27	30	Fac. of Bus. Adm., Memorial Univ. of Newfoundland, St. John's, NL, Canada	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+28	29	null	Memorial University of Newfoundland, Canada
+28	30	null	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada
+29	30	Memorial University of Newfoundland, Canada	Faculty of Business Administration, Memorial University of Newfoundland, St. John's, Newfoundland, A1B 3X5, Canada

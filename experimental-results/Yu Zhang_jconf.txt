@@ -1,0 +1,235 @@
+0	3DIM
+1	3DIM
+2	CGIV
+3	AAAI
+4	ADC
+5	ADMA
+6	Canadian Conference on AI
+7	AINA (2)
+8	AINA
+9	AIRS
+10	AIRS
+11	AIRS
+12	APWeb
+13	APWeb
+14	APWeb
+15	APWeb
+16	ASIAN
+17	AAMAS
+18	ATC
+19	BIOCOMP
+20	CANS
+21	CCGRID
+22	Computer Graphics International
+23	Computer Graphics International
+24	CSB
+25	CSL
+26	CSL
+27	CVPR
+28	DAC
+29	DILS
+30	Eurographics Italian Chapter Conference
+31	EUC Workshops
+32	FIMH
+33	FSKD (1)
+34	GRAPHITE
+35	HCI (12)
+36	IAT
+37	IC-AI
+38	IC-AI
+39	IC-AI
+40	IC-AI
+41	IC-AI
+42	ICC
+43	ICC
+44	ICC
+45	ICC
+46	International Conference on Computational Science (2)
+47	ICCPOL
+48	ICCSA (3)
+49	ICCSA (2)
+50	ICDAR
+51	ICDCS Workshops
+52	ICDE Workshops
+53	ICIC (3)
+54	ICIC (2)
+55	ICIC (3)
+56	ICIC (3)
+57	ICIC (1)
+58	ICIC (1)
+59	ICME
+60	ICME
+61	ICME
+62	ICME
+63	ICME
+64	ICME
+65	ICME
+66	ICMENS
+67	ICN
+68	ICPP
+69	ICPR (4)
+70	ICPR
+71	ICS
+72	ICSM
+73	IDEAL
+74	IDEAS
+75	IDEAS
+76	IJCAI
+77	IPDPS
+78	ISCAS (4)
+79	ISCAS (1)
+80	ISNN (2)
+81	ISNN (2)
+82	KES (1)
+83	MLDM
+84	ACM Multimedia
+85	MSN
+86	NCA
+87	NPC
+88	OTM Conferences (1)
+89	PDCAT
+90	Privacy Enhancing Technologies
+91	ECML/PKDD (2)
+92	PPSC
+93	PRICAI
+94	RECOMB
+95	RECOMB
+96	RoboCup
+97	RoboCup
+98	RSKT
+99	SAC
+100	SAC
+101	SASN
+102	SEAL
+103	SIBGRAPI
+104	SMC
+105	SNPD (3)
+106	UIC
+107	VMV
+108	APWeb/WAIM
+109	APWeb/WAIM
+110	GRAPP
+111	VTC Fall
+112	VTC Fall
+113	VTC Spring
+114	VTC Spring
+115	ANCS
+116	ISICA
+117	GLOBECOM
+118	GLOBECOM
+119	GLOBECOM
+120	GLOBECOM
+121	ISIP
+122	FGCN (1)
+123	SpringSim
+124	IROS
+125	SECON
+126	RAM
+127	CSSE (1)
+128	ICYCS
+129	WiMob
+130	ICARCV
+131	ICARCV
+132	WCNC
+133	Appl. Math. Lett.
+134	Biological Cybernetics
+135	Bioinformatics
+136	Bioinformatics
+137	Comput. Graph. Forum
+138	Computer Communications
+139	Computer Communications
+140	Constraints
+141	CoRR
+142	IEICE Transactions
+143	International Journal of Shape Modeling
+144	Journal of Computational Biology
+145	Journal of Computational Biology
+146	Journal of Visualization and Computer Animation
+147	Nucleic Acids Research
+148	IEEE Trans. Pattern Anal. Mach. Intell.
+149	Random Struct. Algorithms
+150	Operating Systems Review
+151	IEEE Transactions on Communications
+152	Theor. Comput. Sci.
+153	IEEE Trans. Circuits Syst. Video Techn.
+154	IEEE Trans. Knowl. Data Eng.
+155	IEEE Trans. Vis. Comput. Graph.
+156	J. Vis. Lang. Comput.
+157	J. Vis. Lang. Comput.
+158	Applied Mathematics and Computation
+159	Signal Processing
+160	IEEE Transactions on Wireless Communications
+161	JSW
+162	IEEE Transactions on Information Forensics and Security
+163	Int. J. Computer Integrated Manufacturing
+164	I. J. Bifurcation and Chaos
+165	GEC Summit
+166	ISCA
+167	ISNN (2)
+168	ISPASS
+169	TLCA
+170	PIMRC
+171	Complex (1)
+172	Bioinformatics
+173	IEICE Transactions
+174	IEICE Transactions
+175	IEICE Transactions
+176	J. Comput. Sci. Technol.
+177	J. Comput. Sci. Technol.
+178	Parallel Processing Letters
+179	CANS
+180	ICA3PP
+181	ICCSA (2)
+182	ICDCS Workshops
+183	ICIC (2)
+184	INTERACT (1)
+185	IPDPS
+186	ECML/PKDD (2)
+187	ECML/PKDD (2)
+188	RECOMB-CG
+189	TASE
+190	DRR
+191	IAS
+192	SpringSim
+193	Computers & Electrical Engineering
+194	Inf. Sci.
+195	Simulation
+196	Applied Mathematics and Computation
+197	Security and Communication Networks
+198	Proceedings of the 38th conference on Winter simulation
+199	null
+200	null
+201	null
+202	null
+203	null
+204	null
+205	null
+206	null
+207	null
+208	null
+209	CoRR
+210	J. Comput. Sci. Technol.
+211	Machine Graphics Vision International Journal
+212	Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02
+213	Proceedings of the 2009 WRI International Conference on Communications and Mobile Computing - Volume 02
+214	Proceedings of the 2009 International Conference on Electronic Computer Technology
+215	Journal of Computational and Applied Mathematics
+216	null
+217	Computers and Industrial Engineering
+218	International Journal of Remote Sensing
+219	Journal of Computational Physics
+220	Proceedings of the 2004 ACM symposium on Applied computing
+221	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+222	Proceedings of the Third International Conference on Natural Computation - Volume 02
+223	RoboCup-97: Robot Soccer World Cup I
+224	RoboCup-98: Robot Soccer World Cup II
+225	Digital Signal Processing
+226	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03
+227	Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 01
+228	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02
+229	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 02
+230	Proceedings of the 4th International Workshop on Semantic Evaluations
+231	Machine Graphics Vision International Journal
+232	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 04
+233	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+234	Proceedings of the 2008 Third International Conference on Convergence and Hybrid Information Technology - Volume 02

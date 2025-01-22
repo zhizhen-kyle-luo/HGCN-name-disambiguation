@@ -1,0 +1,89 @@
+24134	A Resource Access Decision Service for CORBA-Based Distributed Systems
+45248	Integrating Software Engineering Methods and Petri Nets for the Specification and Prototyping of Complex Information Systems
+93977	Communication Model to Support Rapid Application Development
+97503	Resettable Zero Knowledge with Concurrent Soundness in the Bare Public-Key Model under Standard Assumption
+112833	Performance Analysis of Traffic Control System Based on Stochastic Timed Petri Net Models
+112870	Architecture-Centered Enterprise System Development and Integration Based on Distributed Object Technology Standard
+112986	A Formal Method for Analyzing Software Architecture Models in SAM
+113059	A Communication Virtual Machine
+140496	A HyperNet Model for Large Hypertext Systems
+154954	Towards a business continuity information network for rapid disaster recovery
+168405	A Fast Line Segment Based Dense Stereo Algorithm Using Tree Dynamic Programming
+193649	Instance-Dependent Verifiable Random Functions and Their Application to Simultaneous Resettability
+237404	Multi-level specification and protocol design for distributed multimedia communication
+239150	Integrated Architectural Modeling and Analysis for High-Assurance Command and Control System Design
+239279	A Formal Approach to Designing Secure Software Architectures
+244483	A Formal Approach for Architectural Modeling and Prototyping of Distributed Real-Time Systems
+293010	A Symmetric Patch-Based Correspondence Model for Occlusion Handling
+296440	A Delay-Optimal Quorum-Based Mutual Exclusion Scheme with Fault-Tolerance Capability
+296519	Optimal Deadlock Detection in Distributed Systems Based on Locally Constructed Wait-for Graphs
+305581	Performance Analysis of Traffic Networks Based on Stochastic Timed Petri Net Models
+309522	Incremental Architectural Modeling and Verification of Real-Time Concurrent Systems
+309779	Formal Analysis of Real-Time Systems with SAM
+330171	Panther: An Inexpensive and Integrated Multimedia Environment
+385706	Strengthening QIM-Based Watermarking by Non-uniform Discrete Cosine Transform
+416284	Formal Analysis of Software Security System Architectures
+465315	An Architecture for Operating System Support of Distributed Multimedia Systems
+508471	Modeling and Analyzing SMIL Documents in SAM
+557950	A Framework for Implementing Role-Based Access Control Using CORBA Security Service
+568739	Managing security policies in a distributed environment using eXtensible markup language (XML)
+581877	A Formalism for Architectural Modeling of Distributed Real-Time Systems
+581911	Applying Aspect-Orientation in Designing Security Systems: A Case Study
+581942	Model checking software architecture specifications in SAM
+582029	An Environment for Specification, Simulation and Analysis of Distributed Object-Oriented Systems
+582168	Integrating Security Administration into Software Architectures Design
+582169	Formal Software Architecture Design of Secure Distributed Systems
+582229	Executable Specifications for the Design of Object-Oriented Systems
+582282	Intermediate Executable Architectural Specifications for KBSA, Part II
+582423	Semantic query optimization by class reference reduction in object- oriented databases
+582503	Achieving a Better Middleware Design through Formal Modeling and Analysis
+582593	Design an Interoperable Mobile Agent System Based on Predicate Transition Net Models
+582702	Unifying Multi-Paradigms in Software System Design
+583082	Building Global Ecosystem for Collaborative Computing Research and Education
+585069	Performance Modeling and Analysis of Software Architectures: An Aspect-Oriented UML Based Approach
+585071	Developing a Formal Design Analysis Framework
+585101	A Component Framework for Resource Management Systems
+599759	An Instant and Accurate Estimation Method for Joins and Selection in a Retrieval-Intensive Environment
+641554	A Visual Approach to XML Document Design and Transformation
+681960	A flexible approach for electronic medical records exchange
+693460	Automatic Generation of User-Centric Multimedia Communication Services
+715681	Characterizing and Detecting Virus Replication
+735871	A Self-Configuring Communication Virtual Machine
+753319	Integrated Architectural Modeling and Analysis for High-Assurance Command and Control System Design
+753409	Graphical Transformation of Multimedia XML Documents
+790339	A Framework for Developing and Analyzing Software Architecture Specifications in SAM
+821506	Concurrently Non-Malleable Zero Knowledge in the Authenticated Public-Key Model
+822948	Resettable Zero Knowledge in the Bare Public-Key Model under Standard Assumption
+920632	Guest Editors' Introduction: Special Issue on Embedded Software Engineering
+920636	Constraint Propagation And Progressive Verification For Component-Based Process Model
+920696	A Framework for the Modeling and Prototyping of Distributed Information Systems
+920703	Guest Editors' Introduction - Best Papers from SEKE'98
+921138	Executable Specification and Analysis for the Design of Concurrent Object-Oriented Systems
+924938	Introducing software architecture specification and analysis in SAM through an example
+995962	Architecture-driven modeling of real-time concurrent systems with applications in FMS
+996364	Formally analyzing software architectural specifications using SAM 
+997847	CVM - A communication virtual machine
+1033672	Stereo Correspondence with Occlusion Handling in a Symmetric Patch-Based Graph-Cuts Model
+1056731	Performance modeling and analysis of software architectures: An aspect-oriented UML based approach
+1065499	Florida International University High Performance Database Research Center
+1112694	A G-Net Model for Knowledge Representation and Reasoning
+1112695	An Approach for Modeling and Analysis of Security System Architectures
+1129897	A Formal Architectural Model for Logical Agent Mobility
+1132316	Reachability analysis of real-time systems using time Petri nets
+1132317	Compositional time Petri nets and reduction rules
+1137441	Testing and evaluating virus detectors for handheld devices
+1137499	Characterization of virus replication
+1180537	Novel Omega-protocols for NP
+1184077	A formal model-based approach for developing an interoperable mobile agent system
+1213897	Evolutionary document summarization for disaster management
+1239987	Towards the Operational Semantics of User-Centric Communication Models
+1240662	Concurrently Non-malleable Black-Box Zero Knowledge in the Bare Public-Key Model
+1256566	PIRE: a global living laboratory for cyberinfrastructure application enablement
+1322426	Resolving the Simultaneous Resettability Conjecture and a New Non-Black-Box Simulation Strategy.
+1369659	A Declarative Approach for Specifying User-Centric Communication
+1422985	Formal Analysis of Software Security System Architectures
+1433608	A behavior based approach to virus detection
+1497429	An instant and accurate size estimation method for joins and selections in a retrieval-intensive environment
+1508705	A unified framework for the modeling, prototyping and design of distributed information systems
+1686338	Efficient algorithms for detection and resolution of distributed deadlocks
+1749337	An approach for design and analysis of user-centric communication middleware

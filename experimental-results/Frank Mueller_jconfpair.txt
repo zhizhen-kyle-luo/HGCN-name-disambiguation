@@ -1,0 +1,121 @@
+2	91	CASES	CASES
+4	5	Euro-Par	Euro-Par
+8	9	ICS	ICS
+8	10	ICS	ICS
+8	11	ICS	ICS
+8	12	ICS	ICS
+9	10	ICS	ICS
+9	11	ICS	ICS
+9	12	ICS	ICS
+10	11	ICS	ICS
+10	12	ICS	ICS
+11	12	ICS	ICS
+13	14	IPDPS	IPDPS
+13	15	IPDPS	IPDPS
+13	18	IPDPS	IPDPS Workshops
+13	19	IPDPS	IPDPS
+13	20	IPDPS	IPDPS
+13	21	IPDPS	IPDPS
+14	15	IPDPS	IPDPS
+14	18	IPDPS	IPDPS Workshops
+14	19	IPDPS	IPDPS
+14	20	IPDPS	IPDPS
+14	21	IPDPS	IPDPS
+15	18	IPDPS	IPDPS Workshops
+15	19	IPDPS	IPDPS
+15	20	IPDPS	IPDPS
+15	21	IPDPS	IPDPS
+16	17	IPPS/SPDP	IPPS/SPDP Workshops
+18	19	IPDPS Workshops	IPDPS
+18	20	IPDPS Workshops	IPDPS
+18	21	IPDPS Workshops	IPDPS
+19	20	IPDPS	IPDPS
+19	21	IPDPS	IPDPS
+20	21	IPDPS	IPDPS
+26	27	LCTES-SCOPES	LCTES
+26	28	LCTES-SCOPES	LCTES
+26	29	LCTES-SCOPES	LCTES
+26	31	LCTES-SCOPES	LCTES
+26	89	LCTES-SCOPES	LCTES
+27	28	LCTES	LCTES
+27	29	LCTES	LCTES
+27	30	LCTES	LCTES/OM
+27	31	LCTES	LCTES
+27	89	LCTES	LCTES
+28	29	LCTES	LCTES
+28	30	LCTES	LCTES/OM
+28	31	LCTES	LCTES
+28	89	LCTES	LCTES
+29	30	LCTES	LCTES/OM
+29	31	LCTES	LCTES
+29	89	LCTES	LCTES
+30	31	LCTES/OM	LCTES
+30	89	LCTES/OM	LCTES
+31	89	LCTES	LCTES
+35	36	PLDI	PLDI
+37	38	PPOPP	PPOPP
+39	41	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+39	44	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+39	45	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+39	46	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+39	47	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+39	48	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+40	42	IEEE Real Time Technology and Applications Symposium	IEEE Real Time Technology and Applications Symposium
+40	43	IEEE Real Time Technology and Applications Symposium	IEEE Real Time Technology and Applications Symposium
+41	44	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+41	45	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+41	46	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+41	47	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+41	48	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+42	43	IEEE Real Time Technology and Applications Symposium	IEEE Real Time Technology and Applications Symposium
+44	45	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+44	46	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+44	47	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+44	48	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+45	46	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+45	47	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+45	48	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+46	47	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+46	48	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+47	48	IEEE Real-Time and Embedded Technology and Applications Symposium	IEEE Real-Time and Embedded Technology and Applications Symposium
+49	51	RTSS	RTSS
+49	53	RTSS	RTSS
+49	54	RTSS	RTSS
+49	55	RTSS	RTSS
+50	52	IEEE Real-Time Systems Symposium	IEEE Real-Time Systems Symposium
+51	53	RTSS	RTSS
+51	54	RTSS	RTSS
+51	55	RTSS	RTSS
+53	54	RTSS	RTSS
+53	55	RTSS	RTSS
+54	55	RTSS	RTSS
+57	58	SC	SC
+57	59	SC	SC
+57	60	SC	SC
+57	61	SC	SC
+58	59	SC	SC
+58	60	SC	SC
+58	61	SC	SC
+59	60	SC	SC
+59	61	SC	SC
+60	61	SC	SC
+62	63	TRI-Ada	TRI-Ada
+66	67	WCET	WCET
+69	99	Bioinformatics	Bioinformatics
+71	72	J. Parallel Distrib. Comput.	J. Parallel Distrib. Comput.
+71	94	J. Parallel Distrib. Comput.	J. Parallel Distrib. Comput.
+72	94	J. Parallel Distrib. Comput.	J. Parallel Distrib. Comput.
+73	74	Real-Time Systems	Real-Time Systems
+73	75	Real-Time Systems	Real-Time Systems
+73	76	Real-Time Systems	Real-Time Systems
+74	75	Real-Time Systems	Real-Time Systems
+74	76	Real-Time Systems	Real-Time Systems
+75	76	Real-Time Systems	Real-Time Systems
+79	80	TACO	TACO
+82	83	ACM Trans. Embedded Comput. Syst.	ACM Trans. Embedded Comput. Syst.
+82	84	ACM Trans. Embedded Comput. Syst.	ACM Trans. Embedded Comput. Syst.
+82	85	ACM Trans. Embedded Comput. Syst.	ACM Trans. Embedded Comput. Syst.
+83	84	ACM Trans. Embedded Comput. Syst.	ACM Trans. Embedded Comput. Syst.
+83	85	ACM Trans. Embedded Comput. Syst.	ACM Trans. Embedded Comput. Syst.
+84	85	ACM Trans. Embedded Comput. Syst.	ACM Trans. Embedded Comput. Syst.
+86	87	ACM Trans. Program. Lang. Syst.	ACM Trans. Program. Lang. Syst.

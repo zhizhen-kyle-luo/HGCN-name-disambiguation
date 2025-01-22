@@ -1,0 +1,496 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+0	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	Ohio State University, Columbus, OH
+0	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	Institute of Computing Technology
+0	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+0	23	null	null
+0	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+0	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+0	26	null	Ohio State University, Columbus, OH, USA
+0	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	null
+1	2	null	null
+1	3	null	null
+1	4	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+1	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	Ohio State University, Columbus, OH
+1	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	Institute of Computing Technology
+1	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+1	23	null	null
+1	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+1	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+1	26	null	Ohio State University, Columbus, OH, USA
+1	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+2	3	null	null
+2	4	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+2	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	Ohio State University, Columbus, OH
+2	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	Institute of Computing Technology
+2	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+2	23	null	null
+2	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+2	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+2	26	null	Ohio State University, Columbus, OH, USA
+2	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+3	4	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+3	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	Ohio State University, Columbus, OH
+3	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+3	18	null	null
+3	19	null	null
+3	20	null	null
+3	21	null	Institute of Computing Technology
+3	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+3	23	null	null
+3	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+3	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+3	26	null	Ohio State University, Columbus, OH, USA
+3	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+4	5	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	6	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	7	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	8	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	9	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	10	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	11	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+4	12	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+4	13	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	14	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	15	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	16	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Ohio State University, Columbus, OH
+4	17	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+4	18	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	19	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	20	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	21	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Institute of Computing Technology
+4	22	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+4	23	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	24	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+4	25	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+4	26	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Ohio State University, Columbus, OH, USA
+4	27	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+4	28	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	29	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	30	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+4	31	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+5	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	Ohio State University, Columbus, OH
+5	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+5	18	null	null
+5	19	null	null
+5	20	null	null
+5	21	null	Institute of Computing Technology
+5	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+5	23	null	null
+5	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+5	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+5	26	null	Ohio State University, Columbus, OH, USA
+5	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+6	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	Ohio State University, Columbus, OH
+6	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	Institute of Computing Technology
+6	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+6	23	null	null
+6	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+6	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+6	26	null	Ohio State University, Columbus, OH, USA
+6	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+7	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	Ohio State University, Columbus, OH
+7	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	Institute of Computing Technology
+7	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+7	23	null	null
+7	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+7	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+7	26	null	Ohio State University, Columbus, OH, USA
+7	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+8	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	Ohio State University, Columbus, OH
+8	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	Institute of Computing Technology
+8	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+8	23	null	null
+8	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+8	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+8	26	null	Ohio State University, Columbus, OH, USA
+8	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+9	10	null	null
+9	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+9	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+9	13	null	null
+9	14	null	null
+9	15	null	null
+9	16	null	Ohio State University, Columbus, OH
+9	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+9	18	null	null
+9	19	null	null
+9	20	null	null
+9	21	null	Institute of Computing Technology
+9	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+9	23	null	null
+9	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+9	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+9	26	null	Ohio State University, Columbus, OH, USA
+9	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+10	11	null	Department of Computer Science, The University of Texas at Dallas, Richardson, USA
+10	12	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	Ohio State University, Columbus, OH
+10	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+10	18	null	null
+10	19	null	null
+10	20	null	null
+10	21	null	Institute of Computing Technology
+10	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+10	23	null	null
+10	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+10	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+10	26	null	Ohio State University, Columbus, OH, USA
+10	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	null
+11	12	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050
+11	13	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	14	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	15	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	16	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	Ohio State University, Columbus, OH
+11	17	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+11	18	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	19	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	20	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	21	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	Institute of Computing Technology
+11	22	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+11	23	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	24	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+11	25	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+11	26	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	Ohio State University, Columbus, OH, USA
+11	27	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+11	28	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	29	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	30	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+11	31	Department of Computer Science, The University of Texas at Dallas, Richardson, USA	null
+12	13	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	14	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	15	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	16	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	Ohio State University, Columbus, OH
+12	17	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+12	18	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	19	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	20	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	21	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	Institute of Computing Technology
+12	22	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+12	23	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	24	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+12	25	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+12	26	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	Ohio State University, Columbus, OH, USA
+12	27	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+12	28	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	29	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	30	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+12	31	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussel, Belgium 1050	null
+13	14	null	null
+13	15	null	null
+13	16	null	Ohio State University, Columbus, OH
+13	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	Institute of Computing Technology
+13	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+13	23	null	null
+13	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+13	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+13	26	null	Ohio State University, Columbus, OH, USA
+13	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	null
+14	15	null	null
+14	16	null	Ohio State University, Columbus, OH
+14	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	Institute of Computing Technology
+14	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+14	23	null	null
+14	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+14	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+14	26	null	Ohio State University, Columbus, OH, USA
+14	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+15	16	null	Ohio State University, Columbus, OH
+15	17	null	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	Institute of Computing Technology
+15	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+15	23	null	null
+15	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+15	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+15	26	null	Ohio State University, Columbus, OH, USA
+15	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+16	17	Ohio State University, Columbus, OH	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050
+16	18	Ohio State University, Columbus, OH	null
+16	19	Ohio State University, Columbus, OH	null
+16	20	Ohio State University, Columbus, OH	null
+16	21	Ohio State University, Columbus, OH	Institute of Computing Technology
+16	22	Ohio State University, Columbus, OH	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+16	23	Ohio State University, Columbus, OH	null
+16	24	Ohio State University, Columbus, OH	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+16	25	Ohio State University, Columbus, OH	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+16	26	Ohio State University, Columbus, OH	Ohio State University, Columbus, OH, USA
+16	27	Ohio State University, Columbus, OH	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+16	28	Ohio State University, Columbus, OH	null
+16	29	Ohio State University, Columbus, OH	null
+16	30	Ohio State University, Columbus, OH	null
+16	31	Ohio State University, Columbus, OH	null
+17	18	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+17	19	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+17	20	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+17	21	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Institute of Computing Technology
+17	22	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+17	23	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+17	24	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+17	25	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+17	26	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Ohio State University, Columbus, OH, USA
+17	27	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+17	28	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+17	29	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+17	30	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+17	31	Semantic Technology and Application Research Laboratory (STARLab), Department of Computer Science, Vrije Universiteit Brussel, Brussels, Belgium B-1050	null
+18	19	null	null
+18	20	null	null
+18	21	null	Institute of Computing Technology
+18	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+18	23	null	null
+18	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+18	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+18	26	null	Ohio State University, Columbus, OH, USA
+18	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+19	20	null	null
+19	21	null	Institute of Computing Technology
+19	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+19	23	null	null
+19	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+19	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+19	26	null	Ohio State University, Columbus, OH, USA
+19	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+20	21	null	Institute of Computing Technology
+20	22	null	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+20	23	null	null
+20	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+20	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+20	26	null	Ohio State University, Columbus, OH, USA
+20	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+21	22	Institute of Computing Technology	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be
+21	23	Institute of Computing Technology	null
+21	24	Institute of Computing Technology	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+21	25	Institute of Computing Technology	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+21	26	Institute of Computing Technology	Ohio State University, Columbus, OH, USA
+21	27	Institute of Computing Technology	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+21	28	Institute of Computing Technology	null
+21	29	Institute of Computing Technology	null
+21	30	Institute of Computing Technology	null
+21	31	Institute of Computing Technology	null
+22	23	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	null
+22	24	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+22	25	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+22	26	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	Ohio State University, Columbus, OH, USA
+22	27	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+22	28	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	null
+22	29	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	null
+22	30	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	null
+22	31	STAR Lab, Vrije Universiteit Brussel, B-1050 Brussel, Belgium. E-mail: {first_name.second_name}@vub.ac.be	null
+23	24	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+23	25	null	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+23	26	null	Ohio State University, Columbus, OH, USA
+23	27	null	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+24	25	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050
+24	26	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	Ohio State University, Columbus, OH, USA
+24	27	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+24	28	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+24	29	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+24	30	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+24	31	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+25	26	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	Ohio State University, Columbus, OH, USA
+25	27	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+25	28	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+25	29	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+25	30	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+25	31	VUB STARLab 10G731, Vrije Universiteit Brussel, Elesene Brussels, Belgium 1050	null
+26	27	Ohio State University, Columbus, OH, USA	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021
+26	28	Ohio State University, Columbus, OH, USA	null
+26	29	Ohio State University, Columbus, OH, USA	null
+26	30	Ohio State University, Columbus, OH, USA	null
+26	31	Ohio State University, Columbus, OH, USA	null
+27	28	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021	null
+27	29	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021	null
+27	30	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021	null
+27	31	Department of Computer Science, The University of Texas at Dallas, Richardson 75080-3021	null
+28	29	null	null
+28	30	null	null
+28	31	null	null
+29	30	null	null
+29	31	null	null
+30	31	null	null

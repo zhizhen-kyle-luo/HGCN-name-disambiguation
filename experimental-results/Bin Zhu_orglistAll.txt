@@ -1,0 +1,1035 @@
+0	1	University of Arizona, Tucson, AZ	null
+0	2	University of Arizona, Tucson, AZ	null
+0	3	University of Arizona, Tucson, AZ	University of Adelaide
+0	4	University of Arizona, Tucson, AZ	null
+0	5	University of Arizona, Tucson, AZ	null
+0	6	University of Arizona, Tucson, AZ	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015
+0	7	University of Arizona, Tucson, AZ	null
+0	8	University of Arizona, Tucson, AZ	null
+0	9	University of Arizona, Tucson, AZ	null
+0	10	University of Arizona, Tucson, AZ	null
+0	11	University of Arizona, Tucson, AZ	null
+0	12	University of Arizona, Tucson, AZ	Management Information Systems Department, University of Arizona
+0	13	University of Arizona, Tucson, AZ	null
+0	14	University of Arizona, Tucson, AZ	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+0	15	University of Arizona, Tucson, AZ	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+0	16	University of Arizona, Tucson, AZ	null
+0	17	University of Arizona, Tucson, AZ	null
+0	18	University of Arizona, Tucson, AZ	null
+0	19	University of Arizona, Tucson, AZ	University of Arizona, Tucson, AZ
+0	20	University of Arizona, Tucson, AZ	University of Arizona, Tucson, AZ
+0	21	University of Arizona, Tucson, AZ	null
+0	22	University of Arizona, Tucson, AZ	null
+0	23	University of Arizona, Tucson, AZ	null
+0	24	University of Arizona, Tucson, AZ	null
+0	25	University of Arizona, Tucson, AZ	null
+0	26	University of Arizona, Tucson, AZ	Information System Department, School of Management, Boston University
+0	27	University of Arizona, Tucson, AZ	Department of Information Systems, Boston University, Boston, MA
+0	28	University of Arizona, Tucson, AZ	null
+0	29	University of Arizona, Tucson, AZ	null
+0	30	University of Arizona, Tucson, AZ	null
+0	31	University of Arizona, Tucson, AZ	null
+0	32	University of Arizona, Tucson, AZ	null
+0	33	University of Arizona, Tucson, AZ	null
+0	34	University of Arizona, Tucson, AZ	null
+0	35	University of Arizona, Tucson, AZ	School of Electromechanical Automobile Engineering, Yantai University, China
+0	36	University of Arizona, Tucson, AZ	null
+0	37	University of Arizona, Tucson, AZ	null
+0	38	University of Arizona, Tucson, AZ	null
+0	39	University of Arizona, Tucson, AZ	null
+0	40	University of Arizona, Tucson, AZ	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+0	41	University of Arizona, Tucson, AZ	null
+0	42	University of Arizona, Tucson, AZ	null
+0	43	University of Arizona, Tucson, AZ	Management Information Systems Department, University of Arizona, Tucson, AZ
+0	44	University of Arizona, Tucson, AZ	null
+0	45	University of Arizona, Tucson, AZ	null
+1	2	null	null
+1	3	null	University of Adelaide
+1	4	null	null
+1	5	null	null
+1	6	null	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	Management Information Systems Department, University of Arizona
+1	13	null	null
+1	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+1	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	University of Arizona, Tucson, AZ
+1	20	null	University of Arizona, Tucson, AZ
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	Information System Department, School of Management, Boston University
+1	27	null	Department of Information Systems, Boston University, Boston, MA
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	null
+1	33	null	null
+1	34	null	null
+1	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+1	36	null	null
+1	37	null	null
+1	38	null	null
+1	39	null	null
+1	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+1	41	null	null
+1	42	null	null
+1	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+1	44	null	null
+1	45	null	null
+2	3	null	University of Adelaide
+2	4	null	null
+2	5	null	null
+2	6	null	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	Management Information Systems Department, University of Arizona
+2	13	null	null
+2	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+2	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	University of Arizona, Tucson, AZ
+2	20	null	University of Arizona, Tucson, AZ
+2	21	null	null
+2	22	null	null
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	Information System Department, School of Management, Boston University
+2	27	null	Department of Information Systems, Boston University, Boston, MA
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	null
+2	33	null	null
+2	34	null	null
+2	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+2	36	null	null
+2	37	null	null
+2	38	null	null
+2	39	null	null
+2	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+2	41	null	null
+2	42	null	null
+2	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+2	44	null	null
+2	45	null	null
+3	4	University of Adelaide	null
+3	5	University of Adelaide	null
+3	6	University of Adelaide	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015
+3	7	University of Adelaide	null
+3	8	University of Adelaide	null
+3	9	University of Adelaide	null
+3	10	University of Adelaide	null
+3	11	University of Adelaide	null
+3	12	University of Adelaide	Management Information Systems Department, University of Arizona
+3	13	University of Adelaide	null
+3	14	University of Adelaide	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+3	15	University of Adelaide	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+3	16	University of Adelaide	null
+3	17	University of Adelaide	null
+3	18	University of Adelaide	null
+3	19	University of Adelaide	University of Arizona, Tucson, AZ
+3	20	University of Adelaide	University of Arizona, Tucson, AZ
+3	21	University of Adelaide	null
+3	22	University of Adelaide	null
+3	23	University of Adelaide	null
+3	24	University of Adelaide	null
+3	25	University of Adelaide	null
+3	26	University of Adelaide	Information System Department, School of Management, Boston University
+3	27	University of Adelaide	Department of Information Systems, Boston University, Boston, MA
+3	28	University of Adelaide	null
+3	29	University of Adelaide	null
+3	30	University of Adelaide	null
+3	31	University of Adelaide	null
+3	32	University of Adelaide	null
+3	33	University of Adelaide	null
+3	34	University of Adelaide	null
+3	35	University of Adelaide	School of Electromechanical Automobile Engineering, Yantai University, China
+3	36	University of Adelaide	null
+3	37	University of Adelaide	null
+3	38	University of Adelaide	null
+3	39	University of Adelaide	null
+3	40	University of Adelaide	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+3	41	University of Adelaide	null
+3	42	University of Adelaide	null
+3	43	University of Adelaide	Management Information Systems Department, University of Arizona, Tucson, AZ
+3	44	University of Adelaide	null
+3	45	University of Adelaide	null
+4	5	null	null
+4	6	null	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	Management Information Systems Department, University of Arizona
+4	13	null	null
+4	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+4	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	University of Arizona, Tucson, AZ
+4	20	null	University of Arizona, Tucson, AZ
+4	21	null	null
+4	22	null	null
+4	23	null	null
+4	24	null	null
+4	25	null	null
+4	26	null	Information System Department, School of Management, Boston University
+4	27	null	Department of Information Systems, Boston University, Boston, MA
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	null
+4	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+4	36	null	null
+4	37	null	null
+4	38	null	null
+4	39	null	null
+4	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+4	41	null	null
+4	42	null	null
+4	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+4	44	null	null
+4	45	null	null
+5	6	null	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	Management Information Systems Department, University of Arizona
+5	13	null	null
+5	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+5	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	University of Arizona, Tucson, AZ
+5	20	null	University of Arizona, Tucson, AZ
+5	21	null	null
+5	22	null	null
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	Information System Department, School of Management, Boston University
+5	27	null	Department of Information Systems, Boston University, Boston, MA
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	null
+5	34	null	null
+5	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+5	36	null	null
+5	37	null	null
+5	38	null	null
+5	39	null	null
+5	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+5	41	null	null
+5	42	null	null
+5	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+5	44	null	null
+5	45	null	null
+6	7	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	8	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	9	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	10	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	11	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	12	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	Management Information Systems Department, University of Arizona
+6	13	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	14	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+6	15	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+6	16	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	17	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	18	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	19	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	University of Arizona, Tucson, AZ
+6	20	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	University of Arizona, Tucson, AZ
+6	21	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	22	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	23	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	24	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	25	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	26	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	Information System Department, School of Management, Boston University
+6	27	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	Department of Information Systems, Boston University, Boston, MA
+6	28	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	29	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	30	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	31	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	32	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	33	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	34	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	35	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	School of Electromechanical Automobile Engineering, Yantai University, China
+6	36	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	37	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	38	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	39	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	40	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+6	41	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	42	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	43	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	Management Information Systems Department, University of Arizona, Tucson, AZ
+6	44	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+6	45	College of information science and technology, Zhejiang Shuren University, Hangzhou, P.R. China 310015	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	Management Information Systems Department, University of Arizona
+7	13	null	null
+7	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+7	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	University of Arizona, Tucson, AZ
+7	20	null	University of Arizona, Tucson, AZ
+7	21	null	null
+7	22	null	null
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	Information System Department, School of Management, Boston University
+7	27	null	Department of Information Systems, Boston University, Boston, MA
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	null
+7	34	null	null
+7	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+7	36	null	null
+7	37	null	null
+7	38	null	null
+7	39	null	null
+7	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+7	41	null	null
+7	42	null	null
+7	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+7	44	null	null
+7	45	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	Management Information Systems Department, University of Arizona
+8	13	null	null
+8	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+8	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	University of Arizona, Tucson, AZ
+8	20	null	University of Arizona, Tucson, AZ
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	Information System Department, School of Management, Boston University
+8	27	null	Department of Information Systems, Boston University, Boston, MA
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	null
+8	33	null	null
+8	34	null	null
+8	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+8	36	null	null
+8	37	null	null
+8	38	null	null
+8	39	null	null
+8	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+8	41	null	null
+8	42	null	null
+8	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+8	44	null	null
+8	45	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	Management Information Systems Department, University of Arizona
+9	13	null	null
+9	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+9	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	University of Arizona, Tucson, AZ
+9	20	null	University of Arizona, Tucson, AZ
+9	21	null	null
+9	22	null	null
+9	23	null	null
+9	24	null	null
+9	25	null	null
+9	26	null	Information System Department, School of Management, Boston University
+9	27	null	Department of Information Systems, Boston University, Boston, MA
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+9	32	null	null
+9	33	null	null
+9	34	null	null
+9	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+9	36	null	null
+9	37	null	null
+9	38	null	null
+9	39	null	null
+9	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+9	41	null	null
+9	42	null	null
+9	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+9	44	null	null
+9	45	null	null
+10	11	null	null
+10	12	null	Management Information Systems Department, University of Arizona
+10	13	null	null
+10	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+10	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	University of Arizona, Tucson, AZ
+10	20	null	University of Arizona, Tucson, AZ
+10	21	null	null
+10	22	null	null
+10	23	null	null
+10	24	null	null
+10	25	null	null
+10	26	null	Information System Department, School of Management, Boston University
+10	27	null	Department of Information Systems, Boston University, Boston, MA
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	null
+10	32	null	null
+10	33	null	null
+10	34	null	null
+10	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+10	36	null	null
+10	37	null	null
+10	38	null	null
+10	39	null	null
+10	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+10	41	null	null
+10	42	null	null
+10	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+10	44	null	null
+10	45	null	null
+11	12	null	Management Information Systems Department, University of Arizona
+11	13	null	null
+11	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+11	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	University of Arizona, Tucson, AZ
+11	20	null	University of Arizona, Tucson, AZ
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	Information System Department, School of Management, Boston University
+11	27	null	Department of Information Systems, Boston University, Boston, MA
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	null
+11	34	null	null
+11	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+11	36	null	null
+11	37	null	null
+11	38	null	null
+11	39	null	null
+11	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+11	41	null	null
+11	42	null	null
+11	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+11	44	null	null
+11	45	null	null
+12	13	Management Information Systems Department, University of Arizona	null
+12	14	Management Information Systems Department, University of Arizona	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+12	15	Management Information Systems Department, University of Arizona	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+12	16	Management Information Systems Department, University of Arizona	null
+12	17	Management Information Systems Department, University of Arizona	null
+12	18	Management Information Systems Department, University of Arizona	null
+12	19	Management Information Systems Department, University of Arizona	University of Arizona, Tucson, AZ
+12	20	Management Information Systems Department, University of Arizona	University of Arizona, Tucson, AZ
+12	21	Management Information Systems Department, University of Arizona	null
+12	22	Management Information Systems Department, University of Arizona	null
+12	23	Management Information Systems Department, University of Arizona	null
+12	24	Management Information Systems Department, University of Arizona	null
+12	25	Management Information Systems Department, University of Arizona	null
+12	26	Management Information Systems Department, University of Arizona	Information System Department, School of Management, Boston University
+12	27	Management Information Systems Department, University of Arizona	Department of Information Systems, Boston University, Boston, MA
+12	28	Management Information Systems Department, University of Arizona	null
+12	29	Management Information Systems Department, University of Arizona	null
+12	30	Management Information Systems Department, University of Arizona	null
+12	31	Management Information Systems Department, University of Arizona	null
+12	32	Management Information Systems Department, University of Arizona	null
+12	33	Management Information Systems Department, University of Arizona	null
+12	34	Management Information Systems Department, University of Arizona	null
+12	35	Management Information Systems Department, University of Arizona	School of Electromechanical Automobile Engineering, Yantai University, China
+12	36	Management Information Systems Department, University of Arizona	null
+12	37	Management Information Systems Department, University of Arizona	null
+12	38	Management Information Systems Department, University of Arizona	null
+12	39	Management Information Systems Department, University of Arizona	null
+12	40	Management Information Systems Department, University of Arizona	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+12	41	Management Information Systems Department, University of Arizona	null
+12	42	Management Information Systems Department, University of Arizona	null
+12	43	Management Information Systems Department, University of Arizona	Management Information Systems Department, University of Arizona, Tucson, AZ
+12	44	Management Information Systems Department, University of Arizona	null
+12	45	Management Information Systems Department, University of Arizona	null
+13	14	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+13	15	null	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	University of Arizona, Tucson, AZ
+13	20	null	University of Arizona, Tucson, AZ
+13	21	null	null
+13	22	null	null
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	Information System Department, School of Management, Boston University
+13	27	null	Department of Information Systems, Boston University, Boston, MA
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	null
+13	33	null	null
+13	34	null	null
+13	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+13	36	null	null
+13	37	null	null
+13	38	null	null
+13	39	null	null
+13	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+13	41	null	null
+13	42	null	null
+13	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+13	44	null	null
+13	45	null	null
+14	15	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China
+14	16	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	17	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	18	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	19	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	University of Arizona, Tucson, AZ
+14	20	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	University of Arizona, Tucson, AZ
+14	21	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	22	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	23	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	24	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	25	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	26	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	Information System Department, School of Management, Boston University
+14	27	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	Department of Information Systems, Boston University, Boston, MA
+14	28	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	29	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	30	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	31	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	32	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	33	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	34	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	35	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	School of Electromechanical Automobile Engineering, Yantai University, China
+14	36	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	37	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	38	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	39	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	40	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+14	41	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	42	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	43	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	Management Information Systems Department, University of Arizona, Tucson, AZ
+14	44	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+14	45	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	16	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	17	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	18	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	19	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	University of Arizona, Tucson, AZ
+15	20	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	University of Arizona, Tucson, AZ
+15	21	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	22	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	23	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	24	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	25	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	26	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	Information System Department, School of Management, Boston University
+15	27	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	Department of Information Systems, Boston University, Boston, MA
+15	28	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	29	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	30	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	31	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	32	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	33	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	34	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	35	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	School of Electromechanical Automobile Engineering, Yantai University, China
+15	36	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	37	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	38	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	39	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	40	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+15	41	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	42	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	43	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	Management Information Systems Department, University of Arizona, Tucson, AZ
+15	44	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+15	45	College of Information Science and Technology, Zhejiang Shuren University, Hangzhou, Zhejiang Province, 310015, P.R. China	null
+16	17	null	null
+16	18	null	null
+16	19	null	University of Arizona, Tucson, AZ
+16	20	null	University of Arizona, Tucson, AZ
+16	21	null	null
+16	22	null	null
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	Information System Department, School of Management, Boston University
+16	27	null	Department of Information Systems, Boston University, Boston, MA
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	null
+16	33	null	null
+16	34	null	null
+16	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+16	36	null	null
+16	37	null	null
+16	38	null	null
+16	39	null	null
+16	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+16	41	null	null
+16	42	null	null
+16	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+16	44	null	null
+16	45	null	null
+17	18	null	null
+17	19	null	University of Arizona, Tucson, AZ
+17	20	null	University of Arizona, Tucson, AZ
+17	21	null	null
+17	22	null	null
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	Information System Department, School of Management, Boston University
+17	27	null	Department of Information Systems, Boston University, Boston, MA
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	null
+17	32	null	null
+17	33	null	null
+17	34	null	null
+17	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+17	36	null	null
+17	37	null	null
+17	38	null	null
+17	39	null	null
+17	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+17	41	null	null
+17	42	null	null
+17	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+17	44	null	null
+17	45	null	null
+18	19	null	University of Arizona, Tucson, AZ
+18	20	null	University of Arizona, Tucson, AZ
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	Information System Department, School of Management, Boston University
+18	27	null	Department of Information Systems, Boston University, Boston, MA
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	null
+18	33	null	null
+18	34	null	null
+18	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+18	36	null	null
+18	37	null	null
+18	38	null	null
+18	39	null	null
+18	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+18	41	null	null
+18	42	null	null
+18	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+18	44	null	null
+18	45	null	null
+19	20	University of Arizona, Tucson, AZ	University of Arizona, Tucson, AZ
+19	21	University of Arizona, Tucson, AZ	null
+19	22	University of Arizona, Tucson, AZ	null
+19	23	University of Arizona, Tucson, AZ	null
+19	24	University of Arizona, Tucson, AZ	null
+19	25	University of Arizona, Tucson, AZ	null
+19	26	University of Arizona, Tucson, AZ	Information System Department, School of Management, Boston University
+19	27	University of Arizona, Tucson, AZ	Department of Information Systems, Boston University, Boston, MA
+19	28	University of Arizona, Tucson, AZ	null
+19	29	University of Arizona, Tucson, AZ	null
+19	30	University of Arizona, Tucson, AZ	null
+19	31	University of Arizona, Tucson, AZ	null
+19	32	University of Arizona, Tucson, AZ	null
+19	33	University of Arizona, Tucson, AZ	null
+19	34	University of Arizona, Tucson, AZ	null
+19	35	University of Arizona, Tucson, AZ	School of Electromechanical Automobile Engineering, Yantai University, China
+19	36	University of Arizona, Tucson, AZ	null
+19	37	University of Arizona, Tucson, AZ	null
+19	38	University of Arizona, Tucson, AZ	null
+19	39	University of Arizona, Tucson, AZ	null
+19	40	University of Arizona, Tucson, AZ	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+19	41	University of Arizona, Tucson, AZ	null
+19	42	University of Arizona, Tucson, AZ	null
+19	43	University of Arizona, Tucson, AZ	Management Information Systems Department, University of Arizona, Tucson, AZ
+19	44	University of Arizona, Tucson, AZ	null
+19	45	University of Arizona, Tucson, AZ	null
+20	21	University of Arizona, Tucson, AZ	null
+20	22	University of Arizona, Tucson, AZ	null
+20	23	University of Arizona, Tucson, AZ	null
+20	24	University of Arizona, Tucson, AZ	null
+20	25	University of Arizona, Tucson, AZ	null
+20	26	University of Arizona, Tucson, AZ	Information System Department, School of Management, Boston University
+20	27	University of Arizona, Tucson, AZ	Department of Information Systems, Boston University, Boston, MA
+20	28	University of Arizona, Tucson, AZ	null
+20	29	University of Arizona, Tucson, AZ	null
+20	30	University of Arizona, Tucson, AZ	null
+20	31	University of Arizona, Tucson, AZ	null
+20	32	University of Arizona, Tucson, AZ	null
+20	33	University of Arizona, Tucson, AZ	null
+20	34	University of Arizona, Tucson, AZ	null
+20	35	University of Arizona, Tucson, AZ	School of Electromechanical Automobile Engineering, Yantai University, China
+20	36	University of Arizona, Tucson, AZ	null
+20	37	University of Arizona, Tucson, AZ	null
+20	38	University of Arizona, Tucson, AZ	null
+20	39	University of Arizona, Tucson, AZ	null
+20	40	University of Arizona, Tucson, AZ	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+20	41	University of Arizona, Tucson, AZ	null
+20	42	University of Arizona, Tucson, AZ	null
+20	43	University of Arizona, Tucson, AZ	Management Information Systems Department, University of Arizona, Tucson, AZ
+20	44	University of Arizona, Tucson, AZ	null
+20	45	University of Arizona, Tucson, AZ	null
+21	22	null	null
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	Information System Department, School of Management, Boston University
+21	27	null	Department of Information Systems, Boston University, Boston, MA
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	null
+21	34	null	null
+21	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+21	36	null	null
+21	37	null	null
+21	38	null	null
+21	39	null	null
+21	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+21	41	null	null
+21	42	null	null
+21	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+21	44	null	null
+21	45	null	null
+22	23	null	null
+22	24	null	null
+22	25	null	null
+22	26	null	Information System Department, School of Management, Boston University
+22	27	null	Department of Information Systems, Boston University, Boston, MA
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	null
+22	33	null	null
+22	34	null	null
+22	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+22	36	null	null
+22	37	null	null
+22	38	null	null
+22	39	null	null
+22	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+22	41	null	null
+22	42	null	null
+22	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+22	44	null	null
+22	45	null	null
+23	24	null	null
+23	25	null	null
+23	26	null	Information System Department, School of Management, Boston University
+23	27	null	Department of Information Systems, Boston University, Boston, MA
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+23	32	null	null
+23	33	null	null
+23	34	null	null
+23	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+23	36	null	null
+23	37	null	null
+23	38	null	null
+23	39	null	null
+23	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+23	41	null	null
+23	42	null	null
+23	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+23	44	null	null
+23	45	null	null
+24	25	null	null
+24	26	null	Information System Department, School of Management, Boston University
+24	27	null	Department of Information Systems, Boston University, Boston, MA
+24	28	null	null
+24	29	null	null
+24	30	null	null
+24	31	null	null
+24	32	null	null
+24	33	null	null
+24	34	null	null
+24	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+24	36	null	null
+24	37	null	null
+24	38	null	null
+24	39	null	null
+24	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+24	41	null	null
+24	42	null	null
+24	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+24	44	null	null
+24	45	null	null
+25	26	null	Information System Department, School of Management, Boston University
+25	27	null	Department of Information Systems, Boston University, Boston, MA
+25	28	null	null
+25	29	null	null
+25	30	null	null
+25	31	null	null
+25	32	null	null
+25	33	null	null
+25	34	null	null
+25	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+25	36	null	null
+25	37	null	null
+25	38	null	null
+25	39	null	null
+25	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+25	41	null	null
+25	42	null	null
+25	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+25	44	null	null
+25	45	null	null
+26	27	Information System Department, School of Management, Boston University	Department of Information Systems, Boston University, Boston, MA
+26	28	Information System Department, School of Management, Boston University	null
+26	29	Information System Department, School of Management, Boston University	null
+26	30	Information System Department, School of Management, Boston University	null
+26	31	Information System Department, School of Management, Boston University	null
+26	32	Information System Department, School of Management, Boston University	null
+26	33	Information System Department, School of Management, Boston University	null
+26	34	Information System Department, School of Management, Boston University	null
+26	35	Information System Department, School of Management, Boston University	School of Electromechanical Automobile Engineering, Yantai University, China
+26	36	Information System Department, School of Management, Boston University	null
+26	37	Information System Department, School of Management, Boston University	null
+26	38	Information System Department, School of Management, Boston University	null
+26	39	Information System Department, School of Management, Boston University	null
+26	40	Information System Department, School of Management, Boston University	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+26	41	Information System Department, School of Management, Boston University	null
+26	42	Information System Department, School of Management, Boston University	null
+26	43	Information System Department, School of Management, Boston University	Management Information Systems Department, University of Arizona, Tucson, AZ
+26	44	Information System Department, School of Management, Boston University	null
+26	45	Information System Department, School of Management, Boston University	null
+27	28	Department of Information Systems, Boston University, Boston, MA	null
+27	29	Department of Information Systems, Boston University, Boston, MA	null
+27	30	Department of Information Systems, Boston University, Boston, MA	null
+27	31	Department of Information Systems, Boston University, Boston, MA	null
+27	32	Department of Information Systems, Boston University, Boston, MA	null
+27	33	Department of Information Systems, Boston University, Boston, MA	null
+27	34	Department of Information Systems, Boston University, Boston, MA	null
+27	35	Department of Information Systems, Boston University, Boston, MA	School of Electromechanical Automobile Engineering, Yantai University, China
+27	36	Department of Information Systems, Boston University, Boston, MA	null
+27	37	Department of Information Systems, Boston University, Boston, MA	null
+27	38	Department of Information Systems, Boston University, Boston, MA	null
+27	39	Department of Information Systems, Boston University, Boston, MA	null
+27	40	Department of Information Systems, Boston University, Boston, MA	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+27	41	Department of Information Systems, Boston University, Boston, MA	null
+27	42	Department of Information Systems, Boston University, Boston, MA	null
+27	43	Department of Information Systems, Boston University, Boston, MA	Management Information Systems Department, University of Arizona, Tucson, AZ
+27	44	Department of Information Systems, Boston University, Boston, MA	null
+27	45	Department of Information Systems, Boston University, Boston, MA	null
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	null
+28	34	null	null
+28	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+28	36	null	null
+28	37	null	null
+28	38	null	null
+28	39	null	null
+28	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+28	41	null	null
+28	42	null	null
+28	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+28	44	null	null
+28	45	null	null
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	null
+29	34	null	null
+29	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+29	36	null	null
+29	37	null	null
+29	38	null	null
+29	39	null	null
+29	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+29	41	null	null
+29	42	null	null
+29	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+29	44	null	null
+29	45	null	null
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	null
+30	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+30	36	null	null
+30	37	null	null
+30	38	null	null
+30	39	null	null
+30	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+30	41	null	null
+30	42	null	null
+30	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+30	44	null	null
+30	45	null	null
+31	32	null	null
+31	33	null	null
+31	34	null	null
+31	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+31	36	null	null
+31	37	null	null
+31	38	null	null
+31	39	null	null
+31	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+31	41	null	null
+31	42	null	null
+31	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+31	44	null	null
+31	45	null	null
+32	33	null	null
+32	34	null	null
+32	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+32	36	null	null
+32	37	null	null
+32	38	null	null
+32	39	null	null
+32	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+32	41	null	null
+32	42	null	null
+32	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+32	44	null	null
+32	45	null	null
+33	34	null	null
+33	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+33	36	null	null
+33	37	null	null
+33	38	null	null
+33	39	null	null
+33	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+33	41	null	null
+33	42	null	null
+33	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+33	44	null	null
+33	45	null	null
+34	35	null	School of Electromechanical Automobile Engineering, Yantai University, China
+34	36	null	null
+34	37	null	null
+34	38	null	null
+34	39	null	null
+34	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+34	41	null	null
+34	42	null	null
+34	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+34	44	null	null
+34	45	null	null
+35	36	School of Electromechanical Automobile Engineering, Yantai University, China	null
+35	37	School of Electromechanical Automobile Engineering, Yantai University, China	null
+35	38	School of Electromechanical Automobile Engineering, Yantai University, China	null
+35	39	School of Electromechanical Automobile Engineering, Yantai University, China	null
+35	40	School of Electromechanical Automobile Engineering, Yantai University, China	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+35	41	School of Electromechanical Automobile Engineering, Yantai University, China	null
+35	42	School of Electromechanical Automobile Engineering, Yantai University, China	null
+35	43	School of Electromechanical Automobile Engineering, Yantai University, China	Management Information Systems Department, University of Arizona, Tucson, AZ
+35	44	School of Electromechanical Automobile Engineering, Yantai University, China	null
+35	45	School of Electromechanical Automobile Engineering, Yantai University, China	null
+36	37	null	null
+36	38	null	null
+36	39	null	null
+36	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+36	41	null	null
+36	42	null	null
+36	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+36	44	null	null
+36	45	null	null
+37	38	null	null
+37	39	null	null
+37	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+37	41	null	null
+37	42	null	null
+37	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+37	44	null	null
+37	45	null	null
+38	39	null	null
+38	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+38	41	null	null
+38	42	null	null
+38	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+38	44	null	null
+38	45	null	null
+39	40	null	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005
+39	41	null	null
+39	42	null	null
+39	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+39	44	null	null
+39	45	null	null
+40	41	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005	null
+40	42	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005	null
+40	43	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005	Management Information Systems Department, University of Arizona, Tucson, AZ
+40	44	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005	null
+40	45	The Center of Engineering Training, YanTai University, Yantai, P.R China 264005	null
+41	42	null	null
+41	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+41	44	null	null
+41	45	null	null
+42	43	null	Management Information Systems Department, University of Arizona, Tucson, AZ
+42	44	null	null
+42	45	null	null
+43	44	Management Information Systems Department, University of Arizona, Tucson, AZ	null
+43	45	Management Information Systems Department, University of Arizona, Tucson, AZ	null
+44	45	null	null

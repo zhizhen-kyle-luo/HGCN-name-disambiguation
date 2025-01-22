@@ -1,0 +1,18 @@
+0	2	University of Illinois at Chicago	University of Illinois at Chicago
+1	4	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA
+1	5	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA
+3	25	Hainan University	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+4	5	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA
+6	18	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+6	19	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+6	20	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+6	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+9	13	Univ. of California, Berkeley	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+14	15	D.E. Shaw & Co., New York, NY, USA	D.E. Shaw & Co., New York, NY, USA
+18	19	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+18	20	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+18	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+19	20	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+19	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+20	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+22	23	HP Labs China, Beijing, China	HP Labs. China, Beijing, China

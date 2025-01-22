@@ -1,0 +1,105 @@
+0	1	University of Ottawa, Ottawa, Ontario, Canada	University of Ottawa, Ottawa, ON, Canada
+0	2	University of Ottawa, Ottawa, Ontario, Canada	null
+0	3	University of Ottawa, Ottawa, Ontario, Canada	null
+0	4	University of Ottawa, Ottawa, Ontario, Canada	null
+0	5	University of Ottawa, Ottawa, Ontario, Canada	null
+0	6	University of Ottawa, Ottawa, Ontario, Canada	University of Waterloo
+0	7	University of Ottawa, Ottawa, Ontario, Canada	University of Ottawa
+0	8	University of Ottawa, Ottawa, Ontario, Canada	null
+0	9	University of Ottawa, Ottawa, Ontario, Canada	null
+0	10	University of Ottawa, Ottawa, Ontario, Canada	null
+0	11	University of Ottawa, Ottawa, Ontario, Canada	null
+0	12	University of Ottawa, Ottawa, Ontario, Canada	Department of Computer Science, University of California, Davis
+0	13	University of Ottawa, Ottawa, Ontario, Canada	null
+0	14	University of Ottawa, Ottawa, Ontario, Canada	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+1	2	University of Ottawa, Ottawa, ON, Canada	null
+1	3	University of Ottawa, Ottawa, ON, Canada	null
+1	4	University of Ottawa, Ottawa, ON, Canada	null
+1	5	University of Ottawa, Ottawa, ON, Canada	null
+1	6	University of Ottawa, Ottawa, ON, Canada	University of Waterloo
+1	7	University of Ottawa, Ottawa, ON, Canada	University of Ottawa
+1	8	University of Ottawa, Ottawa, ON, Canada	null
+1	9	University of Ottawa, Ottawa, ON, Canada	null
+1	10	University of Ottawa, Ottawa, ON, Canada	null
+1	11	University of Ottawa, Ottawa, ON, Canada	null
+1	12	University of Ottawa, Ottawa, ON, Canada	Department of Computer Science, University of California, Davis
+1	13	University of Ottawa, Ottawa, ON, Canada	null
+1	14	University of Ottawa, Ottawa, ON, Canada	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	University of Waterloo
+2	7	null	University of Ottawa
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	Department of Computer Science, University of California, Davis
+2	13	null	null
+2	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+3	4	null	null
+3	5	null	null
+3	6	null	University of Waterloo
+3	7	null	University of Ottawa
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	Department of Computer Science, University of California, Davis
+3	13	null	null
+3	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+4	5	null	null
+4	6	null	University of Waterloo
+4	7	null	University of Ottawa
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	Department of Computer Science, University of California, Davis
+4	13	null	null
+4	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+5	6	null	University of Waterloo
+5	7	null	University of Ottawa
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	Department of Computer Science, University of California, Davis
+5	13	null	null
+5	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+6	7	University of Waterloo	University of Ottawa
+6	8	University of Waterloo	null
+6	9	University of Waterloo	null
+6	10	University of Waterloo	null
+6	11	University of Waterloo	null
+6	12	University of Waterloo	Department of Computer Science, University of California, Davis
+6	13	University of Waterloo	null
+6	14	University of Waterloo	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+7	8	University of Ottawa	null
+7	9	University of Ottawa	null
+7	10	University of Ottawa	null
+7	11	University of Ottawa	null
+7	12	University of Ottawa	Department of Computer Science, University of California, Davis
+7	13	University of Ottawa	null
+7	14	University of Ottawa	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	Department of Computer Science, University of California, Davis
+8	13	null	null
+8	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+9	10	null	null
+9	11	null	null
+9	12	null	Department of Computer Science, University of California, Davis
+9	13	null	null
+9	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+10	11	null	null
+10	12	null	Department of Computer Science, University of California, Davis
+10	13	null	null
+10	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+11	12	null	Department of Computer Science, University of California, Davis
+11	13	null	null
+11	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+12	13	Department of Computer Science, University of California, Davis	null
+12	14	Department of Computer Science, University of California, Davis	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada
+13	14	null	University of Ottawa, School of Information Technology and Engineering, 800 King Edward Avenue, Ottawa, ON, Canada

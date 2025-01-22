@@ -1,0 +1,39 @@
+0	1	Dublin Inst. of Technol., Dublin	Commun. Network Res. Inst., Dublin
+0	10	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology
+0	12	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Dublin, Ireland
+0	13	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology
+0	15	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Dublin, Ireland
+0	16	Dublin Inst. of Technol., Dublin	CNRI, Dublin
+0	20	Dublin Inst. of Technol., Dublin	Dublin Institute of Technology, Dublin, Ireland
+1	10	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology
+1	13	Commun. Network Res. Inst., Dublin	Dublin Institute of Technology
+8	10	Dublin Institute of Technology, Ireland	Dublin Institute of Technology
+8	11	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, IRELAND
+8	12	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+8	13	Dublin Institute of Technology, Ireland	Dublin Institute of Technology
+8	14	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Ireland
+8	15	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+8	20	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+10	11	Dublin Institute of Technology	Dublin Institute of Technology, IRELAND
+10	12	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+10	13	Dublin Institute of Technology	Dublin Institute of Technology
+10	14	Dublin Institute of Technology	Dublin Institute of Technology, Ireland
+10	15	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+10	16	Dublin Institute of Technology	CNRI, Dublin
+10	20	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+11	12	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Dublin, Ireland
+11	13	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology
+11	14	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Ireland
+11	15	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Dublin, Ireland
+11	20	Dublin Institute of Technology, IRELAND	Dublin Institute of Technology, Dublin, Ireland
+12	13	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology
+12	14	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Ireland
+12	15	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Dublin, Ireland
+12	20	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Dublin, Ireland
+13	14	Dublin Institute of Technology	Dublin Institute of Technology, Ireland
+13	15	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+13	16	Dublin Institute of Technology	CNRI, Dublin
+13	20	Dublin Institute of Technology	Dublin Institute of Technology, Dublin, Ireland
+14	15	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+14	20	Dublin Institute of Technology, Ireland	Dublin Institute of Technology, Dublin, Ireland
+15	20	Dublin Institute of Technology, Dublin, Ireland	Dublin Institute of Technology, Dublin, Ireland

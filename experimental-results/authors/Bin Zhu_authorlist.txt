@@ -1,0 +1,157 @@
+1	2	Yantao Wang	Yantao Wang
+1	35	Yantao Wang	Yantao Wang
+1	40	Yantao Wang	Yantao Wang
+2	35	Yantao Wang	Yantao Wang
+2	40	Yantao Wang	Yantao Wang
+2	40	Hua Ying	Hua Ying
+4	12	Marshall Ramsey	Marshall Ramsey
+4	12	Hsinchun Chen	Hsinchun Chen
+4	12	Roslin V. Hauck	Roslin V. Hauck
+4	12	Tobun D. Ng	Tobun D. Ng
+4	12	Bruce R. Schatz	Bruce R. Schatz
+4	19	Hsinchun Chen	Hsinchun Chen
+4	20	Hsinchun Chen	Hsinchun Chen
+4	26	Hsinchun Chen	Hsinchun Chen
+4	27	Hsinchun Chen	Hsinchun Chen
+4	28	Hsinchun Chen	Hsinchun Chen
+4	29	Marshall Ramsey	Marshall Ramsey
+4	29	Hsinchun Chen	Hsinchun Chen
+4	29	Bruce R. Schatz	Bruce R. Schatz
+4	30	Hsinchun Chen	Hsinchun Chen
+4	32	Marshall Ramsey	Marshall Ramsey
+4	32	Hsinchun Chen	Hsinchun Chen
+4	36	Hsinchun Chen	Hsinchun Chen
+4	42	Marshall Ramsey	Marshall Ramsey
+4	42	Hsinchun Chen	Hsinchun Chen
+4	42	Tobun D. Ng	Tobun D. Ng
+4	42	Bruce R. Schatz	Bruce Schatz
+4	43	Marshall Ramsey	Marshall Ramsey
+4	43	Hsinchun Chen	Hsinchun Chen
+4	43	Tobun D. Ng	Tobun D. Ng
+4	43	Bruce R. Schatz	Bruce Schatz
+8	9	Mitchell D. Swanson	Mitchell D. Swanson
+8	9	Ahmed H. Tewfik	Ahmed H. Tewfik
+8	10	Mitchell D. Swanson	Mitchell D. Swanson
+8	10	Ahmed H. Tewfik	Ahmed H. Tewfik
+8	11	Ahmed H. Tewfik	Ahmed H. Tewfik
+8	13	Mitchell D. Swanson	Mitchell D. Swanson
+8	13	Ahmed H. Tewfik	Ahmed H. Tewfik
+8	33	Ahmed H. Tewfik	Ahmed H. Tewfik
+8	41	Mitchell D. Swanson	Mitchell D. Swanson
+8	41	Ahmed H. Tewfik	Ahmed H. Tewfik
+9	10	Mitchell D. Swanson	Mitchell D. Swanson
+9	10	Ahmed H. Tewfik	Ahmed H. Tewfik
+9	11	Ahmed H. Tewfik	Ahmed H. Tewfik
+9	13	Mitchell D. Swanson	Mitchell D. Swanson
+9	13	Ahmed H. Tewfik	Ahmed H. Tewfik
+9	33	Ahmed H. Tewfik	Ahmed H. Tewfik
+9	41	Mitchell D. Swanson	Mitchell D. Swanson
+9	41	Ahmed H. Tewfik	Ahmed H. Tewfik
+10	11	Ahmed H. Tewfik	Ahmed H. Tewfik
+10	13	Mitchell D. Swanson	Mitchell D. Swanson
+10	13	Ahmed H. Tewfik	Ahmed H. Tewfik
+10	33	Ahmed H. Tewfik	Ahmed H. Tewfik
+10	41	Mitchell D. Swanson	Mitchell D. Swanson
+10	41	Ahmed H. Tewfik	Ahmed H. Tewfik
+11	13	Ahmed H. Tewfik	Ahmed H. Tewfik
+11	33	Ahmed H. Tewfik	Ahmed H. Tewfik
+11	41	Ahmed H. Tewfik	Ahmed H. Tewfik
+12	19	Hsinchun Chen	Hsinchun Chen
+12	20	Hsinchun Chen	Hsinchun Chen
+12	26	Hsinchun Chen	Hsinchun Chen
+12	27	Hsinchun Chen	Hsinchun Chen
+12	28	Hsinchun Chen	Hsinchun Chen
+12	29	Marshall Ramsey	Marshall Ramsey
+12	29	Hsinchun Chen	Hsinchun Chen
+12	29	Bruce R. Schatz	Bruce R. Schatz
+12	30	Hsinchun Chen	Hsinchun Chen
+12	32	Marshall Ramsey	Marshall Ramsey
+12	32	Hsinchun Chen	Hsinchun Chen
+12	36	Hsinchun Chen	Hsinchun Chen
+12	42	Marshall Ramsey	Marshall Ramsey
+12	42	Hsinchun Chen	Hsinchun Chen
+12	42	Tobun D. Ng	Tobun D. Ng
+12	42	Bruce R. Schatz	Bruce Schatz
+12	43	Marshall Ramsey	Marshall Ramsey
+12	43	Hsinchun Chen	Hsinchun Chen
+12	43	Tobun D. Ng	Tobun D. Ng
+12	43	Bruce R. Schatz	Bruce Schatz
+13	33	Ahmed H. Tewfik	Ahmed H. Tewfik
+13	41	Mitchell D. Swanson	Mitchell D. Swanson
+13	41	Ahmed H. Tewfik	Ahmed H. Tewfik
+14	15	Hexin Lv	Hexin Lv
+14	15	Yongchuan Tang	Yongchuan Tang
+17	21	Iosif-Viorel Onut	Iosif-Viorel Onut
+17	21	Ali A. Ghorbani	Ali A. Ghorbani
+17	37	Ali A. Ghorbani	Ali A. Ghorbani
+19	20	Hsinchun Chen	Hsinchun Chen
+19	26	Hsinchun Chen	Hsinchun Chen
+19	27	Hsinchun Chen	Hsinchun Chen
+19	28	Hsinchun Chen	Hsinchun Chen
+19	29	Hsinchun Chen	Hsinchun Chen
+19	30	Hsinchun Chen	Hsinchun Chen
+19	32	Hsinchun Chen	Hsinchun Chen
+19	36	Hsinchun Chen	Hsinchun Chen
+19	42	Hsinchun Chen	Hsinchun Chen
+19	43	Hsinchun Chen	Hsinchun Chen
+20	26	Hsinchun Chen	Hsinchun Chen
+20	27	Hsinchun Chen	Hsinchun Chen
+20	28	Hsinchun Chen	Hsinchun Chen
+20	29	Hsinchun Chen	Hsinchun Chen
+20	30	Hsinchun Chen	Hsinchun Chen
+20	32	Hsinchun Chen	Hsinchun Chen
+20	36	Hsinchun Chen	Hsinchun Chen
+20	42	Hsinchun Chen	Hsinchun Chen
+20	43	Hsinchun Chen	Hsinchun Chen
+21	37	Ali A. Ghorbani	Ali A. Ghorbani
+23	39	Defeng Huang	Defeng Huang
+23	39	Sven Nordholm	Sven Nordholm
+26	27	Hsinchun Chen	Hsinchun Chen
+26	28	Hsinchun Chen	Hsinchun Chen
+26	29	Hsinchun Chen	Hsinchun Chen
+26	30	Hsinchun Chen	Hsinchun Chen
+26	32	Hsinchun Chen	Hsinchun Chen
+26	36	Hsinchun Chen	Hsinchun Chen
+26	42	Hsinchun Chen	Hsinchun Chen
+26	43	Hsinchun Chen	Hsinchun Chen
+27	28	Hsinchun Chen	Hsinchun Chen
+27	29	Hsinchun Chen	Hsinchun Chen
+27	30	Hsinchun Chen	Hsinchun Chen
+27	32	Hsinchun Chen	Hsinchun Chen
+27	36	Hsinchun Chen	Hsinchun Chen
+27	42	Hsinchun Chen	Hsinchun Chen
+27	43	Hsinchun Chen	Hsinchun Chen
+28	29	Hsinchun Chen	Hsinchun Chen
+28	30	Hsinchun Chen	Hsinchun Chen
+28	32	Hsinchun Chen	Hsinchun Chen
+28	36	Hsinchun Chen	Hsinchun Chen
+28	42	Hsinchun Chen	Hsinchun Chen
+28	43	Hsinchun Chen	Hsinchun Chen
+29	30	Hsinchun Chen	Hsinchun Chen
+29	32	Marshall Ramsey	Marshall Ramsey
+29	32	Hsinchun Chen	Hsinchun Chen
+29	36	Hsinchun Chen	Hsinchun Chen
+29	42	Marshall Ramsey	Marshall Ramsey
+29	42	Hsinchun Chen	Hsinchun Chen
+29	42	Bruce R. Schatz	Bruce Schatz
+29	43	Marshall Ramsey	Marshall Ramsey
+29	43	Hsinchun Chen	Hsinchun Chen
+29	43	Bruce R. Schatz	Bruce Schatz
+30	32	Hsinchun Chen	Hsinchun Chen
+30	36	Hsinchun Chen	Hsinchun Chen
+30	42	Hsinchun Chen	Hsinchun Chen
+30	43	Hsinchun Chen	Hsinchun Chen
+32	36	Hsinchun Chen	Hsinchun Chen
+32	42	Marshall Ramsey	Marshall Ramsey
+32	42	Hsinchun Chen	Hsinchun Chen
+32	43	Marshall Ramsey	Marshall Ramsey
+32	43	Hsinchun Chen	Hsinchun Chen
+33	41	Ahmed H. Tewfik	Ahmed H. Tewfik
+34	44	Huaikou Miao	Huaikou Miao
+35	40	Yantao Wang	Yantao Wang
+36	42	Hsinchun Chen	Hsinchun Chen
+36	43	Hsinchun Chen	Hsinchun Chen
+42	43	Marshall Ramsey	Marshall Ramsey
+42	43	Tobun D. Ng	Tobun D. Ng
+42	43	Hsinchun Chen	Hsinchun Chen
+42	43	Bruce Schatz	Bruce Schatz

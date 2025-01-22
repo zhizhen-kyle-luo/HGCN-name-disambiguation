@@ -1,0 +1,42 @@
+61440	Video Extraction in Compressed Domain
+70509	Randomly Accessible Procedural Animation of Physically Approximate Turbulent Motion
+96305	Improve retrieval accuracy for difficult queries using negative feedback
+120860	Subspace Clustering for Microarray Data Analysis: Multiple Criteria and Significance Assessment
+148731	A Hybrid Scheme for Temporal Video Segmentation
+170388	Probabilistic Models for Expert Finding
+205794	3D facial geometry recovery via group-wise optical flow
+233075	Automatic alignment of large-scale aerial rasters to road-maps
+236117	Interactive material replacement in photographs
+273194	Region Growing with Automatic Seeding for Semantic Video Object Segmentation
+451647	Video Indexing and Retrieval in Compressed Domain Using Fuzzy-Categorization
+451833	3D Face Reconstruction Under Imperfect Tracking Circumstances Using Shape Model Constraints
+594871	A formal study of information retrieval heuristics
+594872	An exploration of axiomatic approaches to information retrieval
+594873	Semantic term matching in axiomatic approaches to information retrieval
+596192	A study of Poisson query generation model for information retrieval
+596322	Term feedback for information retrieval with language models
+596450	A study of methods for negative relevance feedback
+630441	Improving the Robustness of Language Models - UIUC TREC 2003 Robust and Genomics Experiments
+630680	Language Models for Expert Finding--UIUC TREC 2006 Enterprise Track Experiments
+633896	Controlling Uncertainty in Personal Positioning at Minimal Measurement Cost
+937644	An empirical study of gene synonym query expansion in biomedical information retrieval
+1022105	Neural adaptive control for a class of nonlinear systems with unknown deadzone
+1042246	A fuzzy logic approach for detection of video shot boundaries
+1119122	Textureshop: texture synthesis as a photograph editing tool
+1119749	Detail preserving shape deformation in image editing
+1133925	RotoTexture: Automated Tools for Texturing Raw Video
+1206557	Behavioral Consistency Extraction for Face Verification
+1209665	Face Video Competition
+1214686	UIUC/MUSC at TREC 2005 Genomics Track
+1214718	An Axiomatic Approach to IR--UIUC TREC 2005 Robust Track Experiments
+1214740	Interactive Construction of Query Language Models - UIUC TREC 2005 HARD Track Experiments
+1236821	Mining User Position Log for Construction of Personalized Activity Map
+1253498	Cognitive personal positioning based on activity map and adaptive particle filter
+1283680	Existence of nontrivial homoclinic orbits for fourth-order difference equations
+1299631	Web Search Relevance Feedback
+1317808	Determination of Total Amino Acids in Oilseed Rape Leaves Using Near Infrared Spectroscopy and Chemometrics.
+1318435	An Implementation of Time and Frequency Synchronization for Carrier Interferometry of OFDM in an Underwater Acoustic Channel.
+1323180	The Design of an Observer-Based Neural Adaptive Controller for a Class of Nonlinear Systems with Input-Constrained.
+1431828	Face Video Competition
+1657736	Behavioral Consistency Extraction for Face Verification
+1751618	Detection of Protein Content of Oilseed Rape Leaves Using Visible/Near-Infrared Spectroscopy and Multivariate Calibrations

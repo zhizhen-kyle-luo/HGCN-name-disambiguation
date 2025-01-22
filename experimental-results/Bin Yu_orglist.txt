@@ -1,0 +1,116 @@
+4	5	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+4	9	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+4	10	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+4	16	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+4	32	North Carolina State University, Raleigh, NC	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC
+4	54	North Carolina State University, Raleigh, NC	North Carolina State Univ.
+5	9	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+5	10	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+5	16	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+5	32	North Carolina State University, Raleigh, NC	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC
+5	54	North Carolina State University, Raleigh, NC	North Carolina State Univ.
+6	7	Carnegie Mellon University, Pittsburgh, PA	Carnegie Mellon University
+6	8	Carnegie Mellon University, Pittsburgh, PA	Carnegie Mellon University
+6	11	Carnegie Mellon University, Pittsburgh, PA	Carnegie Mellon University, Pittsburgh, PA
+6	91	Carnegie Mellon University, Pittsburgh, PA	The Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213-3890
+7	8	Carnegie Mellon University	Carnegie Mellon University
+7	11	Carnegie Mellon University	Carnegie Mellon University, Pittsburgh, PA
+7	91	Carnegie Mellon University	The Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213-3890
+8	11	Carnegie Mellon University	Carnegie Mellon University, Pittsburgh, PA
+8	91	Carnegie Mellon University	The Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213-3890
+9	10	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+9	16	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+9	32	North Carolina State University, Raleigh, NC	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC
+9	54	North Carolina State University, Raleigh, NC	North Carolina State Univ.
+10	16	North Carolina State University, Raleigh, NC	North Carolina State University, Raleigh, NC
+10	32	North Carolina State University, Raleigh, NC	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC
+10	54	North Carolina State University, Raleigh, NC	North Carolina State Univ.
+11	91	Carnegie Mellon University, Pittsburgh, PA	The Robotics Institute, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213-3890
+14	50	Brunel University, UK	Brunel University, UK
+14	57	Brunel University, UK	Electronic and Computer Engineering, School of Engineering and Design, Brunel University, Uxbridge UB8 3PH, UK
+14	79	Brunel University, UK	Sch. of Eng. & Design, Brunel Univ., London
+16	32	North Carolina State University, Raleigh, NC	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC
+16	54	North Carolina State University, Raleigh, NC	North Carolina State Univ.
+17	96	Inst. of Comput. Theor. & Technol., Xidian Univ., Xi'an	Xidian University, China
+21	33	University of Illinois at Urbana-Champaign	Univ. of Illinois at Urbana, Champaign, IL
+21	39	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+21	40	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, USA
+21	43	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, Urbana, IL
+21	44	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, Urbana, IL
+21	45	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+21	49	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL
+21	82	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, United States
+23	31	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI
+23	63	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI
+23	64	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI
+28	29	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+28	30	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	California Univ., Berkeley, CA, USA
+28	37	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Stat., California Univ., Berkeley, CA, USA
+28	68	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+28	69	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+28	70	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+28	77	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Stat., California Univ., Berkeley, CA
+29	30	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	California Univ., Berkeley, CA, USA
+29	37	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Stat., California Univ., Berkeley, CA, USA
+29	68	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+29	69	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+29	70	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+29	77	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Stat., California Univ., Berkeley, CA
+30	37	California Univ., Berkeley, CA, USA	Dept. of Stat., California Univ., Berkeley, CA, USA
+30	68	California Univ., Berkeley, CA, USA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+30	69	California Univ., Berkeley, CA, USA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+30	70	California Univ., Berkeley, CA, USA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+30	77	California Univ., Berkeley, CA, USA	Dept. of Stat., California Univ., Berkeley, CA
+31	63	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI
+31	64	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI
+32	54	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC	North Carolina State Univ.
+33	39	Univ. of Illinois at Urbana, Champaign, IL	University of Illinois at Urbana-Champaign
+33	40	Univ. of Illinois at Urbana, Champaign, IL	University of Illinois at Urbana-Champaign, USA
+33	43	Univ. of Illinois at Urbana, Champaign, IL	University of Illinois at Urbana-Champaign, Urbana, IL
+33	44	Univ. of Illinois at Urbana, Champaign, IL	University of Illinois at Urbana-Champaign, Urbana, IL
+33	45	Univ. of Illinois at Urbana, Champaign, IL	University of Illinois at Urbana-Champaign
+33	49	Univ. of Illinois at Urbana, Champaign, IL	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL
+33	82	Univ. of Illinois at Urbana, Champaign, IL	University of Illinois at Urbana-Champaign, United States
+35	75	University of California, Berkeley	Dept. of Stat., Univ. of California, USA
+35	98	University of California, Berkeley	University of California, Berkeley
+35	101	University of California, Berkeley	Department of Statistics, University of California at Berkeley, Berkeley, CA 94720, USA
+37	68	Dept. of Stat., California Univ., Berkeley, CA, USA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+37	69	Dept. of Stat., California Univ., Berkeley, CA, USA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+37	70	Dept. of Stat., California Univ., Berkeley, CA, USA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+37	77	Dept. of Stat., California Univ., Berkeley, CA, USA	Dept. of Stat., California Univ., Berkeley, CA
+39	40	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, USA
+39	43	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, Urbana, IL
+39	44	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, Urbana, IL
+39	45	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+39	49	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL
+39	82	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, United States
+40	43	University of Illinois at Urbana-Champaign, USA	University of Illinois at Urbana-Champaign, Urbana, IL
+40	44	University of Illinois at Urbana-Champaign, USA	University of Illinois at Urbana-Champaign, Urbana, IL
+40	45	University of Illinois at Urbana-Champaign, USA	University of Illinois at Urbana-Champaign
+40	49	University of Illinois at Urbana-Champaign, USA	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL
+40	82	University of Illinois at Urbana-Champaign, USA	University of Illinois at Urbana-Champaign, United States
+42	104	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Electron. Eng., Tsinghua Univ., Beijing
+43	44	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign, Urbana, IL
+43	45	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign
+43	49	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL
+43	82	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign, United States
+44	45	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign
+44	49	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL
+44	82	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign, United States
+45	49	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL
+45	82	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign, United States
+49	82	University of Illinois at Urbana-Champaign, Goodwin, Urbana, IL	University of Illinois at Urbana-Champaign, United States
+50	57	Brunel University, UK	Electronic and Computer Engineering, School of Engineering and Design, Brunel University, Uxbridge UB8 3PH, UK
+50	79	Brunel University, UK	Sch. of Eng. & Design, Brunel Univ., London
+63	64	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI	Dept. of Comput. Sci., Michigan State Univ., East Lansing, MI
+68	69	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+68	70	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+68	77	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Stat., California Univ., Berkeley, CA
+69	70	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA
+69	77	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Stat., California Univ., Berkeley, CA
+70	77	Dept. of Electr. Eng. & Comput. Sci., California Univ., Berkeley, CA	Dept. of Stat., California Univ., Berkeley, CA
+73	87	Lucent Technol Bell Labs., Murray Hill, NJ	Lucent Technol. Bell Labs., Murray Hill, NJ, USA
+75	98	Dept. of Stat., Univ. of California, USA	University of California, Berkeley
+75	101	Dept. of Stat., Univ. of California, USA	Department of Statistics, University of California at Berkeley, Berkeley, CA 94720, USA
+93	94	Inst. of Electron. Technol., Inf. Eng. Univ., China	Inst. of Electron. Technol., Inf. Eng. Univ., China
+98	101	University of California, Berkeley	Department of Statistics, University of California at Berkeley, Berkeley, CA 94720, USA

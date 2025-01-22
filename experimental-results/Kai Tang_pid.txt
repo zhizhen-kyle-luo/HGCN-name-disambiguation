@@ -1,0 +1,48 @@
+86265	Dynamic Medial Axes of Planar Shapes
+86691	Solving Intersection Problem of A Canal Surface and A Sphere Analytically
+86692	Solving Intersection Problem of a Canal Surface and a Sphere Analytically
+186652	Stabbing Convex Polygons with a Segment or a Polygon
+235175	An Efficient Implementation of RBF-Based Progressive Point-Sampled Geometry
+235177	Efficient and Stable Numerical Algorithms on Equilibrium Equations for Geometric Modeling
+279045	Revolute Quadric Decomposition of Canal Surfaces and Its Applications
+279046	Robustly Computing Intersection Curves of Two Canal Surfaces with Quadric Decomposition
+606316	Pattern computation for compression garment
+608270	Computing Planar Sections of Surfaces of Revolution with Revolute Quadric Decomposition
+778292	Scallop hull and its offset
+778712	Modeling wrinkles on smooth surfaces for footwear design
+778770	Computing planar swept polygons under translation
+779362	An algorithm for reducing tool retractions in zigzag pocket machining
+779364	Offsetting surface boundaries and 3-axis gouge-free surface machining
+779366	Traversing the machining graph of a pocket
+779368	Maximal intersection of spherical polygons by an arc with applications to 4-axis machining
+779370	Optimal connection of loops in laminated object manufacturing
+779520	Non-self-overlapping Hermite interpolation mapping: a practical solution for structured quadrilateral meshing
+779521	Parametric representation of a surface pencil with a common spatial geodesic
+779522	Freeform surface flattening based on fitting a woven mesh model
+779525	Reduce the stretch in surface flattening by finding cutting paths to the surface boundary
+779782	Woven model based geometric design of elastic medical braces
+779806	Modeling dynamic developable meshes by the Hamilton principle
+779819	Automatic generation of gouge-free and angular-velocity-compliant five-axis toolpath
+779828	Generating strictly non-self-overlapping structured quadrilateral grids
+779941	Five-axis tool path generation for a flat-end tool based on iso-conic partitioning
+780987	Biorthogonal wavelets based on gradual subdivision of quadrilateral meshes
+785371	Sketch-based free-form shape modelling with a fast and stable numerical engine
+834544	On the intersection of a set of direction cones
+834545	On Computing Contact Configurations of a Curved Chain
+834546	An optimization algorithm for free-form surface partitioning based on weighted gaussian image
+905657	Minimum Area Convex Packing of Two Convex Polygons
+910305	Multiresolution Shape Modeling and Editing in Reverse Engineering
+973582	Multiresolution Free Form Object Modeling with Point Sampled Geometry
+1136637	Biconic subdivision of surfaces of revolution and its applications in intersection problems
+1136753	Manifold-guaranteed out-of-core simplification of large meshes with controlled topological type
+1137085	Achieving developability of a polygonal surface by minimum deformation: a study of global and local optimization approaches
+1137185	Efficient wavelet construction with Catmull-Clark subdivision
+1282407	Quasi-Developable Mesh Surface Interpolation via Mesh Deformation
+1282516	Biorthogonal wavelet construction for hybrid quad/triangle meshes
+1303726	A Supply Chain Network Design Model for Deteriorating Items.
+1314496	A Pattern-Based Design Approach for Subscription Management of Software as a Service.
+1356830	Developability-preserved free-form deformation of assembled patches
+1553489	Tetrahedral mesh generation for solids based on alternating sum of volumes
+1562562	A novel algorithm for computing intersections of two surfaces of revolution
+1592718	Stabbing Convex Polygons with a Segment or a Polygon
+1674797	Congruent partition and certain computational geometry problems

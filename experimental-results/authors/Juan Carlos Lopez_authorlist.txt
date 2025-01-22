@@ -1,0 +1,664 @@
+0	6	Francisco Moya	Francisco Moya
+0	7	Francisco Moya	Francisco Moya
+0	8	Francisco Moya	Francisco Moya
+0	9	Francisco Moya	Francisco Moya
+0	9	David Villa	David Villa
+0	11	Francisco Moya	Francisco Moya
+0	11	David Villa	David Villa
+0	12	Francisco Moya	Francisco Moya
+0	15	Francisco Moya	Francisco Moya
+0	15	David Villa	David Villa
+0	16	Francisco Moya	Francisco Moya
+0	16	David Villa	David Villa
+0	17	Francisco Moya	Francisco Moya
+0	17	David Villa	David Villa
+0	18	Francisco Moya	Francisco Moya
+0	18	David Villa	David Villa
+0	19	Maria J. Santofimia	Maria J. Santofimia
+0	19	Francisco Moya	Francisco Moya
+0	19	David Villa	David Villa
+0	23	Francisco Moya	Francisco Moya
+0	24	Francisco Moya	Francisco Moya
+0	24	David Villa	David Villa
+0	25	Francisco Moya	Francisco Moya
+0	25	David Villa	David Villa
+0	26	Francisco Moya	Francisco Moya
+0	28	Francisco Moya	Francisco Moya
+0	29	Francisco Moya	Francisco Moya
+0	29	David Villa	David Villa
+0	31	Francisco Moya	Francisco Moya
+0	31	David Villa	David Villa
+0	32	Maria J. Santofimia	Maria J. Santofimia
+0	32	Francisco Moya	Francisco Moya
+0	32	David Villa	David Villa
+0	33	Francisco Moya	Francisco Moya
+0	33	David Villa	David Villa
+0	34	Francisco Moya	Francisco Moya
+3	10	Ander Royo	Ander Royo
+3	13	Margarida F. Jacome	Margarida F. Jacome
+3	14	Margarida F. Jacome	Margarida F. Jacome
+4	5	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+4	22	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+4	27	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+4	30	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+5	22	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+5	22	Carlos Angel Iglesias	Carlos Angel Iglesias
+5	27	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+5	27	Carlos Angel Iglesias	Carlos Angel Iglesias
+5	30	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+6	7	Jose Manuel Moya	Jose Manuel Moya
+6	7	Francisco Moya	Francisco Moya
+6	8	Francisco Moya	Francisco Moya
+6	9	Francisco Moya	Francisco Moya
+6	11	Francisco Moya	Francisco Moya
+6	12	Jose Manuel Moya	Jose Manuel Moya
+6	12	Francisco Moya	Francisco Moya
+6	15	Francisco Moya	Francisco Moya
+6	16	Francisco Moya	Francisco Moya
+6	17	Francisco Moya	Francisco Moya
+6	18	Francisco Moya	Francisco Moya
+6	19	Francisco Moya	Francisco Moya
+6	23	Jose Manuel Moya	Jose Manuel Moya
+6	23	Francisco Moya	Francisco Moya
+6	24	Francisco Moya	Francisco Moya
+6	25	Francisco Moya	Francisco Moya
+6	26	Francisco Moya	Francisco Moya
+6	28	Francisco Moya	Francisco Moya
+6	29	Francisco Moya	Francisco Moya
+6	31	Francisco Moya	Francisco Moya
+6	32	Francisco Moya	Francisco Moya
+6	33	Francisco Moya	Francisco Moya
+6	34	Francisco Moya	Francisco Moya
+7	8	Francisco Moya	Francisco Moya
+7	9	Francisco Moya	Francisco Moya
+7	11	Francisco Moya	Francisco Moya
+7	12	Jose Manuel Moya	Jose Manuel Moya
+7	12	Francisco Moya	Francisco Moya
+7	15	Francisco Moya	Francisco Moya
+7	16	Francisco Moya	Francisco Moya
+7	17	Francisco Moya	Francisco Moya
+7	18	Francisco Moya	Francisco Moya
+7	19	Francisco Moya	Francisco Moya
+7	23	Jose Manuel Moya	Jose Manuel Moya
+7	23	Francisco Moya	Francisco Moya
+7	24	Francisco Moya	Francisco Moya
+7	25	Francisco Moya	Francisco Moya
+7	26	Francisco Moya	Francisco Moya
+7	28	Francisco Moya	Francisco Moya
+7	29	Francisco Moya	Francisco Moya
+7	31	Francisco Moya	Francisco Moya
+7	32	Francisco Moya	Francisco Moya
+7	33	Francisco Moya	Francisco Moya
+7	34	Francisco Moya	Francisco Moya
+8	9	Fernando Rincon	Fernando Rincon
+8	9	Francisco Moya	Francisco Moya
+8	9	Jesus Barba	Jesus Barba
+8	11	Fernando Rincon	Fernando Rincon
+8	11	Francisco Moya	Francisco Moya
+8	11	Jesus Barba	Jesus Barba
+8	12	Francisco Moya	Francisco Moya
+8	15	Fernando Rincon	Fernando Rincon
+8	15	Francisco Moya	Francisco Moya
+8	15	Jesus Barba	Jesus Barba
+8	16	Fernando Rincon	Fernando Rincon
+8	16	Francisco Moya	Francisco Moya
+8	16	Jesus Barba	Jesus Barba
+8	17	Fernando Rincon	Fernando Rincon
+8	17	Francisco Moya	Francisco Moya
+8	17	Jesus Barba	Jesus Barba
+8	18	Fernando Rincon	Fernando Rincon
+8	18	Francisco Moya	Francisco Moya
+8	18	Jesus Barba	Jesus Barba
+8	19	Francisco Moya	Francisco Moya
+8	23	Fernando Rincon	Fernando Rincon
+8	23	Francisco Moya	Francisco Moya
+8	24	Fernando Rincon	Fernando Rincon
+8	24	Francisco Moya	Francisco Moya
+8	24	Jesus Barba	Jesus Barba
+8	25	Fernando Rincon	Fernando Rincon
+8	25	Francisco Moya	Francisco Moya
+8	25	Jesus Barba	Jesus Barba
+8	26	Fernando Rincon	Fernando Rincon
+8	26	Francisco Moya	Francisco Moya
+8	26	Jesus Barba	Jesus Barba
+8	28	Fernando Rincon	Fernando Rincon
+8	28	Francisco Moya	Francisco Moya
+8	28	Jesus Barba	Jesus Barba
+8	29	Fernando Rincon	Fernando Rincon
+8	29	Francisco Moya	Francisco Moya
+8	29	Jesus Barba	Jesus Barba
+8	31	Fernando Rincon	Fernando Rincon
+8	31	Francisco Moya	Francisco Moya
+8	31	Jesus Barba	Jesus Barba
+8	32	Francisco Moya	Francisco Moya
+8	33	Fernando Rincon	Fernando Rincon
+8	33	Francisco Moya	Francisco Moya
+8	33	Jesus Barba	Jesus Barba
+8	34	Fernando Rincon	Fernando Rincon
+8	34	Francisco Moya	Francisco Moya
+8	34	Jesus Barba	Jesus Barba
+9	11	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	11	David Villa	David Villa
+9	11	Francisco Moya	Francisco Moya
+9	11	Jesus Barba	Jesus Barba
+9	11	Fernando Rincon	Fernando Rincon
+9	12	Francisco Moya	Francisco Moya
+9	15	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	15	David Villa	David Villa
+9	15	Francisco Moya	Francisco Moya
+9	15	Jesus Barba	Jesus Barba
+9	15	Fernando Rincon	Fernando Rincon
+9	16	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	16	David Villa	David Villa
+9	16	Francisco Moya	Francisco Moya
+9	16	Jesus Barba	Jesus Barba
+9	16	Fernando Rincon	Fernando Rincon
+9	17	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	17	David Villa	David Villa
+9	17	Francisco Moya	Francisco Moya
+9	17	Jesus Barba	Jesus Barba
+9	17	Fernando Rincon	Fernando Rincon
+9	18	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	18	David Villa	David Villa
+9	18	Francisco Moya	Francisco Moya
+9	18	Jesus Barba	Jesus Barba
+9	18	Fernando Rincon	Fernando Rincon
+9	19	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	19	David Villa	David Villa
+9	19	Francisco Moya	Francisco Moya
+9	23	Francisco Moya	Francisco Moya
+9	23	Fernando Rincon	Fernando Rincon
+9	24	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	24	David Villa	David Villa
+9	24	Francisco Moya	Francisco Moya
+9	24	Jesus Barba	Jesus Barba
+9	24	Fernando Rincon	Fernando Rincon
+9	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	25	David Villa	David Villa
+9	25	Francisco Moya	Francisco Moya
+9	25	Jesus Barba	Jesus Barba
+9	25	Fernando Rincon	Fernando Rincon
+9	26	Francisco Moya	Francisco Moya
+9	26	Jesus Barba	Jesus Barba
+9	26	Fernando Rincon	Fernando Rincon
+9	28	Francisco Moya	Francisco Moya
+9	28	Jesus Barba	Jesus Barba
+9	28	Fernando Rincon	Fernando Rincon
+9	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	29	David Villa	David Villa
+9	29	Francisco Moya	Francisco Moya
+9	29	Jesus Barba	Jesus Barba
+9	29	Fernando Rincon	Fernando Rincon
+9	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	31	David Villa	David Villa
+9	31	Francisco Moya	Francisco Moya
+9	31	Jesus Barba	Jesus Barba
+9	31	Fernando Rincon	Fernando Rincon
+9	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	32	David Villa	David Villa
+9	32	Francisco Moya	Francisco Moya
+9	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+9	33	David Villa	David Villa
+9	33	Francisco Moya	Francisco Moya
+9	33	Jesus Barba	Jesus Barba
+9	33	Fernando Rincon	Fernando Rincon
+9	34	Francisco Moya	Francisco Moya
+9	34	Jesus Barba	Jesus Barba
+9	34	Fernando Rincon	Fernando Rincon
+11	12	Francisco Moya	Francisco Moya
+11	15	Jesus Barba	Jesus Barba
+11	15	Fernando Rincon	Fernando Rincon
+11	15	Francisco Moya	Francisco Moya
+11	15	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	15	David Villa	David Villa
+11	15	Julio Dondo	Julio Dondo
+11	16	Jesus Barba	Jesus Barba
+11	16	Fernando Rincon	Fernando Rincon
+11	16	Francisco Moya	Francisco Moya
+11	16	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	16	David Villa	David Villa
+11	17	Jesus Barba	Jesus Barba
+11	17	Fernando Rincon	Fernando Rincon
+11	17	Francisco Moya	Francisco Moya
+11	17	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	17	David Villa	David Villa
+11	18	Jesus Barba	Jesus Barba
+11	18	Fernando Rincon	Fernando Rincon
+11	18	Francisco Moya	Francisco Moya
+11	18	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	18	David Villa	David Villa
+11	19	Francisco Moya	Francisco Moya
+11	19	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	19	David Villa	David Villa
+11	23	Fernando Rincon	Fernando Rincon
+11	23	Francisco Moya	Francisco Moya
+11	24	Jesus Barba	Jesus Barba
+11	24	Fernando Rincon	Fernando Rincon
+11	24	Francisco Moya	Francisco Moya
+11	24	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	24	David Villa	David Villa
+11	25	Jesus Barba	Jesus Barba
+11	25	Fernando Rincon	Fernando Rincon
+11	25	Francisco Moya	Francisco Moya
+11	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	25	David Villa	David Villa
+11	25	Julio Dondo	Julio Dondo
+11	26	Jesus Barba	Jesus Barba
+11	26	Fernando Rincon	Fernando Rincon
+11	26	Francisco Moya	Francisco Moya
+11	26	Julio Dondo	Julio Dondo
+11	28	Jesus Barba	Jesus Barba
+11	28	Fernando Rincon	Fernando Rincon
+11	28	Francisco Moya	Francisco Moya
+11	29	Jesus Barba	Jesus Barba
+11	29	Fernando Rincon	Fernando Rincon
+11	29	Francisco Moya	Francisco Moya
+11	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	29	David Villa	David Villa
+11	31	Jesus Barba	Jesus Barba
+11	31	Fernando Rincon	Fernando Rincon
+11	31	Francisco Moya	Francisco Moya
+11	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	31	David Villa	David Villa
+11	32	Francisco Moya	Francisco Moya
+11	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	32	David Villa	David Villa
+11	33	Jesus Barba	Jesus Barba
+11	33	Fernando Rincon	Fernando Rincon
+11	33	Francisco Moya	Francisco Moya
+11	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+11	33	David Villa	David Villa
+11	34	Jesus Barba	Jesus Barba
+11	34	Fernando Rincon	Fernando Rincon
+11	34	Francisco Moya	Francisco Moya
+11	34	Julio Dondo	Julio Dondo
+12	15	Francisco Moya	Francisco Moya
+12	16	Francisco Moya	Francisco Moya
+12	17	Francisco Moya	Francisco Moya
+12	18	Francisco Moya	Francisco Moya
+12	19	Francisco Moya	Francisco Moya
+12	23	Francisco Moya	Francisco Moya
+12	23	Jose Manuel Moya	Jose Manuel Moya
+12	24	Francisco Moya	Francisco Moya
+12	25	Francisco Moya	Francisco Moya
+12	26	Francisco Moya	Francisco Moya
+12	28	Francisco Moya	Francisco Moya
+12	29	Francisco Moya	Francisco Moya
+12	31	Francisco Moya	Francisco Moya
+12	32	Francisco Moya	Francisco Moya
+12	33	Francisco Moya	Francisco Moya
+12	34	Francisco Moya	Francisco Moya
+13	14	Pedro Merino	Pedro Merino
+13	14	Margarida F. Jacome	Margarida F. Jacome
+15	16	Fernando Rincon	Fernando Rincon
+15	16	Jesus Barba	Jesus Barba
+15	16	Francisco Moya	Francisco Moya
+15	16	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	16	David Villa	David Villa
+15	17	Fernando Rincon	Fernando Rincon
+15	17	Jesus Barba	Jesus Barba
+15	17	Francisco Moya	Francisco Moya
+15	17	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	17	David Villa	David Villa
+15	18	Fernando Rincon	Fernando Rincon
+15	18	Jesus Barba	Jesus Barba
+15	18	Francisco Moya	Francisco Moya
+15	18	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	18	David Villa	David Villa
+15	19	Francisco Moya	Francisco Moya
+15	19	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	19	David Villa	David Villa
+15	23	Fernando Rincon	Fernando Rincon
+15	23	Francisco Moya	Francisco Moya
+15	24	Fernando Rincon	Fernando Rincon
+15	24	Jesus Barba	Jesus Barba
+15	24	Francisco Moya	Francisco Moya
+15	24	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	24	David Villa	David Villa
+15	25	Julio Dondo	Julio Dondo
+15	25	Fernando Rincon	Fernando Rincon
+15	25	Jesus Barba	Jesus Barba
+15	25	Francisco Moya	Francisco Moya
+15	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	25	David Villa	David Villa
+15	26	Julio Dondo	Julio Dondo
+15	26	Fernando Rincon	Fernando Rincon
+15	26	Jesus Barba	Jesus Barba
+15	26	Francisco Moya	Francisco Moya
+15	28	Fernando Rincon	Fernando Rincon
+15	28	Jesus Barba	Jesus Barba
+15	28	Francisco Moya	Francisco Moya
+15	29	Fernando Rincon	Fernando Rincon
+15	29	Jesus Barba	Jesus Barba
+15	29	Francisco Moya	Francisco Moya
+15	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	29	David Villa	David Villa
+15	31	Fernando Rincon	Fernando Rincon
+15	31	Jesus Barba	Jesus Barba
+15	31	Francisco Moya	Francisco Moya
+15	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	31	David Villa	David Villa
+15	32	Francisco Moya	Francisco Moya
+15	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	32	David Villa	David Villa
+15	33	Fernando Rincon	Fernando Rincon
+15	33	Jesus Barba	Jesus Barba
+15	33	Francisco Moya	Francisco Moya
+15	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+15	33	David Villa	David Villa
+15	34	Julio Dondo	Julio Dondo
+15	34	Fernando Rincon	Fernando Rincon
+15	34	Jesus Barba	Jesus Barba
+15	34	Francisco Moya	Francisco Moya
+16	17	David Villa	David Villa
+16	17	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	17	Francisco Moya	Francisco Moya
+16	17	Fernando Rincon	Fernando Rincon
+16	17	Jesus Barba	Jesus Barba
+16	18	David Villa	David Villa
+16	18	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	18	Francisco Moya	Francisco Moya
+16	18	Fernando Rincon	Fernando Rincon
+16	18	Jesus Barba	Jesus Barba
+16	19	David Villa	David Villa
+16	19	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	19	Francisco Moya	Francisco Moya
+16	23	Francisco Moya	Francisco Moya
+16	23	Fernando Rincon	Fernando Rincon
+16	24	David Villa	David Villa
+16	24	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	24	Francisco Moya	Francisco Moya
+16	24	Fernando Rincon	Fernando Rincon
+16	24	Jesus Barba	Jesus Barba
+16	25	David Villa	David Villa
+16	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	25	Francisco Moya	Francisco Moya
+16	25	Fernando Rincon	Fernando Rincon
+16	25	Jesus Barba	Jesus Barba
+16	26	Francisco Moya	Francisco Moya
+16	26	Fernando Rincon	Fernando Rincon
+16	26	Jesus Barba	Jesus Barba
+16	28	Francisco Moya	Francisco Moya
+16	28	Fernando Rincon	Fernando Rincon
+16	28	Jesus Barba	Jesus Barba
+16	29	David Villa	David Villa
+16	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	29	Francisco Moya	Francisco Moya
+16	29	Fernando Rincon	Fernando Rincon
+16	29	Jesus Barba	Jesus Barba
+16	31	David Villa	David Villa
+16	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	31	Francisco Moya	Francisco Moya
+16	31	Fernando Rincon	Fernando Rincon
+16	31	Jesus Barba	Jesus Barba
+16	32	David Villa	David Villa
+16	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	32	Francisco Moya	Francisco Moya
+16	33	David Villa	David Villa
+16	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+16	33	Francisco Moya	Francisco Moya
+16	33	Fernando Rincon	Fernando Rincon
+16	33	Jesus Barba	Jesus Barba
+16	34	Francisco Moya	Francisco Moya
+16	34	Fernando Rincon	Fernando Rincon
+16	34	Jesus Barba	Jesus Barba
+17	18	David Villa	David Villa
+17	18	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	18	Francisco Moya	Francisco Moya
+17	18	Fernando Rincon	Fernando Rincon
+17	18	Jesus Barba	Jesus Barba
+17	19	David Villa	David Villa
+17	19	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	19	Francisco Moya	Francisco Moya
+17	23	Francisco Moya	Francisco Moya
+17	23	Fernando Rincon	Fernando Rincon
+17	24	David Villa	David Villa
+17	24	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	24	Francisco Moya	Francisco Moya
+17	24	Fernando Rincon	Fernando Rincon
+17	24	Jesus Barba	Jesus Barba
+17	25	David Villa	David Villa
+17	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	25	Francisco Moya	Francisco Moya
+17	25	Fernando Rincon	Fernando Rincon
+17	25	Jesus Barba	Jesus Barba
+17	26	Francisco Moya	Francisco Moya
+17	26	Fernando Rincon	Fernando Rincon
+17	26	Jesus Barba	Jesus Barba
+17	28	Francisco Moya	Francisco Moya
+17	28	Fernando Rincon	Fernando Rincon
+17	28	Jesus Barba	Jesus Barba
+17	29	David Villa	David Villa
+17	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	29	Francisco Moya	Francisco Moya
+17	29	Fernando Rincon	Fernando Rincon
+17	29	Jesus Barba	Jesus Barba
+17	31	David Villa	David Villa
+17	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	31	Francisco Moya	Francisco Moya
+17	31	Fernando Rincon	Fernando Rincon
+17	31	Jesus Barba	Jesus Barba
+17	32	David Villa	David Villa
+17	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	32	Francisco Moya	Francisco Moya
+17	33	David Villa	David Villa
+17	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+17	33	Francisco Moya	Francisco Moya
+17	33	Fernando Rincon	Fernando Rincon
+17	33	Jesus Barba	Jesus Barba
+17	34	Francisco Moya	Francisco Moya
+17	34	Fernando Rincon	Fernando Rincon
+17	34	Jesus Barba	Jesus Barba
+18	19	David Villa	David Villa
+18	19	Felix Jesus Villanueva	Felix Jesus Villanueva
+18	19	Francisco Moya	Francisco Moya
+18	23	Francisco Moya	Francisco Moya
+18	23	Fernando Rincon	Fernando Rincon
+18	24	David Villa	David Villa
+18	24	Felix Jesus Villanueva	Felix Jesus Villanueva
+18	24	Francisco Moya	Francisco Moya
+18	24	Fernando Rincon	Fernando Rincon
+18	24	Jesus Barba	Jesus Barba
+18	25	David Villa	David Villa
+18	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+18	25	Francisco Moya	Francisco Moya
+18	25	Fernando Rincon	Fernando Rincon
+18	25	Jesus Barba	Jesus Barba
+18	26	Francisco Moya	Francisco Moya
+18	26	Fernando Rincon	Fernando Rincon
+18	26	Jesus Barba	Jesus Barba
+18	28	Francisco Moya	Francisco Moya
+18	28	Fernando Rincon	Fernando Rincon
+18	28	Jesus Barba	Jesus Barba
+18	29	David Villa	David Villa
+18	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+18	29	Francisco Moya	Francisco Moya
+18	29	Fernando Rincon	Fernando Rincon
+18	29	Jesus Barba	Jesus Barba
+18	31	David Villa	David Villa
+18	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+18	31	Francisco Moya	Francisco Moya
+18	31	Fernando Rincon	Fernando Rincon
+18	31	Jesus Barba	Jesus Barba
+18	32	David Villa	David Villa
+18	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+18	32	Francisco Moya	Francisco Moya
+18	33	David Villa	David Villa
+18	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+18	33	Francisco Moya	Francisco Moya
+18	33	Fernando Rincon	Fernando Rincon
+18	33	Jesus Barba	Jesus Barba
+18	34	Francisco Moya	Francisco Moya
+18	34	Fernando Rincon	Fernando Rincon
+18	34	Jesus Barba	Jesus Barba
+19	23	Francisco Moya	Francisco Moya
+19	24	Francisco Moya	Francisco Moya
+19	24	Felix Jesus Villanueva	Felix Jesus Villanueva
+19	24	David Villa	David Villa
+19	25	Francisco Moya	Francisco Moya
+19	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+19	25	David Villa	David Villa
+19	26	Francisco Moya	Francisco Moya
+19	28	Francisco Moya	Francisco Moya
+19	29	Francisco Moya	Francisco Moya
+19	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+19	29	David Villa	David Villa
+19	31	Francisco Moya	Francisco Moya
+19	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+19	31	David Villa	David Villa
+19	32	Maria J. Santofimia	Maria J. Santofimia
+19	32	Francisco Moya	Francisco Moya
+19	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+19	32	David Villa	David Villa
+19	33	Francisco Moya	Francisco Moya
+19	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+19	33	David Villa	David Villa
+19	34	Francisco Moya	Francisco Moya
+20	21	Jesus Hamilton Ortiz	Jesus Hamilton Ortiz
+20	21	Carlos Andres Lucero	Carlos Andres Lucero
+22	27	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+22	27	Carlos Angel Iglesias	Carlos Angel Iglesias
+22	30	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+23	24	Fernando Rincon	Fernando Rincon
+23	24	Francisco Moya	Francisco Moya
+23	25	Fernando Rincon	Fernando Rincon
+23	25	Francisco Moya	Francisco Moya
+23	26	Fernando Rincon	Fernando Rincon
+23	26	Francisco Moya	Francisco Moya
+23	28	Fernando Rincon	Fernando Rincon
+23	28	Francisco Moya	Francisco Moya
+23	29	Fernando Rincon	Fernando Rincon
+23	29	Francisco Moya	Francisco Moya
+23	31	Fernando Rincon	Fernando Rincon
+23	31	Francisco Moya	Francisco Moya
+23	32	Francisco Moya	Francisco Moya
+23	33	Fernando Rincon	Fernando Rincon
+23	33	Francisco Moya	Francisco Moya
+23	34	Fernando Rincon	Fernando Rincon
+23	34	Francisco Moya	Francisco Moya
+24	25	Fernando Rincon	Fernando Rincon
+24	25	Francisco Moya	Francisco Moya
+24	25	Jesus Barba	Jesus Barba
+24	25	David Villa	David Villa
+24	25	Felix Jesus Villanueva	Felix Jesus Villanueva
+24	26	Fernando Rincon	Fernando Rincon
+24	26	Francisco Moya	Francisco Moya
+24	26	Jesus Barba	Jesus Barba
+24	28	Fernando Rincon	Fernando Rincon
+24	28	Francisco Moya	Francisco Moya
+24	28	Jesus Barba	Jesus Barba
+24	29	Fernando Rincon	Fernando Rincon
+24	29	Francisco Moya	Francisco Moya
+24	29	Jesus Barba	Jesus Barba
+24	29	David Villa	David Villa
+24	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+24	31	Fernando Rincon	Fernando Rincon
+24	31	Francisco Moya	Francisco Moya
+24	31	Jesus Barba	Jesus Barba
+24	31	David Villa	David Villa
+24	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+24	32	Francisco Moya	Francisco Moya
+24	32	David Villa	David Villa
+24	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+24	33	Fernando Rincon	Fernando Rincon
+24	33	Francisco Moya	Francisco Moya
+24	33	Jesus Barba	Jesus Barba
+24	33	David Villa	David Villa
+24	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+24	34	Fernando Rincon	Fernando Rincon
+24	34	Francisco Moya	Francisco Moya
+24	34	Jesus Barba	Jesus Barba
+25	26	Fernando Rincon	Fernando Rincon
+25	26	Jesus Barba	Jesus Barba
+25	26	Francisco Moya	Francisco Moya
+25	26	Julio Dondo	Julio Dondo
+25	28	Fernando Rincon	Fernando Rincon
+25	28	Jesus Barba	Jesus Barba
+25	28	Francisco Moya	Francisco Moya
+25	29	Fernando Rincon	Fernando Rincon
+25	29	Jesus Barba	Jesus Barba
+25	29	Francisco Moya	Francisco Moya
+25	29	Felix Jesus Villanueva	Felix Jesus Villanueva
+25	29	David Villa	David Villa
+25	31	Fernando Rincon	Fernando Rincon
+25	31	Jesus Barba	Jesus Barba
+25	31	Francisco Moya	Francisco Moya
+25	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+25	31	David Villa	David Villa
+25	32	Francisco Moya	Francisco Moya
+25	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+25	32	David Villa	David Villa
+25	33	Fernando Rincon	Fernando Rincon
+25	33	Jesus Barba	Jesus Barba
+25	33	Francisco Moya	Francisco Moya
+25	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+25	33	David Villa	David Villa
+25	34	Fernando Rincon	Fernando Rincon
+25	34	Jesus Barba	Jesus Barba
+25	34	Francisco Moya	Francisco Moya
+25	34	Julio Dondo	Julio Dondo
+26	28	Fernando Rincon	Fernando Rincon
+26	28	Jesus Barba	Jesus Barba
+26	28	Francisco Moya	Francisco Moya
+26	29	Fernando Rincon	Fernando Rincon
+26	29	Jesus Barba	Jesus Barba
+26	29	Francisco Moya	Francisco Moya
+26	31	Fernando Rincon	Fernando Rincon
+26	31	Jesus Barba	Jesus Barba
+26	31	Francisco Moya	Francisco Moya
+26	32	Francisco Moya	Francisco Moya
+26	33	Fernando Rincon	Fernando Rincon
+26	33	Jesus Barba	Jesus Barba
+26	33	Francisco Moya	Francisco Moya
+26	34	Fernando Rincon	Fernando Rincon
+26	34	Jesus Barba	Jesus Barba
+26	34	Francisco Moya	Francisco Moya
+26	34	Julio Dondo	Julio Dondo
+27	30	Marisa Luisa Lopez-Vallejo	Marisa Luisa Lopez-Vallejo
+28	29	Fernando Rincon	Fernando Rincon
+28	29	Francisco Moya	Francisco Moya
+28	29	Jesus Barba	Jesus Barba
+28	31	Fernando Rincon	Fernando Rincon
+28	31	Francisco Moya	Francisco Moya
+28	31	Jesus Barba	Jesus Barba
+28	32	Francisco Moya	Francisco Moya
+28	33	Fernando Rincon	Fernando Rincon
+28	33	Francisco Moya	Francisco Moya
+28	33	Jesus Barba	Jesus Barba
+28	34	Fernando Rincon	Fernando Rincon
+28	34	Francisco Moya	Francisco Moya
+28	34	Jesus Barba	Jesus Barba
+29	31	Felix Jesus Villanueva	Felix Jesus Villanueva
+29	31	David Villa	David Villa
+29	31	Francisco Moya	Francisco Moya
+29	31	Jesus Barba	Jesus Barba
+29	31	Fernando Rincon	Fernando Rincon
+29	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+29	32	David Villa	David Villa
+29	32	Francisco Moya	Francisco Moya
+29	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+29	33	David Villa	David Villa
+29	33	Francisco Moya	Francisco Moya
+29	33	Jesus Barba	Jesus Barba
+29	33	Fernando Rincon	Fernando Rincon
+29	34	Francisco Moya	Francisco Moya
+29	34	Jesus Barba	Jesus Barba
+29	34	Fernando Rincon	Fernando Rincon
+31	32	Francisco Moya	Francisco Moya
+31	32	David Villa	David Villa
+31	32	Felix Jesus Villanueva	Felix Jesus Villanueva
+31	33	Francisco Moya	Francisco Moya
+31	33	David Villa	David Villa
+31	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+31	33	Jesus Barba	Jesus Barba
+31	33	Fernando Rincon	Fernando Rincon
+31	34	Francisco Moya	Francisco Moya
+31	34	Jesus Barba	Jesus Barba
+31	34	Fernando Rincon	Fernando Rincon
+32	33	Francisco Moya	Francisco Moya
+32	33	Felix Jesus Villanueva	Felix Jesus Villanueva
+32	33	David Villa	David Villa
+32	34	Francisco Moya	Francisco Moya
+33	34	Jesus Barba	Jesus Barba
+33	34	Fernando Rincon	Fernando Rincon
+33	34	Francisco Moya	Francisco Moya

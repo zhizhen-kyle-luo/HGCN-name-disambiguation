@@ -1,0 +1,42 @@
+0	16	National University of Singapore, Singapore	National University of Singapore, Singapore
+1	10	Kodak Research Labs, Rochester, NY, USA	Res. Labs., Rochester, NY, USA
+1	15	Kodak Research Labs, Rochester, NY, USA	Eastman Kodak Company, Rochester, NY, USA
+1	25	Kodak Research Labs, Rochester, NY, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+1	28	Kodak Research Labs, Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA
+2	3	University of Texas at San Antonio	University of Texas at San Antonio, TX, USA
+2	9	University of Texas at San Antonio	University of Texas at San Antonio
+2	14	University of Texas at San Antonio	University of Texas at San Antonio, San Antonio, TX
+2	19	University of Texas at San Antonio	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+3	9	University of Texas at San Antonio, TX, USA	University of Texas at San Antonio
+3	14	University of Texas at San Antonio, TX, USA	University of Texas at San Antonio, San Antonio, TX
+3	19	University of Texas at San Antonio, TX, USA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+4	5	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA
+4	6	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+4	7	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+4	8	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+4	21	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	6	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	7	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	8	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+6	7	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+6	8	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+6	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+7	8	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+7	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+8	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+9	14	University of Texas at San Antonio	University of Texas at San Antonio, San Antonio, TX
+9	19	University of Texas at San Antonio	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+10	15	Res. Labs., Rochester, NY, USA	Eastman Kodak Company, Rochester, NY, USA
+10	18	Res. Labs., Rochester, NY, USA	Kodak Res. Labs, Rochester
+10	20	Res. Labs., Rochester, NY, USA	Kodak Res. Labs., Rochester
+10	25	Res. Labs., Rochester, NY, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+10	28	Res. Labs., Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA
+14	19	University of Texas at San Antonio, San Antonio, TX	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+15	25	Eastman Kodak Company, Rochester, NY, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+15	28	Eastman Kodak Company, Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA
+17	30	National University of Defense Technology Changsha, China	School of Computer, National University of Defense Technology, Changsha, China
+18	20	Kodak Res. Labs, Rochester	Kodak Res. Labs., Rochester
+18	28	Kodak Res. Labs, Rochester	Kodak Res. Labs., Rochester, NY, USA
+20	28	Kodak Res. Labs., Rochester	Kodak Res. Labs., Rochester, NY, USA
+25	28	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA

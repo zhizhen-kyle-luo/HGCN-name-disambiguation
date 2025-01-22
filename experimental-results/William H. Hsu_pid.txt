@@ -1,0 +1,34 @@
+11821	Probabilistic Learning in Bayesian and Stochastic Neural Networks
+12491	Probabilistic Prediction of Protein Secondary Structure Using Causal Networks (Extended Abstract)
+13029	Bayesian Network Models for Generation of Crisis Management Training Scenarios
+13046	A Genetic Algorithm for Tuning Variable Orderings in Bayesian Network Structure Learning
+59374	An ACO Algorithm for the Most Probable Explanation Problem
+59378	A Learning-Based Algorithm Selection Meta-reasoner for the Real-Time MPE Problem
+63539	Structural Prediction of Protein-Protein Interactions in Saccharomyces cerevisiae
+152781	Text Extraction from the Web via Text-to-Tag Ratio
+194177	Layered Learning in Genetic Programming for a Cooperative Robot Soccer Problem
+225452	Evolutionary tree genetic programming
+225762	An Ant Colony Approach For The Steiner Tree Problem
+225763	An Ant Colony Algorithm for Steiner Trees: New Results
+226027	GA-Hardness Revisited
+226122	Genetic Algorithms for Reformulation of Large-Scale KDD Problems with Many Irrelevant Attributes
+226123	Genetic Programming And Multi-agent Layered Learning By Reinforcements
+226124	A Permutation Genetic Algorithm For Variable Ordering In Learning Bayesian Networks From Data
+226125	Genetic Algorithm Wrappers For Feature Subset Selection In Supervised Inductive Learning
+226126	Genetic Wrappers for Constructive Induction in High-Performance Data Mining
+260308	Dynamic System Prediction using Temporal Artificial Neural Networks and Multi-Objective Genetic Algorithms
+365072	Relational Graphical Models of Computational Workflows for Data Mining
+438322	Protein Secondary-Structure Modeling with Probabilistic Networks
+839498	High-Performance Commercial Data Mining: A Multistrategy Machine Learning Application
+893320	Self-Organized-Expert Modular Network for Classification of Spatiotemporal Sequences
+914708	The Clusnet Algorithm And Time Series Prediction
+940458	Genetic wrappers for feature selection in decision tree induction and variable ordering in Bayesian network structure learning
+1009547	A Multistrategy Approach to Classifier Learning from Time Series
+1021740	Parameter Significance Estimation and Financial Prediction
+1074316	Automatic Synthesis of Compression Techniques for Heterogeneous
+1189777	A machine learning approach to algorithm selection for NP\mathcal{NP} -hard optimization problems: a case study on the MPE problem
+1207716	An evolutionary approach to constructive induction for link discovery
+1208120	An evolutionary approach to constructive induction for link discovery
+1245295	Graph Drawing Heuristics for Path Finding in Large Dimensionless Graphs
+1319537	Bi-relational Network Analysis Using a Fast Random Walk with Restart.
+1492306	Control of inductive bias in supervised learning using evolutionary computation: a wrapper-based approach

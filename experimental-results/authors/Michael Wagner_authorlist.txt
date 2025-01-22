@@ -1,0 +1,197 @@
+0	17	Weng-Keen Wong	Weng-Keen Wong
+0	17	Andrew W. Moore	Andrew W. Moore
+0	17	Gregory F. Cooper	Gregory F. Cooper
+0	26	Weng-Keen Wong	Weng-Keen Wong
+0	26	Gregory F. Cooper	Gregory F. Cooper
+0	44	Weng-Keen Wong	Weng-Keen Wong
+0	44	Andrew W. Moore	Andrew W. Moore
+0	44	Gregory F. Cooper	Gregory F. Cooper
+1	10	Girija Chetty	Girija Chetty
+1	11	Girija Chetty	Girija Chetty
+1	24	Girija Chetty	Girija Chetty
+1	40	Girija Chetty	Girija Chetty
+1	64	Girija Chetty	Girija Chetty
+1	67	Girija Chetty	Girija Chetty
+1	69	Girija Chetty	Girija Chetty
+1	70	Girija Chetty	Girija Chetty
+2	3	Dat Tran	Dat Tran
+2	4	Dat Tran	Dat Tran
+2	14	Dat Tran	Dat Tran
+2	21	Dat Tran	Dat Tran
+2	38	Dat Tran	Dat Tran
+2	52	Dat Tran	Dat Tran
+3	4	Dat Tran	Dat Tran
+3	14	Dat Tran	Dat Tran
+3	21	Dat Tran	Dat Tran
+3	38	Dat Tran	Dat Tran
+3	52	Dat Tran	Dat Tran
+4	14	Dat Tran	Dat Tran
+4	21	Dat Tran	Dat Tran
+4	38	Dat Tran	Dat Tran
+4	52	Dat Tran	Dat Tran
+5	6	Manfred Fuchs	Manfred Fuchs
+5	7	Manfred Fuchs	Manfred Fuchs
+6	7	Manfred Fuchs	Manfred Fuchs
+8	20	Holger Regenbrecht	Holger Regenbrecht
+8	31	Holger Regenbrecht	Holger Regenbrecht
+8	51	Holger Regenbrecht	Holger Regenbrecht
+8	53	Holger Regenbrecht	Holger Regenbrecht
+9	22	Roland Reichle	Roland Reichle
+9	22	Mohammad Ullah Khan	Mohammad Ullah Khan
+9	22	Kurt Geihs	Kurt Geihs
+9	22	Massimo Valla	Massimo Valla
+9	22	Cristina Fra	Cristina Fra
+9	22	Nearchos Paspallis	Nearchos Paspallis
+9	22	George A. Papadopoulos	George A. Papadopoulos
+9	55	Roland Reichle	Roland Reichle
+9	55	Mohammad Ullah Khan	Mohammad Ullah Khan
+9	55	Kurt Geihs	Kurt Geihs
+9	56	Roland Reichle	Roland Reichle
+9	56	Massimo Valla	Massimo Valla
+9	58	Roland Reichle	Roland Reichle
+9	58	Mohammad Ullah Khan	Mohammad Ullah Khan
+9	58	Kurt Geihs	Kurt Geihs
+9	60	Kurt Geihs	Kurt Geihs
+9	61	Roland Reichle	Roland Reichle
+9	61	Mohammad Ullah Khan	Mohammad Ullah Khan
+9	61	Kurt Geihs	Kurt Geihs
+9	61	George A. Papadopoulos	George A. Papadopoulos
+9	65	Roland Reichle	Roland Reichle
+9	65	Kurt Geihs	Kurt Geihs
+10	11	Girija Chetty	Girija Chetty
+10	24	Girija Chetty	Girija Chetty
+10	40	Girija Chetty	Girija Chetty
+10	64	Girija Chetty	Girija Chetty
+10	67	Girija Chetty	Girija Chetty
+10	69	Girija Chetty	Girija Chetty
+10	70	Girija Chetty	Girija Chetty
+11	24	Girija Chetty	Girija Chetty
+11	40	Girija Chetty	Girija Chetty
+11	64	Girija Chetty	Girija Chetty
+11	67	Girija Chetty	Girija Chetty
+11	69	Girija Chetty	Girija Chetty
+11	70	Girija Chetty	Girija Chetty
+14	21	Dat Tran	Dat Tran
+14	38	Dat Tran	Dat Tran
+14	52	Dat Tran	Dat Tran
+16	18	Tuan D. Pham	Tuan D. Pham
+16	37	Tuan D. Pham	Tuan D. Pham
+16	41	Tuan D. Pham	Tuan D. Pham
+16	48	Tuan D. Pham	Tuan D. Pham
+16	49	Tuan D. Pham	Tuan D. Pham
+16	50	Tuan D. Pham	Tuan D. Pham
+17	26	Weng-Keen Wong	Weng-Keen Wong
+17	26	Gregory F. Cooper	Gregory F. Cooper
+17	44	Weng-Keen Wong	Weng-Keen Wong
+17	44	Andrew W. Moore	Andrew W. Moore
+17	44	Gregory F. Cooper	Gregory F. Cooper
+18	37	Tuan D. Pham	Tuan D. Pham
+18	41	Tuan D. Pham	Tuan D. Pham
+18	48	Tuan D. Pham	Tuan D. Pham
+18	49	Tuan D. Pham	Tuan D. Pham
+18	50	Tuan D. Pham	Tuan D. Pham
+19	27	Eben Myers	Eben Myers
+19	27	Peter Coppin	Peter Coppin
+19	27	Luisa Lu	Luisa Lu
+19	27	W. Ronald McCloskey	W. Ronald McCloskey
+19	27	David Seneker	David Seneker
+20	31	Holger Regenbrecht	Holger Regenbrecht
+20	51	Holger Regenbrecht	Holger Regenbrecht
+20	51	Claudia Ott	Claudia Ott
+20	51	Tim Lum	Tim Lum
+20	51	Petra Kohler	Petra Kohler
+20	51	Wilhelm Wilke	Wilhelm Wilke
+20	51	Erich Mueller	Erich Mueller
+20	53	Holger Regenbrecht	Holger Regenbrecht
+21	38	Dat Tran	Dat Tran
+21	52	Dat Tran	Dat Tran
+22	55	Roland Reichle	Roland Reichle
+22	55	Mohammad Ullah Khan	Mohammad Ullah Khan
+22	55	Kurt Geihs	Kurt Geihs
+22	56	Roland Reichle	Roland Reichle
+22	56	Massimo Valla	Massimo Valla
+22	58	Roland Reichle	Roland Reichle
+22	58	Mohammad Ullah Khan	Mohammad Ullah Khan
+22	58	Kurt Geihs	Kurt Geihs
+22	60	Kurt Geihs	Kurt Geihs
+22	61	Roland Reichle	Roland Reichle
+22	61	Mohammad Ullah Khan	Mohammad Ullah Khan
+22	61	Kurt Geihs	Kurt Geihs
+22	61	George A. Papadopoulos	George A. Papadopoulos
+22	65	Roland Reichle	Roland Reichle
+22	65	Kurt Geihs	Kurt Geihs
+24	40	Girija Chetty	Girija Chetty
+24	64	Girija Chetty	Girija Chetty
+24	67	Girija Chetty	Girija Chetty
+24	69	Girija Chetty	Girija Chetty
+24	70	Girija Chetty	Girija Chetty
+26	44	Gregory F. Cooper	Gregory F. Cooper
+26	44	Weng-Keen Wong	Weng-Keen Wong
+28	66	Ming Guo	Ming Guo
+28	66	Constance E. West	Constance West
+31	51	Holger Regenbrecht	Holger Regenbrecht
+31	53	Holger Regenbrecht	Holger Regenbrecht
+31	53	Gregory Baratoff	Gregory Baratoff
+34	35	William Laverty	William Laverty
+34	35	Ron Henderson	Ron Henderson
+34	35	Michael Hiron	Michael Hiron
+34	36	William Laverty	William Laverty
+34	36	Ron Henderson	Ron Henderson
+34	36	Michael Hiron	Michael Hiron
+35	36	Doug Mahar	Doug Mahar
+35	36	Renee Napier	Renee Napier
+35	36	William Laverty	William Laverty
+35	36	Ron Henderson	Ron Henderson
+35	36	Michael Hiron	Michael Hiron
+37	41	Tuan D. Pham	Tuan D. Pham
+37	48	Tuan D. Pham	Tuan D. Pham
+37	49	Tuan D. Pham	Tuan D. Pham
+37	50	Tuan D. Pham	Tuan D. Pham
+38	52	Dat Tran	Dat Tran
+40	64	Girija Chetty	Girija Chetty
+40	67	Girija Chetty	Girija Chetty
+40	69	Girija Chetty	Girija Chetty
+40	70	Girija Chetty	Girija Chetty
+41	48	Tuan D. Pham	Tuan D. Pham
+41	49	Tuan D. Pham	Tuan D. Pham
+41	50	Tuan D. Pham	Tuan D. Pham
+42	43	Jaroslaw Meller	Jaroslaw Meller
+42	45	Jaroslaw Meller	Jaroslaw Meller
+43	45	Jaroslaw Meller	Jaroslaw Meller
+43	45	Ron Elber	Ron Elber
+46	47	Alexander Loy	Alexander Loy
+46	47	Matthias Horn	Matthias Horn
+48	49	Tuan D. Pham	Tuan D. Pham
+48	50	Tuan D. Pham	Tuan D. Pham
+49	50	Tuan D. Pham	Tuan D. Pham
+51	53	Holger Regenbrecht	Holger Regenbrecht
+54	62	Romain Rouvoy	Romain Rouvoy
+55	56	Roland Reichle	Roland Reichle
+55	58	Kurt Geihs	Kurt Geihs
+55	58	Roland Reichle	Roland Reichle
+55	58	Mohammad Ullah Khan	Mohammad Ullah Khan
+55	60	Kurt Geihs	Kurt Geihs
+55	61	Kurt Geihs	Kurt Geihs
+55	61	Roland Reichle	Roland Reichle
+55	61	Mohammad Ullah Khan	Mohammad Ullah Khan
+55	65	Kurt Geihs	Kurt Geihs
+55	65	Roland Reichle	Roland Reichle
+56	58	Roland Reichle	Roland Reichle
+56	61	Roland Reichle	Roland Reichle
+56	65	Roland Reichle	Roland Reichle
+58	60	Kurt Geihs	Kurt Geihs
+58	61	Kurt Geihs	Kurt Geihs
+58	61	Roland Reichle	Roland Reichle
+58	61	Mohammad Ullah Khan	Mohammad Ullah Khan
+58	65	Kurt Geihs	Kurt Geihs
+58	65	Roland Reichle	Roland Reichle
+60	61	Kurt Geihs	Kurt Geihs
+60	65	Kurt Geihs	Kurt Geihs
+61	65	Roland Reichle	Roland Reichle
+61	65	Kurt Geihs	Kurt Geihs
+64	67	Girija Chetty	Girija Chetty
+64	69	Girija Chetty	Girija Chetty
+64	70	Girija Chetty	Girija Chetty
+67	69	Girija Chetty	Girija Chetty
+67	70	Girija Chetty	Girija Chetty
+69	70	Girija Chetty	Girija Chetty

@@ -1,0 +1,772 @@
+1	2	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Fudan University
+1	3	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Fudan University
+1	4	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+1	91	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+1	92	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+2	3	Fudan University	Fudan University
+2	4	Fudan University	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+2	91	Fudan University	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+2	92	Fudan University	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+3	4	Fudan University	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+3	91	Fudan University	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+3	92	Fudan University	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+4	91	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+4	92	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+17	32	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,
+17	35	University of Illinois at Chicago, Chicago, IL	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL
+17	37	University of Illinois at Chicago, Chicago, IL	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA
+17	40	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+17	41	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, USA
+17	42	University of Illinois at Chicago, Chicago, IL	Univ. of Illinois at Chicago, Chicago
+17	60	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	62	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	72	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	77	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	78	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	79	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	87	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+17	95	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+17	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+17	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+17	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+17	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+17	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+17	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+17	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+17	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+17	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+17	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+22	34	Sch. of Comput., Nat. Univ. of Singapore	Sch. of Comput., Nat. Univ. of Singapore
+22	36	Sch. of Comput., Nat. Univ. of Singapore	Sch. of Comput., Nat. Univ. of Singapore, Singapore
+22	38	Sch. of Comput., Nat. Univ. of Singapore	Sch. of Comput., Nat. Univ. of Singapore
+22	47	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore
+22	61	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+22	64	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+22	65	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+22	66	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+22	71	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Singapore 117543
+22	73	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+22	74	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+22	76	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+22	89	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+22	111	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+22	120	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+22	130	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+22	132	Sch. of Comput., Nat. Univ. of Singapore	Nat. Univ. of Singapore, Singapore
+22	146	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+22	157	Sch. of Comput., Nat. Univ. of Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+23	39	Lab. for Adv. Comput., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci., Illinois Univ., Chicago, IL, USA
+23	147	Lab. for Adv. Comput., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci., Illinois Univ., Chicago, IL
+32	35	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL
+32	37	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA
+32	40	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago
+32	41	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, USA
+32	42	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	Univ. of Illinois at Chicago, Chicago
+32	60	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	62	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	72	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	77	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	78	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	79	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	87	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+32	95	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	96	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	103	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago
+32	109	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	110	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	113	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	114	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago
+32	115	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+32	117	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	118	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	128	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago
+32	131	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago
+32	139	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	141	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	142	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+32	145	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago
+32	152	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL, USA
+32	156	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL, USA
+32	175	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago
+32	177	Department of Computer Science, University of Illinois at Chicago, IL 60607-7053,	University of Illinois at Chicago, Chicago, IL
+34	36	Sch. of Comput., Nat. Univ. of Singapore	Sch. of Comput., Nat. Univ. of Singapore, Singapore
+34	38	Sch. of Comput., Nat. Univ. of Singapore	Sch. of Comput., Nat. Univ. of Singapore
+34	47	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore
+34	61	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+34	64	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+34	65	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+34	66	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+34	71	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Singapore 117543
+34	73	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+34	74	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+34	76	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+34	89	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+34	111	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+34	120	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+34	130	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+34	132	Sch. of Comput., Nat. Univ. of Singapore	Nat. Univ. of Singapore, Singapore
+34	146	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+34	157	Sch. of Comput., Nat. Univ. of Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+35	37	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA
+35	40	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+35	41	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, USA
+35	42	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	Univ. of Illinois at Chicago, Chicago
+35	60	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	62	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	72	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	77	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	78	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	79	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	87	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+35	95	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	96	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	103	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+35	109	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	110	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	113	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	114	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+35	115	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+35	117	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	118	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	128	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+35	131	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+35	139	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	141	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	142	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+35	145	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+35	152	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+35	156	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+35	175	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+35	177	Dept. of Comput. Sci., Univ. of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+36	38	Sch. of Comput., Nat. Univ. of Singapore, Singapore	Sch. of Comput., Nat. Univ. of Singapore
+36	47	Sch. of Comput., Nat. Univ. of Singapore, Singapore	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore
+36	61	Sch. of Comput., Nat. Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+36	64	Sch. of Comput., Nat. Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+36	65	Sch. of Comput., Nat. Univ. of Singapore, Singapore	National University of Singapore, Singapore
+36	66	Sch. of Comput., Nat. Univ. of Singapore, Singapore	National University of Singapore, Singapore
+36	71	Sch. of Comput., Nat. Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117543
+36	73	Sch. of Comput., Nat. Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+36	74	Sch. of Comput., Nat. Univ. of Singapore, Singapore	National University of Singapore, Singapore
+36	76	Sch. of Comput., Nat. Univ. of Singapore, Singapore	National University of Singapore, Singapore
+36	89	Sch. of Comput., Nat. Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+36	111	Sch. of Comput., Nat. Univ. of Singapore, Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+36	120	Sch. of Comput., Nat. Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+36	130	Sch. of Comput., Nat. Univ. of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+36	132	Sch. of Comput., Nat. Univ. of Singapore, Singapore	Nat. Univ. of Singapore, Singapore
+36	146	Sch. of Comput., Nat. Univ. of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+36	157	Sch. of Comput., Nat. Univ. of Singapore, Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+37	40	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago
+37	41	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, USA
+37	42	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	Univ. of Illinois at Chicago, Chicago
+37	60	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	62	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	72	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	77	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	78	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	79	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	87	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+37	95	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	96	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	103	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago
+37	109	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	110	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	113	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	114	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago
+37	115	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+37	117	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	118	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	128	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago
+37	131	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago
+37	139	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	141	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	142	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+37	145	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago
+37	152	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL, USA
+37	156	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL, USA
+37	175	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago
+37	177	Dept. of Comput. Sci., Univ. of Illinois at Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+38	47	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore
+38	61	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+38	64	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+38	65	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+38	66	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+38	71	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Singapore 117543
+38	73	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+38	74	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+38	76	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore, Singapore
+38	89	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+38	111	Sch. of Comput., Nat. Univ. of Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+38	120	Sch. of Comput., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+38	130	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+38	132	Sch. of Comput., Nat. Univ. of Singapore	Nat. Univ. of Singapore, Singapore
+38	146	Sch. of Comput., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+38	157	Sch. of Comput., Nat. Univ. of Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+39	147	Dept. of Comput. Sci., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci., Illinois Univ., Chicago, IL
+40	41	University of Illinois at Chicago	University of Illinois at Chicago, USA
+40	42	University of Illinois at Chicago	Univ. of Illinois at Chicago, Chicago
+40	60	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	62	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	72	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	77	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	78	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	79	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	87	University of Illinois at Chicago	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+40	95	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	96	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	103	University of Illinois at Chicago	University of Illinois at Chicago
+40	109	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	110	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	113	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	114	University of Illinois at Chicago	University of Illinois at Chicago
+40	115	University of Illinois at Chicago	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+40	117	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	118	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	128	University of Illinois at Chicago	University of Illinois at Chicago
+40	131	University of Illinois at Chicago	University of Illinois at Chicago
+40	139	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	141	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	142	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+40	145	University of Illinois at Chicago	University of Illinois at Chicago
+40	152	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+40	156	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+40	175	University of Illinois at Chicago	University of Illinois at Chicago
+40	177	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+41	42	University of Illinois at Chicago, USA	Univ. of Illinois at Chicago, Chicago
+41	60	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	62	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	72	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	77	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	78	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	79	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	87	University of Illinois at Chicago, USA	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+41	95	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	96	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	103	University of Illinois at Chicago, USA	University of Illinois at Chicago
+41	109	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	110	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	113	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	114	University of Illinois at Chicago, USA	University of Illinois at Chicago
+41	115	University of Illinois at Chicago, USA	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+41	117	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	118	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	128	University of Illinois at Chicago, USA	University of Illinois at Chicago
+41	131	University of Illinois at Chicago, USA	University of Illinois at Chicago
+41	139	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	141	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	142	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+41	145	University of Illinois at Chicago, USA	University of Illinois at Chicago
+41	152	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL, USA
+41	156	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL, USA
+41	175	University of Illinois at Chicago, USA	University of Illinois at Chicago
+41	177	University of Illinois at Chicago, USA	University of Illinois at Chicago, Chicago, IL
+42	60	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	62	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	72	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	77	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	78	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	79	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	87	Univ. of Illinois at Chicago, Chicago	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+42	95	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	96	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	103	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago
+42	109	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	110	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	113	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	114	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago
+42	115	Univ. of Illinois at Chicago, Chicago	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+42	117	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	118	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	128	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago
+42	131	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago
+42	139	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	141	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	142	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+42	145	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago
+42	152	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL, USA
+42	156	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL, USA
+42	175	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago
+42	177	Univ. of Illinois at Chicago, Chicago	University of Illinois at Chicago, Chicago, IL
+46	97	Beijing University of Posts and Telecommunications, China	Beijing University of Posts and Telecommunications, China
+47	61	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+47	64	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+47	65	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	National University of Singapore, Singapore
+47	66	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	National University of Singapore, Singapore
+47	71	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Singapore 117543
+47	73	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+47	74	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	National University of Singapore, Singapore
+47	76	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	National University of Singapore, Singapore
+47	89	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+47	111	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+47	120	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+47	130	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+47	132	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	Nat. Univ. of Singapore, Singapore
+47	146	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+47	157	Dept. of Inf. Syst. Comput. Sci., Nat. Univ. of Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+60	62	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	72	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	77	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	78	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	79	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	87	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+60	95	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+60	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+60	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+60	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+60	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+60	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+60	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+60	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+60	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+60	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+60	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+61	64	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+61	65	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	National University of Singapore, Singapore
+61	66	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	National University of Singapore, Singapore
+61	71	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	School of Computing, National University of Singapore, Singapore 117543
+61	73	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+61	74	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	National University of Singapore, Singapore
+61	76	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	National University of Singapore, Singapore
+61	89	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+61	111	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	National University of Singapore/Singapore-MIT Alliance, Singapore
+61	120	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+61	130	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+61	132	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	Nat. Univ. of Singapore, Singapore
+61	146	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+61	157	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+62	72	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	77	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	78	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	79	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	87	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+62	95	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+62	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+62	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+62	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+62	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+62	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+62	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+62	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+62	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+62	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+62	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+64	65	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore, Singapore
+64	66	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore, Singapore
+64	71	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	School of Computing, National University of Singapore, Singapore 117543
+64	73	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+64	74	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore, Singapore
+64	76	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore, Singapore
+64	89	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+64	111	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore/Singapore-MIT Alliance, Singapore
+64	120	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+64	130	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+64	132	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	Nat. Univ. of Singapore, Singapore
+64	146	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+64	157	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+65	66	National University of Singapore, Singapore	National University of Singapore, Singapore
+65	71	National University of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117543
+65	73	National University of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+65	74	National University of Singapore, Singapore	National University of Singapore, Singapore
+65	76	National University of Singapore, Singapore	National University of Singapore, Singapore
+65	89	National University of Singapore, Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+65	111	National University of Singapore, Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+65	120	National University of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+65	130	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+65	132	National University of Singapore, Singapore	Nat. Univ. of Singapore, Singapore
+65	146	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+65	157	National University of Singapore, Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+66	71	National University of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117543
+66	73	National University of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+66	74	National University of Singapore, Singapore	National University of Singapore, Singapore
+66	76	National University of Singapore, Singapore	National University of Singapore, Singapore
+66	89	National University of Singapore, Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+66	111	National University of Singapore, Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+66	120	National University of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+66	130	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+66	132	National University of Singapore, Singapore	Nat. Univ. of Singapore, Singapore
+66	146	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+66	157	National University of Singapore, Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+71	73	School of Computing, National University of Singapore, Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543
+71	74	School of Computing, National University of Singapore, Singapore 117543	National University of Singapore, Singapore
+71	76	School of Computing, National University of Singapore, Singapore 117543	National University of Singapore, Singapore
+71	89	School of Computing, National University of Singapore, Singapore 117543	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+71	111	School of Computing, National University of Singapore, Singapore 117543	National University of Singapore/Singapore-MIT Alliance, Singapore
+71	120	School of Computing, National University of Singapore, Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+71	130	School of Computing, National University of Singapore, Singapore 117543	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+71	132	School of Computing, National University of Singapore, Singapore 117543	Nat. Univ. of Singapore, Singapore
+71	146	School of Computing, National University of Singapore, Singapore 117543	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+71	157	School of Computing, National University of Singapore, Singapore 117543	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+72	77	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	78	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	79	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	87	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+72	95	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+72	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+72	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+72	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+72	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+72	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+72	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+72	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+72	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+72	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+72	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+73	74	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore, Singapore
+73	76	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore, Singapore
+73	89	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+73	111	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	National University of Singapore/Singapore-MIT Alliance, Singapore
+73	120	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+73	130	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+73	132	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	Nat. Univ. of Singapore, Singapore
+73	146	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+73	157	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+74	76	National University of Singapore, Singapore	National University of Singapore, Singapore
+74	89	National University of Singapore, Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+74	111	National University of Singapore, Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+74	120	National University of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+74	130	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+74	132	National University of Singapore, Singapore	Nat. Univ. of Singapore, Singapore
+74	146	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+74	157	National University of Singapore, Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+76	89	National University of Singapore, Singapore	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260
+76	111	National University of Singapore, Singapore	National University of Singapore/Singapore-MIT Alliance, Singapore
+76	120	National University of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+76	130	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+76	132	National University of Singapore, Singapore	Nat. Univ. of Singapore, Singapore
+76	146	National University of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+76	157	National University of Singapore, Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+77	78	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	79	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	87	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+77	95	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+77	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+77	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+77	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+77	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+77	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+77	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+77	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+77	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+77	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+77	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	79	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	87	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+78	95	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+78	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+78	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+78	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+78	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+78	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+78	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+78	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+78	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+78	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+78	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	87	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA
+79	95	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+79	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+79	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+79	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+79	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+79	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+79	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+79	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+79	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+79	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+79	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+87	95	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	96	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	103	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago
+87	109	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	110	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	113	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	114	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago
+87	115	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+87	117	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	118	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	128	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago
+87	131	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago
+87	139	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	141	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	142	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+87	145	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago
+87	152	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL, USA
+87	156	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL, USA
+87	175	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago
+87	177	Department of Computer Science, University of Illinois at Chicago, 851 S. Morgan Street, Chicago IL 60607, USA	University of Illinois at Chicago, Chicago, IL
+89	111	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	National University of Singapore/Singapore-MIT Alliance, Singapore
+89	120	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+89	130	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+89	132	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	Nat. Univ. of Singapore, Singapore
+89	146	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+89	157	School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+91	92	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai
+95	96	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+95	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+95	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+95	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+95	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+95	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+95	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+95	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+95	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+95	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+95	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	103	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+96	109	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+96	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+96	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+96	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+96	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+96	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+96	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+96	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+96	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+96	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+103	109	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	110	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	113	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	114	University of Illinois at Chicago	University of Illinois at Chicago
+103	115	University of Illinois at Chicago	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+103	117	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	118	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	128	University of Illinois at Chicago	University of Illinois at Chicago
+103	131	University of Illinois at Chicago	University of Illinois at Chicago
+103	139	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	141	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	142	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+103	145	University of Illinois at Chicago	University of Illinois at Chicago
+103	152	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+103	156	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+103	175	University of Illinois at Chicago	University of Illinois at Chicago
+103	177	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+109	110	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+109	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+109	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+109	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+109	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+109	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+109	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+109	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+109	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+109	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+109	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+109	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+109	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+109	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+109	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+109	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+110	113	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+110	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+110	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+110	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+110	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+110	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+110	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+110	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+110	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+110	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+110	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+110	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+110	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+110	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+110	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+111	120	National University of Singapore/Singapore-MIT Alliance, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg
+111	130	National University of Singapore/Singapore-MIT Alliance, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+111	132	National University of Singapore/Singapore-MIT Alliance, Singapore	Nat. Univ. of Singapore, Singapore
+111	146	National University of Singapore/Singapore-MIT Alliance, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+111	157	National University of Singapore/Singapore-MIT Alliance, Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+113	114	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+113	115	University of Illinois at Chicago, Chicago, IL	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+113	117	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+113	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+113	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+113	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+113	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+113	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+113	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+113	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+113	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+113	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+113	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+113	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+114	115	University of Illinois at Chicago	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607
+114	117	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+114	118	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+114	128	University of Illinois at Chicago	University of Illinois at Chicago
+114	131	University of Illinois at Chicago	University of Illinois at Chicago
+114	139	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+114	141	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+114	142	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+114	145	University of Illinois at Chicago	University of Illinois at Chicago
+114	152	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+114	156	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+114	175	University of Illinois at Chicago	University of Illinois at Chicago
+114	177	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+115	117	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL
+115	118	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL
+115	128	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago
+115	131	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago
+115	139	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL
+115	141	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL
+115	142	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL
+115	145	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago
+115	152	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL, USA
+115	156	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL, USA
+115	175	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago
+115	177	Department of Computer Science, University of Illinois at Chicago, Chicago, USA 60607	University of Illinois at Chicago, Chicago, IL
+117	118	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+117	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+117	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+117	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+117	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+117	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+117	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+117	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+117	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+117	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+117	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+118	128	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+118	131	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+118	139	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+118	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+118	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+118	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+118	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+118	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+118	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+118	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+120	130	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+120	132	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg	Nat. Univ. of Singapore, Singapore
+120	146	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+120	157	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543. liub@comp.nus.edu.sg	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+128	131	University of Illinois at Chicago	University of Illinois at Chicago
+128	139	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+128	141	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+128	142	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+128	145	University of Illinois at Chicago	University of Illinois at Chicago
+128	152	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+128	156	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+128	175	University of Illinois at Chicago	University of Illinois at Chicago
+128	177	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+130	132	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore	Nat. Univ. of Singapore, Singapore
+130	146	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+130	157	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+131	139	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+131	141	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+131	142	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+131	145	University of Illinois at Chicago	University of Illinois at Chicago
+131	152	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+131	156	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+131	175	University of Illinois at Chicago	University of Illinois at Chicago
+131	177	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+132	146	Nat. Univ. of Singapore, Singapore	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore
+132	157	Nat. Univ. of Singapore, Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+139	141	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+139	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+139	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+139	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+139	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+139	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+139	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+141	142	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+141	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+141	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+141	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+141	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+141	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+142	145	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+142	152	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+142	156	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL, USA
+142	175	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago
+142	177	University of Illinois at Chicago, Chicago, IL	University of Illinois at Chicago, Chicago, IL
+145	152	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+145	156	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL, USA
+145	175	University of Illinois at Chicago	University of Illinois at Chicago
+145	177	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL
+146	157	Dept. of Inf. Syst. & Comput. Sci., Nat. Univ. of Singapore	NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore,
+152	156	University of Illinois at Chicago, Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL, USA
+152	175	University of Illinois at Chicago, Chicago, IL, USA	University of Illinois at Chicago
+152	177	University of Illinois at Chicago, Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+156	175	University of Illinois at Chicago, Chicago, IL, USA	University of Illinois at Chicago
+156	177	University of Illinois at Chicago, Chicago, IL, USA	University of Illinois at Chicago, Chicago, IL
+168	179	Dept. of Electron. & Inf. Eng., Huazhong Univ. of Sci. & Technol., Wuhan, China	Sch. of Inf. Eng., Univ. of Sci. & Technol., Beijing, China
+169	170	Dept. of Comput. & Inf. Eng., Wuhan Polytech. Univ., Wuhan, China	Dept. of Comput. & Inf. Eng., Wuhan Polytech. Univ., Wuhan, China
+175	177	University of Illinois at Chicago	University of Illinois at Chicago, Chicago, IL

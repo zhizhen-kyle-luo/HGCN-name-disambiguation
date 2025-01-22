@@ -1,0 +1,43 @@
+157119	Understanding BGP Behavior through a Study of DoD Prefixes
+161770	A Study of Packet Delivery Performance during Routing Convergence
+161857	FRTR: A Scalable Mechanism for Global Routing Table Consistency
+161931	Detection of Invalid Routing Announcement in the Internet
+162021	Enhancing DNS Resilience against Denial of Service Attacks
+162272	Visual-Based Anomaly Detection for BGP Origin AS Change (OASC) Events
+176066	Reliably, Securely and Efficiently Distributing Electronic Content Using Multicasting
+297442	A Study of BGP Path Vector Route Looping Behavior
+297868	Protecting BGP Routes to Top Level DNS Servers
+297976	Timer Interaction in Route Flap Damping
+338485	Fault Detection in Routing Protocols
+338642	Inferring the Origin of Routing Changes using Link Weights
+378770	Global Internet Routing Forensics: Validation of BGP Paths Using ICMP Traceback
+396839	Observation and analysis of BGP behavior under stress
+396976	Quantifying the operational status of the DNSSEC deployment
+398878	An analysis of BGP multiple origin AS (MOAS) conflicts
+402111	Improving BGP Convergence Through Consistency Assertions
+403581	A Comparative Study of the DNS Design with DHT-Based Alternatives
+463654	Analysis of BGP Update Surge during Slammer Worm Attack
+513557	On Detection of Anomalous Routing Dynamics in BGP
+550834	An Algorithmic Approach to Identifying Link Failures
+588810	Impact of configuration errors on DNS robustness
+699599	Resolving islands of security problem for DNSSEC
+713679	Identifying BGP routing table transfers
+726992	Link-Rank: a graphical tool for capturing BGP routing dynamics
+784176	Collecting the internet AS-level topology
+793211	A flexible multicast routing protocol for group communication
+795110	BGP-RCN: improving BGP convergence through root cause notification
+795111	An analysis of convergence delay in path vector routing protocols
+795871	Universal IP multicast delivery
+796274	Persistent detection and recovery of state inconsistencies
+970326	Minimum failure explanations for path vector routing changes
+993317	Impact of configuration errors on DNS robustness
+1024112	A framework for resilient Internet routing protocols
+1035762	The Dance Party Problem and its Application to Collective Communication in Computer Networks
+1126001	Protecting BGP Routes to Top-Level DNS Servers
+1133857	Visualizing Internet Routing Changes
+1192788	A coherent moral relativism
+1273267	Guest Editors' Introduction: Securing the Domain Name System
+1302147	Deploying and Monitoring DNS Security (DNSSEC).
+1309421	Managing Trusted Keys in Internet-Scale Systems.
+1309474	Analyzing the Aftermath of the McColo Shutdown.
+1413082	Collecting the internet AS-level topology

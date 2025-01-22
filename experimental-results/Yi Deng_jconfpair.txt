@@ -1,0 +1,113 @@
+4	5	COMPSAC	COMPSAC
+4	6	COMPSAC	COMPSAC
+4	7	COMPSAC	COMPSAC (1)
+4	78	COMPSAC	COMPSAC (1)
+5	6	COMPSAC	COMPSAC
+5	7	COMPSAC	COMPSAC (1)
+5	78	COMPSAC	COMPSAC (1)
+6	7	COMPSAC	COMPSAC (1)
+6	78	COMPSAC	COMPSAC (1)
+7	78	COMPSAC (1)	COMPSAC (1)
+13	14	HASE	HASE
+17	18	ICDCS	ICDCS
+20	21	ICFEM	ICFEM
+29	30	SEKE	SEKE
+29	31	SEKE	SEKE
+29	32	SEKE	SEKE
+29	33	SEKE	SEKE
+29	34	SEKE	SEKE
+29	35	SEKE	SEKE
+29	36	SEKE	SEKE
+29	37	SEKE	SEKE
+29	38	SEKE	SEKE
+29	39	SEKE	SEKE
+29	40	SEKE	SEKE
+29	41	SEKE	SEKE
+30	31	SEKE	SEKE
+30	32	SEKE	SEKE
+30	33	SEKE	SEKE
+30	34	SEKE	SEKE
+30	35	SEKE	SEKE
+30	36	SEKE	SEKE
+30	37	SEKE	SEKE
+30	38	SEKE	SEKE
+30	39	SEKE	SEKE
+30	40	SEKE	SEKE
+30	41	SEKE	SEKE
+31	32	SEKE	SEKE
+31	33	SEKE	SEKE
+31	34	SEKE	SEKE
+31	35	SEKE	SEKE
+31	36	SEKE	SEKE
+31	37	SEKE	SEKE
+31	38	SEKE	SEKE
+31	39	SEKE	SEKE
+31	40	SEKE	SEKE
+31	41	SEKE	SEKE
+32	33	SEKE	SEKE
+32	34	SEKE	SEKE
+32	35	SEKE	SEKE
+32	36	SEKE	SEKE
+32	37	SEKE	SEKE
+32	38	SEKE	SEKE
+32	39	SEKE	SEKE
+32	40	SEKE	SEKE
+32	41	SEKE	SEKE
+33	34	SEKE	SEKE
+33	35	SEKE	SEKE
+33	36	SEKE	SEKE
+33	37	SEKE	SEKE
+33	38	SEKE	SEKE
+33	39	SEKE	SEKE
+33	40	SEKE	SEKE
+33	41	SEKE	SEKE
+34	35	SEKE	SEKE
+34	36	SEKE	SEKE
+34	37	SEKE	SEKE
+34	38	SEKE	SEKE
+34	39	SEKE	SEKE
+34	40	SEKE	SEKE
+34	41	SEKE	SEKE
+35	36	SEKE	SEKE
+35	37	SEKE	SEKE
+35	38	SEKE	SEKE
+35	39	SEKE	SEKE
+35	40	SEKE	SEKE
+35	41	SEKE	SEKE
+36	37	SEKE	SEKE
+36	38	SEKE	SEKE
+36	39	SEKE	SEKE
+36	40	SEKE	SEKE
+36	41	SEKE	SEKE
+37	38	SEKE	SEKE
+37	39	SEKE	SEKE
+37	40	SEKE	SEKE
+37	41	SEKE	SEKE
+38	39	SEKE	SEKE
+38	40	SEKE	SEKE
+38	41	SEKE	SEKE
+39	40	SEKE	SEKE
+39	41	SEKE	SEKE
+40	41	SEKE	SEKE
+42	43	Software Engineering Research and Practice	Software Engineering Research and Practice
+42	44	Software Engineering Research and Practice	Software Engineering Research and Practice
+43	44	Software Engineering Research and Practice	Software Engineering Research and Practice
+51	52	Ann. Software Eng.	Ann. Software Eng.
+54	55	CoRR	CoRR
+56	57	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+56	58	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+56	59	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+56	60	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+57	58	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+57	59	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+57	60	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+58	59	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+58	60	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+59	60	International Journal of Software Engineering and Knowledge Engineering	International Journal of Software Engineering and Knowledge Engineering
+62	63	Journal of Systems and Software	Journal of Systems and Software
+62	64	Journal of Systems and Software	Journal of Systems and Software
+63	64	Journal of Systems and Software	Journal of Systems and Software
+67	85	SIGMOD Record	ACM SIGMOD Record
+68	69	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+71	72	IEEE Transactions on Systems, Man, and Cybernetics, Part B	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+73	74	Journal in Computer Virology	Journal in Computer Virology

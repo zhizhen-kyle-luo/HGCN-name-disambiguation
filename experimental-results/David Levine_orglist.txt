@@ -1,0 +1,16 @@
+0	38	CombineNet, Inc., Pittsburgh, PA	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+2	3	University of Texas at Arlington, USA	The University of Texas at Arlington, Arlington, TX
+2	6	University of Texas at Arlington, USA	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+2	29	University of Texas at Arlington, USA	University of Texas at Arlington, Arlington, TX
+2	39	University of Texas at Arlington, USA	The University of Texas at Arlington
+2	45	University of Texas at Arlington, USA	University of Texas at Arlington
+3	6	The University of Texas at Arlington, Arlington, TX	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+3	29	The University of Texas at Arlington, Arlington, TX	University of Texas at Arlington, Arlington, TX
+3	39	The University of Texas at Arlington, Arlington, TX	The University of Texas at Arlington
+3	45	The University of Texas at Arlington, Arlington, TX	University of Texas at Arlington
+6	29	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	University of Texas at Arlington, Arlington, TX
+6	39	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	The University of Texas at Arlington
+6	45	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	University of Texas at Arlington
+29	39	University of Texas at Arlington, Arlington, TX	The University of Texas at Arlington
+29	45	University of Texas at Arlington, Arlington, TX	University of Texas at Arlington
+39	45	The University of Texas at Arlington	University of Texas at Arlington

@@ -1,0 +1,262 @@
+0	1	ACM Southeast Regional Conference	ACM Southeast Regional Conference
+0	2	ACM Southeast Regional Conference	ACM Southeast Regional Conference (2)
+1	2	ACM Southeast Regional Conference	ACM Southeast Regional Conference (2)
+7	8	CIKM	CIKM
+7	9	CIKM	CIKM
+7	10	CIKM	CIKM
+7	12	CIKM	CIKM
+7	155	CIKM	CIKM
+7	156	CIKM	CIKM
+7	157	CIKM	CIKM
+8	9	CIKM	CIKM
+8	10	CIKM	CIKM
+8	12	CIKM	CIKM
+8	155	CIKM	CIKM
+8	156	CIKM	CIKM
+8	157	CIKM	CIKM
+9	10	CIKM	CIKM
+9	12	CIKM	CIKM
+9	155	CIKM	CIKM
+9	156	CIKM	CIKM
+9	157	CIKM	CIKM
+10	12	CIKM	CIKM
+10	155	CIKM	CIKM
+10	156	CIKM	CIKM
+10	157	CIKM	CIKM
+12	155	CIKM	CIKM
+12	156	CIKM	CIKM
+12	157	CIKM	CIKM
+16	17	DASFAA	DASFAA
+16	18	DASFAA	DASFAA
+16	19	DASFAA	DASFAA
+16	20	DASFAA	DASFAA
+16	21	DASFAA	DASFAA
+16	22	DASFAA	DASFAA
+16	23	DASFAA	DASFAA
+17	18	DASFAA	DASFAA
+17	19	DASFAA	DASFAA
+17	20	DASFAA	DASFAA
+17	21	DASFAA	DASFAA
+17	22	DASFAA	DASFAA
+17	23	DASFAA	DASFAA
+18	19	DASFAA	DASFAA
+18	20	DASFAA	DASFAA
+18	21	DASFAA	DASFAA
+18	22	DASFAA	DASFAA
+18	23	DASFAA	DASFAA
+19	20	DASFAA	DASFAA
+19	21	DASFAA	DASFAA
+19	22	DASFAA	DASFAA
+19	23	DASFAA	DASFAA
+20	21	DASFAA	DASFAA
+20	22	DASFAA	DASFAA
+20	23	DASFAA	DASFAA
+21	22	DASFAA	DASFAA
+21	23	DASFAA	DASFAA
+22	23	DASFAA	DASFAA
+25	26	EDBT	EDBT
+25	27	EDBT	EDBT
+25	28	EDBT	EDBT
+25	29	EDBT	EDBT
+25	30	EDBT	EDBT
+26	27	EDBT	EDBT
+26	28	EDBT	EDBT
+26	29	EDBT	EDBT
+26	30	EDBT	EDBT
+27	28	EDBT	EDBT
+27	29	EDBT	EDBT
+27	30	EDBT	EDBT
+28	29	EDBT	EDBT
+28	30	EDBT	EDBT
+29	30	EDBT	EDBT
+39	40	International Conference on Computational Science (4)	International Conference on Computational Science (4)
+42	43	ICDCS	ICDCS
+42	44	ICDCS	ICDCS
+43	44	ICDCS	ICDCS
+45	46	ICDE	ICDE
+45	47	ICDE	ICDE
+45	48	ICDE	ICDE
+45	49	ICDE	ICDE
+45	50	ICDE	ICDE
+45	51	ICDE	ICDE
+45	52	ICDE	ICDE
+45	53	ICDE	ICDE
+45	54	ICDE	ICDE
+45	55	ICDE	ICDE
+45	56	ICDE	ICDE
+45	57	ICDE	ICDE
+46	47	ICDE	ICDE
+46	48	ICDE	ICDE
+46	49	ICDE	ICDE
+46	50	ICDE	ICDE
+46	51	ICDE	ICDE
+46	52	ICDE	ICDE
+46	53	ICDE	ICDE
+46	54	ICDE	ICDE
+46	55	ICDE	ICDE
+46	56	ICDE	ICDE
+46	57	ICDE	ICDE
+47	48	ICDE	ICDE
+47	49	ICDE	ICDE
+47	50	ICDE	ICDE
+47	51	ICDE	ICDE
+47	52	ICDE	ICDE
+47	53	ICDE	ICDE
+47	54	ICDE	ICDE
+47	55	ICDE	ICDE
+47	56	ICDE	ICDE
+47	57	ICDE	ICDE
+48	49	ICDE	ICDE
+48	50	ICDE	ICDE
+48	51	ICDE	ICDE
+48	52	ICDE	ICDE
+48	53	ICDE	ICDE
+48	54	ICDE	ICDE
+48	55	ICDE	ICDE
+48	56	ICDE	ICDE
+48	57	ICDE	ICDE
+49	50	ICDE	ICDE
+49	51	ICDE	ICDE
+49	52	ICDE	ICDE
+49	53	ICDE	ICDE
+49	54	ICDE	ICDE
+49	55	ICDE	ICDE
+49	56	ICDE	ICDE
+49	57	ICDE	ICDE
+50	51	ICDE	ICDE
+50	52	ICDE	ICDE
+50	53	ICDE	ICDE
+50	54	ICDE	ICDE
+50	55	ICDE	ICDE
+50	56	ICDE	ICDE
+50	57	ICDE	ICDE
+51	52	ICDE	ICDE
+51	53	ICDE	ICDE
+51	54	ICDE	ICDE
+51	55	ICDE	ICDE
+51	56	ICDE	ICDE
+51	57	ICDE	ICDE
+52	53	ICDE	ICDE
+52	54	ICDE	ICDE
+52	55	ICDE	ICDE
+52	56	ICDE	ICDE
+52	57	ICDE	ICDE
+53	54	ICDE	ICDE
+53	55	ICDE	ICDE
+53	56	ICDE	ICDE
+53	57	ICDE	ICDE
+54	55	ICDE	ICDE
+54	56	ICDE	ICDE
+54	57	ICDE	ICDE
+55	56	ICDE	ICDE
+55	57	ICDE	ICDE
+56	57	ICDE	ICDE
+58	59	ICDM	ICDM
+62	63	ICME	ICME
+62	64	ICME	ICME
+63	64	ICME	ICME
+65	66	ICMI	ICMI
+65	67	ICMI	ICMI
+65	159	ICMI	ICMI
+66	67	ICMI	ICMI
+66	159	ICMI	ICMI
+67	159	ICMI	ICMI
+74	75	IPDPS	IPDPS
+78	79	Multiple Classifier Systems	Multiple Classifier Systems
+81	82	Multimedia Information Retrieval	Multimedia Information Retrieval
+84	85	MLMI	MLMI
+86	160	ACM Multimedia	ACM Multimedia
+91	161	PerCom	PerCom
+92	93	SIGMOD Conference	SIGMOD Conference
+92	94	SIGMOD Conference	SIGMOD Conference
+92	95	SIGMOD Conference	SIGMOD Conference
+93	94	SIGMOD Conference	SIGMOD Conference
+93	95	SIGMOD Conference	SIGMOD Conference
+94	95	SIGMOD Conference	SIGMOD Conference
+96	97	SMC (2)	SMC
+98	99	SSDBM	SSDBM
+100	101	VLDB	VLDB
+100	102	VLDB	VLDB
+100	103	VLDB	VLDB
+100	154	VLDB	VLDB J.
+101	102	VLDB	VLDB
+101	103	VLDB	VLDB
+101	154	VLDB	VLDB J.
+102	103	VLDB	VLDB
+102	154	VLDB	VLDB J.
+103	154	VLDB	VLDB J.
+118	119	Neurocomputing	Neurocomputing
+118	120	Neurocomputing	Neurocomputing
+118	121	Neurocomputing	Neurocomputing
+118	182	Neurocomputing	Neurocomputing
+118	185	Neurocomputing	Neurocomputing
+119	120	Neurocomputing	Neurocomputing
+119	121	Neurocomputing	Neurocomputing
+119	182	Neurocomputing	Neurocomputing
+119	185	Neurocomputing	Neurocomputing
+120	121	Neurocomputing	Neurocomputing
+120	182	Neurocomputing	Neurocomputing
+120	185	Neurocomputing	Neurocomputing
+121	182	Neurocomputing	Neurocomputing
+121	185	Neurocomputing	Neurocomputing
+122	123	J. Comput. Sci. Technol.	J. Comput. Sci. Technol.
+129	130	Neural Processing Letters	Neural Processing Letters
+133	134	IEEE Transactions on Communications	IEEE Transactions on Communications
+133	135	IEEE Transactions on Communications	IEEE Transactions on Communications
+133	136	IEEE Transactions on Communications	IEEE Transactions on Communications
+134	135	IEEE Transactions on Communications	IEEE Transactions on Communications
+134	136	IEEE Transactions on Communications	IEEE Transactions on Communications
+135	136	IEEE Transactions on Communications	IEEE Transactions on Communications
+137	138	IEEE Transactions on Information Theory	IEEE Transactions on Information Theory
+139	140	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+139	141	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+139	142	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+139	143	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+139	166	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+139	167	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+139	168	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+139	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+140	141	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+140	142	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+140	143	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+140	166	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+140	167	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+140	168	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+140	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+141	142	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+141	143	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+141	166	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+141	167	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+141	168	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+141	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+142	143	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+142	166	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+142	167	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+142	168	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+142	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+143	166	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+143	167	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+143	168	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+143	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+148	149	PVLDB	PVLDB
+148	170	PVLDB	PVLDB
+148	171	PVLDB	PVLDB
+149	170	PVLDB	PVLDB
+149	171	PVLDB	PVLDB
+155	156	CIKM	CIKM
+155	157	CIKM	CIKM
+156	157	CIKM	CIKM
+166	167	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+166	168	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+166	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+167	168	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+167	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+168	169	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+170	171	PVLDB	PVLDB
+172	173	Theory of Computing Systems	Theory of Computing Systems
+172	174	Theory of Computing Systems	Theory of Computing Systems
+173	174	Theory of Computing Systems	Theory of Computing Systems
+178	179	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	185	Neurocomputing	Neurocomputing
+183	190	Lecture Notes In Computer Science; Vol. 4537	Lecture Notes In Computer Science; Vol. 5667
+189	192	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 01	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 02

@@ -1,0 +1,178 @@
+0	ACSAC
+1	ADMA
+2	AP2PC
+3	APBC
+4	APWeb Workshops
+5	BIBE
+6	Computers and Their Applications
+7	CBMS
+8	ACM Conference on Computer and Communications Security
+9	CIBCB
+10	Communications in Computing
+11	CLUSTER
+12	CSF
+13	CSR
+14	Security and Management
+15	DaWaK
+16	DEXA
+17	DEXA Workshops
+18	DMIN
+19	EEE
+20	ESORICS
+21	FSKD (1)
+22	FSKD (2)
+23	FSKD (3)
+24	GCC (1)
+25	HICSS
+26	HICSS
+27	I3E
+28	ICC
+29	International Conference on Computational Science (2)
+30	International Conference on Computational Science (2)
+31	International Conference on Computational Science (4)
+32	ICCSA (3)
+33	ICCSA (4)
+34	ICDAR
+35	ICDCS Workshops
+36	ICEBE
+37	ICETE (1)
+38	ICIAP
+39	ICIP (3)
+40	ICIP
+41	ICME
+42	ICN/ICONS/MCL
+43	ICNP
+44	ICNP
+45	ICPADS
+46	ICSOC
+47	ICSOC
+48	ICWL
+49	ICWN
+50	ICWS
+51	ICWS
+52	IDEAS
+53	INFOCOM
+54	INFOCOM
+55	ISCAS (3)
+56	ISM
+57	ISMIS
+58	ISPAN
+59	ITNG
+60	IWDC
+61	MASCOTS
+62	ACM Multimedia
+63	NETGAMES
+64	NIPS
+65	NPC
+66	PAKDD
+67	PAKDD
+68	PDPTA
+69	Pacific Conference on Computer Graphics and Applications
+70	POLICY
+71	PRICAI
+72	QSIC
+73	SAC
+74	SIGCOMM
+75	SIGCOMM
+76	Shape Modeling International
+77	SNPD
+78	IEEE Symposium on Security and Privacy
+79	TACAS
+80	PRIB
+81	ICICIC (2)
+82	ICITA (2)
+83	IIH-MSP
+84	VISAPP (2)
+85	VTC Fall
+86	CCECE
+87	LSMS (1)
+88	GLOBECOM
+89	GLOBECOM
+90	GLOBECOM
+91	MUM
+92	IAS
+93	ICIRA (1)
+94	NOMS
+95	NOMS
+96	NOMS
+97	RAM
+98	CSSE (2)
+99	ICYCS
+100	Bioinformatics
+101	Commun. ACM
+102	Computer Communications
+103	Discrete Applied Mathematics
+104	IBM Journal of Research and Development
+105	IJCAT
+106	Int. J. Image Graphics
+107	Neurocomputing
+108	Inf. Sci.
+109	J. ACM
+110	J. ACM
+111	J. ACM
+112	J. ACM
+113	J. Comb. Optim.
+114	Journal of Systems and Software
+115	J. Symb. Log.
+116	J. Symb. Log.
+117	J. Symb. Log.
+118	J. Symb. Log.
+119	J. Symb. Log.
+120	J. Symb. Log.
+121	J. Symb. Log.
+122	J. Symb. Log.
+123	J. Symb. Log.
+124	J. Symb. Log.
+125	J. Symb. Log.
+126	J. Symb. Log.
+127	J. Symb. Log.
+128	J. Symb. Log.
+129	J. Symb. Log.
+130	Nucleic Acids Research
+131	IEEE Network
+132	SIAM Journal of Applied Mathematics
+133	IEEE Trans. Dependable Sec. Comput.
+134	IJDMB
+135	ACM Southeast Regional Conference
+136	GECCO
+137	FAW
+138	CoNEXT
+139	PIMRC
+140	IEEE SCC
+141	AINA
+142	AMT
+143	ICWS
+144	Business & Information Systems Engineering
+145	Knowl.-Based Syst.
+146	IEEE Trans. Vis. Comput. Graph.
+147	null
+148	null
+149	null
+150	null
+151	null
+152	null
+153	null
+154	null
+155	null
+156	null
+157	null
+158	null
+159	null
+160	null
+161	null
+162	null
+163	CoRR
+164	CoRR
+165	Proceedings of the 6th international conference industry session on Autonomic computing and communications industry session
+166	Proceedings of the 5th Annual Workshop on Cyber Security and Information Intelligence Research: Cyber Security and Information Intelligence Challenges and Strategies
+167	null
+168	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+169	Proceedings of the E-Commerce Technology for Dynamic E-Business, IEEE International Conference
+170	Proceedings of the 2009 International Conference on Environmental Science and Information Application Technology - Volume 03
+171	Proceedings of the 2009 Asia-Pacific Conference on Information Processing - Volume 02
+172	Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 02
+173	Proceedings of the 13TH IEEE International Conference on Network Protocols
+174	null
+175	Proceedings of the 13TH IEEE International Conference on Network Protocols
+176	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 07
+177	Proceedings of the 2008 First International Conference on Intelligent Networks and Intelligent Systems

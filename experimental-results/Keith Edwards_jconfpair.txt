@@ -1,0 +1,48 @@
+2	3	Combinatorics, Probability  Computing	Combinatorics, Probability  Computing
+2	4	Combinatorics, Probability  Computing	Combinatorics, Probability  Computing
+3	4	Combinatorics, Probability  Computing	Combinatorics, Probability  Computing
+5	6	Discrete Applied Mathematics	Discrete Applied Mathematics
+5	7	Discrete Applied Mathematics	Discrete Applied Mathematics
+5	8	Discrete Applied Mathematics	Discrete Mathematics
+5	9	Discrete Applied Mathematics	Discrete Mathematics
+5	10	Discrete Applied Mathematics	Discrete Mathematics
+5	11	Discrete Applied Mathematics	Discrete Mathematics
+5	12	Discrete Applied Mathematics	Discrete Mathematics
+5	13	Discrete Applied Mathematics	Discrete Mathematics
+5	14	Discrete Applied Mathematics	Discrete Mathematics
+6	7	Discrete Applied Mathematics	Discrete Applied Mathematics
+6	8	Discrete Applied Mathematics	Discrete Mathematics
+6	9	Discrete Applied Mathematics	Discrete Mathematics
+6	10	Discrete Applied Mathematics	Discrete Mathematics
+6	11	Discrete Applied Mathematics	Discrete Mathematics
+6	12	Discrete Applied Mathematics	Discrete Mathematics
+6	13	Discrete Applied Mathematics	Discrete Mathematics
+6	14	Discrete Applied Mathematics	Discrete Mathematics
+7	8	Discrete Applied Mathematics	Discrete Mathematics
+7	9	Discrete Applied Mathematics	Discrete Mathematics
+7	10	Discrete Applied Mathematics	Discrete Mathematics
+7	11	Discrete Applied Mathematics	Discrete Mathematics
+7	12	Discrete Applied Mathematics	Discrete Mathematics
+7	13	Discrete Applied Mathematics	Discrete Mathematics
+7	14	Discrete Applied Mathematics	Discrete Mathematics
+8	9	Discrete Mathematics	Discrete Mathematics
+8	10	Discrete Mathematics	Discrete Mathematics
+8	11	Discrete Mathematics	Discrete Mathematics
+8	12	Discrete Mathematics	Discrete Mathematics
+8	13	Discrete Mathematics	Discrete Mathematics
+8	14	Discrete Mathematics	Discrete Mathematics
+9	10	Discrete Mathematics	Discrete Mathematics
+9	11	Discrete Mathematics	Discrete Mathematics
+9	12	Discrete Mathematics	Discrete Mathematics
+9	13	Discrete Mathematics	Discrete Mathematics
+9	14	Discrete Mathematics	Discrete Mathematics
+10	11	Discrete Mathematics	Discrete Mathematics
+10	12	Discrete Mathematics	Discrete Mathematics
+10	13	Discrete Mathematics	Discrete Mathematics
+10	14	Discrete Mathematics	Discrete Mathematics
+11	12	Discrete Mathematics	Discrete Mathematics
+11	13	Discrete Mathematics	Discrete Mathematics
+11	14	Discrete Mathematics	Discrete Mathematics
+12	13	Discrete Mathematics	Discrete Mathematics
+12	14	Discrete Mathematics	Discrete Mathematics
+13	14	Discrete Mathematics	Discrete Mathematics

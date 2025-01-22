@@ -1,0 +1,50 @@
+2	3	Department of Computer Science, City University of Hong Kong, Hong Kong,	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+2	25	Department of Computer Science, City University of Hong Kong, Hong Kong,	City University of Hong Kong, Hong Kong, Hong Kong
+2	26	Department of Computer Science, City University of Hong Kong, Hong Kong,	City University of Hong Kong, Hong Kong
+2	27	Department of Computer Science, City University of Hong Kong, Hong Kong,	City University of Hong Kong, Kowloon
+2	28	Department of Computer Science, City University of Hong Kong, Hong Kong,	City Univ. of Hong Kong, Hong Kong, China
+2	29	Department of Computer Science, City University of Hong Kong, Hong Kong,	City Univ. of Hong Kong, Hong Kong
+2	30	Department of Computer Science, City University of Hong Kong, Hong Kong,	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China
+2	33	Department of Computer Science, City University of Hong Kong, Hong Kong,	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+3	25	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong	City University of Hong Kong, Hong Kong, Hong Kong
+3	26	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong	City University of Hong Kong, Hong Kong
+3	27	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong	City University of Hong Kong, Kowloon
+3	28	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong	City Univ. of Hong Kong, Hong Kong, China
+3	29	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong	City Univ. of Hong Kong, Hong Kong
+3	30	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China
+3	33	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+5	14	Univ. of Texas at Dallas, Richardson	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+5	17	Univ. of Texas at Dallas, Richardson	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+7	8	Dept. of Comput. Sci., Georgia Southern Univ., Statesboro, GA, USA	Georgia Southern University, Statesboro, GA
+7	9	Dept. of Comput. Sci., Georgia Southern Univ., Statesboro, GA, USA	Georgia Southern University, Statesboro, GA
+7	18	Dept. of Comput. Sci., Georgia Southern Univ., Statesboro, GA, USA	Georgia Southern University, Statesboro, GA
+7	23	Dept. of Comput. Sci., Georgia Southern Univ., Statesboro, GA, USA	Department of Computer Science, Georgia Southern University, Statesboro, GA
+8	9	Georgia Southern University, Statesboro, GA	Georgia Southern University, Statesboro, GA
+8	18	Georgia Southern University, Statesboro, GA	Georgia Southern University, Statesboro, GA
+8	23	Georgia Southern University, Statesboro, GA	Department of Computer Science, Georgia Southern University, Statesboro, GA
+9	18	Georgia Southern University, Statesboro, GA	Georgia Southern University, Statesboro, GA
+9	23	Georgia Southern University, Statesboro, GA	Department of Computer Science, Georgia Southern University, Statesboro, GA
+14	17	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+15	16	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei	Dept. of Comput. Sci., Univ. of Sci. & Tech, Hefei
+18	23	Georgia Southern University, Statesboro, GA	Department of Computer Science, Georgia Southern University, Statesboro, GA
+25	26	City University of Hong Kong, Hong Kong, Hong Kong	City University of Hong Kong, Hong Kong
+25	27	City University of Hong Kong, Hong Kong, Hong Kong	City University of Hong Kong, Kowloon
+25	28	City University of Hong Kong, Hong Kong, Hong Kong	City Univ. of Hong Kong, Hong Kong, China
+25	29	City University of Hong Kong, Hong Kong, Hong Kong	City Univ. of Hong Kong, Hong Kong
+25	30	City University of Hong Kong, Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China
+25	33	City University of Hong Kong, Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+26	27	City University of Hong Kong, Hong Kong	City University of Hong Kong, Kowloon
+26	28	City University of Hong Kong, Hong Kong	City Univ. of Hong Kong, Hong Kong, China
+26	29	City University of Hong Kong, Hong Kong	City Univ. of Hong Kong, Hong Kong
+26	30	City University of Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China
+26	33	City University of Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+27	28	City University of Hong Kong, Kowloon	City Univ. of Hong Kong, Hong Kong, China
+27	29	City University of Hong Kong, Kowloon	City Univ. of Hong Kong, Hong Kong
+27	30	City University of Hong Kong, Kowloon	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China
+27	33	City University of Hong Kong, Kowloon	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+28	29	City Univ. of Hong Kong, Hong Kong, China	City Univ. of Hong Kong, Hong Kong
+28	30	City Univ. of Hong Kong, Hong Kong, China	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China
+28	33	City Univ. of Hong Kong, Hong Kong, China	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+29	30	City Univ. of Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China
+29	33	City Univ. of Hong Kong, Hong Kong	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong
+30	33	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong, China	Dept. of Comput. Sci., City Univ. of Hong Kong, Hong Kong

@@ -1,0 +1,18 @@
+1	12	Sarnoff Corporation, Princeton, NJ	Sarnoff Corporation, Princeton, NJ
+1	13	Sarnoff Corporation, Princeton, NJ	Matsushita Inf. Technol. Lab., Princeton, NJ
+6	8	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+6	9	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+6	18	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, N.J.
+6	19	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, NJ
+6	23	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+8	9	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+8	18	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, N.J.
+8	19	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, NJ
+8	23	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+9	18	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, N.J.
+9	19	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, NJ
+9	23	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+12	13	Sarnoff Corporation, Princeton, NJ	Matsushita Inf. Technol. Lab., Princeton, NJ
+18	19	Princeton University, Princeton, N.J.	Princeton University, Princeton, NJ
+18	23	Princeton University, Princeton, N.J.	Dept. of Comput. Sci., Princeton Univ., NJ
+19	23	Princeton University, Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ

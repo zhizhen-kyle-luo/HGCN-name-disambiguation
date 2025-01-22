@@ -1,0 +1,484 @@
+4031	An Adaptive Dandelion Model for Reconstructing Spherical Terrain-Like Visual Hull Surfaces
+8598	Randomized Parallel Scheduling Algorithm for Input Queued Crossbar Switches
+18145	Self-calibration Based 3D Information Extraction and Application in Broadcast Soccer Video
+18286	Image Matching by Multiscale Oriented Corner Correlation
+18735	The Bunch-Active Shape Model
+18782	Static Gesture Quantization and DCT Based Sign Language Generation
+27371	Semantic Scoring Based on Small-World Phenomenon for Feature Selection in Text Mining
+27417	Robust Collective Classification with Contextual Dependency Network Models
+40580	CSLDS: Chinese Sign Language Dialog System
+40584	How to Train a Classifier Based on the Huge Face Database?
+40632	Illumination Normalization for Robust Face Recognition Against Varying Lighting Conditions
+40633	AdaBoost Gabor Fisher Classifier for Face Recognition
+42124	Animating 3D Facial Models with MPEG-4 FaceDefTables
+60605	Text-independent Speaker Identification Based on Spectral Weighting Functions
+60610	Pose Invariant Face Recognition Under Arbitrary Illumination Based on 3D Face Reconstruction
+60838	Face Detection Based on the Manifold
+60858	Visual Features Extracting  Selecting for Lipreading
+60861	Discriminant Analysis Based on Kernelized Decision Boundary for Face Recognition
+60863	Constraint Shape Model Using Edge Constraint and Gabor Wavelet Based Search
+60864	Multi-resolution Histograms of Local Variation Patterns (MHLVP) for Robust Face Recognition
+63600	A Flexible Stem-Based Local Search Algorithm for Predicting RNA Secondary Structures Including Pseudoknots
+105230	Sequence Decomposition Method for Computing a Grobner Basis and Its Application to Bivariate Spline
+111823	Compunication: From Concept to Practice
+125946	An Efficient VLSI Architecture for MC Interpolation in AVC Video Coding
+129347	Online Selecting Discriminative Tracking Features Using Particle Filter
+129623	Nonlinear Face Recognition Based on Maximum Average Margin Criterion
+129713	Matrix-Structural Learning (MSL) of Cascaded Classifier from Enormous Training Set
+130201	Locally Assembled Binary (LAB) feature with feature-centric cascade for fast and accurate face detection
+130317	Classifiability-based Optimal Discriminatory Projection Pursuit
+130550	Manifold-Manifold Distance with application to face recognition based on image set
+130592	A robust descriptor based on Weber's Law
+130620	Unified Principal Component Analysis with generalized Covariance Matrix for face recognition
+146271	On-Line Sprite Encoding with Large Global Motion Estimation
+146389	Bandwidth Adaptive Quality Smoothing for Unequal Error Protected Scalable Video Streaming
+147056	Morphological Representation of DCT Data for Image Coding
+147058	FACOLA - Face Coder Based on Location and Attention
+147060	Extending DACLIC for Near Lossless Compression with Postprocessing of Greyscale Images
+147105	An Enhanced Robust Entropy Coder for Video Codecs Based on Context-Adaptive Reversible VLC
+147197	Performance Analysis of Dual Frame Motion Compensation
+152392	Discovering Sequence Association Rules with User Access Transaction Grammars
+169528	Robust Multi-view Face Detection Using Error Correcting Output Codes
+169566	Action Recognition in Broadcast Tennis Video Using Optical Flow and Support Vector Machine
+205351	Transition Movement Models for Large Vocabulary Continuous Sign Language Recognition
+205376	Expand Training Set for Face Detection by GA Re-sampling
+205450	A SRN/HMM System for Signer-Independent Continuous Sign Language Recognition
+205480	A Continuous Chinese Sign Language Recognition System
+205614	Eigen-Harmonics Faces: Face Recognition under Generic Lighting
+205650	Curse of Mis-alignment in Face Recognition: Problem and a Novel Mis-alignment Learning Solution
+205713	An Approach Based on Phonemes to Large Vocabulary Chinese Sign Language Recognition
+205746	Face Recognition Using Ada-Boosted Gabor Features
+205795	Expanding Training Set for Chinese Sign Language Recognition
+205806	Illumination transfer using homomorphic wavelet filtering and its application to light-insensitive face recognition
+205810	Hierarchical Ensemble of Gabor Fisher Classifier for Face Recognition
+205840	Recovering 3D facial shape via coupled 2D/3D space learning
+205905	Local Linear Regression (LLR) for Pose Invariant Face Recognition
+205939	Face reconstruction using fixation positions and foveated imaging
+205992	Design sparse features for age estimation using hierarchical face model
+206024	Discriminant analysis for perceptionally comparable classes
+223622	A Reconfigurable High Availability Infrastructure in Cluster for Grid
+238266	The Recognition of Finger-Spelling for Chinese Sign Language
+238304	Signer-Independent Continuous Sign Language Recognition Based on SRN/HMM
+238379	Re-sampling for Chinese Sign Language Recognition
+238380	A Comparison Between Etymon- and Word-Based Chinese Sign Language Recognition Systems
+238381	A Real-Time Large Vocabulary Recognition System for Chinese Sign Language
+238384	Visual Sign Language Recognition Based on HMMs and Auto-regressive HMMs
+238413	Generating Data for Signer Adaptation
+264625	A Cache-Based Distributed Terabyte Text Retrieval System in CADAL
+274056	Pose Estimation Based on Gaussian Error Models
+274147	The Application of Extended Geodesic Distance in Head Poses Estimation
+274149	Performance Characterisation of Face Recognition Algorithms and Their Sensitivity to Severe Illumination Changes
+274318	Enhance the Alignment Accuracy of Active Shape Models Using Elastic Graph Matching
+276105	A Backward-Compatible Solution for Next Generation DVB-C System
+276352	Spectrum Sensing for OFDM Systems Employing Pilot Tones and Application to DVB-T OFDM
+276557	Spectrum Sensing for DMB-T Systems Using PN Frame Headers
+277233	Signature Based Spectrum Sensing Algorithms for IEEE 802.22 WRAN
+280272	Network-Tree Model and Shortest Path Algorithm
+280275	Reliability Theory Model and Expected Life Shortest Path in Stochastic and Time-Dependent Networks
+293427	FaceTracker: A Human Face Tracking and Facial Organ Localizing System
+294018	Local Gabor Binary Pattern Histogram Sequence (LGBPHS): A Novel Non-Statistical Model for Face Representation and Recognition
+294386	Hierarchical Ensemble of Global and Local Classifiers for Face Recognition
+294771	A system for automatic Chinese seal imprint verification
+295160	Recognizing components of handwritten characters by attributed relational graphs with stable features
+295726	A Robust Method for Unknown Forms Analysis
+312792	Fast Moving Region Detection Scheme in Ad Hoc Sensor Network
+313026	Inter-frame Differential Energy Video Watermarking Algorithm Based on Compressed Domain
+313920	Minimizing the Distortion Spatial Data Hiding Based on Equivalence Class
+314892	A Lattice Based General Blind Watermark Scheme
+317650	Reconstruction Problems in 3D for Viral Cryo Electron Microscopy
+318461	New scaling technique for direct mode coding in B pictures
+319359	A novel compressed domain shot segmentation algorithm on H.264/AVC
+319386	Rate control for JVT video coding scheme with HRD considerations
+319439	Sprite generation for frame-based video coding
+319441	High efficient sprite coding with directional spatial prediction
+321147	Individual 3D Face Synthesis Based on Orthogonal Photos and Speech-Driven Facial Animation
+321186	An implemented architecture of deblocking filter for H.264/AVC
+321502	The improved SP frame coding technique for the JVT standard
+321514	Macroblock-based progressive fine granularity scalable (PFGS) video coding with flexible temporal-SNR scalablilities
+322397	A novel pupil localization method based on gaboreye model and radial symmetry operator
+322462	Automatic text segmentation from complex background
+322589	Error resilience video coding in H.264 encoder with potential distortion tracking
+322603	Mode mapping method for h.264/avc spatial downscaling transcoding
+322666	Video indexing by motion activity maps
+323102	An active volumetric model for 3D reconstruction
+323103	Improving particle filter with support vector regression for efficient visual tracking
+323268	Motion vector prediction in multiview video coding
+323290	An adaptive skin color detection algorithm with confusing backgrounds elimination
+323295	Extended direct mode for hierarchical B picture coding
+323571	Image matching based on a local invariant descriptor
+323622	Viewpoint invariant sign language recognition
+323885	An Efficient FGS Coding Scheme for Interlaced Scalable Video Coding
+324013	Practical Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming
+324045	Visual Hull Embossment by Graph Cuts
+324336	Adaptive Block-Size Transform Based on Extended Integer 88/44 Transforms for H.264/AVC
+324400	Wyner-Ziv Video Coding Based on Set Partitioning in Hierarchical Tree
+324882	A Fast Inter Frame Prediction Algorithm for Multi-View Video Coding
+324903	Mean-Shift Blob Tracking with Adaptive Feature Selection and Scale Adaptation
+325148	Software Pipelines Design for Variable Block-Size Motion Estimation with Large Search Range
+325181	A Novel Error Concealment Method for Stereoscopic Video Coding
+325214	Monocular Tracking 3D People By Gaussian Process Spatio-Temporal Variable Model
+325251	Object Recognition Based on Dependent Pachinko Allocation Model
+325321	DSP Implementation of Deblocking Filter for AVS
+325579	People re-detection using Adaboost with sift and color correlogram
+325580	Shot classification for action movies based on motion characteristics
+325757	Pedestrian detection via logistic multiple instance boosting
+325783	Object tracking using incremental 2D-LDA learning and Bayes inference
+326055	Multi-polarity text segmentation using graph theory
+326151	Fast and effective text detection
+330315	New bi-prediction techniques for B pictures coding
+330633	Secure watermark verification scheme
+331157	Macroblock-Based Progressive Fine Granularity Scalable Video Coding
+331275	Improved error concealment algorithms based on H.264/AVC non-normative decoder
+331379	Context-based 2D-VLC for video coding
+331577	Multiple modes intra-prediction in intra coding
+331627	Sign Language Recognition from Homography
+331645	An Edge-Based Median Filtering Algorithm with Consideration of Motion Vector Reliability for Adaptive Video Deinterlacing
+331663	An Adaptive De-Interlacing Algorithm Based on Texture and Motion Vector Analysis
+331664	Complexity-Distortion Optimized Motion Estimation Algorithm with Fine-Granular Scalable Complexity
+331700	Motion Aligned Spatial Scalable Video Coding
+331711	A Fast Intra Mode Decision Algorithm for AVS to H.264 Transcoding
+331834	An Optimal Non-Uniform Scalar Quantizer for Distributed Video Coding
+331921	Performance-Complexity Analysis of High Resolution Video Encoder and its Memory Organization for DSP Implementation
+331991	Low-Complexity Adaptive Block-Size Transform Based on Extended Transforms
+332051	Automatic Multi-Player Detection and Tracking in Broadcast Sports Video using Support Vector Machine and Particle Filter
+332094	An Efficient Reference Frame Storage Scheme for H.264 HDTV Decoder
+332214	An Effective Mode Decision Scheme in Macroblock-Based PFGS
+332238	A System for Automatic Generation of Music Sports-Video
+332395	Hybrid Algorithm with Adaptive Complexity for Integer Pel Motion Estimation of H.264
+332655	Generating Video Sequence from Photo Image for Mobile Screens by Content Analysis
+332729	3D Haar-Like Features for Pedestrian Detection
+332793	Statistical Analysis and Modeling of Rate-Distortion Function in SVC Fine-Granular SNR Scalable Videos
+332797	Direct Mode Coding for B Pictures using Virtual Reference Picture
+332858	A Real-Time Score Detection and Recognition Approach for Broadcast Basketball Video
+332861	The Demo: A Real-Time Score Detection and Recognition Approach in Broadcast Basketball Sports Video
+333018	Highlight Ranking for Racquet Sports Video in User Attention Subspaces Based on Relevance Feedback
+333038	An Effective Local Invariant Descriptor Combining Luminance and Color Information
+333082	Mining Information of Attack-Defense Status from Soccer Video Based on Scene Analysis
+333141	Adaptive Spatial and Transform Domain FGS Coding
+333360	Mahalanobis distance based Polynomial Segment Model for Chinese Sign Language Recogniton
+333414	Affective MTV analysis based on arousal and valence features
+333432	Coarse-to-fine video text detection
+333914	HandTalker:  A Multimodal Dialog System Using Sign Language and 3-D Virtual Human
+333938	A Fast Sign Word Recognition Method for Chinese Sign Language
+333976	Large vocabulary sign language recognition based on hierarchical decision trees
+334018	Animating Arbitrary Topology 3D Facial Model Using the MPEG-4 FaceDefTables
+334103	A Parallel Multistream Model for Integration of Sign Language Recognition and Lip Motion
+334129	Gravity-Center Template Based Human Face Feature Detection
+334184	An Approach to Robust and Fast Locating Lip Motion
+334187	An Improved Active Shape Model for Face Alignment
+334252	A vision-based sign language recognition system using tied-mixture density HMM
+334254	Recognition of sign language subwords based on boosted hidden Markov models
+334264	Combining Skin Color Model and Neural Network for Rotation Invariant Face Detection
+336436	Spatial Video Watermarking Based on Stability of DC Coefficients
+337227	Scheduling Algorithms for Input Queued Switches Using Local Search Technique
+345694	AppManager: A Powerful Service-Based Application Management System for Clusters
+346311	Resampling for Face Detection by Self-Adaptive Genetic Algorithm
+346345	Modification of the AdaBoost-based Detector for Partially Occluded Faces
+346349	Isomap Based on the Image Euclidean Distance
+346503	Support Vector Machines for Face Recognition with Two-layer Generated Virtual Data
+346666	A Novel Approach to Automatically Extracting Basic Units from Chinese Sign Language
+347688	Bagging Based Efficient Kernel Fisher Discriminant Analysis for Face Recognition
+347735	Nonparametric Background Generation
+347737	A Novel Volumetric Shape from Silhouette Algorithm Based on a Centripetal Pentahedron Model
+347808	Robust Head Pose Estimation Using LGBP
+347966	Local Visual Primitives (LVP) for Face Modelling and Recognition
+348151	2D Cascaded AdaBoost for Eye Localization
+348383	Unsupervised Texture Classification: Automatically Discover and Classify Texture Patterns
+348386	Face Recognition under Varying Lighting Based on the Probabilistic Model of Gabor Phase
+348653	Review the Strength of Gabor Features for Face Recognition from the Angle of Its Robustness to Mis-Alignment
+348656	A Riemannian Weighted Filter for Edge-sensitive Image Smoothing
+348657	Ensemble of Piecewise FDA Based on Spatial Histograms of Local (Gabor) Binary Patterns for Face Recognition
+348810	Patch-Based Gabor Fisher Classifier for Face Recognition
+349144	Enhancing Training Set for Face Detection
+349145	A Verification Method for Viewpoint Invariant Sign Language Recognition
+349538	Robust Frontal Face Detection in Complex Environment
+349540	Recognition of Strong and Weak Connection Models in Continuous Sign Language
+349547	Information Fusion in Face Identification
+349577	Semantic Object Segmentation by a Spatio-Temporal MRF Model
+349593	A Robust Split-and-Merge Text Segmentation Approach for Images
+349674	Action Recognition in Broadcast Tennis Video
+349796	A covariance-based method for dynamic background subtraction
+349858	V-LGBP: Volume based local Gabor binary patterns for face representation and recognition
+349973	Human reappearance detection based on on-line learning
+350000	Matching images more efficiently with local descriptors
+350077	Hierarchical background subtraction using local pixel clustering
+350316	Hallucinating facial images and features
+350347	Effective scene matching with local feature representatives
+350412	Symmetric segment-based stereo matching of motion blurred images with illumination variations
+350458	Parzen Discriminant Analysis
+360998	Independent Hand Gesture Recognition in HandTalker
+369731	Context-Based Classification for Link Data
+372243	Illumination Invariant Shot Boundary Detection
+372358	News Content Highlight via Fast Caption Text Detection on Compressed Video
+372398	Objectionable Image Recognition System in Compression Domain
+392726	Learning and Memory of Spatial Relationship by a Neural Network with Sparse Features
+393348	A Visual Perceiving and Eyeball-Motion Controlling Neural Network for Object Searching and Locating
+394220	Visual context representation using a combination of feature-driven and object-driven mechanisms
+409914	VBMAR: Virtual Network Load Balanced Minimal Adaptive Routing
+411853	A proactive fault-detection mechanism in large-scale cluster systems
+421260	Real-time scheduling on scalable media stream delivery
+421840	Enhanced direct mode coding for bi-predictive pictures
+422626	Linear transform based motion compensated prediction for luminance intensity changes
+422686	Rate control for advance video coding (AVC) standard
+424720	A regularized simultaneous autoregressive model for texture classification
+425090	The fast close-loop video transcoder with limited drifting error
+425169	Automatic moving object extraction in MPEG video
+427262	A robust watermarking method based on wavelet and Zernike transform
+427401	A texture-based tamper detection scheme by fragile watermark
+427735	Seamless switching of scalable video bitstreams for efficient streaming
+428269	High-Accuracy and Low-Complexity Fixed-Point Inverse Discrete Cosine Transform Based on AAN's Fast Algortihm
+428693	Macroblock-Level Adaptive Scan Scheme for Discrete Cosine Transform Coefficients
+428724	Distributed Video Coding with Spatial Correlation Exploited Only at the Decoder
+428907	Macroblock-level Reduced Resolution Video Coding Allowing Adaptive DCT Coefficients Selection
+428940	Context-based Arithmetic Coding Reexamined for DCT Video Compression
+429172	Low-delay View Random Access for Multi-view Video Coding
+429213	Rate Control for Hierarchical B-picture Coding with Scaling-factors
+429919	Accurately weighting subbands in temporal wavelet transform
+430028	An efficient SNR scalability coding framework hybrid open-close loop FGS coding
+430457	Distributed video coding using wavelet
+430765	Shot change detection on H.264/AVC compressed video
+430846	Viewpoint switching in multiview video streaming
+430879	A novel algorithm of spatial scalability for scrambled video
+430904	Low complexity RDO mode decision based on a fast coding-bits estimation model for H.264/AVC
+431144	Wavelet based distributed video coding with spatial scalability
+431612	An efficient VLSI architecture for rate disdortion optimization in AVS video encoder
+437528	Research on the Discrimination of Pornographic and Bikini Images
+439869	Intelligent Protein 3D Structure Retrieval System
+440351	Enhanced Active Shape Models with Global Texture Constraints for Image Analysis
+443636	Searching Eye Centers Using a Context-Based Neural Network
+457017	Steganalysis of Data Hiding Techniques in Wavelet Domain
+457019	Watermark Detection Schemes with High Security
+463249	Enhance ASMs Based on AdaBoost-Based Salient Landmarks Localization and Confidence-Constraint Shape Modeling
+463260	Using Score Normalization to Solve the Score Variation Problem in Face Authentication
+466393	An Efficient VLSI Implementation of MC Interpolation for MPEG-4
+467358	Different cultures meet: lessons learned in global digital library development (panel session)
+467602	Toward a distributed terabyte text retrieval system in China-US million book digital library
+467921	Quantitatively evaluating the influence of online social interactions in the community-assisted digital library
+468351	A Novel Method to Compensate Variety of Illumination in Face Detection
+468463	System Identification for Nonlinear Control Using Lifted Wavelet
+468479	Mouth-Shape Classification and Recognition for Lipreading
+472586	Learning Prosodic Patterns for Mandarin Speech Synthesis
+502400	A new method to segment playfield and its applications in match analysis in sports video
+502576	Video2Cartoon: generating 3D cartoon from broadcast soccer video
+503175	Exciting event detection in broadcast soccer video with mid-level description and incremental learning
+503210	Hierarchical voting classification scheme for improving visual sign language recognition
+503271	Effective and efficient object-based image retrieval using visual phrases
+503370	Mapping learning in eigenspace for harmonious caricature generation
+503501	Diversifying the image retrieval results
+503507	Player action recognition in broadcast tennis video with applications to semantic analysis of sports game
+503524	Trajectory based event tactics analysis in broadcast sports video
+503557	Region-based visual attention analysis with its application in image browsing on small displays
+503825	i.MTV: an integrated system for mtv affective analysis
+504599	Sports video analysis
+505045	Semi-supervised Learning of Caricature Pattern from Manifold Regularization
+505066	A New Multiple Kernel Approach for Visual Concept Learning
+510079	A Human Face Detection and Tracking System for Complex Backgrounds
+519818	Open Issues on Intelligent Sensor Networks
+519860	BLOSSOMS: A CAS/HKUST Joint Project to Build Lightweight Optimized Sensor Systems on a Massive Scale
+531235	Correlation Learning Method Based on Image Internal Semantic Model for CBIR
+531247	Face Samples Re-lighting for Detection Based on the Harmonic Images
+531348	An Efficient VLSI Implementation for MC Interpolation of AVS Standard
+531364	Speech Driven MPEG-4 Based Face Animation via Neural Network
+531394	Fusion of Biometrics Based on D-S Theory
+531477	Reducing Spatial Resolution for MPEG-2 to H.264/AVC Transcoding
+531493	A Real-Time Video Deinterlacing Scheme for MPEG-2 to AVS Transcoding
+531495	Adaptive Deinterlacing for Real-Time Applications
+531657	A Broadcast Model for Web Image Annotation
+531674	A Robust Approach for Object Recognition
+531687	Online Selection of Discriminative Features Using Bayes Error Rate for Visual Tracking
+531688	A Scheme for Ball Detection and Tracking in Broadcast Soccer Video
+531691	Classification of Facial Images Using Gaussian Mixture Models
+531710	Creative Cartoon Face Synthesis System for Mobile Entertainment
+531715	Multi-view Video Coding with Flexible View-Temporal Prediction Structure for Fast Random Access
+531726	Illumination Invariant Feature Selection for Face Recognition
+531734	An Improved Motion Vector Prediction Scheme for Video Coding
+531740	Fast and Robust Sprite Generation for MPEG-4 Video Coding
+531750	A Study on the Quantization Scheme in H.264/AVC and Its Application to Rate Control
+531857	A Framework for Background Detection in Video
+531903	A Face-Unlock Screen Saver by Using Face Verification Based on Identity-Specific Subspaces
+531959	Automatic Segmentation of News Items Based on Video and Audio Features
+531961	A Fast Anchor Shot Detection Algorithm on Compressed Video
+531963	An Index Model for MPEG-2 Streams
+531965	A Real-Time Large Vocabulary Continuous Recognition System for Chinese Sign Language
+531986	Flexible and Efficient Switching Techniques between Scalable Video Bitstreams
+531999	Mapping Energy Video Watermarking Algorithm Based on Compressed Domain
+532001	High Efficient Context-Based Variable Length Coding with Parallel Orientation
+532002	Approximating Inference on Complex Motion Models Using Multi-model Particle Filter
+532072	Vision-Based Sign Language Recognition Using Sign-Wise Tied Mixture HMM
+532078	Key Techniques of Bit Rate Reduction for H.264 Streams
+532079	Adaptive Search Range Scaling for B Pictures Coding
+532080	Optimum End-to-End Distortion Estimation for Error Resilient Video Coding
+532082	Video Coding by Texture Analysis and Synthesis Using Graph Cut
+532116	LLEC: An Image Coder with Low-Complexity and Low-Memory Requirement
+532124	Fast Adaptive Skin Detection in JPEG Images
+532126	A Motion Vector Predictor Architecture for AVS and MPEG-2 HDTV Decoder
+532133	Secure Watermark Verification Scheme
+532191	Text Segmentation in Complex Background Based on Color and Scale Information of Character Strokes
+532208	Personalized MTV Affective Analysis Using User Profile
+532215	A Novel Pipeline Design for H.264 CABAC Decoding
+532217	Signer Adaptation Based on Etyma for Large Vocabulary Chinese Sign Language Recognition
+532224	A No-Reference Blocking Artifacts Metric Using Selective Gradient and Plainness Measures
+532228	Detecting Violent Scenes in Movies by Auditory and Visual Cues
+532232	Laplacian Distortion Model (LDM) for Rate Control in Video Coding
+532262	An End-to-End Application System of AVS: AVS-IPTV in China
+532275	An AVS Based IPTV System Network Trial
+532345	Learning-Based Image Restoration for Compressed Image through Neighboring Embedding
+532350	AAML Based Avatar Animation with Personalized Expression for Online Chatting System
+532355	Theoretic Analysis of Inter Frame Dependency in Video Coding
+533498	NCPN: A Simulation Tool for Coloured Petri Nets
+551392	A Kernel-Based Case Retrieval Algorithm with Application to Bioinformatics
+554464	An SVM Scorer for More Sensitive and Reliable Peptide Identification via Tandem Mass Spectrometry
+554538	Mining Tandem Mass Spectral Data to Develop a More Accurate Mass Error Model for Peptide Identification
+562000	The Discretization of Continuous Attributes Based on Compatibility Rough Set and Generic Algorithm
+597173	Smooth switching problem in buffered crossbar switches
+603968	Baseline Evaluations on the CAS-PEAL-R1 Face Database
+603969	Component-Based Cascade Linear Discriminant Analysis for Face Recognition
+603972	Pose Normalization Using Generic 3D Face Model as a Priori for Pose-Insensitive Face Recognition
+603976	Novel Face Detection Method Based on Gabor Features
+604009	Face Recognition Under Varying Lighting Based on Derivates of Log Image
+608807	An Overview of Streaming Video
+637328	Real-time scheduling and online resource allocation on scalable streaming media server
+639226	A Rich Get Richer Strategy for Content-Based Image Retrieval
+650302	Steganalysis of Images Created in Wavelet Domain Using Quantization Modulation
+651923	A Fast Globally Supervised Learning Algorithm for Gaussian Mixture Models
+652082	Adaptive Online Retail Web Site Based on Hidden Markov Model
+652084	Web Clustering and Association Rule Discovery for Web Broadcast
+654765	IISM: An Image Internal Semantic Model for Image Database Based on Relevance Feedback
+654926	An Ontology-based Approach to Retrieve Digitized Art Images
+655136	Two-Phase Web Site Classification Based on Hidden Markov Tree Models
+672660	Motion Retargeting for the Hand Gesture
+693182	Parallelized scheduling algorithm for input queued switches using local search technique
+695827	FBSA: A Self-adjustable Multi-source Data Scheduling Algorithm for P2P Media Streaming
+695833	Challenges on Peer-to-Peer Live Media Streaming
+695834	An Optimized Topology Maintenance Framework for P2P Media Streaming
+695842	QoS Adaptive Data Organizing and Delivery Framework for P2P Media Streaming
+704684	Practical Algorithms of Bandwidth Regulation for Rate-Based Switching
+704816	Spectrum Sensing Using Cyclostationary Properties and Application to IEEE 802.22 WRAN
+705688	Fast Identification of Error-Prone Patterns for LDPC Codes under Message Passing Decoding
+713366	Application Research of Design Patterns in Virtual Trade Platform
+733760	HandTalker II: a Chinese sign language recognition and synthesis system
+763759	Exploiting the kernel trick to correlate fragment ions for peptide identification via tandem mass spectrometry
+764806	pFind: a novel database-searching software system for automated peptide and protein identification via tandem mass spectrometry
+766838	IndexToolkit: an open source toolbox to index protein databases for high-throughput proteomics
+767903	FlexStem: improving predictions of RNA secondary structures with pseudoknots by reducing the search space
+827273	How Many Users should be Turned On in a Multi-Antenna Broadcast Channel?
+835585	Shape from silhouette outlines using an adaptive dandelion model
+835660	Viewpoint invariant sign language recognition
+835774	A framework for flexible summarization of racquet sports video using multiple modalities
+909045	A Dynamic Recommendation System Based on Log Mining
+910335	A System for Human Face and Facial Feature Location
+910461	Shape-based Adult Image Detection
+910487	Local Gabor Binary Patterns Based on Mutual Information for Face Recognition
+918080	Spatial relationship representation for visual object searching
+918893	Sign Language Recognition Based on HMM/ANN/DP
+919343	Face recognition under generic illumination based on harmonic relighting
+920062	Mobile Robot Sonar Backscatter Algorithm for Automatically Distinguishing Walls, Fences, and Hedges
+947347	Fast and robust text detection in images and video frames
+947389	Object detection using spatial histogram features
+947460	Extracting 3D information from broadcast soccer video
+947712	Unsupervised texture classification: Automatically discover and classify texture patterns
+973385	An Admission Control Scheme for End-to-End Statistical QoS Provision in IP Networks
+973419	BLOSSOMS: Building Lightweight Optimized Sensor Systems on a Massive Scale
+973516	Incorporating Linguistic Structure into Maximum Entropy Language Models
+973533	Visual Ontology Construction for Digitized Art Image Retrieval
+973551	Robust Speech Recognition Method Based on Discriminative Environment Feature Extraction
+973651	Study on Translating Chinese into Chinese Sign Language
+973753	Automatic Segmentation of News Items Based on Video and Audio Features
+974003	Low Complexity Integer Transform and Adaptive Quantization Optimization
+974015	Context-Based 2D-VLC Entropy Coder in AVS Video Coding Standard
+982184	Learning Prosodic Patterns for Mandarin Speech Synthesis
+982404	Latent linkage semantic kernels for collective classification of link data
+993257	How many users should be turned on in a multi-antenna broadcast channel?
+1017179	Effective algorithms for fast transcoding of AVS to H.264/AVC in the spatial domain
+1039330	A Chinese sign language recognition system based on SOFM/SRN/HMM
+1039540	Robust telephone speech recognition based on channel compensation
+1039803	Efficient 3D reconstruction for face recognition
+1042066	Face detection and location based on skin chrominance and lip chrominance transformation from color images
+1044706	Thresholding technique with adaptive window selection for uneven lighting image
+1044775	An effective method to detect and categorize digitized traditional Chinese paintings
+1047001	Synthetic data generation technique in Signer-independent sign language recognition
+1047040	Contour-motion feature (CMF): A space-time approach for robust pedestrian detection
+1049557	Mobile robot sonar interpretation algorithm for distinguishing trees from poles
+1052648	Real-time scheduling based on imprecise computation for scalable streaming media system over the Internet
+1052689	Robust real-time transmission of scalable multimedia for heterogeneous client bandwidths
+1052841	Robust moving object segmentation on H.264/AVC compressed video using the block-based MRF model
+1063583	A block-based support vector machine approach to the protein homology prediction task in KDD Cup 2004
+1087064	Predicting Molecular Formulas of Fragment Ions with Isotope Patterns in Tandem Mass Spectra
+1096869	Learning and synthesizing MPEG-4 compatible 3-D face animation from video sequence
+1097136	Efficient background video coding with static sprite generation and arbitrary-shape spatial prediction techniques
+1097143	Rate-distortion analysis for H.264/AVC video coding and its application to rate control
+1097327	Statistical model, analysis and approximation of rate-distortion function in MPEG-4 FGS videos
+1097330	Drift-free switching of compressed video bitstreams at predictive frames
+1097491	Low-complexity and low-memory entropy coder for image compression
+1097492	Morphological representation of DCT coefficients for image compression
+1097748	Block-Wise Adaptive Motion Accuracy Based B-Picture Coding With Low-Complexity Motion Compensation
+1097763	Wyner-Ziv Switching Scheme for Multiple Bit-Rate Video Streaming
+1097804	Wyner-Ziv-Based Multiview Video Coding
+1097853	Modeling Background and Segmenting Moving Objects from Compressed Video
+1097896	FGS Coding Using Cycle-Based Leaky Prediction Through Multiple Leaky Factors
+1102562	Locally Linear Regression for Pose-Invariant Face Recognition
+1104884	Continuous-Time Equivalents of Welch Bound Equality Sequences
+1113624	Learning Contextual Dependency Network Models for Link-Based Classification
+1116600	Seamless switching of scalable video bitstreams for efficient streaming
+1116698	Joint Source-Channel Rate-Distortion Optimization for H.264 Video Coding Over Error-Prone Networks
+1116761	Human Behavior Analysis for Highlight Ranking in Broadcast Racket Sports Video
+1121025	Constructing visual phrases for effective and efficient object-based image retrieval
+1123129	On guaranteed smooth switching for buffered crossbar switches
+1131050	Large vocabulary sign language recognition based on fuzzy decision trees
+1132725	Enhancing Human Face Detection by Resampling Examples Through Manifolds
+1132760	Large-Vocabulary Continuous Sign Language Recognition Based on Transition-Movement Models
+1133051	The CAS-PEAL Large-Scale Chinese Face Database and Baseline Evaluations
+1133377	Head Yaw Estimation From Asymmetry of Facial Appearance
+1143424	Real-time smoothing for network adaptive video streaming
+1143463	Nonparametric background generation
+1143496	Adaptive rate control for H.264
+1146030	An image fragile watermark scheme based on chaotic image pattern and pixel-pairs
+1150716	Adaptive relevance feedback based on Bayesian inference for image retrieval
+1157795	Two-phase Web site classification based on Hidden Markov Tree models
+1163178	Security on Aydos et al's Elliptic Curve Cryptography Based Wireless Authentication Protocol
+1163185	A High Efficient Architecture for Motion Estimation Based on AVC/AVS Coding Standard
+1206817	Compression-Induced Rendering Distortion Analysis for Texture/Depth Rate Allocation in 3D Video Compression
+1227643	On Rate-Distortion Modeling and Extraction of H.264/SVC Fine-Granular Scalable Video
+1239709	Large-Scale Cross-Media Retrieval of WikipediaMM Images with Textual and Visual Query Expansion
+1267388	Efficient discovery of abundant post-translational modifications and spectral pairs using peptide mass and retention time differences
+1270114	Shape from silhouettes based on a centripetal pentahedron model
+1280312	Optimization of a training set for more robust face detection
+1295625	Novel Secure Communication Protocol for Conditional Access System
+1295654	Elliptic Curve Cryptography Based Wireless Authentication Protocol
+1300283	Face Misalignment Problem
+1300737	Performance Evaluation, Overview
+1304933	Granularity-tunable gradients partition (GGP) descriptors for human detection.
+1304943	Maximizing intra-individual correlations for face recognition across pose differences.
+1305009	Sigma Set: A small second order statistical region descriptor.
+1305184	A Biologically Inspired Energy-Aware Routing Algorithm for Communications in Cyberworlds.
+1308765	Nonlocal Edge-Directed Interpolation.
+1308801	A Novel Macro-Block Group Based AVS Coding Scheme for Many-Core Processor.
+1308818	Block Adaptive Super Resolution Video Coding.
+1329946	Visual-aural attention modeling for talk show video highlight detection.
+1329998	2D to 3D convertion based on edge defocus and segmentation.
+1333910	Semi-Supervised Learning in Reconstructed Manifold Space for 3D Caricature Generation.
+1341038	Are Gabor phases really useless for face recognition?
+1343273	Hierarchical Ensemble of Global and Local Classifiers for Face Recognition.
+1343929	Learned local Gabor patterns for face representation and recognition.
+1370607	Latest arrival time leaky bucket for HRD constrained video coding
+1371175	A novel coefficient scanning scheme for directional spatial prediction-based image compression
+1372416	Color image segmentation using density-based clustering
+1393687	Generating Data for Signer Adaptation
+1396417	Radial basis function interpolation surface on space mesh
+1403986	Text-driven deaf-mute sign language synthesis system
+1409109	FEC-Based Multiple Description Coding for Heterogeneous Client Bandwidths
+1410154	A Novel FGS Base-Layer Encoding Model and Weight-Based Rate Adaptation for Constant-Quality Streaming
+1410479	Interacting Multiple Model Particle Filter to Adaptive Visual Tracking
+1410727	Skin-Color Detection Based on Adaptive Thresholds
+1412793	Watermark Detection Schemes with High Security
+1414474	Singular Value Decomposition Based Image Matching
+1414801	A Novel Rate Control Scheme for Video Streaming over Wireless Networks
+1419869	Design and Performance Evaluation of Differentiated Services Router for Next Generation Internet
+1421604	A Novel RED-Based Hop-by-Hop Congestion Control
+1497878	Research on real-time landmark segmentation and recognition in the Autonomous Land Vehicle
+1504254	A hybrid coding method based on DCT for moving picture
+1540950	Secure Watermark Verification Scheme
+1541926	Sequence Decomposition Method for Computing a Gr&ouml;bner Basis and Its Application to Bivariate Spline
+1581509	B-picture coding in AVS video compression standard
+1610178	Modeling background from compressed video
+1751798	FlexStem

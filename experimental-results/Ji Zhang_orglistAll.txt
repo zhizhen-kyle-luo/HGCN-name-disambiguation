@@ -1,0 +1,2016 @@
+0	1	Univ. of York, York	Michigan State University, East Lansing, MI, USA
+0	2	Univ. of York, York	null
+0	3	Univ. of York, York	null
+0	4	Univ. of York, York	null
+0	5	Univ. of York, York	null
+0	6	Univ. of York, York	null
+0	7	Univ. of York, York	null
+0	8	Univ. of York, York	null
+0	9	Univ. of York, York	null
+0	10	Univ. of York, York	Huazhong University of Science and Technology, China
+0	11	Univ. of York, York	null
+0	12	Univ. of York, York	null
+0	13	Univ. of York, York	null
+0	14	Univ. of York, York	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+0	15	Univ. of York, York	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+0	16	Univ. of York, York	Purdue Univ., West Lafayette
+0	17	Univ. of York, York	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+0	18	Univ. of York, York	Dalhousie University, Canada
+0	19	Univ. of York, York	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+0	20	Univ. of York, York	Michigan State University, East Lansing, MI
+0	21	Univ. of York, York	null
+0	22	Univ. of York, York	Dalhousie University, Canada
+0	23	Univ. of York, York	null
+0	24	Univ. of York, York	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+0	25	Univ. of York, York	null
+0	26	Univ. of York, York	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+0	27	Univ. of York, York	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+0	28	Univ. of York, York	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+0	29	Univ. of York, York	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+0	30	Univ. of York, York	null
+0	31	Univ. of York, York	null
+0	32	Univ. of York, York	Lappeenranta University of Technology, Finland
+0	33	Univ. of York, York	null
+0	34	Univ. of York, York	null
+0	35	Univ. of York, York	null
+0	36	Univ. of York, York	University of Toronto, Toronto, Canada
+0	37	Univ. of York, York	University of Toronto, Toronto, Canada
+0	38	Univ. of York, York	Dept. of Autom., Tsinghua Univ., Beijing
+0	39	Univ. of York, York	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+0	40	Univ. of York, York	null
+0	41	Univ. of York, York	null
+0	42	Univ. of York, York	School of Computing, National University of Singapore, Singapore 117543
+0	43	Univ. of York, York	null
+0	44	Univ. of York, York	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+0	45	Univ. of York, York	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+0	46	Univ. of York, York	null
+0	47	Univ. of York, York	Rensselaer Polytech. Inst., Troy, NY
+0	48	Univ. of York, York	null
+0	49	Univ. of York, York	Michigan State University, East Lansing, Michigan
+0	50	Univ. of York, York	null
+0	51	Univ. of York, York	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+0	52	Univ. of York, York	null
+0	53	Univ. of York, York	CSIRO ICT Center, Hobart, Australia
+0	54	Univ. of York, York	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+0	55	Univ. of York, York	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+0	56	Univ. of York, York	Dept. of Autom., Tsinghua Univ., Beijing, China
+0	57	Univ. of York, York	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+0	58	Univ. of York, York	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+0	59	Univ. of York, York	Dalhousie University (Canada)
+0	60	Univ. of York, York	Department of Computer Science, University of Toronto
+0	61	Univ. of York, York	Nanjing Univ. of Posts & Telecomm, China
+0	62	Univ. of York, York	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+0	63	Univ. of York, York	Michigan State University, USA
+1	2	Michigan State University, East Lansing, MI, USA	null
+1	3	Michigan State University, East Lansing, MI, USA	null
+1	4	Michigan State University, East Lansing, MI, USA	null
+1	5	Michigan State University, East Lansing, MI, USA	null
+1	6	Michigan State University, East Lansing, MI, USA	null
+1	7	Michigan State University, East Lansing, MI, USA	null
+1	8	Michigan State University, East Lansing, MI, USA	null
+1	9	Michigan State University, East Lansing, MI, USA	null
+1	10	Michigan State University, East Lansing, MI, USA	Huazhong University of Science and Technology, China
+1	11	Michigan State University, East Lansing, MI, USA	null
+1	12	Michigan State University, East Lansing, MI, USA	null
+1	13	Michigan State University, East Lansing, MI, USA	null
+1	14	Michigan State University, East Lansing, MI, USA	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+1	15	Michigan State University, East Lansing, MI, USA	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+1	16	Michigan State University, East Lansing, MI, USA	Purdue Univ., West Lafayette
+1	17	Michigan State University, East Lansing, MI, USA	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+1	18	Michigan State University, East Lansing, MI, USA	Dalhousie University, Canada
+1	19	Michigan State University, East Lansing, MI, USA	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+1	20	Michigan State University, East Lansing, MI, USA	Michigan State University, East Lansing, MI
+1	21	Michigan State University, East Lansing, MI, USA	null
+1	22	Michigan State University, East Lansing, MI, USA	Dalhousie University, Canada
+1	23	Michigan State University, East Lansing, MI, USA	null
+1	24	Michigan State University, East Lansing, MI, USA	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+1	25	Michigan State University, East Lansing, MI, USA	null
+1	26	Michigan State University, East Lansing, MI, USA	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+1	27	Michigan State University, East Lansing, MI, USA	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+1	28	Michigan State University, East Lansing, MI, USA	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+1	29	Michigan State University, East Lansing, MI, USA	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+1	30	Michigan State University, East Lansing, MI, USA	null
+1	31	Michigan State University, East Lansing, MI, USA	null
+1	32	Michigan State University, East Lansing, MI, USA	Lappeenranta University of Technology, Finland
+1	33	Michigan State University, East Lansing, MI, USA	null
+1	34	Michigan State University, East Lansing, MI, USA	null
+1	35	Michigan State University, East Lansing, MI, USA	null
+1	36	Michigan State University, East Lansing, MI, USA	University of Toronto, Toronto, Canada
+1	37	Michigan State University, East Lansing, MI, USA	University of Toronto, Toronto, Canada
+1	38	Michigan State University, East Lansing, MI, USA	Dept. of Autom., Tsinghua Univ., Beijing
+1	39	Michigan State University, East Lansing, MI, USA	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+1	40	Michigan State University, East Lansing, MI, USA	null
+1	41	Michigan State University, East Lansing, MI, USA	null
+1	42	Michigan State University, East Lansing, MI, USA	School of Computing, National University of Singapore, Singapore 117543
+1	43	Michigan State University, East Lansing, MI, USA	null
+1	44	Michigan State University, East Lansing, MI, USA	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+1	45	Michigan State University, East Lansing, MI, USA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+1	46	Michigan State University, East Lansing, MI, USA	null
+1	47	Michigan State University, East Lansing, MI, USA	Rensselaer Polytech. Inst., Troy, NY
+1	48	Michigan State University, East Lansing, MI, USA	null
+1	49	Michigan State University, East Lansing, MI, USA	Michigan State University, East Lansing, Michigan
+1	50	Michigan State University, East Lansing, MI, USA	null
+1	51	Michigan State University, East Lansing, MI, USA	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+1	52	Michigan State University, East Lansing, MI, USA	null
+1	53	Michigan State University, East Lansing, MI, USA	CSIRO ICT Center, Hobart, Australia
+1	54	Michigan State University, East Lansing, MI, USA	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+1	55	Michigan State University, East Lansing, MI, USA	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+1	56	Michigan State University, East Lansing, MI, USA	Dept. of Autom., Tsinghua Univ., Beijing, China
+1	57	Michigan State University, East Lansing, MI, USA	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+1	58	Michigan State University, East Lansing, MI, USA	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+1	59	Michigan State University, East Lansing, MI, USA	Dalhousie University (Canada)
+1	60	Michigan State University, East Lansing, MI, USA	Department of Computer Science, University of Toronto
+1	61	Michigan State University, East Lansing, MI, USA	Nanjing Univ. of Posts & Telecomm, China
+1	62	Michigan State University, East Lansing, MI, USA	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+1	63	Michigan State University, East Lansing, MI, USA	Michigan State University, USA
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	Huazhong University of Science and Technology, China
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+2	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+2	16	null	Purdue Univ., West Lafayette
+2	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+2	18	null	Dalhousie University, Canada
+2	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+2	20	null	Michigan State University, East Lansing, MI
+2	21	null	null
+2	22	null	Dalhousie University, Canada
+2	23	null	null
+2	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+2	25	null	null
+2	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+2	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+2	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+2	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+2	30	null	null
+2	31	null	null
+2	32	null	Lappeenranta University of Technology, Finland
+2	33	null	null
+2	34	null	null
+2	35	null	null
+2	36	null	University of Toronto, Toronto, Canada
+2	37	null	University of Toronto, Toronto, Canada
+2	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+2	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+2	40	null	null
+2	41	null	null
+2	42	null	School of Computing, National University of Singapore, Singapore 117543
+2	43	null	null
+2	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+2	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+2	46	null	null
+2	47	null	Rensselaer Polytech. Inst., Troy, NY
+2	48	null	null
+2	49	null	Michigan State University, East Lansing, Michigan
+2	50	null	null
+2	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+2	52	null	null
+2	53	null	CSIRO ICT Center, Hobart, Australia
+2	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+2	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+2	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+2	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+2	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+2	59	null	Dalhousie University (Canada)
+2	60	null	Department of Computer Science, University of Toronto
+2	61	null	Nanjing Univ. of Posts & Telecomm, China
+2	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+2	63	null	Michigan State University, USA
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	Huazhong University of Science and Technology, China
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+3	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+3	16	null	Purdue Univ., West Lafayette
+3	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+3	18	null	Dalhousie University, Canada
+3	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+3	20	null	Michigan State University, East Lansing, MI
+3	21	null	null
+3	22	null	Dalhousie University, Canada
+3	23	null	null
+3	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+3	25	null	null
+3	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+3	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+3	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+3	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+3	30	null	null
+3	31	null	null
+3	32	null	Lappeenranta University of Technology, Finland
+3	33	null	null
+3	34	null	null
+3	35	null	null
+3	36	null	University of Toronto, Toronto, Canada
+3	37	null	University of Toronto, Toronto, Canada
+3	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+3	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+3	40	null	null
+3	41	null	null
+3	42	null	School of Computing, National University of Singapore, Singapore 117543
+3	43	null	null
+3	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+3	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+3	46	null	null
+3	47	null	Rensselaer Polytech. Inst., Troy, NY
+3	48	null	null
+3	49	null	Michigan State University, East Lansing, Michigan
+3	50	null	null
+3	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+3	52	null	null
+3	53	null	CSIRO ICT Center, Hobart, Australia
+3	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+3	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+3	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+3	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+3	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+3	59	null	Dalhousie University (Canada)
+3	60	null	Department of Computer Science, University of Toronto
+3	61	null	Nanjing Univ. of Posts & Telecomm, China
+3	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+3	63	null	Michigan State University, USA
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	Huazhong University of Science and Technology, China
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+4	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+4	16	null	Purdue Univ., West Lafayette
+4	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+4	18	null	Dalhousie University, Canada
+4	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+4	20	null	Michigan State University, East Lansing, MI
+4	21	null	null
+4	22	null	Dalhousie University, Canada
+4	23	null	null
+4	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+4	25	null	null
+4	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+4	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+4	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+4	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+4	30	null	null
+4	31	null	null
+4	32	null	Lappeenranta University of Technology, Finland
+4	33	null	null
+4	34	null	null
+4	35	null	null
+4	36	null	University of Toronto, Toronto, Canada
+4	37	null	University of Toronto, Toronto, Canada
+4	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+4	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+4	40	null	null
+4	41	null	null
+4	42	null	School of Computing, National University of Singapore, Singapore 117543
+4	43	null	null
+4	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+4	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+4	46	null	null
+4	47	null	Rensselaer Polytech. Inst., Troy, NY
+4	48	null	null
+4	49	null	Michigan State University, East Lansing, Michigan
+4	50	null	null
+4	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+4	52	null	null
+4	53	null	CSIRO ICT Center, Hobart, Australia
+4	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+4	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+4	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+4	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+4	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+4	59	null	Dalhousie University (Canada)
+4	60	null	Department of Computer Science, University of Toronto
+4	61	null	Nanjing Univ. of Posts & Telecomm, China
+4	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+4	63	null	Michigan State University, USA
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	Huazhong University of Science and Technology, China
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+5	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+5	16	null	Purdue Univ., West Lafayette
+5	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+5	18	null	Dalhousie University, Canada
+5	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+5	20	null	Michigan State University, East Lansing, MI
+5	21	null	null
+5	22	null	Dalhousie University, Canada
+5	23	null	null
+5	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+5	25	null	null
+5	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+5	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+5	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+5	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+5	30	null	null
+5	31	null	null
+5	32	null	Lappeenranta University of Technology, Finland
+5	33	null	null
+5	34	null	null
+5	35	null	null
+5	36	null	University of Toronto, Toronto, Canada
+5	37	null	University of Toronto, Toronto, Canada
+5	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+5	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+5	40	null	null
+5	41	null	null
+5	42	null	School of Computing, National University of Singapore, Singapore 117543
+5	43	null	null
+5	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+5	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+5	46	null	null
+5	47	null	Rensselaer Polytech. Inst., Troy, NY
+5	48	null	null
+5	49	null	Michigan State University, East Lansing, Michigan
+5	50	null	null
+5	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+5	52	null	null
+5	53	null	CSIRO ICT Center, Hobart, Australia
+5	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+5	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+5	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+5	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+5	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+5	59	null	Dalhousie University (Canada)
+5	60	null	Department of Computer Science, University of Toronto
+5	61	null	Nanjing Univ. of Posts & Telecomm, China
+5	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+5	63	null	Michigan State University, USA
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	Huazhong University of Science and Technology, China
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+6	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+6	16	null	Purdue Univ., West Lafayette
+6	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+6	18	null	Dalhousie University, Canada
+6	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+6	20	null	Michigan State University, East Lansing, MI
+6	21	null	null
+6	22	null	Dalhousie University, Canada
+6	23	null	null
+6	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+6	25	null	null
+6	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+6	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+6	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+6	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+6	30	null	null
+6	31	null	null
+6	32	null	Lappeenranta University of Technology, Finland
+6	33	null	null
+6	34	null	null
+6	35	null	null
+6	36	null	University of Toronto, Toronto, Canada
+6	37	null	University of Toronto, Toronto, Canada
+6	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+6	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+6	40	null	null
+6	41	null	null
+6	42	null	School of Computing, National University of Singapore, Singapore 117543
+6	43	null	null
+6	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+6	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+6	46	null	null
+6	47	null	Rensselaer Polytech. Inst., Troy, NY
+6	48	null	null
+6	49	null	Michigan State University, East Lansing, Michigan
+6	50	null	null
+6	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+6	52	null	null
+6	53	null	CSIRO ICT Center, Hobart, Australia
+6	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+6	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+6	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+6	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+6	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+6	59	null	Dalhousie University (Canada)
+6	60	null	Department of Computer Science, University of Toronto
+6	61	null	Nanjing Univ. of Posts & Telecomm, China
+6	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+6	63	null	Michigan State University, USA
+7	8	null	null
+7	9	null	null
+7	10	null	Huazhong University of Science and Technology, China
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+7	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+7	16	null	Purdue Univ., West Lafayette
+7	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+7	18	null	Dalhousie University, Canada
+7	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+7	20	null	Michigan State University, East Lansing, MI
+7	21	null	null
+7	22	null	Dalhousie University, Canada
+7	23	null	null
+7	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+7	25	null	null
+7	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+7	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+7	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+7	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+7	30	null	null
+7	31	null	null
+7	32	null	Lappeenranta University of Technology, Finland
+7	33	null	null
+7	34	null	null
+7	35	null	null
+7	36	null	University of Toronto, Toronto, Canada
+7	37	null	University of Toronto, Toronto, Canada
+7	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+7	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+7	40	null	null
+7	41	null	null
+7	42	null	School of Computing, National University of Singapore, Singapore 117543
+7	43	null	null
+7	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+7	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+7	46	null	null
+7	47	null	Rensselaer Polytech. Inst., Troy, NY
+7	48	null	null
+7	49	null	Michigan State University, East Lansing, Michigan
+7	50	null	null
+7	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+7	52	null	null
+7	53	null	CSIRO ICT Center, Hobart, Australia
+7	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+7	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+7	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+7	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+7	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+7	59	null	Dalhousie University (Canada)
+7	60	null	Department of Computer Science, University of Toronto
+7	61	null	Nanjing Univ. of Posts & Telecomm, China
+7	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+7	63	null	Michigan State University, USA
+8	9	null	null
+8	10	null	Huazhong University of Science and Technology, China
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+8	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+8	16	null	Purdue Univ., West Lafayette
+8	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+8	18	null	Dalhousie University, Canada
+8	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+8	20	null	Michigan State University, East Lansing, MI
+8	21	null	null
+8	22	null	Dalhousie University, Canada
+8	23	null	null
+8	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+8	25	null	null
+8	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+8	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+8	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+8	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+8	30	null	null
+8	31	null	null
+8	32	null	Lappeenranta University of Technology, Finland
+8	33	null	null
+8	34	null	null
+8	35	null	null
+8	36	null	University of Toronto, Toronto, Canada
+8	37	null	University of Toronto, Toronto, Canada
+8	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+8	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+8	40	null	null
+8	41	null	null
+8	42	null	School of Computing, National University of Singapore, Singapore 117543
+8	43	null	null
+8	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+8	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+8	46	null	null
+8	47	null	Rensselaer Polytech. Inst., Troy, NY
+8	48	null	null
+8	49	null	Michigan State University, East Lansing, Michigan
+8	50	null	null
+8	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+8	52	null	null
+8	53	null	CSIRO ICT Center, Hobart, Australia
+8	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+8	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+8	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+8	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+8	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+8	59	null	Dalhousie University (Canada)
+8	60	null	Department of Computer Science, University of Toronto
+8	61	null	Nanjing Univ. of Posts & Telecomm, China
+8	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+8	63	null	Michigan State University, USA
+9	10	null	Huazhong University of Science and Technology, China
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+9	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+9	16	null	Purdue Univ., West Lafayette
+9	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+9	18	null	Dalhousie University, Canada
+9	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+9	20	null	Michigan State University, East Lansing, MI
+9	21	null	null
+9	22	null	Dalhousie University, Canada
+9	23	null	null
+9	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+9	25	null	null
+9	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+9	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+9	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+9	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+9	30	null	null
+9	31	null	null
+9	32	null	Lappeenranta University of Technology, Finland
+9	33	null	null
+9	34	null	null
+9	35	null	null
+9	36	null	University of Toronto, Toronto, Canada
+9	37	null	University of Toronto, Toronto, Canada
+9	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+9	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+9	40	null	null
+9	41	null	null
+9	42	null	School of Computing, National University of Singapore, Singapore 117543
+9	43	null	null
+9	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+9	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+9	46	null	null
+9	47	null	Rensselaer Polytech. Inst., Troy, NY
+9	48	null	null
+9	49	null	Michigan State University, East Lansing, Michigan
+9	50	null	null
+9	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+9	52	null	null
+9	53	null	CSIRO ICT Center, Hobart, Australia
+9	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+9	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+9	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+9	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+9	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+9	59	null	Dalhousie University (Canada)
+9	60	null	Department of Computer Science, University of Toronto
+9	61	null	Nanjing Univ. of Posts & Telecomm, China
+9	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+9	63	null	Michigan State University, USA
+10	11	Huazhong University of Science and Technology, China	null
+10	12	Huazhong University of Science and Technology, China	null
+10	13	Huazhong University of Science and Technology, China	null
+10	14	Huazhong University of Science and Technology, China	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+10	15	Huazhong University of Science and Technology, China	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+10	16	Huazhong University of Science and Technology, China	Purdue Univ., West Lafayette
+10	17	Huazhong University of Science and Technology, China	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+10	18	Huazhong University of Science and Technology, China	Dalhousie University, Canada
+10	19	Huazhong University of Science and Technology, China	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+10	20	Huazhong University of Science and Technology, China	Michigan State University, East Lansing, MI
+10	21	Huazhong University of Science and Technology, China	null
+10	22	Huazhong University of Science and Technology, China	Dalhousie University, Canada
+10	23	Huazhong University of Science and Technology, China	null
+10	24	Huazhong University of Science and Technology, China	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+10	25	Huazhong University of Science and Technology, China	null
+10	26	Huazhong University of Science and Technology, China	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+10	27	Huazhong University of Science and Technology, China	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+10	28	Huazhong University of Science and Technology, China	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+10	29	Huazhong University of Science and Technology, China	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+10	30	Huazhong University of Science and Technology, China	null
+10	31	Huazhong University of Science and Technology, China	null
+10	32	Huazhong University of Science and Technology, China	Lappeenranta University of Technology, Finland
+10	33	Huazhong University of Science and Technology, China	null
+10	34	Huazhong University of Science and Technology, China	null
+10	35	Huazhong University of Science and Technology, China	null
+10	36	Huazhong University of Science and Technology, China	University of Toronto, Toronto, Canada
+10	37	Huazhong University of Science and Technology, China	University of Toronto, Toronto, Canada
+10	38	Huazhong University of Science and Technology, China	Dept. of Autom., Tsinghua Univ., Beijing
+10	39	Huazhong University of Science and Technology, China	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+10	40	Huazhong University of Science and Technology, China	null
+10	41	Huazhong University of Science and Technology, China	null
+10	42	Huazhong University of Science and Technology, China	School of Computing, National University of Singapore, Singapore 117543
+10	43	Huazhong University of Science and Technology, China	null
+10	44	Huazhong University of Science and Technology, China	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+10	45	Huazhong University of Science and Technology, China	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+10	46	Huazhong University of Science and Technology, China	null
+10	47	Huazhong University of Science and Technology, China	Rensselaer Polytech. Inst., Troy, NY
+10	48	Huazhong University of Science and Technology, China	null
+10	49	Huazhong University of Science and Technology, China	Michigan State University, East Lansing, Michigan
+10	50	Huazhong University of Science and Technology, China	null
+10	51	Huazhong University of Science and Technology, China	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+10	52	Huazhong University of Science and Technology, China	null
+10	53	Huazhong University of Science and Technology, China	CSIRO ICT Center, Hobart, Australia
+10	54	Huazhong University of Science and Technology, China	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+10	55	Huazhong University of Science and Technology, China	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+10	56	Huazhong University of Science and Technology, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+10	57	Huazhong University of Science and Technology, China	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+10	58	Huazhong University of Science and Technology, China	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+10	59	Huazhong University of Science and Technology, China	Dalhousie University (Canada)
+10	60	Huazhong University of Science and Technology, China	Department of Computer Science, University of Toronto
+10	61	Huazhong University of Science and Technology, China	Nanjing Univ. of Posts & Telecomm, China
+10	62	Huazhong University of Science and Technology, China	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+10	63	Huazhong University of Science and Technology, China	Michigan State University, USA
+11	12	null	null
+11	13	null	null
+11	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+11	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+11	16	null	Purdue Univ., West Lafayette
+11	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+11	18	null	Dalhousie University, Canada
+11	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+11	20	null	Michigan State University, East Lansing, MI
+11	21	null	null
+11	22	null	Dalhousie University, Canada
+11	23	null	null
+11	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+11	25	null	null
+11	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+11	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+11	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+11	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+11	30	null	null
+11	31	null	null
+11	32	null	Lappeenranta University of Technology, Finland
+11	33	null	null
+11	34	null	null
+11	35	null	null
+11	36	null	University of Toronto, Toronto, Canada
+11	37	null	University of Toronto, Toronto, Canada
+11	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+11	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+11	40	null	null
+11	41	null	null
+11	42	null	School of Computing, National University of Singapore, Singapore 117543
+11	43	null	null
+11	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+11	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+11	46	null	null
+11	47	null	Rensselaer Polytech. Inst., Troy, NY
+11	48	null	null
+11	49	null	Michigan State University, East Lansing, Michigan
+11	50	null	null
+11	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+11	52	null	null
+11	53	null	CSIRO ICT Center, Hobart, Australia
+11	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+11	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+11	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+11	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+11	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+11	59	null	Dalhousie University (Canada)
+11	60	null	Department of Computer Science, University of Toronto
+11	61	null	Nanjing Univ. of Posts & Telecomm, China
+11	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+11	63	null	Michigan State University, USA
+12	13	null	null
+12	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+12	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+12	16	null	Purdue Univ., West Lafayette
+12	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+12	18	null	Dalhousie University, Canada
+12	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+12	20	null	Michigan State University, East Lansing, MI
+12	21	null	null
+12	22	null	Dalhousie University, Canada
+12	23	null	null
+12	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+12	25	null	null
+12	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+12	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+12	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+12	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+12	30	null	null
+12	31	null	null
+12	32	null	Lappeenranta University of Technology, Finland
+12	33	null	null
+12	34	null	null
+12	35	null	null
+12	36	null	University of Toronto, Toronto, Canada
+12	37	null	University of Toronto, Toronto, Canada
+12	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+12	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+12	40	null	null
+12	41	null	null
+12	42	null	School of Computing, National University of Singapore, Singapore 117543
+12	43	null	null
+12	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+12	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+12	46	null	null
+12	47	null	Rensselaer Polytech. Inst., Troy, NY
+12	48	null	null
+12	49	null	Michigan State University, East Lansing, Michigan
+12	50	null	null
+12	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+12	52	null	null
+12	53	null	CSIRO ICT Center, Hobart, Australia
+12	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+12	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+12	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+12	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+12	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+12	59	null	Dalhousie University (Canada)
+12	60	null	Department of Computer Science, University of Toronto
+12	61	null	Nanjing Univ. of Posts & Telecomm, China
+12	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+12	63	null	Michigan State University, USA
+13	14	null	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China
+13	15	null	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+13	16	null	Purdue Univ., West Lafayette
+13	17	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+13	18	null	Dalhousie University, Canada
+13	19	null	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+13	20	null	Michigan State University, East Lansing, MI
+13	21	null	null
+13	22	null	Dalhousie University, Canada
+13	23	null	null
+13	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+13	25	null	null
+13	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+13	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+13	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+13	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+13	30	null	null
+13	31	null	null
+13	32	null	Lappeenranta University of Technology, Finland
+13	33	null	null
+13	34	null	null
+13	35	null	null
+13	36	null	University of Toronto, Toronto, Canada
+13	37	null	University of Toronto, Toronto, Canada
+13	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+13	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+13	40	null	null
+13	41	null	null
+13	42	null	School of Computing, National University of Singapore, Singapore 117543
+13	43	null	null
+13	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+13	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+13	46	null	null
+13	47	null	Rensselaer Polytech. Inst., Troy, NY
+13	48	null	null
+13	49	null	Michigan State University, East Lansing, Michigan
+13	50	null	null
+13	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+13	52	null	null
+13	53	null	CSIRO ICT Center, Hobart, Australia
+13	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+13	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+13	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+13	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+13	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+13	59	null	Dalhousie University (Canada)
+13	60	null	Department of Computer Science, University of Toronto
+13	61	null	Nanjing Univ. of Posts & Telecomm, China
+13	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+13	63	null	Michigan State University, USA
+14	15	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+14	16	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Purdue Univ., West Lafayette
+14	17	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+14	18	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dalhousie University, Canada
+14	19	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+14	20	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Michigan State University, East Lansing, MI
+14	21	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	22	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dalhousie University, Canada
+14	23	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	24	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+14	25	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	26	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+14	27	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+14	28	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+14	29	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+14	30	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	31	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	32	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Lappeenranta University of Technology, Finland
+14	33	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	34	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	35	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	36	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	University of Toronto, Toronto, Canada
+14	37	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	University of Toronto, Toronto, Canada
+14	38	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dept. of Autom., Tsinghua Univ., Beijing
+14	39	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+14	40	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	41	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	42	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	School of Computing, National University of Singapore, Singapore 117543
+14	43	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	44	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+14	45	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+14	46	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	47	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Rensselaer Polytech. Inst., Troy, NY
+14	48	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	49	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Michigan State University, East Lansing, Michigan
+14	50	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	51	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+14	52	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	null
+14	53	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	CSIRO ICT Center, Hobart, Australia
+14	54	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+14	55	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+14	56	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+14	57	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+14	58	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+14	59	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Dalhousie University (Canada)
+14	60	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Department of Computer Science, University of Toronto
+14	61	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Nanjing Univ. of Posts & Telecomm, China
+14	62	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+14	63	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Michigan State University, USA
+15	16	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Purdue Univ., West Lafayette
+15	17	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+15	18	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dalhousie University, Canada
+15	19	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+15	20	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Michigan State University, East Lansing, MI
+15	21	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	22	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dalhousie University, Canada
+15	23	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	24	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+15	25	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	26	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+15	27	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+15	28	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+15	29	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+15	30	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	31	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	32	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Lappeenranta University of Technology, Finland
+15	33	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	34	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	35	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	36	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	University of Toronto, Toronto, Canada
+15	37	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	University of Toronto, Toronto, Canada
+15	38	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dept. of Autom., Tsinghua Univ., Beijing
+15	39	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+15	40	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	41	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	42	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	School of Computing, National University of Singapore, Singapore 117543
+15	43	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	44	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+15	45	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+15	46	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	47	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Rensselaer Polytech. Inst., Troy, NY
+15	48	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	49	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Michigan State University, East Lansing, Michigan
+15	50	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	51	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+15	52	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	null
+15	53	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	CSIRO ICT Center, Hobart, Australia
+15	54	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+15	55	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+15	56	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dept. of Autom., Tsinghua Univ., Beijing, China
+15	57	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+15	58	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+15	59	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Dalhousie University (Canada)
+15	60	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Department of Computer Science, University of Toronto
+15	61	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Nanjing Univ. of Posts & Telecomm, China
+15	62	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+15	63	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong	Michigan State University, USA
+16	17	Purdue Univ., West Lafayette	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca
+16	18	Purdue Univ., West Lafayette	Dalhousie University, Canada
+16	19	Purdue Univ., West Lafayette	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+16	20	Purdue Univ., West Lafayette	Michigan State University, East Lansing, MI
+16	21	Purdue Univ., West Lafayette	null
+16	22	Purdue Univ., West Lafayette	Dalhousie University, Canada
+16	23	Purdue Univ., West Lafayette	null
+16	24	Purdue Univ., West Lafayette	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+16	25	Purdue Univ., West Lafayette	null
+16	26	Purdue Univ., West Lafayette	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+16	27	Purdue Univ., West Lafayette	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+16	28	Purdue Univ., West Lafayette	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+16	29	Purdue Univ., West Lafayette	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+16	30	Purdue Univ., West Lafayette	null
+16	31	Purdue Univ., West Lafayette	null
+16	32	Purdue Univ., West Lafayette	Lappeenranta University of Technology, Finland
+16	33	Purdue Univ., West Lafayette	null
+16	34	Purdue Univ., West Lafayette	null
+16	35	Purdue Univ., West Lafayette	null
+16	36	Purdue Univ., West Lafayette	University of Toronto, Toronto, Canada
+16	37	Purdue Univ., West Lafayette	University of Toronto, Toronto, Canada
+16	38	Purdue Univ., West Lafayette	Dept. of Autom., Tsinghua Univ., Beijing
+16	39	Purdue Univ., West Lafayette	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+16	40	Purdue Univ., West Lafayette	null
+16	41	Purdue Univ., West Lafayette	null
+16	42	Purdue Univ., West Lafayette	School of Computing, National University of Singapore, Singapore 117543
+16	43	Purdue Univ., West Lafayette	null
+16	44	Purdue Univ., West Lafayette	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+16	45	Purdue Univ., West Lafayette	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+16	46	Purdue Univ., West Lafayette	null
+16	47	Purdue Univ., West Lafayette	Rensselaer Polytech. Inst., Troy, NY
+16	48	Purdue Univ., West Lafayette	null
+16	49	Purdue Univ., West Lafayette	Michigan State University, East Lansing, Michigan
+16	50	Purdue Univ., West Lafayette	null
+16	51	Purdue Univ., West Lafayette	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+16	52	Purdue Univ., West Lafayette	null
+16	53	Purdue Univ., West Lafayette	CSIRO ICT Center, Hobart, Australia
+16	54	Purdue Univ., West Lafayette	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+16	55	Purdue Univ., West Lafayette	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+16	56	Purdue Univ., West Lafayette	Dept. of Autom., Tsinghua Univ., Beijing, China
+16	57	Purdue Univ., West Lafayette	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+16	58	Purdue Univ., West Lafayette	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+16	59	Purdue Univ., West Lafayette	Dalhousie University (Canada)
+16	60	Purdue Univ., West Lafayette	Department of Computer Science, University of Toronto
+16	61	Purdue Univ., West Lafayette	Nanjing Univ. of Posts & Telecomm, China
+16	62	Purdue Univ., West Lafayette	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+16	63	Purdue Univ., West Lafayette	Michigan State University, USA
+17	18	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dalhousie University, Canada
+17	19	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+17	20	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Michigan State University, East Lansing, MI
+17	21	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	22	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dalhousie University, Canada
+17	23	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	24	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+17	25	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	26	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+17	27	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+17	28	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+17	29	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+17	30	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	31	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	32	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Lappeenranta University of Technology, Finland
+17	33	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	34	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	35	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	36	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	University of Toronto, Toronto, Canada
+17	37	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	University of Toronto, Toronto, Canada
+17	38	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dept. of Autom., Tsinghua Univ., Beijing
+17	39	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+17	40	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	41	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	42	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	School of Computing, National University of Singapore, Singapore 117543
+17	43	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	44	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+17	45	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+17	46	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	47	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Rensselaer Polytech. Inst., Troy, NY
+17	48	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	49	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Michigan State University, East Lansing, Michigan
+17	50	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	51	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+17	52	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	null
+17	53	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	CSIRO ICT Center, Hobart, Australia
+17	54	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+17	55	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+17	56	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dept. of Autom., Tsinghua Univ., Beijing, China
+17	57	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+17	58	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+17	59	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dalhousie University (Canada)
+17	60	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Department of Computer Science, University of Toronto
+17	61	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Nanjing Univ. of Posts & Telecomm, China
+17	62	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+17	63	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Michigan State University, USA
+18	19	Dalhousie University, Canada	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+18	20	Dalhousie University, Canada	Michigan State University, East Lansing, MI
+18	21	Dalhousie University, Canada	null
+18	22	Dalhousie University, Canada	Dalhousie University, Canada
+18	23	Dalhousie University, Canada	null
+18	24	Dalhousie University, Canada	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+18	25	Dalhousie University, Canada	null
+18	26	Dalhousie University, Canada	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+18	27	Dalhousie University, Canada	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+18	28	Dalhousie University, Canada	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+18	29	Dalhousie University, Canada	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+18	30	Dalhousie University, Canada	null
+18	31	Dalhousie University, Canada	null
+18	32	Dalhousie University, Canada	Lappeenranta University of Technology, Finland
+18	33	Dalhousie University, Canada	null
+18	34	Dalhousie University, Canada	null
+18	35	Dalhousie University, Canada	null
+18	36	Dalhousie University, Canada	University of Toronto, Toronto, Canada
+18	37	Dalhousie University, Canada	University of Toronto, Toronto, Canada
+18	38	Dalhousie University, Canada	Dept. of Autom., Tsinghua Univ., Beijing
+18	39	Dalhousie University, Canada	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+18	40	Dalhousie University, Canada	null
+18	41	Dalhousie University, Canada	null
+18	42	Dalhousie University, Canada	School of Computing, National University of Singapore, Singapore 117543
+18	43	Dalhousie University, Canada	null
+18	44	Dalhousie University, Canada	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+18	45	Dalhousie University, Canada	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+18	46	Dalhousie University, Canada	null
+18	47	Dalhousie University, Canada	Rensselaer Polytech. Inst., Troy, NY
+18	48	Dalhousie University, Canada	null
+18	49	Dalhousie University, Canada	Michigan State University, East Lansing, Michigan
+18	50	Dalhousie University, Canada	null
+18	51	Dalhousie University, Canada	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+18	52	Dalhousie University, Canada	null
+18	53	Dalhousie University, Canada	CSIRO ICT Center, Hobart, Australia
+18	54	Dalhousie University, Canada	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+18	55	Dalhousie University, Canada	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+18	56	Dalhousie University, Canada	Dept. of Autom., Tsinghua Univ., Beijing, China
+18	57	Dalhousie University, Canada	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+18	58	Dalhousie University, Canada	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+18	59	Dalhousie University, Canada	Dalhousie University (Canada)
+18	60	Dalhousie University, Canada	Department of Computer Science, University of Toronto
+18	61	Dalhousie University, Canada	Nanjing Univ. of Posts & Telecomm, China
+18	62	Dalhousie University, Canada	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+18	63	Dalhousie University, Canada	Michigan State University, USA
+19	20	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Michigan State University, East Lansing, MI
+19	21	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	22	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dalhousie University, Canada
+19	23	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	24	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+19	25	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	26	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+19	27	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+19	28	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+19	29	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+19	30	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	31	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	32	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Lappeenranta University of Technology, Finland
+19	33	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	34	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	35	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	36	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	University of Toronto, Toronto, Canada
+19	37	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	University of Toronto, Toronto, Canada
+19	38	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dept. of Autom., Tsinghua Univ., Beijing
+19	39	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+19	40	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	41	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	42	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	School of Computing, National University of Singapore, Singapore 117543
+19	43	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	44	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+19	45	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+19	46	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	47	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Rensselaer Polytech. Inst., Troy, NY
+19	48	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	49	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Michigan State University, East Lansing, Michigan
+19	50	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	51	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+19	52	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	null
+19	53	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	CSIRO ICT Center, Hobart, Australia
+19	54	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+19	55	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+19	56	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dept. of Autom., Tsinghua Univ., Beijing, China
+19	57	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+19	58	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+19	59	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Dalhousie University (Canada)
+19	60	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Department of Computer Science, University of Toronto
+19	61	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Nanjing Univ. of Posts & Telecomm, China
+19	62	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+19	63	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN	Michigan State University, USA
+20	21	Michigan State University, East Lansing, MI	null
+20	22	Michigan State University, East Lansing, MI	Dalhousie University, Canada
+20	23	Michigan State University, East Lansing, MI	null
+20	24	Michigan State University, East Lansing, MI	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+20	25	Michigan State University, East Lansing, MI	null
+20	26	Michigan State University, East Lansing, MI	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+20	27	Michigan State University, East Lansing, MI	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+20	28	Michigan State University, East Lansing, MI	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+20	29	Michigan State University, East Lansing, MI	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+20	30	Michigan State University, East Lansing, MI	null
+20	31	Michigan State University, East Lansing, MI	null
+20	32	Michigan State University, East Lansing, MI	Lappeenranta University of Technology, Finland
+20	33	Michigan State University, East Lansing, MI	null
+20	34	Michigan State University, East Lansing, MI	null
+20	35	Michigan State University, East Lansing, MI	null
+20	36	Michigan State University, East Lansing, MI	University of Toronto, Toronto, Canada
+20	37	Michigan State University, East Lansing, MI	University of Toronto, Toronto, Canada
+20	38	Michigan State University, East Lansing, MI	Dept. of Autom., Tsinghua Univ., Beijing
+20	39	Michigan State University, East Lansing, MI	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+20	40	Michigan State University, East Lansing, MI	null
+20	41	Michigan State University, East Lansing, MI	null
+20	42	Michigan State University, East Lansing, MI	School of Computing, National University of Singapore, Singapore 117543
+20	43	Michigan State University, East Lansing, MI	null
+20	44	Michigan State University, East Lansing, MI	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+20	45	Michigan State University, East Lansing, MI	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+20	46	Michigan State University, East Lansing, MI	null
+20	47	Michigan State University, East Lansing, MI	Rensselaer Polytech. Inst., Troy, NY
+20	48	Michigan State University, East Lansing, MI	null
+20	49	Michigan State University, East Lansing, MI	Michigan State University, East Lansing, Michigan
+20	50	Michigan State University, East Lansing, MI	null
+20	51	Michigan State University, East Lansing, MI	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+20	52	Michigan State University, East Lansing, MI	null
+20	53	Michigan State University, East Lansing, MI	CSIRO ICT Center, Hobart, Australia
+20	54	Michigan State University, East Lansing, MI	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+20	55	Michigan State University, East Lansing, MI	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+20	56	Michigan State University, East Lansing, MI	Dept. of Autom., Tsinghua Univ., Beijing, China
+20	57	Michigan State University, East Lansing, MI	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+20	58	Michigan State University, East Lansing, MI	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+20	59	Michigan State University, East Lansing, MI	Dalhousie University (Canada)
+20	60	Michigan State University, East Lansing, MI	Department of Computer Science, University of Toronto
+20	61	Michigan State University, East Lansing, MI	Nanjing Univ. of Posts & Telecomm, China
+20	62	Michigan State University, East Lansing, MI	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+20	63	Michigan State University, East Lansing, MI	Michigan State University, USA
+21	22	null	Dalhousie University, Canada
+21	23	null	null
+21	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+21	25	null	null
+21	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+21	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+21	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+21	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+21	30	null	null
+21	31	null	null
+21	32	null	Lappeenranta University of Technology, Finland
+21	33	null	null
+21	34	null	null
+21	35	null	null
+21	36	null	University of Toronto, Toronto, Canada
+21	37	null	University of Toronto, Toronto, Canada
+21	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+21	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+21	40	null	null
+21	41	null	null
+21	42	null	School of Computing, National University of Singapore, Singapore 117543
+21	43	null	null
+21	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+21	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+21	46	null	null
+21	47	null	Rensselaer Polytech. Inst., Troy, NY
+21	48	null	null
+21	49	null	Michigan State University, East Lansing, Michigan
+21	50	null	null
+21	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+21	52	null	null
+21	53	null	CSIRO ICT Center, Hobart, Australia
+21	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+21	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+21	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+21	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+21	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+21	59	null	Dalhousie University (Canada)
+21	60	null	Department of Computer Science, University of Toronto
+21	61	null	Nanjing Univ. of Posts & Telecomm, China
+21	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+21	63	null	Michigan State University, USA
+22	23	Dalhousie University, Canada	null
+22	24	Dalhousie University, Canada	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+22	25	Dalhousie University, Canada	null
+22	26	Dalhousie University, Canada	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+22	27	Dalhousie University, Canada	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+22	28	Dalhousie University, Canada	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+22	29	Dalhousie University, Canada	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+22	30	Dalhousie University, Canada	null
+22	31	Dalhousie University, Canada	null
+22	32	Dalhousie University, Canada	Lappeenranta University of Technology, Finland
+22	33	Dalhousie University, Canada	null
+22	34	Dalhousie University, Canada	null
+22	35	Dalhousie University, Canada	null
+22	36	Dalhousie University, Canada	University of Toronto, Toronto, Canada
+22	37	Dalhousie University, Canada	University of Toronto, Toronto, Canada
+22	38	Dalhousie University, Canada	Dept. of Autom., Tsinghua Univ., Beijing
+22	39	Dalhousie University, Canada	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+22	40	Dalhousie University, Canada	null
+22	41	Dalhousie University, Canada	null
+22	42	Dalhousie University, Canada	School of Computing, National University of Singapore, Singapore 117543
+22	43	Dalhousie University, Canada	null
+22	44	Dalhousie University, Canada	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+22	45	Dalhousie University, Canada	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+22	46	Dalhousie University, Canada	null
+22	47	Dalhousie University, Canada	Rensselaer Polytech. Inst., Troy, NY
+22	48	Dalhousie University, Canada	null
+22	49	Dalhousie University, Canada	Michigan State University, East Lansing, Michigan
+22	50	Dalhousie University, Canada	null
+22	51	Dalhousie University, Canada	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+22	52	Dalhousie University, Canada	null
+22	53	Dalhousie University, Canada	CSIRO ICT Center, Hobart, Australia
+22	54	Dalhousie University, Canada	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+22	55	Dalhousie University, Canada	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+22	56	Dalhousie University, Canada	Dept. of Autom., Tsinghua Univ., Beijing, China
+22	57	Dalhousie University, Canada	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+22	58	Dalhousie University, Canada	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+22	59	Dalhousie University, Canada	Dalhousie University (Canada)
+22	60	Dalhousie University, Canada	Department of Computer Science, University of Toronto
+22	61	Dalhousie University, Canada	Nanjing Univ. of Posts & Telecomm, China
+22	62	Dalhousie University, Canada	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+22	63	Dalhousie University, Canada	Michigan State University, USA
+23	24	null	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+23	25	null	null
+23	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+23	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+23	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+23	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+23	30	null	null
+23	31	null	null
+23	32	null	Lappeenranta University of Technology, Finland
+23	33	null	null
+23	34	null	null
+23	35	null	null
+23	36	null	University of Toronto, Toronto, Canada
+23	37	null	University of Toronto, Toronto, Canada
+23	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+23	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+23	40	null	null
+23	41	null	null
+23	42	null	School of Computing, National University of Singapore, Singapore 117543
+23	43	null	null
+23	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+23	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+23	46	null	null
+23	47	null	Rensselaer Polytech. Inst., Troy, NY
+23	48	null	null
+23	49	null	Michigan State University, East Lansing, Michigan
+23	50	null	null
+23	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+23	52	null	null
+23	53	null	CSIRO ICT Center, Hobart, Australia
+23	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+23	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+23	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+23	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+23	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+23	59	null	Dalhousie University (Canada)
+23	60	null	Department of Computer Science, University of Toronto
+23	61	null	Nanjing Univ. of Posts & Telecomm, China
+23	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+23	63	null	Michigan State University, USA
+24	25	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	26	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+24	27	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+24	28	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+24	29	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+24	30	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	31	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	32	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Lappeenranta University of Technology, Finland
+24	33	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	34	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	35	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	36	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	University of Toronto, Toronto, Canada
+24	37	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	University of Toronto, Toronto, Canada
+24	38	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Autom., Tsinghua Univ., Beijing
+24	39	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+24	40	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	41	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	42	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	School of Computing, National University of Singapore, Singapore 117543
+24	43	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	44	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+24	45	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+24	46	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	47	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Rensselaer Polytech. Inst., Troy, NY
+24	48	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	49	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Michigan State University, East Lansing, Michigan
+24	50	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	51	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+24	52	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+24	53	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	CSIRO ICT Center, Hobart, Australia
+24	54	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+24	55	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+24	56	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Autom., Tsinghua Univ., Beijing, China
+24	57	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+24	58	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+24	59	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dalhousie University (Canada)
+24	60	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Department of Computer Science, University of Toronto
+24	61	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Nanjing Univ. of Posts & Telecomm, China
+24	62	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+24	63	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Michigan State University, USA
+25	26	null	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+25	27	null	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+25	28	null	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+25	29	null	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+25	30	null	null
+25	31	null	null
+25	32	null	Lappeenranta University of Technology, Finland
+25	33	null	null
+25	34	null	null
+25	35	null	null
+25	36	null	University of Toronto, Toronto, Canada
+25	37	null	University of Toronto, Toronto, Canada
+25	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+25	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+25	40	null	null
+25	41	null	null
+25	42	null	School of Computing, National University of Singapore, Singapore 117543
+25	43	null	null
+25	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+25	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+25	46	null	null
+25	47	null	Rensselaer Polytech. Inst., Troy, NY
+25	48	null	null
+25	49	null	Michigan State University, East Lansing, Michigan
+25	50	null	null
+25	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+25	52	null	null
+25	53	null	CSIRO ICT Center, Hobart, Australia
+25	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+25	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+25	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+25	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+25	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+25	59	null	Dalhousie University (Canada)
+25	60	null	Department of Computer Science, University of Toronto
+25	61	null	Nanjing Univ. of Posts & Telecomm, China
+25	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+25	63	null	Michigan State University, USA
+26	27	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI
+26	28	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+26	29	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+26	30	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	31	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	32	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Lappeenranta University of Technology, Finland
+26	33	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	34	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	35	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	36	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	University of Toronto, Toronto, Canada
+26	37	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	University of Toronto, Toronto, Canada
+26	38	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Autom., Tsinghua Univ., Beijing
+26	39	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+26	40	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	41	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	42	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	School of Computing, National University of Singapore, Singapore 117543
+26	43	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	44	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+26	45	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+26	46	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	47	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Rensselaer Polytech. Inst., Troy, NY
+26	48	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	49	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Michigan State University, East Lansing, Michigan
+26	50	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	51	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+26	52	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	null
+26	53	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	CSIRO ICT Center, Hobart, Australia
+26	54	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+26	55	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+26	56	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Autom., Tsinghua Univ., Beijing, China
+26	57	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+26	58	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+26	59	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dalhousie University (Canada)
+26	60	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Department of Computer Science, University of Toronto
+26	61	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Nanjing Univ. of Posts & Telecomm, China
+26	62	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+26	63	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Michigan State University, USA
+27	28	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+27	29	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+27	30	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	31	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	32	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Lappeenranta University of Technology, Finland
+27	33	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	34	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	35	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	36	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	University of Toronto, Toronto, Canada
+27	37	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	University of Toronto, Toronto, Canada
+27	38	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Dept. of Autom., Tsinghua Univ., Beijing
+27	39	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+27	40	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	41	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	42	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	School of Computing, National University of Singapore, Singapore 117543
+27	43	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	44	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+27	45	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+27	46	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	47	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Rensselaer Polytech. Inst., Troy, NY
+27	48	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	49	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Michigan State University, East Lansing, Michigan
+27	50	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	51	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+27	52	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	null
+27	53	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	CSIRO ICT Center, Hobart, Australia
+27	54	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+27	55	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+27	56	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Dept. of Autom., Tsinghua Univ., Beijing, China
+27	57	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+27	58	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+27	59	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Dalhousie University (Canada)
+27	60	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Department of Computer Science, University of Toronto
+27	61	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Nanjing Univ. of Posts & Telecomm, China
+27	62	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+27	63	Dept. of Electr. Eng., Hawaii Univ., Manoa, Honolulu, HI	Michigan State University, USA
+28	29	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA
+28	30	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	31	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	32	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Lappeenranta University of Technology, Finland
+28	33	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	34	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	35	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	36	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	University of Toronto, Toronto, Canada
+28	37	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	University of Toronto, Toronto, Canada
+28	38	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Dept. of Autom., Tsinghua Univ., Beijing
+28	39	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+28	40	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	41	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	42	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	School of Computing, National University of Singapore, Singapore 117543
+28	43	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	44	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+28	45	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+28	46	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	47	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Rensselaer Polytech. Inst., Troy, NY
+28	48	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	49	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Michigan State University, East Lansing, Michigan
+28	50	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	51	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+28	52	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	null
+28	53	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	CSIRO ICT Center, Hobart, Australia
+28	54	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+28	55	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+28	56	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Dept. of Autom., Tsinghua Univ., Beijing, China
+28	57	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+28	58	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+28	59	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Dalhousie University (Canada)
+28	60	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Department of Computer Science, University of Toronto
+28	61	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Nanjing Univ. of Posts & Telecomm, China
+28	62	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+28	63	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Michigan State University, USA
+29	30	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	31	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	32	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Lappeenranta University of Technology, Finland
+29	33	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	34	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	35	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	36	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	University of Toronto, Toronto, Canada
+29	37	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	University of Toronto, Toronto, Canada
+29	38	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Dept. of Autom., Tsinghua Univ., Beijing
+29	39	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+29	40	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	41	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	42	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	School of Computing, National University of Singapore, Singapore 117543
+29	43	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	44	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+29	45	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+29	46	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	47	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Rensselaer Polytech. Inst., Troy, NY
+29	48	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	49	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Michigan State University, East Lansing, Michigan
+29	50	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	51	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+29	52	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	null
+29	53	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	CSIRO ICT Center, Hobart, Australia
+29	54	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+29	55	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+29	56	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Dept. of Autom., Tsinghua Univ., Beijing, China
+29	57	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+29	58	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+29	59	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Dalhousie University (Canada)
+29	60	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Department of Computer Science, University of Toronto
+29	61	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Nanjing Univ. of Posts & Telecomm, China
+29	62	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+29	63	Intel Corporation, M/S SC12-502, 2200 Mission College Blvd, Santa Clara, CA	Michigan State University, USA
+30	31	null	null
+30	32	null	Lappeenranta University of Technology, Finland
+30	33	null	null
+30	34	null	null
+30	35	null	null
+30	36	null	University of Toronto, Toronto, Canada
+30	37	null	University of Toronto, Toronto, Canada
+30	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+30	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+30	40	null	null
+30	41	null	null
+30	42	null	School of Computing, National University of Singapore, Singapore 117543
+30	43	null	null
+30	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+30	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+30	46	null	null
+30	47	null	Rensselaer Polytech. Inst., Troy, NY
+30	48	null	null
+30	49	null	Michigan State University, East Lansing, Michigan
+30	50	null	null
+30	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+30	52	null	null
+30	53	null	CSIRO ICT Center, Hobart, Australia
+30	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+30	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+30	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+30	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+30	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+30	59	null	Dalhousie University (Canada)
+30	60	null	Department of Computer Science, University of Toronto
+30	61	null	Nanjing Univ. of Posts & Telecomm, China
+30	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+30	63	null	Michigan State University, USA
+31	32	null	Lappeenranta University of Technology, Finland
+31	33	null	null
+31	34	null	null
+31	35	null	null
+31	36	null	University of Toronto, Toronto, Canada
+31	37	null	University of Toronto, Toronto, Canada
+31	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+31	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+31	40	null	null
+31	41	null	null
+31	42	null	School of Computing, National University of Singapore, Singapore 117543
+31	43	null	null
+31	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+31	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+31	46	null	null
+31	47	null	Rensselaer Polytech. Inst., Troy, NY
+31	48	null	null
+31	49	null	Michigan State University, East Lansing, Michigan
+31	50	null	null
+31	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+31	52	null	null
+31	53	null	CSIRO ICT Center, Hobart, Australia
+31	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+31	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+31	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+31	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+31	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+31	59	null	Dalhousie University (Canada)
+31	60	null	Department of Computer Science, University of Toronto
+31	61	null	Nanjing Univ. of Posts & Telecomm, China
+31	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+31	63	null	Michigan State University, USA
+32	33	Lappeenranta University of Technology, Finland	null
+32	34	Lappeenranta University of Technology, Finland	null
+32	35	Lappeenranta University of Technology, Finland	null
+32	36	Lappeenranta University of Technology, Finland	University of Toronto, Toronto, Canada
+32	37	Lappeenranta University of Technology, Finland	University of Toronto, Toronto, Canada
+32	38	Lappeenranta University of Technology, Finland	Dept. of Autom., Tsinghua Univ., Beijing
+32	39	Lappeenranta University of Technology, Finland	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+32	40	Lappeenranta University of Technology, Finland	null
+32	41	Lappeenranta University of Technology, Finland	null
+32	42	Lappeenranta University of Technology, Finland	School of Computing, National University of Singapore, Singapore 117543
+32	43	Lappeenranta University of Technology, Finland	null
+32	44	Lappeenranta University of Technology, Finland	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+32	45	Lappeenranta University of Technology, Finland	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+32	46	Lappeenranta University of Technology, Finland	null
+32	47	Lappeenranta University of Technology, Finland	Rensselaer Polytech. Inst., Troy, NY
+32	48	Lappeenranta University of Technology, Finland	null
+32	49	Lappeenranta University of Technology, Finland	Michigan State University, East Lansing, Michigan
+32	50	Lappeenranta University of Technology, Finland	null
+32	51	Lappeenranta University of Technology, Finland	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+32	52	Lappeenranta University of Technology, Finland	null
+32	53	Lappeenranta University of Technology, Finland	CSIRO ICT Center, Hobart, Australia
+32	54	Lappeenranta University of Technology, Finland	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+32	55	Lappeenranta University of Technology, Finland	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+32	56	Lappeenranta University of Technology, Finland	Dept. of Autom., Tsinghua Univ., Beijing, China
+32	57	Lappeenranta University of Technology, Finland	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+32	58	Lappeenranta University of Technology, Finland	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+32	59	Lappeenranta University of Technology, Finland	Dalhousie University (Canada)
+32	60	Lappeenranta University of Technology, Finland	Department of Computer Science, University of Toronto
+32	61	Lappeenranta University of Technology, Finland	Nanjing Univ. of Posts & Telecomm, China
+32	62	Lappeenranta University of Technology, Finland	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+32	63	Lappeenranta University of Technology, Finland	Michigan State University, USA
+33	34	null	null
+33	35	null	null
+33	36	null	University of Toronto, Toronto, Canada
+33	37	null	University of Toronto, Toronto, Canada
+33	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+33	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+33	40	null	null
+33	41	null	null
+33	42	null	School of Computing, National University of Singapore, Singapore 117543
+33	43	null	null
+33	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+33	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+33	46	null	null
+33	47	null	Rensselaer Polytech. Inst., Troy, NY
+33	48	null	null
+33	49	null	Michigan State University, East Lansing, Michigan
+33	50	null	null
+33	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+33	52	null	null
+33	53	null	CSIRO ICT Center, Hobart, Australia
+33	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+33	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+33	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+33	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+33	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+33	59	null	Dalhousie University (Canada)
+33	60	null	Department of Computer Science, University of Toronto
+33	61	null	Nanjing Univ. of Posts & Telecomm, China
+33	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+33	63	null	Michigan State University, USA
+34	35	null	null
+34	36	null	University of Toronto, Toronto, Canada
+34	37	null	University of Toronto, Toronto, Canada
+34	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+34	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+34	40	null	null
+34	41	null	null
+34	42	null	School of Computing, National University of Singapore, Singapore 117543
+34	43	null	null
+34	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+34	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+34	46	null	null
+34	47	null	Rensselaer Polytech. Inst., Troy, NY
+34	48	null	null
+34	49	null	Michigan State University, East Lansing, Michigan
+34	50	null	null
+34	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+34	52	null	null
+34	53	null	CSIRO ICT Center, Hobart, Australia
+34	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+34	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+34	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+34	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+34	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+34	59	null	Dalhousie University (Canada)
+34	60	null	Department of Computer Science, University of Toronto
+34	61	null	Nanjing Univ. of Posts & Telecomm, China
+34	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+34	63	null	Michigan State University, USA
+35	36	null	University of Toronto, Toronto, Canada
+35	37	null	University of Toronto, Toronto, Canada
+35	38	null	Dept. of Autom., Tsinghua Univ., Beijing
+35	39	null	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+35	40	null	null
+35	41	null	null
+35	42	null	School of Computing, National University of Singapore, Singapore 117543
+35	43	null	null
+35	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+35	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+35	46	null	null
+35	47	null	Rensselaer Polytech. Inst., Troy, NY
+35	48	null	null
+35	49	null	Michigan State University, East Lansing, Michigan
+35	50	null	null
+35	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+35	52	null	null
+35	53	null	CSIRO ICT Center, Hobart, Australia
+35	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+35	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+35	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+35	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+35	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+35	59	null	Dalhousie University (Canada)
+35	60	null	Department of Computer Science, University of Toronto
+35	61	null	Nanjing Univ. of Posts & Telecomm, China
+35	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+35	63	null	Michigan State University, USA
+36	37	University of Toronto, Toronto, Canada	University of Toronto, Toronto, Canada
+36	38	University of Toronto, Toronto, Canada	Dept. of Autom., Tsinghua Univ., Beijing
+36	39	University of Toronto, Toronto, Canada	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+36	40	University of Toronto, Toronto, Canada	null
+36	41	University of Toronto, Toronto, Canada	null
+36	42	University of Toronto, Toronto, Canada	School of Computing, National University of Singapore, Singapore 117543
+36	43	University of Toronto, Toronto, Canada	null
+36	44	University of Toronto, Toronto, Canada	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+36	45	University of Toronto, Toronto, Canada	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+36	46	University of Toronto, Toronto, Canada	null
+36	47	University of Toronto, Toronto, Canada	Rensselaer Polytech. Inst., Troy, NY
+36	48	University of Toronto, Toronto, Canada	null
+36	49	University of Toronto, Toronto, Canada	Michigan State University, East Lansing, Michigan
+36	50	University of Toronto, Toronto, Canada	null
+36	51	University of Toronto, Toronto, Canada	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+36	52	University of Toronto, Toronto, Canada	null
+36	53	University of Toronto, Toronto, Canada	CSIRO ICT Center, Hobart, Australia
+36	54	University of Toronto, Toronto, Canada	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+36	55	University of Toronto, Toronto, Canada	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+36	56	University of Toronto, Toronto, Canada	Dept. of Autom., Tsinghua Univ., Beijing, China
+36	57	University of Toronto, Toronto, Canada	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+36	58	University of Toronto, Toronto, Canada	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+36	59	University of Toronto, Toronto, Canada	Dalhousie University (Canada)
+36	60	University of Toronto, Toronto, Canada	Department of Computer Science, University of Toronto
+36	61	University of Toronto, Toronto, Canada	Nanjing Univ. of Posts & Telecomm, China
+36	62	University of Toronto, Toronto, Canada	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+36	63	University of Toronto, Toronto, Canada	Michigan State University, USA
+37	38	University of Toronto, Toronto, Canada	Dept. of Autom., Tsinghua Univ., Beijing
+37	39	University of Toronto, Toronto, Canada	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+37	40	University of Toronto, Toronto, Canada	null
+37	41	University of Toronto, Toronto, Canada	null
+37	42	University of Toronto, Toronto, Canada	School of Computing, National University of Singapore, Singapore 117543
+37	43	University of Toronto, Toronto, Canada	null
+37	44	University of Toronto, Toronto, Canada	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+37	45	University of Toronto, Toronto, Canada	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+37	46	University of Toronto, Toronto, Canada	null
+37	47	University of Toronto, Toronto, Canada	Rensselaer Polytech. Inst., Troy, NY
+37	48	University of Toronto, Toronto, Canada	null
+37	49	University of Toronto, Toronto, Canada	Michigan State University, East Lansing, Michigan
+37	50	University of Toronto, Toronto, Canada	null
+37	51	University of Toronto, Toronto, Canada	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+37	52	University of Toronto, Toronto, Canada	null
+37	53	University of Toronto, Toronto, Canada	CSIRO ICT Center, Hobart, Australia
+37	54	University of Toronto, Toronto, Canada	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+37	55	University of Toronto, Toronto, Canada	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+37	56	University of Toronto, Toronto, Canada	Dept. of Autom., Tsinghua Univ., Beijing, China
+37	57	University of Toronto, Toronto, Canada	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+37	58	University of Toronto, Toronto, Canada	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+37	59	University of Toronto, Toronto, Canada	Dalhousie University (Canada)
+37	60	University of Toronto, Toronto, Canada	Department of Computer Science, University of Toronto
+37	61	University of Toronto, Toronto, Canada	Nanjing Univ. of Posts & Telecomm, China
+37	62	University of Toronto, Toronto, Canada	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+37	63	University of Toronto, Toronto, Canada	Michigan State University, USA
+38	39	Dept. of Autom., Tsinghua Univ., Beijing	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing
+38	40	Dept. of Autom., Tsinghua Univ., Beijing	null
+38	41	Dept. of Autom., Tsinghua Univ., Beijing	null
+38	42	Dept. of Autom., Tsinghua Univ., Beijing	School of Computing, National University of Singapore, Singapore 117543
+38	43	Dept. of Autom., Tsinghua Univ., Beijing	null
+38	44	Dept. of Autom., Tsinghua Univ., Beijing	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+38	45	Dept. of Autom., Tsinghua Univ., Beijing	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+38	46	Dept. of Autom., Tsinghua Univ., Beijing	null
+38	47	Dept. of Autom., Tsinghua Univ., Beijing	Rensselaer Polytech. Inst., Troy, NY
+38	48	Dept. of Autom., Tsinghua Univ., Beijing	null
+38	49	Dept. of Autom., Tsinghua Univ., Beijing	Michigan State University, East Lansing, Michigan
+38	50	Dept. of Autom., Tsinghua Univ., Beijing	null
+38	51	Dept. of Autom., Tsinghua Univ., Beijing	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+38	52	Dept. of Autom., Tsinghua Univ., Beijing	null
+38	53	Dept. of Autom., Tsinghua Univ., Beijing	CSIRO ICT Center, Hobart, Australia
+38	54	Dept. of Autom., Tsinghua Univ., Beijing	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+38	55	Dept. of Autom., Tsinghua Univ., Beijing	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+38	56	Dept. of Autom., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+38	57	Dept. of Autom., Tsinghua Univ., Beijing	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+38	58	Dept. of Autom., Tsinghua Univ., Beijing	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+38	59	Dept. of Autom., Tsinghua Univ., Beijing	Dalhousie University (Canada)
+38	60	Dept. of Autom., Tsinghua Univ., Beijing	Department of Computer Science, University of Toronto
+38	61	Dept. of Autom., Tsinghua Univ., Beijing	Nanjing Univ. of Posts & Telecomm, China
+38	62	Dept. of Autom., Tsinghua Univ., Beijing	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+38	63	Dept. of Autom., Tsinghua Univ., Beijing	Michigan State University, USA
+39	40	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	null
+39	41	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	null
+39	42	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	School of Computing, National University of Singapore, Singapore 117543
+39	43	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	null
+39	44	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+39	45	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+39	46	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	null
+39	47	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Rensselaer Polytech. Inst., Troy, NY
+39	48	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	null
+39	49	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Michigan State University, East Lansing, Michigan
+39	50	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	null
+39	51	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+39	52	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	null
+39	53	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	CSIRO ICT Center, Hobart, Australia
+39	54	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+39	55	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+39	56	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+39	57	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+39	58	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+39	59	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Dalhousie University (Canada)
+39	60	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Department of Computer Science, University of Toronto
+39	61	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Nanjing Univ. of Posts & Telecomm, China
+39	62	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+39	63	Dept. of Electr. Eng., Beijing Inst. of Technol., Beijing	Michigan State University, USA
+40	41	null	null
+40	42	null	School of Computing, National University of Singapore, Singapore 117543
+40	43	null	null
+40	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+40	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+40	46	null	null
+40	47	null	Rensselaer Polytech. Inst., Troy, NY
+40	48	null	null
+40	49	null	Michigan State University, East Lansing, Michigan
+40	50	null	null
+40	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+40	52	null	null
+40	53	null	CSIRO ICT Center, Hobart, Australia
+40	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+40	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+40	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+40	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+40	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+40	59	null	Dalhousie University (Canada)
+40	60	null	Department of Computer Science, University of Toronto
+40	61	null	Nanjing Univ. of Posts & Telecomm, China
+40	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+40	63	null	Michigan State University, USA
+41	42	null	School of Computing, National University of Singapore, Singapore 117543
+41	43	null	null
+41	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+41	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+41	46	null	null
+41	47	null	Rensselaer Polytech. Inst., Troy, NY
+41	48	null	null
+41	49	null	Michigan State University, East Lansing, Michigan
+41	50	null	null
+41	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+41	52	null	null
+41	53	null	CSIRO ICT Center, Hobart, Australia
+41	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+41	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+41	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+41	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+41	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+41	59	null	Dalhousie University (Canada)
+41	60	null	Department of Computer Science, University of Toronto
+41	61	null	Nanjing Univ. of Posts & Telecomm, China
+41	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+41	63	null	Michigan State University, USA
+42	43	School of Computing, National University of Singapore, Singapore 117543	null
+42	44	School of Computing, National University of Singapore, Singapore 117543	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+42	45	School of Computing, National University of Singapore, Singapore 117543	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+42	46	School of Computing, National University of Singapore, Singapore 117543	null
+42	47	School of Computing, National University of Singapore, Singapore 117543	Rensselaer Polytech. Inst., Troy, NY
+42	48	School of Computing, National University of Singapore, Singapore 117543	null
+42	49	School of Computing, National University of Singapore, Singapore 117543	Michigan State University, East Lansing, Michigan
+42	50	School of Computing, National University of Singapore, Singapore 117543	null
+42	51	School of Computing, National University of Singapore, Singapore 117543	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+42	52	School of Computing, National University of Singapore, Singapore 117543	null
+42	53	School of Computing, National University of Singapore, Singapore 117543	CSIRO ICT Center, Hobart, Australia
+42	54	School of Computing, National University of Singapore, Singapore 117543	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+42	55	School of Computing, National University of Singapore, Singapore 117543	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+42	56	School of Computing, National University of Singapore, Singapore 117543	Dept. of Autom., Tsinghua Univ., Beijing, China
+42	57	School of Computing, National University of Singapore, Singapore 117543	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+42	58	School of Computing, National University of Singapore, Singapore 117543	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+42	59	School of Computing, National University of Singapore, Singapore 117543	Dalhousie University (Canada)
+42	60	School of Computing, National University of Singapore, Singapore 117543	Department of Computer Science, University of Toronto
+42	61	School of Computing, National University of Singapore, Singapore 117543	Nanjing Univ. of Posts & Telecomm, China
+42	62	School of Computing, National University of Singapore, Singapore 117543	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+42	63	School of Computing, National University of Singapore, Singapore 117543	Michigan State University, USA
+43	44	null	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+43	45	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+43	46	null	null
+43	47	null	Rensselaer Polytech. Inst., Troy, NY
+43	48	null	null
+43	49	null	Michigan State University, East Lansing, Michigan
+43	50	null	null
+43	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+43	52	null	null
+43	53	null	CSIRO ICT Center, Hobart, Australia
+43	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+43	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+43	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+43	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+43	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+43	59	null	Dalhousie University (Canada)
+43	60	null	Department of Computer Science, University of Toronto
+43	61	null	Nanjing Univ. of Posts & Telecomm, China
+43	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+43	63	null	Michigan State University, USA
+44	45	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY
+44	46	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	null
+44	47	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Rensselaer Polytech. Inst., Troy, NY
+44	48	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	null
+44	49	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Michigan State University, East Lansing, Michigan
+44	50	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	null
+44	51	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+44	52	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	null
+44	53	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	CSIRO ICT Center, Hobart, Australia
+44	54	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+44	55	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+44	56	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Dept. of Autom., Tsinghua Univ., Beijing, China
+44	57	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+44	58	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+44	59	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Dalhousie University (Canada)
+44	60	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Department of Computer Science, University of Toronto
+44	61	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Nanjing Univ. of Posts & Telecomm, China
+44	62	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+44	63	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada	Michigan State University, USA
+45	46	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+45	47	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Rensselaer Polytech. Inst., Troy, NY
+45	48	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+45	49	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Michigan State University, East Lansing, Michigan
+45	50	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+45	51	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+45	52	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	null
+45	53	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	CSIRO ICT Center, Hobart, Australia
+45	54	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+45	55	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+45	56	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Dept. of Autom., Tsinghua Univ., Beijing, China
+45	57	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+45	58	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+45	59	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Dalhousie University (Canada)
+45	60	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Department of Computer Science, University of Toronto
+45	61	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Nanjing Univ. of Posts & Telecomm, China
+45	62	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+45	63	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY	Michigan State University, USA
+46	47	null	Rensselaer Polytech. Inst., Troy, NY
+46	48	null	null
+46	49	null	Michigan State University, East Lansing, Michigan
+46	50	null	null
+46	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+46	52	null	null
+46	53	null	CSIRO ICT Center, Hobart, Australia
+46	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+46	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+46	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+46	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+46	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+46	59	null	Dalhousie University (Canada)
+46	60	null	Department of Computer Science, University of Toronto
+46	61	null	Nanjing Univ. of Posts & Telecomm, China
+46	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+46	63	null	Michigan State University, USA
+47	48	Rensselaer Polytech. Inst., Troy, NY	null
+47	49	Rensselaer Polytech. Inst., Troy, NY	Michigan State University, East Lansing, Michigan
+47	50	Rensselaer Polytech. Inst., Troy, NY	null
+47	51	Rensselaer Polytech. Inst., Troy, NY	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+47	52	Rensselaer Polytech. Inst., Troy, NY	null
+47	53	Rensselaer Polytech. Inst., Troy, NY	CSIRO ICT Center, Hobart, Australia
+47	54	Rensselaer Polytech. Inst., Troy, NY	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+47	55	Rensselaer Polytech. Inst., Troy, NY	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+47	56	Rensselaer Polytech. Inst., Troy, NY	Dept. of Autom., Tsinghua Univ., Beijing, China
+47	57	Rensselaer Polytech. Inst., Troy, NY	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+47	58	Rensselaer Polytech. Inst., Troy, NY	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+47	59	Rensselaer Polytech. Inst., Troy, NY	Dalhousie University (Canada)
+47	60	Rensselaer Polytech. Inst., Troy, NY	Department of Computer Science, University of Toronto
+47	61	Rensselaer Polytech. Inst., Troy, NY	Nanjing Univ. of Posts & Telecomm, China
+47	62	Rensselaer Polytech. Inst., Troy, NY	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+47	63	Rensselaer Polytech. Inst., Troy, NY	Michigan State University, USA
+48	49	null	Michigan State University, East Lansing, Michigan
+48	50	null	null
+48	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+48	52	null	null
+48	53	null	CSIRO ICT Center, Hobart, Australia
+48	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+48	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+48	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+48	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+48	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+48	59	null	Dalhousie University (Canada)
+48	60	null	Department of Computer Science, University of Toronto
+48	61	null	Nanjing Univ. of Posts & Telecomm, China
+48	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+48	63	null	Michigan State University, USA
+49	50	Michigan State University, East Lansing, Michigan	null
+49	51	Michigan State University, East Lansing, Michigan	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+49	52	Michigan State University, East Lansing, Michigan	null
+49	53	Michigan State University, East Lansing, Michigan	CSIRO ICT Center, Hobart, Australia
+49	54	Michigan State University, East Lansing, Michigan	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+49	55	Michigan State University, East Lansing, Michigan	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+49	56	Michigan State University, East Lansing, Michigan	Dept. of Autom., Tsinghua Univ., Beijing, China
+49	57	Michigan State University, East Lansing, Michigan	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+49	58	Michigan State University, East Lansing, Michigan	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+49	59	Michigan State University, East Lansing, Michigan	Dalhousie University (Canada)
+49	60	Michigan State University, East Lansing, Michigan	Department of Computer Science, University of Toronto
+49	61	Michigan State University, East Lansing, Michigan	Nanjing Univ. of Posts & Telecomm, China
+49	62	Michigan State University, East Lansing, Michigan	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+49	63	Michigan State University, East Lansing, Michigan	Michigan State University, USA
+50	51	null	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001
+50	52	null	null
+50	53	null	CSIRO ICT Center, Hobart, Australia
+50	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+50	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+50	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+50	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+50	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+50	59	null	Dalhousie University (Canada)
+50	60	null	Department of Computer Science, University of Toronto
+50	61	null	Nanjing Univ. of Posts & Telecomm, China
+50	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+50	63	null	Michigan State University, USA
+51	52	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	null
+51	53	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	CSIRO ICT Center, Hobart, Australia
+51	54	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+51	55	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+51	56	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Dept. of Autom., Tsinghua Univ., Beijing, China
+51	57	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+51	58	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+51	59	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Dalhousie University (Canada)
+51	60	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Department of Computer Science, University of Toronto
+51	61	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Nanjing Univ. of Posts & Telecomm, China
+51	62	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+51	63	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	Michigan State University, USA
+52	53	null	CSIRO ICT Center, Hobart, Australia
+52	54	null	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+52	55	null	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+52	56	null	Dept. of Autom., Tsinghua Univ., Beijing, China
+52	57	null	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+52	58	null	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+52	59	null	Dalhousie University (Canada)
+52	60	null	Department of Computer Science, University of Toronto
+52	61	null	Nanjing Univ. of Posts & Telecomm, China
+52	62	null	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+52	63	null	Michigan State University, USA
+53	54	CSIRO ICT Center, Hobart, Australia	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China
+53	55	CSIRO ICT Center, Hobart, Australia	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+53	56	CSIRO ICT Center, Hobart, Australia	Dept. of Autom., Tsinghua Univ., Beijing, China
+53	57	CSIRO ICT Center, Hobart, Australia	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+53	58	CSIRO ICT Center, Hobart, Australia	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+53	59	CSIRO ICT Center, Hobart, Australia	Dalhousie University (Canada)
+53	60	CSIRO ICT Center, Hobart, Australia	Department of Computer Science, University of Toronto
+53	61	CSIRO ICT Center, Hobart, Australia	Nanjing Univ. of Posts & Telecomm, China
+53	62	CSIRO ICT Center, Hobart, Australia	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+53	63	CSIRO ICT Center, Hobart, Australia	Michigan State University, USA
+54	55	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China
+54	56	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+54	57	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+54	58	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+54	59	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Dalhousie University (Canada)
+54	60	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Department of Computer Science, University of Toronto
+54	61	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Nanjing Univ. of Posts & Telecomm, China
+54	62	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+54	63	Fac. of Inf. Eng., Guangdong Univ. of Technol., Guangzhou, China	Michigan State University, USA
+55	56	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Dept. of Autom., Tsinghua Univ., Beijing, China
+55	57	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+55	58	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+55	59	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Dalhousie University (Canada)
+55	60	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Department of Computer Science, University of Toronto
+55	61	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Nanjing Univ. of Posts & Telecomm, China
+55	62	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+55	63	Sch. of Comput. Sci. & Technol., Beijing Univ. of Posts & Telecommun., China	Michigan State University, USA
+56	57	Dept. of Autom., Tsinghua Univ., Beijing, China	Computer Science and Engineering Department, Texas A&M University, College Station, TX
+56	58	Dept. of Autom., Tsinghua Univ., Beijing, China	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+56	59	Dept. of Autom., Tsinghua Univ., Beijing, China	Dalhousie University (Canada)
+56	60	Dept. of Autom., Tsinghua Univ., Beijing, China	Department of Computer Science, University of Toronto
+56	61	Dept. of Autom., Tsinghua Univ., Beijing, China	Nanjing Univ. of Posts & Telecomm, China
+56	62	Dept. of Autom., Tsinghua Univ., Beijing, China	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+56	63	Dept. of Autom., Tsinghua Univ., Beijing, China	Michigan State University, USA
+57	58	Computer Science and Engineering Department, Texas A&M University, College Station, TX	Sch. of Psychol., Beijing Normal Univ., Beijing, China
+57	59	Computer Science and Engineering Department, Texas A&M University, College Station, TX	Dalhousie University (Canada)
+57	60	Computer Science and Engineering Department, Texas A&M University, College Station, TX	Department of Computer Science, University of Toronto
+57	61	Computer Science and Engineering Department, Texas A&M University, College Station, TX	Nanjing Univ. of Posts & Telecomm, China
+57	62	Computer Science and Engineering Department, Texas A&M University, College Station, TX	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+57	63	Computer Science and Engineering Department, Texas A&M University, College Station, TX	Michigan State University, USA
+58	59	Sch. of Psychol., Beijing Normal Univ., Beijing, China	Dalhousie University (Canada)
+58	60	Sch. of Psychol., Beijing Normal Univ., Beijing, China	Department of Computer Science, University of Toronto
+58	61	Sch. of Psychol., Beijing Normal Univ., Beijing, China	Nanjing Univ. of Posts & Telecomm, China
+58	62	Sch. of Psychol., Beijing Normal Univ., Beijing, China	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+58	63	Sch. of Psychol., Beijing Normal Univ., Beijing, China	Michigan State University, USA
+59	60	Dalhousie University (Canada)	Department of Computer Science, University of Toronto
+59	61	Dalhousie University (Canada)	Nanjing Univ. of Posts & Telecomm, China
+59	62	Dalhousie University (Canada)	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+59	63	Dalhousie University (Canada)	Michigan State University, USA
+60	61	Department of Computer Science, University of Toronto	Nanjing Univ. of Posts & Telecomm, China
+60	62	Department of Computer Science, University of Toronto	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+60	63	Department of Computer Science, University of Toronto	Michigan State University, USA
+61	62	Nanjing Univ. of Posts & Telecomm, China	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+61	63	Nanjing Univ. of Posts & Telecomm, China	Michigan State University, USA
+62	63	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824	Michigan State University, USA

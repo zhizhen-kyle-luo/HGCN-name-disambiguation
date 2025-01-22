@@ -1,0 +1,1891 @@
+0	1	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	2	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	3	University of Mass-Dartmouth, North Dartmouth, MA	MESA, Inst. for Nanotechnology, Enschede, Netherlands
+0	4	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	5	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	6	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	7	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	8	University of Mass-Dartmouth, North Dartmouth, MA	Telecommun. Inst., Erlangen-Nurnberg Univ.
+0	9	University of Mass-Dartmouth, North Dartmouth, MA	Wisconsin Univ., Eau Claire, WI
+0	10	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	11	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	12	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	13	University of Mass-Dartmouth, North Dartmouth, MA	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+0	14	University of Mass-Dartmouth, North Dartmouth, MA	New Jersey Inst. of Technol., Newark, NJ
+0	15	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	16	University of Mass-Dartmouth, North Dartmouth, MA	University of Maryland, College Park
+0	17	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	18	University of Mass-Dartmouth, North Dartmouth, MA	Dept. of Comput. Sci., Univ. of Wales, Swansea
+0	19	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	20	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	21	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	22	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	23	University of Mass-Dartmouth, North Dartmouth, MA	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+0	24	University of Mass-Dartmouth, North Dartmouth, MA	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+0	25	University of Mass-Dartmouth, North Dartmouth, MA	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+0	26	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	27	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	28	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	29	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	30	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	31	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	32	University of Mass-Dartmouth, North Dartmouth, MA	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+0	33	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	34	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	35	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	36	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	37	University of Mass-Dartmouth, North Dartmouth, MA	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+0	38	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	39	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	40	University of Mass-Dartmouth, North Dartmouth, MA	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+0	41	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	42	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	43	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	44	University of Mass-Dartmouth, North Dartmouth, MA	University of Toronto, Canada
+0	45	University of Mass-Dartmouth, North Dartmouth, MA	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+0	46	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	47	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	48	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	49	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	50	University of Mass-Dartmouth, North Dartmouth, MA	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+0	51	University of Mass-Dartmouth, North Dartmouth, MA	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+0	52	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	53	University of Mass-Dartmouth, North Dartmouth, MA	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+0	54	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	55	University of Mass-Dartmouth, North Dartmouth, MA	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+0	56	University of Mass-Dartmouth, North Dartmouth, MA	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+0	57	University of Mass-Dartmouth, North Dartmouth, MA	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+0	58	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	59	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	60	University of Mass-Dartmouth, North Dartmouth, MA	null
+0	61	University of Mass-Dartmouth, North Dartmouth, MA	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+1	2	null	null
+1	3	null	MESA, Inst. for Nanotechnology, Enschede, Netherlands
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	Telecommun. Inst., Erlangen-Nurnberg Univ.
+1	9	null	Wisconsin Univ., Eau Claire, WI
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+1	14	null	New Jersey Inst. of Technol., Newark, NJ
+1	15	null	null
+1	16	null	University of Maryland, College Park
+1	17	null	null
+1	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+1	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+1	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+1	26	null	null
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+1	33	null	null
+1	34	null	null
+1	35	null	null
+1	36	null	null
+1	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+1	38	null	null
+1	39	null	null
+1	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+1	41	null	null
+1	42	null	null
+1	43	null	null
+1	44	null	University of Toronto, Canada
+1	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+1	46	null	null
+1	47	null	null
+1	48	null	null
+1	49	null	null
+1	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+1	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+1	52	null	null
+1	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+1	54	null	null
+1	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+1	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+1	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+1	58	null	null
+1	59	null	null
+1	60	null	null
+1	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+2	3	null	MESA, Inst. for Nanotechnology, Enschede, Netherlands
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	Telecommun. Inst., Erlangen-Nurnberg Univ.
+2	9	null	Wisconsin Univ., Eau Claire, WI
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+2	14	null	New Jersey Inst. of Technol., Newark, NJ
+2	15	null	null
+2	16	null	University of Maryland, College Park
+2	17	null	null
+2	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+2	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+2	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+2	26	null	null
+2	27	null	null
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+2	33	null	null
+2	34	null	null
+2	35	null	null
+2	36	null	null
+2	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+2	38	null	null
+2	39	null	null
+2	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+2	41	null	null
+2	42	null	null
+2	43	null	null
+2	44	null	University of Toronto, Canada
+2	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+2	46	null	null
+2	47	null	null
+2	48	null	null
+2	49	null	null
+2	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+2	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+2	52	null	null
+2	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+2	54	null	null
+2	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+2	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+2	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+2	58	null	null
+2	59	null	null
+2	60	null	null
+2	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+3	4	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	5	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	6	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	7	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	8	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Telecommun. Inst., Erlangen-Nurnberg Univ.
+3	9	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Wisconsin Univ., Eau Claire, WI
+3	10	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	11	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	12	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	13	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+3	14	MESA, Inst. for Nanotechnology, Enschede, Netherlands	New Jersey Inst. of Technol., Newark, NJ
+3	15	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	16	MESA, Inst. for Nanotechnology, Enschede, Netherlands	University of Maryland, College Park
+3	17	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	18	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Dept. of Comput. Sci., Univ. of Wales, Swansea
+3	19	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	20	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	21	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	22	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	23	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+3	24	MESA, Inst. for Nanotechnology, Enschede, Netherlands	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+3	25	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+3	26	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	27	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	28	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	29	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	30	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	31	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	32	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+3	33	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	34	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	35	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	36	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	37	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+3	38	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	39	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	40	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+3	41	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	42	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	43	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	44	MESA, Inst. for Nanotechnology, Enschede, Netherlands	University of Toronto, Canada
+3	45	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+3	46	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	47	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	48	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	49	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	50	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+3	51	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+3	52	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	53	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+3	54	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	55	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+3	56	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+3	57	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+3	58	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	59	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	60	MESA, Inst. for Nanotechnology, Enschede, Netherlands	null
+3	61	MESA, Inst. for Nanotechnology, Enschede, Netherlands	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	Telecommun. Inst., Erlangen-Nurnberg Univ.
+4	9	null	Wisconsin Univ., Eau Claire, WI
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+4	14	null	New Jersey Inst. of Technol., Newark, NJ
+4	15	null	null
+4	16	null	University of Maryland, College Park
+4	17	null	null
+4	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+4	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+4	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+4	26	null	null
+4	27	null	null
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+4	33	null	null
+4	34	null	null
+4	35	null	null
+4	36	null	null
+4	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+4	38	null	null
+4	39	null	null
+4	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+4	41	null	null
+4	42	null	null
+4	43	null	null
+4	44	null	University of Toronto, Canada
+4	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+4	46	null	null
+4	47	null	null
+4	48	null	null
+4	49	null	null
+4	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+4	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+4	52	null	null
+4	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+4	54	null	null
+4	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+4	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+4	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+4	58	null	null
+4	59	null	null
+4	60	null	null
+4	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+5	6	null	null
+5	7	null	null
+5	8	null	Telecommun. Inst., Erlangen-Nurnberg Univ.
+5	9	null	Wisconsin Univ., Eau Claire, WI
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+5	14	null	New Jersey Inst. of Technol., Newark, NJ
+5	15	null	null
+5	16	null	University of Maryland, College Park
+5	17	null	null
+5	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+5	19	null	null
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+5	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+5	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+5	26	null	null
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+5	33	null	null
+5	34	null	null
+5	35	null	null
+5	36	null	null
+5	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+5	38	null	null
+5	39	null	null
+5	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+5	41	null	null
+5	42	null	null
+5	43	null	null
+5	44	null	University of Toronto, Canada
+5	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+5	46	null	null
+5	47	null	null
+5	48	null	null
+5	49	null	null
+5	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+5	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+5	52	null	null
+5	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+5	54	null	null
+5	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+5	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+5	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+5	58	null	null
+5	59	null	null
+5	60	null	null
+5	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+6	7	null	null
+6	8	null	Telecommun. Inst., Erlangen-Nurnberg Univ.
+6	9	null	Wisconsin Univ., Eau Claire, WI
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+6	14	null	New Jersey Inst. of Technol., Newark, NJ
+6	15	null	null
+6	16	null	University of Maryland, College Park
+6	17	null	null
+6	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	null
+6	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+6	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+6	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+6	26	null	null
+6	27	null	null
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+6	33	null	null
+6	34	null	null
+6	35	null	null
+6	36	null	null
+6	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+6	38	null	null
+6	39	null	null
+6	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+6	41	null	null
+6	42	null	null
+6	43	null	null
+6	44	null	University of Toronto, Canada
+6	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+6	46	null	null
+6	47	null	null
+6	48	null	null
+6	49	null	null
+6	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+6	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+6	52	null	null
+6	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+6	54	null	null
+6	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+6	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+6	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+6	58	null	null
+6	59	null	null
+6	60	null	null
+6	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+7	8	null	Telecommun. Inst., Erlangen-Nurnberg Univ.
+7	9	null	Wisconsin Univ., Eau Claire, WI
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+7	14	null	New Jersey Inst. of Technol., Newark, NJ
+7	15	null	null
+7	16	null	University of Maryland, College Park
+7	17	null	null
+7	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+7	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+7	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+7	26	null	null
+7	27	null	null
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+7	33	null	null
+7	34	null	null
+7	35	null	null
+7	36	null	null
+7	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+7	38	null	null
+7	39	null	null
+7	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+7	41	null	null
+7	42	null	null
+7	43	null	null
+7	44	null	University of Toronto, Canada
+7	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+7	46	null	null
+7	47	null	null
+7	48	null	null
+7	49	null	null
+7	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+7	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+7	52	null	null
+7	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+7	54	null	null
+7	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+7	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+7	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+7	58	null	null
+7	59	null	null
+7	60	null	null
+7	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+8	9	Telecommun. Inst., Erlangen-Nurnberg Univ.	Wisconsin Univ., Eau Claire, WI
+8	10	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	11	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	12	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	13	Telecommun. Inst., Erlangen-Nurnberg Univ.	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+8	14	Telecommun. Inst., Erlangen-Nurnberg Univ.	New Jersey Inst. of Technol., Newark, NJ
+8	15	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	16	Telecommun. Inst., Erlangen-Nurnberg Univ.	University of Maryland, College Park
+8	17	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	18	Telecommun. Inst., Erlangen-Nurnberg Univ.	Dept. of Comput. Sci., Univ. of Wales, Swansea
+8	19	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	20	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	21	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	22	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	23	Telecommun. Inst., Erlangen-Nurnberg Univ.	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+8	24	Telecommun. Inst., Erlangen-Nurnberg Univ.	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+8	25	Telecommun. Inst., Erlangen-Nurnberg Univ.	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+8	26	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	27	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	28	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	29	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	30	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	31	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	32	Telecommun. Inst., Erlangen-Nurnberg Univ.	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+8	33	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	34	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	35	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	36	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	37	Telecommun. Inst., Erlangen-Nurnberg Univ.	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+8	38	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	39	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	40	Telecommun. Inst., Erlangen-Nurnberg Univ.	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+8	41	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	42	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	43	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	44	Telecommun. Inst., Erlangen-Nurnberg Univ.	University of Toronto, Canada
+8	45	Telecommun. Inst., Erlangen-Nurnberg Univ.	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+8	46	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	47	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	48	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	49	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	50	Telecommun. Inst., Erlangen-Nurnberg Univ.	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+8	51	Telecommun. Inst., Erlangen-Nurnberg Univ.	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+8	52	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	53	Telecommun. Inst., Erlangen-Nurnberg Univ.	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+8	54	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	55	Telecommun. Inst., Erlangen-Nurnberg Univ.	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+8	56	Telecommun. Inst., Erlangen-Nurnberg Univ.	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+8	57	Telecommun. Inst., Erlangen-Nurnberg Univ.	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+8	58	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	59	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	60	Telecommun. Inst., Erlangen-Nurnberg Univ.	null
+8	61	Telecommun. Inst., Erlangen-Nurnberg Univ.	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+9	10	Wisconsin Univ., Eau Claire, WI	null
+9	11	Wisconsin Univ., Eau Claire, WI	null
+9	12	Wisconsin Univ., Eau Claire, WI	null
+9	13	Wisconsin Univ., Eau Claire, WI	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+9	14	Wisconsin Univ., Eau Claire, WI	New Jersey Inst. of Technol., Newark, NJ
+9	15	Wisconsin Univ., Eau Claire, WI	null
+9	16	Wisconsin Univ., Eau Claire, WI	University of Maryland, College Park
+9	17	Wisconsin Univ., Eau Claire, WI	null
+9	18	Wisconsin Univ., Eau Claire, WI	Dept. of Comput. Sci., Univ. of Wales, Swansea
+9	19	Wisconsin Univ., Eau Claire, WI	null
+9	20	Wisconsin Univ., Eau Claire, WI	null
+9	21	Wisconsin Univ., Eau Claire, WI	null
+9	22	Wisconsin Univ., Eau Claire, WI	null
+9	23	Wisconsin Univ., Eau Claire, WI	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+9	24	Wisconsin Univ., Eau Claire, WI	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+9	25	Wisconsin Univ., Eau Claire, WI	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+9	26	Wisconsin Univ., Eau Claire, WI	null
+9	27	Wisconsin Univ., Eau Claire, WI	null
+9	28	Wisconsin Univ., Eau Claire, WI	null
+9	29	Wisconsin Univ., Eau Claire, WI	null
+9	30	Wisconsin Univ., Eau Claire, WI	null
+9	31	Wisconsin Univ., Eau Claire, WI	null
+9	32	Wisconsin Univ., Eau Claire, WI	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+9	33	Wisconsin Univ., Eau Claire, WI	null
+9	34	Wisconsin Univ., Eau Claire, WI	null
+9	35	Wisconsin Univ., Eau Claire, WI	null
+9	36	Wisconsin Univ., Eau Claire, WI	null
+9	37	Wisconsin Univ., Eau Claire, WI	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+9	38	Wisconsin Univ., Eau Claire, WI	null
+9	39	Wisconsin Univ., Eau Claire, WI	null
+9	40	Wisconsin Univ., Eau Claire, WI	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+9	41	Wisconsin Univ., Eau Claire, WI	null
+9	42	Wisconsin Univ., Eau Claire, WI	null
+9	43	Wisconsin Univ., Eau Claire, WI	null
+9	44	Wisconsin Univ., Eau Claire, WI	University of Toronto, Canada
+9	45	Wisconsin Univ., Eau Claire, WI	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+9	46	Wisconsin Univ., Eau Claire, WI	null
+9	47	Wisconsin Univ., Eau Claire, WI	null
+9	48	Wisconsin Univ., Eau Claire, WI	null
+9	49	Wisconsin Univ., Eau Claire, WI	null
+9	50	Wisconsin Univ., Eau Claire, WI	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+9	51	Wisconsin Univ., Eau Claire, WI	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+9	52	Wisconsin Univ., Eau Claire, WI	null
+9	53	Wisconsin Univ., Eau Claire, WI	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+9	54	Wisconsin Univ., Eau Claire, WI	null
+9	55	Wisconsin Univ., Eau Claire, WI	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+9	56	Wisconsin Univ., Eau Claire, WI	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+9	57	Wisconsin Univ., Eau Claire, WI	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+9	58	Wisconsin Univ., Eau Claire, WI	null
+9	59	Wisconsin Univ., Eau Claire, WI	null
+9	60	Wisconsin Univ., Eau Claire, WI	null
+9	61	Wisconsin Univ., Eau Claire, WI	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+10	11	null	null
+10	12	null	null
+10	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+10	14	null	New Jersey Inst. of Technol., Newark, NJ
+10	15	null	null
+10	16	null	University of Maryland, College Park
+10	17	null	null
+10	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	null
+10	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+10	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+10	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+10	26	null	null
+10	27	null	null
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	null
+10	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+10	33	null	null
+10	34	null	null
+10	35	null	null
+10	36	null	null
+10	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+10	38	null	null
+10	39	null	null
+10	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+10	41	null	null
+10	42	null	null
+10	43	null	null
+10	44	null	University of Toronto, Canada
+10	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+10	46	null	null
+10	47	null	null
+10	48	null	null
+10	49	null	null
+10	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+10	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+10	52	null	null
+10	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+10	54	null	null
+10	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+10	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+10	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+10	58	null	null
+10	59	null	null
+10	60	null	null
+10	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+11	12	null	null
+11	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+11	14	null	New Jersey Inst. of Technol., Newark, NJ
+11	15	null	null
+11	16	null	University of Maryland, College Park
+11	17	null	null
+11	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+11	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+11	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+11	26	null	null
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+11	33	null	null
+11	34	null	null
+11	35	null	null
+11	36	null	null
+11	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+11	38	null	null
+11	39	null	null
+11	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+11	41	null	null
+11	42	null	null
+11	43	null	null
+11	44	null	University of Toronto, Canada
+11	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+11	46	null	null
+11	47	null	null
+11	48	null	null
+11	49	null	null
+11	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+11	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+11	52	null	null
+11	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+11	54	null	null
+11	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+11	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+11	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+11	58	null	null
+11	59	null	null
+11	60	null	null
+11	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+12	13	null	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA
+12	14	null	New Jersey Inst. of Technol., Newark, NJ
+12	15	null	null
+12	16	null	University of Maryland, College Park
+12	17	null	null
+12	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	null
+12	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+12	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+12	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+12	26	null	null
+12	27	null	null
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+12	33	null	null
+12	34	null	null
+12	35	null	null
+12	36	null	null
+12	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+12	38	null	null
+12	39	null	null
+12	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+12	41	null	null
+12	42	null	null
+12	43	null	null
+12	44	null	University of Toronto, Canada
+12	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+12	46	null	null
+12	47	null	null
+12	48	null	null
+12	49	null	null
+12	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+12	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+12	52	null	null
+12	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+12	54	null	null
+12	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+12	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+12	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+12	58	null	null
+12	59	null	null
+12	60	null	null
+12	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+13	14	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	New Jersey Inst. of Technol., Newark, NJ
+13	15	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	16	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	University of Maryland, College Park
+13	17	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	18	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Dept. of Comput. Sci., Univ. of Wales, Swansea
+13	19	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	20	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	21	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	22	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	23	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+13	24	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+13	25	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+13	26	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	27	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	28	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	29	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	30	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	31	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	32	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+13	33	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	34	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	35	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	36	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	37	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+13	38	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	39	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	40	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+13	41	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	42	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	43	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	44	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	University of Toronto, Canada
+13	45	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+13	46	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	47	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	48	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	49	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	50	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+13	51	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+13	52	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	53	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+13	54	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	55	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+13	56	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+13	57	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+13	58	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	59	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	60	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	null
+13	61	Dept. of Electr. & Comput. Eng., Biomed. Eng., Internal Medicine, & Radiol., Iowa Univ., Iowa City, IA	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+14	15	New Jersey Inst. of Technol., Newark, NJ	null
+14	16	New Jersey Inst. of Technol., Newark, NJ	University of Maryland, College Park
+14	17	New Jersey Inst. of Technol., Newark, NJ	null
+14	18	New Jersey Inst. of Technol., Newark, NJ	Dept. of Comput. Sci., Univ. of Wales, Swansea
+14	19	New Jersey Inst. of Technol., Newark, NJ	null
+14	20	New Jersey Inst. of Technol., Newark, NJ	null
+14	21	New Jersey Inst. of Technol., Newark, NJ	null
+14	22	New Jersey Inst. of Technol., Newark, NJ	null
+14	23	New Jersey Inst. of Technol., Newark, NJ	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+14	24	New Jersey Inst. of Technol., Newark, NJ	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+14	25	New Jersey Inst. of Technol., Newark, NJ	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+14	26	New Jersey Inst. of Technol., Newark, NJ	null
+14	27	New Jersey Inst. of Technol., Newark, NJ	null
+14	28	New Jersey Inst. of Technol., Newark, NJ	null
+14	29	New Jersey Inst. of Technol., Newark, NJ	null
+14	30	New Jersey Inst. of Technol., Newark, NJ	null
+14	31	New Jersey Inst. of Technol., Newark, NJ	null
+14	32	New Jersey Inst. of Technol., Newark, NJ	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+14	33	New Jersey Inst. of Technol., Newark, NJ	null
+14	34	New Jersey Inst. of Technol., Newark, NJ	null
+14	35	New Jersey Inst. of Technol., Newark, NJ	null
+14	36	New Jersey Inst. of Technol., Newark, NJ	null
+14	37	New Jersey Inst. of Technol., Newark, NJ	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+14	38	New Jersey Inst. of Technol., Newark, NJ	null
+14	39	New Jersey Inst. of Technol., Newark, NJ	null
+14	40	New Jersey Inst. of Technol., Newark, NJ	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+14	41	New Jersey Inst. of Technol., Newark, NJ	null
+14	42	New Jersey Inst. of Technol., Newark, NJ	null
+14	43	New Jersey Inst. of Technol., Newark, NJ	null
+14	44	New Jersey Inst. of Technol., Newark, NJ	University of Toronto, Canada
+14	45	New Jersey Inst. of Technol., Newark, NJ	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+14	46	New Jersey Inst. of Technol., Newark, NJ	null
+14	47	New Jersey Inst. of Technol., Newark, NJ	null
+14	48	New Jersey Inst. of Technol., Newark, NJ	null
+14	49	New Jersey Inst. of Technol., Newark, NJ	null
+14	50	New Jersey Inst. of Technol., Newark, NJ	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+14	51	New Jersey Inst. of Technol., Newark, NJ	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+14	52	New Jersey Inst. of Technol., Newark, NJ	null
+14	53	New Jersey Inst. of Technol., Newark, NJ	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+14	54	New Jersey Inst. of Technol., Newark, NJ	null
+14	55	New Jersey Inst. of Technol., Newark, NJ	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+14	56	New Jersey Inst. of Technol., Newark, NJ	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+14	57	New Jersey Inst. of Technol., Newark, NJ	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+14	58	New Jersey Inst. of Technol., Newark, NJ	null
+14	59	New Jersey Inst. of Technol., Newark, NJ	null
+14	60	New Jersey Inst. of Technol., Newark, NJ	null
+14	61	New Jersey Inst. of Technol., Newark, NJ	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+15	16	null	University of Maryland, College Park
+15	17	null	null
+15	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+15	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+15	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+15	26	null	null
+15	27	null	null
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+15	33	null	null
+15	34	null	null
+15	35	null	null
+15	36	null	null
+15	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+15	38	null	null
+15	39	null	null
+15	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+15	41	null	null
+15	42	null	null
+15	43	null	null
+15	44	null	University of Toronto, Canada
+15	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+15	46	null	null
+15	47	null	null
+15	48	null	null
+15	49	null	null
+15	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+15	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+15	52	null	null
+15	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+15	54	null	null
+15	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+15	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+15	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+15	58	null	null
+15	59	null	null
+15	60	null	null
+15	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+16	17	University of Maryland, College Park	null
+16	18	University of Maryland, College Park	Dept. of Comput. Sci., Univ. of Wales, Swansea
+16	19	University of Maryland, College Park	null
+16	20	University of Maryland, College Park	null
+16	21	University of Maryland, College Park	null
+16	22	University of Maryland, College Park	null
+16	23	University of Maryland, College Park	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+16	24	University of Maryland, College Park	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+16	25	University of Maryland, College Park	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+16	26	University of Maryland, College Park	null
+16	27	University of Maryland, College Park	null
+16	28	University of Maryland, College Park	null
+16	29	University of Maryland, College Park	null
+16	30	University of Maryland, College Park	null
+16	31	University of Maryland, College Park	null
+16	32	University of Maryland, College Park	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+16	33	University of Maryland, College Park	null
+16	34	University of Maryland, College Park	null
+16	35	University of Maryland, College Park	null
+16	36	University of Maryland, College Park	null
+16	37	University of Maryland, College Park	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+16	38	University of Maryland, College Park	null
+16	39	University of Maryland, College Park	null
+16	40	University of Maryland, College Park	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+16	41	University of Maryland, College Park	null
+16	42	University of Maryland, College Park	null
+16	43	University of Maryland, College Park	null
+16	44	University of Maryland, College Park	University of Toronto, Canada
+16	45	University of Maryland, College Park	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+16	46	University of Maryland, College Park	null
+16	47	University of Maryland, College Park	null
+16	48	University of Maryland, College Park	null
+16	49	University of Maryland, College Park	null
+16	50	University of Maryland, College Park	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+16	51	University of Maryland, College Park	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+16	52	University of Maryland, College Park	null
+16	53	University of Maryland, College Park	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+16	54	University of Maryland, College Park	null
+16	55	University of Maryland, College Park	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+16	56	University of Maryland, College Park	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+16	57	University of Maryland, College Park	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+16	58	University of Maryland, College Park	null
+16	59	University of Maryland, College Park	null
+16	60	University of Maryland, College Park	null
+16	61	University of Maryland, College Park	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+17	18	null	Dept. of Comput. Sci., Univ. of Wales, Swansea
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+17	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+17	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+17	26	null	null
+17	27	null	null
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	null
+17	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+17	33	null	null
+17	34	null	null
+17	35	null	null
+17	36	null	null
+17	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+17	38	null	null
+17	39	null	null
+17	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+17	41	null	null
+17	42	null	null
+17	43	null	null
+17	44	null	University of Toronto, Canada
+17	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+17	46	null	null
+17	47	null	null
+17	48	null	null
+17	49	null	null
+17	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+17	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+17	52	null	null
+17	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+17	54	null	null
+17	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+17	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+17	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+17	58	null	null
+17	59	null	null
+17	60	null	null
+17	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+18	19	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	20	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	21	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	22	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	23	Dept. of Comput. Sci., Univ. of Wales, Swansea	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+18	24	Dept. of Comput. Sci., Univ. of Wales, Swansea	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+18	25	Dept. of Comput. Sci., Univ. of Wales, Swansea	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+18	26	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	27	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	28	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	29	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	30	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	31	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	32	Dept. of Comput. Sci., Univ. of Wales, Swansea	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+18	33	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	34	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	35	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	36	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	37	Dept. of Comput. Sci., Univ. of Wales, Swansea	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+18	38	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	39	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	40	Dept. of Comput. Sci., Univ. of Wales, Swansea	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+18	41	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	42	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	43	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	44	Dept. of Comput. Sci., Univ. of Wales, Swansea	University of Toronto, Canada
+18	45	Dept. of Comput. Sci., Univ. of Wales, Swansea	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+18	46	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	47	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	48	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	49	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	50	Dept. of Comput. Sci., Univ. of Wales, Swansea	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+18	51	Dept. of Comput. Sci., Univ. of Wales, Swansea	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+18	52	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	53	Dept. of Comput. Sci., Univ. of Wales, Swansea	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+18	54	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	55	Dept. of Comput. Sci., Univ. of Wales, Swansea	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+18	56	Dept. of Comput. Sci., Univ. of Wales, Swansea	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+18	57	Dept. of Comput. Sci., Univ. of Wales, Swansea	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+18	58	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	59	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	60	Dept. of Comput. Sci., Univ. of Wales, Swansea	null
+18	61	Dept. of Comput. Sci., Univ. of Wales, Swansea	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+19	20	null	null
+19	21	null	null
+19	22	null	null
+19	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+19	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+19	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+19	26	null	null
+19	27	null	null
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+19	33	null	null
+19	34	null	null
+19	35	null	null
+19	36	null	null
+19	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+19	38	null	null
+19	39	null	null
+19	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+19	41	null	null
+19	42	null	null
+19	43	null	null
+19	44	null	University of Toronto, Canada
+19	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+19	46	null	null
+19	47	null	null
+19	48	null	null
+19	49	null	null
+19	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+19	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+19	52	null	null
+19	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+19	54	null	null
+19	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+19	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+19	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+19	58	null	null
+19	59	null	null
+19	60	null	null
+19	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+20	21	null	null
+20	22	null	null
+20	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+20	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+20	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+20	26	null	null
+20	27	null	null
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+20	33	null	null
+20	34	null	null
+20	35	null	null
+20	36	null	null
+20	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+20	38	null	null
+20	39	null	null
+20	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+20	41	null	null
+20	42	null	null
+20	43	null	null
+20	44	null	University of Toronto, Canada
+20	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+20	46	null	null
+20	47	null	null
+20	48	null	null
+20	49	null	null
+20	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+20	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+20	52	null	null
+20	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+20	54	null	null
+20	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+20	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+20	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+20	58	null	null
+20	59	null	null
+20	60	null	null
+20	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+21	22	null	null
+21	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+21	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+21	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+21	26	null	null
+21	27	null	null
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+21	33	null	null
+21	34	null	null
+21	35	null	null
+21	36	null	null
+21	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+21	38	null	null
+21	39	null	null
+21	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+21	41	null	null
+21	42	null	null
+21	43	null	null
+21	44	null	University of Toronto, Canada
+21	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+21	46	null	null
+21	47	null	null
+21	48	null	null
+21	49	null	null
+21	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+21	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+21	52	null	null
+21	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+21	54	null	null
+21	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+21	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+21	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+21	58	null	null
+21	59	null	null
+21	60	null	null
+21	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+22	23	null	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing
+22	24	null	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+22	25	null	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+22	26	null	null
+22	27	null	null
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+22	33	null	null
+22	34	null	null
+22	35	null	null
+22	36	null	null
+22	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+22	38	null	null
+22	39	null	null
+22	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+22	41	null	null
+22	42	null	null
+22	43	null	null
+22	44	null	University of Toronto, Canada
+22	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+22	46	null	null
+22	47	null	null
+22	48	null	null
+22	49	null	null
+22	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+22	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+22	52	null	null
+22	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+22	54	null	null
+22	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+22	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+22	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+22	58	null	null
+22	59	null	null
+22	60	null	null
+22	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+23	24	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	School of the Built Environment, University of Salford, M5 4WT, Salford, UK
+23	25	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+23	26	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	27	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	28	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	29	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	30	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	31	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	32	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+23	33	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	34	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	35	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	36	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	37	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+23	38	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	39	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	40	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+23	41	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	42	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	43	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	44	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	University of Toronto, Canada
+23	45	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+23	46	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	47	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	48	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	49	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	50	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+23	51	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+23	52	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	53	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+23	54	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	55	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+23	56	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+23	57	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+23	58	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	59	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	60	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	null
+23	61	Sch. of Psychol. & Beijing Key Lab. of Appl. Exp. Psychol., Beijing Normal Univ., Beijing	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+24	25	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6
+24	26	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	27	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	28	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	29	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	30	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	31	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	32	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+24	33	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	34	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	35	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	36	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	37	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+24	38	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	39	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	40	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+24	41	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	42	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	43	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	44	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	University of Toronto, Canada
+24	45	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+24	46	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	47	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	48	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	49	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	50	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+24	51	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+24	52	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	53	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+24	54	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	55	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+24	56	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+24	57	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+24	58	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	59	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	60	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	null
+24	61	School of the Built Environment, University of Salford, M5 4WT, Salford, UK	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+25	26	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	27	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	28	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	29	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	30	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	31	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	32	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+25	33	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	34	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	35	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	36	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	37	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+25	38	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	39	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	40	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+25	41	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	42	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	43	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	44	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	University of Toronto, Canada
+25	45	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+25	46	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	47	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	48	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	49	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	50	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+25	51	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+25	52	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	53	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+25	54	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	55	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+25	56	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+25	57	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+25	58	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	59	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	60	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	null
+25	61	Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer Agency 100-570 West 7th Avenue, Vancouver, BC, Canada V5Z 4E6	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+26	27	null	null
+26	28	null	null
+26	29	null	null
+26	30	null	null
+26	31	null	null
+26	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+26	33	null	null
+26	34	null	null
+26	35	null	null
+26	36	null	null
+26	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+26	38	null	null
+26	39	null	null
+26	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+26	41	null	null
+26	42	null	null
+26	43	null	null
+26	44	null	University of Toronto, Canada
+26	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+26	46	null	null
+26	47	null	null
+26	48	null	null
+26	49	null	null
+26	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+26	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+26	52	null	null
+26	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+26	54	null	null
+26	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+26	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+26	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+26	58	null	null
+26	59	null	null
+26	60	null	null
+26	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+27	33	null	null
+27	34	null	null
+27	35	null	null
+27	36	null	null
+27	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+27	38	null	null
+27	39	null	null
+27	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+27	41	null	null
+27	42	null	null
+27	43	null	null
+27	44	null	University of Toronto, Canada
+27	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+27	46	null	null
+27	47	null	null
+27	48	null	null
+27	49	null	null
+27	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+27	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+27	52	null	null
+27	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+27	54	null	null
+27	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+27	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+27	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+27	58	null	null
+27	59	null	null
+27	60	null	null
+27	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+28	33	null	null
+28	34	null	null
+28	35	null	null
+28	36	null	null
+28	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+28	38	null	null
+28	39	null	null
+28	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+28	41	null	null
+28	42	null	null
+28	43	null	null
+28	44	null	University of Toronto, Canada
+28	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+28	46	null	null
+28	47	null	null
+28	48	null	null
+28	49	null	null
+28	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+28	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+28	52	null	null
+28	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+28	54	null	null
+28	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+28	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+28	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+28	58	null	null
+28	59	null	null
+28	60	null	null
+28	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+29	30	null	null
+29	31	null	null
+29	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+29	33	null	null
+29	34	null	null
+29	35	null	null
+29	36	null	null
+29	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+29	38	null	null
+29	39	null	null
+29	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+29	41	null	null
+29	42	null	null
+29	43	null	null
+29	44	null	University of Toronto, Canada
+29	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+29	46	null	null
+29	47	null	null
+29	48	null	null
+29	49	null	null
+29	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+29	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+29	52	null	null
+29	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+29	54	null	null
+29	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+29	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+29	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+29	58	null	null
+29	59	null	null
+29	60	null	null
+29	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+30	31	null	null
+30	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+30	33	null	null
+30	34	null	null
+30	35	null	null
+30	36	null	null
+30	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+30	38	null	null
+30	39	null	null
+30	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+30	41	null	null
+30	42	null	null
+30	43	null	null
+30	44	null	University of Toronto, Canada
+30	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+30	46	null	null
+30	47	null	null
+30	48	null	null
+30	49	null	null
+30	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+30	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+30	52	null	null
+30	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+30	54	null	null
+30	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+30	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+30	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+30	58	null	null
+30	59	null	null
+30	60	null	null
+30	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+31	32	null	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8
+31	33	null	null
+31	34	null	null
+31	35	null	null
+31	36	null	null
+31	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+31	38	null	null
+31	39	null	null
+31	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+31	41	null	null
+31	42	null	null
+31	43	null	null
+31	44	null	University of Toronto, Canada
+31	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+31	46	null	null
+31	47	null	null
+31	48	null	null
+31	49	null	null
+31	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+31	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+31	52	null	null
+31	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+31	54	null	null
+31	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+31	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+31	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+31	58	null	null
+31	59	null	null
+31	60	null	null
+31	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+32	33	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	34	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	35	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	36	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	37	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+32	38	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	39	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	40	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+32	41	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	42	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	43	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	44	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	University of Toronto, Canada
+32	45	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+32	46	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	47	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	48	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	49	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	50	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+32	51	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+32	52	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	53	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+32	54	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	55	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+32	56	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+32	57	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+32	58	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	59	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	60	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	null
+32	61	Department of Electrical and Computer Engineering, Concordia University, 1455 De Maisonneuve Blvd. West, Montreal, Que., Canada H3G 1M8	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+33	34	null	null
+33	35	null	null
+33	36	null	null
+33	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+33	38	null	null
+33	39	null	null
+33	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+33	41	null	null
+33	42	null	null
+33	43	null	null
+33	44	null	University of Toronto, Canada
+33	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+33	46	null	null
+33	47	null	null
+33	48	null	null
+33	49	null	null
+33	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+33	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+33	52	null	null
+33	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+33	54	null	null
+33	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+33	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+33	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+33	58	null	null
+33	59	null	null
+33	60	null	null
+33	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+34	35	null	null
+34	36	null	null
+34	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+34	38	null	null
+34	39	null	null
+34	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+34	41	null	null
+34	42	null	null
+34	43	null	null
+34	44	null	University of Toronto, Canada
+34	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+34	46	null	null
+34	47	null	null
+34	48	null	null
+34	49	null	null
+34	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+34	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+34	52	null	null
+34	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+34	54	null	null
+34	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+34	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+34	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+34	58	null	null
+34	59	null	null
+34	60	null	null
+34	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+35	36	null	null
+35	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+35	38	null	null
+35	39	null	null
+35	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+35	41	null	null
+35	42	null	null
+35	43	null	null
+35	44	null	University of Toronto, Canada
+35	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+35	46	null	null
+35	47	null	null
+35	48	null	null
+35	49	null	null
+35	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+35	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+35	52	null	null
+35	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+35	54	null	null
+35	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+35	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+35	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+35	58	null	null
+35	59	null	null
+35	60	null	null
+35	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+36	37	null	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH
+36	38	null	null
+36	39	null	null
+36	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+36	41	null	null
+36	42	null	null
+36	43	null	null
+36	44	null	University of Toronto, Canada
+36	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+36	46	null	null
+36	47	null	null
+36	48	null	null
+36	49	null	null
+36	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+36	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+36	52	null	null
+36	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+36	54	null	null
+36	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+36	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+36	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+36	58	null	null
+36	59	null	null
+36	60	null	null
+36	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+37	38	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	39	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	40	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+37	41	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	42	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	43	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	44	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	University of Toronto, Canada
+37	45	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+37	46	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	47	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	48	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	49	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	50	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+37	51	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+37	52	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	53	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+37	54	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	55	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+37	56	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+37	57	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+37	58	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	59	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	60	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	null
+37	61	Dept. of Electr. Eng. & Comput. Sci., Case Western Reserve Univ., Cleveland, OH	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+38	39	null	null
+38	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+38	41	null	null
+38	42	null	null
+38	43	null	null
+38	44	null	University of Toronto, Canada
+38	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+38	46	null	null
+38	47	null	null
+38	48	null	null
+38	49	null	null
+38	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+38	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+38	52	null	null
+38	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+38	54	null	null
+38	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+38	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+38	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+38	58	null	null
+38	59	null	null
+38	60	null	null
+38	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+39	40	null	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China
+39	41	null	null
+39	42	null	null
+39	43	null	null
+39	44	null	University of Toronto, Canada
+39	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+39	46	null	null
+39	47	null	null
+39	48	null	null
+39	49	null	null
+39	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+39	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+39	52	null	null
+39	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+39	54	null	null
+39	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+39	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+39	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+39	58	null	null
+39	59	null	null
+39	60	null	null
+39	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+40	41	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	42	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	43	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	44	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	University of Toronto, Canada
+40	45	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+40	46	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	47	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	48	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	49	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	50	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+40	51	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+40	52	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	53	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+40	54	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	55	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+40	56	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+40	57	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+40	58	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	59	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	60	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	null
+40	61	Department of Mathematics and Physics, Shandong Institute of Architecture and Engineering, Jinan, P.R. China and School of Control Science and Engineering, Shandong University, Jinan, P.R. China	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+41	42	null	null
+41	43	null	null
+41	44	null	University of Toronto, Canada
+41	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+41	46	null	null
+41	47	null	null
+41	48	null	null
+41	49	null	null
+41	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+41	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+41	52	null	null
+41	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+41	54	null	null
+41	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+41	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+41	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+41	58	null	null
+41	59	null	null
+41	60	null	null
+41	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+42	43	null	null
+42	44	null	University of Toronto, Canada
+42	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+42	46	null	null
+42	47	null	null
+42	48	null	null
+42	49	null	null
+42	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+42	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+42	52	null	null
+42	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+42	54	null	null
+42	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+42	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+42	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+42	58	null	null
+42	59	null	null
+42	60	null	null
+42	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+43	44	null	University of Toronto, Canada
+43	45	null	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+43	46	null	null
+43	47	null	null
+43	48	null	null
+43	49	null	null
+43	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+43	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+43	52	null	null
+43	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+43	54	null	null
+43	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+43	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+43	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+43	58	null	null
+43	59	null	null
+43	60	null	null
+43	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+44	45	University of Toronto, Canada	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China
+44	46	University of Toronto, Canada	null
+44	47	University of Toronto, Canada	null
+44	48	University of Toronto, Canada	null
+44	49	University of Toronto, Canada	null
+44	50	University of Toronto, Canada	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+44	51	University of Toronto, Canada	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+44	52	University of Toronto, Canada	null
+44	53	University of Toronto, Canada	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+44	54	University of Toronto, Canada	null
+44	55	University of Toronto, Canada	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+44	56	University of Toronto, Canada	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+44	57	University of Toronto, Canada	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+44	58	University of Toronto, Canada	null
+44	59	University of Toronto, Canada	null
+44	60	University of Toronto, Canada	null
+44	61	University of Toronto, Canada	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+45	46	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	47	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	48	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	49	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	50	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+45	51	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+45	52	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	53	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+45	54	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	55	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+45	56	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+45	57	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+45	58	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	59	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	60	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	null
+45	61	Institute of Remote Sensing & Information System Application, Zhejiang University, Hangzhou 310029, China,International Institute for Earth System Science, Nanjing University, Nanjing 210093, China	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+46	47	null	null
+46	48	null	null
+46	49	null	null
+46	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+46	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+46	52	null	null
+46	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+46	54	null	null
+46	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+46	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+46	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+46	58	null	null
+46	59	null	null
+46	60	null	null
+46	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+47	48	null	null
+47	49	null	null
+47	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+47	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+47	52	null	null
+47	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+47	54	null	null
+47	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+47	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+47	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+47	58	null	null
+47	59	null	null
+47	60	null	null
+47	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+48	49	null	null
+48	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+48	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+48	52	null	null
+48	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+48	54	null	null
+48	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+48	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+48	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+48	58	null	null
+48	59	null	null
+48	60	null	null
+48	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+49	50	null	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA
+49	51	null	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+49	52	null	null
+49	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+49	54	null	null
+49	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+49	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+49	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+49	58	null	null
+49	59	null	null
+49	60	null	null
+49	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+50	51	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL
+50	52	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	null
+50	53	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+50	54	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	null
+50	55	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+50	56	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+50	57	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+50	58	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	null
+50	59	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	null
+50	60	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	null
+50	61	Department of Computer Science, Worcester Polytechnic Institute, Worcester, MA	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+51	52	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	null
+51	53	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+51	54	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	null
+51	55	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+51	56	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+51	57	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+51	58	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	null
+51	59	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	null
+51	60	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	null
+51	61	Department of Mechanical and Aerospace Engineering, P.O. Box 116250, 231 MAE-A building, University of Florida, Gainesville, FL	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+52	53	null	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas
+52	54	null	null
+52	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+52	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+52	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+52	58	null	null
+52	59	null	null
+52	60	null	null
+52	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+53	54	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	null
+53	55	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+53	56	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+53	57	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+53	58	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	null
+53	59	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	null
+53	60	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	null
+53	61	Department of Computer Science and Engineering, University of California, San Diego, In Proceedings of SC'2000, Dallas, Texas	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+54	55	null	Comput. Vision Lab., Maryland Univ., College Park, MD, USA
+54	56	null	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+54	57	null	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+54	58	null	null
+54	59	null	null
+54	60	null	null
+54	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+55	56	Comput. Vision Lab., Maryland Univ., College Park, MD, USA	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA
+55	57	Comput. Vision Lab., Maryland Univ., College Park, MD, USA	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+55	58	Comput. Vision Lab., Maryland Univ., College Park, MD, USA	null
+55	59	Comput. Vision Lab., Maryland Univ., College Park, MD, USA	null
+55	60	Comput. Vision Lab., Maryland Univ., College Park, MD, USA	null
+55	61	Comput. Vision Lab., Maryland Univ., College Park, MD, USA	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+56	57	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA
+56	58	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA	null
+56	59	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA	null
+56	60	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA	null
+56	61	Thinking Machines Corporation, 245 First Street, Cambridge, MA and Brandeis University, 415 South Street, Walthham, MA	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+57	58	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA	null
+57	59	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA	null
+57	60	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA	null
+57	61	Department of Electrical Com.puter Engineering, Carnegie Mellon University, Pittsburgh, PA	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+58	59	null	null
+58	60	null	null
+58	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+59	60	null	null
+59	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands
+60	61	null	Testable Design and Test of Integrated Systems Group, Centre of Telematics and Information Technology (CTIT), Enschede, The Netherlands

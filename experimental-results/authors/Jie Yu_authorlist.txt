@@ -1,0 +1,149 @@
+1	10	Jiebo Luo	Jiebo Luo
+1	15	Jiebo Luo	Jiebo Luo
+1	25	Jiebo Luo	Jiebo Luo
+1	28	Jiebo Luo	Jiebo Luo
+2	3	Qi Tian	Qi Tian
+2	3	Nicu Sebe	Nicu Sebe
+2	4	Qi Tian	Qi Tian
+2	4	Qing Xue	Qing Xue
+2	4	Nicu Sebe	Nicu Sebe
+2	4	Thomas S. Huang	Thomas S. Huang
+2	5	Qi Tian	Qi Tian
+2	5	Thomas S. Huang	Thomas S. Huang
+2	6	Qi Tian	Qi Tian
+2	6	Qing Xue	Qing Xue
+2	6	Nicu Sebe	Nicu Sebe
+2	7	Qi Tian	Qi Tian
+2	7	Nicu Sebe	Nicu Sebe
+2	8	Qi Tian	Qi Tian
+2	9	Qi Tian	Qi Tian
+2	13	Qi Tian	Qi Tian
+2	13	Thomas S. Huang	Thomas S. Huang
+2	14	Qi Tian	Qi Tian
+2	18	Qi Tian	Qi Tian
+2	18	Nicu Sebe	Nicu Sebe
+2	19	Qi Tian	Qi Tian
+2	19	Thomas S. Huang	Thomas S. Huang
+2	20	Qi Tian	Qi Tian
+2	21	Qi Tian	Qi Tian
+2	21	Thomas S. Huang	Thomas S. Huang
+2	25	Thomas S. Huang	Thomas S. Huang
+3	4	Qi Tian	Qi Tian
+3	4	Nicu Sebe	Nicu Sebe
+3	5	Qi Tian	Qi Tian
+3	6	Qi Tian	Qi Tian
+3	6	Nicu Sebe	Nicu Sebe
+3	7	Qi Tian	Qi Tian
+3	7	Jaume Amores	Jaume Amores
+3	7	Nicu Sebe	Nicu Sebe
+3	8	Qi Tian	Qi Tian
+3	9	Qi Tian	Qi Tian
+3	13	Qi Tian	Qi Tian
+3	14	Qi Tian	Qi Tian
+3	18	Qi Tian	Qi Tian
+3	18	Jaume Amores	Jaume Amores
+3	18	Nicu Sebe	Nicu Sebe
+3	19	Qi Tian	Qi Tian
+3	20	Qi Tian	Qi Tian
+3	21	Qi Tian	Qi Tian
+4	5	Qi Tian	Qi Tian
+4	5	Thomas S. Huang	Thomas S. Huang
+4	6	Qi Tian	Qi Tian
+4	6	Qing Xue	Qing Xue
+4	6	Nicu Sebe	Nicu Sebe
+4	7	Qi Tian	Qi Tian
+4	7	Nicu Sebe	Nicu Sebe
+4	8	Qi Tian	Qi Tian
+4	9	Qi Tian	Qi Tian
+4	13	Qi Tian	Qi Tian
+4	13	Thomas S. Huang	Thomas S. Huang
+4	14	Qi Tian	Qi Tian
+4	18	Qi Tian	Qi Tian
+4	18	Nicu Sebe	Nicu Sebe
+4	19	Qi Tian	Qi Tian
+4	19	Thomas S. Huang	Thomas S. Huang
+4	20	Qi Tian	Qi Tian
+4	21	Qi Tian	Qi Tian
+4	21	Thomas S. Huang	Thomas S. Huang
+4	25	Thomas S. Huang	Thomas S. Huang
+5	6	Qi Tian	Qi Tian
+5	7	Qi Tian	Qi Tian
+5	8	Qi Tian	Qi Tian
+5	9	Qi Tian	Qi Tian
+5	13	Qi Tian	Qi Tian
+5	13	Thomas S. Huang	Thomas S. Huang
+5	14	Qi Tian	Qi Tian
+5	18	Qi Tian	Qi Tian
+5	19	Qi Tian	Qi Tian
+5	19	Thomas S. Huang	Thomas S. Huang
+5	20	Qi Tian	Qi Tian
+5	21	Qi Tian	Qi Tian
+5	21	Ting Rui	Ting Rui
+5	21	Thomas S. Huang	Thomas S. Huang
+5	25	Thomas S. Huang	Thomas S. Huang
+6	7	Qi Tian	Qi Tian
+6	7	Nicu Sebe	Nicu Sebe
+6	8	Qi Tian	Qi Tian
+6	9	Qi Tian	Qi Tian
+6	13	Qi Tian	Qi Tian
+6	14	Qi Tian	Qi Tian
+6	18	Qi Tian	Qi Tian
+6	18	Nicu Sebe	Nicu Sebe
+6	19	Qi Tian	Qi Tian
+6	20	Qi Tian	Qi Tian
+6	21	Qi Tian	Qi Tian
+7	8	Qi Tian	Qi Tian
+7	9	Qi Tian	Qi Tian
+7	13	Qi Tian	Qi Tian
+7	14	Qi Tian	Qi Tian
+7	18	Jaume Amores	Jaume Amores
+7	18	Nicu Sebe	Nicu Sebe
+7	18	Qi Tian	Qi Tian
+7	19	Qi Tian	Qi Tian
+7	20	Qi Tian	Qi Tian
+7	21	Qi Tian	Qi Tian
+8	9	Qi Tian	Qi Tian
+8	13	Qi Tian	Qi Tian
+8	14	Qi Tian	Qi Tian
+8	18	Qi Tian	Qi Tian
+8	19	Qi Tian	Qi Tian
+8	20	Qi Tian	Qi Tian
+8	21	Qi Tian	Qi Tian
+9	13	Qi Tian	Qi Tian
+9	14	Qi Tian	Qi Tian
+9	18	Qi Tian	Qi Tian
+9	19	Qi Tian	Qi Tian
+9	20	Qi Tian	Qi Tian
+9	21	Qi Tian	Qi Tian
+10	15	Jiebo Luo	Jiebo Luo
+10	15	Wei Hao	Wei Hao
+10	15	Dhiraj Joshi	Dhiraj Joshi
+10	25	Jiebo Luo	Jiebo Luo
+10	28	Jiebo Luo	Jiebo Luo
+13	14	Qi Tian	Qi Tian
+13	18	Qi Tian	Qi Tian
+13	19	Qi Tian	Qi Tian
+13	19	Thomas S. Huang	Thomas S. Huang
+13	20	Qi Tian	Qi Tian
+13	21	Qi Tian	Qi Tian
+13	21	Thomas S. Huang	Thomas S. Huang
+13	25	Thomas S. Huang	Thomas S. Huang
+14	18	Qi Tian	Qi Tian
+14	19	Qi Tian	Qi Tian
+14	20	Qi Tian	Qi Tian
+14	21	Qi Tian	Qi Tian
+15	25	Jiebo Luo	Jiebo Luo
+15	28	Jiebo Luo	Jiebo Luo
+17	26	Zhoujun Li	Zhoujun Li
+17	30	Zhoujun Li	Zhoujun Li
+18	19	Qi Tian	Qi Tian
+18	20	Qi Tian	Qi Tian
+18	21	Qi Tian	Qi Tian
+19	20	Qi Tian	Qi Tian
+19	21	Qi Tian	Qi Tian
+19	21	Thomas S. Huang	Thomas S. Huang
+19	25	Thomas S. Huang	Thomas S. Huang
+20	21	Qi Tian	Qi Tian
+21	25	Thomas S. Huang	Thomas S. Huang
+25	28	Jiebo Luo	Jiebo Luo
+26	30	Zhoujun Li	Zhoujun Li

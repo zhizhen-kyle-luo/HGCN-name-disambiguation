@@ -1,0 +1,17 @@
+0	1	Ada-Europe	Ada-Europe
+0	2	Ada-Europe	Ada-Europe
+1	2	Ada-Europe	Ada-Europe
+9	10	CoRR	CoRR
+9	11	CoRR	CoRR
+9	12	CoRR	CoRR
+10	11	CoRR	CoRR
+10	12	CoRR	CoRR
+11	12	CoRR	CoRR
+15	16	J. Symb. Comput.	J. Symb. Comput.
+15	17	J. Symb. Comput.	J. Symb. Comput.
+15	18	J. Symb. Comput.	J. Symb. Comput.
+16	17	J. Symb. Comput.	J. Symb. Comput.
+16	18	J. Symb. Comput.	J. Symb. Comput.
+17	18	J. Symb. Comput.	J. Symb. Comput.
+26	32	Journal of Symbolic Computation	Journal of Symbolic Computation
+28	29	Mustererkennung 1996, 18. DAGM-Symposium	Mustererkennung 1996, 18. DAGM-Symposium

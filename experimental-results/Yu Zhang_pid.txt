@@ -1,0 +1,235 @@
+4146	A Physically-Based Model for Real-Time Facial Expression Animation
+4150	From Range Data to Animated Anatomy-Based Faces: A Model Adaptation Method
+8137	A Method Used To Dynamic Scene Management Based On Octree
+15989	Semantic Web Development for Traditional Chinese Medicine
+26726	Selectivity Estimation by Batch-Query based Histogram and Parametric Method
+27604	A Novel Immune Based Approach for Detection of Windows PE Virus
+31709	Modeling Role-Based Agent Team
+35970	A Reputation-Chain Trust Model for the Semantic Web
+36542	An Active Storage System for High Performance Computing
+37877	Word Sense Language Model for Information Retrieval
+37999	Web Mining for Lexical Context-Specific Paraphrasing
+38055	Topic Tracking Based on Keywords Dependency Profile
+48541	Web Services Based State of the Environment Reporting
+48557	Optimizing the Data Intensive Mediator-Based Web Services Composition
+48562	A Computational Trust Model for Semantic Web Based on Bayesian Decision Theory
+48698	A Decision Procedure for XPath Satisfiability in the Presence of DTD Containing Choice
+51683	On Completeness of Logical Relations for Monadic Types
+57013	Observation-based proactive communication in team cooperation
+57824	A Social Network-Based Trust Model for the Semantic Web
+65107	Dynamic Bayesian Network (DBN) with Structure Expectation Maximization (SEM) for Modeling of Gene Network from Time Series Gene Expression Data
+75547	An Open Framework for Remote Electronic Elections
+83225	Sustaining Incentive in Grid Resource Allocation: A Reinforcement Learning Approach
+86357	Real-Time Physically-Based Facial Expression Animation Using Mass-Spring System
+86358	Adaptation-Based Individualized Face Modeling for Animation Using Displacement Map
+121298	Eulerian Path Methods for Multiple Sequence Alignment
+124505	Complete Lax Logical Relations for Cryptographic Lambda-Calculi
+124890	Logical Relations for Dynamic Name Creation
+130300	Semi-Supervised Discriminant Analysis using robust path-based similarity
+134883	A power and temperature aware DRAM architecture
+156312	Inferring Gene Regulatory Networks from Multiple Data Sources Via a Dynamic Bayesian Network with Structural EM
+178659	Data-Driven Facial Feature Morphing for 3D Face Synthesis
+190623	Data-Layout Optimization Using Reuse Distance Distribution
+206350	Parallel Solution in Simulation of Cardiac Excitation Anisotropic Propagation
+218798	A Model of Context Awareness Agent System Based on Dynamic Fuzzy Logic
+236401	Rapid modeling of 3D faces for animation using an efficient adaptation algorithm
+242651	A Finite Element 3D Model of in Vivo Human Knee Joint Based on MRI for the Tibiofemoral Joint Contact Analysis
+261120	Observant and Proactive Communication in Multi-agent Teamwork
+265114	Role-Based and Agent-Oriental Teamwork Modeling
+265869	Proactive Communication in Observation-Based Agent Team Corporation
+265871	Proactive Information Exchange During Team Cooperation
+266033	Towards Human Decision-Making in Multi-Agent Systems
+266193	A New Load Balancing Scheme for Distributed Multi-Agent Simulations
+276321	Improving Videophone Transmission over Multi-Rate IEEE 802.11e Networks
+276326	Robust Distributed Localization with Data Inference for Wireless Sensor Networks
+276704	An On-Off Queue Control Mechanism for Scalable Video Streaming over the IEEE 802.11e WLAN
+277118	Scalable Video Transmission over the IEEE 802.11e Networks Using Cross-Layer Rate Control
+280591	Simulating Wrinkles in Facial Expressions on an Anatomy-Based Face
+289824	Using Proximity in Query Focused Multi-document Extractive Summarization
+292288	Faces Alive: Reconstruction of Animated 3D Human Faces
+292444	Data-Driven Feature Control Models for Creating Virtual Faces
+294646	A Fast and Stable Approach for Restoration of Warped Document Images
+299026	Access Control in Peer-to-Peer Collaborative Systems
+301487	Develop a Computational Trust Prototype for the Semantic Web
+313864	Efficient Solution of Bidomain Equations in Simulation of Cardiac Excitation Anisotropic Propagation
+314261	Computer Virus Evolution Model Inspired by Biological DNA
+314473	Application of the Stress Waves to Extract Multi-fault Features of the Low-Speed Machinery Based on Blind Source Separation
+314536	Application of Efficient Numerical Methods in Solution of Ordinary Differential Equations for Modeling Electrical Activity in Cardiac Cells
+314609	An FSM-Based Approach for Malicious Code Detection Using the Self-Relocation Gene
+314611	Choosing Business Collaborators Using Computing Intelligence Methods
+331564	Adaptive Simulation of Facial Expressions
+331566	Reanimating real humans: automatic reconstruction of animated faces from range data
+333059	An Efficient Markerless Method for Resynthesizing Facial Animation on an Anatomy-Based Model
+333181	Multi-octagon-grid search algorithm for fast motion estimation
+333333	An example-based anthropometric model for face shape synthesis
+333393	Muscle-driven modeling of wrinkles for 3D facial expressions
+333470	Mixed diamond, hexagon, and cross search fast motion estimation algorithm for H.264
+333558	Development of Inhalable Nanoparticles
+337417	On Destination Set in IP-Level Topology Measurement
+343153	Distributed Access Control in CROWN Groups
+349546	Ear Recognition using Improved Non-Negative Matrix Factorization
+349769	Arbitrary warped document image restoration based on segmentation and Thin-Plate Splines
+360907	An approach for adaptive DRAM temperature and power management
+365049	Indexing Noncrashing Failures: A Dynamic Program Slicing-Based Approach
+372128	EEG Source Localization for Two Dipoles in the Brain Using a Combined Method
+372942	Exploiting Upper and Lower Bounds In Top-Down Query Optimization
+373103	Applying Hypothetical Queries to E-Commerce Systems to Support Reservation and Personal Preferences
+391433	Automatic Acquisition of Context-Specific Lexical Paraphrases
+412544	Symbolic expression analysis for compiled communication
+423305	Burst receiver for upstream communications over twisted pair lines
+424688	A synthesis scheme for simultaneous scheduling, binding, partitioning and placement with resources operating at multiple voltages
+442186	Fault Diagnosis on Satellite Attitude Control with Dynamic Neural Network
+443544	Palmprint Recognition Using a Novel Sparse Coding Technique
+475925	Forming Proactive Team Cooperation by Observations
+501469	A Link-Based Rank of Postings in Newsgroup
+502837	Learning from facial aging patterns for automatic age estimation
+508687	The Implementation of a Fully Integrated Scheme of self-Configuration and self-Organization (FISCO) on Imote2
+512307	A New Recovery Escalation Algorithm with Load Balancing and Backup Resources Sharing in Path Protected WDM Optical Networks
+520010	A Direction to Avoid Re-encryption in Cryptographic File Sharing
+524825	Extending Online Travel Agency with Adaptive Reservations
+532893	Effective Filtering Scheme against RREQ Flooding Attack in Mobile Ad Hoc Networks
+539689	Preserving User Location Privacy in Mobile Data Management Infrastructures
+542201	Semi-supervised Discriminant Analysis Via CCCP
+549507	Parallel Solutions of BVP's in ODEs Based on Local Matching
+551850	Chinese Abbreviation-Definition Identification: A SVM Approach Using Context Information
+559136	Alignment of Optical Maps
+559253	Reconstructing the Evolutionary History of Complex Human Gene Clusters
+561013	Using Reactive Deliberation for Real-Time Control of Soccer-Playing Robots
+561014	A Multi-Level Constraint-Based Controller for the Dynamo98 Robot Soccer Team
+562262	Gene Regulatory Network Construction Using Dynamic Bayesian Network (DBN) with Structure Expectation Maximization (SEM)
+568889	A decision-theoretic approach for designing proactive communication in multi-agent teamwork
+569886	Simulating human intuitive decisions by Q-learning
+573010	Inverting sensor networks and actuating the environment for spatio-temporal access control
+580084	Optimal Motion Generation of Flexible Macro-micro Manipulator Systems Using Estimation of Distribution Algorithm
+587497	Hierarchical Face Modeling and Fast 3D Facial Expression Synthesis
+607922	Achieving flexible task delegation in role-based agent teams
+609562	Chinese Question Classification Based on Ensemble Learning
+633675	ACO Based QoS Routing Algorithm for Wireless Sensor Networks
+647254	Instant Facial Modeling and Animation of Living Humans
+652230	Homomorphism Resolving of XPath Trees Based on Automata
+652438	The Tradeoff of Delta Table Merging and Re-writing Algorithms in What-If Analysis Application
+683099	An efficient texture generation technique for human head cloning and morphing
+689834	Eigenvalue Statistics and Spatial Characteristics in Hotspot Areas Based on Wideband MIMO Channel Measurements
+689966	A Comparison of Broadcast Strategy in MIMO Relay Networks
+690153	Modeling and Throughput Analysis for Wireless Ad Hoc Networks
+690561	A Generic Validation Framework for Wideband MIMO Channel Models
+691204	Automated task distribution in multicore network processors using statistical analysis
+700615	A Novel Biology-Inspired Virus Detection Model with RVNS
+704702	Power-Modulated Challenge-Response Schemes for Verifying Location Claims
+705093	Handover Latency of MIPv6 Implementation in Linux
+705600	A Novel Spatial Autocorrelation Model of Shadow Fading in Urban Macro Environments
+705614	An Experimental Investigation of Wideband MIMO Channel Based on Indoor Hotspot NLOS Measurements at 2.35GHz
+709093	A Dynamic Immunity-Based Model for Computer Virus Detection
+717694	Implementation of FC-1 and FC-2 Layer for Multi-Gigabit Fibre Channel Transport
+719297	A multi-agent simulation for social agents
+724427	Research on the Hierarchical Supervisory Control of Underwater Glider
+727912	Facilitating an Active Transmit-only RFID System Through Receiver-based Processing
+727978	A Novel 3-DOF HIP Exoskeleton for Kinematically Establishing Animal Model of Avascular Necrosis of the Femoral Head
+728754	Real-Coded Quantum Evolutionary Algorithm Based on Immune Theory for Multi-modal Optimization Problems
+730471	A Novel Method for Image Spam Filtering
+730874	Multi-hop Cross-Layer Design in Wireless Sensor Networks: A Case Study
+732694	Craniofacial Landmark Detection by Layered Diffusion and Dilated Skeleton Maps
+733343	Synthesis of facial expressions using a 3D anatomical model
+735254	Ranking-Based Statistical Localization for Wireless Sensor Networks
+756553	Stability of impulsive infinite delay differential equations
+761741	Predicting the activity phase of a follower neuron with A-current in an inhibitory network
+766306	Refinement of optical map assemblies
+767664	Tree-guided Bayesian inference of population structures
+788271	Efficient Modeling of An Anatomy-Based Face and Fast 3D Facial Expression Synthesis
+803266	New routing algorithms in trustworthy Internet
+803353	A new algorithm based on auxiliary virtual topology for sub-path protection in WDM optical networks
+811945	A Constraint-Based Robotic Soccer Team
+821027	On Completeness of Logical Relations for Monadic Types
+900714	Performance of Coded pi/2 NS-8QAM Modulation
+921287	HFSM: Hierarchical Facial Shape Modeling Algorithm for Realistic Facial Expression Animation
+962322	An Eulerian Path Approach to Global Multiple Alignment for DNA Sequences
+962560	Alignment of Optical Maps
+1003062	Synthesis of 3D faces using region-based morphing under intuitive control
+1020747	HPtaa database-potential target genes for clinical diagnosis and immunotherapy of human carcinoma
+1033868	An Improved Physically-Based Method for Geometric Restoration of Distorted Document Images
+1052455	A Power Law for Connectedness of Some Random Graphs at the Critical Point
+1066967	Parallelization of IBM mambo system simulator in functional modes
+1087879	Impact of time-selective fading on the performance of quasi-orthogonal space-time-coded OFDM systems
+1096019	Cryptographic logical relations
+1097733	Optimized Cross-Layer Design for Scalable Video Transmission Over the IEEE 802.11e Networks
+1114131	Self-Learning Disk Scheduling
+1133880	A New Physical Model with Multilayer Architecture for Facial Expression Animation Using Dynamic Adaptive Mesh
+1137868	Face alive
+1137869	Anatomy-based face reconstruction for animation using multi-layer deformation
+1145228	On the system of rational difference equations xn=A + 1/yn-p, yn=A+yn-1/xn-tyn-s
+1151643	SAGE-based estimation of doubly selective channel with an orthogonal polynomial model
+1176360	Decision-Feedback Receiver for Quasi-Orthogonal Space-Time Coded OFDM Using Correlative Coding Over Fast Fading Channels
+1184688	A Role-Based Approach in Dynamic Task Delegation in Agent Teamwork
+1185677	Evaluation of Localization Attacks on Power-Modulated Challenge-Response Systems
+1188074	An integration architecture for process manufacturing systems
+1194650	Decoding Digital Information from the Cascaded Heterogeneous Chaotic Systems
+1207586	Parameters optimization of support vector regression based on immune particle swarm optimization algorithm
+1211001	Firefly: illuminating future network-on-chip with nanophotonics
+1211356	Fuzzy Chance-Constrained Goal Programming Model and Algorithm of Oilfield Measures
+1211636	Analyzing the impact of on-chip network traffic on program phases for CMPs
+1214612	The Computational SLR: A Logic for Reasoning about Computational Indistinguishability
+1217082	Propagation characteristics of wideband MIMO channel in urban micro- and macrocells
+1217901	Organizational Adaptative Behavior: The Complex Perspective of Individuals-Tasks Interaction
+1219668	Poisson approximation for significance in genome-wide ChIP-chip tiling arrays
+1224084	An EM-Based Time-Domain Channel Estimation Algorithm Using a priori Information
+1224924	Impact of Randomized Cross-Polarization Discrimination on Channel Correlation Property of the 3GPP Spatial Channel Model
+1224953	A New Robust Bandpass Sampling Scheme for Multiple RF Signals in SDR System
+1225885	Certifying Concurrent Programs Using Transactional Memory
+1225934	Improved Approximate Detection of Duplicates for Data Streams Over Sliding Windows
+1226892	Symbolic Expression Analysis for Compiled Communication
+1238728	Verifying Anonymous Credential Systems in Applied Pi Calculus
+1245107	Dynamically Maintaining Duplicate-Insensitive and Time-Decayed Sum Using Time-Decaying Bloom Filter
+1246078	CNP: A Protocol for Reducing Maintenance Cost of Structured P2P
+1246460	Addressing Collaborative Attacks and Defense in Ad Hoc Wireless Networks
+1247424	Analysis of Mixed Inflammable Gases Based on Single Sensor and RBF Neural Network
+1250005	Adaptive Security Dialogs for Improved Security Behavior of Users
+1250342	Non-uniform fat-meshes for chip multiprocessors
+1254421	Semi-Supervised Multi-Task Regression
+1254435	Heteroscedastic Probabilistic Linear Discriminant Analysis with Semi-supervised Extension
+1254747	Whole-Genome Analysis of Gene Conversion Events
+1258323	Formal Reasoning about Concurrent Assembly Code with Reentrant Locks
+1259718	Restoring warped document image through segmentation and full-page interpolation
+1260059	Insider DoS Attacks on Epidemic Propagation Strategies of Network Reprogramming in Wireless Sensor Networks
+1260623	A history sensitive cascade model in diffusion networks
+1261147	Emergence of Social Norms in Complex Networks
+1276406	A survivable routing algorithm with differentiated domain protection based on a virtual topology graph in multi-domain optical networks
+1280619	An Agent-based Simulation Study for Exploring Organizational Adaptation
+1283246	Boundedness of the solutions of impulsive differential systems with time-varying delay
+1287246	Collaborative attacks in WiMAX networks
+1295637	Balancing Trust and Incentive in Peer-to-Peer Collaborative System
+1301568	Data-Driven Feature-Based 3D Face Synthesis.
+1302831	A 32-bit Decimal Floating-Point Logarithmic Converter.
+1314479	Adaptive Rule Loading and Session Control for Securing Web-Delivered Services.
+1315195	The Interaction between Chinese Export Price and World Import Price of Tangerines.
+1317039	A Trajectory Clustering Algorithm Based on Symmetric Neighborhood.
+1318130	Cost Comparison and Control Based on GLM and Panel Data Model: Evidence from Major Citrus Producing Areas in China.
+1319711	Modeling and Prediction in the Enzymatic Hydrolysis of Cellulose Using Artificial Neural Networks.
+1327301	Content-Based Trust Mechanism for E-commerce Systems.
+1330767	The Performance of Erasure Codes Used in FT-MPI.
+1331263	Localized and Integrated Topology Maintenance for Wireless Sensor Networks.
+1334771	Efficient Relay Beamforming Design with SIC Detection for Dual-Hop MIMO Relay Networks
+1338650	RCCtrust: A Combined Trust Model for Electronic Community.
+1384605	EDFCES: a new example-driven 3D face construction and editing system
+1389442	Differentiated Domain Protection Algorithm Based on Virtual Topology Graph in Multi-Domain Optical Networks
+1390078	A Novel Trust-based Cooperative Node Selection Scheme in Wireless Sensor Networks
+1393887	Modeling Internet Link Delay Based on Measurement
+1409283	Eventual practical stability of impulsive differential equations with time delay in terms of two measurements
+1424365	Image Disorientation Auto-Recovery
+1431244	A coordinate SPC model for assuring designated fit quality via quality-oriented statistical tolerancing
+1432458	Biomass measurements and relationships with Landsat-7/ETM+ and JERS-1/SAR data over Canada's western sub-arctic and low arctic
+1543354	An iterative method for the inversion of the two-dimensional wave equation with a potential
+1557931	A decision-theoretic approach for designing proactive communication in multi-agent teamwork
+1583558	Implementing Atomic Section by Using Hybrid Concurrent Control
+1583739	A new dynamic Bayesian network for integrating multiple data in estimating gene networks
+1588371	Using Reactive Deliberation for Real-Time Control of Soccer-Playing Robots
+1588841	A Multi-Level Constraint-Based Controller for the Dynamo98 Robot Soccer Team
+1602567	Performance comparison between statistical-based and direct data domain STAPs
+1650195	Research on AI Planning Based Modeling Method for Area Traffic Signal Control
+1651270	Transaction Behavior and Volatility of Price Signals in Futures Market
+1654240	Inverse System Decoupling Control for Induction Motor Based on Neural Network On-Line Learning
+1654545	A Pursuit-Evasion Algorithm Based on Hierarchical Reinforcement Learning
+1658379	HIT: web based scoring method for English lexical substitution
+1699759	Anatomy-based 3D facial modeling for expression animation
+1747881	Design Of Fuzzy Neural Network Controller For Marine Steam Turbine System
+1749031	Comparative Research on Power Input and Efficiency of China's Typical Cities Based on Extension Model of DEA
+1753263	A New Sub-path Protection Algorithm Based on Auxiliary Virtual Topology in WDM Optical Networks

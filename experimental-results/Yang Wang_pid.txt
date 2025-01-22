@@ -1,0 +1,195 @@
+18149	A Unified Framework for Segmentation-Assisted Image Registration
+27582	Boosting over Groups and Its Application to Acronym-Expansion Extraction
+31705	Question Answering Summarization of Multiple Biomedical Documents
+38006	Semi-Supervised Graph-Ranking for Text Retrieval
+38681	Real-Time Machine Learning in Embedded Software And Hardware Platforms
+51433	Resource Integration Framework of Logistics Resource Grid
+61217	Video editing based on object movement and camera motion
+66926	Deep Web Navigation by Example
+73857	Foreground and Shadow Detection Based on Conditional Random Field
+77353	Utilizing field usage patterns for Java heap space optimization
+82102	Local optimization of triangular surface meshes for general quadrics in lp norm
+83394	MAPGrid: A New Architecture for Empowering Mobile Data Placement in Grid Environments
+84807	Teraflop Computing for Nanoscience
+91426	Human-Currency Interaction: learning from virtual currency use in China
+96756	A microscopic view on community detection in complex networks
+105229	A Space Efficient Algorithm for Sequence Alignment with Inversions
+105771	A Linear Programming Duality Approach to Analyzing Strictly Nonblocking d-ary Multilog Networks under General Crosstalk Constraints
+122187	A hybrid cultural ecology: world of warcraft in China
+128959	Face Modeling and Analysis in Stony Brook University
+129354	A Dynamic Conditional Random Field Model for Object Segmentation in Image Sequences
+129357	Unsupervised Discovery of Action Classes
+129373	Video Segmentation Based on Graphical Models
+129377	3D Surface Matching and Recognition Using Conformal Geometry
+130120	Face Re-Lighting from a Single Image under Harsh Lighting Conditions
+130536	Enforcing convexity for improved alignment with constrained local models
+152399	Developing a Database for Proteomic Analysis of Extracytosolic Plant Proteins
+158873	An Overview of Associative Classifiers
+169421	Estimation of Multiple Illuminants from a Single Image of Arbitrary Known Geometry
+169709	3D Non-rigid Surface Matching and Registration Based on Holomorphic Differentials
+169715	Multiple Tree Models for Occlusion and Spatial Constraints in Human Pose Estimation
+178464	Evaluation Methodology for the Security of e-Finance Systems
+178971	Wireless Sensing, Actuation and Control - With Applications to Civil Structures
+218221	An Ensemble Approach to Learning to Rank
+218455	Partition Triangle Meshes into Coarsely Quadrangular Segmentation
+248683	A Dynamic Assignment Problem in a Mobile System with Limited Bandwidth
+254677	The Trellis Security Infrastructure: A Layered Approach to Overlay Metacomputers 
+257350	Boosted Multiple Deformable Trees for Parsing Human Poses
+257351	Semi-Latent Dirichlet Allocation: A Hierarchical Model for Human Action Recognition
+276768	Strictly Nonblocking Function-Cast d-Ary Multi-Log Networks under Fanout and Crosstalk Constraints
+280419	Design and Implementation of an Out-of-Band Virtualization System on Solaris 10
+293848	High Resolution Tracking of Non-Rigid 3D Motion of Densely Sampled Data Using Harmonic Maps
+293858	Joint Region Tracking with Switching Hypothesized Measurements
+294035	Non-Rigid Object Alignment with a Mismatch Template Based on Exhaustive Local Search
+294321	Ricci Flow for 3D Shape Analysis
+303171	Boosting for Learning Multiple Classes with Imbalanced Class Distribution
+314243	Multiple Ranker Method in Document Retrieval
+322009	Hierarchical stereo correspondence using features of gray connected components
+322077	A probabilistic method for foreground and shadow segmentation
+336294	Boosting with incomplete information
+348971	Facial Feature Tracking using a Multi-State Hierarchical Shape Model under Varying Face Pose and Facial Expression
+349834	A new method to obtain the shift-table in Boyer-Moore's string matching algorithm
+356625	Mobile Robot Path Planning in Dynamic Environments
+372046	Two Further Gradient BYY Learning Rules for Gaussian Mixture with Automated Model Selection
+391053	Switching Hypothesized Measurements: A Dynamic Model with Applications to Occlusion Adaptive Joint Tracking
+408378	Parallel Multi-Teraflops Studies of the Magnetic Structure of FeMn Alloys
+424665	Algorithm for yield driven correction of layout
+442827	Density Prediction of Selective Laser Sintering Parts Based on Artificial Neural Network
+459000	An Intelligent Language Tutoring System for Handling Errors Caused by Transfer
+460830	A VRML Interface for a Knowledge-Based Structural Design System
+473401	Representing Discovered Patterns Using Attributed Hypergraph
+501394	Parameter Inference of Cost-Sensitive Boosting Algorithms
+508758	An Efficient Data Exchange Protocol Using Improved Star Trees in Wireless Sensor Networks
+508774	Self-organization Data Gathering for Wireless Sensor Networks
+509077	Scalable, Reliable Marshalling and Organization of Distributed Large Scale Data Onto Enterprise Storage Environments
+512274	Dynamic Key Messaging for Cluster Computing
+515462	Fast Krylov Methods for N-Body Learning
+518162	Learning a discriminative hidden part model for human action recognition
+518620	Exploit Semantic Information for Category Annotation Recommendation in Wikipedia
+527253	Frequent Subsequence-Based Protein Localization
+532199	Recognizing Human Action from Videos Using Histograms of Visual Words
+532772	Using Dataflow Information to Improve Inter-Workflow Instance Concurrency
+540198	Estimation of Multiple Directional Light Sources for Synthesis of Mixed Reality Images
+540999	Color Image Segmentation Based on Parameter-Dependent Connected Components
+541001	An Algorithm for Finding Parameter Dependent: Connected Components of Gray Images
+541002	Image Understanding with Connected Component Histograms
+549401	Integrating the QMR Method with First Principles Material Science Application Code
+553254	The Application of Least Square in Precision Cylindrical Grinding
+574811	Multi-teraflops spin dynamics studies of the magnetic structure of FeMn/Co interfaces
+583828	Making More Wikipedians: Facilitating Semantics Reuse for Wikipedia Authoring
+583987	EachWiki: Suggest to Be an Easy-To-Edit Wiki Interface for Everyone
+609397	Coverage-preserving Data Gathering in Wireless Sensor Networks
+616275	PLA-based Runtime Dynamism in Support of Privacy-Enhanced Web Personalization
+617360	Epidemic Spreading in Real Networks: An Eigenvalue Viewpoint
+623770	DynamicTrust: The Trust Development in Peer-to-Peer Environments
+632984	Adaptive Foreground and Shadow Detection in Image Sequences
+634857	Respecting Users' Individual Privacy Constraints in Web Personalization
+634898	Constraint-Sensitive Privacy Management for Personalized Web-Based Systems
+651005	A Dynamic Hidden Markov Random Field Model for Foreground and Shadow Segmentation
+680915	A Distributed Object Tracing System
+686538	Modeling the effects of timing parameters on virus propagation
+701177	Asymptotic White noise Hypothesis for PCM quantization
+705794	Strictly Nonblocking f-Cast Photonic Switching Networks under General Crosstalk Constraints
+708961	Wireless fire monitoring system for ancient buildings
+722368	Travel Speed Prediction Using Fuzzy Reasoning
+722537	A Needle-Holding Robot for Ultrasound Guided Percutaneous Hepatic Microwave Ablation and Initial Experiments
+727116	A practical approach to multiple super-resolution sprite generation
+730370	Collecting Internet Malware Based on Client-side Honeypot
+733154	Initial experiments of a needle-holding robot for microwave ablation therapy
+735802	The Study and Analysis of Joint Adaptive Clock Recovery Mechanism for TDMoIP
+742270	Generation of finite tight frames by Householder transformations
+742440	Sigma-delta quantization errors and the traveling salesman problem
+742773	The Uniformity of Non-Uniform Gabor Bases
+788278	High Resolution Acquisition, Learning and Transfer of Dynamic 3D Facial Expressions
+796204	A queueing analysis for the denial of service (DoS) attacks in computer networks
+834634	Estimation of multiple directional light sources for synthesis of augmented reality images
+835492	Digital Connectivity and Extended Well-Composed Sets for Gray Images
+843627	Substitution Delone Sets
+893250	A global optimal algorithm for class-dependent discretization of continuous data
+908014	High Resolution Tracking of Non-Rigid Motion of Densely Sampled 3D Data Using Harmonic Maps
+919193	Conjugate and natural gradient rules for BYY harmony learning on Gaussian mixture with automated model selection
+947745	Estimation of multiple directional illuminants from a single image
+958820	Subdivision Schemes and Refinement Equations with Nonnegative Masks
+973978	Coverage and Exposure Paths in Wireless Sensor Networks
+1020367	T1DBase, a community web-based resource for type 1 diabetes research
+1030824	Distributed Computation in Local Area Networks of Workstations
+1033296	A Dynamic Conditional Random Field Model for Foreground and Shadow Segmentation
+1033711	Conformal Geometry and Its Applications on 3D Shape Matching, Recognition, and Stitching
+1041818	On parameter-dependent connected components of gray images
+1041853	A probabilistic approach for foreground and shadow segmentation in monocular image sequences
+1042520	Robust facial feature tracking under varying face pose and facial expression
+1042552	Cost-sensitive boosting for classification of imbalanced data
+1059594	Strictly Nonblocking Multirate logd(N, m, p) Networks
+1086944	Attribute Clustering for Grouping, Selection, and Classification of Gene Expression Data
+1087047	Correction to 'Attribute Clustering for Grouping, Selection, and Classification of Gene Expression Data
+1090052	A space-efficient algorithm for sequence alignment with inversions and reversals
+1102177	Spatiotemporal video segmentation based on graphical models
+1103719	Epidemic thresholds in real networks
+1113579	Boosting an Associative Classifier
+1113698	From Association to Classification: Inference Using Weight of Evidence
+1113724	High-Order Pattern Discovery from Discrete-Valued Data
+1115708	Contextual modeling of functional MR images with conditional random fields
+1116093	Probabilistic Framework for Brain Connectivity From Functional MR Images
+1132385	Pattern discovery: a data driven approach to decision support
+1132885	Generative and Discriminative Learning by CL-Net
+1140789	Evaluation of an ultra-wide bandwidth wireless indoor non-line-of-sight channels
+1149288	New travelling wave solutions to some nonlinear equations via a combined method
+1152371	Robot Navigation by Waypoints
+1155691	Preparation of one-dimensional photonic crystal with variable period by using ultra-high vacuum electron beam evaporation
+1170165	Real-time machine learning in embedded software and hardware platforms
+1175320	Comments on 'Estimation of frequencies and damping factors by two-dimensional ESPRIT type methods
+1180538	Application of optical proximity correction technology
+1182584	It is time for a computer application degree
+1216340	Serial hook-ups: a comparative usability study of secure device pairing methods
+1227630	Real-Time Moving Vehicle Detection With Cast Shadow Removal in Video Based on Conditional Random Field
+1227971	Rearrangeable and nonblocking [w, f] -distributors
+1236071	Effects of Suffix Repetition Rates of a String on the Performance of String Matching Algorithms
+1236613	An Energy-efficient Disjoint Path Routing Approach for Wireless Ad-hoc Networks
+1236618	Tree-based Burst Aggregation in Optical Burst Switching Networks
+1237409	A Novel Cookie-Based DDoS Protection Scheme and its Performance Analysis
+1238028	Traffic Density Estimation with On-line SVM Classifier
+1238052	Incremental EM for Probabilistic Latent Semantic Analysis on Human Action Recognition
+1244190	On the performance of adaptive traffic signal control
+1250008	Situating Productive Play: Online Gaming Practices and Guanxi in China
+1250432	Network processing performability evaluation on heterogeneous reliability multicore processors using SRN model
+1252713	Personalized Modeling and Assessment of the Aortic-Mitral Coupling from 4D TEE and CT
+1256102	Developing a multifunctional network laboratory for teaching and research
+1256310	Upright cluster services
+1256849	Performance Evaluation of a Privacy-Enhancing Framework for Personalized Websites
+1261130	Privacy in Online Social Networking at Workplace
+1265747	An Efficient SAN-Level Caching Method Based on Chunk-Aging
+1265757	Group-by Query Process in Middleware of Large Scale Data Intensive Systems
+1272901	Products of Mealy-type fuzzy finite state machines
+1277034	Efficient constrained local model fitting for non-rigid face alignment
+1280210	Human Action Recognition by Semilatent Topic Models
+1280264	Face Relighting from a Single Image under Arbitrary Unknown Lighting Conditions
+1280266	A distributed Key Message algorithm to optimize the communication in clusters
+1316694	An Implicit Finite Difference Scheme with Preconditioning for Convection Dominated Diffusion Equation.
+1319230	Towards a workflow-aware distributed versioning file system for metacomputing systems.
+1319499	Effective Criterion Functions for Efficient Agglomerative Clustering on Very Large Networks.
+1322770	A Heuristic Approach to Reconstruct Triangle Mesh from Unorganized Point Cloud.
+1324063	Security Analysis of Enterprise Network Based on Stochastic Game Nets Model.
+1327868	Recognition of Coronary Heart Disease Patients by RBF Neural Network Basing on Contents of Microelements in Human Blood.
+1346806	Iterative Filtering as an Alternative Algorithm for Empirical Mode Decomposition.
+1346833	Convergence of a Convolution-Filtering-Based Algorithm for Empirical Mode Decomposition.
+1364978	Research on Vector-Control System of PMSM Based on Internal Model Control of Current Loop
+1365237	Optimizing Model of Blasting Parameters Based on Fuzzy Neural Network
+1389656	Research on the Robustness of a Proportional Integral Switching Surface Based on Sliding Mode Control
+1393585	Implementation of a modified Marder-Weitzner method for solving nonlinear eigenvalue problems
+1395941	On the use of high-order ambiguity function for multi-component polynomial phase signals
+1397715	Parameter-dependent connected component of gray images and image understanding, segmentation and stereo correspondence
+1429210	'No representation without information flow': measuring efficacy and efficiency of representationan: an information theoretic approach
+1431711	Plenary lecture 1: an information flow based model of representation for developing informatics as an academic discipline
+1509974	Multidimensional two-scale dilation equations
+1552445	Arbitrarily smooth orthogonal nonseparable wavelets in R2
+1582098	Segment Hough Transform -- a Novel Hough-based Algorithm for Curve Detection
+1593781	Research on Optimization Algorithm for Attribute Reduction of Decision System
+1650066	Designing of LED Illuminating System and Testing Notice
+1654199	Topology control for delay-constraint data collection in wireless sensor networks
+1702825	On validity of m-step multisplitting preconditioners for linear systems
+1708576	A Dynamic Conditional Random Field Model for Foreground and Shadow Segmentation
+1721233	Distributed parallel processing in networks of workstations
+1729984	High performance first principles method for complex magnetic properties
+1748776	Research on Vehicle Image Classifier Based on Concentration Regulating of Immune Clonal Selection
+1750633	Study on the Harmonious Operation of Logistics Finance Management of Supply Chain in Ports-Hinterland Based on System Dynamics
+1754477	A Needle-Holding Robot for Ultrasound Guided Percutaneous Hepatic Microwave Ablation and Initial Experiments

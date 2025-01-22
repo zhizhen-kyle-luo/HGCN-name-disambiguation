@@ -1,0 +1,231 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+0	14	null	New York University
+0	15	null	New York University
+0	16	null	Courant Inst., New York Univ., NY, USA
+0	17	null	Courant Inst., New York Univ., NY, USA
+0	18	null	University of Colorado, Boulder, Colorado
+0	19	null	null
+0	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+0	21	null	null
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+1	14	null	New York University
+1	15	null	New York University
+1	16	null	Courant Inst., New York Univ., NY, USA
+1	17	null	Courant Inst., New York Univ., NY, USA
+1	18	null	University of Colorado, Boulder, Colorado
+1	19	null	null
+1	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+1	21	null	null
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+2	14	null	New York University
+2	15	null	New York University
+2	16	null	Courant Inst., New York Univ., NY, USA
+2	17	null	Courant Inst., New York Univ., NY, USA
+2	18	null	University of Colorado, Boulder, Colorado
+2	19	null	null
+2	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+2	21	null	null
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+3	14	null	New York University
+3	15	null	New York University
+3	16	null	Courant Inst., New York Univ., NY, USA
+3	17	null	Courant Inst., New York Univ., NY, USA
+3	18	null	University of Colorado, Boulder, Colorado
+3	19	null	null
+3	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+3	21	null	null
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+4	14	null	New York University
+4	15	null	New York University
+4	16	null	Courant Inst., New York Univ., NY, USA
+4	17	null	Courant Inst., New York Univ., NY, USA
+4	18	null	University of Colorado, Boulder, Colorado
+4	19	null	null
+4	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+4	21	null	null
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+5	14	null	New York University
+5	15	null	New York University
+5	16	null	Courant Inst., New York Univ., NY, USA
+5	17	null	Courant Inst., New York Univ., NY, USA
+5	18	null	University of Colorado, Boulder, Colorado
+5	19	null	null
+5	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+5	21	null	null
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+6	14	null	New York University
+6	15	null	New York University
+6	16	null	Courant Inst., New York Univ., NY, USA
+6	17	null	Courant Inst., New York Univ., NY, USA
+6	18	null	University of Colorado, Boulder, Colorado
+6	19	null	null
+6	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+6	21	null	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+7	14	null	New York University
+7	15	null	New York University
+7	16	null	Courant Inst., New York Univ., NY, USA
+7	17	null	Courant Inst., New York Univ., NY, USA
+7	18	null	University of Colorado, Boulder, Colorado
+7	19	null	null
+7	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+7	21	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+8	14	null	New York University
+8	15	null	New York University
+8	16	null	Courant Inst., New York Univ., NY, USA
+8	17	null	Courant Inst., New York Univ., NY, USA
+8	18	null	University of Colorado, Boulder, Colorado
+8	19	null	null
+8	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+8	21	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+9	14	null	New York University
+9	15	null	New York University
+9	16	null	Courant Inst., New York Univ., NY, USA
+9	17	null	Courant Inst., New York Univ., NY, USA
+9	18	null	University of Colorado, Boulder, Colorado
+9	19	null	null
+9	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+9	21	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+10	14	null	New York University
+10	15	null	New York University
+10	16	null	Courant Inst., New York Univ., NY, USA
+10	17	null	Courant Inst., New York Univ., NY, USA
+10	18	null	University of Colorado, Boulder, Colorado
+10	19	null	null
+10	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+10	21	null	null
+11	12	null	null
+11	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+11	14	null	New York University
+11	15	null	New York University
+11	16	null	Courant Inst., New York Univ., NY, USA
+11	17	null	Courant Inst., New York Univ., NY, USA
+11	18	null	University of Colorado, Boulder, Colorado
+11	19	null	null
+11	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+11	21	null	null
+12	13	null	Courant Inst. of Math. Sci., New York, NY, USA
+12	14	null	New York University
+12	15	null	New York University
+12	16	null	Courant Inst., New York Univ., NY, USA
+12	17	null	Courant Inst., New York Univ., NY, USA
+12	18	null	University of Colorado, Boulder, Colorado
+12	19	null	null
+12	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+12	21	null	null
+13	14	Courant Inst. of Math. Sci., New York, NY, USA	New York University
+13	15	Courant Inst. of Math. Sci., New York, NY, USA	New York University
+13	16	Courant Inst. of Math. Sci., New York, NY, USA	Courant Inst., New York Univ., NY, USA
+13	17	Courant Inst. of Math. Sci., New York, NY, USA	Courant Inst., New York Univ., NY, USA
+13	18	Courant Inst. of Math. Sci., New York, NY, USA	University of Colorado, Boulder, Colorado
+13	19	Courant Inst. of Math. Sci., New York, NY, USA	null
+13	20	Courant Inst. of Math. Sci., New York, NY, USA	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+13	21	Courant Inst. of Math. Sci., New York, NY, USA	null
+14	15	New York University	New York University
+14	16	New York University	Courant Inst., New York Univ., NY, USA
+14	17	New York University	Courant Inst., New York Univ., NY, USA
+14	18	New York University	University of Colorado, Boulder, Colorado
+14	19	New York University	null
+14	20	New York University	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+14	21	New York University	null
+15	16	New York University	Courant Inst., New York Univ., NY, USA
+15	17	New York University	Courant Inst., New York Univ., NY, USA
+15	18	New York University	University of Colorado, Boulder, Colorado
+15	19	New York University	null
+15	20	New York University	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+15	21	New York University	null
+16	17	Courant Inst., New York Univ., NY, USA	Courant Inst., New York Univ., NY, USA
+16	18	Courant Inst., New York Univ., NY, USA	University of Colorado, Boulder, Colorado
+16	19	Courant Inst., New York Univ., NY, USA	null
+16	20	Courant Inst., New York Univ., NY, USA	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+16	21	Courant Inst., New York Univ., NY, USA	null
+17	18	Courant Inst., New York Univ., NY, USA	University of Colorado, Boulder, Colorado
+17	19	Courant Inst., New York Univ., NY, USA	null
+17	20	Courant Inst., New York Univ., NY, USA	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+17	21	Courant Inst., New York Univ., NY, USA	null
+18	19	University of Colorado, Boulder, Colorado	null
+18	20	University of Colorado, Boulder, Colorado	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+18	21	University of Colorado, Boulder, Colorado	null
+19	20	null	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure
+19	21	null	null
+20	21	Courant Institute, New York University and Laboratoire d'Informatique, Ecole Normale Supédrieure	null

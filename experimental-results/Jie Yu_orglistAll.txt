@@ -1,0 +1,496 @@
+0	1	National University of Singapore, Singapore	Kodak Research Labs, Rochester, NY, USA
+0	2	National University of Singapore, Singapore	University of Texas at San Antonio
+0	3	National University of Singapore, Singapore	University of Texas at San Antonio, TX, USA
+0	4	National University of Singapore, Singapore	Dept. of Comput. Sci., Texas Univ., USA
+0	5	National University of Singapore, Singapore	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA
+0	6	National University of Singapore, Singapore	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+0	7	National University of Singapore, Singapore	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+0	8	National University of Singapore, Singapore	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+0	9	National University of Singapore, Singapore	University of Texas at San Antonio
+0	10	National University of Singapore, Singapore	Res. Labs., Rochester, NY, USA
+0	11	National University of Singapore, Singapore	Fudan University, China
+0	12	National University of Singapore, Singapore	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+0	13	National University of Singapore, Singapore	null
+0	14	National University of Singapore, Singapore	University of Texas at San Antonio, San Antonio, TX
+0	15	National University of Singapore, Singapore	Eastman Kodak Company, Rochester, NY, USA
+0	16	National University of Singapore, Singapore	National University of Singapore, Singapore
+0	17	National University of Singapore, Singapore	National University of Defense Technology Changsha, China
+0	18	National University of Singapore, Singapore	Kodak Res. Labs, Rochester
+0	19	National University of Singapore, Singapore	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+0	20	National University of Singapore, Singapore	Kodak Res. Labs., Rochester
+0	21	National University of Singapore, Singapore	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+0	22	National University of Singapore, Singapore	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+0	23	National University of Singapore, Singapore	University of Michigan, Ann Arbor, MI, USA
+0	24	National University of Singapore, Singapore	null
+0	25	National University of Singapore, Singapore	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+0	26	National University of Singapore, Singapore	null
+0	27	National University of Singapore, Singapore	null
+0	28	National University of Singapore, Singapore	Kodak Res. Labs., Rochester, NY, USA
+0	29	National University of Singapore, Singapore	null
+0	30	National University of Singapore, Singapore	School of Computer, National University of Defense Technology, Changsha, China
+0	31	National University of Singapore, Singapore	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+1	2	Kodak Research Labs, Rochester, NY, USA	University of Texas at San Antonio
+1	3	Kodak Research Labs, Rochester, NY, USA	University of Texas at San Antonio, TX, USA
+1	4	Kodak Research Labs, Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., USA
+1	5	Kodak Research Labs, Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA
+1	6	Kodak Research Labs, Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+1	7	Kodak Research Labs, Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+1	8	Kodak Research Labs, Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+1	9	Kodak Research Labs, Rochester, NY, USA	University of Texas at San Antonio
+1	10	Kodak Research Labs, Rochester, NY, USA	Res. Labs., Rochester, NY, USA
+1	11	Kodak Research Labs, Rochester, NY, USA	Fudan University, China
+1	12	Kodak Research Labs, Rochester, NY, USA	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+1	13	Kodak Research Labs, Rochester, NY, USA	null
+1	14	Kodak Research Labs, Rochester, NY, USA	University of Texas at San Antonio, San Antonio, TX
+1	15	Kodak Research Labs, Rochester, NY, USA	Eastman Kodak Company, Rochester, NY, USA
+1	16	Kodak Research Labs, Rochester, NY, USA	National University of Singapore, Singapore
+1	17	Kodak Research Labs, Rochester, NY, USA	National University of Defense Technology Changsha, China
+1	18	Kodak Research Labs, Rochester, NY, USA	Kodak Res. Labs, Rochester
+1	19	Kodak Research Labs, Rochester, NY, USA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+1	20	Kodak Research Labs, Rochester, NY, USA	Kodak Res. Labs., Rochester
+1	21	Kodak Research Labs, Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+1	22	Kodak Research Labs, Rochester, NY, USA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+1	23	Kodak Research Labs, Rochester, NY, USA	University of Michigan, Ann Arbor, MI, USA
+1	24	Kodak Research Labs, Rochester, NY, USA	null
+1	25	Kodak Research Labs, Rochester, NY, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+1	26	Kodak Research Labs, Rochester, NY, USA	null
+1	27	Kodak Research Labs, Rochester, NY, USA	null
+1	28	Kodak Research Labs, Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA
+1	29	Kodak Research Labs, Rochester, NY, USA	null
+1	30	Kodak Research Labs, Rochester, NY, USA	School of Computer, National University of Defense Technology, Changsha, China
+1	31	Kodak Research Labs, Rochester, NY, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+2	3	University of Texas at San Antonio	University of Texas at San Antonio, TX, USA
+2	4	University of Texas at San Antonio	Dept. of Comput. Sci., Texas Univ., USA
+2	5	University of Texas at San Antonio	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA
+2	6	University of Texas at San Antonio	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+2	7	University of Texas at San Antonio	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+2	8	University of Texas at San Antonio	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+2	9	University of Texas at San Antonio	University of Texas at San Antonio
+2	10	University of Texas at San Antonio	Res. Labs., Rochester, NY, USA
+2	11	University of Texas at San Antonio	Fudan University, China
+2	12	University of Texas at San Antonio	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+2	13	University of Texas at San Antonio	null
+2	14	University of Texas at San Antonio	University of Texas at San Antonio, San Antonio, TX
+2	15	University of Texas at San Antonio	Eastman Kodak Company, Rochester, NY, USA
+2	16	University of Texas at San Antonio	National University of Singapore, Singapore
+2	17	University of Texas at San Antonio	National University of Defense Technology Changsha, China
+2	18	University of Texas at San Antonio	Kodak Res. Labs, Rochester
+2	19	University of Texas at San Antonio	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+2	20	University of Texas at San Antonio	Kodak Res. Labs., Rochester
+2	21	University of Texas at San Antonio	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+2	22	University of Texas at San Antonio	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+2	23	University of Texas at San Antonio	University of Michigan, Ann Arbor, MI, USA
+2	24	University of Texas at San Antonio	null
+2	25	University of Texas at San Antonio	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+2	26	University of Texas at San Antonio	null
+2	27	University of Texas at San Antonio	null
+2	28	University of Texas at San Antonio	Kodak Res. Labs., Rochester, NY, USA
+2	29	University of Texas at San Antonio	null
+2	30	University of Texas at San Antonio	School of Computer, National University of Defense Technology, Changsha, China
+2	31	University of Texas at San Antonio	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+3	4	University of Texas at San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., USA
+3	5	University of Texas at San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA
+3	6	University of Texas at San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+3	7	University of Texas at San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+3	8	University of Texas at San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+3	9	University of Texas at San Antonio, TX, USA	University of Texas at San Antonio
+3	10	University of Texas at San Antonio, TX, USA	Res. Labs., Rochester, NY, USA
+3	11	University of Texas at San Antonio, TX, USA	Fudan University, China
+3	12	University of Texas at San Antonio, TX, USA	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+3	13	University of Texas at San Antonio, TX, USA	null
+3	14	University of Texas at San Antonio, TX, USA	University of Texas at San Antonio, San Antonio, TX
+3	15	University of Texas at San Antonio, TX, USA	Eastman Kodak Company, Rochester, NY, USA
+3	16	University of Texas at San Antonio, TX, USA	National University of Singapore, Singapore
+3	17	University of Texas at San Antonio, TX, USA	National University of Defense Technology Changsha, China
+3	18	University of Texas at San Antonio, TX, USA	Kodak Res. Labs, Rochester
+3	19	University of Texas at San Antonio, TX, USA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+3	20	University of Texas at San Antonio, TX, USA	Kodak Res. Labs., Rochester
+3	21	University of Texas at San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+3	22	University of Texas at San Antonio, TX, USA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+3	23	University of Texas at San Antonio, TX, USA	University of Michigan, Ann Arbor, MI, USA
+3	24	University of Texas at San Antonio, TX, USA	null
+3	25	University of Texas at San Antonio, TX, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+3	26	University of Texas at San Antonio, TX, USA	null
+3	27	University of Texas at San Antonio, TX, USA	null
+3	28	University of Texas at San Antonio, TX, USA	Kodak Res. Labs., Rochester, NY, USA
+3	29	University of Texas at San Antonio, TX, USA	null
+3	30	University of Texas at San Antonio, TX, USA	School of Computer, National University of Defense Technology, Changsha, China
+3	31	University of Texas at San Antonio, TX, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+4	5	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA
+4	6	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+4	7	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+4	8	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+4	9	Dept. of Comput. Sci., Texas Univ., USA	University of Texas at San Antonio
+4	10	Dept. of Comput. Sci., Texas Univ., USA	Res. Labs., Rochester, NY, USA
+4	11	Dept. of Comput. Sci., Texas Univ., USA	Fudan University, China
+4	12	Dept. of Comput. Sci., Texas Univ., USA	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+4	13	Dept. of Comput. Sci., Texas Univ., USA	null
+4	14	Dept. of Comput. Sci., Texas Univ., USA	University of Texas at San Antonio, San Antonio, TX
+4	15	Dept. of Comput. Sci., Texas Univ., USA	Eastman Kodak Company, Rochester, NY, USA
+4	16	Dept. of Comput. Sci., Texas Univ., USA	National University of Singapore, Singapore
+4	17	Dept. of Comput. Sci., Texas Univ., USA	National University of Defense Technology Changsha, China
+4	18	Dept. of Comput. Sci., Texas Univ., USA	Kodak Res. Labs, Rochester
+4	19	Dept. of Comput. Sci., Texas Univ., USA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+4	20	Dept. of Comput. Sci., Texas Univ., USA	Kodak Res. Labs., Rochester
+4	21	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+4	22	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+4	23	Dept. of Comput. Sci., Texas Univ., USA	University of Michigan, Ann Arbor, MI, USA
+4	24	Dept. of Comput. Sci., Texas Univ., USA	null
+4	25	Dept. of Comput. Sci., Texas Univ., USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+4	26	Dept. of Comput. Sci., Texas Univ., USA	null
+4	27	Dept. of Comput. Sci., Texas Univ., USA	null
+4	28	Dept. of Comput. Sci., Texas Univ., USA	Kodak Res. Labs., Rochester, NY, USA
+4	29	Dept. of Comput. Sci., Texas Univ., USA	null
+4	30	Dept. of Comput. Sci., Texas Univ., USA	School of Computer, National University of Defense Technology, Changsha, China
+4	31	Dept. of Comput. Sci., Texas Univ., USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+5	6	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	7	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	8	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	9	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	University of Texas at San Antonio
+5	10	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Res. Labs., Rochester, NY, USA
+5	11	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Fudan University, China
+5	12	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+5	13	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	null
+5	14	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	University of Texas at San Antonio, San Antonio, TX
+5	15	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Eastman Kodak Company, Rochester, NY, USA
+5	16	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	National University of Singapore, Singapore
+5	17	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	National University of Defense Technology Changsha, China
+5	18	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Kodak Res. Labs, Rochester
+5	19	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+5	20	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Kodak Res. Labs., Rochester
+5	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+5	22	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+5	23	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	University of Michigan, Ann Arbor, MI, USA
+5	24	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	null
+5	25	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+5	26	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	null
+5	27	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	null
+5	28	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Kodak Res. Labs., Rochester, NY, USA
+5	29	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	null
+5	30	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	School of Computer, National University of Defense Technology, Changsha, China
+5	31	Dept. of Comput. Sci., Texas Univ., San Antonio, TX, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+6	7	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+6	8	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+6	9	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Texas at San Antonio
+6	10	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Res. Labs., Rochester, NY, USA
+6	11	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Fudan University, China
+6	12	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+6	13	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+6	14	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Texas at San Antonio, San Antonio, TX
+6	15	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Eastman Kodak Company, Rochester, NY, USA
+6	16	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	National University of Singapore, Singapore
+6	17	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	National University of Defense Technology Changsha, China
+6	18	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs, Rochester
+6	19	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+6	20	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs., Rochester
+6	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+6	22	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+6	23	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Michigan, Ann Arbor, MI, USA
+6	24	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+6	25	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+6	26	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+6	27	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+6	28	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs., Rochester, NY, USA
+6	29	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+6	30	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	School of Computer, National University of Defense Technology, Changsha, China
+6	31	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+7	8	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+7	9	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Texas at San Antonio
+7	10	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Res. Labs., Rochester, NY, USA
+7	11	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Fudan University, China
+7	12	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+7	13	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+7	14	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Texas at San Antonio, San Antonio, TX
+7	15	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Eastman Kodak Company, Rochester, NY, USA
+7	16	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	National University of Singapore, Singapore
+7	17	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	National University of Defense Technology Changsha, China
+7	18	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs, Rochester
+7	19	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+7	20	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs., Rochester
+7	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+7	22	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+7	23	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Michigan, Ann Arbor, MI, USA
+7	24	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+7	25	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+7	26	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+7	27	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+7	28	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs., Rochester, NY, USA
+7	29	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+7	30	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	School of Computer, National University of Defense Technology, Changsha, China
+7	31	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+8	9	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Texas at San Antonio
+8	10	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Res. Labs., Rochester, NY, USA
+8	11	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Fudan University, China
+8	12	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+8	13	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+8	14	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Texas at San Antonio, San Antonio, TX
+8	15	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Eastman Kodak Company, Rochester, NY, USA
+8	16	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	National University of Singapore, Singapore
+8	17	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	National University of Defense Technology Changsha, China
+8	18	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs, Rochester
+8	19	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+8	20	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs., Rochester
+8	21	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+8	22	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+8	23	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Michigan, Ann Arbor, MI, USA
+8	24	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+8	25	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+8	26	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+8	27	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+8	28	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs., Rochester, NY, USA
+8	29	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+8	30	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	School of Computer, National University of Defense Technology, Changsha, China
+8	31	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+9	10	University of Texas at San Antonio	Res. Labs., Rochester, NY, USA
+9	11	University of Texas at San Antonio	Fudan University, China
+9	12	University of Texas at San Antonio	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+9	13	University of Texas at San Antonio	null
+9	14	University of Texas at San Antonio	University of Texas at San Antonio, San Antonio, TX
+9	15	University of Texas at San Antonio	Eastman Kodak Company, Rochester, NY, USA
+9	16	University of Texas at San Antonio	National University of Singapore, Singapore
+9	17	University of Texas at San Antonio	National University of Defense Technology Changsha, China
+9	18	University of Texas at San Antonio	Kodak Res. Labs, Rochester
+9	19	University of Texas at San Antonio	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+9	20	University of Texas at San Antonio	Kodak Res. Labs., Rochester
+9	21	University of Texas at San Antonio	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+9	22	University of Texas at San Antonio	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+9	23	University of Texas at San Antonio	University of Michigan, Ann Arbor, MI, USA
+9	24	University of Texas at San Antonio	null
+9	25	University of Texas at San Antonio	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+9	26	University of Texas at San Antonio	null
+9	27	University of Texas at San Antonio	null
+9	28	University of Texas at San Antonio	Kodak Res. Labs., Rochester, NY, USA
+9	29	University of Texas at San Antonio	null
+9	30	University of Texas at San Antonio	School of Computer, National University of Defense Technology, Changsha, China
+9	31	University of Texas at San Antonio	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+10	11	Res. Labs., Rochester, NY, USA	Fudan University, China
+10	12	Res. Labs., Rochester, NY, USA	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+10	13	Res. Labs., Rochester, NY, USA	null
+10	14	Res. Labs., Rochester, NY, USA	University of Texas at San Antonio, San Antonio, TX
+10	15	Res. Labs., Rochester, NY, USA	Eastman Kodak Company, Rochester, NY, USA
+10	16	Res. Labs., Rochester, NY, USA	National University of Singapore, Singapore
+10	17	Res. Labs., Rochester, NY, USA	National University of Defense Technology Changsha, China
+10	18	Res. Labs., Rochester, NY, USA	Kodak Res. Labs, Rochester
+10	19	Res. Labs., Rochester, NY, USA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+10	20	Res. Labs., Rochester, NY, USA	Kodak Res. Labs., Rochester
+10	21	Res. Labs., Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+10	22	Res. Labs., Rochester, NY, USA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+10	23	Res. Labs., Rochester, NY, USA	University of Michigan, Ann Arbor, MI, USA
+10	24	Res. Labs., Rochester, NY, USA	null
+10	25	Res. Labs., Rochester, NY, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+10	26	Res. Labs., Rochester, NY, USA	null
+10	27	Res. Labs., Rochester, NY, USA	null
+10	28	Res. Labs., Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA
+10	29	Res. Labs., Rochester, NY, USA	null
+10	30	Res. Labs., Rochester, NY, USA	School of Computer, National University of Defense Technology, Changsha, China
+10	31	Res. Labs., Rochester, NY, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+11	12	Fudan University, China	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA
+11	13	Fudan University, China	null
+11	14	Fudan University, China	University of Texas at San Antonio, San Antonio, TX
+11	15	Fudan University, China	Eastman Kodak Company, Rochester, NY, USA
+11	16	Fudan University, China	National University of Singapore, Singapore
+11	17	Fudan University, China	National University of Defense Technology Changsha, China
+11	18	Fudan University, China	Kodak Res. Labs, Rochester
+11	19	Fudan University, China	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+11	20	Fudan University, China	Kodak Res. Labs., Rochester
+11	21	Fudan University, China	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+11	22	Fudan University, China	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+11	23	Fudan University, China	University of Michigan, Ann Arbor, MI, USA
+11	24	Fudan University, China	null
+11	25	Fudan University, China	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+11	26	Fudan University, China	null
+11	27	Fudan University, China	null
+11	28	Fudan University, China	Kodak Res. Labs., Rochester, NY, USA
+11	29	Fudan University, China	null
+11	30	Fudan University, China	School of Computer, National University of Defense Technology, Changsha, China
+11	31	Fudan University, China	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+12	13	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	null
+12	14	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	University of Texas at San Antonio, San Antonio, TX
+12	15	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Eastman Kodak Company, Rochester, NY, USA
+12	16	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	National University of Singapore, Singapore
+12	17	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	National University of Defense Technology Changsha, China
+12	18	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Kodak Res. Labs, Rochester
+12	19	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+12	20	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Kodak Res. Labs., Rochester
+12	21	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+12	22	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+12	23	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	University of Michigan, Ann Arbor, MI, USA
+12	24	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	null
+12	25	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+12	26	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	null
+12	27	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	null
+12	28	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Kodak Res. Labs., Rochester, NY, USA
+12	29	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	null
+12	30	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	School of Computer, National University of Defense Technology, Changsha, China
+12	31	Control & Dynamical Syst., California Inst. of Technol., Pasadena, CA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+13	14	null	University of Texas at San Antonio, San Antonio, TX
+13	15	null	Eastman Kodak Company, Rochester, NY, USA
+13	16	null	National University of Singapore, Singapore
+13	17	null	National University of Defense Technology Changsha, China
+13	18	null	Kodak Res. Labs, Rochester
+13	19	null	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+13	20	null	Kodak Res. Labs., Rochester
+13	21	null	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+13	22	null	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+13	23	null	University of Michigan, Ann Arbor, MI, USA
+13	24	null	null
+13	25	null	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+13	26	null	null
+13	27	null	null
+13	28	null	Kodak Res. Labs., Rochester, NY, USA
+13	29	null	null
+13	30	null	School of Computer, National University of Defense Technology, Changsha, China
+13	31	null	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+14	15	University of Texas at San Antonio, San Antonio, TX	Eastman Kodak Company, Rochester, NY, USA
+14	16	University of Texas at San Antonio, San Antonio, TX	National University of Singapore, Singapore
+14	17	University of Texas at San Antonio, San Antonio, TX	National University of Defense Technology Changsha, China
+14	18	University of Texas at San Antonio, San Antonio, TX	Kodak Res. Labs, Rochester
+14	19	University of Texas at San Antonio, San Antonio, TX	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+14	20	University of Texas at San Antonio, San Antonio, TX	Kodak Res. Labs., Rochester
+14	21	University of Texas at San Antonio, San Antonio, TX	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+14	22	University of Texas at San Antonio, San Antonio, TX	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+14	23	University of Texas at San Antonio, San Antonio, TX	University of Michigan, Ann Arbor, MI, USA
+14	24	University of Texas at San Antonio, San Antonio, TX	null
+14	25	University of Texas at San Antonio, San Antonio, TX	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+14	26	University of Texas at San Antonio, San Antonio, TX	null
+14	27	University of Texas at San Antonio, San Antonio, TX	null
+14	28	University of Texas at San Antonio, San Antonio, TX	Kodak Res. Labs., Rochester, NY, USA
+14	29	University of Texas at San Antonio, San Antonio, TX	null
+14	30	University of Texas at San Antonio, San Antonio, TX	School of Computer, National University of Defense Technology, Changsha, China
+14	31	University of Texas at San Antonio, San Antonio, TX	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+15	16	Eastman Kodak Company, Rochester, NY, USA	National University of Singapore, Singapore
+15	17	Eastman Kodak Company, Rochester, NY, USA	National University of Defense Technology Changsha, China
+15	18	Eastman Kodak Company, Rochester, NY, USA	Kodak Res. Labs, Rochester
+15	19	Eastman Kodak Company, Rochester, NY, USA	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+15	20	Eastman Kodak Company, Rochester, NY, USA	Kodak Res. Labs., Rochester
+15	21	Eastman Kodak Company, Rochester, NY, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+15	22	Eastman Kodak Company, Rochester, NY, USA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+15	23	Eastman Kodak Company, Rochester, NY, USA	University of Michigan, Ann Arbor, MI, USA
+15	24	Eastman Kodak Company, Rochester, NY, USA	null
+15	25	Eastman Kodak Company, Rochester, NY, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+15	26	Eastman Kodak Company, Rochester, NY, USA	null
+15	27	Eastman Kodak Company, Rochester, NY, USA	null
+15	28	Eastman Kodak Company, Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA
+15	29	Eastman Kodak Company, Rochester, NY, USA	null
+15	30	Eastman Kodak Company, Rochester, NY, USA	School of Computer, National University of Defense Technology, Changsha, China
+15	31	Eastman Kodak Company, Rochester, NY, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+16	17	National University of Singapore, Singapore	National University of Defense Technology Changsha, China
+16	18	National University of Singapore, Singapore	Kodak Res. Labs, Rochester
+16	19	National University of Singapore, Singapore	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+16	20	National University of Singapore, Singapore	Kodak Res. Labs., Rochester
+16	21	National University of Singapore, Singapore	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+16	22	National University of Singapore, Singapore	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+16	23	National University of Singapore, Singapore	University of Michigan, Ann Arbor, MI, USA
+16	24	National University of Singapore, Singapore	null
+16	25	National University of Singapore, Singapore	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+16	26	National University of Singapore, Singapore	null
+16	27	National University of Singapore, Singapore	null
+16	28	National University of Singapore, Singapore	Kodak Res. Labs., Rochester, NY, USA
+16	29	National University of Singapore, Singapore	null
+16	30	National University of Singapore, Singapore	School of Computer, National University of Defense Technology, Changsha, China
+16	31	National University of Singapore, Singapore	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+17	18	National University of Defense Technology Changsha, China	Kodak Res. Labs, Rochester
+17	19	National University of Defense Technology Changsha, China	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+17	20	National University of Defense Technology Changsha, China	Kodak Res. Labs., Rochester
+17	21	National University of Defense Technology Changsha, China	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+17	22	National University of Defense Technology Changsha, China	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+17	23	National University of Defense Technology Changsha, China	University of Michigan, Ann Arbor, MI, USA
+17	24	National University of Defense Technology Changsha, China	null
+17	25	National University of Defense Technology Changsha, China	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+17	26	National University of Defense Technology Changsha, China	null
+17	27	National University of Defense Technology Changsha, China	null
+17	28	National University of Defense Technology Changsha, China	Kodak Res. Labs., Rochester, NY, USA
+17	29	National University of Defense Technology Changsha, China	null
+17	30	National University of Defense Technology Changsha, China	School of Computer, National University of Defense Technology, Changsha, China
+17	31	National University of Defense Technology Changsha, China	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+18	19	Kodak Res. Labs, Rochester	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA
+18	20	Kodak Res. Labs, Rochester	Kodak Res. Labs., Rochester
+18	21	Kodak Res. Labs, Rochester	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+18	22	Kodak Res. Labs, Rochester	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+18	23	Kodak Res. Labs, Rochester	University of Michigan, Ann Arbor, MI, USA
+18	24	Kodak Res. Labs, Rochester	null
+18	25	Kodak Res. Labs, Rochester	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+18	26	Kodak Res. Labs, Rochester	null
+18	27	Kodak Res. Labs, Rochester	null
+18	28	Kodak Res. Labs, Rochester	Kodak Res. Labs., Rochester, NY, USA
+18	29	Kodak Res. Labs, Rochester	null
+18	30	Kodak Res. Labs, Rochester	School of Computer, National University of Defense Technology, Changsha, China
+18	31	Kodak Res. Labs, Rochester	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+19	20	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	Kodak Res. Labs., Rochester
+19	21	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+19	22	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+19	23	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	University of Michigan, Ann Arbor, MI, USA
+19	24	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	null
+19	25	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+19	26	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	null
+19	27	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	null
+19	28	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	Kodak Res. Labs., Rochester, NY, USA
+19	29	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	null
+19	30	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	School of Computer, National University of Defense Technology, Changsha, China
+19	31	Department of Computer Science, University of Texas at San Antonio, 6900 North Loop 1604 West, San Antonio, TX 78249, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+20	21	Kodak Res. Labs., Rochester	Dept. of Comput. Sci., Texas Univ., San Antonio, TX
+20	22	Kodak Res. Labs., Rochester	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+20	23	Kodak Res. Labs., Rochester	University of Michigan, Ann Arbor, MI, USA
+20	24	Kodak Res. Labs., Rochester	null
+20	25	Kodak Res. Labs., Rochester	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+20	26	Kodak Res. Labs., Rochester	null
+20	27	Kodak Res. Labs., Rochester	null
+20	28	Kodak Res. Labs., Rochester	Kodak Res. Labs., Rochester, NY, USA
+20	29	Kodak Res. Labs., Rochester	null
+20	30	Kodak Res. Labs., Rochester	School of Computer, National University of Defense Technology, Changsha, China
+20	31	Kodak Res. Labs., Rochester	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+21	22	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA
+21	23	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	University of Michigan, Ann Arbor, MI, USA
+21	24	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+21	25	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+21	26	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+21	27	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+21	28	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Kodak Res. Labs., Rochester, NY, USA
+21	29	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	null
+21	30	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	School of Computer, National University of Defense Technology, Changsha, China
+21	31	Dept. of Comput. Sci., Texas Univ., San Antonio, TX	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+22	23	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	University of Michigan, Ann Arbor, MI, USA
+22	24	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	null
+22	25	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+22	26	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	null
+22	27	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	null
+22	28	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	Kodak Res. Labs., Rochester, NY, USA
+22	29	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	null
+22	30	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	School of Computer, National University of Defense Technology, Changsha, China
+22	31	Dept. of Electr. & Comput. Eng., Drexel Univ., Philadelphia, PA, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+23	24	University of Michigan, Ann Arbor, MI, USA	null
+23	25	University of Michigan, Ann Arbor, MI, USA	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+23	26	University of Michigan, Ann Arbor, MI, USA	null
+23	27	University of Michigan, Ann Arbor, MI, USA	null
+23	28	University of Michigan, Ann Arbor, MI, USA	Kodak Res. Labs., Rochester, NY, USA
+23	29	University of Michigan, Ann Arbor, MI, USA	null
+23	30	University of Michigan, Ann Arbor, MI, USA	School of Computer, National University of Defense Technology, Changsha, China
+23	31	University of Michigan, Ann Arbor, MI, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+24	25	null	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA
+24	26	null	null
+24	27	null	null
+24	28	null	Kodak Res. Labs., Rochester, NY, USA
+24	29	null	null
+24	30	null	School of Computer, National University of Defense Technology, Changsha, China
+24	31	null	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+25	26	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA	null
+25	27	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA	null
+25	28	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA	Kodak Res. Labs., Rochester, NY, USA
+25	29	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA	null
+25	30	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA	School of Computer, National University of Defense Technology, Changsha, China
+25	31	Kodak Research Laboratories, Eastman Kodak Company, Rochester, NY, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+26	27	null	null
+26	28	null	Kodak Res. Labs., Rochester, NY, USA
+26	29	null	null
+26	30	null	School of Computer, National University of Defense Technology, Changsha, China
+26	31	null	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+27	28	null	Kodak Res. Labs., Rochester, NY, USA
+27	29	null	null
+27	30	null	School of Computer, National University of Defense Technology, Changsha, China
+27	31	null	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+28	29	Kodak Res. Labs., Rochester, NY, USA	null
+28	30	Kodak Res. Labs., Rochester, NY, USA	School of Computer, National University of Defense Technology, Changsha, China
+28	31	Kodak Res. Labs., Rochester, NY, USA	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+29	30	null	School of Computer, National University of Defense Technology, Changsha, China
+29	31	null	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei
+30	31	School of Computer, National University of Defense Technology, Changsha, China	Dept. of Comput. Sci., Univ. of Sci. & Technol. of China, Hefei

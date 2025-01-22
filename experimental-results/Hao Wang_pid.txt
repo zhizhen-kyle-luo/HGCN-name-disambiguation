@@ -1,0 +1,178 @@
+24504	NetSpy: Automatic Generation of Spyware Signatures for NIDS
+27448	Classification of Polarimetric SAR Data Based on Multidimensional Watershed Clustering
+43520	A Low-Latency Peer-to-Peer Approach for Massively Multiplayer Games
+43613	BLAST++ : A Tool for BLASTing Queries in Batches
+48257	Web-Based Cooperative Design for SoC and Improved Architecture Exploration Algorithm
+63174	RNA Pseudoknot Prediction Using Term Rewriting
+78282	The algorithms for dynamic scheduling
+80723	Architectural Design and Implementation of Highly Available and Scalable Medical System with IBM WebSphere Middleware
+84089	An auctioning reputation system based on anomaly
+93736	Understanding the Prediction of Transmembrane Proteins by Support Vector Machine using Association Rule Mining
+93965	On-line Algorithm for Server Selection of Video Streaming over P2P Networks
+99977	Application-aware Interface for SOAP Communication in Web Services
+124214	Creating Vulnerability Signatures Using Weakest Preconditions
+125605	Optimal Difference Systems of Sets with Multipliers
+126485	A New Secure Authentication Scheme Based Threshold ECDSA For Wireless Sensor Network
+144522	Adapting LDA Model to Discover Author-Topic Relations for Email Analysis
+150180	Indexing Genomic Databases for Fast Homology Searching
+152564	A New Certified Email Protocol
+158794	Feature Similarity Based Redundancy Reduction for Gene Selection
+178375	Solving Qos-Driven Web Service Dynamic Composition as Fuzzy Constraint Satisfaction
+189405	Reducing the Dependence of SPKI/SDSI on PKI
+218163	An Efficient Fuzzy Kohonen Clustering Network Algorithm
+218963	Scalability of Hybrid Fuzzy C-Means Algorithm Based on Quantum-Behaved PSO
+219030	A Fast Subspace Clustering Algorithm Based on Pattern Similarity
+224048	Agora: Grid Community in Vega Grid
+249007	Foundations of SMS Commerce Success: Lessons from SMS Messaging and Co-Opetition
+249013	Predicting the Usage of P2P Sharing Software: The Role of Trust and Perceived Risk
+258318	Fair Payment Protocols for E-Commerce
+275982	Evaluation of RSVP and Mobility-Aware RSVP Using Performance Evaluation Process Algebra
+278146	Wiener Indices of Balanced Binary Trees
+280271	A Hybrid Feature Selection Approach for Microarray Gene Expression Data
+280303	Understanding the Session Durability in Peer-to-Peer Storage System
+292147	Dependable Transaction for Electronic Commerce
+292148	Abuse-Free Item Exchange
+295679	Character-Like Region Verification for Extracting Text in Scene Images
+298422	Interdomain Routing as Social Choice
+304780	Knowledge Enhanced IT Service Management
+309269	New Fair Payment Protocols
+312336	Automatic Character Location and Segmentation in Color Scene Images
+322072	Enhancing multimedia streaming performance through peer-paired collaboration
+324394	Camera Readable 2D Bar Codes Design and Decoding for Mobile Phones
+332962	Parallel Approximate Matrix Factorization for Kernel Methods
+337078	Wireless Network Dynamic Topology Routing Protocol Based on Aggregation Tree Model
+338570	On the Stability of Rational, Heterogeneous Interdomain Route Selection
+338585	Stable Egress Route Selection for Interdomain Traffic Engineering: Model and Analysis
+342089	An Online Model Checking Tool for Safety and Liveness Bugs
+365316	Management as a Service for IT Service Management
+365345	Research and Implementation of Knowledge-Enhanced Information Services
+369761	Critical Success Factors for Web-Based Organizational IT Training Systems
+370398	A New Lightweight and Scalable Encryption Algorithm for Streaming Video over Wireless Networks
+371108	A Semantic QoS-Aware Discovery Framework for Web Services
+371121	On Synchronizing with Web Service Evolution
+372846	Fast Filter-and-Refine Algorithms for Subsequence Selection
+402849	Optimal ISP subscription for Internet multihoming: algorithm design and implication analysis
+403086	Pipelined van Emde Boas Tree: Algorithms, Analysis, and Applications
+427709	Efficient error recovery techniques in a novel multimedia streaming framework with peer-paired collaboration
+437526	Video Streaming Over Multi-hop Wireless Networks
+440550	Triangulation of Bayesian Networks Using an Adaptive Genetic Algorithm
+446106	Collaborative and Interactive Room Design on the Web
+457980	A Hierarchical Queueing Model for Streaming Video over Multi-Hop Wireless Networks
+463507	APPLE: A Novel P2P Based e-Learning Environment
+490084	PEPA Analysis of MAP Effects in Hierarchical Mobile IPv6
+503876	Automatic text discovering through stroke-based segmentation and text string combination
+512843	FreeRank: implementing independent ranking service for multiplayer online games
+517904	Parallelizing Support Vector Machines on Distributed Computers
+519981	A Data Storage Mechanism for P2P VoD Based on Multi-channel Overlay
+527335	A Parallel Algorithm for Learning Bayesian Networks
+527572	Mining a Complete Set of Both Positive and Negative Association Rules from Large Databases
+537136	Performance Modeling and Practical Parallel Algorithms of Cluster Computing with Applications on Distributed Platforms
+540225	Implementation of a Graphics Design Framework on the Web
+545612	Security Policy Reconciliation in Distributed Computing Environments
+551918	LVQ Based Distributed Video Coding with LDPC in Pixel Domain
+557319	Software Project Level Estimation Model Framework based on Bayesian Belief Networks
+569748	An algorithm for optimal comma free codes with isomorphism rejection
+588995	COPE: traffic engineering in dynamic networks
+589079	Reliability as an interdomain service
+608572	Optimal bandwidth selection for MLS surfaces
+609015	A Novel Method for All Solutions SAT Problem
+613564	Towards Automatic Generation of Vulnerability-Based Signatures
+625227	Weighted Pushdown Systems and Trust-Management Systems
+677939	Ant-MST: An Ant-Based Minimum Spanning Tree for Gene Expression Data Clustering
+679321	Performance Comparisons of Different Channel Codes in Distributed Video Coding
+679786	A Fair Item-Item Exchange Protocol Satisfying Newly Introduced Requirements
+681532	Evaluation of Signal Processing Effect in Media Gateway Based on Cross Correlation
+682751	Hand Gesture Tracking for Wearable Computing Systems
+690063	Structure Analysis and SNR-Variance Evolution for Parallel Concatenated Coded IDMA Systems
+696301	Efficient Multiple-Link Adaptive Bandwidth Provisioning for End-to-End Quality of Service Guarantee
+700221	A Novel Fault Diagnosis of Analog Circuit Algorithm Based on Incomplete Wavelet Packet Transform and Improved Balanced Binary-Tree SVMs
+703448	On the Efficient Implementation of Pipelined Heaps for Network Processing
+704014	Adaptive Network Resource Management in IEEE 802.11 Wireless Random Access MAC
+706152	On Cellular Capacity with Base Station Cooperation
+711141	A virtual mouse system for mobile device
+716964	Certified Email Delivery with Offline TTP
+722384	Performance Analysis of a Forging Manipulator Based on the Composite Modeling Method
+726885	Automatic model-based service hosting environment migration
+726890	A comprehensive semantic-based resource allocation framework for workflow management systems
+726948	A Bayesian knowledge engineering framework for service management
+727988	The Design of a Nanometer Biosensor and Its Microfluidic Integration
+728918	Software Productivity Analysis with CSBSG Data Set
+730315	Hybrid SAT Solver Considering Circuit Observability
+766408	BLAST++: BLASTing queries in batches
+776834	Proving Theorems by Pattern Recognition I
+802559	A new dependable exchange protocol
+838563	Wiener indices of balanced binary trees
+890914	A wireless LAN-based indoor positioning technology
+904642	Algorithm of integrating QFD and TRIZ for the innovative design process
+910495	1D Bar Code Reading on Camera Phones
+918078	Affective interaction based on person-independent facial expression space
+942072	Non-fuzzy versions of fuzzy reasoning in classical logics
+949914	The Logic of Automata - Part I
+949916	The Logic of Automata - Part II
+951396	Words in the History of a Turing Machine with a Fixed Input
+951788	A Variant to Turing's Theory of Computing Machines
+970350	An algorithm for optimal difference systems of sets
+997632	An automated approach to specification animation for validation
+998486	Short Definitions of the Ordinals
+1000806	Non-Standard Models for Formal Logics
+1001291	A Note on Quine's Principles of Quantification
+1001292	A New Theory of Element and Number
+1001293	A Formal System of Logic
+1001294	Existence of Classes and Value Specification of Variables
+1001295	Set-Theoretical Basis for Real Numbers
+1001296	Logic of Many-Sorted Theories
+1001297	Certain Predicates Defined by Induction Schemata
+1001298	Problems
+1001299	The Formalization of Mathematics
+1001300	Undecidable Sentences Generated by Semantic Paradoxes
+1001301	The Axiomatization of Arithmetic
+1001302	Alternative Proof of a Theorem of Kleene
+1001303	Some Facts About Kurt Godel
+1017838	LTR_FINDER: an efficient tool for the prediction of full-length LTR retrotransposons
+1024063	On route selection for interdomain traffic engineering
+1058207	Dynamics of Stoichiometric Bacteria-Algae Interactions in the Epilimnion
+1097991	Theory and Techniques for Automatic Generation of Vulnerability-Based Signatures
+1172236	A rule-based approach for RNA pseudoknot prediction
+1204796	Security metrics for software systems
+1207892	Apply ant colony optimization to Tetris
+1215897	Junction Tree Factored Particle Inference Algorithm for Multi-Agent Dynamic Influence Diagrams
+1216206	Packet doppler: network monitoring using packet shift detection
+1217179	An SMR based advance resource reservation scheme for combined mobility and QoS Provisioning
+1236569	Evaluating Service Identification with Design Metrics on Business Process Decomposition
+1237306	Exploiting Request Characteristics to Improve Performance of Web Services Based Business Applications
+1237603	Interactive Storyboard: Animated Story Creation on Touch Interfaces
+1249025	Applying Knowledge Sharing for Business Intelligence Collaboration
+1262447	Facial Expression Synthesis and Recognition with Intensity Alignment
+1278769	Discovering pattern-based subspace clusters by pattern tree
+1282388	Bandwidth Selection and Reconstruction Quality in Point-Based Surfaces
+1306322	An Improved Method of Traffic Forecasting Based on Tariff-SASVR.
+1306416	PDPTW Based Taxi Dispatch Modeling for Booking Service.
+1308783	Spatiotemporal Phase Congruency Based Invariant Features for Human Behavior Classification.
+1308867	Key Elements Tracing Method for Parallel XML Parsing in Multi-Core System.
+1312041	Adaptive Multi-channel MAC Protocol for Dense VANET Using Directional Antennas.
+1312137	An Auxiliary Ground Station Based Traffic Load Balancing Scheme for LEO Satellite Systems.
+1314501	FLTL-MC: Online High Level Program Analysis for Web Services.
+1316981	General Approach for Simulating Heterogeneity of Car-Following Behaviors.
+1318053	Requirement and Design Analysis for the Post-Trauma Mobile Psychology Service.
+1318991	Semantic Annotation for CSSCI Academic Resources Based on Ontology.
+1319852	Application of Support Vector Machine to Mobile Communications in Telephone Traffic Load of Monthly Busy Hour Prediction.
+1322493	A modular NFA architecture for regular expression matching.
+1322561	En-route Security Monitoring Based on an Incident Detection Algorithm for Commercial Vehicles.
+1322828	The Neuro-fuzzy Identification of MR Damper.
+1323265	bSpace: A Data Cleaning Approach for RFID Data Streams Based on Virtual Spatial Granularity.
+1329663	Kernel based articulated object tracking with scale adaptation and model update.
+1334842	Verifying Real-Time Systems using Explicit-time Description Methods
+1334892	An Efficient Explicit-time Description Method for Timed Model Checking
+1430494	GreenCloud: a new architecture for green data center
+1433714	Ontology-based security assessment for software products
+1445043	Reflections on Kurt Go&uml;del
+1577351	A Non-repudiable Protocol for Secure Messaging
+1613319	An Approach to Security and Privacy of RFID System for Supply Chain
+1652888	Research on Positioning Technology of Xinjiang Mobile GIS
+1655596	Radius Restrained Distributed Breadth First Search Flooding in Large-Scale Multimedia Communication
+1655905	Low Cost Mechanism for QoS-Aware Re-Planning of Composite Service
+1706780	On the Stability of Rational, Heterogeneous Interdomain Route Selection
+1707116	Algorithms and qos of video streaming over wireless networks
+1708403	Stable Egress Route Selection for Interdomain Traffic Engineering: Model and Analysis
+1751091	Variable Topology Cartesian Genetic Programming for Combinational Circuit
+1751951	Snail Identification Based on Fourier Transformation

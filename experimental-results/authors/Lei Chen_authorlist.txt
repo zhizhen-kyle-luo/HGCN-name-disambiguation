@@ -1,0 +1,842 @@
+0	1	Chung-wei Lee	Chung-wei Lee
+0	2	Chung-wei Lee	Chung-wei Lee
+0	5	Chung-wei Lee	Chung-wei Lee
+1	2	Chung-wei Lee	Chung-wei Lee
+1	5	Chung-wei Lee	Chung-wei Lee
+2	5	Chung-wei Lee	Chung-wei Lee
+3	33	Minglu Li	Minglu Li
+3	74	Minglu Li	Minglu Li
+3	127	Minglu Li	Minglu Li
+4	133	Shu Lin	Shu Lin
+4	134	Lingqi Zeng	Lingqi Zeng
+4	134	Shu Lin	Shu Lin
+4	135	Lingqi Zeng	Lingqi Zeng
+4	135	Shu Lin	Shu Lin
+4	136	Lan Lan	Lan Lan
+4	136	Lingqi Zeng	Lingqi Zeng
+4	136	Shu Lin	Shu Lin
+4	137	Shu Lin	Shu Lin
+4	137	Khaled A. S. Abdel-Ghaffar	Khaled A. S. Abdel-Ghaffar
+4	138	Lan Lan	Lan Lan
+4	138	Lingqi Zeng	Lingqi Zeng
+4	138	Ying Yu Tai	Ying Yu Tai
+4	138	Shu Lin	Shu Lin
+4	138	Khaled A. S. Abdel-Ghaffar	Khaled A. S. Abdel-Ghaffar
+6	66	Francis K. H. Quek	Francis K. H. Quek
+6	66	Mary P. Harper	Mary P. Harper
+6	67	Mary P. Harper	Mary P. Harper
+6	84	Francis K. H. Quek	Francis K. H. Quek
+6	84	Mary P. Harper	Mary P. Harper
+6	85	Francis K. H. Quek	Francis K. H. Quek
+6	85	Mary P. Harper	Mary P. Harper
+6	159	Mary P. Harper	Mary P. Harper
+7	12	Jie Lian	Jie Lian
+7	12	M. Tamer Ozsu	M. Tamer Ozsu
+7	42	Jie Lian	Jie Lian
+7	46	M. Tamer Ozsu	M. Tamer Ozsu
+7	61	M. Tamer Ozsu	M. Tamer Ozsu
+7	63	M. Tamer Ozsu	M. Tamer Ozsu
+7	68	Jie Lian	Jie Lian
+7	68	Kshirasagar Naik	Kshirasagar Naik
+7	81	M. Tamer Ozsu	M. Tamer Ozsu
+7	83	M. Tamer Ozsu	M. Tamer Ozsu
+7	87	M. Tamer Ozsu	M. Tamer Ozsu
+7	93	M. Tamer Ozsu	M. Tamer Ozsu
+7	98	M. Tamer Ozsu	M. Tamer Ozsu
+7	126	M. Tamer Ozsu	M. Tamer Ozsu
+7	145	Jie Lian	Jie Lian
+7	145	Kshirasagar Naik	Kshirasagar Naik
+7	146	Jie Lian	Jie Lian
+7	146	Kshirasagar Naik	Kshirasagar Naik
+7	146	Gordon B. Agnew	Gordon B. Agnew
+7	150	Jie Lian	Jie Lian
+7	150	Kshirasagar Naik	Kshirasagar Naik
+7	150	M. Tamer Ozsu	M. Tamer Ozsu
+7	150	Gordon B. Agnew	Gordon B. Agnew
+7	170	M. Tamer Ozsu	M. Tamer Ozsu
+7	171	M. Tamer Ozsu	M. Tamer Ozsu
+8	22	Yi Zhuang	Yi Zhuang
+8	22	Qing Li	Qing Li
+8	26	Yi Zhuang	Yi Zhuang
+8	26	Yueting Zhuang	Yueting Zhuang
+8	26	Qing Li	Qing Li
+8	44	Yi Zhuang	Yi Zhuang
+8	44	Qing Li	Qing Li
+8	132	Yi Zhuang	Yi Zhuang
+8	132	Yueting Zhuang	Yueting Zhuang
+8	132	Qing Li	Qing Li
+8	191	Yi Zhuang	Yi Zhuang
+9	17	Shaoxu Song	Shaoxu Song
+9	114	Shaoxu Song	Shaoxu Song
+9	157	Shaoxu Song	Shaoxu Song
+10	54	Weixiong Rao	Weixiong Rao
+10	54	Ada Wai-Chee Fu	Ada Wai-Chee Fu
+10	149	Ada Wai-Chee Fu	Ada Wai-Chee Fu
+10	149	Yingyi Bu	Yingyi Bu
+10	151	Ada Wai-Chee Fu	Ada Wai-Chee Fu
+10	151	Yingyi Bu	Yingyi Bu
+11	19	Lei Zou	Lei Zou
+11	19	Yansheng Lu	Yansheng Lu
+11	23	Lei Zou	Lei Zou
+11	23	Yansheng Lu	Yansheng Lu
+11	27	Lei Zou	Lei Zou
+11	27	Yansheng Lu	Yansheng Lu
+11	50	Lei Zou	Lei Zou
+11	170	Lei Zou	Lei Zou
+11	171	Lei Zou	Lei Zou
+12	42	Jie Lian	Jie Lian
+12	46	M. Tamer Ozsu	M. Tamer Ozsu
+12	61	M. Tamer Ozsu	M. Tamer Ozsu
+12	63	M. Tamer Ozsu	M. Tamer Ozsu
+12	68	Jie Lian	Jie Lian
+12	81	M. Tamer Ozsu	M. Tamer Ozsu
+12	83	M. Tamer Ozsu	M. Tamer Ozsu
+12	87	M. Tamer Ozsu	M. Tamer Ozsu
+12	93	M. Tamer Ozsu	M. Tamer Ozsu
+12	98	M. Tamer Ozsu	M. Tamer Ozsu
+12	126	M. Tamer Ozsu	M. Tamer Ozsu
+12	145	Jie Lian	Jie Lian
+12	146	Jie Lian	Jie Lian
+12	150	Jie Lian	Jie Lian
+12	150	M. Tamer Ozsu	M. Tamer Ozsu
+12	170	M. Tamer Ozsu	M. Tamer Ozsu
+12	171	M. Tamer Ozsu	M. Tamer Ozsu
+13	36	Yongzhen Zhuang	Yongzhen Zhuang
+13	42	Yongzhen Zhuang	Yongzhen Zhuang
+13	56	Yongzhen Zhuang	Yongzhen Zhuang
+15	105	Xiuzi Ye	Xiuzi Ye
+15	113	Xiuzi Ye	Xiuzi Ye
+16	20	Xiang Lian	Xiang Lian
+16	24	Bin Wang	Bin Wang
+16	25	Xiang Lian	Xiang Lian
+16	28	Xiang Lian	Xiang Lian
+16	30	Xiang Lian	Xiang Lian
+16	47	Xiang Lian	Xiang Lian
+16	48	Xiang Lian	Xiang Lian
+16	51	Xiang Lian	Xiang Lian
+16	53	Xiang Lian	Xiang Lian
+16	55	Xiang Lian	Xiang Lian
+16	95	Xiang Lian	Xiang Lian
+16	99	Xiang Lian	Xiang Lian
+16	103	Xiang Lian	Xiang Lian
+16	122	Bin Wang	Bin Wang
+16	139	Bin Wang	Bin Wang
+16	140	Xiang Lian	Xiang Lian
+16	141	Xiang Lian	Xiang Lian
+16	142	Xiang Lian	Xiang Lian
+16	154	Xiang Lian	Xiang Lian
+16	155	Xiang Lian	Xiang Lian
+16	166	Xiang Lian	Xiang Lian
+16	167	Xiang Lian	Xiang Lian
+16	168	Xiang Lian	Xiang Lian
+16	169	Xiang Lian	Xiang Lian
+17	114	Shaoxu Song	Shaoxu Song
+17	157	Shaoxu Song	Shaoxu Song
+18	21	Junchang Xin	Junchang Xin
+18	21	Guoren Wang	Guoren Wang
+18	24	Guoren Wang	Guoren Wang
+18	47	Guoren Wang	Guoren Wang
+18	122	Guoren Wang	Guoren Wang
+18	139	Guoren Wang	Guoren Wang
+19	23	Lei Zou	Lei Zou
+19	23	Yansheng Lu	Yansheng Lu
+19	27	Lei Zou	Lei Zou
+19	27	Yansheng Lu	Yansheng Lu
+19	50	Lei Zou	Lei Zou
+19	170	Lei Zou	Lei Zou
+19	171	Lei Zou	Lei Zou
+20	25	Xiang Lian	Xiang Lian
+20	28	Xiang Lian	Xiang Lian
+20	30	Xiang Lian	Xiang Lian
+20	47	Xiang Lian	Xiang Lian
+20	48	Xiang Lian	Xiang Lian
+20	51	Xiang Lian	Xiang Lian
+20	53	Xiang Lian	Xiang Lian
+20	55	Xiang Lian	Xiang Lian
+20	95	Xiang Lian	Xiang Lian
+20	99	Xiang Lian	Xiang Lian
+20	103	Xiang Lian	Xiang Lian
+20	140	Xiang Lian	Xiang Lian
+20	141	Xiang Lian	Xiang Lian
+20	142	Xiang Lian	Xiang Lian
+20	154	Xiang Lian	Xiang Lian
+20	155	Xiang Lian	Xiang Lian
+20	166	Xiang Lian	Xiang Lian
+20	167	Xiang Lian	Xiang Lian
+20	168	Xiang Lian	Xiang Lian
+20	169	Xiang Lian	Xiang Lian
+21	24	Guoren Wang	Guoren Wang
+21	47	Guoren Wang	Guoren Wang
+21	81	Vincent Oria	Vincent Oria
+21	82	Vincent Oria	Vincent Oria
+21	83	Vincent Oria	Vincent Oria
+21	86	Vincent Oria	Vincent Oria
+21	87	Vincent Oria	Vincent Oria
+21	93	Vincent Oria	Vincent Oria
+21	98	Vincent Oria	Vincent Oria
+21	122	Guoren Wang	Guoren Wang
+21	126	Vincent Oria	Vincent Oria
+21	139	Guoren Wang	Guoren Wang
+21	160	Vincent Oria	Vincent Oria
+22	26	Yi Zhuang	Yi Zhuang
+22	26	Qing Li	Qing Li
+22	44	Yi Zhuang	Yi Zhuang
+22	44	Qing Li	Qing Li
+22	132	Yi Zhuang	Yi Zhuang
+22	132	Qing Li	Qing Li
+22	191	Yi Zhuang	Yi Zhuang
+23	27	Lei Zou	Lei Zou
+23	27	Yansheng Lu	Yansheng Lu
+23	50	Lei Zou	Lei Zou
+23	170	Lei Zou	Lei Zou
+23	171	Lei Zou	Lei Zou
+24	42	Xiaoyang Sean Wang	Xiaoyang Sean Wang
+24	47	Guoren Wang	Guoren Wang
+24	47	Ge Yu	Ge Yu
+24	59	Xuemin Lin	Xuemin Lin
+24	122	Bin Wang	Bin Wang
+24	122	Xiaochun Yang	Xiaochun Yang
+24	122	Guoren Wang	Guoren Wang
+24	122	Xiaoyang Sean Wang	Xiaoyang Sean Wang
+24	122	Xuemin Lin	Xuemin Lin
+24	122	Ge Yu	Ge Yu
+24	139	Bin Wang	Bin Wang
+24	139	Guoren Wang	Guoren Wang
+24	139	Ge Yu	Ge Yu
+24	148	Xuemin Lin	Xuemin Lin
+25	28	Xiang Lian	Xiang Lian
+25	30	Xiang Lian	Xiang Lian
+25	47	Xiang Lian	Xiang Lian
+25	48	Xiang Lian	Xiang Lian
+25	51	Xiang Lian	Xiang Lian
+25	53	Xiang Lian	Xiang Lian
+25	55	Xiang Lian	Xiang Lian
+25	95	Xiang Lian	Xiang Lian
+25	99	Xiang Lian	Xiang Lian
+25	103	Xiang Lian	Xiang Lian
+25	140	Xiang Lian	Xiang Lian
+25	141	Xiang Lian	Xiang Lian
+25	142	Xiang Lian	Xiang Lian
+25	154	Xiang Lian	Xiang Lian
+25	155	Xiang Lian	Xiang Lian
+25	166	Xiang Lian	Xiang Lian
+25	167	Xiang Lian	Xiang Lian
+25	168	Xiang Lian	Xiang Lian
+25	169	Xiang Lian	Xiang Lian
+26	44	Yi Zhuang	Yi Zhuang
+26	44	Qing Li	Qing Li
+26	76	Yi Yu	Yi Yu
+26	82	Yi Yu	Yi Yu
+26	86	Yi Yu	Yi Yu
+26	132	Yi Zhuang	Yi Zhuang
+26	132	Yueting Zhuang	Yueting Zhuang
+26	132	Qing Li	Qing Li
+26	160	Yi Yu	Yi Yu
+26	191	Yi Zhuang	Yi Zhuang
+27	47	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	49	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	50	Lei Zou	Lei Zou
+27	51	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	59	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	103	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	139	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	148	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+27	170	Lei Zou	Lei Zou
+27	171	Lei Zou	Lei Zou
+28	30	Xiang Lian	Xiang Lian
+28	47	Xiang Lian	Xiang Lian
+28	48	Xiang Lian	Xiang Lian
+28	51	Xiang Lian	Xiang Lian
+28	53	Xiang Lian	Xiang Lian
+28	55	Xiang Lian	Xiang Lian
+28	95	Xiang Lian	Xiang Lian
+28	99	Xiang Lian	Xiang Lian
+28	103	Xiang Lian	Xiang Lian
+28	140	Xiang Lian	Xiang Lian
+28	141	Xiang Lian	Xiang Lian
+28	142	Xiang Lian	Xiang Lian
+28	154	Xiang Lian	Xiang Lian
+28	155	Xiang Lian	Xiang Lian
+28	166	Xiang Lian	Xiang Lian
+28	167	Xiang Lian	Xiang Lian
+28	168	Xiang Lian	Xiang Lian
+28	169	Xiang Lian	Xiang Lian
+30	47	Xiang Lian	Xiang Lian
+30	48	Xiang Lian	Xiang Lian
+30	51	Xiang Lian	Xiang Lian
+30	53	Xiang Lian	Xiang Lian
+30	55	Xiang Lian	Xiang Lian
+30	95	Xiang Lian	Xiang Lian
+30	99	Xiang Lian	Xiang Lian
+30	103	Xiang Lian	Xiang Lian
+30	140	Xiang Lian	Xiang Lian
+30	141	Xiang Lian	Xiang Lian
+30	142	Xiang Lian	Xiang Lian
+30	154	Xiang Lian	Xiang Lian
+30	155	Xiang Lian	Xiang Lian
+30	166	Xiang Lian	Xiang Lian
+30	167	Xiang Lian	Xiang Lian
+30	168	Xiang Lian	Xiang Lian
+30	169	Xiang Lian	Xiang Lian
+33	74	Minglu Li	Minglu Li
+33	127	Minglu Li	Minglu Li
+36	42	Yongzhen Zhuang	Yongzhen Zhuang
+36	56	Yongzhen Zhuang	Yongzhen Zhuang
+36	168	Jinsong Han	Jinsong Han
+38	162	Di Yuan	Di Yuan
+39	41	Nenggan Zheng	Nenggan Zheng
+39	41	Zhaohui Wu	Zhaohui Wu
+39	41	Yanmiao Zhou	Yanmiao Zhou
+42	56	Yongzhen Zhuang	Yongzhen Zhuang
+42	68	Jie Lian	Jie Lian
+42	122	Xiaoyang Sean Wang	Xiaoyang Sean Wang
+42	145	Jie Lian	Jie Lian
+42	146	Jie Lian	Jie Lian
+42	150	Jie Lian	Jie Lian
+43	68	Yunhao Liu	Yunhao Liu
+43	74	Yunhao Liu	Yunhao Liu
+43	91	Yunhao Liu	Yunhao Liu
+43	94	Yunhao Liu	Yunhao Liu
+43	103	Yunhao Liu	Yunhao Liu
+43	104	Yunhao Liu	Yunhao Liu
+43	127	Yunhao Liu	Yunhao Liu
+43	143	Mo Li	Mo Li
+43	143	Yunhao Liu	Yunhao Liu
+43	145	Yunhao Liu	Yunhao Liu
+43	146	Yunhao Liu	Yunhao Liu
+44	132	Yi Zhuang	Yi Zhuang
+44	132	Qing Li	Qing Li
+44	191	Yi Zhuang	Yi Zhuang
+45	52	Raghu Ramakrishnan	Raghu Ramakrishnan
+45	58	Raghu Ramakrishnan	Raghu Ramakrishnan
+45	58	David R. Musicant	David R. Musicant
+45	92	Raghu Ramakrishnan	Raghu Ramakrishnan
+45	100	Bee-Chung Chen	Bee-Chung Chen
+45	100	Raghu Ramakrishnan	Raghu Ramakrishnan
+45	102	Bee-Chung Chen	Bee-Chung Chen
+45	102	Raghu Ramakrishnan	Raghu Ramakrishnan
+45	117	Raghu Ramakrishnan	Raghu Ramakrishnan
+45	181	Raghu Ramakrishnan	Raghu Ramakrishnan
+45	181	David R. Musicant	David R. Musicant
+46	61	M. Tamer Ozsu	M. Tamer Ozsu
+46	63	M. Tamer Ozsu	M. Tamer Ozsu
+46	81	M. Tamer Ozsu	M. Tamer Ozsu
+46	83	M. Tamer Ozsu	M. Tamer Ozsu
+46	87	M. Tamer Ozsu	M. Tamer Ozsu
+46	93	M. Tamer Ozsu	M. Tamer Ozsu
+46	98	M. Tamer Ozsu	M. Tamer Ozsu
+46	126	M. Tamer Ozsu	M. Tamer Ozsu
+46	150	M. Tamer Ozsu	M. Tamer Ozsu
+46	170	M. Tamer Ozsu	M. Tamer Ozsu
+46	171	M. Tamer Ozsu	M. Tamer Ozsu
+47	48	Xiang Lian	Xiang Lian
+47	49	Jeffrey Xu Yu	Jeffrey Xu Yu
+47	51	Xiang Lian	Xiang Lian
+47	51	Jeffrey Xu Yu	Jeffrey Xu Yu
+47	53	Xiang Lian	Xiang Lian
+47	55	Xiang Lian	Xiang Lian
+47	59	Jeffrey Xu Yu	Jeffrey Xu Yu
+47	95	Xiang Lian	Xiang Lian
+47	99	Xiang Lian	Xiang Lian
+47	103	Xiang Lian	Xiang Lian
+47	103	Jeffrey Xu Yu	Jeffrey Xu Yu
+47	122	Guoren Wang	Guoren Wang
+47	122	Ge Yu	Ge Yu
+47	139	Jeffrey Xu Yu	Jeffrey Xu Yu
+47	139	Guoren Wang	Guoren Wang
+47	139	Ge Yu	Ge Yu
+47	140	Xiang Lian	Xiang Lian
+47	141	Xiang Lian	Xiang Lian
+47	142	Xiang Lian	Xiang Lian
+47	148	Jeffrey Xu Yu	Jeffrey Xu Yu
+47	154	Xiang Lian	Xiang Lian
+47	155	Xiang Lian	Xiang Lian
+47	166	Xiang Lian	Xiang Lian
+47	167	Xiang Lian	Xiang Lian
+47	168	Xiang Lian	Xiang Lian
+47	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+47	169	Xiang Lian	Xiang Lian
+48	51	Xiang Lian	Xiang Lian
+48	53	Xiang Lian	Xiang Lian
+48	55	Xiang Lian	Xiang Lian
+48	95	Xiang Lian	Xiang Lian
+48	99	Xiang Lian	Xiang Lian
+48	103	Xiang Lian	Xiang Lian
+48	140	Xiang Lian	Xiang Lian
+48	141	Xiang Lian	Xiang Lian
+48	142	Xiang Lian	Xiang Lian
+48	154	Xiang Lian	Xiang Lian
+48	155	Xiang Lian	Xiang Lian
+48	166	Xiang Lian	Xiang Lian
+48	167	Xiang Lian	Xiang Lian
+48	168	Xiang Lian	Xiang Lian
+48	169	Xiang Lian	Xiang Lian
+49	51	Jeffrey Xu Yu	Jeffrey Xu Yu
+49	59	Zheng Liu	Zheng Liu
+49	59	Jeffrey Xu Yu	Jeffrey Xu Yu
+49	103	Jeffrey Xu Yu	Jeffrey Xu Yu
+49	139	Jeffrey Xu Yu	Jeffrey Xu Yu
+49	148	Jeffrey Xu Yu	Jeffrey Xu Yu
+49	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+50	170	Lei Zou	Lei Zou
+50	171	Lei Zou	Lei Zou
+51	53	Xiang Lian	Xiang Lian
+51	55	Xiang Lian	Xiang Lian
+51	59	Jeffrey Xu Yu	Jeffrey Xu Yu
+51	95	Xiang Lian	Xiang Lian
+51	99	Xiang Lian	Xiang Lian
+51	103	Xiang Lian	Xiang Lian
+51	103	Jeffrey Xu Yu	Jeffrey Xu Yu
+51	139	Jeffrey Xu Yu	Jeffrey Xu Yu
+51	140	Xiang Lian	Xiang Lian
+51	141	Xiang Lian	Xiang Lian
+51	142	Xiang Lian	Xiang Lian
+51	148	Jeffrey Xu Yu	Jeffrey Xu Yu
+51	154	Xiang Lian	Xiang Lian
+51	155	Xiang Lian	Xiang Lian
+51	166	Xiang Lian	Xiang Lian
+51	167	Xiang Lian	Xiang Lian
+51	168	Xiang Lian	Xiang Lian
+51	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+51	169	Xiang Lian	Xiang Lian
+52	58	Raghu Ramakrishnan	Raghu Ramakrishnan
+52	92	Raghu Ramakrishnan	Raghu Ramakrishnan
+52	100	Raghu Ramakrishnan	Raghu Ramakrishnan
+52	102	Raghu Ramakrishnan	Raghu Ramakrishnan
+52	117	Raghu Ramakrishnan	Raghu Ramakrishnan
+52	181	Raghu Ramakrishnan	Raghu Ramakrishnan
+53	55	Xiang Lian	Xiang Lian
+53	95	Xiang Lian	Xiang Lian
+53	99	Xiang Lian	Xiang Lian
+53	103	Xiang Lian	Xiang Lian
+53	140	Xiang Lian	Xiang Lian
+53	141	Xiang Lian	Xiang Lian
+53	142	Xiang Lian	Xiang Lian
+53	154	Xiang Lian	Xiang Lian
+53	155	Xiang Lian	Xiang Lian
+53	166	Xiang Lian	Xiang Lian
+53	167	Xiang Lian	Xiang Lian
+53	168	Xiang Lian	Xiang Lian
+53	169	Xiang Lian	Xiang Lian
+54	104	Hanhua Chen	Hanhua Chen
+54	149	Ada Wai-Chee Fu	Ada Wai-Chee Fu
+54	151	Ada Wai-Chee Fu	Ada Wai-Chee Fu
+55	95	Xiang Lian	Xiang Lian
+55	99	Xiang Lian	Xiang Lian
+55	103	Xiang Lian	Xiang Lian
+55	140	Xiang Lian	Xiang Lian
+55	141	Xiang Lian	Xiang Lian
+55	142	Xiang Lian	Xiang Lian
+55	148	Ke Yi	Ke Yi
+55	154	Xiang Lian	Xiang Lian
+55	155	Xiang Lian	Xiang Lian
+55	166	Xiang Lian	Xiang Lian
+55	167	Xiang Lian	Xiang Lian
+55	168	Xiang Lian	Xiang Lian
+55	169	Xiang Lian	Xiang Lian
+58	92	Zheng Huang	Zheng Huang
+58	92	Raghu Ramakrishnan	Raghu Ramakrishnan
+58	100	Raghu Ramakrishnan	Raghu Ramakrishnan
+58	102	Raghu Ramakrishnan	Raghu Ramakrishnan
+58	117	Zheng Huang	Zheng Huang
+58	117	Deborah S. Gross	Deborah S. Gross
+58	117	Raghu Ramakrishnan	Raghu Ramakrishnan
+58	117	James J. Schauer	James J. Schauer
+58	181	Zheng Huang	Zheng Huang
+58	181	Deborah S. Gross	Deborah S. Gross
+58	181	David R. Musicant	David R. Musicant
+58	181	Raghu Ramakrishnan	Raghu Ramakrishnan
+58	181	James J. Schauer	James J. Schauer
+59	103	Jeffrey Xu Yu	Jeffrey Xu Yu
+59	122	Xuemin Lin	Xuemin Lin
+59	139	Jeffrey Xu Yu	Jeffrey Xu Yu
+59	148	Jeffrey Xu Yu	Jeffrey Xu Yu
+59	148	Xuemin Lin	Xuemin Lin
+59	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+60	77	Hung Keng Pung	Hung Keng Pung
+60	111	Hung Keng Pung	Hung Keng Pung
+60	121	Hung Keng Pung	Hung Keng Pung
+60	130	Hung Keng Pung	Hung Keng Pung
+61	63	M. Tamer Ozsu	M. Tamer Ozsu
+61	81	M. Tamer Ozsu	M. Tamer Ozsu
+61	83	M. Tamer Ozsu	M. Tamer Ozsu
+61	87	M. Tamer Ozsu	M. Tamer Ozsu
+61	93	M. Tamer Ozsu	M. Tamer Ozsu
+61	98	M. Tamer Ozsu	M. Tamer Ozsu
+61	126	M. Tamer Ozsu	M. Tamer Ozsu
+61	150	M. Tamer Ozsu	M. Tamer Ozsu
+61	170	M. Tamer Ozsu	M. Tamer Ozsu
+61	171	M. Tamer Ozsu	M. Tamer Ozsu
+62	124	Wendi Rabiner Heinzelman	Wendi Rabiner Heinzelman
+63	81	M. Tamer Ozsu	M. Tamer Ozsu
+63	83	M. Tamer Ozsu	M. Tamer Ozsu
+63	87	M. Tamer Ozsu	M. Tamer Ozsu
+63	93	M. Tamer Ozsu	M. Tamer Ozsu
+63	98	M. Tamer Ozsu	M. Tamer Ozsu
+63	126	M. Tamer Ozsu	M. Tamer Ozsu
+63	150	M. Tamer Ozsu	M. Tamer Ozsu
+63	170	M. Tamer Ozsu	M. Tamer Ozsu
+63	171	M. Tamer Ozsu	M. Tamer Ozsu
+66	67	Mary P. Harper	Mary P. Harper
+66	84	Mary P. Harper	Mary P. Harper
+66	84	Francis K. H. Quek	Francis K. H. Quek
+66	85	Mary P. Harper	Mary P. Harper
+66	85	Francis K. H. Quek	Francis K. H. Quek
+66	159	Mary P. Harper	Mary P. Harper
+67	84	Mary P. Harper	Mary P. Harper
+67	84	Zhongqiang Huang	Zhongqiang Huang
+67	85	Mary P. Harper	Mary P. Harper
+67	85	Zhongqiang Huang	Zhongqiang Huang
+67	159	Mary P. Harper	Mary P. Harper
+68	74	Yunhao Liu	Yunhao Liu
+68	91	Yunhao Liu	Yunhao Liu
+68	94	Yunhao Liu	Yunhao Liu
+68	103	Yunhao Liu	Yunhao Liu
+68	104	Yunhao Liu	Yunhao Liu
+68	127	Yunhao Liu	Yunhao Liu
+68	143	Yunhao Liu	Yunhao Liu
+68	145	Jie Lian	Jie Lian
+68	145	Kshirasagar Naik	Kshirasagar Naik
+68	145	Yunhao Liu	Yunhao Liu
+68	146	Jie Lian	Jie Lian
+68	146	Kshirasagar Naik	Kshirasagar Naik
+68	146	Yunhao Liu	Yunhao Liu
+68	150	Jie Lian	Jie Lian
+68	150	Kshirasagar Naik	Kshirasagar Naik
+69	70	Xicheng Lu	Xicheng Lu
+69	75	Nong Xiao	Nong Xiao
+69	90	Xicheng Lu	Xicheng Lu
+69	123	Nong Xiao	Nong Xiao
+70	90	Yiming Zhang	Yiming Zhang
+70	90	Dongsheng Li	Dongsheng Li
+70	90	Xicheng Lu	Xicheng Lu
+72	109	Haiming Chen	Haiming Chen
+74	91	Yunhao Liu	Yunhao Liu
+74	94	Yunhao Liu	Yunhao Liu
+74	103	Yunhao Liu	Yunhao Liu
+74	104	Yunhao Liu	Yunhao Liu
+74	127	Kebin Liu	Kebin Liu
+74	127	Minglu Li	Minglu Li
+74	127	Yunhao Liu	Yunhao Liu
+74	143	Yunhao Liu	Yunhao Liu
+74	145	Yunhao Liu	Yunhao Liu
+74	146	Yunhao Liu	Yunhao Liu
+75	123	Shaoliang Peng	Shaoliang Peng
+75	123	Shanshan Li	Shan-Shan Li
+75	123	Nong Xiao	Nong Xiao
+75	123	Yuxing Peng	Yuxing Peng
+76	82	Yi Yu	Yi Yu
+76	82	J. Stephen Downie	J. Stephen Downie
+76	82	Kazuki Joe	Kazuki Joe
+76	86	Yi Yu	Yi Yu
+76	86	J. Stephen Downie	J. Stephen Downie
+76	86	Fabian Morchen	Fabian Morchen
+76	86	Kazuki Joe	Kazuki Joe
+76	160	Yi Yu	Yi Yu
+77	111	Hung Keng Pung	Hung Keng Pung
+77	121	Hung Keng Pung	Hung Keng Pung
+77	130	Lifeng Zhou	Lifeng Zhou
+77	130	Hung Keng Pung	Hung Keng Pung
+78	79	Mohamed S. Kamel	Mohamed Kamel
+78	96	Mohamed S. Kamel	Mohamed S. Kamel
+78	97	Mohamed S. Kamel	Mohamed S. Kamel
+78	116	Mohamed S. Kamel	Mohamed S. Kamel
+78	153	Mohamed S. Kamel	Mohamed S. Kamel
+79	96	Ju Jiang	Ju Jiang
+79	116	Ju Jiang	Ju Jiang
+81	82	Vincent Oria	Vincent Oria
+81	83	M. Tamer Ozsu	M. Tamer Ozsu
+81	83	Vincent Oria	Vincent Oria
+81	86	Vincent Oria	Vincent Oria
+81	87	M. Tamer Ozsu	M. Tamer Ozsu
+81	87	Vincent Oria	Vincent Oria
+81	93	M. Tamer Ozsu	M. Tamer Ozsu
+81	93	Vincent Oria	Vincent Oria
+81	98	M. Tamer Ozsu	M. Tamer Ozsu
+81	98	Vincent Oria	Vincent Oria
+81	126	M. Tamer Ozsu	M. Tamer Ozsu
+81	126	Vincent Oria	Vincent Oria
+81	150	M. Tamer Ozsu	M. Tamer Ozsu
+81	160	Vincent Oria	Vincent Oria
+81	170	M. Tamer Ozsu	M. Tamer Ozsu
+81	171	M. Tamer Ozsu	M. Tamer Ozsu
+82	83	Vincent Oria	Vincent Oria
+82	86	Yi Yu	Yi Yu
+82	86	J. Stephen Downie	J. Stephen Downie
+82	86	Vincent Oria	Vincent Oria
+82	86	Kazuki Joe	Kazuki Joe
+82	87	Vincent Oria	Vincent Oria
+82	93	Vincent Oria	Vincent Oria
+82	98	Vincent Oria	Vincent Oria
+82	126	Vincent Oria	Vincent Oria
+82	160	Yi Yu	Yi Yu
+82	160	Vincent Oria	Vincent Oria
+83	86	Vincent Oria	Vincent Oria
+83	87	Vincent Oria	Vincent Oria
+83	87	M. Tamer Ozsu	M. Tamer Ozsu
+83	93	Vincent Oria	Vincent Oria
+83	93	M. Tamer Ozsu	M. Tamer Ozsu
+83	98	Vincent Oria	Vincent Oria
+83	98	M. Tamer Ozsu	M. Tamer Ozsu
+83	126	Vincent Oria	Vincent Oria
+83	126	M. Tamer Ozsu	M. Tamer Ozsu
+83	150	M. Tamer Ozsu	M. Tamer Ozsu
+83	160	Vincent Oria	Vincent Oria
+83	170	M. Tamer Ozsu	M. Tamer Ozsu
+83	171	M. Tamer Ozsu	M. Tamer Ozsu
+84	85	Irene Kimbara	Irene Kimbara
+84	85	Zhongqiang Huang	Zhongqiang Huang
+84	85	Mary P. Harper	Mary P. Harper
+84	85	Francis K. H. Quek	Francis K. H. Quek
+84	159	Mary P. Harper	Mary P. Harper
+85	159	Mary P. Harper	Mary P. Harper
+86	87	Vincent Oria	Vincent Oria
+86	93	Vincent Oria	Vincent Oria
+86	98	Vincent Oria	Vincent Oria
+86	126	Vincent Oria	Vincent Oria
+86	160	Yi Yu	Yi Yu
+86	160	Vincent Oria	Vincent Oria
+87	93	M. Tamer Ozsu	M. Tamer Ozsu
+87	93	Vincent Oria	Vincent Oria
+87	98	M. Tamer Ozsu	M. Tamer Ozsu
+87	98	Vincent Oria	Vincent Oria
+87	126	M. Tamer Ozsu	M. Tamer Ozsu
+87	126	Vincent Oria	Vincent Oria
+87	150	M. Tamer Ozsu	M. Tamer Ozsu
+87	160	Vincent Oria	Vincent Oria
+87	170	M. Tamer Ozsu	M. Tamer Ozsu
+87	171	M. Tamer Ozsu	M. Tamer Ozsu
+91	94	Yunhao Liu	Yunhao Liu
+91	103	Yunhao Liu	Yunhao Liu
+91	103	Qiuxia Chen	Qiuxia Chen
+91	104	Yunhao Liu	Yunhao Liu
+91	127	Yunhao Liu	Yunhao Liu
+91	143	Yunhao Liu	Yunhao Liu
+91	145	Yunhao Liu	Yunhao Liu
+91	146	Yunhao Liu	Yunhao Liu
+92	100	Raghu Ramakrishnan	Raghu Ramakrishnan
+92	102	Raghu Ramakrishnan	Raghu Ramakrishnan
+92	117	Zheng Huang	Zheng Huang
+92	117	Raghu Ramakrishnan	Raghu Ramakrishnan
+92	181	Zheng Huang	Zheng Huang
+92	181	Raghu Ramakrishnan	Raghu Ramakrishnan
+93	98	M. Tamer Ozsu	M. Tamer Ozsu
+93	98	Vincent Oria	Vincent Oria
+93	126	M. Tamer Ozsu	M. Tamer Ozsu
+93	126	Vincent Oria	Vincent Oria
+93	150	M. Tamer Ozsu	M. Tamer Ozsu
+93	160	Vincent Oria	Vincent Oria
+93	170	M. Tamer Ozsu	M. Tamer Ozsu
+93	171	M. Tamer Ozsu	M. Tamer Ozsu
+94	103	Yunhao Liu	Yunhao Liu
+94	104	Yunhao Liu	Yunhao Liu
+94	127	Yunhao Liu	Yunhao Liu
+94	143	Yunhao Liu	Yunhao Liu
+94	145	Yunhao Liu	Yunhao Liu
+94	146	Yunhao Liu	Yunhao Liu
+95	99	Xiang Lian	Xiang Lian
+95	103	Xiang Lian	Xiang Lian
+95	140	Xiang Lian	Xiang Lian
+95	141	Xiang Lian	Xiang Lian
+95	142	Xiang Lian	Xiang Lian
+95	154	Xiang Lian	Xiang Lian
+95	155	Xiang Lian	Xiang Lian
+95	166	Xiang Lian	Xiang Lian
+95	167	Xiang Lian	Xiang Lian
+95	168	Xiang Lian	Xiang Lian
+95	169	Xiang Lian	Xiang Lian
+96	97	Mohamed S. Kamel	Mohamed S. Kamel
+96	116	Ju Jiang	Ju Jiang
+96	116	Mohamed S. Kamel	Mohamed S. Kamel
+96	153	Mohamed S. Kamel	Mohamed S. Kamel
+97	116	Mohamed S. Kamel	Mohamed S. Kamel
+97	153	Mohamed S. Kamel	Mohamed S. Kamel
+98	126	M. Tamer Ozsu	M. Tamer Ozsu
+98	126	Vincent Oria	Vincent Oria
+98	150	M. Tamer Ozsu	M. Tamer Ozsu
+98	160	Vincent Oria	Vincent Oria
+98	170	M. Tamer Ozsu	M. Tamer Ozsu
+98	171	M. Tamer Ozsu	M. Tamer Ozsu
+99	103	Xiang Lian	Xiang Lian
+99	140	Xiang Lian	Xiang Lian
+99	141	Xiang Lian	Xiang Lian
+99	142	Xiang Lian	Xiang Lian
+99	154	Xiang Lian	Xiang Lian
+99	155	Xiang Lian	Xiang Lian
+99	166	Xiang Lian	Xiang Lian
+99	167	Xiang Lian	Xiang Lian
+99	168	Xiang Lian	Xiang Lian
+99	169	Xiang Lian	Xiang Lian
+100	102	Raghu Ramakrishnan	Raghu Ramakrishnan
+100	102	Bee-Chung Chen	Bee-Chung Chen
+100	117	Raghu Ramakrishnan	Raghu Ramakrishnan
+100	181	Raghu Ramakrishnan	Raghu Ramakrishnan
+102	117	Raghu Ramakrishnan	Raghu Ramakrishnan
+102	181	Raghu Ramakrishnan	Raghu Ramakrishnan
+103	104	Yunhao Liu	Yunhao Liu
+103	127	Yunhao Liu	Yunhao Liu
+103	139	Jeffrey Xu Yu	Jeffrey Xu Yu
+103	140	Xiang Lian	Xiang Lian
+103	141	Xiang Lian	Xiang Lian
+103	142	Xiang Lian	Xiang Lian
+103	143	Yunhao Liu	Yunhao Liu
+103	145	Yunhao Liu	Yunhao Liu
+103	146	Yunhao Liu	Yunhao Liu
+103	148	Jeffrey Xu Yu	Jeffrey Xu Yu
+103	154	Xiang Lian	Xiang Lian
+103	155	Xiang Lian	Xiang Lian
+103	166	Xiang Lian	Xiang Lian
+103	167	Xiang Lian	Xiang Lian
+103	168	Xiang Lian	Xiang Lian
+103	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+103	169	Xiang Lian	Xiang Lian
+104	127	Yunhao Liu	Yunhao Liu
+104	143	Yunhao Liu	Yunhao Liu
+104	145	Yunhao Liu	Yunhao Liu
+104	146	Yunhao Liu	Yunhao Liu
+105	113	Hongzheng Liu	Hongzheng Liu
+105	113	Xiuzi Ye	Xiuzi Ye
+105	113	Xiang Pan	Xiang Pan
+106	131	Morteza Mohammadzaheri	Morteza Mohammadzaheri
+106	164	Morteza Mohammadzaheri	Morteza Mohammadzaheri
+111	121	Hung Keng Pung	Hung Keng Pung
+111	130	Hung Keng Pung	Hung Keng Pung
+114	157	Shaoxu Song	Shaoxu Song
+115	165	Changhong Lu	Changhong Lu
+115	178	Changhong Lu	Changhong Lu
+115	179	Changhong Lu	Changhong Lu
+116	153	Mohamed S. Kamel	Mohamed S. Kamel
+117	181	Raghu Ramakrishnan	Raghu Ramakrishnan
+117	181	James J. Schauer	James J. Schauer
+117	181	Zheng Huang	Zheng Huang
+117	181	Martin M. Shafer	Martin M. Shafer
+117	181	Deborah S. Gross	Deborah S. Gross
+118	129	Songcan Chen	Songcan Chen
+119	120	Guang-Bin Huang	Guang-Bin Huang
+119	121	Guang-Bin Huang	Guang-Bin Huang
+119	147	Guang-Bin Huang	Guang-Bin Huang
+119	182	Guang-Bin Huang	Guang-Bin Huang
+119	185	Guang-Bin Huang	Guang-Bin Huang
+120	121	Guang-Bin Huang	Guang-Bin Huang
+120	147	Guang-Bin Huang	Guang-Bin Huang
+120	147	Chee Kheong Siew	Chee Kheong Siew
+120	182	Guang-Bin Huang	Guang-Bin Huang
+120	185	Guang-Bin Huang	Guang-Bin Huang
+121	130	Hung Keng Pung	Hung Keng Pung
+121	147	Guang-Bin Huang	Guang-Bin Huang
+121	182	Guang-Bin Huang	Guang-Bin Huang
+121	185	Guang-Bin Huang	Guang-Bin Huang
+122	139	Bin Wang	Bin Wang
+122	139	Guoren Wang	Guoren Wang
+122	139	Ge Yu	Ge Yu
+122	148	Xuemin Lin	Xuemin Lin
+126	150	M. Tamer Ozsu	M. Tamer Ozsu
+126	160	Vincent Oria	Vincent Oria
+126	170	M. Tamer Ozsu	M. Tamer Ozsu
+126	171	M. Tamer Ozsu	M. Tamer Ozsu
+127	143	Yunhao Liu	Yunhao Liu
+127	145	Yunhao Liu	Yunhao Liu
+127	146	Yunhao Liu	Yunhao Liu
+131	164	Morteza Mohammadzaheri	Morteza Mohammadzaheri
+132	191	Yi Zhuang	Yi Zhuang
+133	134	Shu Lin	Shu Lin
+133	135	Shu Lin	Shu Lin
+133	136	Jun Xu	Jun Xu
+133	136	Shu Lin	Shu Lin
+133	137	Jun Xu	Jun Xu
+133	137	Ivana Djurdjevic	Ivana Djurdjevic
+133	137	Shu Lin	Shu Lin
+133	138	Shu Lin	Shu Lin
+134	135	Zongwang Li	Zongwang Li
+134	135	Lingqi Zeng	Lingqi Zeng
+134	135	Shu Lin	Shu Lin
+134	135	Wai H. Fong	Wai H. Fong
+134	136	Lingqi Zeng	Lingqi Zeng
+134	136	Shu Lin	Shu Lin
+134	137	Shu Lin	Shu Lin
+134	138	Lingqi Zeng	Lingqi Zeng
+134	138	Shu Lin	Shu Lin
+135	136	Lingqi Zeng	Lingqi Zeng
+135	136	Shu Lin	Shu Lin
+135	137	Shu Lin	Shu Lin
+135	138	Lingqi Zeng	Lingqi Zeng
+135	138	Shu Lin	Shu Lin
+136	137	Jun Xu	Jun Xu
+136	137	Shu Lin	Shu Lin
+136	138	Lingqi Zeng	Lingqi Zeng
+136	138	Lan Lan	Lan Lan
+136	138	Shu Lin	Shu Lin
+137	138	Shu Lin	Shu Lin
+137	138	Khaled A. S. Abdel-Ghaffar	Khaled A. S. Abdel-Ghaffar
+139	148	Jeffrey Xu Yu	Jeffrey Xu Yu
+139	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+140	141	Xiang Lian	Xiang Lian
+140	142	Xiang Lian	Xiang Lian
+140	154	Xiang Lian	Xiang Lian
+140	155	Xiang Lian	Xiang Lian
+140	166	Xiang Lian	Xiang Lian
+140	167	Xiang Lian	Xiang Lian
+140	168	Xiang Lian	Xiang Lian
+140	169	Xiang Lian	Xiang Lian
+141	142	Xiang Lian	Xiang Lian
+141	154	Xiang Lian	Xiang Lian
+141	155	Xiang Lian	Xiang Lian
+141	166	Xiang Lian	Xiang Lian
+141	167	Xiang Lian	Xiang Lian
+141	168	Xiang Lian	Xiang Lian
+141	169	Xiang Lian	Xiang Lian
+142	154	Xiang Lian	Xiang Lian
+142	155	Xiang Lian	Xiang Lian
+142	166	Xiang Lian	Xiang Lian
+142	167	Xiang Lian	Xiang Lian
+142	168	Xiang Lian	Xiang Lian
+142	169	Xiang Lian	Xiang Lian
+143	145	Yunhao Liu	Yunhao Liu
+143	146	Yunhao Liu	Yunhao Liu
+145	146	Jie Lian	Jie Lian
+145	146	Yunhao Liu	Yunhao Liu
+145	146	Kshirasagar Naik	Kshirasagar Naik
+145	150	Jie Lian	Jie Lian
+145	150	Kshirasagar Naik	Kshirasagar Naik
+146	150	Jie Lian	Jie Lian
+146	150	Kshirasagar Naik	Kshirasagar Naik
+146	150	Gordon B. Agnew	Gordon B. Agnew
+147	182	Guang-Bin Huang	Guang-Bin Huang
+147	185	Guang-Bin Huang	Guang-Bin Huang
+148	168	Jeffrey Xu Yu	Jeffrey Xu Yu
+149	151	Yingyi Bu	Yingyi Bu
+149	151	Ada Wai-Chee Fu	Ada Wai-Chee Fu
+150	170	M. Tamer Ozsu	M. Tamer Ozsu
+150	171	M. Tamer Ozsu	M. Tamer Ozsu
+154	155	Xiang Lian	Xiang Lian
+154	166	Xiang Lian	Xiang Lian
+154	167	Xiang Lian	Xiang Lian
+154	168	Xiang Lian	Xiang Lian
+154	169	Xiang Lian	Xiang Lian
+155	166	Xiang Lian	Xiang Lian
+155	167	Xiang Lian	Xiang Lian
+155	168	Xiang Lian	Xiang Lian
+155	169	Xiang Lian	Xiang Lian
+165	178	Changhong Lu	Changhong Lu
+165	178	Zhenbing Zeng	Zhenbing Zeng
+165	179	Changhong Lu	Changhong Lu
+165	179	Zhenbing Zeng	Zhenbing Zeng
+166	167	Xiang Lian	Xiang Lian
+166	168	Xiang Lian	Xiang Lian
+166	169	Xiang Lian	Xiang Lian
+167	168	Xiang Lian	Xiang Lian
+167	169	Xiang Lian	Xiang Lian
+168	169	Xiang Lian	Xiang Lian
+170	171	Lei Zou	Lei Zou
+170	171	M. Tamer Ozsu	M. Tamer Ozsu
+178	179	Changhong Lu	Changhong Lu
+178	179	Zhenbing Zeng	Zhenbing Zeng
+182	185	Guang-Bin Huang	Guang-Bin Huang
+183	191	Clarence A. Ellis	Clarence A. Ellis
+187	188	Klaus Zechner	Klaus Zechner
+189	192	Xiaojun Zhao	Xiaojun Zhao
+189	192	Mingwei Ren	Mingwei Ren
+189	192	Haixia Su	Haixia Su
+189	192	Fei Wang	Fei Wang
+190	191	Chengfei Liu	Chengfei Liu

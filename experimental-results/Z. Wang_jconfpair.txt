@@ -1,0 +1,12 @@
+3	4	ISCAS (1)	ISCAS
+3	5	ISCAS (1)	ISCAS
+4	5	ISCAS	ISCAS
+10	11	WAA	WAA
+10	12	WAA	WAA
+10	13	WAA	WAA
+11	12	WAA	WAA
+11	13	WAA	WAA
+12	13	WAA	WAA
+18	29	Computing	Computing
+20	40	Discrete Mathematics	Discrete Applied Mathematics
+27	30	IEEE Transactions on Neural Networks	IEEE Transactions on Neural Networks

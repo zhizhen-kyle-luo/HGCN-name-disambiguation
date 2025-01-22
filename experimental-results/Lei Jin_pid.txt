@@ -1,0 +1,16 @@
+6323	A flexible data to L2 cache mapping approach for future multicore processors
+253532	An Extensible Data Model with Security Support for Dataspace Management
+345085	Taming Single-Thread Program Performance on Many Distributed On-Chip L2 Caches
+345116	TPTS: A Novel Framework for Very Fast Manycore Processor Architecture Simulation
+437337	Reducing cache traffic and energy with macro data load
+445478	Secure Dataspace with Access Policies
+456915	A Comparison of Search Patterns for Cooperative Robots Operating in Remote Environment
+456916	A Rule-Based System for Localization of Water on the Surface of Mars
+499621	Managing Distributed, Shared L2 Caches through OS-Level Page Allocation
+564840	Achieving Predictable Performance with On-Chip Shared L2 Caches for Manycore-Based Real-Time Systems
+720165	A Multi-Dimensional K-Anonymity Model for Hierarchical Data
+1258618	Content-based blind compensation and shaping for streaming video
+1302102	SOS: A Software-Oriented Distributed Shared Cache Management Approach for Chip Multiprocessors.
+1342715	Two-phase trace-driven simulation (TPTS): a fast multicore processor architecture simulation approach.
+1604928	Simulation model of the LS-DRMTA adaptive algorithm for multiple antenna system for DS-CDMA
+1618423	Electrical and compositional properties of TaSi2 films

@@ -1,0 +1,19 @@
+4	5	BIOCOMP	BIOCOMP
+7	8	GCC	GCC Workshops
+7	9	GCC	GCC
+8	9	GCC Workshops	GCC
+11	12	ICCCN	ICCCN
+14	15	ICDM	ICDM
+17	18	INFOCOM	INFOCOM
+19	20	IPDPS	IPDPS
+19	21	IPDPS	IPDPS
+19	22	IPDPS	IPDPS
+20	21	IPDPS	IPDPS
+20	22	IPDPS	IPDPS
+21	22	IPDPS	IPDPS
+23	24	ISPAN	ISPAN
+23	25	ISPAN	ISPAN
+24	25	ISPAN	ISPAN
+34	60	International Semantic Web Conference	International Semantic Web Conference
+37	38	VEE	VEE
+40	41	IEEE Congress on Evolutionary Computation	IEEE Congress on Evolutionary Computation

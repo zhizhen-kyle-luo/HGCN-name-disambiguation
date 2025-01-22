@@ -1,0 +1,479 @@
+0	27	Konstantin Beznosov	Konstantin Beznosov
+0	30	Konstantin Beznosov	Konstantin Beznosov
+0	69	Konstantin Beznosov	Konstantin Beznosov
+1	8	Shi-Kuo Chang	Shi-Kuo Chang
+1	12	Shi-Kuo Chang	Shi-Kuo Chang
+1	40	Shi-Kuo Chang	Shi-Kuo Chang
+1	58	Shi-Kuo Chang	Shi-Kuo Chang
+1	60	Shi-Kuo Chang	Shi-Kuo Chang
+1	68	Shi-Kuo Chang	Shi-Kuo Chang
+2	7	Peter J. Clarke	Peter J. Clarke
+2	39	Peter J. Clarke	Peter J. Clarke
+2	47	Peter J. Clarke	Peter J. Clarke
+2	49	Peter J. Clarke	Peter J. Clarke
+2	64	Yingbo Wang	Yingbo Wang
+2	64	Peter J. Clarke	Peter J. Clarke
+2	73	Peter J. Clarke	Peter J. Clarke
+2	74	Peter J. Clarke	Peter J. Clarke
+2	76	Peter J. Clarke	Peter J. Clarke
+2	78	Yingbo Wang	Yingbo Wang
+2	78	Peter J. Clarke	Peter J. Clarke
+2	82	Yingbo Wang	Yingbo Wang
+2	82	Peter J. Clarke	Peter J. Clarke
+2	84	Peter J. Clarke	Peter J. Clarke
+3	11	Dongdai Lin	Dongdai Lin
+3	54	Dongdai Lin	Dongdai Lin
+3	55	Dongdai Lin	Dongdai Lin
+3	75	Dongdai Lin	Dongdai Lin
+3	79	Dongdai Lin	Dongdai Lin
+4	13	Jiacun Wang	Jiacun Wang
+4	19	Jiacun Wang	Jiacun Wang
+4	19	Chun Jin	Chun Jin
+4	20	Jiacun Wang	Jiacun Wang
+4	24	Jiacun Wang	Jiacun Wang
+4	51	Jiacun Wang	Jiacun Wang
+4	57	Jiacun Wang	Jiacun Wang
+4	61	Jiacun Wang	Jiacun Wang
+4	69	Jiacun Wang	Jiacun Wang
+4	71	Jiacun Wang	Jiacun Wang
+4	72	Jiacun Wang	Jiacun Wang
+4	83	Jiacun Wang	Jiacun Wang
+6	14	Huiqun Yu	Huiqun Yu
+6	14	Xudong He	Xudong He
+6	14	Lian Mo	Lian Mo
+6	21	Huiqun Yu	Huiqun Yu
+6	21	Xudong He	Xudong He
+6	21	Lian Mo	Lian Mo
+6	26	Huiqun Yu	Huiqun Yu
+6	26	Xudong He	Xudong He
+6	30	Huiqun Yu	Huiqun Yu
+6	30	Xudong He	Xudong He
+6	31	Xudong He	Xudong He
+6	33	Huiqun Yu	Huiqun Yu
+6	33	Xudong He	Xudong He
+6	33	Lian Mo	Lian Mo
+6	34	Huiqun Yu	Huiqun Yu
+6	34	Xudong He	Xudong He
+6	38	Xudong He	Xudong He
+6	39	Xudong He	Xudong He
+6	53	Xudong He	Xudong He
+6	57	Xudong He	Xudong He
+6	61	Xudong He	Xudong He
+6	63	Huiqun Yu	Huiqun Yu
+6	63	Xudong He	Xudong He
+6	76	Xudong He	Xudong He
+6	88	Xudong He	Xudong He
+7	9	Vagelis Hristidis	Vagelis Hristidis
+7	39	Peter J. Clarke	Peter J. Clarke
+7	47	Peter J. Clarke	Peter J. Clarke
+7	47	Vagelis Hristidis	Vagelis Hristidis
+7	47	Nagarajan Prabakar	Nagarajan Prabakar
+7	48	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+7	48	Raju Rangaswami	Raju Rangaswami
+7	48	Nagarajan Prabakar	Nagarajan Prabakar
+7	49	Peter J. Clarke	Peter J. Clarke
+7	50	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+7	64	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+7	64	Peter J. Clarke	Peter J. Clarke
+7	64	Vagelis Hristidis	Vagelis Hristidis
+7	64	Raju Rangaswami	Raju Rangaswami
+7	73	Peter J. Clarke	Peter J. Clarke
+7	74	Peter J. Clarke	Peter J. Clarke
+7	76	Peter J. Clarke	Peter J. Clarke
+7	78	Peter J. Clarke	Peter J. Clarke
+7	80	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+7	82	Peter J. Clarke	Peter J. Clarke
+7	82	Vagelis Hristidis	Vagelis Hristidis
+7	82	Nagarajan Prabakar	Nagarajan Prabakar
+7	84	Peter J. Clarke	Peter J. Clarke
+8	12	Shi-Kuo Chang	Shi-Kuo Chang
+8	40	Shi-Kuo Chang	Shi-Kuo Chang
+8	58	Shi-Kuo Chang	Shi-Kuo Chang
+8	60	Shi-Kuo Chang	Shi-Kuo Chang
+8	68	Shi-Kuo Chang	Shi-Kuo Chang
+9	47	Vagelis Hristidis	Vagelis Hristidis
+9	64	Vagelis Hristidis	Vagelis Hristidis
+9	77	Tao Li	Tao Li
+9	80	Steven Luis	S. Luis
+9	82	Vagelis Hristidis	Vagelis Hristidis
+10	16	Xueyin Lin	Xueyin Lin
+10	65	Xueyin Lin	Xueyin Lin
+11	54	Dongdai Lin	Dongdai Lin
+11	55	Dongdai Lin	Dongdai Lin
+11	75	Dongdai Lin	Dongdai Lin
+11	79	Dongdai Lin	Dongdai Lin
+12	40	Shi-Kuo Chang	Shi-Kuo Chang
+12	58	Shi-Kuo Chang	Shi-Kuo Chang
+12	60	Shi-Kuo Chang	Shi-Kuo Chang
+12	68	Shi-Kuo Chang	Shi-Kuo Chang
+13	19	Jiacun Wang	Jiacun Wang
+13	20	Jiacun Wang	Jiacun Wang
+13	24	Jiacun Wang	Jiacun Wang
+13	51	Jiacun Wang	Jiacun Wang
+13	57	Jiacun Wang	Jiacun Wang
+13	61	Jiacun Wang	Jiacun Wang
+13	69	Jiacun Wang	Jiacun Wang
+13	71	Jiacun Wang	Jiacun Wang
+13	72	Jiacun Wang	Jiacun Wang
+13	83	Jiacun Wang	Jiacun Wang
+14	21	Huiqun Yu	Huiqun Yu
+14	21	Xudong He	Xudong He
+14	21	Lian Mo	Lian Mo
+14	26	Huiqun Yu	Huiqun Yu
+14	26	Xudong He	Xudong He
+14	30	Huiqun Yu	Huiqun Yu
+14	30	Xudong He	Xudong He
+14	31	Xudong He	Xudong He
+14	33	Huiqun Yu	Huiqun Yu
+14	33	Xudong He	Xudong He
+14	33	Lian Mo	Lian Mo
+14	34	Huiqun Yu	Huiqun Yu
+14	34	Xudong He	Xudong He
+14	38	Xudong He	Xudong He
+14	39	Xudong He	Xudong He
+14	53	Xudong He	Xudong He
+14	57	Xudong He	Xudong He
+14	61	Xudong He	Xudong He
+14	63	Huiqun Yu	Huiqun Yu
+14	63	Xudong He	Xudong He
+14	76	Xudong He	Xudong He
+14	88	Xudong He	Xudong He
+15	29	Michael Evangelist	Michael Evangelist
+15	32	Shengkai Lu	Shengkai Lu
+16	65	Qiong Yang	Qiong Yang
+16	65	Xueyin Lin	Xueyin Lin
+16	65	Xiaoou Tang	Xiaoou Tang
+17	18	Wei Sun	Wei Sun
+17	22	Wei Sun	Wei Sun
+17	25	Naphtali Rishe	Naphtali Rishe
+17	35	Wei Sun	Wei Sun
+17	37	Naphtali Rishe	Naphtali Rishe
+17	37	Wei Sun	Wei Sun
+17	45	Naphtali Rishe	Naphtali Rishe
+17	45	Wei Sun	Wei Sun
+17	67	Naphtali Rishe	Naphtali Rishe
+17	67	Wei Sun	Wei Sun
+17	85	Naphtali Rishe	Naphtali Rishe
+17	85	Wei Sun	Wei Sun
+17	87	Naphtali Rishe	N. Rishe
+17	87	Wei Sun	Wei Sun
+18	22	Wei Sun	Wei Sun
+18	29	Paul C. Attie	Paul C. Attie
+18	35	Wei Sun	Wei Sun
+18	37	Wei Sun	Wei Sun
+18	45	Wei Sun	Wei Sun
+18	67	Wei Sun	Wei Sun
+18	85	Wei Sun	Wei Sun
+18	87	Shigang Chen	Shigang Chen
+18	87	Wei Sun	Wei Sun
+19	20	Jiacun Wang	Jiacun Wang
+19	24	Jiacun Wang	Jiacun Wang
+19	51	Jiacun Wang	Jiacun Wang
+19	57	Jiacun Wang	Jiacun Wang
+19	61	Jiacun Wang	Jiacun Wang
+19	69	Jiacun Wang	Jiacun Wang
+19	71	Jiacun Wang	Jiacun Wang
+19	72	Jiacun Wang	Jiacun Wang
+19	83	Jiacun Wang	Jiacun Wang
+20	24	Jiacun Wang	Jiacun Wang
+20	51	Jiacun Wang	Jiacun Wang
+20	57	Jiacun Wang	Jiacun Wang
+20	61	Jiacun Wang	Jiacun Wang
+20	69	Jiacun Wang	Jiacun Wang
+20	71	Jiacun Wang	Jiacun Wang
+20	72	Jiacun Wang	Jiacun Wang
+20	83	Jiacun Wang	Jiacun Wang
+21	26	Huiqun Yu	Huiqun Yu
+21	26	Xudong He	Xudong He
+21	30	Huiqun Yu	Huiqun Yu
+21	30	Xudong He	Xudong He
+21	31	Xudong He	Xudong He
+21	33	Huiqun Yu	Huiqun Yu
+21	33	Xudong He	Xudong He
+21	33	Lian Mo	Lian Mo
+21	34	Huiqun Yu	Huiqun Yu
+21	34	Xudong He	Xudong He
+21	38	Xudong He	Xudong He
+21	39	Xudong He	Xudong He
+21	53	Xudong He	Xudong He
+21	57	Xudong He	Xudong He
+21	61	Xudong He	Xudong He
+21	63	Huiqun Yu	Huiqun Yu
+21	63	Xudong He	Xudong He
+21	76	Xudong He	Xudong He
+21	88	Xudong He	Xudong He
+22	35	Wei Sun	Wei Sun
+22	37	Sha Guo	Sha Guo
+22	37	Wei Sun	Wei Sun
+22	45	Wei Sun	Wei Sun
+22	67	Wei Sun	Wei Sun
+22	85	Wei Sun	Wei Sun
+22	87	Wei Sun	Wei Sun
+24	51	Jiacun Wang	Jiacun Wang
+24	57	Jiacun Wang	Jiacun Wang
+24	57	Jeffrey J. P. Tsai	Jeffrey J. P. Tsai
+24	61	Jiacun Wang	Jiacun Wang
+24	69	Jiacun Wang	Jiacun Wang
+24	69	Jeffrey J. P. Tsai	Jeffrey J. P. Tsai
+24	71	Jiacun Wang	Jiacun Wang
+24	72	Jiacun Wang	Jiacun Wang
+24	83	Jiacun Wang	Jiacun Wang
+24	83	Jeffrey J. P. Tsai	Jeffrey J. P. Tsai
+25	37	Naphtali Rishe	Naphtali Rishe
+25	45	Naphtali Rishe	Naphtali Rishe
+25	67	Cyril U. Orji	Cyril U. Orji
+25	67	Naphtali Rishe	Naphtali Rishe
+25	85	Naphtali Rishe	Naphtali Rishe
+25	87	Naphtali Rishe	N. Rishe
+26	30	Huiqun Yu	Huiqun Yu
+26	30	Xudong He	Xudong He
+26	30	Shu Gao	Shu Gao
+26	31	Xudong He	Xudong He
+26	33	Huiqun Yu	Huiqun Yu
+26	33	Xudong He	Xudong He
+26	34	Huiqun Yu	Huiqun Yu
+26	34	Xudong He	Xudong He
+26	34	Shu Gao	Shu Gao
+26	38	Xudong He	Xudong He
+26	39	Xudong He	Xudong He
+26	53	Xudong He	Xudong He
+26	57	Xudong He	Xudong He
+26	61	Xudong He	Xudong He
+26	63	Huiqun Yu	Huiqun Yu
+26	63	Xudong He	Xudong He
+26	76	Xudong He	Xudong He
+26	88	Xudong He	Xudong He
+27	30	Konstantin Beznosov	Konstantin Beznosov
+27	69	Konstantin Beznosov	Konstantin Beznosov
+30	31	Xudong He	Xudong He
+30	33	Huiqun Yu	Huiqun Yu
+30	33	Xudong He	Xudong He
+30	34	Shu Gao	Shu Gao
+30	34	Huiqun Yu	Huiqun Yu
+30	34	Xudong He	Xudong He
+30	38	Xudong He	Xudong He
+30	39	Xudong He	Xudong He
+30	42	Kendra Cooper	Kendra Cooper
+30	43	Kendra Cooper	Kendra Cooper
+30	44	Kendra Cooper	Kendra Cooper
+30	53	Xudong He	Xudong He
+30	57	Xudong He	Xudong He
+30	61	Xudong He	Xudong He
+30	63	Huiqun Yu	Huiqun Yu
+30	63	Xudong He	Xudong He
+30	66	Kendra Cooper	Kendra Cooper
+30	69	Konstantin Beznosov	Konstantin Beznosov
+30	76	Xudong He	Xudong He
+30	88	Xudong He	Xudong He
+31	33	Xudong He	Xudong He
+31	34	Xudong He	Xudong He
+31	38	Xudong He	Xudong He
+31	39	Xudong He	Xudong He
+31	39	Junhua Ding	Junhua Ding
+31	53	Xudong He	Xudong He
+31	57	Xudong He	Xudong He
+31	61	Xudong He	Xudong He
+31	63	Xudong He	Xudong He
+31	63	Junhua Ding	Junhua Ding
+31	70	Junhua Ding	Junhua Ding
+31	76	Xudong He	Xudong He
+31	76	Junhua Ding	Junhua Ding
+31	88	Xudong He	Xudong He
+33	34	Huiqun Yu	Huiqun Yu
+33	34	Xudong He	Xudong He
+33	38	Xudong He	Xudong He
+33	39	Xudong He	Xudong He
+33	53	Xudong He	Xudong He
+33	57	Xudong He	Xudong He
+33	61	Xudong He	Xudong He
+33	63	Huiqun Yu	Huiqun Yu
+33	63	Xudong He	Xudong He
+33	76	Xudong He	Xudong He
+33	88	Xudong He	Xudong He
+34	38	Xudong He	Xudong He
+34	39	Xudong He	Xudong He
+34	53	Xudong He	Xudong He
+34	57	Xudong He	Xudong He
+34	61	Xudong He	Xudong He
+34	63	Huiqun Yu	Huiqun Yu
+34	63	Xudong He	Xudong He
+34	76	Xudong He	Xudong He
+34	88	Xudong He	Xudong He
+35	37	Wei Sun	Wei Sun
+35	45	Wei Sun	Wei Sun
+35	67	Wei Sun	Wei Sun
+35	85	Wei Sun	Wei Sun
+35	87	Wei Sun	Wei Sun
+37	45	Wei Sun	Wei Sun
+37	45	Naphtali Rishe	Naphtali Rishe
+37	67	Wei Sun	Wei Sun
+37	67	Naphtali Rishe	Naphtali Rishe
+37	85	Wei Sun	Wei Sun
+37	85	Naphtali Rishe	Naphtali Rishe
+37	87	Wei Sun	Wei Sun
+37	87	Naphtali Rishe	N. Rishe
+38	39	Xudong He	Xudong He
+38	53	Xudong He	Xudong He
+38	57	Xudong He	Xudong He
+38	61	Xudong He	Xudong He
+38	63	Tianjun Shi	Tianjun Shi
+38	63	Xudong He	Xudong He
+38	76	Xudong He	Xudong He
+38	88	Xudong He	Xudong He
+39	47	Peter J. Clarke	Peter J. Clarke
+39	49	Peter J. Clarke	Peter J. Clarke
+39	53	Xudong He	Xudong He
+39	57	Xudong He	Xudong He
+39	61	Xudong He	Xudong He
+39	63	Junhua Ding	Junhua Ding
+39	63	Xudong He	Xudong He
+39	64	Peter J. Clarke	Peter J. Clarke
+39	70	Junhua Ding	Junhua Ding
+39	70	Dianxiang Xu	Dianxiang Xu
+39	73	Peter J. Clarke	Peter J. Clarke
+39	74	Peter J. Clarke	Peter J. Clarke
+39	76	Junhua Ding	Junhua Ding
+39	76	Dianxiang Xu	Dianxiang Xu
+39	76	Peter J. Clarke	Peter J. Clarke
+39	76	Xudong He	Xudong He
+39	78	Peter J. Clarke	Peter J. Clarke
+39	82	Peter J. Clarke	Peter J. Clarke
+39	84	Peter J. Clarke	Peter J. Clarke
+39	88	Xudong He	Xudong He
+40	58	Shi-Kuo Chang	Shi-Kuo Chang
+40	60	Shi-Kuo Chang	Shi-Kuo Chang
+40	68	Shi-Kuo Chang	Shi-Kuo Chang
+42	43	Kendra Cooper	Kendra Cooper
+42	43	Lirong Dai	Lirong Dai
+42	44	Kendra Cooper	Kendra Cooper
+42	66	Kendra Cooper	Kendra Cooper
+42	66	Lirong Dai	Lirong Dai
+43	44	Kendra Cooper	Kendra Cooper
+43	44	Jing Dong	Jing Dong
+43	66	Kendra Cooper	Kendra Cooper
+43	66	Lirong Dai	Lirong Dai
+44	66	Kendra Cooper	Kendra Cooper
+45	67	Wei Sun	Wei Sun
+45	67	Naphtali Rishe	Naphtali Rishe
+45	85	Wei Sun	Wei Sun
+45	85	Yibei Ling	Yibei Ling
+45	85	Naphtali Rishe	Naphtali Rishe
+45	87	Wei Sun	Wei Sun
+45	87	Naphtali Rishe	N. Rishe
+46	52	Kang Zhang	Kang Zhang
+46	52	Da-Qian Zhang	Da-Qian Zhang
+47	48	Nagarajan Prabakar	Nagarajan Prabakar
+47	49	Peter J. Clarke	Peter J. Clarke
+47	64	Vagelis Hristidis	Vagelis Hristidis
+47	64	Peter J. Clarke	Peter J. Clarke
+47	73	Peter J. Clarke	Peter J. Clarke
+47	74	Peter J. Clarke	Peter J. Clarke
+47	76	Peter J. Clarke	Peter J. Clarke
+47	78	Peter J. Clarke	Peter J. Clarke
+47	82	Vagelis Hristidis	Vagelis Hristidis
+47	82	Peter J. Clarke	Peter J. Clarke
+47	82	Nagarajan Prabakar	Nagarajan Prabakar
+47	84	Peter J. Clarke	Peter J. Clarke
+48	50	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+48	64	Raju Rangaswami	Raju Rangaswami
+48	64	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+48	80	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+48	82	Nagarajan Prabakar	Nagarajan Prabakar
+49	64	Peter J. Clarke	Peter J. Clarke
+49	73	Jose Andre Morales	Jose Andre Morales
+49	73	Peter J. Clarke	Peter J. Clarke
+49	74	Jose Andre Morales	Jose Andre Morales
+49	74	Peter J. Clarke	Peter J. Clarke
+49	76	Peter J. Clarke	Peter J. Clarke
+49	78	Peter J. Clarke	Peter J. Clarke
+49	82	Peter J. Clarke	Peter J. Clarke
+49	84	Peter J. Clarke	Peter J. Clarke
+50	64	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+50	80	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+51	57	Jiacun Wang	Jiacun Wang
+51	61	Jiacun Wang	Jiacun Wang
+51	69	Jiacun Wang	Jiacun Wang
+51	71	Jiacun Wang	Jiacun Wang
+51	72	Jiacun Wang	Jiacun Wang
+51	83	Jiacun Wang	Jiacun Wang
+53	57	Xudong He	Xudong He
+53	61	Xudong He	Xudong He
+53	63	Xudong He	Xudong He
+53	76	Xudong He	Xudong He
+53	88	Xudong He	Xudong He
+54	55	Dongdai Lin	Dongdai Lin
+54	75	Dongdai Lin	Dongdai Lin
+54	79	Giovanni Di Crescenzo	Giovanni Di Crescenzo
+54	79	Dongdai Lin	Dongdai Lin
+55	75	Dongdai Lin	Dongdai Lin
+55	79	Dongdai Lin	Dongdai Lin
+57	61	Jiacun Wang	Jiacun Wang
+57	61	Xudong He	Xudong He
+57	63	Xudong He	Xudong He
+57	69	Jiacun Wang	Jiacun Wang
+57	69	Jeffrey J. P. Tsai	Jeffrey J. P. Tsai
+57	71	Jiacun Wang	Jiacun Wang
+57	72	Jiacun Wang	Jiacun Wang
+57	76	Xudong He	Xudong He
+57	83	Jiacun Wang	Jiacun Wang
+57	83	Jeffrey J. P. Tsai	Jeffrey J. P. Tsai
+57	88	Xudong He	Xudong He
+58	60	Shi-Kuo Chang	Shi-Kuo Chang
+58	68	Shi-Kuo Chang	Shi-Kuo Chang
+60	68	Shi-Kuo Chang	Shi-Kuo Chang
+61	63	Xudong He	Xudong He
+61	69	Jiacun Wang	Jiacun Wang
+61	71	Jiacun Wang	Jiacun Wang
+61	72	Jiacun Wang	Jiacun Wang
+61	76	Xudong He	Xudong He
+61	83	Jiacun Wang	Jiacun Wang
+61	88	Xudong He	Xudong He
+63	70	Junhua Ding	Junhua Ding
+63	76	Xudong He	Xudong He
+63	76	Junhua Ding	Junhua Ding
+63	88	Xudong He	Xudong He
+64	73	Peter J. Clarke	Peter J. Clarke
+64	74	Peter J. Clarke	Peter J. Clarke
+64	76	Peter J. Clarke	Peter J. Clarke
+64	78	Peter J. Clarke	Peter J. Clarke
+64	78	Yingbo Wang	Yingbo Wang
+64	80	Seyed Masoud Sadjadi	Seyed Masoud Sadjadi
+64	82	Peter J. Clarke	Peter J. Clarke
+64	82	Vagelis Hristidis	Vagelis Hristidis
+64	82	Yingbo Wang	Yingbo Wang
+64	84	Peter J. Clarke	Peter J. Clarke
+67	85	Naphtali Rishe	Naphtali Rishe
+67	85	Wei Sun	Wei Sun
+67	87	Naphtali Rishe	N. Rishe
+67	87	Wei Sun	Wei Sun
+69	71	Jiacun Wang	Jiacun Wang
+69	72	Jiacun Wang	Jiacun Wang
+69	83	Jiacun Wang	Jiacun Wang
+69	83	Jeffrey J. P. Tsai	Jeffrey J. P. Tsai
+70	76	Dianxiang Xu	Dianxiang Xu
+70	76	Junhua Ding	Junhua Ding
+71	72	Jiacun Wang	Jiacun Wang
+71	83	Jiacun Wang	Jiacun Wang
+72	83	Jiacun Wang	Jiacun Wang
+73	74	Jose Andre Morales	Jose Andre Morales
+73	74	Peter J. Clarke	Peter J. Clarke
+73	74	B. M. Golam Kibria	B. M. Golam Kibria
+73	76	Peter J. Clarke	Peter J. Clarke
+73	78	Peter J. Clarke	Peter J. Clarke
+73	82	Peter J. Clarke	Peter J. Clarke
+73	84	Peter J. Clarke	Peter J. Clarke
+74	76	Peter J. Clarke	Peter J. Clarke
+74	78	Peter J. Clarke	Peter J. Clarke
+74	82	Peter J. Clarke	Peter J. Clarke
+74	84	Peter J. Clarke	Peter J. Clarke
+75	79	Dongdai Lin	Dongdai Lin
+76	78	Peter J. Clarke	Peter J. Clarke
+76	82	Peter J. Clarke	Peter J. Clarke
+76	84	Peter J. Clarke	Peter J. Clarke
+76	88	Xudong He	Xudong He
+78	82	Yingbo Wang	Yingbo Wang
+78	82	Peter J. Clarke	Peter J. Clarke
+78	84	Peter J. Clarke	Peter J. Clarke
+82	84	Peter J. Clarke	Peter J. Clarke
+85	87	Wei Sun	Wei Sun
+85	87	Naphtali Rishe	N. Rishe

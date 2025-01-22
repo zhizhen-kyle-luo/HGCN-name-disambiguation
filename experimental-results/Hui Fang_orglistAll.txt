@@ -1,0 +1,861 @@
+0	1	null	null
+0	2	null	The Ohio State University, Columbus, OH
+0	3	null	University of Illinois at Urbana-Champaign
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	Google, Inc., Mountain View, CA
+0	8	null	University of Illinois at Urbana, Champaign
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+0	13	null	University of Illinois at Urbana-Champaign
+0	14	null	null
+0	15	null	University of Illinois at Urbana-Champaign
+0	16	null	University of Illinois
+0	17	null	OSU, Columbus, OH, USA
+0	18	null	null
+0	19	null	null
+0	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+0	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+0	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+0	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+0	24	null	University of Illinois, Urbana-Champaign
+0	25	null	Google, Inc.
+0	26	null	null
+0	27	null	null
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+0	33	null	Nanyang Technological University, Singapore
+0	34	null	null
+0	35	null	null
+0	36	null	null
+0	37	null	null
+0	38	null	null
+0	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+0	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+0	41	null	null
+1	2	null	The Ohio State University, Columbus, OH
+1	3	null	University of Illinois at Urbana-Champaign
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	Google, Inc., Mountain View, CA
+1	8	null	University of Illinois at Urbana, Champaign
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+1	13	null	University of Illinois at Urbana-Champaign
+1	14	null	null
+1	15	null	University of Illinois at Urbana-Champaign
+1	16	null	University of Illinois
+1	17	null	OSU, Columbus, OH, USA
+1	18	null	null
+1	19	null	null
+1	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+1	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+1	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+1	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+1	24	null	University of Illinois, Urbana-Champaign
+1	25	null	Google, Inc.
+1	26	null	null
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+1	33	null	Nanyang Technological University, Singapore
+1	34	null	null
+1	35	null	null
+1	36	null	null
+1	37	null	null
+1	38	null	null
+1	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+1	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+1	41	null	null
+2	3	The Ohio State University, Columbus, OH	University of Illinois at Urbana-Champaign
+2	4	The Ohio State University, Columbus, OH	null
+2	5	The Ohio State University, Columbus, OH	null
+2	6	The Ohio State University, Columbus, OH	null
+2	7	The Ohio State University, Columbus, OH	Google, Inc., Mountain View, CA
+2	8	The Ohio State University, Columbus, OH	University of Illinois at Urbana, Champaign
+2	9	The Ohio State University, Columbus, OH	null
+2	10	The Ohio State University, Columbus, OH	null
+2	11	The Ohio State University, Columbus, OH	null
+2	12	The Ohio State University, Columbus, OH	University of Illinois at Urbana Champaign, Urbana, IL
+2	13	The Ohio State University, Columbus, OH	University of Illinois at Urbana-Champaign
+2	14	The Ohio State University, Columbus, OH	null
+2	15	The Ohio State University, Columbus, OH	University of Illinois at Urbana-Champaign
+2	16	The Ohio State University, Columbus, OH	University of Illinois
+2	17	The Ohio State University, Columbus, OH	OSU, Columbus, OH, USA
+2	18	The Ohio State University, Columbus, OH	null
+2	19	The Ohio State University, Columbus, OH	null
+2	20	The Ohio State University, Columbus, OH	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+2	21	The Ohio State University, Columbus, OH	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+2	22	The Ohio State University, Columbus, OH	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+2	23	The Ohio State University, Columbus, OH	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+2	24	The Ohio State University, Columbus, OH	University of Illinois, Urbana-Champaign
+2	25	The Ohio State University, Columbus, OH	Google, Inc.
+2	26	The Ohio State University, Columbus, OH	null
+2	27	The Ohio State University, Columbus, OH	null
+2	28	The Ohio State University, Columbus, OH	null
+2	29	The Ohio State University, Columbus, OH	null
+2	30	The Ohio State University, Columbus, OH	null
+2	31	The Ohio State University, Columbus, OH	null
+2	32	The Ohio State University, Columbus, OH	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+2	33	The Ohio State University, Columbus, OH	Nanyang Technological University, Singapore
+2	34	The Ohio State University, Columbus, OH	null
+2	35	The Ohio State University, Columbus, OH	null
+2	36	The Ohio State University, Columbus, OH	null
+2	37	The Ohio State University, Columbus, OH	null
+2	38	The Ohio State University, Columbus, OH	null
+2	39	The Ohio State University, Columbus, OH	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+2	40	The Ohio State University, Columbus, OH	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+2	41	The Ohio State University, Columbus, OH	null
+3	4	University of Illinois at Urbana-Champaign	null
+3	5	University of Illinois at Urbana-Champaign	null
+3	6	University of Illinois at Urbana-Champaign	null
+3	7	University of Illinois at Urbana-Champaign	Google, Inc., Mountain View, CA
+3	8	University of Illinois at Urbana-Champaign	University of Illinois at Urbana, Champaign
+3	9	University of Illinois at Urbana-Champaign	null
+3	10	University of Illinois at Urbana-Champaign	null
+3	11	University of Illinois at Urbana-Champaign	null
+3	12	University of Illinois at Urbana-Champaign	University of Illinois at Urbana Champaign, Urbana, IL
+3	13	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+3	14	University of Illinois at Urbana-Champaign	null
+3	15	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+3	16	University of Illinois at Urbana-Champaign	University of Illinois
+3	17	University of Illinois at Urbana-Champaign	OSU, Columbus, OH, USA
+3	18	University of Illinois at Urbana-Champaign	null
+3	19	University of Illinois at Urbana-Champaign	null
+3	20	University of Illinois at Urbana-Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+3	21	University of Illinois at Urbana-Champaign	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+3	22	University of Illinois at Urbana-Champaign	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+3	23	University of Illinois at Urbana-Champaign	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+3	24	University of Illinois at Urbana-Champaign	University of Illinois, Urbana-Champaign
+3	25	University of Illinois at Urbana-Champaign	Google, Inc.
+3	26	University of Illinois at Urbana-Champaign	null
+3	27	University of Illinois at Urbana-Champaign	null
+3	28	University of Illinois at Urbana-Champaign	null
+3	29	University of Illinois at Urbana-Champaign	null
+3	30	University of Illinois at Urbana-Champaign	null
+3	31	University of Illinois at Urbana-Champaign	null
+3	32	University of Illinois at Urbana-Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+3	33	University of Illinois at Urbana-Champaign	Nanyang Technological University, Singapore
+3	34	University of Illinois at Urbana-Champaign	null
+3	35	University of Illinois at Urbana-Champaign	null
+3	36	University of Illinois at Urbana-Champaign	null
+3	37	University of Illinois at Urbana-Champaign	null
+3	38	University of Illinois at Urbana-Champaign	null
+3	39	University of Illinois at Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+3	40	University of Illinois at Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+3	41	University of Illinois at Urbana-Champaign	null
+4	5	null	null
+4	6	null	null
+4	7	null	Google, Inc., Mountain View, CA
+4	8	null	University of Illinois at Urbana, Champaign
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+4	13	null	University of Illinois at Urbana-Champaign
+4	14	null	null
+4	15	null	University of Illinois at Urbana-Champaign
+4	16	null	University of Illinois
+4	17	null	OSU, Columbus, OH, USA
+4	18	null	null
+4	19	null	null
+4	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+4	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+4	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+4	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+4	24	null	University of Illinois, Urbana-Champaign
+4	25	null	Google, Inc.
+4	26	null	null
+4	27	null	null
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+4	33	null	Nanyang Technological University, Singapore
+4	34	null	null
+4	35	null	null
+4	36	null	null
+4	37	null	null
+4	38	null	null
+4	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+4	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+4	41	null	null
+5	6	null	null
+5	7	null	Google, Inc., Mountain View, CA
+5	8	null	University of Illinois at Urbana, Champaign
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+5	13	null	University of Illinois at Urbana-Champaign
+5	14	null	null
+5	15	null	University of Illinois at Urbana-Champaign
+5	16	null	University of Illinois
+5	17	null	OSU, Columbus, OH, USA
+5	18	null	null
+5	19	null	null
+5	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+5	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+5	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+5	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+5	24	null	University of Illinois, Urbana-Champaign
+5	25	null	Google, Inc.
+5	26	null	null
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+5	33	null	Nanyang Technological University, Singapore
+5	34	null	null
+5	35	null	null
+5	36	null	null
+5	37	null	null
+5	38	null	null
+5	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+5	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+5	41	null	null
+6	7	null	Google, Inc., Mountain View, CA
+6	8	null	University of Illinois at Urbana, Champaign
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+6	13	null	University of Illinois at Urbana-Champaign
+6	14	null	null
+6	15	null	University of Illinois at Urbana-Champaign
+6	16	null	University of Illinois
+6	17	null	OSU, Columbus, OH, USA
+6	18	null	null
+6	19	null	null
+6	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+6	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+6	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+6	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+6	24	null	University of Illinois, Urbana-Champaign
+6	25	null	Google, Inc.
+6	26	null	null
+6	27	null	null
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+6	33	null	Nanyang Technological University, Singapore
+6	34	null	null
+6	35	null	null
+6	36	null	null
+6	37	null	null
+6	38	null	null
+6	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+6	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+6	41	null	null
+7	8	Google, Inc., Mountain View, CA	University of Illinois at Urbana, Champaign
+7	9	Google, Inc., Mountain View, CA	null
+7	10	Google, Inc., Mountain View, CA	null
+7	11	Google, Inc., Mountain View, CA	null
+7	12	Google, Inc., Mountain View, CA	University of Illinois at Urbana Champaign, Urbana, IL
+7	13	Google, Inc., Mountain View, CA	University of Illinois at Urbana-Champaign
+7	14	Google, Inc., Mountain View, CA	null
+7	15	Google, Inc., Mountain View, CA	University of Illinois at Urbana-Champaign
+7	16	Google, Inc., Mountain View, CA	University of Illinois
+7	17	Google, Inc., Mountain View, CA	OSU, Columbus, OH, USA
+7	18	Google, Inc., Mountain View, CA	null
+7	19	Google, Inc., Mountain View, CA	null
+7	20	Google, Inc., Mountain View, CA	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+7	21	Google, Inc., Mountain View, CA	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+7	22	Google, Inc., Mountain View, CA	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+7	23	Google, Inc., Mountain View, CA	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+7	24	Google, Inc., Mountain View, CA	University of Illinois, Urbana-Champaign
+7	25	Google, Inc., Mountain View, CA	Google, Inc.
+7	26	Google, Inc., Mountain View, CA	null
+7	27	Google, Inc., Mountain View, CA	null
+7	28	Google, Inc., Mountain View, CA	null
+7	29	Google, Inc., Mountain View, CA	null
+7	30	Google, Inc., Mountain View, CA	null
+7	31	Google, Inc., Mountain View, CA	null
+7	32	Google, Inc., Mountain View, CA	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+7	33	Google, Inc., Mountain View, CA	Nanyang Technological University, Singapore
+7	34	Google, Inc., Mountain View, CA	null
+7	35	Google, Inc., Mountain View, CA	null
+7	36	Google, Inc., Mountain View, CA	null
+7	37	Google, Inc., Mountain View, CA	null
+7	38	Google, Inc., Mountain View, CA	null
+7	39	Google, Inc., Mountain View, CA	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+7	40	Google, Inc., Mountain View, CA	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+7	41	Google, Inc., Mountain View, CA	null
+8	9	University of Illinois at Urbana, Champaign	null
+8	10	University of Illinois at Urbana, Champaign	null
+8	11	University of Illinois at Urbana, Champaign	null
+8	12	University of Illinois at Urbana, Champaign	University of Illinois at Urbana Champaign, Urbana, IL
+8	13	University of Illinois at Urbana, Champaign	University of Illinois at Urbana-Champaign
+8	14	University of Illinois at Urbana, Champaign	null
+8	15	University of Illinois at Urbana, Champaign	University of Illinois at Urbana-Champaign
+8	16	University of Illinois at Urbana, Champaign	University of Illinois
+8	17	University of Illinois at Urbana, Champaign	OSU, Columbus, OH, USA
+8	18	University of Illinois at Urbana, Champaign	null
+8	19	University of Illinois at Urbana, Champaign	null
+8	20	University of Illinois at Urbana, Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+8	21	University of Illinois at Urbana, Champaign	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+8	22	University of Illinois at Urbana, Champaign	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+8	23	University of Illinois at Urbana, Champaign	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+8	24	University of Illinois at Urbana, Champaign	University of Illinois, Urbana-Champaign
+8	25	University of Illinois at Urbana, Champaign	Google, Inc.
+8	26	University of Illinois at Urbana, Champaign	null
+8	27	University of Illinois at Urbana, Champaign	null
+8	28	University of Illinois at Urbana, Champaign	null
+8	29	University of Illinois at Urbana, Champaign	null
+8	30	University of Illinois at Urbana, Champaign	null
+8	31	University of Illinois at Urbana, Champaign	null
+8	32	University of Illinois at Urbana, Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+8	33	University of Illinois at Urbana, Champaign	Nanyang Technological University, Singapore
+8	34	University of Illinois at Urbana, Champaign	null
+8	35	University of Illinois at Urbana, Champaign	null
+8	36	University of Illinois at Urbana, Champaign	null
+8	37	University of Illinois at Urbana, Champaign	null
+8	38	University of Illinois at Urbana, Champaign	null
+8	39	University of Illinois at Urbana, Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+8	40	University of Illinois at Urbana, Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+8	41	University of Illinois at Urbana, Champaign	null
+9	10	null	null
+9	11	null	null
+9	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+9	13	null	University of Illinois at Urbana-Champaign
+9	14	null	null
+9	15	null	University of Illinois at Urbana-Champaign
+9	16	null	University of Illinois
+9	17	null	OSU, Columbus, OH, USA
+9	18	null	null
+9	19	null	null
+9	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+9	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+9	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+9	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+9	24	null	University of Illinois, Urbana-Champaign
+9	25	null	Google, Inc.
+9	26	null	null
+9	27	null	null
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+9	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+9	33	null	Nanyang Technological University, Singapore
+9	34	null	null
+9	35	null	null
+9	36	null	null
+9	37	null	null
+9	38	null	null
+9	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+9	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+9	41	null	null
+10	11	null	null
+10	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+10	13	null	University of Illinois at Urbana-Champaign
+10	14	null	null
+10	15	null	University of Illinois at Urbana-Champaign
+10	16	null	University of Illinois
+10	17	null	OSU, Columbus, OH, USA
+10	18	null	null
+10	19	null	null
+10	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+10	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+10	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+10	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+10	24	null	University of Illinois, Urbana-Champaign
+10	25	null	Google, Inc.
+10	26	null	null
+10	27	null	null
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	null
+10	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+10	33	null	Nanyang Technological University, Singapore
+10	34	null	null
+10	35	null	null
+10	36	null	null
+10	37	null	null
+10	38	null	null
+10	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+10	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+10	41	null	null
+11	12	null	University of Illinois at Urbana Champaign, Urbana, IL
+11	13	null	University of Illinois at Urbana-Champaign
+11	14	null	null
+11	15	null	University of Illinois at Urbana-Champaign
+11	16	null	University of Illinois
+11	17	null	OSU, Columbus, OH, USA
+11	18	null	null
+11	19	null	null
+11	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+11	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+11	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+11	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+11	24	null	University of Illinois, Urbana-Champaign
+11	25	null	Google, Inc.
+11	26	null	null
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+11	33	null	Nanyang Technological University, Singapore
+11	34	null	null
+11	35	null	null
+11	36	null	null
+11	37	null	null
+11	38	null	null
+11	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+11	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+11	41	null	null
+12	13	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois at Urbana-Champaign
+12	14	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	15	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois at Urbana-Champaign
+12	16	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois
+12	17	University of Illinois at Urbana Champaign, Urbana, IL	OSU, Columbus, OH, USA
+12	18	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	19	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	20	University of Illinois at Urbana Champaign, Urbana, IL	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+12	21	University of Illinois at Urbana Champaign, Urbana, IL	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+12	22	University of Illinois at Urbana Champaign, Urbana, IL	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+12	23	University of Illinois at Urbana Champaign, Urbana, IL	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+12	24	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois, Urbana-Champaign
+12	25	University of Illinois at Urbana Champaign, Urbana, IL	Google, Inc.
+12	26	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	27	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	28	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	29	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	30	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	31	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	32	University of Illinois at Urbana Champaign, Urbana, IL	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+12	33	University of Illinois at Urbana Champaign, Urbana, IL	Nanyang Technological University, Singapore
+12	34	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	35	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	36	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	37	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	38	University of Illinois at Urbana Champaign, Urbana, IL	null
+12	39	University of Illinois at Urbana Champaign, Urbana, IL	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+12	40	University of Illinois at Urbana Champaign, Urbana, IL	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+12	41	University of Illinois at Urbana Champaign, Urbana, IL	null
+13	14	University of Illinois at Urbana-Champaign	null
+13	15	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+13	16	University of Illinois at Urbana-Champaign	University of Illinois
+13	17	University of Illinois at Urbana-Champaign	OSU, Columbus, OH, USA
+13	18	University of Illinois at Urbana-Champaign	null
+13	19	University of Illinois at Urbana-Champaign	null
+13	20	University of Illinois at Urbana-Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+13	21	University of Illinois at Urbana-Champaign	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+13	22	University of Illinois at Urbana-Champaign	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+13	23	University of Illinois at Urbana-Champaign	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+13	24	University of Illinois at Urbana-Champaign	University of Illinois, Urbana-Champaign
+13	25	University of Illinois at Urbana-Champaign	Google, Inc.
+13	26	University of Illinois at Urbana-Champaign	null
+13	27	University of Illinois at Urbana-Champaign	null
+13	28	University of Illinois at Urbana-Champaign	null
+13	29	University of Illinois at Urbana-Champaign	null
+13	30	University of Illinois at Urbana-Champaign	null
+13	31	University of Illinois at Urbana-Champaign	null
+13	32	University of Illinois at Urbana-Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+13	33	University of Illinois at Urbana-Champaign	Nanyang Technological University, Singapore
+13	34	University of Illinois at Urbana-Champaign	null
+13	35	University of Illinois at Urbana-Champaign	null
+13	36	University of Illinois at Urbana-Champaign	null
+13	37	University of Illinois at Urbana-Champaign	null
+13	38	University of Illinois at Urbana-Champaign	null
+13	39	University of Illinois at Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+13	40	University of Illinois at Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+13	41	University of Illinois at Urbana-Champaign	null
+14	15	null	University of Illinois at Urbana-Champaign
+14	16	null	University of Illinois
+14	17	null	OSU, Columbus, OH, USA
+14	18	null	null
+14	19	null	null
+14	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+14	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+14	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+14	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+14	24	null	University of Illinois, Urbana-Champaign
+14	25	null	Google, Inc.
+14	26	null	null
+14	27	null	null
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+14	33	null	Nanyang Technological University, Singapore
+14	34	null	null
+14	35	null	null
+14	36	null	null
+14	37	null	null
+14	38	null	null
+14	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+14	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+14	41	null	null
+15	16	University of Illinois at Urbana-Champaign	University of Illinois
+15	17	University of Illinois at Urbana-Champaign	OSU, Columbus, OH, USA
+15	18	University of Illinois at Urbana-Champaign	null
+15	19	University of Illinois at Urbana-Champaign	null
+15	20	University of Illinois at Urbana-Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+15	21	University of Illinois at Urbana-Champaign	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+15	22	University of Illinois at Urbana-Champaign	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+15	23	University of Illinois at Urbana-Champaign	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+15	24	University of Illinois at Urbana-Champaign	University of Illinois, Urbana-Champaign
+15	25	University of Illinois at Urbana-Champaign	Google, Inc.
+15	26	University of Illinois at Urbana-Champaign	null
+15	27	University of Illinois at Urbana-Champaign	null
+15	28	University of Illinois at Urbana-Champaign	null
+15	29	University of Illinois at Urbana-Champaign	null
+15	30	University of Illinois at Urbana-Champaign	null
+15	31	University of Illinois at Urbana-Champaign	null
+15	32	University of Illinois at Urbana-Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+15	33	University of Illinois at Urbana-Champaign	Nanyang Technological University, Singapore
+15	34	University of Illinois at Urbana-Champaign	null
+15	35	University of Illinois at Urbana-Champaign	null
+15	36	University of Illinois at Urbana-Champaign	null
+15	37	University of Illinois at Urbana-Champaign	null
+15	38	University of Illinois at Urbana-Champaign	null
+15	39	University of Illinois at Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+15	40	University of Illinois at Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+15	41	University of Illinois at Urbana-Champaign	null
+16	17	University of Illinois	OSU, Columbus, OH, USA
+16	18	University of Illinois	null
+16	19	University of Illinois	null
+16	20	University of Illinois	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+16	21	University of Illinois	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+16	22	University of Illinois	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+16	23	University of Illinois	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+16	24	University of Illinois	University of Illinois, Urbana-Champaign
+16	25	University of Illinois	Google, Inc.
+16	26	University of Illinois	null
+16	27	University of Illinois	null
+16	28	University of Illinois	null
+16	29	University of Illinois	null
+16	30	University of Illinois	null
+16	31	University of Illinois	null
+16	32	University of Illinois	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+16	33	University of Illinois	Nanyang Technological University, Singapore
+16	34	University of Illinois	null
+16	35	University of Illinois	null
+16	36	University of Illinois	null
+16	37	University of Illinois	null
+16	38	University of Illinois	null
+16	39	University of Illinois	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+16	40	University of Illinois	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+16	41	University of Illinois	null
+17	18	OSU, Columbus, OH, USA	null
+17	19	OSU, Columbus, OH, USA	null
+17	20	OSU, Columbus, OH, USA	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+17	21	OSU, Columbus, OH, USA	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+17	22	OSU, Columbus, OH, USA	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+17	23	OSU, Columbus, OH, USA	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+17	24	OSU, Columbus, OH, USA	University of Illinois, Urbana-Champaign
+17	25	OSU, Columbus, OH, USA	Google, Inc.
+17	26	OSU, Columbus, OH, USA	null
+17	27	OSU, Columbus, OH, USA	null
+17	28	OSU, Columbus, OH, USA	null
+17	29	OSU, Columbus, OH, USA	null
+17	30	OSU, Columbus, OH, USA	null
+17	31	OSU, Columbus, OH, USA	null
+17	32	OSU, Columbus, OH, USA	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+17	33	OSU, Columbus, OH, USA	Nanyang Technological University, Singapore
+17	34	OSU, Columbus, OH, USA	null
+17	35	OSU, Columbus, OH, USA	null
+17	36	OSU, Columbus, OH, USA	null
+17	37	OSU, Columbus, OH, USA	null
+17	38	OSU, Columbus, OH, USA	null
+17	39	OSU, Columbus, OH, USA	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+17	40	OSU, Columbus, OH, USA	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+17	41	OSU, Columbus, OH, USA	null
+18	19	null	null
+18	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+18	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+18	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+18	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+18	24	null	University of Illinois, Urbana-Champaign
+18	25	null	Google, Inc.
+18	26	null	null
+18	27	null	null
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+18	33	null	Nanyang Technological University, Singapore
+18	34	null	null
+18	35	null	null
+18	36	null	null
+18	37	null	null
+18	38	null	null
+18	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+18	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+18	41	null	null
+19	20	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798
+19	21	null	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+19	22	null	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+19	23	null	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+19	24	null	University of Illinois, Urbana-Champaign
+19	25	null	Google, Inc.
+19	26	null	null
+19	27	null	null
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+19	33	null	Nanyang Technological University, Singapore
+19	34	null	null
+19	35	null	null
+19	36	null	null
+19	37	null	null
+19	38	null	null
+19	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+19	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+19	41	null	null
+20	21	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716
+20	22	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+20	23	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+20	24	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	University of Illinois, Urbana-Champaign
+20	25	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Google, Inc.
+20	26	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	27	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	28	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	29	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	30	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	31	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	32	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+20	33	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Nanyang Technological University, Singapore
+20	34	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	35	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	36	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	37	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	38	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+20	39	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+20	40	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+20	41	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	null
+21	22	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China
+21	23	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+21	24	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	University of Illinois, Urbana-Champaign
+21	25	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	Google, Inc.
+21	26	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	27	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	28	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	29	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	30	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	31	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	32	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+21	33	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	Nanyang Technological University, Singapore
+21	34	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	35	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	36	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	37	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	38	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+21	39	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+21	40	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+21	41	Electrical and Computer Engineering, University of Delaware, Newark, USA 19716	null
+22	23	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK
+22	24	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	University of Illinois, Urbana-Champaign
+22	25	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	Google, Inc.
+22	26	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	27	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	28	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	29	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	30	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	31	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	32	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+22	33	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	Nanyang Technological University, Singapore
+22	34	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	35	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	36	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	37	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	38	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+22	39	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+22	40	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+22	41	University of Jinan, School of Control Science and Engineering, 250022, Jinan, People&#x2019;s Republic of China	null
+23	24	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	University of Illinois, Urbana-Champaign
+23	25	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	Google, Inc.
+23	26	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	27	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	28	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	29	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	30	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	31	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	32	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+23	33	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	Nanyang Technological University, Singapore
+23	34	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	35	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	36	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	37	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	38	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+23	39	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+23	40	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+23	41	School of Informatics, University of Bradford, Richmond Road, Bradford, West Yorkshire BD7 1DP, UK	null
+24	25	University of Illinois, Urbana-Champaign	Google, Inc.
+24	26	University of Illinois, Urbana-Champaign	null
+24	27	University of Illinois, Urbana-Champaign	null
+24	28	University of Illinois, Urbana-Champaign	null
+24	29	University of Illinois, Urbana-Champaign	null
+24	30	University of Illinois, Urbana-Champaign	null
+24	31	University of Illinois, Urbana-Champaign	null
+24	32	University of Illinois, Urbana-Champaign	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+24	33	University of Illinois, Urbana-Champaign	Nanyang Technological University, Singapore
+24	34	University of Illinois, Urbana-Champaign	null
+24	35	University of Illinois, Urbana-Champaign	null
+24	36	University of Illinois, Urbana-Champaign	null
+24	37	University of Illinois, Urbana-Champaign	null
+24	38	University of Illinois, Urbana-Champaign	null
+24	39	University of Illinois, Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+24	40	University of Illinois, Urbana-Champaign	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+24	41	University of Illinois, Urbana-Champaign	null
+25	26	Google, Inc.	null
+25	27	Google, Inc.	null
+25	28	Google, Inc.	null
+25	29	Google, Inc.	null
+25	30	Google, Inc.	null
+25	31	Google, Inc.	null
+25	32	Google, Inc.	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+25	33	Google, Inc.	Nanyang Technological University, Singapore
+25	34	Google, Inc.	null
+25	35	Google, Inc.	null
+25	36	Google, Inc.	null
+25	37	Google, Inc.	null
+25	38	Google, Inc.	null
+25	39	Google, Inc.	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+25	40	Google, Inc.	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+25	41	Google, Inc.	null
+26	27	null	null
+26	28	null	null
+26	29	null	null
+26	30	null	null
+26	31	null	null
+26	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+26	33	null	Nanyang Technological University, Singapore
+26	34	null	null
+26	35	null	null
+26	36	null	null
+26	37	null	null
+26	38	null	null
+26	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+26	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+26	41	null	null
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+27	33	null	Nanyang Technological University, Singapore
+27	34	null	null
+27	35	null	null
+27	36	null	null
+27	37	null	null
+27	38	null	null
+27	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+27	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+27	41	null	null
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+28	33	null	Nanyang Technological University, Singapore
+28	34	null	null
+28	35	null	null
+28	36	null	null
+28	37	null	null
+28	38	null	null
+28	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+28	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+28	41	null	null
+29	30	null	null
+29	31	null	null
+29	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+29	33	null	Nanyang Technological University, Singapore
+29	34	null	null
+29	35	null	null
+29	36	null	null
+29	37	null	null
+29	38	null	null
+29	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+29	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+29	41	null	null
+30	31	null	null
+30	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+30	33	null	Nanyang Technological University, Singapore
+30	34	null	null
+30	35	null	null
+30	36	null	null
+30	37	null	null
+30	38	null	null
+30	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+30	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+30	41	null	null
+31	32	null	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+31	33	null	Nanyang Technological University, Singapore
+31	34	null	null
+31	35	null	null
+31	36	null	null
+31	37	null	null
+31	38	null	null
+31	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+31	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+31	41	null	null
+32	33	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	Nanyang Technological University, Singapore
+32	34	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	null
+32	35	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	null
+32	36	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	null
+32	37	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	null
+32	38	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	null
+32	39	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+32	40	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+32	41	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	null
+33	34	Nanyang Technological University, Singapore	null
+33	35	Nanyang Technological University, Singapore	null
+33	36	Nanyang Technological University, Singapore	null
+33	37	Nanyang Technological University, Singapore	null
+33	38	Nanyang Technological University, Singapore	null
+33	39	Nanyang Technological University, Singapore	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+33	40	Nanyang Technological University, Singapore	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+33	41	Nanyang Technological University, Singapore	null
+34	35	null	null
+34	36	null	null
+34	37	null	null
+34	38	null	null
+34	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+34	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+34	41	null	null
+35	36	null	null
+35	37	null	null
+35	38	null	null
+35	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+35	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+35	41	null	null
+36	37	null	null
+36	38	null	null
+36	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+36	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+36	41	null	null
+37	38	null	null
+37	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+37	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+37	41	null	null
+38	39	null	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD
+38	40	null	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+38	41	null	null
+39	40	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.
+39	41	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD	null
+40	41	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.	null

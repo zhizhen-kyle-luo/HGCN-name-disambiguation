@@ -1,0 +1,19 @@
+1	15	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA
+1	16	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University
+1	17	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University
+1	18	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University, Columbus, OH
+1	21	Cognitive Systems Engineering Laboratory, 1971 Neil Avenue, The Ohio State University, Columbus, Ohio	The Ohio State University
+15	16	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University
+15	17	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University
+15	18	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University, Columbus, OH
+15	21	The Ohio State University, Cognitive Systems Engineering Laboratory, 210 BE 1971 Neil Ave, 43210, Columbus, OH, USA	The Ohio State University
+16	17	The Ohio State University	The Ohio State University
+16	18	The Ohio State University	The Ohio State University, Columbus, OH
+16	21	The Ohio State University	The Ohio State University
+17	18	The Ohio State University	The Ohio State University, Columbus, OH
+17	21	The Ohio State University	The Ohio State University
+18	21	The Ohio State University, Columbus, OH	The Ohio State University
+22	29	Ohio State Univ., Columbus	Ohio State Univ., Columbus
+22	31	Ohio State Univ., Columbus	Institute for Ergonomics, Ohio State University
+24	25	University of Utah, Salt Lake City, Utah	University of Utah, Salt Lake City, Utah
+29	31	Ohio State Univ., Columbus	Institute for Ergonomics, Ohio State University

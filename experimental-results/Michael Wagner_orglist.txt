@@ -1,0 +1,13 @@
+10	18	University of Canberra	Sch. of Comput., Univ. of Canberra, ACT
+10	40	University of Canberra	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, LPO Box 340, Building 11, UC, Bruce, ACT 2601, Australia
+10	67	University of Canberra	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, Australia
+10	69	University of Canberra	School of Information Sciences and Engineering, University of Canberra, Australia
+10	70	University of Canberra	University of Canberra, Australia
+18	70	Sch. of Comput., Univ. of Canberra, ACT	University of Canberra, Australia
+19	59	Carnegie Mellon University	SCS/LTI, Carnegie Mellon Univ., Pittsburgh, PA, USA
+40	67	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, LPO Box 340, Building 11, UC, Bruce, ACT 2601, Australia	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, Australia
+40	69	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, LPO Box 340, Building 11, UC, Bruce, ACT 2601, Australia	School of Information Sciences and Engineering, University of Canberra, Australia
+40	70	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, LPO Box 340, Building 11, UC, Bruce, ACT 2601, Australia	University of Canberra, Australia
+67	69	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, Australia	School of Information Sciences and Engineering, University of Canberra, Australia
+67	70	Human Computer Communication Laboratory, School of Information Sciences and Engineering, University of Canberra, Australia	University of Canberra, Australia
+69	70	School of Information Sciences and Engineering, University of Canberra, Australia	University of Canberra, Australia

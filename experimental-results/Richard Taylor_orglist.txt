@@ -1,0 +1,56 @@
+1	4	CriticalBlue Ltd, Edinburgh, UK	Critical Blue Ltd., Edinburgh, UK
+7	8	University of California, Irvine, CA	University of California, Irvine, USA
+7	17	University of California, Irvine, CA	University of California, Irvine, USA
+7	24	University of California, Irvine, CA	University of California, Irvine
+7	25	University of California, Irvine, CA	University of California, Irvine
+7	26	University of California, Irvine, CA	University of California, Irvine
+7	27	University of California, Irvine, CA	University of California, Irvine
+7	28	University of California, Irvine, CA	University of California, Irvine
+7	29	University of California, Irvine, CA	University of California, Irvine
+7	30	University of California, Irvine, CA	University of California, Irvine
+7	31	University of California, Irvine, CA	University of California, Irvine
+8	17	University of California, Irvine, USA	University of California, Irvine, USA
+8	24	University of California, Irvine, USA	University of California, Irvine
+8	25	University of California, Irvine, USA	University of California, Irvine
+8	26	University of California, Irvine, USA	University of California, Irvine
+8	27	University of California, Irvine, USA	University of California, Irvine
+8	28	University of California, Irvine, USA	University of California, Irvine
+8	29	University of California, Irvine, USA	University of California, Irvine
+8	30	University of California, Irvine, USA	University of California, Irvine
+8	31	University of California, Irvine, USA	University of California, Irvine
+17	24	University of California, Irvine, USA	University of California, Irvine
+17	25	University of California, Irvine, USA	University of California, Irvine
+17	26	University of California, Irvine, USA	University of California, Irvine
+17	27	University of California, Irvine, USA	University of California, Irvine
+17	28	University of California, Irvine, USA	University of California, Irvine
+17	29	University of California, Irvine, USA	University of California, Irvine
+17	30	University of California, Irvine, USA	University of California, Irvine
+17	31	University of California, Irvine, USA	University of California, Irvine
+24	25	University of California, Irvine	University of California, Irvine
+24	26	University of California, Irvine	University of California, Irvine
+24	27	University of California, Irvine	University of California, Irvine
+24	28	University of California, Irvine	University of California, Irvine
+24	29	University of California, Irvine	University of California, Irvine
+24	30	University of California, Irvine	University of California, Irvine
+24	31	University of California, Irvine	University of California, Irvine
+25	26	University of California, Irvine	University of California, Irvine
+25	27	University of California, Irvine	University of California, Irvine
+25	28	University of California, Irvine	University of California, Irvine
+25	29	University of California, Irvine	University of California, Irvine
+25	30	University of California, Irvine	University of California, Irvine
+25	31	University of California, Irvine	University of California, Irvine
+26	27	University of California, Irvine	University of California, Irvine
+26	28	University of California, Irvine	University of California, Irvine
+26	29	University of California, Irvine	University of California, Irvine
+26	30	University of California, Irvine	University of California, Irvine
+26	31	University of California, Irvine	University of California, Irvine
+27	28	University of California, Irvine	University of California, Irvine
+27	29	University of California, Irvine	University of California, Irvine
+27	30	University of California, Irvine	University of California, Irvine
+27	31	University of California, Irvine	University of California, Irvine
+28	29	University of California, Irvine	University of California, Irvine
+28	30	University of California, Irvine	University of California, Irvine
+28	31	University of California, Irvine	University of California, Irvine
+29	30	University of California, Irvine	University of California, Irvine
+29	31	University of California, Irvine	University of California, Irvine
+30	31	University of California, Irvine	University of California, Irvine

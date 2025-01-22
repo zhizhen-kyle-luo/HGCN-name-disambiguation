@@ -1,0 +1,484 @@
+0	3DIM
+1	CIT
+2	ACCV (2)
+3	ACCV (1)
+4	ACII
+5	ACII
+6	ADMA
+7	ADMA
+8	AMFG
+9	AMFG
+10	AMFG
+11	AMFG
+12	Annual Simulation Symposium
+13	AVBPA
+14	AVBPA
+15	AVBPA
+16	AVBPA
+17	AVBPA
+18	AVBPA
+19	AVBPA
+20	BIBE
+21	COCOON
+22	COMPSAC
+23	ESA/VLSI
+24	CVPR (2)
+25	CVPR (1)
+26	CVPR
+27	CVPR
+28	CVPR
+29	CVPR
+30	CVPR
+31	CVPR
+32	Data Compression Conference
+33	DCC
+34	Data Compression Conference
+35	Data Compression Conference
+36	Data Compression Conference
+37	DCC
+38	DCC
+39	DEXA Workshop
+40	ECCV (4)
+41	ECCV Workshop on HCI
+42	FGR
+43	FGR
+44	FGR
+45	FG
+46	FGR
+47	FGR
+48	FGR
+49	FGR
+50	FG
+51	FG
+52	FG
+53	FG
+54	FG
+55	FG
+56	FG
+57	FG
+58	GCC (1)
+59	Gesture Workshop
+60	Gesture Workshop
+61	Gesture Workshop
+62	Gesture Workshop
+63	Gesture Workshop
+64	Gesture Workshop
+65	Gesture Workshop
+66	ICADL
+67	ICB
+68	ICB
+69	ICB
+70	ICBA
+71	ICC
+72	ICC
+73	ICC
+74	ICC
+75	International Conference on Computational Science
+76	International Conference on Computational Science
+77	ICCV
+78	ICCV
+79	ICCV
+80	ICDAR
+81	ICDAR
+82	ICDAR
+83	ICIAR (2)
+84	ICIAR (2)
+85	ICIC (1)
+86	ICICS
+87	ICIP (2)
+88	ICIP
+89	ICIP
+90	ICIP (3)
+91	ICIP (1)
+92	ICIP (1)
+93	ICIP
+94	ICIP
+95	ICIP (3)
+96	ICIP (2)
+97	ICIP
+98	ICIP
+99	ICIP
+100	ICIP
+101	ICIP (1)
+102	ICIP (2)
+103	ICIP (2)
+104	ICIP (2)
+105	ICIP (2)
+106	ICIP (2)
+107	ICIP (3)
+108	ICIP (3)
+109	ICIP
+110	ICIP
+111	ICIP
+112	ICIP
+113	ICIP
+114	ICIP (3)
+115	ICIP (3)
+116	ICIP (5)
+117	ICIP (5)
+118	ICIP (5)
+119	ICIP (5)
+120	ICIP (6)
+121	ICIP
+122	ICIP
+123	ICIP
+124	ICIP
+125	ICIP
+126	ICIP
+127	ICME
+128	ICME
+129	ICME
+130	ICME
+131	ICME
+132	ICME
+133	ICME
+134	ICME
+135	ICME
+136	ICME
+137	ICME
+138	ICME
+139	ICME
+140	ICME
+141	ICME
+142	ICME
+143	ICME
+144	ICME
+145	ICME
+146	ICME
+147	ICME
+148	ICME
+149	ICME
+150	ICME
+151	ICME
+152	ICME
+153	ICME
+154	ICME
+155	ICME
+156	ICME
+157	ICME
+158	ICME
+159	ICME
+160	ICMI
+161	ICMI
+162	ICMI
+163	ICMI
+164	ICMI
+165	ICMI
+166	ICMI
+167	ICMI
+168	ICMI
+169	ICMI
+170	ICMI
+171	ICMLC
+172	ICN (1)
+173	ICPP Workshops
+174	ICPR (3)
+175	ICPR (2)
+176	ICPR (2)
+177	ICPR (3)
+178	ICPR (4)
+179	ICPR (3)
+180	ICPR (4)
+181	ICPR (1)
+182	ICPR (2)
+183	ICPR (2)
+184	ICPR (2)
+185	ICPR (2)
+186	ICPR (3)
+187	ICPR (1)
+188	ICPR (3)
+189	ICPR (4)
+190	ICPR (2)
+191	ICPR (3)
+192	ICPR (1)
+193	ICPR (1)
+194	ICPR (1)
+195	ICPR (3)
+196	ICPR (4)
+197	ICPR (2)
+198	ICPR (1)
+199	ICPR
+200	ICPR
+201	ICPR
+202	ICPR
+203	ICPR
+204	ICPR
+205	ICPR
+206	ICPR
+207	ICPR
+208	ICSC
+209	ICWL
+210	IDEAL
+211	IDEAL
+212	IDEAL
+213	IJCNN
+214	IJCNN
+215	IJCNN
+216	IPPS/SPDP
+217	IPDPS
+218	ISCAS (2)
+219	ISCAS (3)
+220	ISCAS (1)
+221	ISCAS (2)
+222	ISCAS (4)
+223	ISCAS (3)
+224	ISCAS (2)
+225	ISCAS (2)
+226	ISCAS (2)
+227	ISCAS (3)
+228	ISCAS
+229	ISCAS
+230	ISCAS
+231	ISCAS
+232	ISCAS
+233	ISCAS
+234	ISCAS
+235	ISCAS
+236	ISCAS
+237	ISCAS
+238	ISCAS (4)
+239	ISCAS (4)
+240	ISCAS (4)
+241	ISCAS (4)
+242	ISCAS
+243	ISCAS
+244	ISM
+245	ISMIS
+246	ISMIS
+247	ISNN (2)
+248	ITCC (1)
+249	ITCC (2)
+250	IWBRS
+251	IWBRS
+252	IWSOC
+253	JCDL
+254	JCDL
+255	JCDL
+256	JCIS
+257	JCIS
+258	JCIS
+259	MDM/KDD
+260	ACM Multimedia
+261	ACM Multimedia
+262	ACM Multimedia
+263	ACM Multimedia
+264	ACM Multimedia
+265	ACM Multimedia
+266	ACM Multimedia
+267	ACM Multimedia
+268	ACM Multimedia
+269	ACM Multimedia
+270	ACM Multimedia
+271	MMM
+272	MMM
+273	MMM
+274	Multimedia Technology and Applications
+275	NPC
+276	NPC
+277	PCM (2)
+278	PCM (2)
+279	PCM (3)
+280	IEEE Pacific Rim Conference on Multimedia
+281	IEEE Pacific Rim Conference on Multimedia
+282	PCM (2)
+283	PCM
+284	PCM (2)
+285	PCM
+286	PCM
+287	PCM
+288	PCM (1)
+289	IEEE Pacific Rim Conference on Multimedia
+290	PCM (2)
+291	PCM
+292	PCM (2)
+293	PCM
+294	IEEE Pacific Rim Conference on Multimedia
+295	PCM (3)
+296	IEEE Pacific Rim Conference on Multimedia
+297	IEEE Pacific Rim Conference on Multimedia
+298	IEEE Pacific Rim Conference on Multimedia
+299	IEEE Pacific Rim Conference on Multimedia
+300	IEEE Pacific Rim Conference on Multimedia
+301	IEEE Pacific Rim Conference on Multimedia
+302	IEEE Pacific Rim Conference on Multimedia
+303	PCM (3)
+304	PCM (1)
+305	PCM (2)
+306	PCM (2)
+307	PCM (2)
+308	PCM
+309	PCM (2)
+310	PCM
+311	IEEE Pacific Rim Conference on Multimedia
+312	PCM (2)
+313	PCM
+314	IEEE Pacific Rim Conference on Multimedia
+315	PCM
+316	PCM
+317	PCM
+318	PCM
+319	PCM
+320	PCM
+321	PCM
+322	PCM
+323	PCM
+324	PCM
+325	PCM
+326	PCM
+327	IASTED PDCS
+328	PRICAI
+329	Pacific Symposium on Biocomputing
+330	Pacific Symposium on Biocomputing
+331	RSFDGrC
+332	SIGMETRICS
+333	SINOBIOMETRICS
+334	SINOBIOMETRICS
+335	SINOBIOMETRICS
+336	SINOBIOMETRICS
+337	SINOBIOMETRICS
+338	SNPD
+339	VCIP
+340	VISUAL
+341	WAA
+342	Web-Age Information Management
+343	Web-Age Information Management
+344	Web-Age Information Management
+345	Web Intelligence
+346	Web Intelligence
+347	Web Intelligence
+348	WSCG (Full Papers)
+349	IPCCC
+350	MCAM
+351	MCAM
+352	MCAM
+353	MCAM
+354	GLOBECOM
+355	GLOBECOM
+356	GLOBECOM
+357	WKDD
+358	ICARCV
+359	Bioinformatics
+360	Bioinformatics
+361	Bioinformatics
+362	Bioinformatics
+363	CoRR
+364	Computer Vision and Image Understanding
+365	Computer Vision and Image Understanding
+366	Computer Vision and Image Understanding
+367	Int. J. Found. Comput. Sci.
+368	Int. J. Image Graphics
+369	Int. J. Image Graphics
+370	Int. J. Image Graphics
+371	Neurocomputing
+372	IJPRAI
+373	IJPRAI
+374	I. J. Robotic Res.
+375	Image Vision Comput.
+376	Image Vision Comput.
+377	Image Vision Comput.
+378	Image Vision Comput.
+379	J. Comput. Sci. Technol.
+380	J. Comput. Sci. Technol.
+381	J. Comput. Sci. Technol.
+382	J. Comput. Sci. Technol.
+383	J. Comput. Sci. Technol.
+384	J. Comput. Sci. Technol.
+385	J. Comput. Sci. Technol.
+386	J. Comput. Sci. Technol.
+387	J. Comput. Sci. Technol.
+388	J. Intell. Inf. Syst.
+389	J. Intell. Inf. Syst.
+390	IEEE Journal on Selected Areas in Communications
+391	Multimedia Tools Appl.
+392	Pattern Recognition
+393	Pattern Recognition
+394	Pattern Recognition
+395	Pattern Recognition
+396	Pattern Recognition Letters
+397	Pattern Recognition Letters
+398	Pattern Recognition Letters
+399	Pattern Recognition Letters
+400	Robotics and Autonomous Systems
+401	Real-Time Imaging
+402	Real-Time Imaging
+403	Real-Time Imaging
+404	SIGKDD Explorations
+405	IEEE/ACM Trans. Comput. Biology Bioinform.
+406	IEEE Trans. Circuits Syst. Video Techn.
+407	IEEE Trans. Circuits Syst. Video Techn.
+408	IEEE Trans. Circuits Syst. Video Techn.
+409	IEEE Trans. Circuits Syst. Video Techn.
+410	IEEE Trans. Circuits Syst. Video Techn.
+411	IEEE Trans. Circuits Syst. Video Techn.
+412	IEEE Trans. Circuits Syst. Video Techn.
+413	IEEE Trans. Circuits Syst. Video Techn.
+414	IEEE Trans. Circuits Syst. Video Techn.
+415	IEEE Trans. Circuits Syst. Video Techn.
+416	IEEE Trans. Circuits Syst. Video Techn.
+417	IEEE Trans. Circuits Syst. Video Techn.
+418	IEEE Transactions on Image Processing
+419	IEEE Transactions on Information Theory
+420	IEEE Trans. Knowl. Data Eng.
+421	IEEE Transactions on Multimedia
+422	IEEE Transactions on Multimedia
+423	IEEE Transactions on Multimedia
+424	TOMCCAP
+425	IEEE/ACM Trans. Netw.
+426	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+427	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+428	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+429	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+430	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+431	J. Visual Communication and Image Representation
+432	J. Visual Communication and Image Representation
+433	J. Visual Communication and Image Representation
+434	Applied Mathematics and Computation
+435	Signal Processing
+436	Web Intelligence and Agent Systems
+437	Journal of Computer Research and Development
+438	Journal of Computer Research and Development
+439	DCC
+440	IEEE Trans. Circuits Syst. Video Techn.
+441	CLEF
+442	BMC Bioinformatics
+443	Graphical Models
+444	Pattern Recognition
+445	Proceedings of the 38th conference on Winter simulation
+446	Proceedings of the 38th conference on Winter simulation
+447	Journal of Computational Physics
+448	Journal of Computational Physics
+449	null
+450	null
+451	null
+452	null
+453	null
+454	null
+455	null
+456	null
+457	null
+458	Comput. Graph. Forum
+459	Pattern Anal. Appl.
+460	IEEE Transactions on Image Processing
+461	Signal Processing
+462	Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1
+463	Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1
+464	Proceedings of the 2003 International Conference on Multimedia and Expo - Volume 1
+465	Gesture-Based Human-Computer Interaction and Simulation: 7th International Gesture Workshop, GW 2007, Lisbon, Portugal, May 23-25, 2007, Revised Selected Papers
+466	ACM SIGGRAPH 97 Visual Proceedings: The art and interdisciplinary programs of SIGGRAPH '97
+467	ACM SIGGRAPH 97 Visual Proceedings: The art and interdisciplinary programs of SIGGRAPH '97
+468	Proceedings of the Third International Conference on Image and Graphics
+469	Proceedings of the Third International Conference on Image and Graphics
+470	Proceedings of the Third International Conference on Image and Graphics
+471	Proceedings of the Third International Conference on Image and Graphics
+472	Proceedings of the International Conference on Information Technology: Coding and Computing (ITCC'05) - Volume II - Volume 02
+473	Proceedings of the Third International Conference on Image and Graphics
+474	Proceedings of the Third International Conference on Image and Graphics
+475	Proceedings of the 2001 International Conference on Computer Networks and Mobile Computing (ICCNMC'01)
+476	Proceedings of the 2001 International Conference on Computer Networks and Mobile Computing (ICCNMC'01)
+477	Proceedings of the third international conference on Young computer scientists
+478	Proceedings of the third international conference on Young computer scientists
+479	Proceedings of the Third IEEE Pacific Rim Conference on Multimedia: Advances in Multimedia Information Processing
+480	Proceedings of the First Annual International Conference on Computing and Combinatorics
+481	Image Communication
+482	Proceedings of the 14th International Conference on Computer Communications and Networks
+483	Bioinformatics

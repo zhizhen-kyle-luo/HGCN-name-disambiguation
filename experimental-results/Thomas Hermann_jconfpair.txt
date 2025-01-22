@@ -1,0 +1,126 @@
+1	2	GI Jahrestagung	GI Jahrestagung (1)
+3	4	Gesture Workshop	Gesture Workshop
+3	5	Gesture Workshop	Gesture Workshop
+3	6	Gesture Workshop	Gesture Workshop
+3	7	Gesture Workshop	Gesture Workshop
+4	5	Gesture Workshop	Gesture Workshop
+4	6	Gesture Workshop	Gesture Workshop
+4	7	Gesture Workshop	Gesture Workshop
+5	6	Gesture Workshop	Gesture Workshop
+5	7	Gesture Workshop	Gesture Workshop
+6	7	Gesture Workshop	Gesture Workshop
+8	9	ICAD	ICAD
+8	10	ICAD	ICAD
+9	10	ICAD	ICAD
+11	12	IMA Conference on the Mathematics of Surfaces	IMA Conference on the Mathematics of Surfaces
+13	14	IV	IV
+13	15	IV	IV
+14	15	IV	IV
+17	38	HAID	HAID
+19	20	Computer-Aided Design	Computer-Aided Design
+19	21	Computer-Aided Design	Computer Aided Geometric Design
+19	22	Computer-Aided Design	Computer Aided Geometric Design
+19	23	Computer-Aided Design	Computer Aided Geometric Design
+19	24	Computer-Aided Design	Computer Aided Geometric Design
+19	25	Computer-Aided Design	Computer Aided Geometric Design
+19	26	Computer-Aided Design	Computer Aided Geometric Design
+19	27	Computer-Aided Design	Computer Aided Geometric Design
+19	28	Computer-Aided Design	Computer Aided Geometric Design
+19	29	Computer-Aided Design	Computer Aided Geometric Design
+19	30	Computer-Aided Design	Computer Aided Geometric Design
+19	39	Computer-Aided Design	Computer Aided Geometric Design
+19	40	Computer-Aided Design	Computer Aided Geometric Design
+19	41	Computer-Aided Design	Computer Aided Geometric Design
+20	21	Computer-Aided Design	Computer Aided Geometric Design
+20	22	Computer-Aided Design	Computer Aided Geometric Design
+20	23	Computer-Aided Design	Computer Aided Geometric Design
+20	24	Computer-Aided Design	Computer Aided Geometric Design
+20	25	Computer-Aided Design	Computer Aided Geometric Design
+20	26	Computer-Aided Design	Computer Aided Geometric Design
+20	27	Computer-Aided Design	Computer Aided Geometric Design
+20	28	Computer-Aided Design	Computer Aided Geometric Design
+20	29	Computer-Aided Design	Computer Aided Geometric Design
+20	30	Computer-Aided Design	Computer Aided Geometric Design
+20	39	Computer-Aided Design	Computer Aided Geometric Design
+20	40	Computer-Aided Design	Computer Aided Geometric Design
+20	41	Computer-Aided Design	Computer Aided Geometric Design
+21	22	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	23	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	24	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	25	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	26	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	27	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	28	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+21	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	23	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	24	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	25	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	26	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	27	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	28	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+22	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	24	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	25	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	26	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	27	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	28	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+23	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	25	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	26	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	27	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	28	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+24	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	26	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	27	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	28	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+25	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+26	27	Computer Aided Geometric Design	Computer Aided Geometric Design
+26	28	Computer Aided Geometric Design	Computer Aided Geometric Design
+26	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+26	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+26	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+26	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+26	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+27	28	Computer Aided Geometric Design	Computer Aided Geometric Design
+27	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+27	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+27	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+27	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+27	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+28	29	Computer Aided Geometric Design	Computer Aided Geometric Design
+28	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+28	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+28	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+28	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+29	30	Computer Aided Geometric Design	Computer Aided Geometric Design
+29	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+29	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+29	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+30	39	Computer Aided Geometric Design	Computer Aided Geometric Design
+30	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+30	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+35	36	TAP	TAP
+39	40	Computer Aided Geometric Design	Computer Aided Geometric Design
+39	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+40	41	Computer Aided Geometric Design	Computer Aided Geometric Design
+42	43	Proceedings of the 3rd international workshop on Haptic and Audio Interaction Design	Proceedings of the 4th International Conference on Haptic and Audio Interaction Design

@@ -1,0 +1,17 @@
+0	4	University of Pittsburgh	University of Pittsburgh
+0	8	University of Pittsburgh	University of Pittsburgh
+0	9	University of Pittsburgh	University of Pittsburgh
+0	12	University of Pittsburgh	Dept. of Comput. Sci., Univ. of Pittsburgh, Pittsburgh, PA, USA
+0	13	University of Pittsburgh	Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, U.S.A.
+1	5	Minist. of Educ. Sch. of Software, Tsinghua Univ., Beijing	Minist. of Educ. Sch. of Software, Tsinghua Univ., Beijing, China
+4	8	University of Pittsburgh	University of Pittsburgh
+4	9	University of Pittsburgh	University of Pittsburgh
+4	12	University of Pittsburgh	Dept. of Comput. Sci., Univ. of Pittsburgh, Pittsburgh, PA, USA
+4	13	University of Pittsburgh	Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, U.S.A.
+6	7	Dept. of Comput. Sci., Arkansas Univ., Little Rock, AR	Dept. of Comput. Sci., Arkansas Univ., Little Rock, AR
+8	9	University of Pittsburgh	University of Pittsburgh
+8	12	University of Pittsburgh	Dept. of Comput. Sci., Univ. of Pittsburgh, Pittsburgh, PA, USA
+8	13	University of Pittsburgh	Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, U.S.A.
+9	12	University of Pittsburgh	Dept. of Comput. Sci., Univ. of Pittsburgh, Pittsburgh, PA, USA
+9	13	University of Pittsburgh	Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, U.S.A.
+12	13	Dept. of Comput. Sci., Univ. of Pittsburgh, Pittsburgh, PA, USA	Department of Computer Science, University of Pittsburgh, Pittsburgh, PA 15260, U.S.A.

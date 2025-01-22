@@ -1,0 +1,30 @@
+1	20	Michigan State University, East Lansing, MI, USA	Michigan State University, East Lansing, MI
+1	49	Michigan State University, East Lansing, MI, USA	Michigan State University, East Lansing, Michigan
+1	62	Michigan State University, East Lansing, MI, USA	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+1	63	Michigan State University, East Lansing, MI, USA	Michigan State University, USA
+14	15	Department of Computing, The Hong Kong Polytechnic University, Hong Kong and School of Computer Science and Technology, Tianjin University, China	Department of Computing, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+16	19	Purdue Univ., West Lafayette	Dept. of Comput. Sci., Purdue Univ., West Lafayette, IN
+17	18	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dalhousie University, Canada
+17	22	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Dalhousie University, Canada
+17	28	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+17	44	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada. jiz@cs.dal.ca	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+18	22	Dalhousie University, Canada	Dalhousie University, Canada
+18	28	Dalhousie University, Canada	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+18	44	Dalhousie University, Canada	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+20	49	Michigan State University, East Lansing, MI	Michigan State University, East Lansing, Michigan
+20	62	Michigan State University, East Lansing, MI	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+20	63	Michigan State University, East Lansing, MI	Michigan State University, USA
+22	28	Dalhousie University, Canada	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS
+22	44	Dalhousie University, Canada	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+24	26	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY
+24	47	Dept. of Electr. Comput. & Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Rensselaer Polytech. Inst., Troy, NY
+26	47	Dept. of Electr. Comput. Syst. Eng., Rensselaer Polytech. Inst., Troy, NY	Rensselaer Polytech. Inst., Troy, NY
+28	44	Fac. of Comput. Sci., Dalhousie Univ., Halifax, NS	Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Canada
+36	37	University of Toronto, Toronto, Canada	University of Toronto, Toronto, Canada
+36	60	University of Toronto, Toronto, Canada	Department of Computer Science, University of Toronto
+37	60	University of Toronto, Toronto, Canada	Department of Computer Science, University of Toronto
+38	56	Dept. of Autom., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+49	62	Michigan State University, East Lansing, Michigan	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824
+49	63	Michigan State University, East Lansing, Michigan	Michigan State University, USA
+51	53	CSIRO Tasmanian ICT Centre, Hobart, Australia 7001	CSIRO ICT Center, Hobart, Australia
+62	63	Department of Computer Science and Engineering, Michigan State University, East Lansing, USA 48824	Michigan State University, USA

@@ -1,0 +1,217 @@
+0	AII
+1	AII
+2	ALT
+3	ALT
+4	ALT
+5	ALT
+6	ALT
+7	ALT
+8	ALT
+9	ALT
+10	ALT
+11	AII/ALT
+12	ALT
+13	ALT
+14	ALT
+15	ALT
+16	ALT
+17	ALT
+18	ALT
+19	ALT
+20	ALT
+21	ALT
+22	ALT
+23	ALT
+24	ALT
+25	ALT
+26	ALT
+27	ALT
+28	ALT
+29	AII/ALT
+30	ALT
+31	ALT
+32	ALT
+33	ALT
+34	ALT
+35	ALT
+36	CiE
+37	COLT
+38	COLT
+39	COLT
+40	COLT
+41	COLT
+42	COLT
+43	COLT
+44	COLT/EuroCOLT
+45	COLT
+46	COLT/EuroCOLT
+47	COLT
+48	COLT
+49	COLT
+50	COLT
+51	COLT
+52	COLT
+53	COLT
+54	COLT
+55	COLT
+56	COLT
+57	COLT
+58	COLT
+59	EuroCOLT
+60	EuroCOLT
+61	EuroCOLT
+62	EuroCOLT
+63	EuroCOLT
+64	FSTTCS
+65	FSTTCS
+66	FSTTCS
+67	FSTTCS
+68	GOSLER Final Report
+69	GOSLER Final Report
+70	ICALP
+71	ICGI
+72	ICPP
+73	LFCS
+74	LFCS
+75	Workshop on Parallel and Distributed Simulation
+76	PADS
+77	Parcella
+78	PRICAI
+79	STACS
+80	STACS
+81	TAMC
+82	TAMC
+83	TARK
+84	Winter Simulation Conference
+85	Winter Simulation Conference
+86	Winter Simulation Conference
+87	Winter Simulation Conference
+88	Winter Simulation Conference
+89	Winter Simulation Conference
+90	Winter Simulation Conference
+91	Winter Simulation Conference
+92	Winter Simulation Conference
+93	Winter Simulation Conference
+94	Winter Simulation Conference
+95	Winter Simulation Conference
+96	Winter Simulation Conference
+97	Winter Simulation Conference
+98	Winter Simulation Conference
+99	Winter Simulation Conference
+100	Winter Simulation Conference
+101	SCSC
+102	SCSC
+103	LATA
+104	Ann. Math. Artif. Intell.
+105	Ann. Pure Appl. Logic
+106	Ann. Pure Appl. Logic
+107	Ann. Pure Appl. Logic
+108	BMC Bioinformatics
+109	Commun. ACM
+110	Electronic Colloquium on Computational Complexity (ECCC)
+111	Electronic Colloquium on Computational Complexity (ECCC)
+112	Fundam. Inform.
+113	Fundam. Inform.
+114	Inf. Comput.
+115	Inf. Comput.
+116	Inf. Comput.
+117	Inf. Comput.
+118	Inf. Comput.
+119	Inf. Comput.
+120	Inf. Comput.
+121	Inf. Comput.
+122	Inf. Comput.
+123	Inf. Comput.
+124	Inf. Comput.
+125	Inf. Comput.
+126	Inf. Comput.
+127	Inf. Comput.
+128	Inf. Comput.
+129	Inf. Comput.
+130	Inf. Comput.
+131	Inf. Comput.
+132	Inf. Comput.
+133	Inf. Comput.
+134	Inf. Comput.
+135	Inf. Comput.
+136	Int. J. Found. Comput. Sci.
+137	Int. J. Found. Comput. Sci.
+138	Int. J. Found. Comput. Sci.
+139	Int. J. Found. Comput. Sci.
+140	Int. J. Found. Comput. Sci.
+141	Inf. Process. Lett.
+142	Inf. Process. Lett.
+143	Inf. Process. Lett.
+144	Inf. Process. Lett.
+145	J. Comb. Optim.
+146	J. Comput. Syst. Sci.
+147	J. Comput. Syst. Sci.
+148	J. Comput. Syst. Sci.
+149	J. Comput. Syst. Sci.
+150	J. Comput. Syst. Sci.
+151	J. Comput. Syst. Sci.
+152	J. Comput. Syst. Sci.
+153	J. Comput. Syst. Sci.
+154	J. Comput. Syst. Sci.
+155	J. Comput. Syst. Sci.
+156	J. Comput. Syst. Sci.
+157	J. Comput. Syst. Sci.
+158	J. Comput. Syst. Sci.
+159	J. Comput. Syst. Sci.
+160	J. Comput. Syst. Sci.
+161	J. Comput. Syst. Sci.
+162	J. Comput. Syst. Sci.
+163	J. Exp. Theor. Artif. Intell.
+164	J. Exp. Theor. Artif. Intell.
+165	J. Exp. Theor. Artif. Intell.
+166	J. Symb. Log.
+167	J. Symb. Log.
+168	J. Symb. Log.
+169	Theory Comput. Syst.
+170	Mathematical Systems Theory
+171	SIAM J. Comput.
+172	SIAM J. Comput.
+173	SIAM J. Comput.
+174	Theor. Comput. Sci.
+175	Theor. Comput. Sci.
+176	Theor. Comput. Sci.
+177	Theor. Comput. Sci.
+178	Theor. Comput. Sci.
+179	Theor. Comput. Sci.
+180	Theor. Comput. Sci.
+181	Theor. Comput. Sci.
+182	Theor. Comput. Sci.
+183	Theor. Comput. Sci.
+184	Theor. Comput. Sci.
+185	Theor. Comput. Sci.
+186	Theor. Comput. Sci.
+187	Theor. Comput. Sci.
+188	Theor. Comput. Sci.
+189	Theor. Comput. Sci.
+190	Theor. Comput. Sci.
+191	Theor. Comput. Sci.
+192	Theor. Comput. Sci.
+193	Theor. Comput. Sci.
+194	Theor. Comput. Sci.
+195	Theor. Comput. Sci.
+196	Theor. Comput. Sci.
+197	Theor. Comput. Sci.
+198	Theor. Comput. Sci.
+199	Theor. Comput. Sci.
+200	Theor. Comput. Sci.
+201	ALT
+202	ALT
+203	ALT
+204	CiE
+205	Inf. Process. Lett.
+206	Simulation
+207	Theory Comput. Syst.
+208	Management Science
+209	Information and Computation
+210	Physica D
+211	Management Science
+212	Management Science
+213	Proceedings of the 18th international conference on Algorithmic Learning Theory
+214	null
+215	Information and Computation
+216	Progress in simulation (vol. 2)

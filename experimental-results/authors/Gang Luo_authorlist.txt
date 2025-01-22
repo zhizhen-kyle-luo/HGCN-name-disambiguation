@@ -1,0 +1,239 @@
+2	6	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	6	Curt J. Ellmann	Curt J. Ellmann
+2	6	Michael Watzke	Michael Watzke
+2	7	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	8	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	8	Curt J. Ellmann	Curt J. Ellmann
+2	9	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	9	Curt J. Ellmann	Curt J. Ellmann
+2	9	Michael Watzke	Michael Watzke
+2	10	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	10	Curt J. Ellmann	Curt J. Ellmann
+2	10	Michael Watzke	Michael Watzke
+2	20	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	20	Curt J. Ellmann	Curt J. Ellmann
+2	21	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	21	Curt J. Ellmann	Curt J. Ellmann
+2	21	Michael Watzke	Michael Watzke
+2	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	24	Curt J. Ellmann	Curt J. Ellmann
+2	24	Michael Watzke	Michael Watzke
+2	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	29	Curt J. Ellmann	Curt J. Ellmann
+2	29	Michael Watzke	Michael Watzke
+2	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+2	34	Curt J. Ellmann	Curt J. Ellmann
+2	34	Michael Watzke	Michael Watzke
+3	4	Philip S. Yu	Philip S. Yu
+3	7	Philip S. Yu	Philip S. Yu
+3	12	Philip S. Yu	Philip S. Yu
+3	22	Philip S. Yu	Philip S. Yu
+3	25	Philip S. Yu	Philip S. Yu
+3	40	Philip S. Yu	Philip S. Yu
+3	45	Philip S. Yu	Philip S. Yu
+4	7	Philip S. Yu	Philip S. Yu
+4	12	Philip S. Yu	Philip S. Yu
+4	22	Philip S. Yu	Philip S. Yu
+4	25	Philip S. Yu	Philip S. Yu
+4	40	Philip S. Yu	Philip S. Yu
+4	45	Philip S. Yu	Philip S. Yu
+5	14	Chunqiang Tang	Chunqiang Tang
+5	19	Chunqiang Tang	Chunqiang Tang
+5	22	Chunqiang Tang	Chunqiang Tang
+5	26	Chunqiang Tang	Chunqiang Tang
+5	27	Chunqiang Tang	Chunqiang Tang
+5	27	Hao Yang	Hao Yang
+5	27	Xing Wei	Xing Wei
+5	38	Chunqiang Tang	Chunqiang Tang
+6	7	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	8	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	8	Curt J. Ellmann	Curt J. Ellmann
+6	9	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	9	Curt J. Ellmann	Curt J. Ellmann
+6	9	Michael Watzke	Michael Watzke
+6	10	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	10	Curt J. Ellmann	Curt J. Ellmann
+6	10	Michael Watzke	Michael Watzke
+6	20	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	20	Curt J. Ellmann	Curt J. Ellmann
+6	21	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	21	Curt J. Ellmann	Curt J. Ellmann
+6	21	Michael Watzke	Michael Watzke
+6	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	24	Curt J. Ellmann	Curt J. Ellmann
+6	24	Michael Watzke	Michael Watzke
+6	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	29	Curt J. Ellmann	Curt J. Ellmann
+6	29	Michael Watzke	Michael Watzke
+6	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+6	34	Curt J. Ellmann	Curt J. Ellmann
+6	34	Michael Watzke	Michael Watzke
+7	8	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	9	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	10	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	12	Philip S. Yu	Philip S. Yu
+7	20	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	21	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	22	Philip S. Yu	Philip S. Yu
+7	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	25	Philip S. Yu	Philip S. Yu
+7	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+7	40	Philip S. Yu	Philip S. Yu
+7	45	Philip S. Yu	Philip S. Yu
+8	9	Jeffrey F. Naughton	Jeffrey F. Naughton
+8	9	Curt J. Ellmann	Curt J. Ellmann
+8	10	Jeffrey F. Naughton	Jeffrey F. Naughton
+8	10	Curt J. Ellmann	Curt J. Ellmann
+8	20	Jeffrey F. Naughton	Jeffrey F. Naughton
+8	20	Curt J. Ellmann	Curt J. Ellmann
+8	21	Jeffrey F. Naughton	Jeffrey F. Naughton
+8	21	Curt J. Ellmann	Curt J. Ellmann
+8	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+8	24	Curt J. Ellmann	Curt J. Ellmann
+8	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+8	29	Curt J. Ellmann	Curt J. Ellmann
+8	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+8	34	Curt J. Ellmann	Curt J. Ellmann
+9	10	Jeffrey F. Naughton	Jeffrey F. Naughton
+9	10	Curt J. Ellmann	Curt J. Ellmann
+9	10	Michael Watzke	Michael Watzke
+9	20	Jeffrey F. Naughton	Jeffrey F. Naughton
+9	20	Curt J. Ellmann	Curt J. Ellmann
+9	21	Jeffrey F. Naughton	Jeffrey F. Naughton
+9	21	Curt J. Ellmann	Curt J. Ellmann
+9	21	Michael Watzke	Michael Watzke
+9	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+9	24	Curt J. Ellmann	Curt J. Ellmann
+9	24	Michael Watzke	Michael Watzke
+9	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+9	29	Curt J. Ellmann	Curt J. Ellmann
+9	29	Michael Watzke	Michael Watzke
+9	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+9	34	Curt J. Ellmann	Curt J. Ellmann
+9	34	Michael Watzke	Michael Watzke
+10	20	Jeffrey F. Naughton	Jeffrey F. Naughton
+10	20	Curt J. Ellmann	Curt J. Ellmann
+10	21	Jeffrey F. Naughton	Jeffrey F. Naughton
+10	21	Curt J. Ellmann	Curt J. Ellmann
+10	21	Michael Watzke	Michael Watzke
+10	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+10	24	Curt J. Ellmann	Curt J. Ellmann
+10	24	Michael Watzke	Michael Watzke
+10	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+10	29	Curt J. Ellmann	Curt J. Ellmann
+10	29	Michael Watzke	Michael Watzke
+10	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+10	34	Curt J. Ellmann	Curt J. Ellmann
+10	34	Michael Watzke	Michael Watzke
+12	22	Philip S. Yu	Philip S. Yu
+12	25	Kun-Lung Wu	Kun-Lung Wu
+12	25	Philip S. Yu	Philip S. Yu
+12	40	Kun-Lung Wu	Kun-Lung Wu
+12	40	Philip S. Yu	Philip S. Yu
+12	45	Kun-Lung Wu	Kun-Lung Wu
+12	45	Philip S. Yu	Philip S. Yu
+14	19	Chunqiang Tang	Chunqiang Tang
+14	22	Chunqiang Tang	Chunqiang Tang
+14	26	Chunqiang Tang	Chunqiang Tang
+14	27	Chunqiang Tang	Chunqiang Tang
+14	38	Chunqiang Tang	Chunqiang Tang
+15	41	Rong Ji	Rong Ji
+15	41	Liang Chen	Liang Chen
+15	41	Xianjun Zeng	Xianjun Zeng
+15	41	Junfeng Zhang	Junfeng Zhang
+15	41	Yingjie Feng	Yingjie Feng
+15	46	Rong Ji	Rong Ji
+15	46	Liang Chen	Liang Chen
+15	46	Xianjun Zeng	Xianjun Zeng
+15	46	Junfeng Zhang	Junfeng Zhang
+16	17	Gregor von Bochmann	Gregor von Bochmann
+16	17	Anindya Das	Anindya Das
+16	18	Gregor von Bochmann	Gregor von Bochmann
+16	18	Rachida Dssouli	Rachida Dssouli
+16	18	Abderrazak Ghedamsi	Abderrazak Ghedamsi
+16	32	Gregor von Bochmann	Gregor von Bochmann
+16	32	Anindya Das	Anindya Das
+16	35	Gregor von Bochmann	Gregor von Bochmann
+16	36	Gregor von Bochmann	Gregor von Bochmann
+16	36	Anindya Das	Anindya Das
+16	44	Gregor von Bochmann	Gregor v. Bochmann
+16	44	Rachida Dssouli	Rachida Dssouli
+16	44	Abderrazak Ghedamsi	Abderrazak Ghedamsi
+17	18	Gregor von Bochmann	Gregor von Bochmann
+17	32	Anindya Das	Anindya Das
+17	32	Gregor von Bochmann	Gregor von Bochmann
+17	35	Gregor von Bochmann	Gregor von Bochmann
+17	36	Anindya Das	Anindya Das
+17	36	Gregor von Bochmann	Gregor von Bochmann
+17	44	Gregor von Bochmann	Gregor v. Bochmann
+18	32	Gregor von Bochmann	Gregor von Bochmann
+18	35	Gregor von Bochmann	Gregor von Bochmann
+18	36	Gregor von Bochmann	Gregor von Bochmann
+18	44	Rachida Dssouli	Rachida Dssouli
+18	44	Gregor von Bochmann	Gregor v. Bochmann
+18	44	Pallapa Venkataram	Pallapa Venkataram
+18	44	Abderrazak Ghedamsi	Abderrazak Ghedamsi
+19	22	Chunqiang Tang	Chunqiang Tang
+19	26	Chunqiang Tang	Chunqiang Tang
+19	27	Chunqiang Tang	Chunqiang Tang
+19	38	Chunqiang Tang	Chunqiang Tang
+20	21	Curt J. Ellmann	Curt J. Ellmann
+20	21	Jeffrey F. Naughton	Jeffrey F. Naughton
+20	24	Curt J. Ellmann	Curt J. Ellmann
+20	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+20	29	Curt J. Ellmann	Curt J. Ellmann
+20	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+20	34	Curt J. Ellmann	Curt J. Ellmann
+20	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+21	24	Jeffrey F. Naughton	Jeffrey F. Naughton
+21	24	Curt J. Ellmann	Curt J. Ellmann
+21	24	Michael Watzke	Michael Watzke
+21	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+21	29	Curt J. Ellmann	Curt J. Ellmann
+21	29	Michael Watzke	Michael Watzke
+21	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+21	34	Curt J. Ellmann	Curt J. Ellmann
+21	34	Michael Watzke	Michael Watzke
+22	25	Philip S. Yu	Philip S. Yu
+22	26	Chunqiang Tang	Chunqiang Tang
+22	27	Chunqiang Tang	Chunqiang Tang
+22	38	Chunqiang Tang	Chunqiang Tang
+22	40	Philip S. Yu	Philip S. Yu
+22	45	Philip S. Yu	Philip S. Yu
+24	29	Jeffrey F. Naughton	Jeffrey F. Naughton
+24	29	Curt J. Ellmann	Curt J. Ellmann
+24	29	Michael Watzke	Michael Watzke
+24	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+24	34	Curt J. Ellmann	Curt J. Ellmann
+24	34	Michael Watzke	Michael Watzke
+25	40	Kun-Lung Wu	Kun-Lung Wu
+25	40	Philip S. Yu	Philip S. Yu
+25	45	Kun-Lung Wu	Kun-Lung Wu
+25	45	Philip S. Yu	Philip S. Yu
+25	45	Charu C. Aggarwal	Charu C. Aggarwal
+25	45	Eric Bouillet	Eric Bouillet
+25	45	Wei Fan	Wei Fan
+25	45	Xiaohui Gu	Xiaohui Gu
+25	45	Haixun Wang	Haixun Wang
+26	27	Chunqiang Tang	Chunqiang Tang
+26	38	Chunqiang Tang	Chunqiang Tang
+27	38	Chunqiang Tang	Chunqiang Tang
+29	34	Jeffrey F. Naughton	Jeffrey F. Naughton
+29	34	Curt J. Ellmann	Curt J. Ellmann
+29	34	Michael Watzke	Michael Watzke
+30	31	Xingming Sun	Xingming Sun
+32	35	Gregor von Bochmann	Gregor von Bochmann
+32	36	Gregor von Bochmann	Gregor von Bochmann
+32	36	Anindya Das	Anindya Das
+32	44	Gregor von Bochmann	Gregor v. Bochmann
+35	36	Gregor von Bochmann	Gregor von Bochmann
+35	44	Gregor von Bochmann	Gregor v. Bochmann
+36	44	Gregor von Bochmann	Gregor v. Bochmann
+37	39	Eli Peli	Eli Peli
+40	45	Kun-Lung Wu	Kun-Lung Wu
+40	45	Philip S. Yu	Philip S. Yu
+41	46	Rong Ji	Rong Ji
+41	46	Xianjun Zeng	Xianjun Zeng
+41	46	Liang Chen	Liang Chen
+41	46	Junfeng Zhang	Junfeng Zhang

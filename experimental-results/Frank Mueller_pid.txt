@@ -1,0 +1,101 @@
+25603	Supporting Ada 95 Passive Partitions in a Distributed Environment
+42344	Fast instruction cache analysis via static cache simulation
+77632	Encryption overhead in embedded systems and sensor network nodes: modeling and analysis
+86591	METRIC: Tracking Down Inefficiencies in the Memory Hierarchy via Binary Rewriting
+197551	Handling Irreducible Loops: Optimized Node Splitting vs. DJ-Graphs
+197594	Token-Based Read/Write-Locks for Distributed Mutual Exclusion
+296650	Scalable Distributed Concurrency Services for Hierarchical Locking
+345099	On-the-Fly Recovery of Job Input Data in Supercomputers
+360500	A hybrid hardware/software approach to efficiently determine cache coherence Bottlenecks
+360502	Detailed cache coherence characterization for OpenMP benchmarks
+360837	Scalable, fault tolerant membership for MPI tasks on HPC systems
+360886	Proactive fault tolerance for HPC with Xen virtualization
+360924	Preserving time in large-scale communication traces
+408733	A Log(n) Multi-Mode Locking Protocol for Distributed Systems
+410137	Fault-Tolerance for Token-based Synchronization Protocols
+410138	Timing Analysis: In Search of Multiple Paradigms
+410139	Prioritized Token-Based Mutual Exclusion for Distributed Systems
+410140	Adaptive DSM-Behavior via Speculative Data Distribution
+410142	Clix - A Hybrid Programming Environment for Distributed Objects and Distributed Shared Memory
+411139	Communication Characteristics of Large-Scale Scientific Applications for Contemporary Cluster Architectures
+412098	Scalable Compression and Replay of Communication Traces in Massively P arallel E nvironments
+412194	A Job Pause Service under LAM/MPI+BLCR for Transparent Fault Tolerance
+418485	Virtual Simple Architecture (VISA): Exceeding the Complexity Limit in Safe Real-Time Systems
+450958	A thread-aware debugger with an open interface
+466779	A brief overview of scalable distributed concurrency services for hierarchical locking
+483537	Compiler Support for Software-Based Cache Partitioning
+483645	Energy-conserving feedback EDF scheduling for embedded systems with real-time constraints
+483695	Compositional static instruction cache simulation
+483703	DVSleak: combining leakage reduction and voltage scaling in feedback EDF scheduling
+483743	Generalizing parametric timing analysis
+483787	Parametric Timing Analysis
+483800	Feedback EDF scheduling exploiting hardware-assisted asynchronous dynamic voltage scaling
+522561	Penumbra: an Eclipse plugin for introductory programming
+536343	On the Design and Implementation of DSM-Threads
+538001	Real-Time Debugging by Minimal Hardware Simulation
+542755	Avoiding Unconditional Jumps by Code Replication
+542756	Avoiding Conditional Branches by Code Replication
+548411	Hardware profile-guided automatic page placement for ccNUMA systems
+548602	A tunable holistic resiliency approach for high-performance computing systems
+563956	Timing Analysis for Sensor Network Nodes of the Atmega Processor Family
+563976	A Comparison of Static Analysis and Evolutionary Testing for the Verification of Timing Constraints
+564061	Bounding Worst-Case Data Cache Behavior by Analytically Deriving Cache Reference Patterns
+564062	Bounding Preemption Delay within Data Cache Reference Patterns for Real-Time Tasks
+564139	Timing Analysis for Data Caches and Set-Associative Caches
+564158	Improving WCET by Optimizing Worst-Case Paths
+564159	Tuning the WCET of Embedded Applications
+564164	Feedback EDF Scheduling Exploiting Dynamic Voltage Scaling
+564178	Bounding Worst-Case Response Time for Tasks with Non-Preemptive Regions
+564199	Hybrid Timing Analysis of Modern Processor Pipelines via Hardware/Software Interactions
+564993	Enforcing Safety of Real-Time Schedules on Contemporary Processors Using a Virtual Simple Architecture (VISA)
+565015	Bounding Worst-Case Instruction Cache Performance
+565366	ParaScale: Exploiting Parametric Timing Analysis for Real-Time Schedulers and Dynamic Voltage Scaling
+565380	MiThOS - A Real-Time Micro-Kernel Threads Operating System
+565473	FAST: Frequency-Aware Static Timing Analysis
+565611	Tightening the Bounds on Feasible Preemption Points
+565628	WCET Code Positioning
+572816	Efficient On-the-fly Analysis of Program Behavior and Static Cache Simulation
+575261	Identifying and Exploiting Spatial Regularity in Data Memory References
+575624	Cross-Platform Performance Prediction of Parallel Applications Using Partial Execution
+575649	Poster reception - Scalable compression and replay of communication traces in massively parallel environments
+575965	Optimizing center performance through coordinated data staging, scheduling and recovery
+576117	Proactive process-level live migration in HPC environments
+587996	Implementing Ada 9X Features Using POSIX Threads: Design Issues
+587997	Features of the GNU Ada Runtime Library
+588055	The Rendezvous is Dead - Long Live the Protected Object
+636203	A Library Implementation of POSIX Threads under UNIX
+652994	2006 WCET Preface - Proceedings of the 6th Intl. Workshop on Worst-Case Execution Time Analysis (WCET'06)
+652995	2006 WCET Abstracts Collection - 6th Intl. Workshop on Worst-Case Execution Time (WCET) Analysis
+709580	Analyzing and modeling encryption overhead for sensor network nodes
+765161	Analysis assistant for single-molecule force spectroscopy data on membrane proteins - MPTV
+980242	LegoSim: simulation of embedded kernels over Pthreads
+988641	Scalable hierarchical locking for distributed systems
+989921	Communication characteristics of large-scale scientific applications for contemporary cluster architectures
+1053298	A Comparison of Static Analysis and Evolutionary Testing for the Verification of Timing Constraints
+1053302	Timing Analysis for Data and Wrap-Around Fill Caches
+1053323	Feedback EDF Scheduling of Real-Time Tasks Exploiting Dynamic Voltage Scaling
+1053324	Improving WCET by applying worst-case path optimizations
+1066870	MOLAR: adaptive runtime support for high-end computing operating and runtime systems
+1067876	The 3rd ACM SIGPLAN Workshop on Languages, Compilers, and Tools for Real-Time Systems (Workshop Report)
+1077178	Improving WCET by applying a WC code-positioning optimization
+1077185	Analysis of cache-coherence bottlenecks with hybrid hardware/software techniques
+1079604	Bounding Pipeline and Instruction Cache Performance
+1098625	FAST: Frequency-aware static timing analysis
+1098649	Introduction to the special issue
+1098706	Exploiting synchronous and asynchronous DVS for feedback EDF scheduling on an embedded platform
+1098727	The worst-case execution-time problem - overview of methods and survey of tools
+1123952	Handling irreducible loops: optimized node splitting versus DJ-graphs
+1124057	METRIC: Memory tracing via dynamic binary rewriting to identify cache inefficiencies
+1126241	Source-Code-Correlated Cache Coherence Characterization of OpenMP Benchmarks
+1212535	Push-assisted migration of real-time tasks in multi-core processors
+1225438	Improving the availability of supercomputer job input data using temporal replication
+1238780	CheckerCore: enhancing an FPGA soft core to capture worst-case execution times
+1321809	Bounding Worst-Case Response Times of Tasks under PIP.
+1321957	Merging State and Preserving Timing Anomalies in Pipelines of High-End Processors.
+1339572	ScalaTrace: Scalable compression and replay of communication traces for high-performance computing.
+1384967	PFetch: software prefetching exploiting temporal predictability of memory access streams
+1396886	The rendezvous is dead&mdash;long live the protected object
+1429697	Analytically bounding data cache behavior for real-time systems
+1430763	Exploiting hardware/software interactions for analyzing embedded systems
+1578715	Analysis assistant for single-molecule force spectroscopy data on membrane proteins—MPTV
+1724319	Static cache simulation and its applications

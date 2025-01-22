@@ -1,0 +1,890 @@
+0	1	Auburn University, Auburn, AL	Auburn University, Auburn, AL
+8	22	HKUST, Kowloon, HKSAR, P. R. China	Dept of Computer Science & Engineering, HKUST, HKSAR, P.R.China
+9	10	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+9	11	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+9	20	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	25	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	26	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+9	28	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	30	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+9	42	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+9	43	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+9	49	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+9	50	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+9	51	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+9	53	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+9	68	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+9	69	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hongkong, China
+9	70	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+9	71	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	82	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	86	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	91	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+9	94	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+9	95	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+9	99	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+9	104	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+9	132	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+9	143	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+9	145	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+9	148	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	149	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+9	151	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+9	154	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+9	155	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+9	156	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+9	157	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+9	160	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+9	166	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+9	167	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+9	168	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+9	169	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+9	190	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+9	191	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+10	11	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+10	20	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	25	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	26	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+10	28	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	30	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+10	42	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+10	43	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+10	49	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+10	50	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+10	51	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+10	53	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+10	68	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+10	69	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hongkong, China
+10	70	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+10	71	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	82	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	86	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	91	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+10	94	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+10	95	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+10	99	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+10	104	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+10	132	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+10	143	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+10	145	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+10	148	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	149	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+10	151	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+10	154	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+10	155	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+10	156	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+10	157	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+10	160	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+10	166	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+10	167	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+10	168	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+10	169	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+10	190	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+10	191	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+11	20	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	25	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	26	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+11	28	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	30	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+11	42	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+11	43	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+11	49	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+11	50	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+11	51	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+11	53	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+11	68	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+11	69	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hongkong, China
+11	70	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+11	71	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	82	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	86	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	91	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+11	94	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+11	95	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+11	99	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+11	104	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+11	132	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+11	143	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+11	145	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+11	148	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	149	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+11	151	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+11	154	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+11	155	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+11	156	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+11	157	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+11	160	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+11	166	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+11	167	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+11	168	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+11	169	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+11	190	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+11	191	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+20	25	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+20	26	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+20	28	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+20	30	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+20	42	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+20	43	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+20	49	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+20	50	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+20	51	Hong Kong University of Science and Technology, Hong Kong, China	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+20	53	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+20	68	Hong Kong University of Science and Technology, Hong Kong, China	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+20	69	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hongkong, China
+20	70	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+20	71	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+20	82	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+20	86	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+20	91	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+20	94	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+20	95	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+20	99	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+20	104	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+20	132	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+20	143	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+20	145	Hong Kong University of Science and Technology, Hong Kong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+20	148	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+20	149	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+20	151	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+20	154	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+20	155	Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+20	156	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+20	157	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+20	160	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+20	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+20	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+20	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+20	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+20	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+20	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+25	26	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+25	28	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+25	30	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+25	42	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+25	43	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+25	49	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+25	50	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+25	51	Hong Kong University of Science and Technology, Hong Kong, China	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+25	53	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+25	68	Hong Kong University of Science and Technology, Hong Kong, China	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+25	69	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hongkong, China
+25	70	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+25	71	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+25	82	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+25	86	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+25	91	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+25	94	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+25	95	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+25	99	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+25	104	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+25	132	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+25	143	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+25	145	Hong Kong University of Science and Technology, Hong Kong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+25	148	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+25	149	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+25	151	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+25	154	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+25	155	Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+25	156	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+25	157	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+25	160	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+25	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+25	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+25	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+25	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+25	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+25	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+26	28	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+26	30	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+26	42	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology
+26	43	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology
+26	49	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+26	50	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+26	51	Hong Kong University of Science and Technology, HKSAR, P.R.China	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+26	53	Hong Kong University of Science and Technology, HKSAR, P.R.China	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+26	68	Hong Kong University of Science and Technology, HKSAR, P.R.China	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+26	69	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hongkong, China
+26	70	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+26	71	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+26	82	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+26	86	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+26	91	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+26	94	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+26	95	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+26	99	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology
+26	104	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+26	132	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+26	143	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+26	145	Hong Kong University of Science and Technology, HKSAR, P.R.China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+26	148	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+26	149	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology
+26	151	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+26	154	Hong Kong University of Science and Technology, HKSAR, P.R.China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+26	155	Hong Kong University of Science and Technology, HKSAR, P.R.China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+26	156	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+26	157	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+26	160	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+26	166	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+26	167	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+26	168	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+26	169	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+26	190	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology,
+26	191	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology,
+27	29	Hong Kong Univ. of Sci. & Tech., Hong Kong, China	Hong Kong Univ. of Sci. & Tech.
+28	30	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+28	42	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+28	43	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+28	49	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+28	50	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+28	51	Hong Kong University of Science and Technology, Hong Kong, China	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+28	53	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+28	68	Hong Kong University of Science and Technology, Hong Kong, China	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+28	69	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hongkong, China
+28	70	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+28	71	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+28	82	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+28	86	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+28	91	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+28	94	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+28	95	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+28	99	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+28	104	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+28	132	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+28	143	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+28	145	Hong Kong University of Science and Technology, Hong Kong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+28	148	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+28	149	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+28	151	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+28	154	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+28	155	Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+28	156	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+28	157	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+28	160	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+28	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+28	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+28	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+28	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+28	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+28	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+30	42	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology
+30	43	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology
+30	49	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+30	50	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+30	51	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+30	53	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+30	68	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+30	69	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hongkong, China
+30	70	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+30	71	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+30	82	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+30	86	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+30	91	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+30	94	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+30	95	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+30	99	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology
+30	104	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+30	132	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+30	143	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+30	145	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+30	148	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+30	149	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology
+30	151	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+30	154	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+30	155	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+30	156	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+30	157	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+30	160	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+30	166	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+30	167	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+30	168	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+30	169	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+30	190	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology,
+30	191	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology,
+42	43	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+42	49	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+42	50	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+42	51	Hong Kong University of Science and Technology	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+42	53	Hong Kong University of Science and Technology	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+42	68	Hong Kong University of Science and Technology	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+42	69	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hongkong, China
+42	70	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+42	71	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+42	82	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+42	86	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+42	91	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+42	94	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+42	95	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+42	99	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+42	104	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+42	132	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, HKSAR, P.R.China
+42	143	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+42	145	Hong Kong University of Science and Technology	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+42	148	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+42	149	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+42	151	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+42	154	Hong Kong University of Science and Technology	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+42	155	Hong Kong University of Science and Technology	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+42	156	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+42	157	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+42	160	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+42	166	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+42	167	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+42	168	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+42	169	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+42	190	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+42	191	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+43	49	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology. leichen@cs.ust.hk
+43	50	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+43	51	Hong Kong University of Science and Technology	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+43	53	Hong Kong University of Science and Technology	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+43	68	Hong Kong University of Science and Technology	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+43	69	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hongkong, China
+43	70	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+43	71	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+43	82	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+43	86	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+43	91	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+43	94	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+43	95	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+43	99	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+43	104	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+43	132	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, HKSAR, P.R.China
+43	143	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+43	145	Hong Kong University of Science and Technology	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+43	148	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+43	149	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+43	151	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+43	154	Hong Kong University of Science and Technology	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+43	155	Hong Kong University of Science and Technology	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+43	156	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+43	157	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+43	160	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+43	166	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+43	167	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+43	168	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+43	169	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+43	190	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+43	191	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+45	52	University of Wisconsin	Computer Sciences Department, University of Wisconsin - Madison, 1210 West Dayton Street, Madison, WI, 53705, USA. chenl@cs.wisc.edu
+45	181	University of Wisconsin	Computer Sciences Department, University of Wisconsin-Madison, Madison, WI 53706, USA
+49	50	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk
+49	51	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+49	53	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+49	68	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+49	69	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hongkong, China
+49	70	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+49	71	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+49	82	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+49	86	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+49	91	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+49	94	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+49	95	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+49	99	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology
+49	104	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+49	132	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, HKSAR, P.R.China
+49	143	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+49	145	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+49	148	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+49	149	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology
+49	151	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+49	156	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+49	157	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+49	160	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+49	166	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+49	167	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+49	168	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+49	169	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+49	190	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology,
+49	191	Hong Kong University of Science and Technology. leichen@cs.ust.hk	Hong Kong University of Science and Technology,
+50	51	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk
+50	53	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+50	68	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+50	69	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hongkong, China
+50	70	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+50	71	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+50	82	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+50	86	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+50	91	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+50	94	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+50	95	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+50	99	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+50	104	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+50	132	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, HKSAR, P.R.China
+50	143	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+50	145	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+50	148	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+50	149	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+50	151	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+50	154	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+50	155	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+50	156	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+50	157	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+50	160	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+50	166	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+50	167	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+50	168	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+50	169	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+50	190	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+50	191	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+51	53	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk
+51	68	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+51	69	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hongkong, China
+51	70	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+51	71	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+51	82	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+51	86	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+51	91	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+51	94	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+51	95	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+51	99	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+51	104	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+51	132	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, HKSAR, P.R.China
+51	143	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+51	145	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+51	148	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+51	149	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+51	151	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+51	154	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+51	155	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+51	156	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+51	157	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+51	160	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+51	166	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+51	167	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+51	168	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+51	169	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+51	190	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+51	191	Dept. of Computer Science and Engineering, Hong Kong University of Sci. and Tech., Clear Water Bay, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+52	181	Computer Sciences Department, University of Wisconsin - Madison, 1210 West Dayton Street, Madison, WI, 53705, USA. chenl@cs.wisc.edu	Computer Sciences Department, University of Wisconsin-Madison, Madison, WI 53706, USA
+53	68	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk
+53	69	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hongkong, China
+53	70	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+53	71	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+53	82	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+53	86	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+53	91	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+53	94	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+53	95	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+53	99	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+53	104	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+53	132	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, HKSAR, P.R.China
+53	143	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+53	145	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+53	148	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+53	149	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+53	151	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+53	154	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+53	155	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+53	156	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+53	157	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+53	160	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+53	166	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+53	167	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+53	168	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+53	169	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+53	190	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+53	191	Department of Computer Science and Engineering, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+65	66	Purdue University, West Lafayette, IN	Purdue University
+65	67	Purdue University, West Lafayette, IN	Purdue University, West Lafayette, IN
+65	159	Purdue University, West Lafayette, IN	Purdue University, West Lafayette, IN, USA
+66	67	Purdue University	Purdue University, West Lafayette, IN
+66	159	Purdue University	Purdue University, West Lafayette, IN, USA
+67	159	Purdue University, West Lafayette, IN	Purdue University, West Lafayette, IN, USA
+68	69	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hongkong, China
+68	70	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+68	71	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+68	82	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+68	86	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+68	91	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+68	94	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+68	95	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+68	99	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+68	104	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+68	132	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, HKSAR, P.R.China
+68	143	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+68	145	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+68	148	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+68	149	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology
+68	151	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+68	154	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+68	155	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+68	156	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+68	157	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+68	160	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong, China
+68	166	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+68	167	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+68	168	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+68	169	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology, Hong Kong
+68	190	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+68	191	Department of CSE, Hong Kong University of Science and Technology, Hong Kong. leichen@cse.ust.hk	Hong Kong University of Science and Technology,
+69	70	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong
+69	71	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, China
+69	82	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, China
+69	86	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, China
+69	91	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong
+69	94	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+69	95	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+69	99	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology
+69	104	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+69	132	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+69	143	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong
+69	145	Hong Kong University of Science and Technology, Hongkong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+69	148	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, China
+69	149	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology
+69	151	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+69	154	Hong Kong University of Science and Technology, Hongkong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+69	155	Hong Kong University of Science and Technology, Hongkong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+69	156	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+69	157	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+69	160	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong, China
+69	166	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong
+69	167	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong
+69	168	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong
+69	169	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology, Hong Kong
+69	190	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology,
+69	191	Hong Kong University of Science and Technology, Hongkong, China	Hong Kong University of Science and Technology,
+70	71	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+70	82	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+70	86	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+70	91	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+70	94	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+70	95	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+70	99	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology
+70	104	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+70	132	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+70	143	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+70	145	Hong Kong University of Science and Technology, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+70	148	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+70	149	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology
+70	151	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+70	154	Hong Kong University of Science and Technology, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+70	155	Hong Kong University of Science and Technology, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+70	156	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+70	157	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+70	160	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+70	166	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+70	167	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+70	168	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+70	169	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+70	190	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+70	191	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+71	82	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+71	86	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+71	91	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+71	94	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+71	95	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+71	99	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+71	104	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+71	132	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+71	143	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+71	145	Hong Kong University of Science and Technology, Hong Kong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+71	148	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+71	149	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+71	151	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+71	154	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+71	155	Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+71	156	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+71	157	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+71	160	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+71	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+71	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+71	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+71	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+71	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+71	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+82	86	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+82	91	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+82	94	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+82	95	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+82	99	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+82	104	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+82	132	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+82	143	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+82	145	Hong Kong University of Science and Technology, Hong Kong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+82	148	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+82	149	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+82	151	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+82	154	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+82	155	Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+82	156	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+82	157	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+82	160	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+82	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+82	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+82	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+82	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+82	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+82	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+86	91	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+86	94	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+86	95	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+86	99	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+86	104	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+86	132	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, HKSAR, P.R.China
+86	143	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+86	145	Hong Kong University of Science and Technology, Hong Kong, China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+86	148	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+86	149	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+86	151	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+86	154	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+86	155	Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+86	156	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+86	157	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+86	160	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+86	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+86	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+86	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+86	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+86	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+86	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+91	94	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+91	95	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+91	99	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology
+91	104	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+91	132	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+91	143	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+91	145	Hong Kong University of Science and Technology, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+91	148	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+91	149	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology
+91	151	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+91	154	Hong Kong University of Science and Technology, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+91	155	Hong Kong University of Science and Technology, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+91	156	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+91	157	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+91	160	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+91	166	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+91	167	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+91	168	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+91	169	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+91	190	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+91	191	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+94	95	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Kowloon, Hong Kong
+94	99	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology
+94	104	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+94	132	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+94	143	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+94	145	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+94	148	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+94	149	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology
+94	151	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+94	154	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+94	155	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+94	156	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+94	157	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+94	160	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+94	166	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+94	167	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+94	168	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+94	169	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+94	190	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology,
+94	191	Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong	Hong Kong University of Science and Technology,
+95	99	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology
+95	104	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+95	132	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+95	143	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+95	145	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+95	148	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+95	149	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology
+95	151	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+95	154	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+95	155	Hong Kong University of Science and Technology, Kowloon, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+95	156	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+95	157	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+95	160	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+95	166	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+95	167	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+95	168	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+95	169	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+95	190	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology,
+95	191	Hong Kong University of Science and Technology, Kowloon, Hong Kong	Hong Kong University of Science and Technology,
+99	104	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+99	132	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, HKSAR, P.R.China
+99	143	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+99	145	Hong Kong University of Science and Technology	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+99	148	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+99	149	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology
+99	151	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+99	154	Hong Kong University of Science and Technology	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+99	155	Hong Kong University of Science and Technology	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+99	156	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+99	157	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+99	160	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+99	166	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+99	167	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+99	168	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+99	169	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+99	190	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+99	191	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+104	132	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, HKSAR, P.R.China
+104	143	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+104	145	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+104	148	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+104	149	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology
+104	151	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+104	154	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+104	155	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+104	156	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+104	157	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+104	160	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+104	166	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+104	167	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+104	168	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+104	169	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+104	190	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+104	191	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+111	120	Network Systems and Service Lab., Department of Computer Science, National University of Singapore, Kent Ridge, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+111	121	Network Systems and Service Lab., Department of Computer Science, National University of Singapore, Kent Ridge, Singapore	Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore
+111	130	Network Systems and Service Lab., Department of Computer Science, National University of Singapore, Kent Ridge, Singapore	Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore, Singapore
+115	165	Department of Mathematics, East China Normal University, Shanghai 200062, PR China	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, PR China
+115	178	Department of Mathematics, East China Normal University, Shanghai 200062, PR China	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China
+115	179	Department of Mathematics, East China Normal University, Shanghai 200062, PR China	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China
+120	121	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore
+120	130	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore, Singapore
+120	182	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Electrical and Electronic Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798, Singapore and School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+120	185	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Electrical and Electronic Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798, Singapore and School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+121	130	Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore	Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore, Singapore
+130	163	Network Systems and Service Lab, Department of Computer Science, National University of Singapore, Singapore, Singapore	Social Robotics Lab, Interactive and Digital Media Institute, Department of Electrical and Computer Engineering, National University of Singapore 117576
+132	143	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+132	145	Hong Kong University of Science and Technology, HKSAR, P.R.China	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+132	148	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+132	149	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology
+132	151	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+132	154	Hong Kong University of Science and Technology, HKSAR, P.R.China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+132	155	Hong Kong University of Science and Technology, HKSAR, P.R.China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+132	156	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+132	157	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+132	160	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong, China
+132	166	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+132	167	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+132	168	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+132	169	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology, Hong Kong
+132	190	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology,
+132	191	Hong Kong University of Science and Technology, HKSAR, P.R.China	Hong Kong University of Science and Technology,
+133	136	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA
+143	145	Hong Kong University of Science and Technology, Hong Kong	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China
+143	148	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+143	149	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology
+143	151	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+143	154	Hong Kong University of Science and Technology, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+143	155	Hong Kong University of Science and Technology, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+143	156	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+143	157	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+143	160	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+143	166	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+143	167	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+143	168	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+143	169	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+143	190	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+143	191	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+145	148	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+145	149	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+145	151	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+145	154	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+145	155	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+145	156	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+145	157	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+145	160	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+145	166	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+145	167	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+145	168	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+145	169	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+145	190	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+145	191	Computer Science Department, Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+148	149	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology
+148	151	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+148	154	Hong Kong University of Science and Technology, Hong Kong, China	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+148	155	Hong Kong University of Science and Technology, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+148	156	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+148	157	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+148	160	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+148	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+148	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+148	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+148	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+148	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+148	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+149	151	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+149	154	Hong Kong University of Science and Technology	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+149	155	Hong Kong University of Science and Technology	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+149	156	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+149	157	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+149	160	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong, China
+149	166	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+149	167	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+149	168	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+149	169	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology, Hong Kong
+149	190	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+149	191	Hong Kong University of Science and Technology	Hong Kong University of Science and Technology,
+151	154	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China
+151	155	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+151	156	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+151	157	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+151	160	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+151	166	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+151	167	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+151	168	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+151	169	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+151	190	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+151	191	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+153	193	Department of Electrical and Computer Engineering, University of Waterloo, 200 University Avenue West, Waterloo, Ontario, Canada N2L 3G1	University of Waterloo (Canada)
+154	155	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+154	156	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+154	157	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+154	160	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong, China
+154	166	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+154	167	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+154	168	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+154	169	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+154	190	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology,
+154	191	Department of Computer Science and Engineering, The Hong Kong University of Science and Technology, Kowloon, Hong Kong, China	Hong Kong University of Science and Technology,
+155	156	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, Hong Kong
+155	157	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+155	160	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+155	166	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+155	167	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+155	168	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+155	169	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+155	190	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+155	191	The Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+156	157	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong
+156	160	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+156	166	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+156	167	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+156	168	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+156	169	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+156	190	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+156	191	Hong Kong University of Science and Technology, Hong Kong, Hong Kong	Hong Kong University of Science and Technology,
+157	160	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology, Hong Kong, China
+157	166	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+157	167	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+157	168	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+157	169	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+157	190	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology,
+157	191	Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong	Hong Kong University of Science and Technology,
+160	166	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+160	167	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+160	168	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+160	169	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology, Hong Kong
+160	190	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+160	191	Hong Kong University of Science and Technology, Hong Kong, China	Hong Kong University of Science and Technology,
+165	178	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, PR China	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China
+165	179	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, PR China	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China
+166	167	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+166	168	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+166	169	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+166	190	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+166	191	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+167	168	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+167	169	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+167	190	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+167	191	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+168	169	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology, Hong Kong
+168	190	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+168	191	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+169	190	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+169	191	Hong Kong University of Science and Technology, Hong Kong	Hong Kong University of Science and Technology,
+178	179	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China	Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, 200062, China
+182	185	School of Electrical and Electronic Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798, Singapore and School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Electrical and Electronic Engineering, Nanyang Technological University, Nanyang Avenue, Singapore 639798, Singapore and School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+187	188	Educational Testing Service, Princeton, NJ	Educational Testing Service, Princeton, NJ
+190	191	Hong Kong University of Science and Technology,	Hong Kong University of Science and Technology,

@@ -1,0 +1,64 @@
+15	16	COCOON	COCOON
+18	20	CVPR (2)	CVPR (2)
+18	21	CVPR (2)	CVPR (2)
+18	22	CVPR (2)	CVPR (2)
+18	23	CVPR (2)	CVPR
+18	24	CVPR (2)	CVPR
+19	23	CVPR (1)	CVPR
+19	24	CVPR (1)	CVPR
+20	21	CVPR (2)	CVPR (2)
+20	22	CVPR (2)	CVPR (2)
+20	23	CVPR (2)	CVPR
+20	24	CVPR (2)	CVPR
+21	22	CVPR (2)	CVPR (2)
+21	23	CVPR (2)	CVPR
+21	24	CVPR (2)	CVPR
+22	23	CVPR (2)	CVPR
+22	24	CVPR (2)	CVPR
+23	24	CVPR	CVPR
+27	28	ECCV (3)	ECCV (3)
+27	29	ECCV (3)	ECCV (3)
+28	29	ECCV (3)	ECCV (3)
+36	37	Workshop on Human Motion	Workshop on Human Motion
+40	41	ICCV	ICCV
+40	42	ICCV	ICCV
+40	43	ICCV	ICCV
+41	42	ICCV	ICCV
+41	43	ICCV	ICCV
+42	43	ICCV	ICCV
+46	47	ICIP (3)	ICIP (3)
+49	50	ICPR (1)	ICPR
+54	153	IPDPS	IPDPS
+61	62	MSN	MSN
+65	66	NIPS	NIPS
+72	73	PICS	PICS
+72	74	PICS	PICS
+73	74	PICS	PICS
+85	86	User Modeling	User Modeling
+99	100	Adv. Comput. Math.	Adv. Comput. Math.
+99	101	Adv. Comput. Math.	Adv. Comput. Math.
+100	101	Adv. Comput. Math.	Adv. Comput. Math.
+110	162	Image Vision Comput.	Image Vision Comput.
+115	116	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+115	163	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+115	164	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+116	163	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+116	164	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+117	118	Pattern Recognition	Pattern Recognition
+117	119	Pattern Recognition	Pattern Recognition
+117	120	Pattern Recognition	Pattern Recognition
+118	119	Pattern Recognition	Pattern Recognition
+118	120	Pattern Recognition	Pattern Recognition
+119	120	Pattern Recognition	Pattern Recognition
+122	123	IEEE/ACM Trans. Comput. Biology Bioinform.	IEEE/ACM Trans. Comput. Biology Bioinform.
+125	139	IEEE Transactions on Image Processing	IEEE Transactions on Signal Processing
+127	128	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+127	129	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+128	129	IEEE Trans. Knowl. Data Eng.	IEEE Trans. Knowl. Data Eng.
+130	131	IEEE Trans. Med. Imaging	IEEE Trans. Med. Imaging
+132	133	IEEE Transactions on Systems, Man, and Cybernetics, Part C	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+135	188	Applied Mathematics and Computation	Applied Mathematics and Computation
+146	147	ISCA PDCCS	ISCA PDCCS
+149	150	AVSS	AVSS
+163	164	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+172	173	Advances in Adaptive Data Analysis	Advances in Adaptive Data Analysis

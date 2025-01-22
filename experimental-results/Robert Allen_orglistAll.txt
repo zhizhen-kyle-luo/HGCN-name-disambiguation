@@ -1,0 +1,276 @@
+0	1	University of Alabama, Tuscaloosa, Alabama	null
+0	2	University of Alabama, Tuscaloosa, Alabama	null
+0	3	University of Alabama, Tuscaloosa, Alabama	Carnegie Mellon University, Pittsburgh, PA
+0	4	University of Alabama, Tuscaloosa, Alabama	null
+0	5	University of Alabama, Tuscaloosa, Alabama	null
+0	6	University of Alabama, Tuscaloosa, Alabama	null
+0	7	University of Alabama, Tuscaloosa, Alabama	null
+0	8	University of Alabama, Tuscaloosa, Alabama	Boeing, Seattle, WA
+0	9	University of Alabama, Tuscaloosa, Alabama	null
+0	10	University of Alabama, Tuscaloosa, Alabama	null
+0	11	University of Alabama, Tuscaloosa, Alabama	null
+0	12	University of Alabama, Tuscaloosa, Alabama	null
+0	13	University of Alabama, Tuscaloosa, Alabama	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+0	14	University of Alabama, Tuscaloosa, Alabama	null
+0	15	University of Alabama, Tuscaloosa, Alabama	null
+0	16	University of Alabama, Tuscaloosa, Alabama	null
+0	17	University of Alabama, Tuscaloosa, Alabama	Hewlett-Packard Company, Palo Alto, CA
+0	18	University of Alabama, Tuscaloosa, Alabama	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+0	19	University of Alabama, Tuscaloosa, Alabama	IBM
+0	20	University of Alabama, Tuscaloosa, Alabama	null
+0	21	University of Alabama, Tuscaloosa, Alabama	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+0	22	University of Alabama, Tuscaloosa, Alabama	null
+0	23	University of Alabama, Tuscaloosa, Alabama	null
+1	2	null	null
+1	3	null	Carnegie Mellon University, Pittsburgh, PA
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	Boeing, Seattle, WA
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	Hewlett-Packard Company, Palo Alto, CA
+1	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+1	19	null	IBM
+1	20	null	null
+1	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+1	22	null	null
+1	23	null	null
+2	3	null	Carnegie Mellon University, Pittsburgh, PA
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	Boeing, Seattle, WA
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	Hewlett-Packard Company, Palo Alto, CA
+2	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+2	19	null	IBM
+2	20	null	null
+2	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+2	22	null	null
+2	23	null	null
+3	4	Carnegie Mellon University, Pittsburgh, PA	null
+3	5	Carnegie Mellon University, Pittsburgh, PA	null
+3	6	Carnegie Mellon University, Pittsburgh, PA	null
+3	7	Carnegie Mellon University, Pittsburgh, PA	null
+3	8	Carnegie Mellon University, Pittsburgh, PA	Boeing, Seattle, WA
+3	9	Carnegie Mellon University, Pittsburgh, PA	null
+3	10	Carnegie Mellon University, Pittsburgh, PA	null
+3	11	Carnegie Mellon University, Pittsburgh, PA	null
+3	12	Carnegie Mellon University, Pittsburgh, PA	null
+3	13	Carnegie Mellon University, Pittsburgh, PA	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+3	14	Carnegie Mellon University, Pittsburgh, PA	null
+3	15	Carnegie Mellon University, Pittsburgh, PA	null
+3	16	Carnegie Mellon University, Pittsburgh, PA	null
+3	17	Carnegie Mellon University, Pittsburgh, PA	Hewlett-Packard Company, Palo Alto, CA
+3	18	Carnegie Mellon University, Pittsburgh, PA	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+3	19	Carnegie Mellon University, Pittsburgh, PA	IBM
+3	20	Carnegie Mellon University, Pittsburgh, PA	null
+3	21	Carnegie Mellon University, Pittsburgh, PA	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+3	22	Carnegie Mellon University, Pittsburgh, PA	null
+3	23	Carnegie Mellon University, Pittsburgh, PA	null
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	Boeing, Seattle, WA
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	Hewlett-Packard Company, Palo Alto, CA
+4	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+4	19	null	IBM
+4	20	null	null
+4	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+4	22	null	null
+4	23	null	null
+5	6	null	null
+5	7	null	null
+5	8	null	Boeing, Seattle, WA
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	Hewlett-Packard Company, Palo Alto, CA
+5	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+5	19	null	IBM
+5	20	null	null
+5	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+5	22	null	null
+5	23	null	null
+6	7	null	null
+6	8	null	Boeing, Seattle, WA
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	Hewlett-Packard Company, Palo Alto, CA
+6	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+6	19	null	IBM
+6	20	null	null
+6	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+6	22	null	null
+6	23	null	null
+7	8	null	Boeing, Seattle, WA
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	Hewlett-Packard Company, Palo Alto, CA
+7	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+7	19	null	IBM
+7	20	null	null
+7	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+7	22	null	null
+7	23	null	null
+8	9	Boeing, Seattle, WA	null
+8	10	Boeing, Seattle, WA	null
+8	11	Boeing, Seattle, WA	null
+8	12	Boeing, Seattle, WA	null
+8	13	Boeing, Seattle, WA	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+8	14	Boeing, Seattle, WA	null
+8	15	Boeing, Seattle, WA	null
+8	16	Boeing, Seattle, WA	null
+8	17	Boeing, Seattle, WA	Hewlett-Packard Company, Palo Alto, CA
+8	18	Boeing, Seattle, WA	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+8	19	Boeing, Seattle, WA	IBM
+8	20	Boeing, Seattle, WA	null
+8	21	Boeing, Seattle, WA	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+8	22	Boeing, Seattle, WA	null
+8	23	Boeing, Seattle, WA	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+9	14	null	null
+9	15	null	null
+9	16	null	null
+9	17	null	Hewlett-Packard Company, Palo Alto, CA
+9	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+9	19	null	IBM
+9	20	null	null
+9	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+9	22	null	null
+9	23	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	Hewlett-Packard Company, Palo Alto, CA
+10	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+10	19	null	IBM
+10	20	null	null
+10	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+10	22	null	null
+10	23	null	null
+11	12	null	null
+11	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	Hewlett-Packard Company, Palo Alto, CA
+11	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+11	19	null	IBM
+11	20	null	null
+11	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+11	22	null	null
+11	23	null	null
+12	13	null	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA
+12	14	null	null
+12	15	null	null
+12	16	null	null
+12	17	null	Hewlett-Packard Company, Palo Alto, CA
+12	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+12	19	null	IBM
+12	20	null	null
+12	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+12	22	null	null
+12	23	null	null
+13	14	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	null
+13	15	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	null
+13	16	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	null
+13	17	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	Hewlett-Packard Company, Palo Alto, CA
+13	18	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+13	19	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	IBM
+13	20	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	null
+13	21	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+13	22	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	null
+13	23	Sch. of Comput. Sci., Carnegie Mellon Univ., Pittsburgh, PA	null
+14	15	null	null
+14	16	null	null
+14	17	null	Hewlett-Packard Company, Palo Alto, CA
+14	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+14	19	null	IBM
+14	20	null	null
+14	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+14	22	null	null
+14	23	null	null
+15	16	null	null
+15	17	null	Hewlett-Packard Company, Palo Alto, CA
+15	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+15	19	null	IBM
+15	20	null	null
+15	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+15	22	null	null
+15	23	null	null
+16	17	null	Hewlett-Packard Company, Palo Alto, CA
+16	18	null	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+16	19	null	IBM
+16	20	null	null
+16	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+16	22	null	null
+16	23	null	null
+17	18	Hewlett-Packard Company, Palo Alto, CA	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK
+17	19	Hewlett-Packard Company, Palo Alto, CA	IBM
+17	20	Hewlett-Packard Company, Palo Alto, CA	null
+17	21	Hewlett-Packard Company, Palo Alto, CA	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+17	22	Hewlett-Packard Company, Palo Alto, CA	null
+17	23	Hewlett-Packard Company, Palo Alto, CA	null
+18	19	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK	IBM
+18	20	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK	null
+18	21	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+18	22	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK	null
+18	23	Institute of Sound and Vibration Research, University of Southampton, Southampton SO17 1BJ, UK	null
+19	20	IBM	null
+19	21	IBM	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+19	22	IBM	null
+19	23	IBM	null
+20	21	null	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA
+20	22	null	null
+20	23	null	null
+21	22	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA	null
+21	23	Computer Science Department, Carnegie Mellon University, Pittsburgh, PA	null
+22	23	null	null

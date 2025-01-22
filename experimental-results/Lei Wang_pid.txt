@@ -1,0 +1,308 @@
+4944	Trust Mechanism in Distributed Access Control Model of P2P Networks
+8755	An Approximate Method for Performance Evaluation of Asynchronous Pipeline Rings
+9412	A pharmacogenomic study on the polymorphic gene response to risperidone in schizophrenia patients
+11549	TengYue-1TengYue: In Chinese means jump over.: A High Performance Embedded SoC
+11550	Cycle Period Analysis and Optimization of Timed Circuits
+18333	Feature Subset Selection for Multi-class SVM Based Image Classification
+18367	Where's the Weet-Bix?
+33972	Recognizing Chinese Proper Nouns with Transformation-Based Learning and Ontology
+46939	An Optimal Design Method for De-synchronous Circuit Based on Control Graph
+47780	Function Call Flow based Fitness Function Design in Evolutionary Testing
+48390	WISE: A Prototype for Ontology Driven Development of Web Information Systems
+54808	A Framework for Checking Behavioral Compatibility for Component Selection
+58727	Modeling and Simulation for Crosstalk Aggravated by Weak-Bridge Defects between On-Chip Interconnects
+65321	An Efficient Algorithm for the Longest Pattern Subsequence Problem
+81512	A Framework for Loop Distribution on Limited On-Chip Memory Processors
+83237	PhoenixG: A Unified Management Framework for Industrial Information Grid
+96500	Achieving both high precision and high recall in near-duplicate detection
+97244	Facial Features Location by Analytic Boosted Cascade Detector
+100291	A layered design methodology of cluster system stack
+105131	Optimally Balanced Forward Degree Sequence
+112321	Worst-Case Response Time Analysis for OSEK/VDX Compliant Real-Time Distributed Control Systems
+112543	An Extended Approach to Improving the Semantic Interoperation Among Reuse Repositories
+112997	A Reliable OS Kernel for Smart Sensors
+126287	Efficient and Secure Authentication Protocols for Mobile VoIP Communications
+127237	Security of MD5 Challenge and Response: Extension of APOP Password Recovery Attack
+128346	A Framework of 2D Fisher Discriminant Analysis: Application to Face Recognition with Small Number of Training Samples
+129348	Bootstrapping SVM Active Learning by Incorporating Unlabelled Images for Image Retrieval
+130137	Toward A Discriminative Codebook: Codeword Selection across Multi-resolution
+144893	PN-based Security Design for Data Storage
+155521	Auto-Calibration of a Compound-Type Omnidirectional Camera
+155707	Multi-view Human Motion Capture with an Improved Deformation Skin Model
+155823	Learning Cascaded Reduced-Set SVMs Using Linear Programming
+169785	A Fast Algorithm for Creating a Compact and Discriminative Visual Codebook
+180994	Skew Detection Algorithm for Form Document Based on Elongate Feature
+182065	Natural Language Specification of Performance Trees
+193597	New Key-Recovery Attacks on HMAC/NMAC-MD4 and NMAC-MD5
+217372	New Message Difference for MD4
+218286	Feature Extraction Based on the Independent Component Analysis for Text Classification
+218539	Hailstone Detection Based on Image Mining
+218632	MU-MAQAS: A P2P based Model Updatable Mobile Automatic Q/A System
+223622	A Reconfigurable High Availability Infrastructure in Cluster for Grid
+224479	A Dynamic Quota-Based Peer Selection Strategy in BitTorrent
+227590	Fitness calculation approach for nested if-else construct in evolutionary testing
+234091	A practical approach to modeling skin effect in on-chip interconnects
+265762	A Novel Neural Network Based on Immunity
+280407	A Service Oriented Implementation of Distributed Status Monitoring and Fault Diagnosis Systems
+283588	Exploiting soft redundancy for error-resilient on-chip memory design
+286937	Error-tolerance memory Microarchitecture via Dynamic Multithreading
+287063	Joint Performance Improvement and Error Tolerance for Memory Design Based on Soft Indexing
+287290	Making register file resistant to power analysis attacks
+292145	DNA-Based Algorithm for 0-1 Planning Problem
+293846	Retrieval with Knowledge-driven Kernel Design: An Approach to Improving SVM-Based CBIR with Relevance Feedback
+296109	Supporting Partial Component Matching
+302972	An Immune Neural Network Used for Classification
+304776	An Approach to Provisioning E-Commerce Applications with Commercial Components
+305579	Ringed Petersen Spheres Connected Hypercube Interconnection Networks
+308999	An OSEK COM Compliant Communication Model for Smart Vehicle Environment
+309021	SmartOSEK: A Real-Time Operating System for Automotive Electronics
+313016	Image Segmentation by a Robust Clustering Algorithm Using Gaussian Estimator
+313788	Car Plate Localization Using Modified PCNN in Complicated Environment
+314424	The Finite Element Analysis Based on ANSYS Pressure-Sensitive Conductive Rubber Three-Dimensional Tactile Sensor
+319206	Multi-label SVM active learning for image classification
+322016	Active Shape and Depth Extraction from Shadow Images
+322025	Image retrieval with SVM active learning embedding Euclidean search
+322049	Generic slow-motion replay detection in sports video
+322053	Image orientation detection with integrated human perception cues (or which way is up)
+322056	A semantic representation for image retrieval
+325220	Background Subtraction using Incremental Subspace Learning
+325945	Lossy to lossless image compression based on reversible integer DCT
+330117	Robust multi-level video representation using mean shift analysis
+332581	A Vector-Based Approach to Broadcast Audio Database Indexing and Retrieval
+332991	Body Detection and Tracking with Hierarchical Scheme in Dynamic Scenes
+333507	Query by humming via multiscale transportation distance in random query occurrence context
+333880	Synthesis and Characteration of Phenolic Resin/Montmorillonite Nanocomposites
+337980	A Novel Genetic Algorithm Based on Cure Mechanism of Traditional Chinese Medicine
+338027	Artificial Immune Strategies Improve the Security of Data Storage
+338039	A Novel Artificial Immune Network Model and Analysis on Its Dynamic Behavior and Stabilities
+342062	Automatic Partitioning of Object-Oriented Programs for Resource-Constrained Mobile Devices with Multiple Distribution Objectives
+346219	Breast Mass Segmentation based on Information Theory
+349170	Video Local Pattern based Image Matching for Visual Mapping
+349193	Incorporating Prior Knowledge into SVM for Image Retrieval
+349276	Face Recognition Based on Discriminative Manifold Learning
+360926	Exploiting idle register classes for fast spill destination
+372353	Bayesian Learning for Image Retrieval Using Multiple Features
+394438	A turbo codes optimization method using particle swarm algorithm
+403271	To Repair or Not To Repair: Helping Ad-hoc Routing Protocols to Distinguish Mobility from Congestion
+408746	A Compiler and Runtime Infrastructure for Automatic Program Distribution
+411564	Easy and reliable cluster management: the self-management experience of Fire Phoenix
+414954	Modeling Dynamic Load Balancing in Molecular Dynamics to Achieve Scalable Parallel Execution
+424645	An energy-efficient skew compensation technique for high-speed skew-sensitive signaling
+424670	Low voltage 2-path SC bandpass /spl Delta//spl Sigma/ modulator without bootstrapper
+426332	Noise-tolerant dynamic circuit design
+428314	A High-Speed High-Resolution Low-Distortion CMOS Bootstrapped Switch
+429459	Adaptive timing for analysis of skew tolerance
+429677	Reducing error accumulation effect in multithreaded memory systems
+431365	Design of error-tolerant cache memory for multithreaded computing
+431689	Programmable threshold voltage using quantum dot transistors for low-power mobile computing
+433823	Exact Best-Case End-to-End Response Time Analysis for Hard Real-Time Distributed Systems
+434074	The IIR Submission to CSLP 2006 Speaker Recognition Evaluation
+434319	Study on Traffic Information Fusion Algorithm Based on Support Vector Machines
+437189	Low-power AEC-based MIMO signal processing for gigabit ethernet 1000Base-T transceivers
+437363	Thread-associative memory for multicore and multithreaded computing
+442177	Intelligent Hierarchical Intrusion Detection System for Secure Wireless Ad Hoc Network
+442403	A Resource Allocating Neural Network Based Approach for Detecting End-to-End Network Performance Anomaly
+442936	A New Approach of Network Intrusion Detection Using HVDM-Based SOM
+442993	A Novel Classifier with the Immune-Training Based Wavelet Neural Network
+442995	A Novel Model of Artificial Immune Network and Simulations on Its Dynamics
+443468	A Model Predictive Control of a Grain Dryer with Four Stages Based on Recurrent Fuzzy Neural Network
+443688	A Fast and Accurate Progressive Algorithm for Training Transductive SVMs
+472912	Object Detection for Hierarchical Image Classification
+473390	Object Boundary Detection For Ontology-Based Image Classification
+483338	Data I/O Minimization for Loops on Limited Onchip Memory Processors
+489968	Performance Comparison of Control Schemes for ABR Service in ATM LANs
+498853	Regularized Discriminative Direction for Shape Difference Analysis
+500487	Offense based temporal segmentation for event detection in soccer video
+500766	Automatic Ontology Derivation Using Clustering for Image Classification
+500778	Improving Image Annotations Using WordNet
+502403	Image annotations by combining multiple evidence  wordNet
+503084	A novel framework for SVM-based image retrieval on large databases
+504526	Automatic image annotation and retrieval using subspace clustering algorithm
+504749	Multi-Level Video Representation with Application to Keyframe Extraction
+518168	PSDBoost: Matrix-Generation Linear Programming for Positive Semidefinite Matrices Learning
+527525	Discovering Prediction Model for Environmental Distribution Maps
+532150	A Platform Implementation for Real Time Image Processing
+532803	Design Patterns of Scalable Cluster System Software
+532920	LiveBT: Providing Video-on-Demand Streaming Service over BitTorrent Systems
+533051	Grid Unit: A Self-Managing Building Block for Grid System
+539088	A Lightweight Sensor Network Management System Design
+551282	Car Plate Localization Using Pulse Coupled Neural Network in Complicated Environment
+562153	Object Class Recognition Using SNoW with a Part Vocabulary
+564444	Real-Time Solution in Petroleum Industry's Cyber Data Acquisition Simulation System
+564691	Fault Tolerant Scheduling for Fixed-Priority Tasks with Preemption Threshold
+568772	Escape analysis for synchronization removal
+569649	An audio wiki supporting mobile collaboration
+570834	End-To-End Worst-Case Response Time Analysis for Hard Real-Time Distributed Systems
+576031	The design methodology of Phoenix cluster system software stack
+576939	Automated Detection of Code Vulnerabilities Based on Program Analysis and Model Checking
+585547	An Initial Framework for Collaboration-Based Component Selection
+601269	Relevancy based semantic interoperation of reuse repositories
+609147	The Design and Optimization of H.264 Encoder Based on the Nexperia Platform
+609386	Eliminating Redundant Communication of Code Generation for Distributed Memory Machines
+630469	Research on Enterprise Track of TREC 2008
+633708	Research on Pairwise Key Establishment Model and Algorithm for Sensor Networks
+633817	Voronoi Tessellation Based Rapid Coverage Decision Algorithm for Wireless Sensor Networks
+639360	Clustering and Visualizing Audiovisual Dataset on Mobile Devices in a Topic-Oriented Manner
+649045	Analyzing Crosstalk in the Presence of Weak Bridge Defects
+650470	The Research of Complex System Modeling Based on Fractal Conception
+652272	PASE: A Prototype for Ad-hoc Process-Aware Information System Declaratively Constructing Environment
+653392	Enhancing Security Using Legality Assertions
+655201	Building Domain Ontology Based on Web Data and Generic Ontology
+655228	Offer Group Generation and Delayed Processing in Multi-Issue Negotiation
+655644	An Effective Evidence Theory Based K-Nearest Neighbor (KNN) Classification
+662592	Efficiency, Fairness and Competitiveness in Nash Bargaining Games
+667001	Key Distribution for Group-based Sensor Deployment Using a Novel Interconnection Graph
+667029	Link quality prediction for wireless devices with multiple radios
+677746	Multi-path GEM for Routing in Wireless Sensor Networks
+679394	Analysis on Appearance Reasons of the Positive Feedback Traders
+690283	Joint Multiuser Precoding and Scheduling with Imperfect Channel State Information at the Transmitter
+697241	An evolutionary algorithm with population immunity and its application on autonomous robot control
+705807	Virtual Burst Assembly - A Solution to Out-of-Sequence Delivery in Optical Burst Switching Networks
+705895	A Hybrid Control Architecture for Connection Management in Translucent WDM Networks
+708819	Using Description Logics Reasoner for Ontology Matching
+709174	A Pattern Matching Algorithm in P2P Mobile QA System Answer Extracting Process
+710018	Mining and Visualizing Multimedia Dataset on Mobile Devices in a Topic-oriented Manner
+711634	Kapa: A File Sharing System Based on HP2P
+715760	Context-aware application programming for mobile devices
+717033	Password Recovery on Challenge and Response: Impossible Differential Attack on Hash Function
+720248	The Algorithm of Obtaining Best Rules Based on Rough Set
+728709	An AIS-Based Service Match Model
+729205	A Performance Model for Domino Mail Server
+729214	Research on an Immune Mechanism Based Intelligent Spam Filter
+729350	DECF: A Coarse-Grained Data-Parallel Programming Framework for Seismic Processing
+729453	A Hybrid Method for Constructing Semi-structural Process in Knowledge-Intensive Information System
+730302	Performance Bound Analysis and Retiming of Timed Circuits
+734856	Research on Neighboring APs Discovery Methods in PnP WLAN
+734868	A CCI-Feedback-Aided Scheduling Technique for MU-MIMO
+735557	Evaluation Mode Research on Particle Swarm Optimization Algorithm
+735627	Traffic Intelligent Optimization and Local Traffic-Flow Control Inside Shanghai-EXPO-Area
+828526	Hybrid Neural Network Architecture for On-Line Learning
+895849	Low-Complex Equalization for Single Carrier Systems Employing Cyclic Prefix over Time-Variant Channels
+897176	Visual Secret Sharing Schemes for Multiple Secret Images Allowing the Rotation of Shares
+898068	Round-Robin with VirtualClock Scheduling Algorithm in Multiservice Packet Networks
+898261	Khatri-Rao Unitary Space-Time Modulation
+899892	New Message Differences for Collision Attacks on MD4 and MD5
+899925	Exact Distribution of the Amplitude of Adaptively Selected OFDM Signal Samples
+907653	Active Shape-from-Shadows with Controlled Illuminant Trajectories
+910442	A Sub-Vector Weighting Scheme for Image Retrieval with Relevance Feedback
+917784	A fast approximate algorithm for training L1-SVMs in primal space
+922153	Delivering a Fully Interactive Mobile TV
+973619	Active Network Supports for Mobile IP
+973758	Provisioning QoS Guarantee by Multipath Routing and Reservation in Ad Hoc Networks
+980653	Towards achieving reliable and high-performance nanocomputing via dynamic redundancy allocation
+989395	Achieving Scalable Parallel Molecular Dynamics Using Dynamic Spatial Domain Decomposition Techniques
+1016939	Automatic image annotation and retrieval using weighted feature selection
+1026665	Generalized 2D principal component analysis for face image representation and recognition
+1030371	A Dynamic Sub-vector Weighting Scheme for Image Retrieval with Relevance Feedback
+1033292	Error Analysis of Pure Rotation-Based Self-Calibration
+1037276	An Approximate Solution for Queuing Network Models of a Burst-Level Traffic Control Scheme in ATM WAN
+1041838	MRF parameter estimation by MCMC method
+1046162	Texture segmentation based on MRMRF modeling
+1046165	Texture classification using multiresolution Markov random field models
+1086848	Analysis of Deskew Signaling Via Adaptive Timing
+1087521	Call admission control for integrated on/off voice and best-effort data services in mobile cellular communications
+1088029	Calculation of Loss Probability in a Finite Size Partitioned Buffer for Quantitative Assured Service
+1115910	Large Deformation Diffeomorphism and Momentum Based Hippocampal Shape Discrimination in Dementia of the Alzheimer type
+1131368	A novel genetic algorithm based on immunity
+1132314	A criterion for optimizing kernel parameters in KBDA for image retrieval
+1133380	Two Criteria for Model Selection in Multiclass Support Vector Machines
+1135181	Time multiplexed color image processing based on a CNN with cell-state outputs
+1135589	Energy-efficiency bounds for deep submicron VLSI systems in the presence of noise
+1135632	Low-power MIMO signal processing
+1135809	Improving Error Tolerance for Multithreaded Register Files
+1137186	A novel multi-resolution video representation scheme based on kernel PCA
+1149245	A novel ecological particle swarm optimization algorithm and its population dynamics analysis
+1163164	Research and Implementation of a 32-Bit Asynchronous Multiplier
+1176535	A call admission control scheme for packet data in CDMA cellular communications
+1184440	Low-Complexity Analysis of Repetitive Regularities for Biometric Applications
+1200614	Managing and Mining Multimedia Data, Animations and Annotations
+1207589	Association based immune network for multimodal function optimization
+1211325	Chaos Control of Lorenz System Using Small Gain Theorem
+1211377	Synchronization between Two Different Hyperchaotic Dynamical Systems Using Nonlinear Control
+1211405	Selective Ensemble Algorithms of Support Vector Machines Based on Constraint Projection
+1216116	MM-Correction: Meta-analysis-Based Multiple Hypotheses Correction in Omic Studies
+1217468	HxH: a hop-by-hop transport protocol for multi-hop wireless networks
+1217826	Measurement and Statistics of Application Business in Complex Internet
+1217875	Modeling and Robustness Analysis of Biochemical Networks of Glycerol Metabolism by Klebsiella Pneumoniae
+1217894	Modeling and Properties of Nonlinear Stochastic Dynamical System of Continuous Culture
+1222797	Phoenix Cloud : Consolidating Heterogeneous Workloads of Large Organizations on Cloud Computing Platforms
+1224452	Variable Block Size Motion Vector Retrieval Schemes for H.264 Inter Frame Error Concealment
+1224457	Standard Deviation and Intra Prediction Mode Based Adaptive Spatial Error Concealment (SEC) in H.264/AVC
+1224576	Near-Collision Attacks on MD4: Applied to MD4-Based Protocols
+1224646	Extended Password Recovery Attacks against APOP, SIP, and Digest Authentication
+1225128	Side Information Inserted Pilot Tone Transmission for PAPR Reduction in OFDM
+1226665	Feature Selection with Kernel Class Separability
+1229413	A new algorithm for solving classical Blasius equation
+1229485	A novel method for a class of nonlinear singular perturbation problems
+1230440	A Kernel-Induced Space Selection Approach to Model Selection in KLDA
+1239305	An efficient clustering algorithm for large-scale topical web pages
+1248509	Linux kernels as complex networks: A novel method to study evolution
+1250844	Way-tagged cache: an energy-efficient L2 cache architecture under write-through policy
+1251529	Bit-Free Collision: Application to APOP Attack
+1255070	In cloud, do MTC or HTC service providers benefit from the economies of scale?
+1260179	Layer Key Management Scheme on Wireless Sensor Networks
+1260797	Cross-Layer Optimized Data Gathering in Wireless Multimedia Sensor Networks
+1262082	Cooperative OFDM for energy-efficient wireless sensor networks
+1262094	Defect-tolerant digital filtering with unreliable molecular electronics
+1262321	An Adaptive Spatial Error Concealment for H.264/AVC Video Stream
+1265798	The Design of Asynchronous Microprocessor Based on Optimized NCL_X Design-Flow
+1269595	Positive Semidefinite Metric Learning with Boosting
+1277559	Utilizing quantum dot transistors with programmable threshold voltages for low-power mobile computing
+1289595	Revenue Management for a Primary-Care Clinic in the Presence of Patient Choice
+1289704	Capacity Management for Contract Manufacturing
+1292840	Information Acquisition in Desert Ant Navigation
+1302868	Preimages for Step-Reduced SHA-2.
+1302876	How to Confirm Cryptosystems Security: The Original Merkle-Damgård Is Still Alive!
+1303721	The Representation of Chinese Semantic Knowledge and its Application in the Document Copy Detection.
+1305565	A Study of Side-Channel Effects in Reliability-Enhancing Techniques.
+1306384	The Application of Non-linear Regression Method to the Functional Connectivity during the Encoding and the Retrieval of Chinese Semantic Memory.
+1306394	Fault Diagnosis of Regenerative Water Heater Based-On Multi-class Support Vector Machines.
+1310348	Continuity Properties of Equilibria in Some Fisher and Arrow-Debreu Market Models.
+1310873	A Robust Closed-Loop Control Algorithm for Mean Arterial Blood Pressure Regulation.
+1312122	Data Compression Algorithm Based on Hierarchical Cluster Model for Sensor Networks.
+1312233	NetTopo: Beyond Simulator and Visualizer for Wireless Sensor Networks.
+1312622	Planning and Control of Biped Walking along Curved Paths on Unknown and Uneven Terrain.
+1315200	A New Rights Processing Method for DRM Systems.
+1317200	Traffic Localizing Strategy for Peer-to-Peer Systems.
+1318104	Service View Description of a Service Oriented C4ISR Architecture Framework.
+1318494	A New Description Language for Data-Driven Asynchronous Circuits and its Design Flow.
+1318698	Handling Significant Scale Difference for Object Retrieval in a Supermarket.
+1318894	A New Text Feature Conversion Method for Text Classification.
+1319713	A Symmetric Orthogonal FastICA Algorithm and Applications in EEG.
+1319821	Comparative Study on Bionic Optimization Algorithms for Sewer Optimal Design.
+1321311	P2P Recommendation Trust Model.
+1322409	Approximability of Combinatorial Problems with Multi-agent Submodular Cost Functions.
+1322771	Online Constrained Pattern Detection over Streams.
+1322790	SVM Model Based on Signal Transformation and its Applications in Oil Water-Flooded Identification.
+1322997	Fuzzy Control Strategy of Sub-mini Underwater Robots in Rectifying Control.
+1324245	Noise-Aware Wavelength Assignment for Wavelength Switched Optical Networks.
+1326913	Integrating Case based Reasoning and Explanation based Learning in an Apprentice Agent.
+1327743	The Research on Controlling Method of Loom Warp Tension.
+1330171	Low-complexity adaptive step size constrained constant modulus sg-based algorithms for blind adaptive beamforming.
+1334196	Optimal Approximation Algorithms for Multi-agent Combinatorial Problems with Discounted Price Functions
+1338793	A defect/error-tolerant nanosystem architecture for DSP.
+1343968	Low-complexity adaptive step size constrained constant modulus SG algorithms for adaptive beamforming.
+1344087	Adaptive reduced-rank LCMV beamforming algorithms based on joint iterative optimization of filters: Design and analysis.
+1347140	Automatic pectoral muscle boundary detection in mammograms based on Markov chain and active contour model.
+1368960	Clustering Research Based on Density Gradient
+1371024	Diagnosis of delay faults due to resistive bridges, delay variations and defects
+1380472	AdaBoost with SVM-based component classifiers
+1387005	Improved Hierarchical Network Model Based on Pastry Scheme
+1392493	Training One-class Support Vector Machines in the Primal Space
+1393959	Detecting and Eliminating Potential Violations of Sequential Consistency for Concurrent C/C++ Programs
+1394275	A RM-Based Static Deployment System for Cluster
+1429263	Specification and Collaboration Driven Software Component Selection- Building a Framework for Component Selection
+1556884	A Distributed Tokens-Based Distance-Vector Routing Algorithm for Mobile Ad-hoc Networks
+1569313	Runtime performance of parallel array assignment: an empirical study
+1585361	TLDFS: A Distributed File System based on the Layered Structure
+1585376	Gingko: correlating causal paths in distributed systems
+1613361	A New Method in Multi-Issue Negotiation
+1652542	A backoff copying scheme for contention resolution in wireless sensor networks
+1652772	The Real-Time Networked Data Gathering Systems Based on EtherCAT
+1654490	Visualizing simulation and testbed of wireless sensor networks with NetTopo
+1655431	Research on Multi-objective Parameter Optimization Based on the Experimental Design and ANN-GA in the Digital Environment
+1656117	TMAC: Taint-Based Memory Protection via Access Control
+1656757	Software Design Methodology for Set-Top Box
+1658279	Chinese Deterministic Dependency Parser Considering Prepositional Phrase
+1753228	Music Genre Classification Based on Multiple Classifier Fusion
+1753371	Impulsive optimal control model for the trajectory of horizontal wells

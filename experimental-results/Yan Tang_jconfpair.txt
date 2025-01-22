@@ -1,0 +1,18 @@
+3	4	DEXA	DEXA
+5	6	ICDAR	ICDAR
+8	10	OTM Workshops	OTM Workshops (1)
+8	11	OTM Workshops	OTM Workshops
+8	12	OTM Workshops	OTM Workshops
+8	24	OTM Workshops	OTM Workshops
+8	25	OTM Workshops	OTM Workshops
+10	11	OTM Workshops (1)	OTM Workshops
+10	12	OTM Workshops (1)	OTM Workshops
+10	24	OTM Workshops (1)	OTM Workshops
+10	25	OTM Workshops (1)	OTM Workshops
+11	12	OTM Workshops	OTM Workshops
+11	24	OTM Workshops	OTM Workshops
+11	25	OTM Workshops	OTM Workshops
+12	24	OTM Workshops	OTM Workshops
+12	25	OTM Workshops	OTM Workshops
+14	15	RuleML	RuleML
+24	25	OTM Workshops	OTM Workshops

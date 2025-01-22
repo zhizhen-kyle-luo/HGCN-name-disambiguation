@@ -1,0 +1,759 @@
+1	3	Zhiying Wang	Zhiying Wang
+1	3	Kui Dai	Kui Dai
+1	4	Zhiying Wang	Zhiying Wang
+1	4	Kui Dai	Kui Dai
+1	8	Zhiying Wang	Zhiying Wang
+1	8	Kui Dai	Kui Dai
+1	173	Zhiying Wang	Zhiying Wang
+1	173	Kui Dai	Kui Dai
+1	214	Zhiying Wang	Zhiying Wang
+1	214	Kui Dai	Kui Dai
+1	247	Zhiying Wang	Zhiying Wang
+1	267	Zhiying Wang	Zhiying Wang
+3	4	Kui Dai	Kui Dai
+3	4	Zhiying Wang	Zhiying Wang
+3	8	Kui Dai	Kui Dai
+3	8	Zhiying Wang	Zhiying Wang
+3	173	Kui Dai	Kui Dai
+3	173	Zhiying Wang	Zhiying Wang
+3	214	Kui Dai	Kui Dai
+3	214	Zhiying Wang	Zhiying Wang
+3	247	Zhiying Wang	Zhiying Wang
+3	267	Zhiying Wang	Zhiying Wang
+4	8	Zhiying Wang	Zhiying Wang
+4	8	Kui Dai	Kui Dai
+4	173	Zhiying Wang	Zhiying Wang
+4	173	Kui Dai	Kui Dai
+4	214	Zhiying Wang	Zhiying Wang
+4	214	Kui Dai	Kui Dai
+4	247	Zhiying Wang	Zhiying Wang
+4	267	Zhiying Wang	Zhiying Wang
+6	29	Richard I. Hartley	Richard I. Hartley
+6	29	Hongdong Li	Hongdong Li
+6	30	Richard I. Hartley	Richard Hartley
+6	30	Hongdong Li	Hongdong Li
+6	79	Richard I. Hartley	Richard I. Hartley
+6	79	Hongdong Li	Hongdong Li
+6	113	Richard I. Hartley	Richard Hartley
+6	268	Yuhang Zhang	Yuhang Zhang
+6	268	Richard I. Hartley	Richard Hartley
+6	268	Hongdong Li	Hongdong Li
+8	173	Zhiying Wang	Zhiying Wang
+8	173	Kui Dai	Kui Dai
+8	214	Zhiying Wang	Zhiying Wang
+8	214	Kui Dai	Kui Dai
+8	247	Gang Jin	Gang Jin
+8	247	Zhiying Wang	Zhiying Wang
+8	267	Gang Jin	Gang Jin
+8	267	Zhiying Wang	Zhiying Wang
+9	42	Xiyang Liu	Xiyang Liu
+9	42	Miao Zhang	Miao Zhang
+9	42	Zhiwen Bai	Zhiwen Bai
+10	147	Hongyan Li	Hongyan Li
+10	147	Meimei Li	Meimei Li
+10	147	Bin Zhou	Bin Zhou
+10	172	Hongyan Li	Hongyan Li
+10	172	Bin Zhou	Bin Zhou
+10	274	Hongyan Li	Hongyan Li
+11	52	Padmanabhan Krishnan	Padmanabhan Krishnan
+11	54	Padmanabhan Krishnan	Padmanabhan Krishnan
+12	145	Sandeep K. Gupta	Sandeep K. Gupta
+12	145	Melvin A. Breuer	Melvin A. Breuer
+12	287	Sandeep K. Gupta	Sandeep K. Gupta
+12	287	Melvin A. Breuer	Melvin A. Breuer
+14	111	Santosh Pande	Santosh Pande
+15	18	Jianfeng Zhan	Jianfeng Zhan
+15	18	Bibo Tu	Bibo Tu
+15	18	Dan Meng	Dan Meng
+15	18	Ninghui Sun	Ninghui Sun
+15	87	Jianfeng Zhan	Jianfeng Zhan
+15	87	Dan Meng	Dan Meng
+15	124	Jianfeng Zhan	Jianfeng Zhan
+15	124	Bibo Tu	Bibo Tu
+15	126	Jianfeng Zhan	Jianfeng Zhan
+15	135	Jianfeng Zhan	Jianfeng Zhan
+15	135	Bibo Tu	Bibo Tu
+15	135	Yi Jin	Yi Jin
+15	135	Dan Meng	Dan Meng
+15	135	Ninghui Sun	Ninghui Sun
+15	169	Jianfeng Zhan	Jianfeng Zhan
+15	224	Yang Li	Yang Li
+15	227	Jianfeng Zhan	Jianfeng Zhan
+15	227	Bibo Tu	Bibo Tu
+15	227	Dan Meng	Dan Meng
+15	241	Jianfeng Zhan	Jianfeng Zhan
+15	257	Yang Li	Li Yang
+15	297	Jianfeng Zhan	Jianfeng Zhan
+15	297	Yi Jin	Yi Jin
+15	297	Dan Meng	Dan Meng
+16	237	Lian'en Huang	Lian'en Huang
+18	87	Jianfeng Zhan	Jianfeng Zhan
+18	87	Zhihong Zhang	Zhi-Hong Zhang
+18	87	Dan Meng	Dan Meng
+18	124	Jianfeng Zhan	Jianfeng Zhan
+18	124	Bibo Tu	Bibo Tu
+18	126	Jianfeng Zhan	Jianfeng Zhan
+18	135	Jianfeng Zhan	Jianfeng Zhan
+18	135	Bibo Tu	Bibo Tu
+18	135	Zhihong Zhang	Zhihong Zhang
+18	135	Yu Wen	Yu Wen
+18	135	Yuansheng Chen	Yuansheng Chen
+18	135	Dan Meng	Dan Meng
+18	135	Ninghui Sun	Ninghui Sun
+18	169	Jianfeng Zhan	Jianfeng Zhan
+18	227	Jianfeng Zhan	Jianfeng Zhan
+18	227	Bibo Tu	Bibo Tu
+18	227	Wei Zhou	Wei Zhou
+18	227	Dan Meng	Dan Meng
+18	241	Jianfeng Zhan	Jianfeng Zhan
+18	297	Jianfeng Zhan	Jianfeng Zhan
+18	297	Zhihong Zhang	Zhihong Zhang
+18	297	Yu Wen	Yu Wen
+18	297	Dan Meng	Dan Meng
+20	22	Zhaohui Wu	Zhaohui Wu
+20	45	Zhaohui Wu	Zhaohui Wu
+20	56	Zhaohui Wu	Zhaohui Wu
+20	57	Zhaohui Wu	Zhaohui Wu
+20	57	Mingde Zhao	Mingde Zhao
+20	97	Zhaohui Wu	Zhaohui Wu
+20	97	Mingde Zhao	Mingde Zhao
+20	131	Zhaohui Wu	Zhaohui Wu
+20	131	Mingde Zhao	Mingde Zhao
+20	134	Zhaohui Wu	Zhaohui Wu
+20	134	Mingde Zhao	Mingde Zhao
+21	138	Ying Pan	Ying Pan
+21	138	Lu Zhang	Lu Zhang
+21	138	Bing Xie	Bing Xie
+21	138	Fuqing Yang	Fuqing Yang
+22	45	Zhaohui Wu	Zhaohui Wu
+22	56	Zhaohui Wu	Zhaohui Wu
+22	57	Zhaohui Wu	Zhaohui Wu
+22	97	Zhaohui Wu	Zhaohui Wu
+22	131	Zhaohui Wu	Zhaohui Wu
+22	134	Zhaohui Wu	Zhaohui Wu
+24	35	Kazuo Ohta	Kazuo Ohta
+24	35	Noboru Kunihiro	Noboru Kunihiro
+24	36	Yu Sasaki	Yu Sasaki
+24	36	Kazuo Ohta	Kazuo Ohta
+24	36	Noboru Kunihiro	Noboru Kunihiro
+24	166	Yu Sasaki	Yu Sasaki
+24	166	Kazuo Ohta	Kazuo Ohta
+24	166	Noboru Kunihiro	Noboru Kunihiro
+24	180	Kazuo Ohta	Kazuo Ohta
+24	180	Noboru Kunihiro	Noboru Kunihiro
+24	183	Yu Sasaki	Yu Sasaki
+24	183	Kazuo Ohta	Kazuo Ohta
+24	183	Noboru Kunihiro	Noboru Kunihiro
+24	230	Kazuo Ohta	Kazuo Ohta
+24	230	Noboru Kunihiro	Noboru Kunihiro
+24	231	Yu Sasaki	Yu Sasaki
+24	231	Kazuo Ohta	Kazuo Ohta
+24	231	Noboru Kunihiro	Noboru Kunihiro
+24	240	Yu Sasaki	Yu Sasaki
+24	240	Kazuo Ohta	Kazuo Ohta
+24	253	Yu Sasaki	Yu Sasaki
+24	254	Kazuo Ohta	Kazuo Ohta
+25	194	Hui Kong	Hui Kong
+25	194	Eam Khwang Teoh	Eam Khwang Teoh
+25	194	Jian-Gang Wang	Jian-Gang Wang
+25	194	Ronda Venkateswarlu	Ronda Venkateswarlu
+26	51	Kap Luk Chan	Kap Luk Chan
+26	63	Kap Luk Chan	Kap Luk Chan
+26	80	Kap Luk Chan	Kap Luk Chan
+26	81	Kap Luk Chan	Kap Luk Chan
+26	83	Kap Luk Chan	Kap Luk Chan
+26	118	Kap Luk Chan	Kap Luk Chan
+26	186	Kap Luk Chan	Kap Luk Chan
+26	195	Kap Luk Chan	Kap Luk Chan
+26	206	Kap Luk Chan	Kap Luk Chan
+26	207	Kap Luk Chan	Kap Luk Chan
+26	236	Kap Luk Chan	Kap Luk Chan
+28	158	Beat Hirsbrunner	Beat Hirsbrunner
+29	30	Hongdong Li	Hongdong Li
+29	30	Richard I. Hartley	Richard Hartley
+29	79	Hongdong Li	Hongdong Li
+29	79	Richard I. Hartley	Richard I. Hartley
+29	113	Richard I. Hartley	Richard Hartley
+29	268	Hongdong Li	Hongdong Li
+29	268	Richard I. Hartley	Richard Hartley
+30	31	Chunhua Shen	Chunhua Shen
+30	32	Chunhua Shen	Chunhua Shen
+30	79	Hongdong Li	Hongdong Li
+30	113	Richard Hartley	Richard Hartley
+30	121	Chunhua Shen	Chunhua Shen
+30	248	Chunhua Shen	Chunhua Shen
+30	268	Richard Hartley	Richard Hartley
+30	268	Hongdong Li	Hongdong Li
+31	32	Chunhua Shen	Chunhua Shen
+31	121	Chunhua Shen	Chunhua Shen
+31	248	Junae Kim	Junae Kim
+31	248	Chunhua Shen	Chunhua Shen
+32	113	Luping Zhou	Luping Zhou
+32	121	Chunhua Shen	Chunhua Shen
+32	236	Luping Zhou	Luping Zhou
+32	248	Chunhua Shen	Chunhua Shen
+35	36	Kazuo Ohta	Kazuo Ohta
+35	36	Noboru Kunihiro	Noboru Kunihiro
+35	166	Kazuo Ohta	Kazuo Ohta
+35	166	Noboru Kunihiro	Noboru Kunihiro
+35	180	Kazuo Ohta	Kazuo Ohta
+35	180	Noboru Kunihiro	Noboru Kunihiro
+35	183	Kazuo Ohta	Kazuo Ohta
+35	183	Noboru Kunihiro	Noboru Kunihiro
+35	230	Kazuo Ohta	Kazuo Ohta
+35	230	Noboru Kunihiro	Noboru Kunihiro
+35	231	Kazuo Ohta	Kazuo Ohta
+35	231	Noboru Kunihiro	Noboru Kunihiro
+35	240	Kazuo Ohta	Kazuo Ohta
+35	254	Kazuo Ohta	Kazuo Ohta
+36	166	Yu Sasaki	Yu Sasaki
+36	166	Kazuo Ohta	Kazuo Ohta
+36	166	Noboru Kunihiro	Noboru Kunihiro
+36	180	Kazuo Ohta	Kazuo Ohta
+36	180	Noboru Kunihiro	Noboru Kunihiro
+36	183	Yu Sasaki	Yu Sasaki
+36	183	Kazuo Ohta	Kazuo Ohta
+36	183	Noboru Kunihiro	Noboru Kunihiro
+36	230	Kazuo Ohta	Kazuo Ohta
+36	230	Noboru Kunihiro	Noboru Kunihiro
+36	231	Yu Sasaki	Yu Sasaki
+36	231	Kazuo Ohta	Kazuo Ohta
+36	231	Noboru Kunihiro	Noboru Kunihiro
+36	240	Yu Sasaki	Yu Sasaki
+36	240	Kazuo Ohta	Kazuo Ohta
+36	253	Yu Sasaki	Yu Sasaki
+36	254	Kazuo Ohta	Kazuo Ohta
+37	269	Minghan Hu	Minghan Hu
+41	103	Dafang Zhang	Dafang Zhang
+45	56	Zhaohui Wu	Zhaohui Wu
+45	57	Zhaohui Wu	Zhaohui Wu
+45	97	Zhaohui Wu	Zhaohui Wu
+45	131	Zhaohui Wu	Zhaohui Wu
+45	134	Zhaohui Wu	Zhaohui Wu
+46	48	Shuo Wang	Shuo Wang
+46	49	Shuo Wang	Shuo Wang
+46	93	Shuo Wang	Shuo Wang
+46	95	Shuo Wang	Shuo Wang
+46	96	Shuo Wang	Shuo Wang
+46	101	Shuo Wang	Shuo Wang
+46	191	Shuo Wang	Shuo Wang
+46	201	Shuo Wang	Shuo Wang
+46	245	Shuo Wang	Shuo Wang
+46	249	Shuo Wang	Shuo Wang
+48	49	Shuo Wang	Shuo Wang
+48	93	Shuo Wang	Shuo Wang
+48	95	Shuo Wang	Shuo Wang
+48	96	Shuo Wang	Shuo Wang
+48	101	Shuo Wang	Shuo Wang
+48	191	Shuo Wang	Shuo Wang
+48	201	Shuo Wang	Shuo Wang
+48	245	Shuo Wang	Shuo Wang
+48	249	Shuo Wang	Shuo Wang
+49	93	Shuo Wang	Shuo Wang
+49	95	Shuo Wang	Shuo Wang
+49	96	Shuo Wang	Shuo Wang
+49	96	Jianwei Dai	Jianwei Dai
+49	101	Shuo Wang	Shuo Wang
+49	191	Shuo Wang	Shuo Wang
+49	201	Shuo Wang	Shuo Wang
+49	239	Jianwei Dai	Jianwei Dai
+49	245	Shuo Wang	Shuo Wang
+49	245	Jianwei Dai	Jianwei Dai
+49	249	Shuo Wang	Shuo Wang
+49	249	Jianwei Dai	Jianwei Dai
+49	256	Jianwei Dai	Jianwei Dai
+50	55	Zhiping P. Chen	Zhiping P. Chen
+50	55	Xinhua H. Jiang	Xinhua H. Jiang
+51	63	Kap Luk Chan	Kap Luk Chan
+51	69	Ping Xue	Ping Xue
+51	80	Kap Luk Chan	Kap Luk Chan
+51	80	Ping Xue	Ping Xue
+51	81	Kap Luk Chan	Kap Luk Chan
+51	83	Kap Luk Chan	Kap Luk Chan
+51	118	Kap Luk Chan	Kap Luk Chan
+51	118	Ping Xue	Ping Xue
+51	120	Ping Xue	Ping Xue
+51	186	Kap Luk Chan	Kap Luk Chan
+51	195	Kap Luk Chan	Kap Luk Chan
+51	206	Kap Luk Chan	Kap Luk Chan
+51	206	Ping Xue	Ping Xue
+51	207	Kap Luk Chan	Kap Luk Chan
+51	207	Ping Xue	Ping Xue
+51	212	Ping Xue	Ping Xue
+51	236	Kap Luk Chan	Kap Luk Chan
+51	236	Ping Xue	Ping Xue
+52	54	Padmanabhan Krishnan	Padmanabhan Krishnan
+53	68	Licheng Jiao	Licheng Jiao
+53	75	Licheng Jiao	Licheng Jiao
+53	105	Licheng Jiao	Licheng Jiao
+53	106	Licheng Jiao	Licheng Jiao
+53	205	Licheng Jiao	Licheng Jiao
+56	57	Guoqing Yang	Guoqing Yang
+56	57	Zhaohui Wu	Zhaohui Wu
+56	97	Zhaohui Wu	Zhaohui Wu
+56	131	Guoqing Yang	Guoqing Yang
+56	131	Zhaohui Wu	Zhaohui Wu
+56	134	Zhaohui Wu	Zhaohui Wu
+57	97	Mingde Zhao	Mingde Zhao
+57	97	Zhaohui Wu	Zhaohui Wu
+57	131	Mingde Zhao	Mingde Zhao
+57	131	Zhaohui Wu	Zhaohui Wu
+57	131	Guoqing Yang	Guoqing Yang
+57	134	Mingde Zhao	Mingde Zhao
+57	134	Zhaohui Wu	Zhaohui Wu
+59	128	Xin Yuan	Xin Yuan
+59	285	Xin Yuan	Xin Yuan
+59	285	Miaoliang Zhu	Miaoliang Zhu
+61	118	Xuchun Li	Xuchun Li
+61	194	Xuchun Li	Xuchun Li
+61	288	Xuchun Li	Xuchun Li
+61	288	Eric Sung	Eric Sung
+62	185	James J. Clark	James J. Clark
+63	80	Kap Luk Chan	Kap Luk Chan
+63	81	Kap Luk Chan	Kap Luk Chan
+63	83	Kap Luk Chan	Kap Luk Chan
+63	118	Kap Luk Chan	Kap Luk Chan
+63	186	Kap Luk Chan	Kap Luk Chan
+63	195	Kap Luk Chan	Kap Luk Chan
+63	206	Kap Luk Chan	Kap Luk Chan
+63	207	Kap Luk Chan	Kap Luk Chan
+63	236	Kap Luk Chan	Kap Luk Chan
+64	65	Xu Liu	Xu Liu
+64	65	Guangyou Xu	Guangyou Xu
+64	114	Guangyou Xu	Guangyou Xu
+64	196	Guangyou Xu	Guangyou Xu
+64	196	Heung-Yeung Shum	Heung-Yeung Shum
+65	114	Guangyou Xu	Guangyou Xu
+65	196	Guangyou Xu	Guangyou Xu
+67	129	Lu Wang	Lu Wang
+67	129	Ming Wen	Ming Wen
+67	129	Qing Zhuo	Qing Zhuo
+67	129	Wenyuan Wang	Wenyuan Wang
+68	75	Licheng Jiao	Licheng Jiao
+68	105	Licheng Jiao	Licheng Jiao
+68	106	Licheng Jiao	Licheng Jiao
+68	205	Licheng Jiao	Licheng Jiao
+68	238	Li Zhang	Li Zhang
+69	80	Ping Xue	Ping Xue
+69	118	Ping Xue	Ping Xue
+69	120	Xiao-Dong Yu	Xiao-Dong Yu
+69	120	Ping Xue	Ping Xue
+69	120	Qi Tian	Qi Tian
+69	206	Ping Xue	Ping Xue
+69	207	Ping Xue	Ping Xue
+69	212	Xiao-Dong Yu	Xiao-Dong Yu
+69	212	Ping Xue	Ping Xue
+69	212	Qi Tian	Qi Tian
+69	236	Ping Xue	Ping Xue
+70	98	Haizhou Li	Haizhou Li
+70	98	Engsiong Chng	Chng Eng Siong
+72	306	Shen Huang	Shen Huang
+72	306	Bo Xu	Bo Xu
+75	76	Yinling Nie	Yinling Nie
+75	105	Yinling Nie	Yinling Nie
+75	105	Weike Nie	Weike Nie
+75	105	Licheng Jiao	Licheng Jiao
+75	106	Yinling Nie	Yinling Nie
+75	106	Weike Nie	Weike Nie
+75	106	Licheng Jiao	Licheng Jiao
+75	205	Licheng Jiao	Licheng Jiao
+76	105	Yinling Nie	Yinling Nie
+76	106	Yinling Nie	Yinling Nie
+79	113	Richard I. Hartley	Richard Hartley
+79	268	Hongdong Li	Hongdong Li
+79	268	Richard I. Hartley	Richard Hartley
+80	81	Kap Luk Chan	Kap Luk Chan
+80	83	Kap Luk Chan	Kap Luk Chan
+80	118	Ping Xue	Ping Xue
+80	118	Kap Luk Chan	Kap Luk Chan
+80	120	Ping Xue	Ping Xue
+80	186	Kap Luk Chan	Kap Luk Chan
+80	195	Kap Luk Chan	Kap Luk Chan
+80	206	Ping Xue	Ping Xue
+80	206	Kap Luk Chan	Kap Luk Chan
+80	207	Ping Xue	Ping Xue
+80	207	Kap Luk Chan	Kap Luk Chan
+80	212	Ping Xue	Ping Xue
+80	236	Ping Xue	Ping Xue
+80	236	Kap Luk Chan	Kap Luk Chan
+81	83	Kap Luk Chan	Kap Luk Chan
+81	118	Kap Luk Chan	Kap Luk Chan
+81	186	Kap Luk Chan	Kap Luk Chan
+81	195	Kap Luk Chan	Kap Luk Chan
+81	206	Kap Luk Chan	Kap Luk Chan
+81	207	Kap Luk Chan	Kap Luk Chan
+81	236	Kap Luk Chan	Kap Luk Chan
+82	291	Xiaobing Feng	Xiaobing Feng
+83	118	Kap Luk Chan	Kap Luk Chan
+83	186	Kap Luk Chan	Kap Luk Chan
+83	195	Kap Luk Chan	Kap Luk Chan
+83	206	Kap Luk Chan	Kap Luk Chan
+83	207	Kap Luk Chan	Kap Luk Chan
+83	236	Kap Luk Chan	Kap Luk Chan
+84	146	Qidi Wu	Q. Wu
+84	176	Qi Kang	Qi Kang
+84	176	Qidi Wu	Qidi Wu
+84	177	Qi Kang	Qi Kang
+84	177	Qidi Wu	Qidi Wu
+84	213	Qi Kang	Qi Kang
+84	213	Qidi Wu	Qidi Wu
+85	154	Qiuyi Duan	Qiuyi Duan
+85	154	Daniel Zappala	Daniel Zappala
+85	223	Daniel Zappala	Daniel Zappala
+87	124	Jianfeng Zhan	Jianfeng Zhan
+87	126	Jianfeng Zhan	Jianfeng Zhan
+87	135	Zhi-Hong Zhang	Zhihong Zhang
+87	135	Dan Meng	Dan Meng
+87	135	Jianfeng Zhan	Jianfeng Zhan
+87	169	Jianfeng Zhan	Jianfeng Zhan
+87	227	Dan Meng	Dan Meng
+87	227	Jianfeng Zhan	Jianfeng Zhan
+87	241	Jianfeng Zhan	Jianfeng Zhan
+87	297	Zhi-Hong Zhang	Zhihong Zhang
+87	297	Dan Meng	Dan Meng
+87	297	Jianfeng Zhan	Jianfeng Zhan
+88	192	Lars S. Nyland	Lars S. Nyland
+88	192	Jan Prins	Jan Prins
+88	192	Ru Huai Yun	Ru Huai Yun
+88	192	Jan Hermans	Jan Hermans
+88	192	Hye-Chung Kum	Hye-Chung Kum
+91	100	Naresh R. Shanbhag	Naresh R. Shanbhag
+91	209	Naresh R. Shanbhag	Naresh R. Shanbhag
+91	210	Naresh R. Shanbhag	Naresh R. Shanbhag
+93	95	Shuo Wang	Shuo Wang
+93	96	Shuo Wang	Shuo Wang
+93	101	Shuo Wang	Shuo Wang
+93	191	Shuo Wang	Shuo Wang
+93	201	Shuo Wang	Shuo Wang
+93	245	Shuo Wang	Shuo Wang
+93	249	Shuo Wang	Shuo Wang
+94	211	Niral Patel	Niral Patel
+94	216	Niral Patel	Niral Patel
+95	96	Shuo Wang	Shuo Wang
+95	101	Shuo Wang	Shuo Wang
+95	191	Shuo Wang	Shuo Wang
+95	201	Shuo Wang	Shuo Wang
+95	245	Shuo Wang	Shuo Wang
+95	249	Shuo Wang	Shuo Wang
+96	101	Shuo Wang	Shuo Wang
+96	191	Shuo Wang	Shuo Wang
+96	191	Faquir Jain	Faquir Jain
+96	201	Shuo Wang	Shuo Wang
+96	239	Jianwei Dai	Jianwei Dai
+96	245	Shuo Wang	Shuo Wang
+96	245	Jianwei Dai	Jianwei Dai
+96	249	Shuo Wang	Shuo Wang
+96	249	Jianwei Dai	Jianwei Dai
+96	249	El-Sayed Hasaneen	El-Sayed Hasaneen
+96	249	Faquir Jain	Faquir Jain
+96	256	Jianwei Dai	Jianwei Dai
+97	131	Mingde Zhao	Mingde Zhao
+97	131	Zhaohui Wu	Zhaohui Wu
+97	134	Mingde Zhao	Mingde Zhao
+97	134	Zengwei Zheng	Zengwei Zheng
+97	134	Zhaohui Wu	Zhaohui Wu
+100	209	Naresh R. Shanbhag	Naresh R. Shanbhag
+100	210	Naresh R. Shanbhag	Naresh R. Shanbhag
+101	191	Shuo Wang	Shuo Wang
+101	201	Shuo Wang	Shuo Wang
+101	245	Shuo Wang	Shuo Wang
+101	249	Shuo Wang	Shuo Wang
+104	108	Shixin Sun	Shixin Sun
+104	187	Shixin Sun	Shixin Sun
+104	221	Yong Yang	Yong Yang
+104	290	Yong Yang	Yong Yang
+105	106	Yinling Nie	Yinling Nie
+105	106	Weike Nie	Weike Nie
+105	106	Licheng Jiao	Licheng Jiao
+105	205	Licheng Jiao	Licheng Jiao
+106	205	Licheng Jiao	Licheng Jiao
+108	187	Shixin Sun	Shixin Sun
+109	110	Latifur Khan	Latifur Khan
+109	115	Latifur Khan	Latifur Khan
+109	116	Latifur Khan	Latifur Khan
+109	117	Latifur Khan	Latifur Khan
+109	119	Latifur Khan	Latifur Khan
+109	151	Latifur Khan	Latifur Khan
+109	193	Latifur Khan	Latifur Khan
+109	217	Latifur Khan	Latifur Khan
+110	115	Latifur Khan	Latifur Khan
+110	116	Latifur Khan	Latifur Khan
+110	117	Latifur Khan	Latifur Khan
+110	119	Latifur Khan	Latifur Khan
+110	151	Latifur Khan	Latifur Khan
+110	193	Latifur Khan	Latifur Khan
+110	217	Latifur Khan	Latifur Khan
+112	197	Carl McCrosky	Carl McCrosky
+113	236	Luping Zhou	Luping Zhou
+113	268	Richard Hartley	Richard Hartley
+114	196	Guangyou Xu	Guangyou Xu
+115	116	Latifur Khan	Latifur Khan
+115	117	Latifur Khan	Latifur Khan
+115	119	Latifur Khan	Latifur Khan
+115	151	Latifur Khan	Latifur Khan
+115	193	Latifur Khan	Latifur Khan
+115	217	Latifur Khan	Latifur Khan
+116	117	Yohan Jin	Yohan Jin
+116	117	Latifur Khan	Latifur Khan
+116	119	Latifur Khan	Latifur Khan
+116	151	Latifur Khan	Latifur Khan
+116	193	Latifur Khan	Latifur Khan
+116	217	Latifur Khan	Latifur Khan
+117	119	Latifur Khan	Latifur Khan
+117	151	Latifur Khan	Latifur Khan
+117	193	Latifur Khan	Latifur Khan
+117	217	Latifur Khan	Latifur Khan
+118	120	Ping Xue	Ping Xue
+118	186	Kap Luk Chan	Kap Luk Chan
+118	194	Xuchun Li	Xuchun Li
+118	195	Kap Luk Chan	Kap Luk Chan
+118	206	Ping Xue	Ping Xue
+118	206	Kap Luk Chan	Kap Luk Chan
+118	207	Ping Xue	Ping Xue
+118	207	Kap Luk Chan	Kap Luk Chan
+118	212	Ping Xue	Ping Xue
+118	236	Ping Xue	Ping Xue
+118	236	Kap Luk Chan	Kap Luk Chan
+118	288	Xuchun Li	Xuchun Li
+119	151	Latifur Khan	Latifur Khan
+119	193	Latifur Khan	Latifur Khan
+119	217	Latifur Khan	Latifur Khan
+120	206	Ping Xue	Ping Xue
+120	207	Ping Xue	Ping Xue
+120	212	Xiao-Dong Yu	Xiao-Dong Yu
+120	212	Qi Tian	Qi Tian
+120	212	Ping Xue	Ping Xue
+120	236	Ping Xue	Ping Xue
+121	248	Chunhua Shen	Chunhua Shen
+124	126	Ming Zou	Ming Zou
+124	126	Jianfeng Zhan	Jianfeng Zhan
+124	135	Bibo Tu	Bibo Tu
+124	135	Jianfeng Zhan	Jianfeng Zhan
+124	169	Jianfeng Zhan	Jianfeng Zhan
+124	227	Bibo Tu	Bibo Tu
+124	227	Jianfeng Zhan	Jianfeng Zhan
+124	241	Jianfeng Zhan	Jianfeng Zhan
+124	297	Jianfeng Zhan	Jianfeng Zhan
+125	141	Xueqi Cheng	Xueqi Cheng
+126	135	Jianfeng Zhan	Jianfeng Zhan
+126	135	Hui Wang	Hui Wang
+126	169	Jianfeng Zhan	Jianfeng Zhan
+126	227	Jianfeng Zhan	Jianfeng Zhan
+126	241	Jianfeng Zhan	Jianfeng Zhan
+126	297	Jianfeng Zhan	Jianfeng Zhan
+126	297	Hui Wang	Hui Wang
+128	285	Xin Yuan	Xin Yuan
+131	134	Zhaohui Wu	Zhaohui Wu
+131	134	Mingde Zhao	Mingde Zhao
+133	144	Dian Tjondronegoro	Dian Tjondronegoro
+133	163	Dian Tjondronegoro	Dian Tjondronegoro
+133	188	Dian Tjondronegoro	Dian Tjondronegoro
+135	169	Jianfeng Zhan	Jianfeng Zhan
+135	227	Jianfeng Zhan	Jianfeng Zhan
+135	227	Bibo Tu	Bibo Tu
+135	227	Peng Wang	Peng Wang
+135	227	Dan Meng	Dan Meng
+135	241	Jianfeng Zhan	Jianfeng Zhan
+135	297	Jianfeng Zhan	Jianfeng Zhan
+135	297	Hui Wang	Hui Wang
+135	297	Zhihong Zhang	Zhihong Zhang
+135	297	Yi Jin	Yi Jin
+135	297	Yu Wen	Yu Wen
+135	297	Dan Meng	Dan Meng
+141	144	Yue Liu	Yue Liu
+142	143	Yaping Lin	Yaping Lin
+142	153	Yaping Lin	Yaping Lin
+142	294	Yaping Lin	Ya-Ping Lin
+143	153	Yaping Lin	Yaping Lin
+143	294	Yaping Lin	Ya-Ping Lin
+144	163	Dian Tjondronegoro	Dian Tjondronegoro
+144	188	Dian Tjondronegoro	Dian Tjondronegoro
+145	287	Sandeep K. Gupta	Sandeep K. Gupta
+145	287	Melvin A. Breuer	Melvin A. Breuer
+146	176	Q. Wu	Qidi Wu
+146	177	Q. Wu	Qidi Wu
+146	213	Q. Wu	Qidi Wu
+147	172	Bin Zhou	Bin Zhou
+147	172	Hongyan Li	Hongyan Li
+147	172	Huaqiang Zhang	Huaqiang Zhang
+147	274	Hongyan Li	Hongyan Li
+149	150	Jie Yang	Jie Yang
+149	150	Song Zhang	Song Zhang
+149	150	Ning Zhang	Ning Zhang
+149	150	Zhuoqun Xu	Zhuoqun Xu
+149	298	Jie Yang	Jie Yang
+149	298	Ning Zhang	Ning Zhang
+150	298	Ning Zhang	Ning Zhang
+150	298	Jie Yang	Jie Yang
+151	193	Latifur Khan	Latifur Khan
+151	217	Latifur Khan	Latifur Khan
+151	217	Bhavani M. Thuraisingham	Bhavani M. Thuraisingham
+152	259	Vijay V. Vazirani	Vijay V. Vazirani
+152	273	Gagan Goel	Gagan Goel
+152	281	Gagan Goel	Gagan Goel
+153	294	Yaping Lin	Ya-Ping Lin
+154	223	Daniel Zappala	Daniel Zappala
+155	238	Qiang Ye	Qiang Ye
+157	175	Keying Wu	Keying Wu
+157	175	Liyu Cai	Liyu Cai
+159	178	Yuhua Chen	Yuhua Chen
+160	277	Jie Zhang	Jie Zhang
+160	277	Guanjun Gao	Guanjun Gao
+160	277	Xiuzhong Chen	Xiuzhong Chen
+160	277	Wanyi Gu	Wanyi Gu
+162	167	Shulin Chen	Shulin Chen
+163	188	Dian Tjondronegoro	Dian Tjondronegoro
+166	180	Kazuo Ohta	Kazuo Ohta
+166	180	Noboru Kunihiro	Noboru Kunihiro
+166	183	Yu Sasaki	Yu Sasaki
+166	183	Kazuo Ohta	Kazuo Ohta
+166	183	Noboru Kunihiro	Noboru Kunihiro
+166	230	Kazuo Ohta	Kazuo Ohta
+166	230	Noboru Kunihiro	Noboru Kunihiro
+166	231	Yu Sasaki	Yu Sasaki
+166	231	Kazuo Ohta	Kazuo Ohta
+166	231	Noboru Kunihiro	Noboru Kunihiro
+166	240	Yu Sasaki	Yu Sasaki
+166	240	Kazuo Ohta	Kazuo Ohta
+166	253	Yu Sasaki	Yu Sasaki
+166	254	Kazuo Ohta	Kazuo Ohta
+168	170	Song Ma	Song Ma
+168	170	Xin-hong Hei	Xin-hong Hei
+169	227	Jianfeng Zhan	Jianfeng Zhan
+169	241	Yi Liang	Yi Liang
+169	241	Jianfeng Zhan	Jianfeng Zhan
+169	297	Jianfeng Zhan	Jianfeng Zhan
+172	274	Hongyan Li	Hongyan Li
+173	214	Zhiying Wang	Zhiying Wang
+173	214	Kui Dai	Kui Dai
+173	247	Zhiying Wang	Zhiying Wang
+173	267	Zhiying Wang	Zhiying Wang
+176	177	Qi Kang	Qi Kang
+176	177	Hui Xiao	Hui Xiao
+176	177	Qidi Wu	Qidi Wu
+176	213	Qi Kang	Qi Kang
+176	213	Qidi Wu	Qidi Wu
+177	213	Qi Kang	Qi Kang
+177	213	Qidi Wu	Qidi Wu
+179	182	Shihua Zhu	Shihua Zhu
+180	183	Noboru Kunihiro	Noboru Kunihiro
+180	183	Kazuo Ohta	Kazuo Ohta
+180	230	Noboru Kunihiro	Noboru Kunihiro
+180	230	Kazuo Ohta	Kazuo Ohta
+180	231	Noboru Kunihiro	Noboru Kunihiro
+180	231	Kazuo Ohta	Kazuo Ohta
+180	240	Kazuo Ohta	Kazuo Ohta
+180	254	Kazuki Yoneyama	Kazuki Yoneyama
+180	254	Kazuo Ohta	Kazuo Ohta
+182	228	Jun Wang	Jun Wang
+182	229	Jun Wang	Jun Wang
+182	246	Jun Wang	Jun Wang
+183	230	Noboru Kunihiro	Noboru Kunihiro
+183	230	Kazuo Ohta	Kazuo Ohta
+183	231	Yu Sasaki	Yu Sasaki
+183	231	Noboru Kunihiro	Noboru Kunihiro
+183	231	Kazuo Ohta	Kazuo Ohta
+183	240	Yu Sasaki	Yu Sasaki
+183	240	Kazuo Ohta	Kazuo Ohta
+183	253	Yu Sasaki	Yu Sasaki
+183	254	Kazuo Ohta	Kazuo Ohta
+184	232	Dongweon Yoon	Dongweon Yoon
+184	232	Sang Kyu Park	Sang Kyu Park
+186	195	Kap Luk Chan	Kap Luk Chan
+186	206	Kap Luk Chan	Kap Luk Chan
+186	207	Kap Luk Chan	Kap Luk Chan
+186	236	Kap Luk Chan	Kap Luk Chan
+191	201	Shuo Wang	Shuo Wang
+191	245	Shuo Wang	Shuo Wang
+191	249	Shuo Wang	Shuo Wang
+191	249	Faquir Jain	Faquir Jain
+193	217	Latifur Khan	Latifur Khan
+194	288	Xuchun Li	Xuchun Li
+195	206	Kap Luk Chan	Kap Luk Chan
+195	207	Kap Luk Chan	Kap Luk Chan
+195	236	Kap Luk Chan	Kap Luk Chan
+198	199	Jun Liu	Jun Liu
+198	200	Jun Liu	Jun Liu
+199	200	Jun Liu	Jun Liu
+201	245	Shuo Wang	Shuo Wang
+201	249	Shuo Wang	Shuo Wang
+202	203	Weihua Zhuang	Weihua Zhuang
+202	203	Yu Cheng	Yu Cheng
+202	215	Weihua Zhuang	Weihua Zhuang
+203	215	Weihua Zhuang	Weihua Zhuang
+206	207	Kap Luk Chan	Kap Luk Chan
+206	207	Ping Xue	Ping Xue
+206	212	Ping Xue	Ping Xue
+206	236	Kap Luk Chan	Kap Luk Chan
+206	236	Ping Xue	Ping Xue
+207	212	Ping Xue	Ping Xue
+207	236	Ping Xue	Ping Xue
+207	236	Kap Luk Chan	Kap Luk Chan
+209	210	Naresh R. Shanbhag	Naresh R. Shanbhag
+211	216	Niral Patel	Niral Patel
+212	236	Ping Xue	Ping Xue
+214	227	Yong Li	Yong Li
+214	247	Zhiying Wang	Zhiying Wang
+214	267	Zhiying Wang	Zhiying Wang
+220	270	Yong Xu	Yong Xu
+221	290	Yong Yang	Yong Yang
+224	257	Yang Li	Li Yang
+224	265	Shiji Song	Shiji Song
+224	265	Yong Ren	Yong Ren
+225	226	Jianxiong Ye	Jianxiong Ye
+225	226	Enmin Feng	Enmin Feng
+225	226	Zhilong Xiu	Zhilong Xiu
+225	307	Enmin Feng	Enmin Feng
+226	307	Enmin Feng	Enmin Feng
+227	241	Jianfeng Zhan	Jianfeng Zhan
+227	297	Jianfeng Zhan	Jianfeng Zhan
+227	297	Dan Meng	Dan Meng
+228	229	Jun Wang	Jun Wang
+228	229	Satoshi Goto	Satoshi Goto
+228	229	Takeshi Ikenaga	Takeshi Ikenaga
+228	246	Jun Wang	Jun Wang
+228	246	Satoshi Goto	Satoshi Goto
+228	246	Takeshi Ikenaga	Takeshi Ikenaga
+229	246	Jun Wang	Jun Wang
+229	246	Takeshi Ikenaga	Takeshi Ikenaga
+229	246	Satoshi Goto	Satoshi Goto
+230	231	Kazuo Ohta	Kazuo Ohta
+230	231	Noboru Kunihiro	Noboru Kunihiro
+230	240	Kazuo Ohta	Kazuo Ohta
+230	254	Kazuo Ohta	Kazuo Ohta
+231	240	Yu Sasaki	Yu Sasaki
+231	240	Kazuo Ohta	Kazuo Ohta
+231	253	Yu Sasaki	Yu Sasaki
+231	254	Kazuo Ohta	Kazuo Ohta
+238	296	Chen Yang	Chen Yang
+239	245	Jianwei Dai	Jianwei Dai
+239	249	Jianwei Dai	Jianwei Dai
+239	256	Jianwei Dai	Jianwei Dai
+240	253	Yu Sasaki	Yu Sasaki
+240	254	Kazuo Ohta	Kazuo Ohta
+241	297	Jianfeng Zhan	Jianfeng Zhan
+243	262	Lei Shu	Lei Shu
+243	262	Manfred Hauswirth	Manfred Hauswirth
+243	262	Yan Zhang	Yan Zhang
+243	299	Lei Shu	Lei Shu
+243	301	Lei Shu	Lei Shu
+243	301	Manfred Hauswirth	Manfred Hauswirth
+244	282	Weiguo Tang	Weiguo Tang
+245	249	Shuo Wang	Shuo Wang
+245	249	Jianwei Dai	Jianwei Dai
+245	256	Jianwei Dai	Jianwei Dai
+247	267	Gang Jin	Gang Jin
+247	267	Zhiying Wang	Zhiying Wang
+249	256	Jianwei Dai	Jianwei Dai
+250	251	Diwakar Gupta	Diwakar Gupta
+262	299	Lei Shu	Lei Shu
+262	301	Lei Shu	Lei Shu
+262	301	Manfred Hauswirth	Manfred Hauswirth
+273	281	Gagan Goel	Gagan Goel
+273	281	Pushkar Tripathi	Pushkar Tripathi
+280	283	Yunlong Cai	Yunlong Cai
+280	283	Rodrigo C. de Lamare	Rodrigo C. de Lamare
+286	294	Zhi-ping Chen	Zhi-ping Chen
+299	301	Zhuxiu Yuan	Zhuxiu Yuan
+299	301	Yuanfang Chen	Yuanfang Chen
+299	301	Lei Shu	Lei Shu

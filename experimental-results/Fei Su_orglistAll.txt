@@ -1,0 +1,666 @@
+0	1	Duke University, Durham, NC	Duke University, Durham, NC
+0	2	Duke University, Durham, NC	Duke University, Durham, NC
+0	3	Duke University, Durham, NC	Duke University, Durham, NC
+0	4	Duke University, Durham, NC	Duke University, NC
+0	5	Duke University, Durham, NC	Duke University, Durham, NC
+0	6	Duke University, Durham, NC	null
+0	7	Duke University, Durham, NC	null
+0	8	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+0	9	Duke University, Durham, NC	Beijing University of Posts and Telecommunications
+0	10	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+0	11	Duke University, Durham, NC	Duke University, Durham, NC
+0	12	Duke University, Durham, NC	Duke University
+0	13	Duke University, Durham, NC	null
+0	14	Duke University, Durham, NC	null
+0	15	Duke University, Durham, NC	null
+0	16	Duke University, Durham, NC	null
+0	17	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+0	18	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+0	19	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+0	20	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+0	21	Duke University, Durham, NC	Intel
+0	22	Duke University, Durham, NC	Duke University, Durham, NC
+0	23	Duke University, Durham, NC	Intel Corporation
+0	24	Duke University, Durham, NC	Intel Corporation, Folsom, CA
+0	25	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+0	26	Duke University, Durham, NC	null
+0	27	Duke University, Durham, NC	Duke University, Durham, NC
+0	28	Duke University, Durham, NC	Duke University, Durham, NC
+0	29	Duke University, Durham, NC	null
+0	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+0	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+0	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+0	33	Duke University, Durham, NC	null
+0	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+0	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+0	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+1	2	Duke University, Durham, NC	Duke University, Durham, NC
+1	3	Duke University, Durham, NC	Duke University, Durham, NC
+1	4	Duke University, Durham, NC	Duke University, NC
+1	5	Duke University, Durham, NC	Duke University, Durham, NC
+1	6	Duke University, Durham, NC	null
+1	7	Duke University, Durham, NC	null
+1	8	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+1	9	Duke University, Durham, NC	Beijing University of Posts and Telecommunications
+1	10	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+1	11	Duke University, Durham, NC	Duke University, Durham, NC
+1	12	Duke University, Durham, NC	Duke University
+1	13	Duke University, Durham, NC	null
+1	14	Duke University, Durham, NC	null
+1	15	Duke University, Durham, NC	null
+1	16	Duke University, Durham, NC	null
+1	17	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+1	18	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+1	19	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+1	20	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+1	21	Duke University, Durham, NC	Intel
+1	22	Duke University, Durham, NC	Duke University, Durham, NC
+1	23	Duke University, Durham, NC	Intel Corporation
+1	24	Duke University, Durham, NC	Intel Corporation, Folsom, CA
+1	25	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+1	26	Duke University, Durham, NC	null
+1	27	Duke University, Durham, NC	Duke University, Durham, NC
+1	28	Duke University, Durham, NC	Duke University, Durham, NC
+1	29	Duke University, Durham, NC	null
+1	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+1	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+1	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+1	33	Duke University, Durham, NC	null
+1	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+1	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+1	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+2	3	Duke University, Durham, NC	Duke University, Durham, NC
+2	4	Duke University, Durham, NC	Duke University, NC
+2	5	Duke University, Durham, NC	Duke University, Durham, NC
+2	6	Duke University, Durham, NC	null
+2	7	Duke University, Durham, NC	null
+2	8	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+2	9	Duke University, Durham, NC	Beijing University of Posts and Telecommunications
+2	10	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+2	11	Duke University, Durham, NC	Duke University, Durham, NC
+2	12	Duke University, Durham, NC	Duke University
+2	13	Duke University, Durham, NC	null
+2	14	Duke University, Durham, NC	null
+2	15	Duke University, Durham, NC	null
+2	16	Duke University, Durham, NC	null
+2	17	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+2	18	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+2	19	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+2	20	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+2	21	Duke University, Durham, NC	Intel
+2	22	Duke University, Durham, NC	Duke University, Durham, NC
+2	23	Duke University, Durham, NC	Intel Corporation
+2	24	Duke University, Durham, NC	Intel Corporation, Folsom, CA
+2	25	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+2	26	Duke University, Durham, NC	null
+2	27	Duke University, Durham, NC	Duke University, Durham, NC
+2	28	Duke University, Durham, NC	Duke University, Durham, NC
+2	29	Duke University, Durham, NC	null
+2	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+2	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+2	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+2	33	Duke University, Durham, NC	null
+2	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+2	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+2	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+3	4	Duke University, Durham, NC	Duke University, NC
+3	5	Duke University, Durham, NC	Duke University, Durham, NC
+3	6	Duke University, Durham, NC	null
+3	7	Duke University, Durham, NC	null
+3	8	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+3	9	Duke University, Durham, NC	Beijing University of Posts and Telecommunications
+3	10	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+3	11	Duke University, Durham, NC	Duke University, Durham, NC
+3	12	Duke University, Durham, NC	Duke University
+3	13	Duke University, Durham, NC	null
+3	14	Duke University, Durham, NC	null
+3	15	Duke University, Durham, NC	null
+3	16	Duke University, Durham, NC	null
+3	17	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+3	18	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+3	19	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+3	20	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+3	21	Duke University, Durham, NC	Intel
+3	22	Duke University, Durham, NC	Duke University, Durham, NC
+3	23	Duke University, Durham, NC	Intel Corporation
+3	24	Duke University, Durham, NC	Intel Corporation, Folsom, CA
+3	25	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+3	26	Duke University, Durham, NC	null
+3	27	Duke University, Durham, NC	Duke University, Durham, NC
+3	28	Duke University, Durham, NC	Duke University, Durham, NC
+3	29	Duke University, Durham, NC	null
+3	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+3	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+3	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+3	33	Duke University, Durham, NC	null
+3	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+3	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+3	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+4	5	Duke University, NC	Duke University, Durham, NC
+4	6	Duke University, NC	null
+4	7	Duke University, NC	null
+4	8	Duke University, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+4	9	Duke University, NC	Beijing University of Posts and Telecommunications
+4	10	Duke University, NC	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+4	11	Duke University, NC	Duke University, Durham, NC
+4	12	Duke University, NC	Duke University
+4	13	Duke University, NC	null
+4	14	Duke University, NC	null
+4	15	Duke University, NC	null
+4	16	Duke University, NC	null
+4	17	Duke University, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+4	18	Duke University, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+4	19	Duke University, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+4	20	Duke University, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+4	21	Duke University, NC	Intel
+4	22	Duke University, NC	Duke University, Durham, NC
+4	23	Duke University, NC	Intel Corporation
+4	24	Duke University, NC	Intel Corporation, Folsom, CA
+4	25	Duke University, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+4	26	Duke University, NC	null
+4	27	Duke University, NC	Duke University, Durham, NC
+4	28	Duke University, NC	Duke University, Durham, NC
+4	29	Duke University, NC	null
+4	30	Duke University, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+4	31	Duke University, NC	Intel Corporation, Folsom, USA
+4	32	Duke University, NC	Beijing University of Posts and Telecommunications, Beijing, China
+4	33	Duke University, NC	null
+4	34	Duke University, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+4	35	Duke University, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+4	36	Duke University, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+5	6	Duke University, Durham, NC	null
+5	7	Duke University, Durham, NC	null
+5	8	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+5	9	Duke University, Durham, NC	Beijing University of Posts and Telecommunications
+5	10	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+5	11	Duke University, Durham, NC	Duke University, Durham, NC
+5	12	Duke University, Durham, NC	Duke University
+5	13	Duke University, Durham, NC	null
+5	14	Duke University, Durham, NC	null
+5	15	Duke University, Durham, NC	null
+5	16	Duke University, Durham, NC	null
+5	17	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+5	18	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+5	19	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+5	20	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+5	21	Duke University, Durham, NC	Intel
+5	22	Duke University, Durham, NC	Duke University, Durham, NC
+5	23	Duke University, Durham, NC	Intel Corporation
+5	24	Duke University, Durham, NC	Intel Corporation, Folsom, CA
+5	25	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+5	26	Duke University, Durham, NC	null
+5	27	Duke University, Durham, NC	Duke University, Durham, NC
+5	28	Duke University, Durham, NC	Duke University, Durham, NC
+5	29	Duke University, Durham, NC	null
+5	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+5	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+5	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+5	33	Duke University, Durham, NC	null
+5	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+5	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+5	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+6	7	null	null
+6	8	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+6	9	null	Beijing University of Posts and Telecommunications
+6	10	null	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+6	11	null	Duke University, Durham, NC
+6	12	null	Duke University
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+6	18	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+6	19	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+6	20	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+6	21	null	Intel
+6	22	null	Duke University, Durham, NC
+6	23	null	Intel Corporation
+6	24	null	Intel Corporation, Folsom, CA
+6	25	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+6	26	null	null
+6	27	null	Duke University, Durham, NC
+6	28	null	Duke University, Durham, NC
+6	29	null	null
+6	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+6	31	null	Intel Corporation, Folsom, USA
+6	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+6	33	null	null
+6	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+6	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+6	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+7	8	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+7	9	null	Beijing University of Posts and Telecommunications
+7	10	null	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+7	11	null	Duke University, Durham, NC
+7	12	null	Duke University
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+7	18	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+7	19	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+7	20	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+7	21	null	Intel
+7	22	null	Duke University, Durham, NC
+7	23	null	Intel Corporation
+7	24	null	Intel Corporation, Folsom, CA
+7	25	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+7	26	null	null
+7	27	null	Duke University, Durham, NC
+7	28	null	Duke University, Durham, NC
+7	29	null	null
+7	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+7	31	null	Intel Corporation, Folsom, USA
+7	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+7	33	null	null
+7	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+7	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+7	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+8	9	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing University of Posts and Telecommunications
+8	10	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+8	11	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+8	12	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University
+8	13	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+8	14	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+8	15	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+8	16	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+8	17	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+8	18	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+8	19	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+8	20	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+8	21	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel
+8	22	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+8	23	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation
+8	24	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, CA
+8	25	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+8	26	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+8	27	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+8	28	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+8	29	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+8	30	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+8	31	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, USA
+8	32	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing University of Posts and Telecommunications, Beijing, China
+8	33	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+8	34	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+8	35	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Univ. of Posts & Telecommun., Beijing, China
+8	36	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+9	10	Beijing University of Posts and Telecommunications	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China
+9	11	Beijing University of Posts and Telecommunications	Duke University, Durham, NC
+9	12	Beijing University of Posts and Telecommunications	Duke University
+9	13	Beijing University of Posts and Telecommunications	null
+9	14	Beijing University of Posts and Telecommunications	null
+9	15	Beijing University of Posts and Telecommunications	null
+9	16	Beijing University of Posts and Telecommunications	null
+9	17	Beijing University of Posts and Telecommunications	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+9	18	Beijing University of Posts and Telecommunications	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+9	19	Beijing University of Posts and Telecommunications	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+9	20	Beijing University of Posts and Telecommunications	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+9	21	Beijing University of Posts and Telecommunications	Intel
+9	22	Beijing University of Posts and Telecommunications	Duke University, Durham, NC
+9	23	Beijing University of Posts and Telecommunications	Intel Corporation
+9	24	Beijing University of Posts and Telecommunications	Intel Corporation, Folsom, CA
+9	25	Beijing University of Posts and Telecommunications	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+9	26	Beijing University of Posts and Telecommunications	null
+9	27	Beijing University of Posts and Telecommunications	Duke University, Durham, NC
+9	28	Beijing University of Posts and Telecommunications	Duke University, Durham, NC
+9	29	Beijing University of Posts and Telecommunications	null
+9	30	Beijing University of Posts and Telecommunications	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+9	31	Beijing University of Posts and Telecommunications	Intel Corporation, Folsom, USA
+9	32	Beijing University of Posts and Telecommunications	Beijing University of Posts and Telecommunications, Beijing, China
+9	33	Beijing University of Posts and Telecommunications	null
+9	34	Beijing University of Posts and Telecommunications	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+9	35	Beijing University of Posts and Telecommunications	Beijing Univ. of Posts & Telecommun., Beijing, China
+9	36	Beijing University of Posts and Telecommunications	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+10	11	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Duke University, Durham, NC
+10	12	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Duke University
+10	13	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	null
+10	14	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	null
+10	15	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	null
+10	16	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	null
+10	17	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+10	18	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+10	19	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+10	20	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+10	21	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Intel
+10	22	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Duke University, Durham, NC
+10	23	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Intel Corporation
+10	24	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Intel Corporation, Folsom, CA
+10	25	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+10	26	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	null
+10	27	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Duke University, Durham, NC
+10	28	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Duke University, Durham, NC
+10	29	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	null
+10	30	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+10	31	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Intel Corporation, Folsom, USA
+10	32	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Beijing University of Posts and Telecommunications, Beijing, China
+10	33	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	null
+10	34	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+10	35	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Beijing Univ. of Posts & Telecommun., Beijing, China
+10	36	Beijing University of Posts and Telecommunications, Beijing 100876, P.R.China	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+11	12	Duke University, Durham, NC	Duke University
+11	13	Duke University, Durham, NC	null
+11	14	Duke University, Durham, NC	null
+11	15	Duke University, Durham, NC	null
+11	16	Duke University, Durham, NC	null
+11	17	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+11	18	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+11	19	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+11	20	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+11	21	Duke University, Durham, NC	Intel
+11	22	Duke University, Durham, NC	Duke University, Durham, NC
+11	23	Duke University, Durham, NC	Intel Corporation
+11	24	Duke University, Durham, NC	Intel Corporation, Folsom, CA
+11	25	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+11	26	Duke University, Durham, NC	null
+11	27	Duke University, Durham, NC	Duke University, Durham, NC
+11	28	Duke University, Durham, NC	Duke University, Durham, NC
+11	29	Duke University, Durham, NC	null
+11	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+11	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+11	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+11	33	Duke University, Durham, NC	null
+11	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+11	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+11	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+12	13	Duke University	null
+12	14	Duke University	null
+12	15	Duke University	null
+12	16	Duke University	null
+12	17	Duke University	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+12	18	Duke University	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+12	19	Duke University	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+12	20	Duke University	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+12	21	Duke University	Intel
+12	22	Duke University	Duke University, Durham, NC
+12	23	Duke University	Intel Corporation
+12	24	Duke University	Intel Corporation, Folsom, CA
+12	25	Duke University	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+12	26	Duke University	null
+12	27	Duke University	Duke University, Durham, NC
+12	28	Duke University	Duke University, Durham, NC
+12	29	Duke University	null
+12	30	Duke University	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+12	31	Duke University	Intel Corporation, Folsom, USA
+12	32	Duke University	Beijing University of Posts and Telecommunications, Beijing, China
+12	33	Duke University	null
+12	34	Duke University	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+12	35	Duke University	Beijing Univ. of Posts & Telecommun., Beijing, China
+12	36	Duke University	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+13	18	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+13	19	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+13	20	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+13	21	null	Intel
+13	22	null	Duke University, Durham, NC
+13	23	null	Intel Corporation
+13	24	null	Intel Corporation, Folsom, CA
+13	25	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+13	26	null	null
+13	27	null	Duke University, Durham, NC
+13	28	null	Duke University, Durham, NC
+13	29	null	null
+13	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+13	31	null	Intel Corporation, Folsom, USA
+13	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+13	33	null	null
+13	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+13	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+13	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+14	15	null	null
+14	16	null	null
+14	17	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+14	18	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+14	19	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+14	20	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+14	21	null	Intel
+14	22	null	Duke University, Durham, NC
+14	23	null	Intel Corporation
+14	24	null	Intel Corporation, Folsom, CA
+14	25	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+14	26	null	null
+14	27	null	Duke University, Durham, NC
+14	28	null	Duke University, Durham, NC
+14	29	null	null
+14	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+14	31	null	Intel Corporation, Folsom, USA
+14	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+14	33	null	null
+14	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+14	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+14	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+15	16	null	null
+15	17	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+15	18	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+15	19	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+15	20	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+15	21	null	Intel
+15	22	null	Duke University, Durham, NC
+15	23	null	Intel Corporation
+15	24	null	Intel Corporation, Folsom, CA
+15	25	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+15	26	null	null
+15	27	null	Duke University, Durham, NC
+15	28	null	Duke University, Durham, NC
+15	29	null	null
+15	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+15	31	null	Intel Corporation, Folsom, USA
+15	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+15	33	null	null
+15	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+15	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+15	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+16	17	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+16	18	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+16	19	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+16	20	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+16	21	null	Intel
+16	22	null	Duke University, Durham, NC
+16	23	null	Intel Corporation
+16	24	null	Intel Corporation, Folsom, CA
+16	25	null	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+16	26	null	null
+16	27	null	Duke University, Durham, NC
+16	28	null	Duke University, Durham, NC
+16	29	null	null
+16	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+16	31	null	Intel Corporation, Folsom, USA
+16	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+16	33	null	null
+16	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+16	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+16	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+17	18	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+17	19	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+17	20	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+17	21	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Intel
+17	22	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Duke University, Durham, NC
+17	23	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Intel Corporation
+17	24	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Intel Corporation, Folsom, CA
+17	25	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+17	26	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	null
+17	27	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Duke University, Durham, NC
+17	28	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Duke University, Durham, NC
+17	29	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	null
+17	30	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+17	31	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Intel Corporation, Folsom, USA
+17	32	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+17	33	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	null
+17	34	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+17	35	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+17	36	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+18	19	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+18	20	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+18	21	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel
+18	22	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+18	23	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation
+18	24	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, CA
+18	25	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+18	26	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+18	27	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+18	28	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+18	29	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+18	30	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+18	31	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, USA
+18	32	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing University of Posts and Telecommunications, Beijing, China
+18	33	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+18	34	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+18	35	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Univ. of Posts & Telecommun., Beijing, China
+18	36	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+19	20	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA
+19	21	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel
+19	22	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+19	23	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation
+19	24	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, CA
+19	25	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+19	26	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+19	27	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+19	28	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+19	29	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+19	30	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+19	31	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, USA
+19	32	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing University of Posts and Telecommunications, Beijing, China
+19	33	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+19	34	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+19	35	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Univ. of Posts & Telecommun., Beijing, China
+19	36	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+20	21	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel
+20	22	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+20	23	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation
+20	24	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, CA
+20	25	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+20	26	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+20	27	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+20	28	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Duke University, Durham, NC
+20	29	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+20	30	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+20	31	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Intel Corporation, Folsom, USA
+20	32	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing University of Posts and Telecommunications, Beijing, China
+20	33	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	null
+20	34	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+20	35	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Univ. of Posts & Telecommun., Beijing, China
+20	36	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC, USA	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+21	22	Intel	Duke University, Durham, NC
+21	23	Intel	Intel Corporation
+21	24	Intel	Intel Corporation, Folsom, CA
+21	25	Intel	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+21	26	Intel	null
+21	27	Intel	Duke University, Durham, NC
+21	28	Intel	Duke University, Durham, NC
+21	29	Intel	null
+21	30	Intel	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+21	31	Intel	Intel Corporation, Folsom, USA
+21	32	Intel	Beijing University of Posts and Telecommunications, Beijing, China
+21	33	Intel	null
+21	34	Intel	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+21	35	Intel	Beijing Univ. of Posts & Telecommun., Beijing, China
+21	36	Intel	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+22	23	Duke University, Durham, NC	Intel Corporation
+22	24	Duke University, Durham, NC	Intel Corporation, Folsom, CA
+22	25	Duke University, Durham, NC	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+22	26	Duke University, Durham, NC	null
+22	27	Duke University, Durham, NC	Duke University, Durham, NC
+22	28	Duke University, Durham, NC	Duke University, Durham, NC
+22	29	Duke University, Durham, NC	null
+22	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+22	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+22	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+22	33	Duke University, Durham, NC	null
+22	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+22	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+22	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+23	24	Intel Corporation	Intel Corporation, Folsom, CA
+23	25	Intel Corporation	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+23	26	Intel Corporation	null
+23	27	Intel Corporation	Duke University, Durham, NC
+23	28	Intel Corporation	Duke University, Durham, NC
+23	29	Intel Corporation	null
+23	30	Intel Corporation	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+23	31	Intel Corporation	Intel Corporation, Folsom, USA
+23	32	Intel Corporation	Beijing University of Posts and Telecommunications, Beijing, China
+23	33	Intel Corporation	null
+23	34	Intel Corporation	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+23	35	Intel Corporation	Beijing Univ. of Posts & Telecommun., Beijing, China
+23	36	Intel Corporation	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+24	25	Intel Corporation, Folsom, CA	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC
+24	26	Intel Corporation, Folsom, CA	null
+24	27	Intel Corporation, Folsom, CA	Duke University, Durham, NC
+24	28	Intel Corporation, Folsom, CA	Duke University, Durham, NC
+24	29	Intel Corporation, Folsom, CA	null
+24	30	Intel Corporation, Folsom, CA	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+24	31	Intel Corporation, Folsom, CA	Intel Corporation, Folsom, USA
+24	32	Intel Corporation, Folsom, CA	Beijing University of Posts and Telecommunications, Beijing, China
+24	33	Intel Corporation, Folsom, CA	null
+24	34	Intel Corporation, Folsom, CA	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+24	35	Intel Corporation, Folsom, CA	Beijing Univ. of Posts & Telecommun., Beijing, China
+24	36	Intel Corporation, Folsom, CA	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+25	26	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	null
+25	27	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Duke University, Durham, NC
+25	28	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Duke University, Durham, NC
+25	29	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	null
+25	30	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+25	31	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Intel Corporation, Folsom, USA
+25	32	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+25	33	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	null
+25	34	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+25	35	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+25	36	Dept. of Electr. & Comput. Eng., Duke Univ., Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+26	27	null	Duke University, Durham, NC
+26	28	null	Duke University, Durham, NC
+26	29	null	null
+26	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+26	31	null	Intel Corporation, Folsom, USA
+26	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+26	33	null	null
+26	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+26	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+26	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+27	28	Duke University, Durham, NC	Duke University, Durham, NC
+27	29	Duke University, Durham, NC	null
+27	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+27	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+27	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+27	33	Duke University, Durham, NC	null
+27	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+27	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+27	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+28	29	Duke University, Durham, NC	null
+28	30	Duke University, Durham, NC	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+28	31	Duke University, Durham, NC	Intel Corporation, Folsom, USA
+28	32	Duke University, Durham, NC	Beijing University of Posts and Telecommunications, Beijing, China
+28	33	Duke University, Durham, NC	null
+28	34	Duke University, Durham, NC	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+28	35	Duke University, Durham, NC	Beijing Univ. of Posts & Telecommun., Beijing, China
+28	36	Duke University, Durham, NC	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+29	30	null	Department of Electrical & Computer Engineering, Duke University, Durham 27708
+29	31	null	Intel Corporation, Folsom, USA
+29	32	null	Beijing University of Posts and Telecommunications, Beijing, China
+29	33	null	null
+29	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+29	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+29	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+30	31	Department of Electrical & Computer Engineering, Duke University, Durham 27708	Intel Corporation, Folsom, USA
+30	32	Department of Electrical & Computer Engineering, Duke University, Durham 27708	Beijing University of Posts and Telecommunications, Beijing, China
+30	33	Department of Electrical & Computer Engineering, Duke University, Durham 27708	null
+30	34	Department of Electrical & Computer Engineering, Duke University, Durham 27708	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+30	35	Department of Electrical & Computer Engineering, Duke University, Durham 27708	Beijing Univ. of Posts & Telecommun., Beijing, China
+30	36	Department of Electrical & Computer Engineering, Duke University, Durham 27708	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+31	32	Intel Corporation, Folsom, USA	Beijing University of Posts and Telecommunications, Beijing, China
+31	33	Intel Corporation, Folsom, USA	null
+31	34	Intel Corporation, Folsom, USA	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+31	35	Intel Corporation, Folsom, USA	Beijing Univ. of Posts & Telecommun., Beijing, China
+31	36	Intel Corporation, Folsom, USA	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+32	33	Beijing University of Posts and Telecommunications, Beijing, China	null
+32	34	Beijing University of Posts and Telecommunications, Beijing, China	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+32	35	Beijing University of Posts and Telecommunications, Beijing, China	Beijing Univ. of Posts & Telecommun., Beijing, China
+32	36	Beijing University of Posts and Telecommunications, Beijing, China	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+33	34	null	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China
+33	35	null	Beijing Univ. of Posts & Telecommun., Beijing, China
+33	36	null	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+34	35	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China	Beijing Univ. of Posts & Telecommun., Beijing, China
+34	36	Sch. of Telecommun. Eng., Beijing Univ. of Posts & Telecommun., Beijing, China	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China
+35	36	Beijing Univ. of Posts & Telecommun., Beijing, China	Beijing Uinversity of Posts and Telecommunications, Beijing, 100876, China

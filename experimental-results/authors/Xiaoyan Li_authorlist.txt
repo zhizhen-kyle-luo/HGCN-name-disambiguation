@@ -1,0 +1,127 @@
+0	5	Richard P. Martin	Richard P. Martin
+0	10	Richard P. Martin	Richard P. Martin
+0	11	Thu D. Nguyen	Thu D. Nguyen
+0	11	Richard P. Martin	Richard P. Martin
+0	12	Richard P. Martin	Richard P. Martin
+0	13	Richard P. Martin	Richard P. Martin
+0	16	Thu D. Nguyen	Thu D. Nguyen
+0	16	Richard P. Martin	Richard P. Martin
+0	27	Richard P. Martin	Richard P. Martin
+0	32	Thu D. Nguyen	Thu D. Nguyen
+0	32	Richard P. Martin	Richard P. Martin
+1	2	W. Bruce Croft	W. Bruce Croft
+1	3	W. Bruce Croft	W. Bruce Croft
+1	15	W. Bruce Croft	W. Bruce Croft
+1	24	W. Bruce Croft	W. Bruce Croft
+1	28	W. Bruce Croft	W. Bruce Croft
+1	31	W. Bruce Croft	W. Bruce Croft
+2	3	W. Bruce Croft	W. Bruce Croft
+2	15	W. Bruce Croft	W. Bruce Croft
+2	24	W. Bruce Croft	W. Bruce Croft
+2	28	W. Bruce Croft	W. Bruce Croft
+2	31	W. Bruce Croft	W. Bruce Croft
+3	15	W. Bruce Croft	W. Bruce Croft
+3	24	W. Bruce Croft	W. Bruce Croft
+3	28	W. Bruce Croft	W. Bruce Croft
+3	31	W. Bruce Croft	W. Bruce Croft
+4	17	Lidan Shou	Lidan Shou
+4	17	Gang Chen	Gang Chen
+4	19	Lidan Shou	Lidan Shou
+4	19	Gang Chen	Gang Chen
+4	20	Lidan Shou	Lidan Shou
+4	20	Gang Chen	Gang Chen
+4	25	Lidan Shou	Lidan Shou
+4	25	Gang Chen	Gang Chen
+4	26	Lidan Shou	Lidan Shou
+4	26	Gang Chen	Gang Chen
+5	10	Richard P. Martin	Richard P. Martin
+5	11	Richard P. Martin	Richard P. Martin
+5	12	Richard P. Martin	Richard P. Martin
+5	13	Yingying Chen	Yingying Chen
+5	13	Konstantinos Kleisouris	Konstantinos Kleisouris
+5	13	Richard P. Martin	Richard P. Martin
+5	16	Richard P. Martin	Richard P. Martin
+5	27	Yingying Chen	Yingying Chen
+5	27	Konstantinos Kleisouris	Konstantinos Kleisouris
+5	27	Wade Trappe	Wade Trappe
+5	27	Richard P. Martin	Richard P. Martin
+5	32	Richard P. Martin	Richard P. Martin
+7	8	Min Li	Min Li
+7	8	Wei Cai	Wei Cai
+7	9	Min Li	Min Li
+7	9	Wei Cai	Wei Cai
+7	30	Min Li	Min Li
+7	30	Wei Cai	Wei Cai
+8	9	Min Li	Min Li
+8	9	Gang Li	Gang Li
+8	9	Wei Cai	Wei Cai
+8	30	Min Li	Min Li
+8	30	Wei Cai	Wei Cai
+9	30	Wei Cai	Wei Cai
+9	30	Min Li	Min Li
+10	11	Richard P. Martin	Richard P. Martin
+10	12	Richard P. Martin	Richard P. Martin
+10	13	Richard P. Martin	Richard P. Martin
+10	16	Richard P. Martin	Richard P. Martin
+10	27	Richard P. Martin	Richard P. Martin
+10	32	Richard P. Martin	Richard P. Martin
+11	12	Richard P. Martin	Richard P. Martin
+11	13	Richard P. Martin	Richard P. Martin
+11	16	Thu D. Nguyen	Thu D. Nguyen
+11	16	Richard P. Martin	Richard P. Martin
+11	27	Richard P. Martin	Richard P. Martin
+11	32	Thu D. Nguyen	Thu D. Nguyen
+11	32	Richard P. Martin	Richard P. Martin
+12	13	Eiman Elnahrawy	Eiman Elnahrawy
+12	13	Richard P. Martin	Richard P. Martin
+12	16	Richard P. Martin	Richard P. Martin
+12	27	Richard P. Martin	Richard P. Martin
+12	32	Richard P. Martin	Richard P. Martin
+13	16	Richard P. Martin	Richard P. Martin
+13	27	Yingying Chen	Yingying Chen
+13	27	Konstantinos Kleisouris	Konstantinos Kleisouris
+13	27	Richard P. Martin	Richard P. Martin
+13	32	Richard P. Martin	Richard P. Martin
+15	24	W. Bruce Croft	W. Bruce Croft
+15	28	James Allan	James Allan
+15	28	W. Bruce Croft	W. Bruce Croft
+15	31	W. Bruce Croft	W. Bruce Croft
+16	27	Richard P. Martin	Richard P. Martin
+16	32	Richard P. Martin	Richard P. Martin
+16	32	Thu D. Nguyen	Thu D. Nguyen
+17	19	Gang Chen	Gang Chen
+17	19	Lidan Shou	Lidan Shou
+17	20	Gang Chen	Gang Chen
+17	20	Lidan Shou	Lidan Shou
+17	20	Jinxiang Dong	Jinxiang Dong
+17	25	Gang Chen	Gang Chen
+17	25	Lidan Shou	Lidan Shou
+17	25	Jinxiang Dong	Jinxiang Dong
+17	26	Gang Chen	Gang Chen
+17	26	Lidan Shou	Lidan Shou
+17	26	Jinxiang Dong	Jinxiang Dong
+18	29	Weiguo Han	Weiguo Han
+18	29	Liping Di	Liping Di
+18	29	Peisheng Zhao	Peisheng Zhao
+19	20	Lidan Shou	Lidan Shou
+19	20	Gang Chen	Gang Chen
+19	25	Lidan Shou	Lidan Shou
+19	25	Gang Chen	Gang Chen
+19	26	Lidan Shou	Lidan Shou
+19	26	Gang Chen	Gang Chen
+20	25	Lidan Shou	Lidan Shou
+20	25	Gang Chen	Gang Chen
+20	25	Jinxiang Dong	Jinxiang Dong
+20	26	Lidan Shou	Lidan Shou
+20	26	Gang Chen	Gang Chen
+20	26	Tianlei Hu	Tianlei Hu
+20	26	Jinxiang Dong	Jinxiang Dong
+21	22	Jingling Yuan	Jingling Yuan
+21	22	Luo Zhong	Luo Zhong
+24	28	W. Bruce Croft	W. Bruce Croft
+24	31	W. Bruce Croft	W. Bruce Croft
+25	26	Gang Chen	Gang Chen
+25	26	Lidan Shou	Lidan Shou
+25	26	Jinxiang Dong	Jinxiang Dong
+27	32	Richard P. Martin	Richard P. Martin
+28	31	W. Bruce Croft	W. Bruce Croft

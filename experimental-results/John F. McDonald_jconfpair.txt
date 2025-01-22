@@ -1,0 +1,25 @@
+0	1	Evolvable Hardware	Evolvable Hardware
+3	4	FPGA	FPGA
+3	5	FPGA	FPGA
+4	5	FPGA	FPGA
+6	7	FPL	FPL
+6	8	FPL	FPL
+6	9	FPL	FPL
+7	8	FPL	FPL
+7	9	FPL	FPL
+8	9	FPL	FPL
+10	11	ACM Great Lakes Symposium on VLSI	Great Lakes Symposium on VLSI
+10	12	ACM Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+10	13	ACM Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+10	14	ACM Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+11	12	Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+11	13	Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+11	14	Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+12	13	ACM Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+12	14	ACM Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+13	14	ACM Great Lakes Symposium on VLSI	ACM Great Lakes Symposium on VLSI
+15	16	ICCD	ICCD
+18	19	ISVLSI	ISVLSI
+25	26	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+25	27	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+26	27	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.

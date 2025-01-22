@@ -1,0 +1,15 @@
+21	22	University of North Carolina at Charlotte	University of North Carolina at Charlotte, Charlotte, NC
+21	38	University of North Carolina at Charlotte	University of North Carolina at Charlotte, Charlotte, NC
+21	41	University of North Carolina at Charlotte	University of North Carolina at Charlotte, Charlotte, NC
+21	59	University of North Carolina at Charlotte	University of North Carolina at Charlotte, USA
+21	62	University of North Carolina at Charlotte	Department of Software and Information Systems, College of Computing and Informatics, University of North Carolina at Charlotte, Charlotte, USA NC 28223-0001
+22	38	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte, Charlotte, NC
+22	41	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte, Charlotte, NC
+22	59	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte, USA
+22	62	University of North Carolina at Charlotte, Charlotte, NC	Department of Software and Information Systems, College of Computing and Informatics, University of North Carolina at Charlotte, Charlotte, USA NC 28223-0001
+38	41	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte, Charlotte, NC
+38	59	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte, USA
+38	62	University of North Carolina at Charlotte, Charlotte, NC	Department of Software and Information Systems, College of Computing and Informatics, University of North Carolina at Charlotte, Charlotte, USA NC 28223-0001
+41	59	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte, USA
+41	62	University of North Carolina at Charlotte, Charlotte, NC	Department of Software and Information Systems, College of Computing and Informatics, University of North Carolina at Charlotte, Charlotte, USA NC 28223-0001
+59	62	University of North Carolina at Charlotte, USA	Department of Software and Information Systems, College of Computing and Informatics, University of North Carolina at Charlotte, Charlotte, USA NC 28223-0001

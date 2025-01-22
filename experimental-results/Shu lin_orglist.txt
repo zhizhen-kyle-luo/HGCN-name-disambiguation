@@ -1,0 +1,33 @@
+0	12	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA
+0	18	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA
+0	22	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA
+0	70	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA
+0	71	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+0	72	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+12	18	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA
+12	22	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA
+12	70	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA
+12	71	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+12	72	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+18	22	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA
+18	70	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA
+18	71	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+18	72	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+22	70	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA
+22	71	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+22	72	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA, USA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+31	34	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI
+31	35	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI
+31	41	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI
+34	35	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI
+34	41	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI
+35	41	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI	Dept. of Electr. Eng., Hawaii Univ., Honolulu, HI
+44	48	Graduate Sch. of Eng. Sci., Osaka Univ.	Dept. of Inf. & Comput. Sci., Osaka Univ.
+44	53	Graduate Sch. of Eng. Sci., Osaka Univ.	Dept. of Inf. & Comput. Sci., Osaka Univ.
+44	62	Graduate Sch. of Eng. Sci., Osaka Univ.	Fac. of Eng., Osaka Univ.
+48	53	Dept. of Inf. & Comput. Sci., Osaka Univ.	Dept. of Inf. & Comput. Sci., Osaka Univ.
+48	62	Dept. of Inf. & Comput. Sci., Osaka Univ.	Fac. of Eng., Osaka Univ.
+53	62	Dept. of Inf. & Comput. Sci., Osaka Univ.	Fac. of Eng., Osaka Univ.
+70	71	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+70	72	Dept. of Electr. & Comput. Eng., Univ. of California, Davis, CA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA
+71	72	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA	Department of Electrical and Computer Engineering, University of California at Davis, Davis, CA

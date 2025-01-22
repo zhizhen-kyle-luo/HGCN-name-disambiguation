@@ -1,0 +1,49 @@
+0	5	Jim Austin	Jim Austin
+0	5	John Kennedy	John Kennedy
+0	31	Jim Austin	Jim Austin
+0	31	John Kennedy	John Kennedy
+5	31	Jim Austin	Jim Austin
+5	31	John Kennedy	John Kennedy
+6	11	Jozef Hooman	Jozef Hooman
+6	15	Jozef Hooman	Jozef Hooman
+7	10	B. S. Manoj	B. S. Manoj
+7	10	Ramesh R. Rao	Ramesh R. Rao
+7	23	Ramesh R. Rao	Ramesh R. Rao
+10	23	Ramesh R. Rao	Ramesh R. Rao
+11	15	Jozef Hooman	Jozef Hooman
+13	14	Loet Leydesdorff	Loet Leydesdorff
+13	16	Loet Leydesdorff	Loet Leydesdorff
+13	17	Loet Leydesdorff	Loet Leydesdorff
+13	18	Loet Leydesdorff	Loet Leydesdorff
+13	27	Loet Leydesdorff	Loet Leydesdorff
+13	28	Loet Leydesdorff	Loet Leydesdorff
+13	29	Loet Leydesdorff	Loet Leydesdorff
+14	16	Loet Leydesdorff	Loet Leydesdorff
+14	17	Loet Leydesdorff	Loet Leydesdorff
+14	18	Loet Leydesdorff	Loet Leydesdorff
+14	27	Loet Leydesdorff	Loet Leydesdorff
+14	28	Loet Leydesdorff	Loet Leydesdorff
+14	29	Loet Leydesdorff	Loet Leydesdorff
+16	17	Loet Leydesdorff	Loet Leydesdorff
+16	18	Loet Leydesdorff	Loet Leydesdorff
+16	27	Loet Leydesdorff	Loet Leydesdorff
+16	28	Loet Leydesdorff	Loet Leydesdorff
+16	29	Loet Leydesdorff	Loet Leydesdorff
+17	18	Loet Leydesdorff	Loet Leydesdorff
+17	27	Loet Leydesdorff	Loet Leydesdorff
+17	28	Loet Leydesdorff	Loet Leydesdorff
+17	29	Loet Leydesdorff	Loet Leydesdorff
+18	27	Loet Leydesdorff	Loet Leydesdorff
+18	28	Loet Leydesdorff	Loet Leydesdorff
+18	29	Loet Leydesdorff	Loet Leydesdorff
+21	22	Bo Zhao	Bo Zhao
+21	22	Youtao Zhang	Youtao Zhang
+21	22	Jun Yang	Jun Yang
+21	24	Yu Du	Yu Du
+21	24	Youtao Zhang	Youtao Zhang
+21	24	Jun Yang	Jun Yang
+22	24	Jun Yang	Jun Yang
+22	24	Youtao Zhang	Youtao Zhang
+27	28	Loet Leydesdorff	Loet Leydesdorff
+27	29	Loet Leydesdorff	Loet Leydesdorff
+28	29	Loet Leydesdorff	Loet Leydesdorff

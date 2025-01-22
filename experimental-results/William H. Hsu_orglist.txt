@@ -1,0 +1,14 @@
+7	9	Comput. & Inf. Sci., Kansas State Univ., Manhattan, KS	Kansas State University, Manhattan, KS
+7	21	Comput. & Inf. Sci., Kansas State Univ., Manhattan, KS	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS 66506&semi; Automated Learning Group, National Center for Supercomputing Applications (NCSA), Champaign, IL 61820. bhsu@cis.ksu.edu
+7	24	Comput. & Inf. Sci., Kansas State Univ., Manhattan, KS	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS and National Center for Supercomputing Applications (NCSA), University of Illinois, Champaign, IL
+7	30	Comput. & Inf. Sci., Kansas State Univ., Manhattan, KS	Kansas State University, Manhattan, KS, USA
+7	33	Comput. & Inf. Sci., Kansas State Univ., Manhattan, KS	Kansas State University
+9	21	Kansas State University, Manhattan, KS	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS 66506&semi; Automated Learning Group, National Center for Supercomputing Applications (NCSA), Champaign, IL 61820. bhsu@cis.ksu.edu
+9	24	Kansas State University, Manhattan, KS	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS and National Center for Supercomputing Applications (NCSA), University of Illinois, Champaign, IL
+9	30	Kansas State University, Manhattan, KS	Kansas State University, Manhattan, KS, USA
+9	33	Kansas State University, Manhattan, KS	Kansas State University
+21	24	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS 66506&semi; Automated Learning Group, National Center for Supercomputing Applications (NCSA), Champaign, IL 61820. bhsu@cis.ksu.edu	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS and National Center for Supercomputing Applications (NCSA), University of Illinois, Champaign, IL
+21	30	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS 66506&semi; Automated Learning Group, National Center for Supercomputing Applications (NCSA), Champaign, IL 61820. bhsu@cis.ksu.edu	Kansas State University, Manhattan, KS, USA
+21	33	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS 66506&semi; Automated Learning Group, National Center for Supercomputing Applications (NCSA), Champaign, IL 61820. bhsu@cis.ksu.edu	Kansas State University
+24	30	Department of Computing and Information Sciences, Kansas State University, Manhattan, KS and National Center for Supercomputing Applications (NCSA), University of Illinois, Champaign, IL	Kansas State University, Manhattan, KS, USA
+30	33	Kansas State University, Manhattan, KS, USA	Kansas State University

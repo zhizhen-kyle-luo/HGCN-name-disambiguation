@@ -1,0 +1,728 @@
+2741	Mining High-Dimensional Data
+7552	Identifying Intrusions in Computer Networks with Principal Component Analysis
+8253	Controlling FD and MVD Inferences in MLS
+8289	SE4SC: A Specific Search Engine for Software Components
+8331	Incorporating with Recursive Model Training in Time Series Clustering
+8451	Efficient Algorithms for Mining Maximal Frequent Concatenate Sequences in Biological Datasets
+8452	Storing Normalized XML Documents in Normalized Relations
+8502	Storage and Query over Encrypted Character and Numerical Data in Database
+8555	Non-Almost-Derivable Frequent Itemsets Mining
+9167	Improved Algorithm for Adaboost with SVM Base Classifiers
+10179	The Design and Implementation of Scalable Information Services in a Grid Environment
+10180	MASSIVE: A Multidisciplinary Applications-Oriented Simulation and Visualization Environment
+10346	A Novel Approach for Process Mining Based on Event Types
+10357	Impact of Business Service Modes on Distribution Systems: A Reinforcement Learning Approach
+10534	A New Optimal Policy for Service System with Nonstationary Stochastic Demand
+18247	Image Segmentation That Merges Together Boundary and Region Information
+20333	Scalable Inference and Training of Context-Rich Syntactic Translation Models
+24413	Building Evidence Graphs for Network Forensics Analysis
+26539	Path Materialization Revisited: An Efficient Storage Model for XML Data
+27373	Mining the Useful Skyline Set Based on the Acceptable Difference
+27424	Term Graph Model for Text Classification
+35458	A Transparent Rate Adaptation Algorithm for Streaming Video over the Internet
+36132	An Optimal Approach for Image Transmission in Multi-Rate Wireless Sensor Network
+36505	Reasoning and Merging in XML Data Integration
+38061	Pattern Mining for Information Extraction Using Lexical, Syntactic and Semantic Information: Preliminary Results
+48131	CLINCH: Clustering Incomplete High-Dimensional Data for Data Mining Application
+48416	Grid Service Based Parallel Debugging Environment
+48436	Labeling Scheme and Structural Joins for Graph-Structured XML Data
+48448	Constraint-Based Graph Mining in Large Database
+48486	ANNE: An Efficient Framework on View Selection Problem
+48594	A Novel Factoid Ranking Model for Information Retrieval
+48617	Bayesian Method Based Trusted Overlay for Information Retrieval over Networks
+48643	EviRank: An Evidence Based Content Trust Model for Web Spam Detection
+51610	Practical Indexing XML Document for Twig Query
+54635	A Semantic Reputation Mechanism in P2P Semantic Web
+59656	Joint Spatial and Frequency Domains Watermarking Algorithm Based on Wavelet Packets
+60863	Constraint Shape Model Using Edge Constraint and Gabor Wavelet Based Search
+63370	Enhanced Biclustering on Expression Data
+84417	Dependent link padding algorithms for low latency anonymity systems
+85322	Content Based Parallel Image Retrieval with Multi-agent Cooperation
+86342	Fuzziness Driven Adaptive Sampling for Monte Carlo Global Illuminated Rendering
+95765	Mining sequential patterns with constraints in large databases
+96101	Mining coherent patterns from heterogeneous microarray data
+96338	An efficient algorithm for approximate biased quantile computation in data streams
+96562	REDUS: finding reducible subspaces in high dimensional data
+97223	Fast Query Over Encrypted Character Data in Database
+97245	Grid-ODF: Detecting Outliers Effectively and Efficiently in Large Multi-dimensional Databases
+97406	Ternary Tree Based Group Key Management in Dynamic Peer Networks
+98293	A Novel Scheme for Video Similarity Detection
+98476	Semantics-Based Image Retrieval by Region Saliency
+108354	Structure Alignment Using Bilingual Chunking
+113203	Reliable Self-Clustering P2P Overlay Networks
+113367	News Analysis Based on Meta-synthesis Approach
+120990	Reconstruction of Ancestral Gene Order after Segmental Duplication and Gene Loss
+121039	Gene Ontology Friendly Biclustering of Expression Profiles
+121041	Biclustering in Gene Expression Data by Tendency
+121215	Towards Automatic Clustering of Protein Sequences
+121219	Accelerating Approximate Subsequence Search on Large Protein Sequence Databases
+121240	Discovering Compact and Highly Discriminative Features or Feature Combinations of Drug Activities Using Support Vector Machines
+121274	An Bayesian Method for Biological Pathway Discovery from High-Throughput Experimental Data
+121496	A Fourth-Order Compact BVM Scheme for the Two-Dimensional Heat Equations
+122704	Hardware-Software Co-design for Dynamic Reconfigurable Computing with Collaborative Supports of Architecture and Operating System
+122710	MSFSS: A Storage System for Mass Small Files
+126552	Distance Measures for Anomaly Intrusion Detection
+126625	Security Based Heuristic SAX for XML Parsing
+140371	A CRT-RSA Algorithm Secure against Hardware Fault Attacks
+140937	Stay Current and Relevant in Data Mining Research
+140939	Continuous Expansion: Efficient Processing of Continuous Range Monitoring in Mobile Environments
+140996	Effective Keyword Search in XML Documents Based on MIU
+141074	AB-Index: An Efficient Adaptive Index for Branching XML Queries
+141075	SUDEPHIC: Self-Tuning Density-Based Partitioning and Hierarchical Clustering
+141116	Privacy-Preserving Frequent Pattern Sharing
+141210	Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination
+141243	Consistent Answers from Integrated XML Data
+144223	Answering Approximate Range Aggregate Queries on OLAP Data Cubes with Probabilistic Guarantees
+144361	FMC: An Approach for Privacy Preserving OLAP
+147415	Stochastically Consistent Caching and Dynamic Duty Cycling for Erratic Sensor Sources
+149442	Visual Specification and Optimization of XQuery Using VXQ
+149790	A Novel Incremental Maintenance Algorithm of SkyCube
+153195	Network Forensics Analysis with Evidence Graphs
+154462	Adopting IT for Effective Management of Social Welfare Programs
+154464	Successfully Adopting IT for Social Welfare Program Management
+154576	Management Assistance for Work First via a Dynamic Website
+154577	Social Welfare Program Administration and Evaluation and Policy Analysis Using Knowledge Discovery and Data Mining (KDD) on Administrative Data
+154578	Understanding Social Welfare Service Patterns Using Sequential Analysis
+154747	Webview: A Distributed Geographical Image Retrieval System
+154749	SemView: A Semantic-sensitive Distributed Image Retrieval System
+154833	Very Large Scale Multidimensional Data Management and Retrieval for USGS and NIMA Imagery
+158817	A Color Indexing Scheme Using Two-level Clustering Processing for Effective and Efficient Image Retrieval
+172723	Analyzing Co-training Style Algorithms
+176749	Multi-dimensional search for personal information management systems
+176825	Efficiently indexing shortest paths by exploiting symmetry in graphs
+178244	The Design of Web-Based Intelligent Item Bank
+184060	GiSA: A Grid System for Genome Sequences Assembly
+185308	HARC: A Homogeneous Architecture reconfigurable Computer
+193619	Cryptanalysis on HMAC/NMAC-MD5 and MD5-MAC
+197762	Evaluating Heterogeneous Memory Model by Realistic Trace-Driven Hardware/Software Co-simulation
+200714	Sensor Density for Complete Information Coverage in Wireless Sensor Networks
+200726	Loss Tomography in Wireless Sensor Network Using Gibbs Sampling
+201829	Online and adaptive anomaly Detection: detecting intrusions in unlabelled audit data streams
+201860	Diagnostic multi-sources adaptatif. Application a la detection d'intrusion dans des serveurs Web
+206409	AFOPT: An Efficient Implementation of Pattern Growth Approach
+212415	PK-tree: A Spatial Index Structure for High Dimensional Point Data
+213554	Using SPIN to Detect Vulnerabilities in the AACS Drive-Host Authentication Protocol
+218092	A Probabilistic Method to Estimate Life Expectancy of Application Software
+218096	Improving Fuzzy C-Means Clustering Based on Adaptive Weighting
+218178	Fuzzy C-Means Text Clustering with Supervised Feature Selection
+218233	A Hybrid Statistical Language Model Applied to the Domain Specific Information Retrieval
+218259	Community Detection in Social Networks Employing Component Independency
+220615	The Impact of Fault Expansion on the Interval Estimate for Fault Detection Coverage
+223910	Parallel Web Spiders for Cooperative Information Gathering
+224022	Ad Hoc Debugging Environment for Grid Applications
+224130	iOmS: An Agent-Based P2P Framework for Ubiquitous Workflow
+224149	PGMS: A P2P-Based Grid Monitoring System
+224150	Network Performance Measurement Methodologies in PGMS
+224201	Grid Workflow Based on Performance Evaluation
+224204	Towards a Framework for Automatic Service Composition in Manufacturing Grid
+224285	Ant-based Reputation Evidence Distribution in P2P Networks
+224313	A Grid Resource Price-adjusting Strategy Based on Price Influence Model
+225483	Theoretical Analysis of Simple Evolution Strategies in Quickly Changing Environments
+227349	Genetically generated double-level fuzzy controller with a fuzzy adjustment strategy
+234327	Two-prime RSA immune cryptosystem and its FPGA implementation
+236438	Adaptive sampling based on fuzzy inference
+236697	Sketch Parameterization Using Curve Approximation
+251908	Fuzzy Multicriteria Decision Making under Attitude and Confidence Analysis
+261069	An Autonomous Trust Construction System Based on Bayesian Method
+262727	A Decision-Tree-Based Online Speaker Clustering
+262868	A Kernel Matching Pursuit Approach to Man-Made Objects Detection in Aerial Images
+267207	A 2O(n1-(1/d)log n) Time Algorithm for d-Dimensional Protein Folding in the HP-Model
+274055	Extraction of Stable Points from Fingerprint Images Using Zone Could-be-in Theorem
+274406	Downlink Capacity Enhancement in GSM Systems with Frequency Hopping and Multiple Beam Smart Antennas
+275830	Energy-Aware Adaptive Watermarking for Real-Time Image Delivery in Wireless Sensor Networks
+276024	CRMS: A Collusion-Resistant Matrix System for Group Key Management in Wireless Networks
+277414	Interplay Between Routing and Distributed Source Coding in Wireless Sensor Network
+280436	The Design and Implementation of Extensible Information Services
+281209	Simulating Trust Overlay in P2P Networks
+283673	Performance and power evaluation of a 3D CMOS/nanomaterial reconfigurable architecture
+285082	Multispace Search for Minimizing the Maximum Nodal Degree
+285255	AFEC: An Adaptive Forward Error Correction Protocol for End-to-End Transport of Real-Time Traffic
+289824	Using Proximity in Query Focused Multi-document Extractive Summarization
+289830	Experiment Research on Feature Selection and Learning Method in Keyphrase Extraction
+295541	Hierarchical neural network for recognizing hand-written characters in engineering drawings
+297881	Dynamic Adaptive File Management in a Local Area Network
+300290	XR-Tree: Indexing XML Data for Efficient Structural Joins
+300292	XParent: An Efficient RDBMS-Based XML Database System
+300527	Stabbing the Sky: Efficient Skyline Computation over Sliding Windows
+300651	Performance Analysis of Several Algorithms for Processing Joins between Textual Attributes
+301337	PBiTree Coding and Efficient Processing of Containment Joins
+301353	Condensed Cube: An Efficient Approach to Reducing Data Cube Size
+301371	A Framework Towards Efficient and Effective Sequence Clusterin
+301375	TAR: Temporal Association Rules on Evolving Numerical Attributes
+301377	STING+: An Approach to Active Spatial Data Mining
+301460	Mining Shifting-and-Scaling Co-Regulation Patterns on Gene Expression Profiles
+301497	Space-efficient Relative Error Order Sketch over Data Streams
+301518	CLUSEQ: Efficient and Effective Sequence Clustering
+301522	d-Clusters: Capturing Subspace Correlation in a Large Data Set
+301622	Accelerating Profile Queries in Elevation Maps
+301742	Blocking Inference Channels in Frequent Pattern Sharing
+301781	PictureBook: A Text-and-Image Summary System for Web Search Result
+301850	Graph Database Indexing Using Structured Graph Decomposition
+301938	Approximate Clustering on Distributed Data Streams
+301948	Mining Approximate Order Preserving Clusters in the Presence of Noise
+302010	Fuzzy Multi-Dimensional Search in the Wayfinder File System
+302028	SPARK: A Keyword Search Engine on Relational Databases
+302059	CARE: Finding Local Linear Correlations in High Dimensional Data
+302079	A General Framework for Fast Co-clustering on Large Datasets Using Matrix Decomposition
+302297	Probabilistic Skyline Operator over Sliding Windows
+302396	Top-k Set Similarity Joins
+302698	Efficient Mining of Frequent Subgraphs in the Presence of Isomorphism
+302775	Finding Representative Set from Massive Data
+302788	Mining Approximate Frequent Itemsets from Noisy Data
+302790	Revealing True Subspace Clusters in High Dimensions
+302792	OP-Cluster: Clustering by Tendency in High Dimensional Space
+302977	On Reducing Classifier Granularity in Mining Concept-Drifting Data Streams
+302981	Meta-patterns: Revealing Hidden Periodic Patterns
+303029	AGILE: A General Approach to Detect Transitions in Evolving Data Streams
+303031	InfoMiner+: Mining Partial Periodic Patterns with Gap Penalties
+303167	Gradual Cube: Customize Profile on Mobile OLAP
+303202	LOCI: Load Shedding through Class-Preserving Data Acquisition
+303292	Preserving Private Knowledge in Frequent Pattern Mining
+303472	Incremental Subspace Clustering over Multiple Data Streams
+303480	Sample Selection for Maximal Diversity
+303726	Quantitative Association Analysis Using Tree Hierarchies
+304563	Industry Track: Refining production strategy optimization model based on mixed bi-level programming method
+304672	WMQ: Towards A Fine-grained QoS Control for E-Business Servers
+313596	Locating Human Eyes Using Edge and Intensity Information
+313827	A Novel Approach to Ocular Image Enhancement with Diffusion and Parallel AOS Algorithm
+313912	Face Recognition Based on Binary Template Matching
+314457	A New Immune PID Controller Based on Immune Tuning
+318395	Compression of cDNA and inkjet microarray images
+322015	Image segmentation via brittle fracture mechanics
+322665	Design of iir orthogonal wavelet filter banks using lifting scheme
+324046	Height Reconstruction in Highly Sloped Area Using Multi-frequency InSAR Data
+330974	QoS-Sensitive Transport of Real-Time MPEG Video Using Adaptive Forward Error Correction
+331224	Locatization of human eyes based on a series of binary images
+332636	Positive Sample Enhanced Angle-Diversity Active Learning for SVM Based Image Retrieval
+333023	Optimal Rate-Based Image Transmissions via Multiple Paths in Wireless Sensor Network
+334187	An Improved Active Shape Model for Face Alignment
+336193	On multi-view active learning and the combination with semi-supervised learning
+349169	Fingerprint Minutiae Matching Based on Coordinate System Bank and Global Optimum Alignment
+349186	An SVD Decomposition of Essential Matrix with Eight Solutions for the Relative Positions of Two Perspective Cameras
+349680	A clustering algorithm combine the FCM algorithm with supervised learning normal mixture model
+350412	Symmetric segment-based stereo matching of motion blurred images with illumination variations
+372377	Beyond Supervised Learning of Wrappers for Extracting Information from Unseen Web Sites
+372992	Adaptive Data Broadcasting in Asymmetric Communication Environments
+373036	Refining Web Authoritative Resource by Frequent Structures
+382877	Generalized Rake Receiver for Spreading-IFDMA Systems
+393283	ANN Based Internal Model Approach to Motor Learning for Humanoid Robot
+398633	Extending Tree Automata to Obtain Consistent Query Answer from Inconsistent XML Document
+398709	Generating Incremental ETL Processes Automatically
+398781	A Method to Enhance Service Survivability Based on Autonomous Configuration
+407691	Extension of Lower Probabilities and Coherence of Belief Measures
+413108	Distributed sparse random projections for refinable approximation
+413129	Random distributed multiresolution representations with significance querying
+413131	Coverage for target localization in wireless sensor networks
+413148	Energy-efficient coverage for target detection in wireless sensor networks
+417810	Deformation-based nonlinear dimension reduction: Applications to nuclear morphometry
+418336	Molecular Tomographic Imaging of Lymph Nodes with Nir Fluorescence
+420808	Powder-based fabrication techniques for single-wall carbon nanotube circuits
+424708	Moduli selection in RNS for efficient VLSI implementation
+424847	A scalable DCO design for portable ADPLL designs
+424924	Efficient multi-prime RSA immune against hardware fault attack
+425233	Performance comparison of quantum-dot cellular automata adders
+425806	A global approach to the variable ordering problem in PSBDDs
+427069	A high-speed residue-to-binary converter and a scheme for its VLSI implementation
+427191	Modulo deflation in (2n+1, 2n, 2n-1) converters
+428064	A new architecture of RRNS error-correcting QC encoder/decoder and its FPGA implementation
+429064	Fault Tolerance Circuit for AM-OLED
+429625	Passive reduced-order macromodeling algorithm for structure dynamics in MEMS systems
+429640	A portable all-digital pulsewidth control loop for SOC applications
+429772	Elliptic curves cryptosystem implementation based on a look-up table sharing scheme
+429978	Logic optimization for majority gate-based nanoelectronic circuits
+430083	A frequency estimation algorithm for ADPLL designs with two-cycle lock-in time
+430163	Exploring carbon nanotubes and NiSi nanowires as on-chip interconnections
+430250	An efficient adaptive interlace-to-progressive scan conversion scheme and hardware implementation
+431547	Analyzing mixed carbon nanotube bundles: A current density study
+431724	New designs of Redundant-Binary full Adders and its applications
+432936	A multiplex-multicast scheme that improves system capacity of voice-over-IP on wireless LAN by 100%
+434336	Robust Adaptive Neural Network Control for a Class of Nonlinear Systems
+438857	Inferring missing genotypes in large SNP panels using fast nearest-neighbor searches over sliding windows
+440351	Enhanced Active Shape Models with Global Texture Constraints for Image Analysis
+441965	Traffic Volume Forecasting Based on Wavelet Transform and Neural Networks
+442174	Modeling Dynamic System by Recurrent Neural Network with State Variables
+442438	Nonlinear System Adaptive Control by Using Multiple Neural Network Models
+442526	Estimation of the Future Earthquake Situation by Using Neural Networks Ensemble
+442542	Adaptive Neural Network Control for Nonlinear Systems Based on Approximation Errors
+442893	A Novel Individual Blood Glucose Control Model Based on Mixture of Experts Neural Networks
+442923	A Novel Intrusion Detection Method Based on Principle Component Analysis in Computer Security
+442934	Multisensors Information Fusion with Neural Networks for Noninvasive Blood Glucose Detection
+443435	Appearance-Based Map Learning for Mobile Robot by Using Generalized Regression Neural Network
+443691	Soft-Sensor Method Based on Least Square Support Vector Machines Within Bayesian Evidence Framework
+445560	Cooperative Grid Jobs Scheduling with Multi-objective Genetic Algorithm
+451860	The Multiplicative Path Toward Prior-Shape Guided Active Contour for Object Detection
+451964	Image Segmentation That Optimizes Global Homogeneity in a Variational Framework
+463259	Adaptive Fingerprint Enhancement by Combination of Quality Factor and Quantitative Filters
+466332	An Area-Reduced Scheme for Modulo 2n-1 Addition/Subtraction
+466511	RNS Application for Digital Image Processing
+468742	An Architecture and Programming Framework for Dynamic Reconfigurable Computing Systems
+472771	DBMiner: A System for Mining Knowledge in Large Relational Databases
+472815	SPIN: mining maximal frequent subgraphs from graph databases
+473035	A framework for ontology-driven subspace clustering
+473038	Clustering pair-wise dissimilarity data into partially ordered sets
+473403	Scalable mining of large disk-based graph databases
+473406	Efficient mining of weighted association rules (WAR)
+473453	Utility-based anonymization using local recoding
+473495	Mining asynchronous periodic patterns in time series data
+473497	Infominer: mining surprising periodic patterns
+473773	Fastanova: an efficient algorithm for genome-wide association study
+480422	Repairing Inconsistent XML Documents
+482412	Information Coverage and Network Lifetime in Energy Constrained Wireless Sensor Networks
+482575	Implementation and performance evaluation of Selective Repeat ARQ for WiMAX NS-2 model
+491847	A Coverage-Based Maximum Lifetime Data Gathering Algorithm in Sensor Networks
+495753	Visual Search in Alzheimer's Disease - fMRI Study
+503580	Mining repetitive clips through finding continuous paths
+505929	Using mobile relays to prolong the lifetime of wireless sensor networks
+505933	Adaptive contact probing mechanisms for delay tolerant applications
+505953	Trade-offs between mobility and density for coverage in wireless sensor networks
+508534	Localized Recursive Estimation in Wireless Sensor Networks
+508599	Worst and Best Information Exposure Paths in Wireless Sensor Networks
+508659	Efficient Group Key Management for Dynamic Peer Networks
+509828	Optimal rate-oriented routing for distributed source coding in wireless sensor network
+509830	Study of an energy efficient multi rate scheme for wireless sensor network MAC protocol
+511157	Capitalizing Machine Translation
+512261	Lossy Node Identification in Wireless Sensor Network
+518783	Finding Target Language Correspondence for Lexicalized EBMT System
+519994	Cooperative Communication System for Parallel Computing Agents in Multi-cluster Grid
+520552	Diffusion and graph spectral methods for network forensic analysis
+526083	A Trust-Oriented Heuristic Scheduling Algorithm for Grid Computing
+526639	A Privacy-Preserving Classification Mining Algorithm
+526824	An Efficient Algorithm of Frequent Connected Subgraph Extraction
+526918	Ranking Outliers Using Symmetric Neighborhood Relationship
+526973	Locating Motifs in Time-Series Data
+527050	ADenTS: An Adaptive Density-Based Tree Structure for Approximating Aggregate Queries over Real Attributes
+527188	Efficient Pattern-Growth Methods for Frequent Tree Pattern Mining
+527284	Intelligent Sequential Mining Via Alignment: Optimization Techniques for Very Large DB
+527445	Data-Aware Clustering Hierarchy for Wireless Sensor Networks
+527556	Data Management Services in ChinaGrid for Data Mining Applications
+527563	Factoid Mining Based Content Trust Model for Information Retrieval
+532234	A Novel Active Learning Approach for SVM Based Web Image Retrieval
+537123	Grid-Enabled Parallel Debugging Environment: A Portal Solution
+547357	DynamO: Dynamic Objects with Persistent Storage
+550897	A Generic Trust Overlay Simulator for P2P Networks
+552289	A Reputation Multi-agent System in Semantic Web
+553424	Research on Performance Test and Evaluation Method of Assembly Packaging Ammunition
+554256	Accurate Classification of Protein Structural Families Using Coherent Subgraph Analysis
+557313	A QoS-Enabled WorkManager Model for Web Application Servers
+558866	Mining protein family specific residue packing patterns from protein structure graphs
+559356	COE: A General Approach for Efficient Genome-Wide Two-Locus Epistasis Test in Disease Association Study
+562293	A Bottom-Up Distance-Based Index Tree for Metric Space
+562295	Subsequence Similarity Search Under Time Shifting
+562388	Using Rough Reducts to Analyze the Independency of Earthquake Precursory Items
+579059	ApproxMAP: Approximate Mining of Consensus Sequential Patterns
+579120	Mining Approximate Frequent Itemsets In the Presence of Noise: Algorithm and Analysis
+579162	Efficient Filtering of Large DatasetA User-Centric Paradigm
+579172	STAMP: On Discovery of Statistically Important Pattern Repeats in Long Sequential Data
+579280	PoClustering: Lossless Clustering of Dissimilarity Data
+579304	On Demand Phenotype Ranking through Subspace Clustering
+580352	TP-Tree: a Query Workload-Adaptive Synopsis for Fast OLAP Applications
+580666	Similarity Join Algorithms: An Introduction
+586939	Human motion estimation from a reduced marker set
+597749	Collaborative Web caching based on proxy affinities
+598656	Fast Computation of Database Operations using Graphics Processors
+598824	DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases
+598979	Efficient Processing of Twig Queries with OR-Predicates
+599264	A system for analyzing and indexing human-motion databases
+599913	Containment Join Size Estimation: Models and Methods
+599920	Clustering by pattern similarity in large data sets
+599921	GraphMiner: a structural pattern-mining system for large disk-based graph databases and its applications
+599991	Mining long sequential patterns in a noisy environment
+600175	Spark: top-k keyword query in relational databases
+600269	CRD: fast co-clustering on large datasets utilizing sampling-based matrix decomposition
+608877	An Immune CRT-Based Three-prime RSA cryptosystem
+608899	RRNS Quasi-Chaotic Coding and Its FPGA Implementation
+612855	EVolve: An Open Extensible Software Visualisation Framework
+618361	BASS: Approximate Search on Large String Databases
+618420	Mining RNA Tertiary Motifs with Structure Graphs
+618421	A Fast Algorithm for Approximate Quantiles in High Speed Data Streams
+618502	Maintaining K-Anonymity against Incremental Updates
+618505	An Efficient Algorithm for Mining Coherent Patterns from Heterogeneous Microarrays
+623774	The Implementation of an Energy Balanced Routing Protocol with Dynamic Power Scaling in TinyOS
+629895	An Early DiscoWeb Prototype at TREC8
+630655	Passage Retrieval by Shrinkage of Language Models
+637516	Highly efficient simulation environment for HDTV video decoder in VLSI design
+637907	Automatic Annotation and Retrieval of Images
+642904	Holistic Twig Joins on Indexed XML Documents
+643979	Bloom Histogram: Path Selectivity Estimation for XML Data with Updates
+643989	Efficient Processing of XML Path Queries Using the Disk-based FB Index
+643991	STING: A Statistical Information Grid Approach to Spatial Data Mining
+644071	Using High Dimensional Indexes to Support Relevance Feedback Based Interactive Images Retrival
+644098	Efficient Computation of the Skyline Cube
+650700	Genotype Sequence Segmentation: Handling Constraints and Noise
+651916	Three-Tier Clustering: An Online Citation Clustering System
+652000	Dynamic Incremental Data Summarization for Hierarchical Clustering
+652003	Tight Bounds on the Estimation Distance Using Wavelet
+652017	Similarity Search with Implicit Object Features
+652101	An Effective Approach for Hiding Sensitive Knowledge in Data Publishing
+652105	Bulkloading Updates for Moving Objects
+652108	Subgraph Join: Efficient Processing Subgraph Queries on Graph-Structured XML Document
+652118	cGridex: Efficient Processing of Continuous Range Queries over Moving Objects
+652194	Extract Frequent Pattern from Simple Graph Data
+652237	Active Rules Termination Analysis Through Conditional Formula Containing Updatable Variable
+652253	A New Approach for Detecting Anonymity of Patterns
+652275	REC: A Novel Model to Rank Experts in Communities
+652325	Computing Repairs for Inconsistent XML Document Using Chase
+652350	Efficient Processing of Complex Twig Pattern Matching
+653393	Design Pattern Detection in Eiffel Systems
+659607	Policy Storage for Role-Based Access Control Systems
+662735	Scheduling sensor activity for point information coverage in wireless sensor networks
+669692	Easy-SC: A Supply Chain Simulation Tool
+671443	Applying simulation in a supply chain transformation case
+671514	IBM SmartSCOR - a SCOR based supply chain transformation platform through simulation and optimization techniques
+671674	Linking strategic objectives to operations: towards a more effective supply chain decision making
+671760	IFAO-SIMO: a spatial-simulation based facility network optimization framework
+671808	IBM supply-chain network optimization workbench: an integrated optimization and simulation tool for supply chain design
+672041	Discrete event simulation modeling of resource planning and service order execution for service businesses
+672163	An introduction to IBM General Business Simulation Environment
+672177	Simulating order fulfillment and supply planning for a vertically aligned industry solution business
+672303	Towards a flexible business process modeling and simulation environment
+673088	Fuzzy Linking Models for Pyramidal Edge Detection
+674908	X-warehouse: building query pattern-driven data
+674912	XAR-miner: efficient association rules mining for XML data
+675443	Efficient similarity joins for near duplicate detection
+675510	Modeling semantics and structure of discussion threads
+675649	A general framework for adaptive and online detection of web attacks
+679184	Proposal of Incremental Sliding Mode Control
+679359	Ocean Red Tide Recognizing Method Based Neural Network Ensembles
+679597	A Registration Method of Fundus Images Based on Edge Detection and Phase-Correlation
+681153	A Policy-based Resource Monitoring System in Distributed Computing Environmen
+687819	Taming Underlying Design for Energy Efficient Distributed Source Coding in Multirate Wireless Sensor Network
+687888	Noncooperative Power Control Game with Exponential Pricing for Cognitive Radio Network
+689405	Performance of an Adaptive Multiuser OFDM Uplink with Carrier Frequency Offsets
+689873	A Flexible Tree Searching Scheme for MIMO Detection
+690205	A Quantitative Study of Mobility Impact for Real-Time Services on a Wi-Fi Multi-hop Network
+690271	Throughput vs. Distance Tradeoffs and Deployment Considerations for a Multi-Hop IEEE 802.16e Railroad Test Bed
+690413	Spokesmen Election Problem Revisited
+693755	An Extension to Pointer Logic for Verification
+699461	Space-frequency precoding scheme for multiuser MIMO-OFDM systems
+699509	A cross layer resource allocation scheme for secure image delivery in wireless sensor networks
+704127	Optimal Image Component Transmissions in Multirate Wireless Sensor Networks
+704970	Collaborative Image Transmissions Based on Region and Path Diversity in Wireless Sensor Network
+705174	Position Based Unequal Error Protection for Image Transmission with Energy Constraint over Multirate XPD MIMO Sensor Networks
+706128	Asynchronous Distributed Power Control under Interference Temperature Constraints
+708451	Central Nervous Processing for Acupuncture at Liv3 with fMRI: A Preliminary Experience
+709156	The Development and Application of Quick Search Engine Based on Special Fields
+712681	Topology variety model for mobile ad hoc networks
+712834	Optimization of in-network data reduction
+716754	Visualization Enhancement of Arthrosis Tissues Structure in Ultrasound Image Based on Improved Diffusion
+722413	Applications of the Fuzzy Immune PID Control and the Genetic Algorithm in the Automated Pharmacy System
+723732	FA compensating variable bang-bang control algorithm for pneumatic driving glass-wall cleaning robot
+725090	Locomotion Capabilities of a Novel Reconfigurable Robot with 3 DOF Active Joints for Rugged Terrain
+725147	Autonomous Control for Micro-Flying Robot and Small Wireless Helicopter X.R.B
+726948	A Bayesian knowledge engineering framework for service management
+727885	Robust Routing and Scheduling in Wireless Mesh Networks
+728110	The Synchronization Technique of Data Fusion for Integrated Navigation Systems
+728593	Multiple Nests' Cooperation ACO Based Union-Intersection Operations
+728993	Application of 3D Virtual Presentation Technology in Product Customer System
+729564	Learning to Rank with Bayesian Evidence Framework
+730060	Image Denoising Based on Contourlet-Domain HMT Models Using Cycle Spinning
+730242	Enhanced Architecture of TPM
+730251	A Scheme of Test Pattern Generation Based on Reseeding of Segment-Fixing Counter
+730657	Implementation of Pointer Logic for Automated Verification
+730965	Performance Analysis of Multi-hop IEEE 802.11 DCF Backhaul Networks
+732951	New results in decentralized adaptive backstepping stabilization of nonlinear interconnected systems
+733768	Optimal filtering for discrete time-varying systems with multiple time-delay measurements
+733922	Decoupling control and feedback linearization for a class of nonlinear time-delay systems
+734007	Stochastic power control algorithm in CDMA systems
+735104	Energy-Distortion-Authentication Optimized Resource Allocation for Secure Wireless Image Streaming
+735816	Bridge the gap between syndrome in Traditional Chinese Medicine and proteome in western medicine by unsupervised pattern discovery algorithm
+739133	Local Structure Comparison of Proteins
+752359	On the definable ideal generated by the plus cupping c.e. degrees
+754620	On definable filters in computably enumerable degrees
+756385	Conic functions on metric spaces and their application
+756443	Blow-up rate for a nonlinear diffusion equation
+756741	Simple transformation functions for finding better minima
+758846	An Efficient Algorithm for Cyclic Edge Connectivity of Regular Graphs
+761468	On partial contraction analysis for coupled nonlinear oscillators
+802928	Processing of massive audit data streams for real-time anomaly intrusion detection
+805345	Profiling program behavior for anomaly intrusion detection based on the transition and frequency property of computer audit data
+813183	Bilevel programming applied to the flow shop scheduling problem
+816979	Factorization of Language Models through Backing-Off Lattices
+817028	Statistical Machine Translation by Parsing
+823721	Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination
+827737	Information-theoretic limits on sparse signal recovery: Dense versus sparse measurement matrices
+839529	Sequential Pattern Mining in Multi-Databases via Multiple Alignment
+839666	Mining Surprising Periodic Patterns
+845791	Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model
+846328	Benchmarking the effectiveness of sequential pattern mining methods
+855629	Characterization of graphs with infinite cyclic edge connectivity
+865026	A sufficient condition for a family of graphs being determined by their generalized spectra
+869083	DPVK - An Eclipse Plug-in to Detect Design Patterns in Eiffel Systems
+873985	Learning Portfolio Analysis and Mining for SCORM Compliant Environment
+880487	Observer-based adaptive fuzzy control for SISO nonlinear systems
+901181	Improved Clonal Selection Algorithm Combined with Ant Colony Optimization
+903341	An Improved Biclustering Method for Analyzing Gene Expression Profiles
+910453	A New Computational Way to Monte Carlo Global Illumination
+913563	Internet dependency and psychosocial maturity among college students
+917618	Fast computation with neural oscillators
+925306	Consistent data for inconsistent XML document
+942457	Approaches to the representations and logic operations of fuzzy concepts in the framework of axiomatic fuzzy set theory I
+942478	Approaches to the representations and logic operations of fuzzy concepts in the framework of axiomatic fuzzy set theory II
+942773	Adaptive fuzzy control for a class of uncertain nonaffine nonlinear systems
+962009	Comparing Graph Representations of Protein Structure for Mining Family-Specific Residue-Based Packing Motifs
+964441	Scalable molecular dynamics with NAMD
+971107	Novel Design and Fpga Implementation of Da-rns Fir Filters
+973435	Recent Progress on Selected Topics in Database Research - A Report by Nine Young Chinese Researchers Working in the United States
+973476	Efficient Computation of k-Medians over Data Streams Under Memory Constraints
+973695	Chopper: Efficient Algorithm for Tree Mining
+973731	Dynamic Interval Index Structure in Constraint Database Systems
+973741	Extracting Frequent Connected Subgraphs from Large Graph Sets
+973838	Approach to the Correlation Discovery of Chinese Linguistic Parameters Based on Bayesian Method
+974016	Hybrid Nanoelectronics: Future of Computer Technology
+974094	Efficient Optimization of Multiple Subspace Skyline Queries
+974101	Leakage Current Optimization Techniques During Test Based on Don't Care Bits Assignment
+979426	A uniqueness theorem on matrices and reconstruction
+981843	Genetic algorithms for determining fuzzy measures from data
+982421	Constraint-based sequential pattern mining: the pattern-growth methods
+982423	Approximate range-sum query answering on data cubes with probabilistic guarantees
+1003595	WAR: Weighted Association Rules for Item Intensities
+1003609	Discovering High-Order Periodic Patterns
+1004460	Risk and confidence analysis for fuzzy multicriteria decision making
+1011381	Extracting semantic concepts from images: a decisive feature pattern mining approach
+1013002	Hardware Organization to Achieve High-Speed Elliptic Curve Cryptography for Mobile Devices
+1020773	KemaDom: a web server for domain prediction using kernel machine with local context
+1030128	Sample average approximation of expected value constrained stochastic programs
+1031092	A Novel Discrete Relaxation Architecture
+1042879	Structure-based graph distance measures of high degree of precision
+1046779	Design and implementation of Log-Gabor filter in fingerprint image enhancement
+1060791	Geometric Separators and Their Applications to Protein Folding in the HP-Model
+1063622	BIOKDD 2005 workshop report
+1063677	Utility-based anonymization for privacy preservation with less information loss
+1063708	Mining Patterns in Long Sequential Data with Noise
+1064705	Reminiscences on Influential Papers - Kenneth A. Ross
+1075549	Dynamo: design, implementation, and evaluation of cooperative persistent object management in a local area network
+1103700	A Graph Based Approach Toward Network Forensics Analysis
+1105954	On optimal permutation codes
+1113128	Performance Analysis of Three Text-Join Algorithms
+1113700	Guest Editors' Introduction: Special Issue on Mining Biological Data
+1113702	An Approach to Active Spatial Data Mining Based on Statistical Information
+1113817	Mining Asynchronous Periodic Patterns in Time Series Data
+1113959	A Low-Granularity Classifier for Data Streams with Concept Drifts and Biased Class Distribution
+1114026	Adaptive Broadcasting for Similarity Queries in Wireless Content Delivery Systems
+1115610	Effects of Incompatible Boundary Information in EIT on the Convergence Behavior of an Iterative Algorithm
+1116776	A Multiparty Videoconferencing System Over an Application-Level Multicast Protocol
+1118789	Towards multidimensional subspace skyline analysis
+1123154	Extending the lifetime of wireless sensor networks through mobile relays
+1131614	The fuzzy clustering analysis based on AFS theory
+1133190	Stability Analysis for Linear Switched Systems With Time-Varying Delay
+1133193	A General Internal Model Approach for Motion Learning
+1140943	An adaptive approach for image encryption and secure transmission over multirate wireless sensor networks
+1141907	Automatic Annotation and Retrieval of Images
+1142004	Coding-based Join Algorithms for Structural Queries on Graph-Structured XML Document
+1142318	An uplink resource allocation scheme for OFDMA-based cognitive radio networks
+1146214	Two parallel distribution algorithms for convex constrained minimization problems
+1146386	Delay and its time-derivative dependent robust stability of neutral control system
+1150426	Microarray image compression: SLOCO and the effect of information loss
+1151060	Detection using correlation bound in a linear mixture model
+1152075	Passive Compliance from Robot Limbs and its Usefulness in Robotic Automation
+1155637	High-mobility pentacene thin-film transistors with copolymer-gate dielectric
+1161478	Commonality and postponement in multistage assembly systems
+1165358	Non-negative Matrix Factorization with Orthogonality Constraints and its Application to Raman Spectroscopy
+1167786	Introduction to special issue on bioinformatics
+1168162	Fast intrusion detection based on a non-negative matrix factorization model
+1169959	System deep usage in post-acceptance stage: a literature review and a new research framework
+1170378	Data management services and transfer scheme in ChinaGrid
+1171677	PERT: a new power-efficient real-time packet delivery scheme for sensor networks
+1176024	Information Coverage in Randomly Deployed Wireless Sensor Networks
+1176311	Coverage for target localization in wireless sensor networks
+1177300	Cross-layer routing optimization in multirate wireless sensor networks for distributed sourcecoding based applications
+1180393	Kalman filtering for time-delayed linear systems
+1180466	Trusted dynamic level scheduling based on Bayes trust model
+1180495	Nanoparticle-based lift-off technique for ultra-thin nanoporous film preparation
+1181297	Delay-dependent stability for discrete systems with large delay sequence based on switching techniques
+1181407	Decentralized adaptive backstepping stabilization of interconnected systems with dynamic input and output interactions
+1181782	Kalman filtering for multiple time-delay systems
+1186003	Ed-Join: an efficient algorithm for similarity joins with edit distance constraints
+1186041	Mining non-redundant high order correlations in binary data
+1194010	Bifurcation, Exact Solutions and nonsmooth Behavior of solitary Waves in the Generalized Nonlinear SchrOdinger equation
+1195529	Innovative control education using a low cost intelligent robot platform
+1195680	Force cooperation in a reconfigurable field multirobot system
+1200991	Comparative Study of Sequential Pattern Mining Models
+1207487	New Distinguishing Attack on MAC Using Secret-Prefix Method
+1209228	Ethnographic User Study and Concept Design for Chinese Migrant Workers' Social Networks
+1209249	Mobile Social Service Design for Large-Scale Exhibition
+1211376	Analog Circuit Fault Fusion Diagnosis Method Based on Support Vector Machine
+1213974	Simultaneously modeling semantics and structure of threaded discussions: a sparse coding approach and its applications
+1214149	Keyword search on structured and semi-structured data
+1214250	Efficient approximate entity extraction with edit distance constraints
+1214464	Split-Order Distance for Clustering and Classification Hierarchies
+1214980	An incremental SMLAOI algorithm for progressive downloading large scale WebVR scenes
+1217008	Limited feedback Zero Forcing precoding scheme for MIMO-broadcast channels
+1217519	Channel Characteristics of Different Floors for Joint Communications and Positioning
+1220239	High-throughput identification of interacting protein-protein binding sites
+1220348	On the detection of functionally coherent groups of protein domains with an extension to protein annotation
+1220574	Prediction of regulatory elements in mammalian genomes using chromatin signatures
+1220810	GBNet: Deciphering regulatory rules in the co-regulated genes using a Gibbs sampler enhanced Bayesian network approach
+1223210	Flexible Querying of Personal Information
+1227631	Adaptive Method for Early Detecting Zero Quantized DCT Coefficients in H.264/AVC Video Encoding
+1227717	Power Control for Distributed MAC Protocols in Wireless Ad Hoc Networks
+1227825	Coverage in Hybrid Mobile Sensor Networks
+1231047	Subspace Partitioning for Target Detection and Identification
+1231263	Adaptive backstepping control of uncertain systems with unknown input time-delay
+1231645	Preference-Based Frequent Pattern Mining
+1233199	Progress in the development and application of computational methods for probabilistic protein design
+1238937	A Spatial Faithful Cooperative System Based on Mixed Presence Groupware Model
+1239280	iMecho: an associative memory based desktop search system
+1239350	HyperSum: hypergraph based semi-supervised sentence ranking for query-oriented summarization
+1239429	iRANK: an interactive ranking framework and its application in query-focused summarization
+1239485	Graph classification based on pattern co-occurrence
+1239562	Personalization as a service: the architecture and a case study
+1240368	New Birthday Attacks on Some MACs Based on Block Ciphers
+1240486	Improving mutual awareness and distributed cognition in collaborative design communication via a virtualized reality-integrated telepresence system
+1240520	Bridging shape grammar and Tangible Augmented Reality into collaborative design learning
+1240541	Motivated learning agent model for distributed collaborative systems
+1241182	Workshop Organizers' Message
+1242466	Empirical Research and Design of M-Learning System for College English
+1244146	Map-matching for low-sampling-rate GPS trajectories
+1247474	Emotional Particle Swarm Optimization
+1251348	A Survey of Passive Image Tampering Detection
+1251362	Multi-class Blind Steganalysis Based on Image Run-Length Analysis
+1253205	Achievable throughput of multiple access spectrum systems based on cognitive relay
+1253241	SAM: enabling practical spatial multiple access in wireless LAN
+1254740	Autonomic Intrusion Detection System
+1259076	Type I HARQ performance modeling and evaluation of mobile WiMAX for network simulators
+1259592	An application of host identity tags to DKIM for identifying signers
+1260127	Action-Based Access Control for Web Services
+1263173	FPAA Based on Integration of CMOS and Nanojunction Devices for Neuromorphic Applications
+1263181	3D CMOL Crossnet for Neuromorphic Network Applications
+1263191	Exploring Multi-layer Graphene Nanoribbon Interconnects
+1263213	Carbon Nanotube Nanorelays with Pass-Transistor for FPGA Routing Devices
+1265906	Composable IO: A Novel Resource Sharing Platform in Personal Clouds
+1268439	Self-adaptive web intrusion detection system
+1271636	Construct support vector machine ensemble to detect traffic incident
+1272240	A prediction algorithm for time series based on adaptive model selection
+1272529	Decision tree learning for freeway automatic incident detection
+1272943	Adaptive fuzzy output tracking control for a class of uncertain nonlinear systems
+1276673	A novel mobility model based on semi-random circular movement in mobile ad hoc networks
+1282039	Robust Routing and Scheduling in Wireless Mesh Networks under Dynamic Traffic Conditions
+1283390	A generalized (G'/G)-expansion method and its application to the (2 + 1)-dimensional Broer-Kaup equations
+1284311	Balancing the Role of Priors in Multi-Observer Segmentation Evaluation
+1284456	Predicting intrusion goal using dynamic Bayesian network with transfer probability estimation
+1284781	Design of IIR orthogonal wavelet filter banks using lifting scheme
+1285320	Image transmissions with security enhancement based on region and path diversity in wireless sensor networks
+1285351	Cross-layer multirate interaction with Distributed Source Coding in Wireless Sensor Networks
+1286910	Lazy Updates: An Efficient Technique to Continuously Monitoring Reverse kNN
+1292834	Abnormal Sections Detection Based on Inter-Frames Information in Video Sequence
+1295685	Countermeasures for Hardware Fault Attack in Multi-Prime RSA Cryptosystems
+1303671	An Efficient Survivability Hierarchy Analysis Model for Networked Information System.
+1303754	A Quantitative Evaluation Model for Network Security.
+1303845	A Note on Shacham and Waters Ring Signatures.
+1303866	A New Method Considering Creditability Degree and Connection of Buyers and Sellers in E-Broker System.
+1304168	A Hierarchical Artificial Immune Model for Virus Detection.
+1308280	Run-Length and Edge Statistics Based Approach for Image Splicing Detection.
+1310560	An XML Firewall on Embedded Network Processor.
+1310676	A Clustering Algorithm Incorporating Density and Direction.
+1311091	Abnormal Video Sections Detection Based on Inter-frames Information.
+1311765	Functional Neighbors: Inferring Relationships between Non-Homologous Protein Families Using Family-Specific Packing Motifs.
+1313050	Crawling Locomotion of Modular Climbing Caterpillar Robot with Changing Kinematic Chain.
+1313249	Docking manipulator for a reconfigurable mobile robot system.
+1314053	Energy Efficient Multi-rate Based Time Slot Pre-schedule Scheme in WSNs for Ubiquitous Environment.
+1314672	An Intelligent Ontology and Bayesian Network Based Semantic Mashup for Tourism.
+1314836	A Study on the Relationship between Native and Customers' Information of the Enterprise.
+1314892	A Novel Hybrid Intelligent Model for Financial Time Series Forecasting and Its Application.
+1316379	The Dimension of Bivariate Weak Spline Space W (I Δ).
+1316564	A Turn-Based Algorithm for Solving the Logit Type Network Loading Problem.
+1316981	General Approach for Simulating Heterogeneity of Car-Following Behaviors.
+1317163	Engineering Computational Service Grid: A Flexible Engineering Computational Environment Based on Grid Computing.
+1317275	A Dual-Center Event Description Model Used in Event Tracking.
+1317316	Genetic Projection Pursuit Interpolation Data Mining Model for Urban Environmental Quality Assessment.
+1317460	Determination Freshwater Fish Freshness with Gas Sensor Array.
+1317613	Classfication and Evolution of HLH Family Members in Poultry Genome.
+1317665	The Algorithm on Adaptive Filtering and Generalized Derivative Estimating for Signals with Uncertain Dynamics.
+1318361	Design of Dual-Frequency Unequal Power Divider with Genetic Algorithm.
+1319001	Projection Pursuit Model Based on Complex Algorithm and its Application in Water Quality Evaluation of Yuqing Lake Reservoir.
+1319689	A Proteome Characteristic Pattern of Unstable Angina was Found by Two-Dimensional Difference Gel Electrophoresis and Least Angle Regression.
+1319731	Non-invasive Assessment of Fish Freshness with Bio-impedance and BP-ANN Method.
+1319760	Engineering Signals' Blind Source Separation in Frequency Domain and Its Application.
+1319975	Study on Unified Model of Emotional State in HCI.
+1323703	A Novel Ray Tracing Based Multipath Modeling Approach for Site-Specific WLAN Simulations.
+1324804	Attribute Normalization in Network Intrusion Detection.
+1327406	Improving the Survivability of WSNs with Biological Characters Based on Rejuvenation Technology.
+1328439	Large-scale Topological Environmental Model Based Particle Filters for Mobile Robot Indoor Localization.
+1328497	A Method for Robustness Improvement of Robot Obstacle Avoidance Algorithm.
+1328498	Target Tracking in Colored Image Sequence Using Weighted Color Histogram Based Particle Filter.
+1328587	Design and Realization of a Novel Reconfigurable Robot with Serial and Parallel Mechanisms.
+1328625	Building and Understanding Robotics?a Practical Course for Different Levels Education.
+1329245	A Particle Swarm Optimization Based on Chaotic Neighborhood Search to Avoid Premature Convergence.
+1329247	Localization Algorithm Based on SVM-Data Fusion in Wireless Sensor Networks.
+1329463	Phase singularities for image representation and matching.
+1329806	CCA for joint blind source separation of multiple datasets with application to group FMRI analysis.
+1329824	Target detection and identification using canonical correlation analysis and subspace partitioning.
+1331163	Design and Implementation of Wireless Sensor Network Gateway Based on Environmental Monitoring.
+1332583	Frequency sensitivity in Hodgkin-Huxley systems.
+1332870	Dynamics of the noisy neural network.
+1333964	Web Discovery and Filtering Based on Textual Relevance Feedback Learning.
+1339692	The WKB Local Discontinuous Galerkin Method for the Simulation of Schrödinger Equation in a Resonant Tunneling Diode.
+1339721	Constructing attribute weights from computer audit data for effective intrusion detection.
+1340562	Hash-Based Virtual Hierarchies for Scalable Location Service in Mobile Ad-hoc Networks.
+1340941	Text categorization based on combination of modified back propagation neural network and latent semantic analysis.
+1342434	Improved pattern recognition with complex artificial immune system.
+1343270	A Theory of Phase Singularities for Image Representation and its Applications to Object Tracking and Image Matching.
+1343524	Opportunistic energy-efficient contact probing in delay-tolerant applications.
+1343761	Scheduling sensor activity for information coverage of discrete targets in sensor networks.
+1343998	Robust adaptive beamforming for large-scale arrays.
+1345724	A framework for intrusion detection systems by social network analysis methods in networks.
+1365674	Fair resource sharing for cooperative relay networks using Nash bargaining solutions
+1366553	Research on Architecture of Information Security in Enterprise Portal
+1367038	Mining emerging massive scientific sequence data using block-wise decomposition methods
+1367308	Efficient algorithms in analyzing genomic data
+1367658	The Optimization of Complex XML Queries over XML Streams under DTD
+1370101	Testing Path Generation Algorithm with Network Performance Constraints for Nondeterministic Parallel Programs
+1371962	Test Data Compression Based on Clustered Random Access Scan
+1383186	Analysis of Instant Messaging Group Worms
+1385797	Effective Snippet Clustering with Domain Knowledge
+1390058	An implicit Landweber method for nonlinear ill-posed operator equations
+1390251	Research of GIS-based Spatial Data Mining Model
+1390449	A Novel Algorithm Applied to Task Scheduling in Grid Computing
+1393876	Brief paper: Adaptive backstepping control of uncertain systems with unknown input time-delay
+1409981	Structure alignment using bilingual chunking
+1412860	Mining Sequential Patterns from Large Data Sets (The Kluwer International Series on Advances in Database Systems)
+1414373	Fuzzy Weighted Average Filtering for Mixture Noises
+1433871	Sora: high performance software radio using general purpose multi-core processors
+1468341	A parallel architecture for discrete relaxation
+1516518	PK-tree: a spatial index structure for high dimensional point data
+1534615	Microsoft Networking Essentials
+1542664	DynamO: Dynamic Objects with Persistent Storage
+1545379	Ultra-shallow P+/N junctions formed by recoil implantation
+1557363	Redefining the manufacturing enterprise through information technology
+1564478	Recent progress on selected topics in database research: a report by nine young Chinese researchers working in the United States
+1573983	PK-tree: a spatial index structure for high dimensional point data
+1580623	Pentacene thin-film transistors with sol-gel derived amorphous Ba0.6Sr0.4TiO3 gate dielectric
+1581519	Keyword Search on Relational Databases
+1585065	A New Immune PID Controller in Material-Level Control
+1587312	An intrusion detection system in ad hoc networks: a social network analysis approach
+1587711	Quantitative study of an outdoor multi-hop 802.11 network performance using a novel passive measurement approach
+1589919	Proceedings of the APWeb/WAIM 2007 DBMAN, WebETrends, PAIS and ASWAN international workshops on Advances in Web and Network Technologies, and Information Management
+1591345	Classifying Infrasound with Wavelet Networks
+1597167	A Watermarking Algorithm for Gray-Level Watermark Based on Local Feature Region and SVD
+1599143	Ternary Tree Based Group Key Management in Dynamic Peer Networks
+1601380	Robust Collaborative Optimization of a Multi-finger Micro-accelerometer Based on Genetic Algorithm
+1603757	Graph-based pattern discovery in protein structures
+1606018	A parallel residue-to-binary converter
+1611332	New approaches for clustering high dimensional data
+1614025	Efficient processing of XML twig queries with OR-predicates
+1649205	Study on the Operation Region of Induction Traction Motor for Electric Vehicle
+1650189	Cross-Sectional Reverse Measurement Technique Research
+1650237	Simulation Study of CVT Ratio Control for Engine Braking
+1651064	Delay Performance of Load-Balanced Packet Switching under Different Traffic Patterns
+1651116	11,001 new features for statistical machine translation
+1651292	De-noising by Self-Adaptive Lifting Algorithm Based on Modulus Maximum Analysis
+1654724	Dynamic Analysis of Tip Set Extra Hard Load of Vertical Shaft Impact Crusher
+1656952	SPMT: statistical machine translation with syntactified target language phrases
+1658495	High-order well-balanced schemes and applications to non-equilibrium flow
+1658788	A Method of Traffic Dispersion for Accident Management
+1701256	EVolve: an open extensible software visualization framework
+1708468	An Area-Reduced Scheme for Modulo 2"-1 Addition/Subtraction
+1747618	Study on Regional Highway Macroscopic Logistics Hinge City Layout Based on Principal Component Analysis and Dynamic Clustering - Taking Jiangsu Province for Example
+1747788	SCPM: Facilitating Process-Centric Deployment in Enterprise System Implementation
+1748099	Study on Project Experts' Evaluation Based on Analytic Hierarchy Process and Fuzzy Comprehensive Evaluation
+1748399	A Complex Artificial Immune System
+1749566	Adaptive Robust Fuzzy Control for a Class of Uncertain Nonlinear Systems in Pure-Feedback Form
+1750017	Quantum System Control Based on Lyapunov Technology
+1750795	Improved Prediction of Nitrogen Oxides Using GRNN with K-Means Clustering and EDA
+1751445	Analysis on Evaluating Relative Contribution Effectiveness of Government Leaders' Performance
+1753347	An Improved Generalized Predictive Control Algorithm Based on PID
+1754103	A Research on Adaptive Transit Combined with Transit-Oriented Development for Small and Medium-Sized Cities
+1754448	Design and Implementation of China Digital Ocean Prototype System Framework on the Basis of Web Service Technology
+1755266	Note: A uniqueness theorem on matrices and reconstruction
+1755752	Modeling and Simulation of the Automated Pharmacy System

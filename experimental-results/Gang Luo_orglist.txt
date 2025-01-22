@@ -1,0 +1,43 @@
+3	4	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	5	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	6	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+3	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+3	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+3	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+4	5	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+4	6	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+4	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+4	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+4	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+4	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+4	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+5	6	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+5	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+5	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+5	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+5	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+5	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+6	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+6	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+6	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+6	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+6	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+8	9	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+10	26	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center
+10	27	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center
+13	22	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T.J. Watson Research Center, Hawthorne, NY
+13	45	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T. J. Watson Research Center, Hawthorne, NY
+15	41	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	National University of Defense Technology, Changsha
+19	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+19	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+19	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+19	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+22	40	IBM T.J. Watson Research Center, Hawthorne, NY	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+22	45	IBM T.J. Watson Research Center, Hawthorne, NY	IBM T. J. Watson Research Center, Hawthorne, NY
+26	27	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center
+30	31	Hunan University, China	Hunan University, China
+34	40	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+35	36	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+40	45	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY

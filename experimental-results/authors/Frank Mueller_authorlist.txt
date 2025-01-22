@@ -1,0 +1,518 @@
+1	29	David B. Whalley	David B. Whalley
+1	30	David B. Whalley	David B. Whalley
+1	34	David B. Whalley	David B. Whalley
+1	35	David B. Whalley	David B. Whalley
+1	36	David B. Whalley	David B. Whalley
+1	39	David B. Whalley	David B. Whalley
+1	43	David B. Whalley	David B. Whalley
+1	44	David B. Whalley	David B. Whalley
+1	45	David B. Whalley	David B. Whalley
+1	50	David B. Whalley	David B. Whalley
+1	51	David B. Whalley	David B. Whalley
+1	55	David B. Whalley	David B. Whalley
+1	56	David B. Whalley	David B. Whalley
+1	74	David B. Whalley	David B. Whalley
+1	76	David B. Whalley	David B. Whalley
+1	79	David B. Whalley	David B. Whalley
+1	81	David B. Whalley	David B. Whalley
+1	85	David B. Whalley	David B. Whalley
+2	68	Ramnath Venugopalan	Ramnath Venugopalan
+2	68	Prasanth Ganesan	Prasanth Ganesan
+2	68	Pushkin Peddabachagari	Pushkin Peddabachagari
+2	68	Alexander G. Dean	Alexander G. Dean
+2	68	Mihail L. Sichitiu	Mihail L. Sichitiu
+3	8	Jaydeep Marathe	Jaydeep Marathe
+3	8	Bronis R. de Supinski	Bronis R. de Supinski
+3	9	Jaydeep Marathe	Jaydeep Marathe
+3	12	Bronis R. de Supinski	Bronis R. de Supinski
+3	20	Bronis R. de Supinski	Bronis R. de Supinski
+3	37	Jaydeep Marathe	Jaydeep Marathe
+3	57	Tushar Mohan	Tushar Mohan
+3	57	Bronis R. de Supinski	Bronis R. de Supinski
+3	57	Sally A. McKee	Sally A. McKee
+3	57	Andy Yoo	Andy Yoo
+3	59	Jaydeep Marathe	Jaydeep Marathe
+3	59	Bronis R. de Supinski	Bronis R. de Supinski
+3	80	Jaydeep Marathe	Jaydeep Marathe
+3	80	Bronis R. de Supinski	Bronis R. de Supinski
+3	87	Jaydeep Marathe	Jaydeep Marathe
+3	87	Tushar Mohan	Tushar Mohan
+3	87	Bronis R. de Supinski	Bronis R. de Supinski
+3	87	Sally A. McKee	Sally A. McKee
+3	87	Andy Yoo	Andy Yoo
+3	88	Jaydeep Marathe	Jaydeep Marathe
+3	94	Bronis R. de Supinski	Bronis R. de Supinski
+3	95	Jaydeep Marathe	Jaydeep Marathe
+4	86	Sebastian Unger	Sebastian Unger
+6	13	Nirmit Desai	Nirmit Desai
+6	24	Nirmit Desai	Nirmit Desai
+6	71	Nirmit Desai	Nirmit Desai
+7	10	Chao Wang	Chao Wang
+7	21	Chao Wang	Chao Wang
+7	38	Chao Wang	Chao Wang
+7	58	Xiaosong Ma	Xiaosong Ma
+7	60	Chao Wang	Chao Wang
+7	60	Zhe Zhang	Zhe Zhang
+7	60	Sudharshan S. Vazhkudai	Sudharshan S. Vazhkudai
+7	60	Xiaosong Ma	Xiaosong Ma
+7	61	Chao Wang	Chao Wang
+7	77	Chao Wang	Chao Wang
+7	90	Chao Wang	Chao Wang
+7	90	Zhe Zhang	Zhe Zhang
+7	90	Sudharshan S. Vazhkudai	Sudharshan S. Vazhkudai
+7	90	Xiaosong Ma	Xiaosong Ma
+8	9	Jaydeep Marathe	Jaydeep Marathe
+8	12	Bronis R. de Supinski	Bronis R. de Supinski
+8	20	Bronis R. de Supinski	Bronis R. de Supinski
+8	37	Jaydeep Marathe	Jaydeep Marathe
+8	57	Bronis R. de Supinski	Bronis R. de Supinski
+8	59	Jaydeep Marathe	Jaydeep Marathe
+8	59	Bronis R. de Supinski	Bronis R. de Supinski
+8	80	Jaydeep Marathe	Jaydeep Marathe
+8	80	Bronis R. de Supinski	Bronis R. de Supinski
+8	87	Jaydeep Marathe	Jaydeep Marathe
+8	87	Bronis R. de Supinski	Bronis R. de Supinski
+8	88	Jaydeep Marathe	Jaydeep Marathe
+8	94	Bronis R. de Supinski	Bronis R. de Supinski
+8	95	Jaydeep Marathe	Jaydeep Marathe
+9	37	Jaydeep Marathe	Jaydeep Marathe
+9	59	Jaydeep Marathe	Jaydeep Marathe
+9	80	Jaydeep Marathe	Jaydeep Marathe
+9	87	Jaydeep Marathe	Jaydeep Marathe
+9	88	Jaydeep Marathe	Jaydeep Marathe
+9	95	Jaydeep Marathe	Jaydeep Marathe
+10	11	Christian Engelmann	Christian Engelmann
+10	11	Stephen L. Scott	Stephen L. Scott
+10	21	Chao Wang	Chao Wang
+10	21	Christian Engelmann	Christian Engelmann
+10	21	Stephen L. Scott	Stephen L. Scott
+10	38	Jyothish Varma	Jyothish Varma
+10	38	Chao Wang	Chao Wang
+10	38	Christian Engelmann	Christian Engelmann
+10	38	Stephen L. Scott	Stephen L. Scott
+10	60	Chao Wang	Chao Wang
+10	61	Chao Wang	Chao Wang
+10	61	Christian Engelmann	Christian Engelmann
+10	61	Stephen L. Scott	Stephen L. Scott
+10	77	Jyothish Varma	Jyothish Varma
+10	77	Chao Wang	Chao Wang
+10	77	Christian Engelmann	Christian Engelmann
+10	77	Stephen L. Scott	Stephen L. Scott
+10	90	Chao Wang	Chao Wang
+11	21	Christian Engelmann	Christian Engelmann
+11	21	Stephen L. Scott	Stephen L. Scott
+11	38	Arun Babu Nagarajan	Arun Babu Nagarajan
+11	38	Christian Engelmann	Christian Engelmann
+11	38	Stephen L. Scott	Stephen L. Scott
+11	61	Christian Engelmann	Christian Engelmann
+11	61	Stephen L. Scott	Stephen L. Scott
+11	77	Christian Engelmann	Christian Engelmann
+11	77	Stephen L. Scott	Stephen L. Scott
+12	20	Bronis R. de Supinski	Bronis R. de Supinski
+12	20	Martin Schulz	Martin Schulz
+12	57	Bronis R. de Supinski	Bronis R. de Supinski
+12	57	Martin Schulz	Martin Schulz
+12	59	Bronis R. de Supinski	Bronis R. de Supinski
+12	59	Martin Schulz	Martin Schulz
+12	80	Bronis R. de Supinski	Bronis R. de Supinski
+12	87	Bronis R. de Supinski	Bronis R. de Supinski
+12	94	Prasun Ratn	Prasun Ratn
+12	94	Bronis R. de Supinski	Bronis R. de Supinski
+12	94	Martin Schulz	Martin Schulz
+13	24	Nirmit Desai	Nirmit Desai
+13	71	Nirmit Desai	Nirmit Desai
+19	72	Jeffrey S. Vetter	Jeffrey S. Vetter
+20	57	Martin Schulz	Martin Schulz
+20	57	Bronis R. de Supinski	Bronis R. de Supinski
+20	59	Michael Noeth	Michael Noeth
+20	59	Martin Schulz	Martin Schulz
+20	59	Bronis R. de Supinski	Bronis R. de Supinski
+20	80	Bronis R. de Supinski	Bronis R. de Supinski
+20	87	Bronis R. de Supinski	Bronis R. de Supinski
+20	94	Michael Noeth	Michael Noeth
+20	94	Martin Schulz	Martin Schulz
+20	94	Bronis R. de Supinski	Bronis R. de Supinski
+21	38	Chao Wang	Chao Wang
+21	38	Christian Engelmann	Christian Engelmann
+21	38	Stephen L. Scott	Stephen L. Scott
+21	60	Chao Wang	Chao Wang
+21	61	Chao Wang	Chao Wang
+21	61	Christian Engelmann	Christian Engelmann
+21	61	Stephen L. Scott	Stephen L. Scott
+21	77	Chao Wang	Chao Wang
+21	77	Christian Engelmann	Christian Engelmann
+21	77	Stephen L. Scott	Stephen L. Scott
+21	90	Chao Wang	Chao Wang
+22	27	Kiran Seth	Kiran Seth
+22	27	Kaustubh Patil	Kaustubh Patil
+22	49	Aravindh Anantaraman	Aravindh Anantaraman
+22	49	Kiran Seth	Kiran Seth
+22	49	Eric Rotenberg	Eric Rotenberg
+22	53	Aravindh Anantaraman	Aravindh Anantaraman
+22	53	Kiran Seth	Kiran Seth
+22	53	Eric Rotenberg	Eric Rotenberg
+22	82	Aravindh Anantaraman	Aravindh Anantaraman
+22	82	Kiran Seth	Kiran Seth
+22	82	Eric Rotenberg	Eric Rotenberg
+24	71	Nirmit Desai	Nirmit Desai
+26	28	Yifan Zhu	Yifan Zhu
+26	31	Yifan Zhu	Yifan Zhu
+26	46	Yifan Zhu	Yifan Zhu
+26	75	Yifan Zhu	Yifan Zhu
+26	84	Yifan Zhu	Yifan Zhu
+27	49	Kiran Seth	Kiran Seth
+27	53	Kiran Seth	Kiran Seth
+27	82	Kiran Seth	Kiran Seth
+28	31	Yifan Zhu	Yifan Zhu
+28	46	Yifan Zhu	Yifan Zhu
+28	75	Yifan Zhu	Yifan Zhu
+28	84	Yifan Zhu	Yifan Zhu
+29	30	Christopher A. Healy	Christopher A. Healy
+29	30	David B. Whalley	David B. Whalley
+29	34	David B. Whalley	David B. Whalley
+29	35	David B. Whalley	David B. Whalley
+29	36	David B. Whalley	David B. Whalley
+29	39	Christopher A. Healy	Christopher A. Healy
+29	39	David B. Whalley	David B. Whalley
+29	43	Christopher A. Healy	Christopher A. Healy
+29	43	David B. Whalley	David B. Whalley
+29	44	Christopher A. Healy	Christopher A. Healy
+29	44	David B. Whalley	David B. Whalley
+29	45	Christopher A. Healy	Christopher A. Healy
+29	45	David B. Whalley	David B. Whalley
+29	50	David B. Whalley	David B. Whalley
+29	51	Christopher A. Healy	Christopher A. Healy
+29	51	David B. Whalley	David B. Whalley
+29	55	Christopher A. Healy	Christopher A. Healy
+29	55	David B. Whalley	David B. Whalley
+29	56	David B. Whalley	David B. Whalley
+29	74	Christopher A. Healy	Christopher A. Healy
+29	74	David B. Whalley	David B. Whalley
+29	76	Christopher A. Healy	Christopher A. Healy
+29	76	David B. Whalley	David B. Whalley
+29	79	Christopher A. Healy	Christopher A. Healy
+29	79	David B. Whalley	David B. Whalley
+29	81	Christopher A. Healy	Christopher A. Healy
+29	81	David B. Whalley	David B. Whalley
+29	85	David B. Whalley	David B. Whalley
+30	34	David B. Whalley	David B. Whalley
+30	35	David B. Whalley	David B. Whalley
+30	36	David B. Whalley	David B. Whalley
+30	39	Christopher A. Healy	Christopher A. Healy
+30	39	David B. Whalley	David B. Whalley
+30	43	Christopher A. Healy	Christopher A. Healy
+30	43	David B. Whalley	David B. Whalley
+30	44	Christopher A. Healy	Christopher A. Healy
+30	44	David B. Whalley	David B. Whalley
+30	45	Christopher A. Healy	Christopher A. Healy
+30	45	David B. Whalley	David B. Whalley
+30	50	David B. Whalley	David B. Whalley
+30	51	Christopher A. Healy	Christopher A. Healy
+30	51	David B. Whalley	David B. Whalley
+30	55	Christopher A. Healy	Christopher A. Healy
+30	55	David B. Whalley	David B. Whalley
+30	56	David B. Whalley	David B. Whalley
+30	74	Christopher A. Healy	Christopher A. Healy
+30	74	David B. Whalley	David B. Whalley
+30	76	Christopher A. Healy	Christopher A. Healy
+30	76	David B. Whalley	David B. Whalley
+30	79	Christopher A. Healy	Christopher A. Healy
+30	79	David B. Whalley	David B. Whalley
+30	81	Christopher A. Healy	Christopher A. Healy
+30	81	David B. Whalley	David B. Whalley
+30	85	David B. Whalley	David B. Whalley
+31	46	Yifan Zhu	Yifan Zhu
+31	75	Yifan Zhu	Yifan Zhu
+31	84	Yifan Zhu	Yifan Zhu
+34	35	David B. Whalley	David B. Whalley
+34	36	David B. Whalley	David B. Whalley
+34	39	David B. Whalley	David B. Whalley
+34	43	David B. Whalley	David B. Whalley
+34	43	Marion G. Harmon	Marion G. Harmon
+34	44	David B. Whalley	David B. Whalley
+34	45	David B. Whalley	David B. Whalley
+34	50	David B. Whalley	David B. Whalley
+34	50	Marion G. Harmon	Marion G. Harmon
+34	51	David B. Whalley	David B. Whalley
+34	55	David B. Whalley	David B. Whalley
+34	56	David B. Whalley	David B. Whalley
+34	74	David B. Whalley	David B. Whalley
+34	74	Marion G. Harmon	Marion G. Harmon
+34	76	David B. Whalley	David B. Whalley
+34	79	David B. Whalley	David B. Whalley
+34	81	David B. Whalley	David B. Whalley
+34	81	Marion G. Harmon	Marion G. Harmon
+34	85	David B. Whalley	David B. Whalley
+35	36	David B. Whalley	David B. Whalley
+35	39	David B. Whalley	David B. Whalley
+35	43	David B. Whalley	David B. Whalley
+35	44	David B. Whalley	David B. Whalley
+35	45	David B. Whalley	David B. Whalley
+35	50	David B. Whalley	David B. Whalley
+35	51	David B. Whalley	David B. Whalley
+35	55	David B. Whalley	David B. Whalley
+35	56	David B. Whalley	David B. Whalley
+35	74	David B. Whalley	David B. Whalley
+35	76	David B. Whalley	David B. Whalley
+35	79	David B. Whalley	David B. Whalley
+35	81	David B. Whalley	David B. Whalley
+35	85	David B. Whalley	David B. Whalley
+36	39	David B. Whalley	David B. Whalley
+36	43	David B. Whalley	David B. Whalley
+36	44	David B. Whalley	David B. Whalley
+36	45	David B. Whalley	David B. Whalley
+36	50	David B. Whalley	David B. Whalley
+36	51	David B. Whalley	David B. Whalley
+36	55	David B. Whalley	David B. Whalley
+36	56	David B. Whalley	David B. Whalley
+36	74	David B. Whalley	David B. Whalley
+36	76	David B. Whalley	David B. Whalley
+36	79	David B. Whalley	David B. Whalley
+36	81	David B. Whalley	David B. Whalley
+36	85	David B. Whalley	David B. Whalley
+37	59	Jaydeep Marathe	Jaydeep Marathe
+37	80	Jaydeep Marathe	Jaydeep Marathe
+37	87	Jaydeep Marathe	Jaydeep Marathe
+37	88	Jaydeep Marathe	Jaydeep Marathe
+37	95	Jaydeep Marathe	Jaydeep Marathe
+38	60	Chao Wang	Chao Wang
+38	61	Stephen L. Scott	Stephen L. Scott
+38	61	Christian Engelmann	Christian Engelmann
+38	61	Chao Wang	Chao Wang
+38	77	Stephen L. Scott	Stephen L. Scott
+38	77	Christian Engelmann	Christian Engelmann
+38	77	Chokchai Leangsuksun	Chokchai Leangsuksun
+38	77	Chao Wang	Chao Wang
+38	77	Jyothish Varma	Jyothish Varma
+38	90	Chao Wang	Chao Wang
+39	43	David B. Whalley	David B. Whalley
+39	43	Christopher A. Healy	Christopher A. Healy
+39	44	David B. Whalley	David B. Whalley
+39	44	Christopher A. Healy	Christopher A. Healy
+39	45	David B. Whalley	David B. Whalley
+39	45	Christopher A. Healy	Christopher A. Healy
+39	48	Sibin Mohan	Sibin Mohan
+39	50	David B. Whalley	David B. Whalley
+39	51	Sibin Mohan	Sibin Mohan
+39	51	David B. Whalley	David B. Whalley
+39	51	Christopher A. Healy	Christopher A. Healy
+39	55	David B. Whalley	David B. Whalley
+39	55	Christopher A. Healy	Christopher A. Healy
+39	56	David B. Whalley	David B. Whalley
+39	74	David B. Whalley	David B. Whalley
+39	74	Christopher A. Healy	Christopher A. Healy
+39	76	David B. Whalley	David B. Whalley
+39	76	Christopher A. Healy	Christopher A. Healy
+39	79	David B. Whalley	David B. Whalley
+39	79	Christopher A. Healy	Christopher A. Healy
+39	81	David B. Whalley	David B. Whalley
+39	81	Christopher A. Healy	Christopher A. Healy
+39	85	David B. Whalley	David B. Whalley
+39	89	Sibin Mohan	Sibin Mohan
+39	91	Sibin Mohan	Sibin Mohan
+39	93	Sibin Mohan	Sibin Mohan
+40	73	Joachim Wegener	Joachim Wegener
+41	42	Harini Ramaprasad	Harini Ramaprasad
+41	47	Harini Ramaprasad	Harini Ramaprasad
+41	54	Harini Ramaprasad	Harini Ramaprasad
+41	89	Harini Ramaprasad	Harini Ramaprasad
+41	92	Harini Ramaprasad	Harini Ramaprasad
+42	47	Harini Ramaprasad	Harini Ramaprasad
+42	54	Harini Ramaprasad	Harini Ramaprasad
+42	89	Harini Ramaprasad	Harini Ramaprasad
+42	92	Harini Ramaprasad	Harini Ramaprasad
+43	44	Christopher A. Healy	Christopher A. Healy
+43	44	David B. Whalley	David B. Whalley
+43	45	Christopher A. Healy	Christopher A. Healy
+43	45	David B. Whalley	David B. Whalley
+43	50	David B. Whalley	David B. Whalley
+43	50	Marion G. Harmon	Marion G. Harmon
+43	51	Christopher A. Healy	Christopher A. Healy
+43	51	David B. Whalley	David B. Whalley
+43	55	Christopher A. Healy	Christopher A. Healy
+43	55	David B. Whalley	David B. Whalley
+43	56	David B. Whalley	David B. Whalley
+43	74	Randall T. White	Randall T. White
+43	74	Christopher A. Healy	Christopher A. Healy
+43	74	David B. Whalley	David B. Whalley
+43	74	Marion G. Harmon	Marion G. Harmon
+43	76	Christopher A. Healy	Christopher A. Healy
+43	76	David B. Whalley	David B. Whalley
+43	79	Christopher A. Healy	Christopher A. Healy
+43	79	David B. Whalley	David B. Whalley
+43	81	Christopher A. Healy	Christopher A. Healy
+43	81	David B. Whalley	David B. Whalley
+43	81	Marion G. Harmon	Marion G. Harmon
+43	85	David B. Whalley	David B. Whalley
+44	45	Wankang Zhao	Wankang Zhao
+44	45	David B. Whalley	David B. Whalley
+44	45	Christopher A. Healy	Christopher A. Healy
+44	50	David B. Whalley	David B. Whalley
+44	51	David B. Whalley	David B. Whalley
+44	51	Christopher A. Healy	Christopher A. Healy
+44	55	Wankang Zhao	Wankang Zhao
+44	55	David B. Whalley	David B. Whalley
+44	55	Christopher A. Healy	Christopher A. Healy
+44	56	David B. Whalley	David B. Whalley
+44	74	David B. Whalley	David B. Whalley
+44	74	Christopher A. Healy	Christopher A. Healy
+44	76	Wankang Zhao	Wankang Zhao
+44	76	William C. Kreahling	William C. Kreahling
+44	76	David B. Whalley	David B. Whalley
+44	76	Christopher A. Healy	Christopher A. Healy
+44	79	Wankang Zhao	Wankang Zhao
+44	79	David B. Whalley	David B. Whalley
+44	79	Christopher A. Healy	Christopher A. Healy
+44	81	David B. Whalley	David B. Whalley
+44	81	Christopher A. Healy	Christopher A. Healy
+44	85	David B. Whalley	David B. Whalley
+45	50	David B. Whalley	David B. Whalley
+45	51	David B. Whalley	David B. Whalley
+45	51	Christopher A. Healy	Christopher A. Healy
+45	55	Wankang Zhao	Wankang Zhao
+45	55	David B. Whalley	David B. Whalley
+45	55	Christopher A. Healy	Christopher A. Healy
+45	56	David B. Whalley	David B. Whalley
+45	74	David B. Whalley	David B. Whalley
+45	74	Christopher A. Healy	Christopher A. Healy
+45	76	Wankang Zhao	Wankang Zhao
+45	76	David B. Whalley	David B. Whalley
+45	76	Christopher A. Healy	Christopher A. Healy
+45	79	Wankang Zhao	Wankang Zhao
+45	79	David B. Whalley	David B. Whalley
+45	79	Christopher A. Healy	Christopher A. Healy
+45	81	David B. Whalley	David B. Whalley
+45	81	Christopher A. Healy	Christopher A. Healy
+45	85	David B. Whalley	David B. Whalley
+46	75	Yifan Zhu	Yifan Zhu
+46	84	Yifan Zhu	Yifan Zhu
+47	54	Harini Ramaprasad	Harini Ramaprasad
+47	89	Harini Ramaprasad	Harini Ramaprasad
+47	92	Harini Ramaprasad	Harini Ramaprasad
+48	51	Sibin Mohan	Sibin Mohan
+48	89	Sibin Mohan	Sibin Mohan
+48	91	Sibin Mohan	Sibin Mohan
+48	93	Sibin Mohan	Sibin Mohan
+49	53	Aravindh Anantaraman	Aravindh Anantaraman
+49	53	Kiran Seth	Kiran Seth
+49	53	Eric Rotenberg	Eric Rotenberg
+49	82	Aravindh Anantaraman	Aravindh Anantaraman
+49	82	Kiran Seth	Kiran Seth
+49	82	Eric Rotenberg	Eric Rotenberg
+50	51	David B. Whalley	David B. Whalley
+50	55	David B. Whalley	David B. Whalley
+50	56	David B. Whalley	David B. Whalley
+50	74	David B. Whalley	David B. Whalley
+50	74	Marion G. Harmon	Marion G. Harmon
+50	76	David B. Whalley	David B. Whalley
+50	79	David B. Whalley	David B. Whalley
+50	81	Robert D. Arnold	Robert D. Arnold
+50	81	David B. Whalley	David B. Whalley
+50	81	Marion G. Harmon	Marion G. Harmon
+50	85	David B. Whalley	David B. Whalley
+51	55	Christopher A. Healy	Christopher A. Healy
+51	55	David B. Whalley	David B. Whalley
+51	56	David B. Whalley	David B. Whalley
+51	74	Christopher A. Healy	Christopher A. Healy
+51	74	David B. Whalley	David B. Whalley
+51	76	Christopher A. Healy	Christopher A. Healy
+51	76	David B. Whalley	David B. Whalley
+51	79	Christopher A. Healy	Christopher A. Healy
+51	79	David B. Whalley	David B. Whalley
+51	81	Christopher A. Healy	Christopher A. Healy
+51	81	David B. Whalley	David B. Whalley
+51	85	David B. Whalley	David B. Whalley
+51	89	Sibin Mohan	Sibin Mohan
+51	91	Sibin Mohan	Sibin Mohan
+51	93	Sibin Mohan	Sibin Mohan
+53	82	Kiran Seth	Kiran Seth
+53	82	Aravindh Anantaraman	Aravindh Anantaraman
+53	82	Eric Rotenberg	Eric Rotenberg
+54	89	Harini Ramaprasad	Harini Ramaprasad
+54	92	Harini Ramaprasad	Harini Ramaprasad
+55	56	David B. Whalley	David B. Whalley
+55	74	David B. Whalley	David B. Whalley
+55	74	Christopher A. Healy	Christopher A. Healy
+55	76	Wankang Zhao	Wankang Zhao
+55	76	David B. Whalley	David B. Whalley
+55	76	Christopher A. Healy	Christopher A. Healy
+55	79	Wankang Zhao	Wankang Zhao
+55	79	David B. Whalley	David B. Whalley
+55	79	Christopher A. Healy	Christopher A. Healy
+55	81	David B. Whalley	David B. Whalley
+55	81	Christopher A. Healy	Christopher A. Healy
+55	85	David B. Whalley	David B. Whalley
+56	74	David B. Whalley	David B. Whalley
+56	76	David B. Whalley	David B. Whalley
+56	79	David B. Whalley	David B. Whalley
+56	81	David B. Whalley	David B. Whalley
+56	85	David B. Whalley	David B. Whalley
+57	59	Bronis R. de Supinski	Bronis R. de Supinski
+57	59	Martin Schulz	Martin Schulz
+57	80	Bronis R. de Supinski	Bronis R. de Supinski
+57	87	Tushar Mohan	Tushar Mohan
+57	87	Bronis R. de Supinski	Bronis R. de Supinski
+57	87	Sally A. McKee	Sally A. McKee
+57	87	Andy Yoo	Andy Yoo
+57	94	Bronis R. de Supinski	Bronis R. de Supinski
+57	94	Martin Schulz	Martin Schulz
+58	60	Xiaosong Ma	Xiaosong Ma
+58	90	Xiaosong Ma	Xiaosong Ma
+59	80	Jaydeep Marathe	Jaydeep Marathe
+59	80	Bronis R. de Supinski	Bronis R. de Supinski
+59	87	Jaydeep Marathe	Jaydeep Marathe
+59	87	Bronis R. de Supinski	Bronis R. de Supinski
+59	88	Jaydeep Marathe	Jaydeep Marathe
+59	94	Michael Noeth	Michael Noeth
+59	94	Martin Schulz	Martin Schulz
+59	94	Bronis R. de Supinski	Bronis R. de Supinski
+59	95	Jaydeep Marathe	Jaydeep Marathe
+60	61	Chao Wang	Chao Wang
+60	77	Chao Wang	Chao Wang
+60	90	Zhe Zhang	Zhe Zhang
+60	90	Chao Wang	Chao Wang
+60	90	Sudharshan S. Vazhkudai	Sudharshan S. Vazhkudai
+60	90	Xiaosong Ma	Xiaosong Ma
+61	77	Chao Wang	Chao Wang
+61	77	Christian Engelmann	Christian Engelmann
+61	77	Stephen L. Scott	Stephen L. Scott
+61	90	Chao Wang	Chao Wang
+62	63	E. W. Giering	E. W. Giering
+62	63	Theodore P. Baker	Theodore P. Baker
+64	96	Dragan Macos	Dragan Macos
+69	99	Daniel J. Muller	Daniel J. Muller
+69	99	Dirk Labudde	Dirk Labudde
+74	76	Christopher A. Healy	Christopher A. Healy
+74	76	David B. Whalley	David B. Whalley
+74	79	Christopher A. Healy	Christopher A. Healy
+74	79	David B. Whalley	David B. Whalley
+74	81	Christopher A. Healy	Christopher A. Healy
+74	81	David B. Whalley	David B. Whalley
+74	81	Marion G. Harmon	Marion G. Harmon
+74	85	David B. Whalley	David B. Whalley
+75	84	Yifan Zhu	Yifan Zhu
+76	79	Wankang Zhao	Wankang Zhao
+76	79	David B. Whalley	David B. Whalley
+76	79	Christopher A. Healy	Christopher A. Healy
+76	81	David B. Whalley	David B. Whalley
+76	81	Christopher A. Healy	Christopher A. Healy
+76	85	David B. Whalley	David B. Whalley
+77	90	Chao Wang	Chao Wang
+79	81	David B. Whalley	David B. Whalley
+79	81	Christopher A. Healy	Christopher A. Healy
+79	85	David B. Whalley	David B. Whalley
+80	87	Jaydeep Marathe	Jaydeep Marathe
+80	87	Bronis R. de Supinski	Bronis R. de Supinski
+80	88	Jaydeep Marathe	Jaydeep Marathe
+80	94	Bronis R. de Supinski	Bronis R. de Supinski
+80	95	Jaydeep Marathe	Jaydeep Marathe
+81	85	David B. Whalley	David B. Whalley
+83	85	Per Stenstrom	Per Stenstrom
+87	88	Jaydeep Marathe	Jaydeep Marathe
+87	94	Bronis R. de Supinski	Bronis R. de Supinski
+87	95	Jaydeep Marathe	Jaydeep Marathe
+88	95	Jaydeep Marathe	Jaydeep Marathe
+89	91	Sibin Mohan	Sibin Mohan
+89	92	Harini Ramaprasad	Harini Ramaprasad
+89	93	Sibin Mohan	Sibin Mohan
+91	93	Sibin Mohan	Sibin Mohan

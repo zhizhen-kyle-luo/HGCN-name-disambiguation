@@ -1,0 +1,153 @@
+4675	Extending OBDD Graphs for Composite Event Matching in Content-Based Pub/Sub Systems
+9155	Research on Models of Concept and Relation between Concepts Adapted for Semantic Disambiguation of Natural Language
+20779	Extractive Summarization using Inter- and Intra- Event Relevance
+35250	CCSMOMS: A Composite Communication Scheme for Mobile Object Management System
+43654	The Distance Between Randomly Constructed Genomes
+47157	A Framework for Application Server Based Web Services Management
+94382	Deriving Event Relevance from the Ontology Constructed with Formal Concept Analysis
+112314	Category-Based Web Personalization System
+112378	Towards Dynamic Process with Variable Structure by Reflection
+112938	SOWAC: A Service-Oriented Workflow Access Control Model
+121473	An Algorithm for Solving Scaled Total Least Squares Problems
+128040	An Algorithm for Multiple Object Trajectory Tracking
+129487	A Multi-Channel Algorithm for Edge Detection Under Varying Lighting
+129819	Soft Edge Smoothness Prior for Alpha Channel Super Resolution
+130233	Discriminative learning of visual words for 3D human pose estimation
+162289	Control Considerations for Scalable Event Processing
+169652	Latent Pose Estimator for Continuous Action Recognition
+169724	Training Hierarchical Feed-Forward Visual Recognition Models Using Transfer Learning from Pseudo-Tasks
+177651	An Extended Event Matching Approach in Content-based Pub/Sub Systems for EAI
+232416	Zum Einsatzpotenzial von Wetterderivaten in der Landwirtschaft - dargestellt am Beispiel einer Niederschlagsoption
+234319	Design of a nanosensor array architecture
+235542	A Component-Based Analytical Performance Model of IP-Based SAN
+240884	Comparative Hypertext Approaches to Ergonomic Training
+258502	Research on the Status Quo and System Architecture of the Web Information Resource Evaluation
+276323	Efficient user Scheduling under Low Rate Feedback for Correlated MIMO Broadcast Channels
+277629	Error Probability of OFDM Systems Impaired by Carrier Frequency Offset in Frequency Selective Rayleigh Fading Channels
+277787	Efficient Adaptive Resource Allocation for Multiuser OFDM Systems with Minimum Rate Constraints
+280801	A New Hybrid Approach for Analysis of Factors Affecting Crude Oil Price
+289806	Building Document Graphs for Multiple News Articles Summarization: An Event-Based Approach
+314958	Provably Correct Runtime Enforcement of Non-interference Properties
+331828	Improving Speaker Diarization by Cross EM Refinement
+332993	Efficient Video Object Segmentation by Graph-Cut
+333109	Detecting Unsafe Driving Patterns using Discriminative Learning
+333595	Interfacial Behavior of Complex Hydrocarbon Fluids at Elevated Pressures and Temperatures
+333894	Compositional Dependence of Wetting and Contact Angles in Solid-Liquid-Liquid Systems under Realistic Environments
+336046	Exploration and Exploitation in Adaptive Filtering Based on Bayesian Active Learning
+346940	Video Foreground Segmentation Based on Sequential Feature Clustering
+347421	A Conditional Random Field Model for Video Super-resolution
+349682	Robust relative pose estimation with integrated cheirality constraint
+349707	Temporal difference learning to detect unsafe system states
+368789	Lights and Camera: Intelligently Controlled Multi-channel Pose Estimation System
+370930	A Framework for Building Privacy-Conscious Composite Web Services
+431521	Spin-transfer torque magnetoresistive content addressable memory (CAM) cell structure design with enhanced search noise margin
+446948	Extending OBDD Graphs for Composite Event Matching in Content-based Pub/Sub Systems
+502291	An integrated baseball digest system using maximum entropy method
+503485	Video object segmentation by motion-based sequential feature clustering
+518121	Deep Learning with Kernel Regularization for Visual Recognition
+523930	Mining Console Logs for Large-Scale System Problem Detection
+529521	Parallelism in Structured Newton Computations
+557152	Diversifying and Improving Business Process Management Systems by Service Cooperation Middleware
+562320	Information Concept Lattice and Its Reductions
+567362	A hierarchical naive Bayes mixture model for name disambiguation in author citations
+579283	Incremental Spectral Clustering With Application to Monitoring of Evolving Blog Communities
+584209	Literature-based Alignment of Ontologies
+594592	Document clustering with prior knowledge
+595360	Document clustering with cluster refinement and model selection capabilities
+595994	Document clustering by concept factorization
+595996	Document clustering based on non-negative matrix factorization
+596001	Multi-labelled classification using maximum entropy method
+596089	Fast exact maximum likelihood estimation for mixture of language models
+596458	trNon-greedy active learning for text categorization using convex ansductive experimental design
+601157	An efficient and backwards-compatible transformation to ensure memory safety of C programs
+608858	A Shared-Path-Protection Based Heuristic Algorithm for the Capacity Placement Problem in Mesh Networks
+630689	BUPT at TREC 2006: Spam Track
+645297	A Nanosensor Array-Based VLSI Gas Discriminator
+651025	Background Segmentation Using Spatial-Temporal Multi-Resolution MRF
+663914	A Transaction-Aware Coordination Protocol for Web Services Composition
+674945	An approach for realizing privacy-preserving web-based services
+679308	Research and Application of Spatio-temporal Data Mining Based on Ontology
+680893	An Analytical Performance Model of IP-SAN
+726393	Predictive Control for Dynamic Resource Allocation in Enterprise Data Centers
+733241	Instrumentation and experiment design for in-vitro interface temperature measurement during the insertion of an orthopaedic implant
+756356	Tikhonov regularization for weighted total least squares problems
+834642	The termination criterion for subdivision of the rational Bezier curves
+834972	Maximum entropy model-based baseball highlight detection and classification
+880831	Fuzzy inference based on fuzzy concept lattice
+909498	Lossless Subdivision-Based Multiresolution Representation of Arbitrary Triangle Meshes Using Kite Trees
+937281	Fast exact maximum likelihood estimation for mixture of language model
+942298	Design fuzzy controllers for complex systems with an application to 3-stage inverted pendulums
+962404	Paths and Cycles in Breakpoint Graph of Random Multichromosomal Genomes
+1017574	Multi-object trajectory tracking
+1049729	The design and characteristics of piezomotors using flexure-hinged displacement amplifiers
+1054740	Neuroscience output of China: A MEDLINE-based bibliometric study
+1102944	SoftCuts: A Soft Edge Smoothness Prior for Color Image Super-Resolution
+1144719	Bifurcations of travelling wave solutions in a model of the hydrogen-bonded systems
+1144764	Responses of strongly non-linear oscillator parametrically excited by random narrow-band noise
+1144768	Bifurcation method and traveling wave solution to Whitham-Broer-Kaup equation
+1145151	Bifurcations of traveling wave solutions for a class of the generalized Benjamin-Bona-Mahony equation
+1145327	Chaos controlling of extended nonlinear Lienard system based on the Melnikov theory
+1145769	Smooth and non-smooth travelling wave solutions of generalized Degasperis-Procesi equation
+1145867	Analysis of chaotic behavior in the extended Duffing-Van der Pol system subject to additive non-symmetry biharmonical excitation
+1146008	A series of explicit and exact travelling wave solutions of the B(m, n) equations
+1146366	Bifurcations of limit cycles for a perturbed quintic Hamiltonian system with four infinite singular points
+1146982	Stochastic Hopf bifurcation and chaos of stochastic Bonhoeffer-van der Pol system via Chebyshev polynomial approximation
+1147026	On the number of limit cycles of a cubic polynomials Hamiltonian system under quintic perturbation
+1147058	Detection function method and its application to a class of quintic Hamiltonian systems with quintic perturbations
+1147103	Travelling wave solutions for a class of the generalized Benjamin-Bona-Mahoney equations
+1147508	Numerical meshfree path integration method for non-linear dynamic systems
+1147529	Bifurcations of traveling wave solutions for a class of the nonlinear equations
+1148399	Travelling wave solutions in the generalized Hirota-Satsuma coupled KdV system
+1149132	Computations of shallow water equations with high-order central-upwind schemes on triangular meshes
+1149327	Thirteen limit cycles for a class of cubic Hamiltonian system with higher-order perturbed terms
+1152666	Towards an Efficient Self-organizing Reconfiguration Method for Self-reconfigurable Robots
+1163279	3D finite element mesh generation of complicated tooth model based on CT slices
+1168025	GCS-MA: A group communication system for mobile agents
+1193522	Effect of Gaussian White Noise on the Dynamical Behaviors of an Extended Duffing-van der Pol oscillator
+1194687	Global Analysis of Stochastic bifurcation in Duffing System
+1195873	On using flexure-hinge five-bar linkages to develop novel walking mechanisms and small-scale grippers for microrobots
+1207543	A hybrid particle swarm optimization approach with prior crossover differential evolution
+1211180	The Periodic Solution of a Class of Two Neurons Hopfield Network with Distributed Delay
+1211404	Fusion Algorithm Based on the Intuitionistic Fuzzy Set and Multiple Neural Network
+1220616	EzArray: A web-based highly automated Affymetrix expression array data management and analysis system
+1240985	Improving STT MRAM storage density through smaller-than-worst-case transistor sizing
+1250890	Data manipulation techniques to reduce phase change memory write energy
+1252998	Detecting video events based on action recognition in complex scenes using spatio-temporal descriptor
+1256307	Detecting large-scale system problems by mining console logs
+1265640	Surveillance Event Detection
+1270206	A generalization of Sperner's theorem and an application to graph orientations
+1275889	Feature - Bridging the gaps between enterprise software and end users
+1280375	Incremental spectral clustering by efficiently updating the eigen-system
+1283583	Adaptive complete synchronization of the noise-perturbed two bi-directionally coupled chaotic systems with time-delay and unknown parametric mismatch
+1283594	Analysis of bifurcations for non-linear stochastic non-smooth vibro-impact system via top Lyapunov exponent
+1284067	Parametric inference for progressive Type-I hybrid censored data on a simple step-stress accelerated life test model
+1285211	Limited feedback design for MIMO broadcast channels with ARQ mechanism
+1305141	View Synthesis for Virtual Walk through in Real Scene Based on Catadioptric Omnidirectional Images.
+1308046	Feature Matching under Region-Based Constraints for Robust Epipolar Geometry Estimation.
+1308133	Augmenting Exercise Systems with Virtual Exercise Environment.
+1316375	Segment Clustering Radar Signal Sorting.
+1316584	Sequential Experimental Approach for Congestion Pricing with Multiple Vehicle Types and Multiple Time Periods.
+1319478	Online System Problem Detection by Mining Patterns of Console Logs.
+1344507	Fast (Structured) Newton Computations.
+1346625	EBM Metadata Based on Dublin Core Better Presenting Validity of Clinical Trials.
+1424143	Subdivision Tree Representation of Arbitrary Triangle Meshes
+1471971	Externalizing a work domain structure on a hypertext interface using an abstraction hierarchy: supporting complex search tasks and problem-solving activities
+1543570	Thermoelastic plastic metals with mass diffusion
+1562097	A Stability Property of T. Chan's Preconditioner
+1580182	New Travel Demand Models with Back-Propagation Network
+1586939	Accelerating regularized iterative CT reconstruction on commodity graphics hardware (GPU)
+1608172	Taint-enhanced policy enforcement: a practical approach to defeat a wide range of attacks
+1620354	Elastostatic inverse formulation
+1650558	Task-based dialog management using an agenda
+1651214	An Improved and Efficient Tool for Analyzing Industrial Security Protocols
+1651797	Automatic recognition of logical relations for English, Chinese and Japanese in the GLARF framework
+1652248	Application of Synthetic Neural Network for Fault Diagnosis of Steam Turbine Flow Passage
+1654818	Internal Resistance Identification in Vehicle Power Lithium-Ion Battery and Application in Lifetime Evaluation
+1657602	Automatic Analysis of Fair Exchange Protocols in TLA
+1668305	The termination criterion for subdivision of the rational Be&acute;zier curves
+1672653	Pad-analysis of fuzzy control stability
+1717051	Considerations for linking seatpan and backrest angles
+1721609	A fast solver of radiosity equation systems
+1746642	Hydrodynamic modelling and CFD simulation of ferrofluids flow in magnetic targeting drug delivery
+1747120	An operator splitting method for variational inequalities with partially unknown mappings
+1754865	Poisson adjacency distributions in genome comparison

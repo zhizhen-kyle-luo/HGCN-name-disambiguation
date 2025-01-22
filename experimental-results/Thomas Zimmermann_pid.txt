@@ -1,0 +1,67 @@
+48920	Amica: einfache, uniforme Nutzung heterogener, verteilter, dynamischer Ressourcen
+84211	Predicting vulnerable software components
+138528	Visualizing Memory Graphs
+138995	Mining Aspects from Version History
+138998	HAM: Cross-cutting Concerns in Eclipse
+138999	Mining Eclipse for CrossCutting
+139001	Mining Additions of Method Calls in ArgoUML
+231780	Learning from Project History to Support Programmers
+363476	Taking lessons from history
+363477	Mining Version Histories to Guide Software Changes
+363503	Predicting Faults from Cached History
+363725	Predicting defects using network analysis on dependency graphs
+363734	4th International Workshop on Mining Software Repositories (MSR 2007)
+364928	Duplicate bug reports considered harmful ... really?
+364992	MythSE Myths in Software Engineering Half day ICSM 2007Working Session
+435217	Predicting component failures at design time
+451025	DEFECTS 2008: international workshop on defects in large software systems
+465896	How History Justifies System Architecture (or Not)
+465898	How documentation evolves over time
+471426	Mining Aspects from Version History
+471614	Automatic Identification of Bug-Introducing Changes
+472061	Extraction of bug localization benchmarks from history
+488330	Fast Data Mining For Programming Support
+508878	Mining version archives for co-changed lines
+508889	Mining eclipse for cross-cutting concerns
+508926	Extracting structural information from bug reports
+508943	TA-RE: an exchange language for mining software repositories
+508946	Mining usage expertise from version archives
+508968	When do changes induce fixes?
+508982	Mining additions of method calls in ArgoUML
+508997	How Long Will It Take to Fix This Bug?
+509001	Mining Workspace Updates in CVS
+521927	Aspect mining for large systems
+521928	Aspect mining for large systems
+522924	eROSE: guiding programmers in eclipse
+552964	Predicting Software Metrics at Design Time
+579478	Was Software-Archive erzahlen
+583095	Explaining Product Release Planning Results Using Concept Analysis
+601226	DynaMine: finding common error patterns by mining software revision histories
+601302	HATARI: raising risk awareness
+601589	What makes a good bug report?
+641672	Towards the next generation of bug tracking systems
+708138	Building Software Cost Estimation Models using Homogenous Data
+710910	HAM: cross-cutting concerns in Eclipse
+710911	Fine-grained processing of CVS archives with APFEL
+710982	Quality of bug reports in Eclipse
+734670	Predicting faults from cached history
+874200	Object-Oriented Symbolic Derivation and Automatic Programming of Finite Elements in Mechanics
+981372	Drawing Graphs Within Graphs
+1129938	Mining Version Histories to Guide Software Changes
+1130107	Do Crosscutting Concerns Cause Defects?
+1179624	Where do bugs come from?
+1179676	When do changes induce fixes?
+1202713	Predicting Bugs from History
+1210480	Predicting defects in SAP Java code: An experience report
+1210635	Improving bug tracking systems
+1227475	Guest Editors' Introduction: Mining Software Archives
+1248517	Expert recommendation with usage expertise
+1248524	Changes and bugs - Mining and predicting development activities
+1256145	Cross-project defect prediction: a large scale experiment on data vs. domain vs. process
+1256174	Improving bug triage with bug tossing graphs
+1311606	Optimized assignment of developers for fixing bugs an initial evaluation for eclipse projects.
+1311626	Predicting defects with program dependencies.
+1322172	Information needs in bug reports: improving cooperation between developers and users.
+1431394	Proceedings of the 2nd International Workshop on Defects in Large Software Systems: Held in conjunction with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2009)
+1515583	Object-oriented nonlinear finite element programming: a primer
+1606051	Predicting Defects for Eclipse

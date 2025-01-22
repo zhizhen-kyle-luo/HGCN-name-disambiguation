@@ -1,0 +1,37 @@
+106109	System-level design automation tools for digital microfluidic biochips
+132473	Automated design of pin-constrained digital microfluidic arrays for lab-on-a-chip applications*
+134005	Unified high-level synthesis and module placement for defect-tolerant microfluidic biochips
+141587	Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic Biochips
+143098	Yield Enhancement of Digital Microfluidics-Based Biochips Using Space Redundancy and Local Reconfiguration
+143099	Droplet routing in the synthesis of digital microfluidic biochips
+274067	Ridge-Based Fingerprint Recognition
+274304	A Robust Fingerprint Minutiae Matching Algorithm Based on the Support Model
+282782	Architectural-level synthesis of digital microfluidics-based biochips
+348238	Fingerprint Matching With Rotation-Descriptor Texture Features
+349616	Fingerprint Registration Using Minutia Clusters and Centroid Structure 1
+455192	Concurrent Testing of Droplet-Based Microfluidic Systems for Multiplexed Biomedical Assays
+456057	Testing of Droplet-Based Microelectrofluidic Systems
+463238	An Exact Ridge Matching Algorithm for Fingerprint Verification
+603982	Robust Ridge Following in Fingerprints
+604012	An Adaptive Fingerprint Post-processing Algorithm Based on Mathematical Morphology
+604038	A Hierarchical Fingerprint Matching Method Based on Rotation Invariant Features
+646386	Defect-Aware Synthesis of Droplet-Based Microfluidic Biochips
+648920	Defect Tolerance for Gracefully-Degradable Microfluidics-Based Biochips
+824048	Yield Enhancement of Digital Microfluidics-Based Biochips Using Space Redundancy and Local Reconfiguration
+824049	Design of Fault-Tolerant and Dynamically-Reconfigurable Microfluidic Biochips
+859100	Computer-Aided Design and Test for Digital Microfluidics
+980609	Yield enhancement of reconfigurable microfluidics-based biochips using interstitial redundancy
+980623	Automated design of pin-constrained digital microfluidic biochips under droplet-interference constraints
+980627	High-level synthesis of digital microfluidic biochips
+1085718	Defect Tolerance Based on Graceful Degradation and Dynamic Reconfiguration for Digital Microfluidics-Based Biochips
+1085921	Microfluidics-Based Biochips: Technology Issues, Implementation Platforms, and Design-Automation Challenges
+1117746	Module placement for fault-tolerant microfluidics-based biochips
+1117890	Concurrent testing of digital microfluidics-based biochips
+1154650	An optical characterization technique for hygroscopic expansion of polymers and plastic packages
+1166838	Test Planning and Test Resource Optimization for Droplet-Based Microfluidic Systems
+1166898	Testing and Diagnosis of Realistic Defects in Digital Microfluidic Biochips
+1209709	A Biometric Key-Binding and Template Protection Framework Using Correlation Filters
+1247355	Multi-UCAV Cooperative Path Planning Using Improved Coevolutionary Multi-Ant-Colony Algorithm
+1260018	Encrypted Fuzzy Vault Based on Fingerprint
+1328284	Cracking Cancelable Fingerprint Template of Ratha.
+1367582	Eye Location under Various Illumination Conditions

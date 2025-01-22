@@ -1,0 +1,1653 @@
+0	1	HP Labs, Palo Alto, 94304	null
+0	2	HP Labs, Palo Alto, 94304	null
+0	3	HP Labs, Palo Alto, 94304	null
+0	4	HP Labs, Palo Alto, 94304	HP Labs,
+0	5	HP Labs, Palo Alto, 94304	null
+0	6	HP Labs, Palo Alto, 94304	null
+0	7	HP Labs, Palo Alto, 94304	Univ. of Wisconsin - Madison, Madison, WI
+0	8	HP Labs, Palo Alto, 94304	null
+0	9	HP Labs, Palo Alto, 94304	null
+0	10	HP Labs, Palo Alto, 94304	null
+0	11	HP Labs, Palo Alto, 94304	null
+0	12	HP Labs, Palo Alto, 94304	null
+0	13	HP Labs, Palo Alto, 94304	null
+0	14	HP Labs, Palo Alto, 94304	null
+0	15	HP Labs, Palo Alto, 94304	null
+0	16	HP Labs, Palo Alto, 94304	Hewlett-Packard, Princeton, NJ
+0	17	HP Labs, Palo Alto, 94304	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+0	18	HP Labs, Palo Alto, 94304	NASA Ames Res. Center, Moffett Field, CA, USA
+0	19	HP Labs, Palo Alto, 94304	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+0	20	HP Labs, Palo Alto, 94304	null
+0	21	HP Labs, Palo Alto, 94304	null
+0	22	HP Labs, Palo Alto, 94304	null
+0	23	HP Labs, Palo Alto, 94304	null
+0	24	HP Labs, Palo Alto, 94304	null
+0	25	HP Labs, Palo Alto, 94304	null
+0	26	HP Labs, Palo Alto, 94304	null
+0	27	HP Labs, Palo Alto, 94304	null
+0	28	HP Labs, Palo Alto, 94304	null
+0	29	HP Labs, Palo Alto, 94304	null
+0	30	HP Labs, Palo Alto, 94304	null
+0	31	HP Labs, Palo Alto, 94304	null
+0	32	HP Labs, Palo Alto, 94304	LIP, Ecole Normale Superieure de Lyon, France
+0	33	HP Labs, Palo Alto, 94304	null
+0	34	HP Labs, Palo Alto, 94304	Hewlett-Packard Company, Palo Alto, CA
+0	35	HP Labs, Palo Alto, 94304	null
+0	36	HP Labs, Palo Alto, 94304	null
+0	37	HP Labs, Palo Alto, 94304	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+0	38	HP Labs, Palo Alto, 94304	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+0	39	HP Labs, Palo Alto, 94304	HP Laboratories
+0	40	HP Labs, Palo Alto, 94304	null
+0	41	HP Labs, Palo Alto, 94304	Saxpy Computer Corporation
+0	42	HP Labs, Palo Alto, 94304	Rensselaer Polytechnic Institute, Troy, NY
+0	43	HP Labs, Palo Alto, 94304	null
+0	44	HP Labs, Palo Alto, 94304	Stanford Univ., Stanford, CA
+0	45	HP Labs, Palo Alto, 94304	The Royal Institute of Technology, Stockholm, Sweden
+0	46	HP Labs, Palo Alto, 94304	null
+0	47	HP Labs, Palo Alto, 94304	null
+0	48	HP Labs, Palo Alto, 94304	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+0	49	HP Labs, Palo Alto, 94304	null
+0	50	HP Labs, Palo Alto, 94304	null
+0	51	HP Labs, Palo Alto, 94304	Department of Computer Science, Stanford University, Stanford, CA
+0	52	HP Labs, Palo Alto, 94304	null
+0	53	HP Labs, Palo Alto, 94304	null
+0	54	HP Labs, Palo Alto, 94304	null
+0	55	HP Labs, Palo Alto, 94304	null
+0	56	HP Labs, Palo Alto, 94304	null
+0	57	HP Labs, Palo Alto, 94304	null
+1	2	null	null
+1	3	null	null
+1	4	null	HP Labs,
+1	5	null	null
+1	6	null	null
+1	7	null	Univ. of Wisconsin - Madison, Madison, WI
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	Hewlett-Packard, Princeton, NJ
+1	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+1	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+1	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	null
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	LIP, Ecole Normale Superieure de Lyon, France
+1	33	null	null
+1	34	null	Hewlett-Packard Company, Palo Alto, CA
+1	35	null	null
+1	36	null	null
+1	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+1	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+1	39	null	HP Laboratories
+1	40	null	null
+1	41	null	Saxpy Computer Corporation
+1	42	null	Rensselaer Polytechnic Institute, Troy, NY
+1	43	null	null
+1	44	null	Stanford Univ., Stanford, CA
+1	45	null	The Royal Institute of Technology, Stockholm, Sweden
+1	46	null	null
+1	47	null	null
+1	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+1	49	null	null
+1	50	null	null
+1	51	null	Department of Computer Science, Stanford University, Stanford, CA
+1	52	null	null
+1	53	null	null
+1	54	null	null
+1	55	null	null
+1	56	null	null
+1	57	null	null
+2	3	null	null
+2	4	null	HP Labs,
+2	5	null	null
+2	6	null	null
+2	7	null	Univ. of Wisconsin - Madison, Madison, WI
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	Hewlett-Packard, Princeton, NJ
+2	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+2	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+2	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	null
+2	27	null	null
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	LIP, Ecole Normale Superieure de Lyon, France
+2	33	null	null
+2	34	null	Hewlett-Packard Company, Palo Alto, CA
+2	35	null	null
+2	36	null	null
+2	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+2	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+2	39	null	HP Laboratories
+2	40	null	null
+2	41	null	Saxpy Computer Corporation
+2	42	null	Rensselaer Polytechnic Institute, Troy, NY
+2	43	null	null
+2	44	null	Stanford Univ., Stanford, CA
+2	45	null	The Royal Institute of Technology, Stockholm, Sweden
+2	46	null	null
+2	47	null	null
+2	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+2	49	null	null
+2	50	null	null
+2	51	null	Department of Computer Science, Stanford University, Stanford, CA
+2	52	null	null
+2	53	null	null
+2	54	null	null
+2	55	null	null
+2	56	null	null
+2	57	null	null
+3	4	null	HP Labs,
+3	5	null	null
+3	6	null	null
+3	7	null	Univ. of Wisconsin - Madison, Madison, WI
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	Hewlett-Packard, Princeton, NJ
+3	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+3	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+3	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+3	20	null	null
+3	21	null	null
+3	22	null	null
+3	23	null	null
+3	24	null	null
+3	25	null	null
+3	26	null	null
+3	27	null	null
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	LIP, Ecole Normale Superieure de Lyon, France
+3	33	null	null
+3	34	null	Hewlett-Packard Company, Palo Alto, CA
+3	35	null	null
+3	36	null	null
+3	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+3	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+3	39	null	HP Laboratories
+3	40	null	null
+3	41	null	Saxpy Computer Corporation
+3	42	null	Rensselaer Polytechnic Institute, Troy, NY
+3	43	null	null
+3	44	null	Stanford Univ., Stanford, CA
+3	45	null	The Royal Institute of Technology, Stockholm, Sweden
+3	46	null	null
+3	47	null	null
+3	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+3	49	null	null
+3	50	null	null
+3	51	null	Department of Computer Science, Stanford University, Stanford, CA
+3	52	null	null
+3	53	null	null
+3	54	null	null
+3	55	null	null
+3	56	null	null
+3	57	null	null
+4	5	HP Labs,	null
+4	6	HP Labs,	null
+4	7	HP Labs,	Univ. of Wisconsin - Madison, Madison, WI
+4	8	HP Labs,	null
+4	9	HP Labs,	null
+4	10	HP Labs,	null
+4	11	HP Labs,	null
+4	12	HP Labs,	null
+4	13	HP Labs,	null
+4	14	HP Labs,	null
+4	15	HP Labs,	null
+4	16	HP Labs,	Hewlett-Packard, Princeton, NJ
+4	17	HP Labs,	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+4	18	HP Labs,	NASA Ames Res. Center, Moffett Field, CA, USA
+4	19	HP Labs,	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+4	20	HP Labs,	null
+4	21	HP Labs,	null
+4	22	HP Labs,	null
+4	23	HP Labs,	null
+4	24	HP Labs,	null
+4	25	HP Labs,	null
+4	26	HP Labs,	null
+4	27	HP Labs,	null
+4	28	HP Labs,	null
+4	29	HP Labs,	null
+4	30	HP Labs,	null
+4	31	HP Labs,	null
+4	32	HP Labs,	LIP, Ecole Normale Superieure de Lyon, France
+4	33	HP Labs,	null
+4	34	HP Labs,	Hewlett-Packard Company, Palo Alto, CA
+4	35	HP Labs,	null
+4	36	HP Labs,	null
+4	37	HP Labs,	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+4	38	HP Labs,	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+4	39	HP Labs,	HP Laboratories
+4	40	HP Labs,	null
+4	41	HP Labs,	Saxpy Computer Corporation
+4	42	HP Labs,	Rensselaer Polytechnic Institute, Troy, NY
+4	43	HP Labs,	null
+4	44	HP Labs,	Stanford Univ., Stanford, CA
+4	45	HP Labs,	The Royal Institute of Technology, Stockholm, Sweden
+4	46	HP Labs,	null
+4	47	HP Labs,	null
+4	48	HP Labs,	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+4	49	HP Labs,	null
+4	50	HP Labs,	null
+4	51	HP Labs,	Department of Computer Science, Stanford University, Stanford, CA
+4	52	HP Labs,	null
+4	53	HP Labs,	null
+4	54	HP Labs,	null
+4	55	HP Labs,	null
+4	56	HP Labs,	null
+4	57	HP Labs,	null
+5	6	null	null
+5	7	null	Univ. of Wisconsin - Madison, Madison, WI
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	Hewlett-Packard, Princeton, NJ
+5	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+5	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+5	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	null
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	LIP, Ecole Normale Superieure de Lyon, France
+5	33	null	null
+5	34	null	Hewlett-Packard Company, Palo Alto, CA
+5	35	null	null
+5	36	null	null
+5	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+5	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+5	39	null	HP Laboratories
+5	40	null	null
+5	41	null	Saxpy Computer Corporation
+5	42	null	Rensselaer Polytechnic Institute, Troy, NY
+5	43	null	null
+5	44	null	Stanford Univ., Stanford, CA
+5	45	null	The Royal Institute of Technology, Stockholm, Sweden
+5	46	null	null
+5	47	null	null
+5	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+5	49	null	null
+5	50	null	null
+5	51	null	Department of Computer Science, Stanford University, Stanford, CA
+5	52	null	null
+5	53	null	null
+5	54	null	null
+5	55	null	null
+5	56	null	null
+5	57	null	null
+6	7	null	Univ. of Wisconsin - Madison, Madison, WI
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	Hewlett-Packard, Princeton, NJ
+6	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+6	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+6	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+6	20	null	null
+6	21	null	null
+6	22	null	null
+6	23	null	null
+6	24	null	null
+6	25	null	null
+6	26	null	null
+6	27	null	null
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	LIP, Ecole Normale Superieure de Lyon, France
+6	33	null	null
+6	34	null	Hewlett-Packard Company, Palo Alto, CA
+6	35	null	null
+6	36	null	null
+6	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+6	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+6	39	null	HP Laboratories
+6	40	null	null
+6	41	null	Saxpy Computer Corporation
+6	42	null	Rensselaer Polytechnic Institute, Troy, NY
+6	43	null	null
+6	44	null	Stanford Univ., Stanford, CA
+6	45	null	The Royal Institute of Technology, Stockholm, Sweden
+6	46	null	null
+6	47	null	null
+6	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+6	49	null	null
+6	50	null	null
+6	51	null	Department of Computer Science, Stanford University, Stanford, CA
+6	52	null	null
+6	53	null	null
+6	54	null	null
+6	55	null	null
+6	56	null	null
+6	57	null	null
+7	8	Univ. of Wisconsin - Madison, Madison, WI	null
+7	9	Univ. of Wisconsin - Madison, Madison, WI	null
+7	10	Univ. of Wisconsin - Madison, Madison, WI	null
+7	11	Univ. of Wisconsin - Madison, Madison, WI	null
+7	12	Univ. of Wisconsin - Madison, Madison, WI	null
+7	13	Univ. of Wisconsin - Madison, Madison, WI	null
+7	14	Univ. of Wisconsin - Madison, Madison, WI	null
+7	15	Univ. of Wisconsin - Madison, Madison, WI	null
+7	16	Univ. of Wisconsin - Madison, Madison, WI	Hewlett-Packard, Princeton, NJ
+7	17	Univ. of Wisconsin - Madison, Madison, WI	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+7	18	Univ. of Wisconsin - Madison, Madison, WI	NASA Ames Res. Center, Moffett Field, CA, USA
+7	19	Univ. of Wisconsin - Madison, Madison, WI	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+7	20	Univ. of Wisconsin - Madison, Madison, WI	null
+7	21	Univ. of Wisconsin - Madison, Madison, WI	null
+7	22	Univ. of Wisconsin - Madison, Madison, WI	null
+7	23	Univ. of Wisconsin - Madison, Madison, WI	null
+7	24	Univ. of Wisconsin - Madison, Madison, WI	null
+7	25	Univ. of Wisconsin - Madison, Madison, WI	null
+7	26	Univ. of Wisconsin - Madison, Madison, WI	null
+7	27	Univ. of Wisconsin - Madison, Madison, WI	null
+7	28	Univ. of Wisconsin - Madison, Madison, WI	null
+7	29	Univ. of Wisconsin - Madison, Madison, WI	null
+7	30	Univ. of Wisconsin - Madison, Madison, WI	null
+7	31	Univ. of Wisconsin - Madison, Madison, WI	null
+7	32	Univ. of Wisconsin - Madison, Madison, WI	LIP, Ecole Normale Superieure de Lyon, France
+7	33	Univ. of Wisconsin - Madison, Madison, WI	null
+7	34	Univ. of Wisconsin - Madison, Madison, WI	Hewlett-Packard Company, Palo Alto, CA
+7	35	Univ. of Wisconsin - Madison, Madison, WI	null
+7	36	Univ. of Wisconsin - Madison, Madison, WI	null
+7	37	Univ. of Wisconsin - Madison, Madison, WI	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+7	38	Univ. of Wisconsin - Madison, Madison, WI	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+7	39	Univ. of Wisconsin - Madison, Madison, WI	HP Laboratories
+7	40	Univ. of Wisconsin - Madison, Madison, WI	null
+7	41	Univ. of Wisconsin - Madison, Madison, WI	Saxpy Computer Corporation
+7	42	Univ. of Wisconsin - Madison, Madison, WI	Rensselaer Polytechnic Institute, Troy, NY
+7	43	Univ. of Wisconsin - Madison, Madison, WI	null
+7	44	Univ. of Wisconsin - Madison, Madison, WI	Stanford Univ., Stanford, CA
+7	45	Univ. of Wisconsin - Madison, Madison, WI	The Royal Institute of Technology, Stockholm, Sweden
+7	46	Univ. of Wisconsin - Madison, Madison, WI	null
+7	47	Univ. of Wisconsin - Madison, Madison, WI	null
+7	48	Univ. of Wisconsin - Madison, Madison, WI	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+7	49	Univ. of Wisconsin - Madison, Madison, WI	null
+7	50	Univ. of Wisconsin - Madison, Madison, WI	null
+7	51	Univ. of Wisconsin - Madison, Madison, WI	Department of Computer Science, Stanford University, Stanford, CA
+7	52	Univ. of Wisconsin - Madison, Madison, WI	null
+7	53	Univ. of Wisconsin - Madison, Madison, WI	null
+7	54	Univ. of Wisconsin - Madison, Madison, WI	null
+7	55	Univ. of Wisconsin - Madison, Madison, WI	null
+7	56	Univ. of Wisconsin - Madison, Madison, WI	null
+7	57	Univ. of Wisconsin - Madison, Madison, WI	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	Hewlett-Packard, Princeton, NJ
+8	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+8	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+8	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+8	20	null	null
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	null
+8	27	null	null
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	LIP, Ecole Normale Superieure de Lyon, France
+8	33	null	null
+8	34	null	Hewlett-Packard Company, Palo Alto, CA
+8	35	null	null
+8	36	null	null
+8	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+8	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+8	39	null	HP Laboratories
+8	40	null	null
+8	41	null	Saxpy Computer Corporation
+8	42	null	Rensselaer Polytechnic Institute, Troy, NY
+8	43	null	null
+8	44	null	Stanford Univ., Stanford, CA
+8	45	null	The Royal Institute of Technology, Stockholm, Sweden
+8	46	null	null
+8	47	null	null
+8	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+8	49	null	null
+8	50	null	null
+8	51	null	Department of Computer Science, Stanford University, Stanford, CA
+8	52	null	null
+8	53	null	null
+8	54	null	null
+8	55	null	null
+8	56	null	null
+8	57	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	null
+9	15	null	null
+9	16	null	Hewlett-Packard, Princeton, NJ
+9	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+9	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+9	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+9	20	null	null
+9	21	null	null
+9	22	null	null
+9	23	null	null
+9	24	null	null
+9	25	null	null
+9	26	null	null
+9	27	null	null
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+9	32	null	LIP, Ecole Normale Superieure de Lyon, France
+9	33	null	null
+9	34	null	Hewlett-Packard Company, Palo Alto, CA
+9	35	null	null
+9	36	null	null
+9	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+9	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+9	39	null	HP Laboratories
+9	40	null	null
+9	41	null	Saxpy Computer Corporation
+9	42	null	Rensselaer Polytechnic Institute, Troy, NY
+9	43	null	null
+9	44	null	Stanford Univ., Stanford, CA
+9	45	null	The Royal Institute of Technology, Stockholm, Sweden
+9	46	null	null
+9	47	null	null
+9	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+9	49	null	null
+9	50	null	null
+9	51	null	Department of Computer Science, Stanford University, Stanford, CA
+9	52	null	null
+9	53	null	null
+9	54	null	null
+9	55	null	null
+9	56	null	null
+9	57	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	Hewlett-Packard, Princeton, NJ
+10	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+10	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+10	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+10	20	null	null
+10	21	null	null
+10	22	null	null
+10	23	null	null
+10	24	null	null
+10	25	null	null
+10	26	null	null
+10	27	null	null
+10	28	null	null
+10	29	null	null
+10	30	null	null
+10	31	null	null
+10	32	null	LIP, Ecole Normale Superieure de Lyon, France
+10	33	null	null
+10	34	null	Hewlett-Packard Company, Palo Alto, CA
+10	35	null	null
+10	36	null	null
+10	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+10	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+10	39	null	HP Laboratories
+10	40	null	null
+10	41	null	Saxpy Computer Corporation
+10	42	null	Rensselaer Polytechnic Institute, Troy, NY
+10	43	null	null
+10	44	null	Stanford Univ., Stanford, CA
+10	45	null	The Royal Institute of Technology, Stockholm, Sweden
+10	46	null	null
+10	47	null	null
+10	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+10	49	null	null
+10	50	null	null
+10	51	null	Department of Computer Science, Stanford University, Stanford, CA
+10	52	null	null
+10	53	null	null
+10	54	null	null
+10	55	null	null
+10	56	null	null
+10	57	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	Hewlett-Packard, Princeton, NJ
+11	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+11	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+11	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	null
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	LIP, Ecole Normale Superieure de Lyon, France
+11	33	null	null
+11	34	null	Hewlett-Packard Company, Palo Alto, CA
+11	35	null	null
+11	36	null	null
+11	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+11	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+11	39	null	HP Laboratories
+11	40	null	null
+11	41	null	Saxpy Computer Corporation
+11	42	null	Rensselaer Polytechnic Institute, Troy, NY
+11	43	null	null
+11	44	null	Stanford Univ., Stanford, CA
+11	45	null	The Royal Institute of Technology, Stockholm, Sweden
+11	46	null	null
+11	47	null	null
+11	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+11	49	null	null
+11	50	null	null
+11	51	null	Department of Computer Science, Stanford University, Stanford, CA
+11	52	null	null
+11	53	null	null
+11	54	null	null
+11	55	null	null
+11	56	null	null
+11	57	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	Hewlett-Packard, Princeton, NJ
+12	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+12	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+12	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+12	20	null	null
+12	21	null	null
+12	22	null	null
+12	23	null	null
+12	24	null	null
+12	25	null	null
+12	26	null	null
+12	27	null	null
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	LIP, Ecole Normale Superieure de Lyon, France
+12	33	null	null
+12	34	null	Hewlett-Packard Company, Palo Alto, CA
+12	35	null	null
+12	36	null	null
+12	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+12	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+12	39	null	HP Laboratories
+12	40	null	null
+12	41	null	Saxpy Computer Corporation
+12	42	null	Rensselaer Polytechnic Institute, Troy, NY
+12	43	null	null
+12	44	null	Stanford Univ., Stanford, CA
+12	45	null	The Royal Institute of Technology, Stockholm, Sweden
+12	46	null	null
+12	47	null	null
+12	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+12	49	null	null
+12	50	null	null
+12	51	null	Department of Computer Science, Stanford University, Stanford, CA
+12	52	null	null
+12	53	null	null
+12	54	null	null
+12	55	null	null
+12	56	null	null
+12	57	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	Hewlett-Packard, Princeton, NJ
+13	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+13	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+13	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+13	20	null	null
+13	21	null	null
+13	22	null	null
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	null
+13	27	null	null
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	LIP, Ecole Normale Superieure de Lyon, France
+13	33	null	null
+13	34	null	Hewlett-Packard Company, Palo Alto, CA
+13	35	null	null
+13	36	null	null
+13	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+13	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+13	39	null	HP Laboratories
+13	40	null	null
+13	41	null	Saxpy Computer Corporation
+13	42	null	Rensselaer Polytechnic Institute, Troy, NY
+13	43	null	null
+13	44	null	Stanford Univ., Stanford, CA
+13	45	null	The Royal Institute of Technology, Stockholm, Sweden
+13	46	null	null
+13	47	null	null
+13	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+13	49	null	null
+13	50	null	null
+13	51	null	Department of Computer Science, Stanford University, Stanford, CA
+13	52	null	null
+13	53	null	null
+13	54	null	null
+13	55	null	null
+13	56	null	null
+13	57	null	null
+14	15	null	null
+14	16	null	Hewlett-Packard, Princeton, NJ
+14	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+14	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+14	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	null
+14	24	null	null
+14	25	null	null
+14	26	null	null
+14	27	null	null
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	LIP, Ecole Normale Superieure de Lyon, France
+14	33	null	null
+14	34	null	Hewlett-Packard Company, Palo Alto, CA
+14	35	null	null
+14	36	null	null
+14	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+14	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+14	39	null	HP Laboratories
+14	40	null	null
+14	41	null	Saxpy Computer Corporation
+14	42	null	Rensselaer Polytechnic Institute, Troy, NY
+14	43	null	null
+14	44	null	Stanford Univ., Stanford, CA
+14	45	null	The Royal Institute of Technology, Stockholm, Sweden
+14	46	null	null
+14	47	null	null
+14	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+14	49	null	null
+14	50	null	null
+14	51	null	Department of Computer Science, Stanford University, Stanford, CA
+14	52	null	null
+14	53	null	null
+14	54	null	null
+14	55	null	null
+14	56	null	null
+14	57	null	null
+15	16	null	Hewlett-Packard, Princeton, NJ
+15	17	null	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+15	18	null	NASA Ames Res. Center, Moffett Field, CA, USA
+15	19	null	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	null
+15	24	null	null
+15	25	null	null
+15	26	null	null
+15	27	null	null
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	LIP, Ecole Normale Superieure de Lyon, France
+15	33	null	null
+15	34	null	Hewlett-Packard Company, Palo Alto, CA
+15	35	null	null
+15	36	null	null
+15	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+15	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+15	39	null	HP Laboratories
+15	40	null	null
+15	41	null	Saxpy Computer Corporation
+15	42	null	Rensselaer Polytechnic Institute, Troy, NY
+15	43	null	null
+15	44	null	Stanford Univ., Stanford, CA
+15	45	null	The Royal Institute of Technology, Stockholm, Sweden
+15	46	null	null
+15	47	null	null
+15	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+15	49	null	null
+15	50	null	null
+15	51	null	Department of Computer Science, Stanford University, Stanford, CA
+15	52	null	null
+15	53	null	null
+15	54	null	null
+15	55	null	null
+15	56	null	null
+15	57	null	null
+16	17	Hewlett-Packard, Princeton, NJ	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA
+16	18	Hewlett-Packard, Princeton, NJ	NASA Ames Res. Center, Moffett Field, CA, USA
+16	19	Hewlett-Packard, Princeton, NJ	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+16	20	Hewlett-Packard, Princeton, NJ	null
+16	21	Hewlett-Packard, Princeton, NJ	null
+16	22	Hewlett-Packard, Princeton, NJ	null
+16	23	Hewlett-Packard, Princeton, NJ	null
+16	24	Hewlett-Packard, Princeton, NJ	null
+16	25	Hewlett-Packard, Princeton, NJ	null
+16	26	Hewlett-Packard, Princeton, NJ	null
+16	27	Hewlett-Packard, Princeton, NJ	null
+16	28	Hewlett-Packard, Princeton, NJ	null
+16	29	Hewlett-Packard, Princeton, NJ	null
+16	30	Hewlett-Packard, Princeton, NJ	null
+16	31	Hewlett-Packard, Princeton, NJ	null
+16	32	Hewlett-Packard, Princeton, NJ	LIP, Ecole Normale Superieure de Lyon, France
+16	33	Hewlett-Packard, Princeton, NJ	null
+16	34	Hewlett-Packard, Princeton, NJ	Hewlett-Packard Company, Palo Alto, CA
+16	35	Hewlett-Packard, Princeton, NJ	null
+16	36	Hewlett-Packard, Princeton, NJ	null
+16	37	Hewlett-Packard, Princeton, NJ	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+16	38	Hewlett-Packard, Princeton, NJ	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+16	39	Hewlett-Packard, Princeton, NJ	HP Laboratories
+16	40	Hewlett-Packard, Princeton, NJ	null
+16	41	Hewlett-Packard, Princeton, NJ	Saxpy Computer Corporation
+16	42	Hewlett-Packard, Princeton, NJ	Rensselaer Polytechnic Institute, Troy, NY
+16	43	Hewlett-Packard, Princeton, NJ	null
+16	44	Hewlett-Packard, Princeton, NJ	Stanford Univ., Stanford, CA
+16	45	Hewlett-Packard, Princeton, NJ	The Royal Institute of Technology, Stockholm, Sweden
+16	46	Hewlett-Packard, Princeton, NJ	null
+16	47	Hewlett-Packard, Princeton, NJ	null
+16	48	Hewlett-Packard, Princeton, NJ	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+16	49	Hewlett-Packard, Princeton, NJ	null
+16	50	Hewlett-Packard, Princeton, NJ	null
+16	51	Hewlett-Packard, Princeton, NJ	Department of Computer Science, Stanford University, Stanford, CA
+16	52	Hewlett-Packard, Princeton, NJ	null
+16	53	Hewlett-Packard, Princeton, NJ	null
+16	54	Hewlett-Packard, Princeton, NJ	null
+16	55	Hewlett-Packard, Princeton, NJ	null
+16	56	Hewlett-Packard, Princeton, NJ	null
+16	57	Hewlett-Packard, Princeton, NJ	null
+17	18	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	NASA Ames Res. Center, Moffett Field, CA, USA
+17	19	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+17	20	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	21	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	22	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	23	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	24	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	25	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	26	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	27	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	28	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	29	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	30	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	31	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	32	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	LIP, Ecole Normale Superieure de Lyon, France
+17	33	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	34	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Hewlett-Packard Company, Palo Alto, CA
+17	35	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	36	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	37	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+17	38	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+17	39	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	HP Laboratories
+17	40	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	41	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Saxpy Computer Corporation
+17	42	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Rensselaer Polytechnic Institute, Troy, NY
+17	43	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	44	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Stanford Univ., Stanford, CA
+17	45	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	The Royal Institute of Technology, Stockholm, Sweden
+17	46	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	47	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	48	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+17	49	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	50	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	51	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	Department of Computer Science, Stanford University, Stanford, CA
+17	52	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	53	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	54	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	55	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	56	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+17	57	Numerical Aerodynamic Simulation (NAS) Syst. Div., NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	19	NASA Ames Res. Center, Moffett Field, CA, USA	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA
+18	20	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	21	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	22	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	23	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	24	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	25	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	26	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	27	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	28	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	29	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	30	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	31	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	32	NASA Ames Res. Center, Moffett Field, CA, USA	LIP, Ecole Normale Superieure de Lyon, France
+18	33	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	34	NASA Ames Res. Center, Moffett Field, CA, USA	Hewlett-Packard Company, Palo Alto, CA
+18	35	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	36	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	37	NASA Ames Res. Center, Moffett Field, CA, USA	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+18	38	NASA Ames Res. Center, Moffett Field, CA, USA	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+18	39	NASA Ames Res. Center, Moffett Field, CA, USA	HP Laboratories
+18	40	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	41	NASA Ames Res. Center, Moffett Field, CA, USA	Saxpy Computer Corporation
+18	42	NASA Ames Res. Center, Moffett Field, CA, USA	Rensselaer Polytechnic Institute, Troy, NY
+18	43	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	44	NASA Ames Res. Center, Moffett Field, CA, USA	Stanford Univ., Stanford, CA
+18	45	NASA Ames Res. Center, Moffett Field, CA, USA	The Royal Institute of Technology, Stockholm, Sweden
+18	46	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	47	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	48	NASA Ames Res. Center, Moffett Field, CA, USA	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+18	49	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	50	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	51	NASA Ames Res. Center, Moffett Field, CA, USA	Department of Computer Science, Stanford University, Stanford, CA
+18	52	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	53	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	54	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	55	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	56	NASA Ames Res. Center, Moffett Field, CA, USA	null
+18	57	NASA Ames Res. Center, Moffett Field, CA, USA	null
+19	20	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	21	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	22	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	23	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	24	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	25	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	26	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	27	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	28	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	29	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	30	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	31	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	32	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	LIP, Ecole Normale Superieure de Lyon, France
+19	33	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	34	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Hewlett-Packard Company, Palo Alto, CA
+19	35	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	36	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	37	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+19	38	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+19	39	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	HP Laboratories
+19	40	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	41	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Saxpy Computer Corporation
+19	42	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Rensselaer Polytechnic Institute, Troy, NY
+19	43	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	44	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Stanford Univ., Stanford, CA
+19	45	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	The Royal Institute of Technology, Stockholm, Sweden
+19	46	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	47	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	48	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+19	49	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	50	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	51	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	Department of Computer Science, Stanford University, Stanford, CA
+19	52	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	53	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	54	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	55	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	56	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+19	57	Research Institute for Advanced Computer Science, NASA Ames Research Center, Moffett Field, CA	null
+20	21	null	null
+20	22	null	null
+20	23	null	null
+20	24	null	null
+20	25	null	null
+20	26	null	null
+20	27	null	null
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	LIP, Ecole Normale Superieure de Lyon, France
+20	33	null	null
+20	34	null	Hewlett-Packard Company, Palo Alto, CA
+20	35	null	null
+20	36	null	null
+20	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+20	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+20	39	null	HP Laboratories
+20	40	null	null
+20	41	null	Saxpy Computer Corporation
+20	42	null	Rensselaer Polytechnic Institute, Troy, NY
+20	43	null	null
+20	44	null	Stanford Univ., Stanford, CA
+20	45	null	The Royal Institute of Technology, Stockholm, Sweden
+20	46	null	null
+20	47	null	null
+20	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+20	49	null	null
+20	50	null	null
+20	51	null	Department of Computer Science, Stanford University, Stanford, CA
+20	52	null	null
+20	53	null	null
+20	54	null	null
+20	55	null	null
+20	56	null	null
+20	57	null	null
+21	22	null	null
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	null
+21	27	null	null
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	LIP, Ecole Normale Superieure de Lyon, France
+21	33	null	null
+21	34	null	Hewlett-Packard Company, Palo Alto, CA
+21	35	null	null
+21	36	null	null
+21	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+21	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+21	39	null	HP Laboratories
+21	40	null	null
+21	41	null	Saxpy Computer Corporation
+21	42	null	Rensselaer Polytechnic Institute, Troy, NY
+21	43	null	null
+21	44	null	Stanford Univ., Stanford, CA
+21	45	null	The Royal Institute of Technology, Stockholm, Sweden
+21	46	null	null
+21	47	null	null
+21	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+21	49	null	null
+21	50	null	null
+21	51	null	Department of Computer Science, Stanford University, Stanford, CA
+21	52	null	null
+21	53	null	null
+21	54	null	null
+21	55	null	null
+21	56	null	null
+21	57	null	null
+22	23	null	null
+22	24	null	null
+22	25	null	null
+22	26	null	null
+22	27	null	null
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	LIP, Ecole Normale Superieure de Lyon, France
+22	33	null	null
+22	34	null	Hewlett-Packard Company, Palo Alto, CA
+22	35	null	null
+22	36	null	null
+22	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+22	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+22	39	null	HP Laboratories
+22	40	null	null
+22	41	null	Saxpy Computer Corporation
+22	42	null	Rensselaer Polytechnic Institute, Troy, NY
+22	43	null	null
+22	44	null	Stanford Univ., Stanford, CA
+22	45	null	The Royal Institute of Technology, Stockholm, Sweden
+22	46	null	null
+22	47	null	null
+22	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+22	49	null	null
+22	50	null	null
+22	51	null	Department of Computer Science, Stanford University, Stanford, CA
+22	52	null	null
+22	53	null	null
+22	54	null	null
+22	55	null	null
+22	56	null	null
+22	57	null	null
+23	24	null	null
+23	25	null	null
+23	26	null	null
+23	27	null	null
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+23	32	null	LIP, Ecole Normale Superieure de Lyon, France
+23	33	null	null
+23	34	null	Hewlett-Packard Company, Palo Alto, CA
+23	35	null	null
+23	36	null	null
+23	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+23	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+23	39	null	HP Laboratories
+23	40	null	null
+23	41	null	Saxpy Computer Corporation
+23	42	null	Rensselaer Polytechnic Institute, Troy, NY
+23	43	null	null
+23	44	null	Stanford Univ., Stanford, CA
+23	45	null	The Royal Institute of Technology, Stockholm, Sweden
+23	46	null	null
+23	47	null	null
+23	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+23	49	null	null
+23	50	null	null
+23	51	null	Department of Computer Science, Stanford University, Stanford, CA
+23	52	null	null
+23	53	null	null
+23	54	null	null
+23	55	null	null
+23	56	null	null
+23	57	null	null
+24	25	null	null
+24	26	null	null
+24	27	null	null
+24	28	null	null
+24	29	null	null
+24	30	null	null
+24	31	null	null
+24	32	null	LIP, Ecole Normale Superieure de Lyon, France
+24	33	null	null
+24	34	null	Hewlett-Packard Company, Palo Alto, CA
+24	35	null	null
+24	36	null	null
+24	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+24	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+24	39	null	HP Laboratories
+24	40	null	null
+24	41	null	Saxpy Computer Corporation
+24	42	null	Rensselaer Polytechnic Institute, Troy, NY
+24	43	null	null
+24	44	null	Stanford Univ., Stanford, CA
+24	45	null	The Royal Institute of Technology, Stockholm, Sweden
+24	46	null	null
+24	47	null	null
+24	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+24	49	null	null
+24	50	null	null
+24	51	null	Department of Computer Science, Stanford University, Stanford, CA
+24	52	null	null
+24	53	null	null
+24	54	null	null
+24	55	null	null
+24	56	null	null
+24	57	null	null
+25	26	null	null
+25	27	null	null
+25	28	null	null
+25	29	null	null
+25	30	null	null
+25	31	null	null
+25	32	null	LIP, Ecole Normale Superieure de Lyon, France
+25	33	null	null
+25	34	null	Hewlett-Packard Company, Palo Alto, CA
+25	35	null	null
+25	36	null	null
+25	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+25	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+25	39	null	HP Laboratories
+25	40	null	null
+25	41	null	Saxpy Computer Corporation
+25	42	null	Rensselaer Polytechnic Institute, Troy, NY
+25	43	null	null
+25	44	null	Stanford Univ., Stanford, CA
+25	45	null	The Royal Institute of Technology, Stockholm, Sweden
+25	46	null	null
+25	47	null	null
+25	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+25	49	null	null
+25	50	null	null
+25	51	null	Department of Computer Science, Stanford University, Stanford, CA
+25	52	null	null
+25	53	null	null
+25	54	null	null
+25	55	null	null
+25	56	null	null
+25	57	null	null
+26	27	null	null
+26	28	null	null
+26	29	null	null
+26	30	null	null
+26	31	null	null
+26	32	null	LIP, Ecole Normale Superieure de Lyon, France
+26	33	null	null
+26	34	null	Hewlett-Packard Company, Palo Alto, CA
+26	35	null	null
+26	36	null	null
+26	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+26	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+26	39	null	HP Laboratories
+26	40	null	null
+26	41	null	Saxpy Computer Corporation
+26	42	null	Rensselaer Polytechnic Institute, Troy, NY
+26	43	null	null
+26	44	null	Stanford Univ., Stanford, CA
+26	45	null	The Royal Institute of Technology, Stockholm, Sweden
+26	46	null	null
+26	47	null	null
+26	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+26	49	null	null
+26	50	null	null
+26	51	null	Department of Computer Science, Stanford University, Stanford, CA
+26	52	null	null
+26	53	null	null
+26	54	null	null
+26	55	null	null
+26	56	null	null
+26	57	null	null
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	LIP, Ecole Normale Superieure de Lyon, France
+27	33	null	null
+27	34	null	Hewlett-Packard Company, Palo Alto, CA
+27	35	null	null
+27	36	null	null
+27	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+27	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+27	39	null	HP Laboratories
+27	40	null	null
+27	41	null	Saxpy Computer Corporation
+27	42	null	Rensselaer Polytechnic Institute, Troy, NY
+27	43	null	null
+27	44	null	Stanford Univ., Stanford, CA
+27	45	null	The Royal Institute of Technology, Stockholm, Sweden
+27	46	null	null
+27	47	null	null
+27	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+27	49	null	null
+27	50	null	null
+27	51	null	Department of Computer Science, Stanford University, Stanford, CA
+27	52	null	null
+27	53	null	null
+27	54	null	null
+27	55	null	null
+27	56	null	null
+27	57	null	null
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	LIP, Ecole Normale Superieure de Lyon, France
+28	33	null	null
+28	34	null	Hewlett-Packard Company, Palo Alto, CA
+28	35	null	null
+28	36	null	null
+28	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+28	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+28	39	null	HP Laboratories
+28	40	null	null
+28	41	null	Saxpy Computer Corporation
+28	42	null	Rensselaer Polytechnic Institute, Troy, NY
+28	43	null	null
+28	44	null	Stanford Univ., Stanford, CA
+28	45	null	The Royal Institute of Technology, Stockholm, Sweden
+28	46	null	null
+28	47	null	null
+28	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+28	49	null	null
+28	50	null	null
+28	51	null	Department of Computer Science, Stanford University, Stanford, CA
+28	52	null	null
+28	53	null	null
+28	54	null	null
+28	55	null	null
+28	56	null	null
+28	57	null	null
+29	30	null	null
+29	31	null	null
+29	32	null	LIP, Ecole Normale Superieure de Lyon, France
+29	33	null	null
+29	34	null	Hewlett-Packard Company, Palo Alto, CA
+29	35	null	null
+29	36	null	null
+29	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+29	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+29	39	null	HP Laboratories
+29	40	null	null
+29	41	null	Saxpy Computer Corporation
+29	42	null	Rensselaer Polytechnic Institute, Troy, NY
+29	43	null	null
+29	44	null	Stanford Univ., Stanford, CA
+29	45	null	The Royal Institute of Technology, Stockholm, Sweden
+29	46	null	null
+29	47	null	null
+29	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+29	49	null	null
+29	50	null	null
+29	51	null	Department of Computer Science, Stanford University, Stanford, CA
+29	52	null	null
+29	53	null	null
+29	54	null	null
+29	55	null	null
+29	56	null	null
+29	57	null	null
+30	31	null	null
+30	32	null	LIP, Ecole Normale Superieure de Lyon, France
+30	33	null	null
+30	34	null	Hewlett-Packard Company, Palo Alto, CA
+30	35	null	null
+30	36	null	null
+30	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+30	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+30	39	null	HP Laboratories
+30	40	null	null
+30	41	null	Saxpy Computer Corporation
+30	42	null	Rensselaer Polytechnic Institute, Troy, NY
+30	43	null	null
+30	44	null	Stanford Univ., Stanford, CA
+30	45	null	The Royal Institute of Technology, Stockholm, Sweden
+30	46	null	null
+30	47	null	null
+30	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+30	49	null	null
+30	50	null	null
+30	51	null	Department of Computer Science, Stanford University, Stanford, CA
+30	52	null	null
+30	53	null	null
+30	54	null	null
+30	55	null	null
+30	56	null	null
+30	57	null	null
+31	32	null	LIP, Ecole Normale Superieure de Lyon, France
+31	33	null	null
+31	34	null	Hewlett-Packard Company, Palo Alto, CA
+31	35	null	null
+31	36	null	null
+31	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+31	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+31	39	null	HP Laboratories
+31	40	null	null
+31	41	null	Saxpy Computer Corporation
+31	42	null	Rensselaer Polytechnic Institute, Troy, NY
+31	43	null	null
+31	44	null	Stanford Univ., Stanford, CA
+31	45	null	The Royal Institute of Technology, Stockholm, Sweden
+31	46	null	null
+31	47	null	null
+31	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+31	49	null	null
+31	50	null	null
+31	51	null	Department of Computer Science, Stanford University, Stanford, CA
+31	52	null	null
+31	53	null	null
+31	54	null	null
+31	55	null	null
+31	56	null	null
+31	57	null	null
+32	33	LIP, Ecole Normale Superieure de Lyon, France	null
+32	34	LIP, Ecole Normale Superieure de Lyon, France	Hewlett-Packard Company, Palo Alto, CA
+32	35	LIP, Ecole Normale Superieure de Lyon, France	null
+32	36	LIP, Ecole Normale Superieure de Lyon, France	null
+32	37	LIP, Ecole Normale Superieure de Lyon, France	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+32	38	LIP, Ecole Normale Superieure de Lyon, France	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+32	39	LIP, Ecole Normale Superieure de Lyon, France	HP Laboratories
+32	40	LIP, Ecole Normale Superieure de Lyon, France	null
+32	41	LIP, Ecole Normale Superieure de Lyon, France	Saxpy Computer Corporation
+32	42	LIP, Ecole Normale Superieure de Lyon, France	Rensselaer Polytechnic Institute, Troy, NY
+32	43	LIP, Ecole Normale Superieure de Lyon, France	null
+32	44	LIP, Ecole Normale Superieure de Lyon, France	Stanford Univ., Stanford, CA
+32	45	LIP, Ecole Normale Superieure de Lyon, France	The Royal Institute of Technology, Stockholm, Sweden
+32	46	LIP, Ecole Normale Superieure de Lyon, France	null
+32	47	LIP, Ecole Normale Superieure de Lyon, France	null
+32	48	LIP, Ecole Normale Superieure de Lyon, France	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+32	49	LIP, Ecole Normale Superieure de Lyon, France	null
+32	50	LIP, Ecole Normale Superieure de Lyon, France	null
+32	51	LIP, Ecole Normale Superieure de Lyon, France	Department of Computer Science, Stanford University, Stanford, CA
+32	52	LIP, Ecole Normale Superieure de Lyon, France	null
+32	53	LIP, Ecole Normale Superieure de Lyon, France	null
+32	54	LIP, Ecole Normale Superieure de Lyon, France	null
+32	55	LIP, Ecole Normale Superieure de Lyon, France	null
+32	56	LIP, Ecole Normale Superieure de Lyon, France	null
+32	57	LIP, Ecole Normale Superieure de Lyon, France	null
+33	34	null	Hewlett-Packard Company, Palo Alto, CA
+33	35	null	null
+33	36	null	null
+33	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+33	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+33	39	null	HP Laboratories
+33	40	null	null
+33	41	null	Saxpy Computer Corporation
+33	42	null	Rensselaer Polytechnic Institute, Troy, NY
+33	43	null	null
+33	44	null	Stanford Univ., Stanford, CA
+33	45	null	The Royal Institute of Technology, Stockholm, Sweden
+33	46	null	null
+33	47	null	null
+33	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+33	49	null	null
+33	50	null	null
+33	51	null	Department of Computer Science, Stanford University, Stanford, CA
+33	52	null	null
+33	53	null	null
+33	54	null	null
+33	55	null	null
+33	56	null	null
+33	57	null	null
+34	35	Hewlett-Packard Company, Palo Alto, CA	null
+34	36	Hewlett-Packard Company, Palo Alto, CA	null
+34	37	Hewlett-Packard Company, Palo Alto, CA	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+34	38	Hewlett-Packard Company, Palo Alto, CA	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+34	39	Hewlett-Packard Company, Palo Alto, CA	HP Laboratories
+34	40	Hewlett-Packard Company, Palo Alto, CA	null
+34	41	Hewlett-Packard Company, Palo Alto, CA	Saxpy Computer Corporation
+34	42	Hewlett-Packard Company, Palo Alto, CA	Rensselaer Polytechnic Institute, Troy, NY
+34	43	Hewlett-Packard Company, Palo Alto, CA	null
+34	44	Hewlett-Packard Company, Palo Alto, CA	Stanford Univ., Stanford, CA
+34	45	Hewlett-Packard Company, Palo Alto, CA	The Royal Institute of Technology, Stockholm, Sweden
+34	46	Hewlett-Packard Company, Palo Alto, CA	null
+34	47	Hewlett-Packard Company, Palo Alto, CA	null
+34	48	Hewlett-Packard Company, Palo Alto, CA	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+34	49	Hewlett-Packard Company, Palo Alto, CA	null
+34	50	Hewlett-Packard Company, Palo Alto, CA	null
+34	51	Hewlett-Packard Company, Palo Alto, CA	Department of Computer Science, Stanford University, Stanford, CA
+34	52	Hewlett-Packard Company, Palo Alto, CA	null
+34	53	Hewlett-Packard Company, Palo Alto, CA	null
+34	54	Hewlett-Packard Company, Palo Alto, CA	null
+34	55	Hewlett-Packard Company, Palo Alto, CA	null
+34	56	Hewlett-Packard Company, Palo Alto, CA	null
+34	57	Hewlett-Packard Company, Palo Alto, CA	null
+35	36	null	null
+35	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+35	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+35	39	null	HP Laboratories
+35	40	null	null
+35	41	null	Saxpy Computer Corporation
+35	42	null	Rensselaer Polytechnic Institute, Troy, NY
+35	43	null	null
+35	44	null	Stanford Univ., Stanford, CA
+35	45	null	The Royal Institute of Technology, Stockholm, Sweden
+35	46	null	null
+35	47	null	null
+35	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+35	49	null	null
+35	50	null	null
+35	51	null	Department of Computer Science, Stanford University, Stanford, CA
+35	52	null	null
+35	53	null	null
+35	54	null	null
+35	55	null	null
+35	56	null	null
+35	57	null	null
+36	37	null	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA
+36	38	null	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+36	39	null	HP Laboratories
+36	40	null	null
+36	41	null	Saxpy Computer Corporation
+36	42	null	Rensselaer Polytechnic Institute, Troy, NY
+36	43	null	null
+36	44	null	Stanford Univ., Stanford, CA
+36	45	null	The Royal Institute of Technology, Stockholm, Sweden
+36	46	null	null
+36	47	null	null
+36	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+36	49	null	null
+36	50	null	null
+36	51	null	Department of Computer Science, Stanford University, Stanford, CA
+36	52	null	null
+36	53	null	null
+36	54	null	null
+36	55	null	null
+36	56	null	null
+36	57	null	null
+37	38	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories
+37	39	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	HP Laboratories
+37	40	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	41	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	Saxpy Computer Corporation
+37	42	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	Rensselaer Polytechnic Institute, Troy, NY
+37	43	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	44	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	Stanford Univ., Stanford, CA
+37	45	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	The Royal Institute of Technology, Stockholm, Sweden
+37	46	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	47	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	48	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+37	49	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	50	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	51	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	Department of Computer Science, Stanford University, Stanford, CA
+37	52	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	53	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	54	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	55	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	56	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+37	57	Hewlett-Packard Laboratories, Palo Alto, California 94304-1126, USA	null
+38	39	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	HP Laboratories
+38	40	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	41	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	Saxpy Computer Corporation
+38	42	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	Rensselaer Polytechnic Institute, Troy, NY
+38	43	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	44	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	Stanford Univ., Stanford, CA
+38	45	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	The Royal Institute of Technology, Stockholm, Sweden
+38	46	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	47	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	48	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+38	49	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	50	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	51	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	Department of Computer Science, Stanford University, Stanford, CA
+38	52	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	53	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	54	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	55	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	56	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+38	57	Advanced Computer Systems Laboratory at Hewlett Packard Laboratories	null
+39	40	HP Laboratories	null
+39	41	HP Laboratories	Saxpy Computer Corporation
+39	42	HP Laboratories	Rensselaer Polytechnic Institute, Troy, NY
+39	43	HP Laboratories	null
+39	44	HP Laboratories	Stanford Univ., Stanford, CA
+39	45	HP Laboratories	The Royal Institute of Technology, Stockholm, Sweden
+39	46	HP Laboratories	null
+39	47	HP Laboratories	null
+39	48	HP Laboratories	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+39	49	HP Laboratories	null
+39	50	HP Laboratories	null
+39	51	HP Laboratories	Department of Computer Science, Stanford University, Stanford, CA
+39	52	HP Laboratories	null
+39	53	HP Laboratories	null
+39	54	HP Laboratories	null
+39	55	HP Laboratories	null
+39	56	HP Laboratories	null
+39	57	HP Laboratories	null
+40	41	null	Saxpy Computer Corporation
+40	42	null	Rensselaer Polytechnic Institute, Troy, NY
+40	43	null	null
+40	44	null	Stanford Univ., Stanford, CA
+40	45	null	The Royal Institute of Technology, Stockholm, Sweden
+40	46	null	null
+40	47	null	null
+40	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+40	49	null	null
+40	50	null	null
+40	51	null	Department of Computer Science, Stanford University, Stanford, CA
+40	52	null	null
+40	53	null	null
+40	54	null	null
+40	55	null	null
+40	56	null	null
+40	57	null	null
+41	42	Saxpy Computer Corporation	Rensselaer Polytechnic Institute, Troy, NY
+41	43	Saxpy Computer Corporation	null
+41	44	Saxpy Computer Corporation	Stanford Univ., Stanford, CA
+41	45	Saxpy Computer Corporation	The Royal Institute of Technology, Stockholm, Sweden
+41	46	Saxpy Computer Corporation	null
+41	47	Saxpy Computer Corporation	null
+41	48	Saxpy Computer Corporation	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+41	49	Saxpy Computer Corporation	null
+41	50	Saxpy Computer Corporation	null
+41	51	Saxpy Computer Corporation	Department of Computer Science, Stanford University, Stanford, CA
+41	52	Saxpy Computer Corporation	null
+41	53	Saxpy Computer Corporation	null
+41	54	Saxpy Computer Corporation	null
+41	55	Saxpy Computer Corporation	null
+41	56	Saxpy Computer Corporation	null
+41	57	Saxpy Computer Corporation	null
+42	43	Rensselaer Polytechnic Institute, Troy, NY	null
+42	44	Rensselaer Polytechnic Institute, Troy, NY	Stanford Univ., Stanford, CA
+42	45	Rensselaer Polytechnic Institute, Troy, NY	The Royal Institute of Technology, Stockholm, Sweden
+42	46	Rensselaer Polytechnic Institute, Troy, NY	null
+42	47	Rensselaer Polytechnic Institute, Troy, NY	null
+42	48	Rensselaer Polytechnic Institute, Troy, NY	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+42	49	Rensselaer Polytechnic Institute, Troy, NY	null
+42	50	Rensselaer Polytechnic Institute, Troy, NY	null
+42	51	Rensselaer Polytechnic Institute, Troy, NY	Department of Computer Science, Stanford University, Stanford, CA
+42	52	Rensselaer Polytechnic Institute, Troy, NY	null
+42	53	Rensselaer Polytechnic Institute, Troy, NY	null
+42	54	Rensselaer Polytechnic Institute, Troy, NY	null
+42	55	Rensselaer Polytechnic Institute, Troy, NY	null
+42	56	Rensselaer Polytechnic Institute, Troy, NY	null
+42	57	Rensselaer Polytechnic Institute, Troy, NY	null
+43	44	null	Stanford Univ., Stanford, CA
+43	45	null	The Royal Institute of Technology, Stockholm, Sweden
+43	46	null	null
+43	47	null	null
+43	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+43	49	null	null
+43	50	null	null
+43	51	null	Department of Computer Science, Stanford University, Stanford, CA
+43	52	null	null
+43	53	null	null
+43	54	null	null
+43	55	null	null
+43	56	null	null
+43	57	null	null
+44	45	Stanford Univ., Stanford, CA	The Royal Institute of Technology, Stockholm, Sweden
+44	46	Stanford Univ., Stanford, CA	null
+44	47	Stanford Univ., Stanford, CA	null
+44	48	Stanford Univ., Stanford, CA	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+44	49	Stanford Univ., Stanford, CA	null
+44	50	Stanford Univ., Stanford, CA	null
+44	51	Stanford Univ., Stanford, CA	Department of Computer Science, Stanford University, Stanford, CA
+44	52	Stanford Univ., Stanford, CA	null
+44	53	Stanford Univ., Stanford, CA	null
+44	54	Stanford Univ., Stanford, CA	null
+44	55	Stanford Univ., Stanford, CA	null
+44	56	Stanford Univ., Stanford, CA	null
+44	57	Stanford Univ., Stanford, CA	null
+45	46	The Royal Institute of Technology, Stockholm, Sweden	null
+45	47	The Royal Institute of Technology, Stockholm, Sweden	null
+45	48	The Royal Institute of Technology, Stockholm, Sweden	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+45	49	The Royal Institute of Technology, Stockholm, Sweden	null
+45	50	The Royal Institute of Technology, Stockholm, Sweden	null
+45	51	The Royal Institute of Technology, Stockholm, Sweden	Department of Computer Science, Stanford University, Stanford, CA
+45	52	The Royal Institute of Technology, Stockholm, Sweden	null
+45	53	The Royal Institute of Technology, Stockholm, Sweden	null
+45	54	The Royal Institute of Technology, Stockholm, Sweden	null
+45	55	The Royal Institute of Technology, Stockholm, Sweden	null
+45	56	The Royal Institute of Technology, Stockholm, Sweden	null
+45	57	The Royal Institute of Technology, Stockholm, Sweden	null
+46	47	null	null
+46	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+46	49	null	null
+46	50	null	null
+46	51	null	Department of Computer Science, Stanford University, Stanford, CA
+46	52	null	null
+46	53	null	null
+46	54	null	null
+46	55	null	null
+46	56	null	null
+46	57	null	null
+47	48	null	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA
+47	49	null	null
+47	50	null	null
+47	51	null	Department of Computer Science, Stanford University, Stanford, CA
+47	52	null	null
+47	53	null	null
+47	54	null	null
+47	55	null	null
+47	56	null	null
+47	57	null	null
+48	49	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+48	50	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+48	51	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	Department of Computer Science, Stanford University, Stanford, CA
+48	52	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+48	53	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+48	54	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+48	55	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+48	56	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+48	57	Research Institute for Advanced Computer Science (RIACS, NASA Ames Research Center, Moffett Field, CA	null
+49	50	null	null
+49	51	null	Department of Computer Science, Stanford University, Stanford, CA
+49	52	null	null
+49	53	null	null
+49	54	null	null
+49	55	null	null
+49	56	null	null
+49	57	null	null
+50	51	null	Department of Computer Science, Stanford University, Stanford, CA
+50	52	null	null
+50	53	null	null
+50	54	null	null
+50	55	null	null
+50	56	null	null
+50	57	null	null
+51	52	Department of Computer Science, Stanford University, Stanford, CA	null
+51	53	Department of Computer Science, Stanford University, Stanford, CA	null
+51	54	Department of Computer Science, Stanford University, Stanford, CA	null
+51	55	Department of Computer Science, Stanford University, Stanford, CA	null
+51	56	Department of Computer Science, Stanford University, Stanford, CA	null
+51	57	Department of Computer Science, Stanford University, Stanford, CA	null
+52	53	null	null
+52	54	null	null
+52	55	null	null
+52	56	null	null
+52	57	null	null
+53	54	null	null
+53	55	null	null
+53	56	null	null
+53	57	null	null
+54	55	null	null
+54	56	null	null
+54	57	null	null
+55	56	null	null
+55	57	null	null
+56	57	null	null

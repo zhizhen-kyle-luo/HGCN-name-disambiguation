@@ -1,0 +1,26 @@
+2	3	AFSS	AFSS
+2	4	AFSS	AFSS
+3	4	AFSS	AFSS
+5	6	Bildverarbeitung fur die Medizin	Bildverarbeitung fur die Medizin
+5	7	Bildverarbeitung fur die Medizin	Bildverarbeitung fur die Medizin
+6	7	Bildverarbeitung fur die Medizin	Bildverarbeitung fur die Medizin
+10	11	DICTA	DICTA
+22	56	PerCom	PerCom Workshops
+34	35	Int. J. Hum.-Comput. Stud.	Int. J. Hum.-Comput. Stud.
+34	36	Int. J. Hum.-Comput. Stud.	Int. J. Hum.-Comput. Stud.
+35	36	Int. J. Hum.-Comput. Stud.	Int. J. Hum.-Comput. Stud.
+37	38	IJPRAI	IJPRAI
+46	47	Nucleic Acids Research	Nucleic Acids Research
+48	49	Pattern Recognition	Pattern Recognition
+48	50	Pattern Recognition	Pattern Recognition
+48	52	Pattern Recognition	Pattern Recognition Letters
+49	50	Pattern Recognition	Pattern Recognition
+49	52	Pattern Recognition	Pattern Recognition Letters
+50	52	Pattern Recognition	Pattern Recognition Letters
+54	60	ECEASST	ECEASST
+54	61	ECEASST	ECEASST
+54	62	ECEASST	ECEASST
+60	61	ECEASST	ECEASST
+60	62	ECEASST	ECEASST
+61	62	ECEASST	ECEASST
+63	64	Journal of Computational Physics	Journal of Computational Physics

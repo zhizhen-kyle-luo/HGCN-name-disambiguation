@@ -1,0 +1,234 @@
+0	24	University of California, San Diego, La Jolla, CA	University of California, San Diego
+0	25	University of California, San Diego, La Jolla, CA	University of California, San Diego
+0	43	University of California, San Diego, La Jolla, CA	University of California, San Diego
+0	47	University of California, San Diego, La Jolla, CA	University of California, San Diego
+0	48	University of California, San Diego, La Jolla, CA	University of California, San Diego
+0	49	University of California, San Diego, La Jolla, CA	University of California at San Diego
+0	62	University of California, San Diego, La Jolla, CA	University of California, San Diego
+0	71	University of California, San Diego, La Jolla, CA	University of California, San Diego
+0	92	University of California, San Diego, La Jolla, CA	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+2	5	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	6	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+2	7	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation 201 Washington Road Princeton, NJ
+2	8	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+2	18	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	27	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+2	28	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	29	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	35	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	37	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	38	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+2	53	Sarnoff Corp., Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+2	60	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+2	63	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+2	65	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+2	66	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+2	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+3	7	Sarnoff Corporation	Sarnoff Corporation 201 Washington Road Princeton, NJ
+3	12	Sarnoff Corporation	Sarnoff Corporation
+3	13	Sarnoff Corporation	Sarnoff Corporation
+3	26	Sarnoff Corporation	Sarnoff Corporation
+3	36	Sarnoff Corporation	Sarnoff Corporation
+5	6	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+5	7	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation 201 Washington Road Princeton, NJ
+5	8	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+5	18	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+5	27	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+5	28	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+5	29	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+5	35	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+5	37	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+5	38	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+5	53	Sarnoff Corp., Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+5	60	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+5	63	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+5	65	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+5	66	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+5	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+5	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	7	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corporation 201 Washington Road Princeton, NJ
+6	18	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	28	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	29	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	35	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	37	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	60	David Sarnoff Res. Center, Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+6	66	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	68	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+6	69	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	8	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+7	12	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corporation
+7	13	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corporation
+7	18	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	26	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corporation
+7	27	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+7	28	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	29	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	35	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	36	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corporation
+7	37	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	38	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+7	53	Sarnoff Corporation 201 Washington Road Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+7	60	Sarnoff Corporation 201 Washington Road Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+7	63	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+7	65	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+7	66	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	68	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+7	69	Sarnoff Corporation 201 Washington Road Princeton, NJ	Sarnoff Corp., Princeton, NJ
+8	18	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+8	27	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ, USA
+8	28	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+8	29	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+8	35	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+8	37	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+8	38	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+8	53	Sarnoff Corp., Princeton, NJ, USA	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+8	63	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+8	65	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ, USA
+8	66	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+8	68	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+8	69	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+12	13	Sarnoff Corporation	Sarnoff Corporation
+12	26	Sarnoff Corporation	Sarnoff Corporation
+12	36	Sarnoff Corporation	Sarnoff Corporation
+13	26	Sarnoff Corporation	Sarnoff Corporation
+13	36	Sarnoff Corporation	Sarnoff Corporation
+18	27	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+18	28	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+18	29	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+18	35	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+18	37	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+18	38	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+18	53	Sarnoff Corp., Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+18	60	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+18	63	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+18	65	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+18	66	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+18	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+18	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+24	25	University of California, San Diego	University of California, San Diego
+24	43	University of California, San Diego	University of California, San Diego
+24	47	University of California, San Diego	University of California, San Diego
+24	48	University of California, San Diego	University of California, San Diego
+24	49	University of California, San Diego	University of California at San Diego
+24	62	University of California, San Diego	University of California, San Diego
+24	71	University of California, San Diego	University of California, San Diego
+24	92	University of California, San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+25	43	University of California, San Diego	University of California, San Diego
+25	47	University of California, San Diego	University of California, San Diego
+25	48	University of California, San Diego	University of California, San Diego
+25	49	University of California, San Diego	University of California at San Diego
+25	62	University of California, San Diego	University of California, San Diego
+25	71	University of California, San Diego	University of California, San Diego
+25	92	University of California, San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+26	36	Sarnoff Corporation	Sarnoff Corporation
+27	28	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+27	29	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+27	35	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+27	37	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+27	38	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+27	53	Sarnoff Corp., Princeton, NJ, USA	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+27	63	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+27	65	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ, USA
+27	66	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+27	68	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+27	69	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+28	29	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+28	35	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+28	37	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+28	38	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+28	53	Sarnoff Corp., Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+28	60	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+28	63	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+28	65	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+28	66	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+28	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+28	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+29	35	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+29	37	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+29	38	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+29	53	Sarnoff Corp., Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+29	60	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+29	63	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+29	65	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+29	66	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+29	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+29	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+35	37	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+35	38	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+35	53	Sarnoff Corp., Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+35	60	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+35	63	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+35	65	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+35	66	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+35	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+35	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+37	38	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534
+37	53	Sarnoff Corp., Princeton, NJ	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+37	60	Sarnoff Corp., Princeton, NJ	David Sarnoff Res. Center, Princeton, NJ
+37	63	Sarnoff Corp., Princeton, NJ	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+37	65	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+37	66	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+37	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+37	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+38	53	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ
+38	63	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA
+38	65	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534	Sarnoff Corp., Princeton, NJ, USA
+38	66	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534	Sarnoff Corp., Princeton, NJ
+38	68	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534	Sarnoff Corp., Princeton, NJ
+38	69	Sarnoff Corporation, 201 Washington Road, Princeton, NJ 08534	Sarnoff Corp., Princeton, NJ
+43	47	University of California, San Diego	University of California, San Diego
+43	48	University of California, San Diego	University of California, San Diego
+43	49	University of California, San Diego	University of California at San Diego
+43	62	University of California, San Diego	University of California, San Diego
+43	71	University of California, San Diego	University of California, San Diego
+43	92	University of California, San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+47	48	University of California, San Diego	University of California, San Diego
+47	49	University of California, San Diego	University of California at San Diego
+47	62	University of California, San Diego	University of California, San Diego
+47	71	University of California, San Diego	University of California, San Diego
+47	92	University of California, San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+48	49	University of California, San Diego	University of California at San Diego
+48	62	University of California, San Diego	University of California, San Diego
+48	71	University of California, San Diego	University of California, San Diego
+48	92	University of California, San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+49	62	University of California at San Diego	University of California, San Diego
+49	71	University of California at San Diego	University of California, San Diego
+49	92	University of California at San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+51	54	Polytechnic University, Brooklyn, NY	Polytechnic University, New York, NY
+51	61	Polytechnic University, Brooklyn, NY	Department of Electrical and Computer Engineering, Polytechnic University, Brooklyn, NY 11201, United States
+51	72	Polytechnic University, Brooklyn, NY	Polytechnic University, NY
+53	65	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ	Sarnoff Corp., Princeton, NJ, USA
+53	66	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+53	68	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+53	69	Vision Technologies Lab., Sarnoff Corp., CN 5300, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+54	61	Polytechnic University, New York, NY	Department of Electrical and Computer Engineering, Polytechnic University, Brooklyn, NY 11201, United States
+54	72	Polytechnic University, New York, NY	Polytechnic University, NY
+55	79	University of Illinois at Urbana-Champaign, Urbana, IL	Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA
+55	89	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois, Urbana-Champaign
+55	91	University of Illinois at Urbana-Champaign, Urbana, IL	University of Illinois at Urbana-Champaign
+60	66	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+60	68	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+60	69	David Sarnoff Res. Center, Princeton, NJ	Sarnoff Corp., Princeton, NJ
+61	72	Department of Electrical and Computer Engineering, Polytechnic University, Brooklyn, NY 11201, United States	Polytechnic University, NY
+62	71	University of California, San Diego	University of California, San Diego
+62	92	University of California, San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+63	65	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ, USA
+63	66	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+63	68	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+63	69	Sarnoff Corporation, 201 Washington Rd, 08543, Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+64	67	IEEE	IEEE
+64	70	IEEE	IEEE
+65	66	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+65	68	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+65	69	Sarnoff Corp., Princeton, NJ, USA	Sarnoff Corp., Princeton, NJ
+66	68	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+66	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+67	70	IEEE	IEEE
+68	69	Sarnoff Corp., Princeton, NJ	Sarnoff Corp., Princeton, NJ
+71	92	University of California, San Diego	Department of Computer Science and Engineering, University of California, San Diego La Jolla, USA 92093-0114
+79	89	Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA	University of Illinois, Urbana-Champaign
+79	91	Coordinated Science Laboratory, University of Illinois, Urbana, IL, USA	University of Illinois at Urbana-Champaign
+80	90	Coordinated Sci. Lab., Urbana, IL	Coordinated Science Laboratory, Urbana, IL
+89	91	University of Illinois, Urbana-Champaign	University of Illinois at Urbana-Champaign

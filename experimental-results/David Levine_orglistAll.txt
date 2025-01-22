@@ -1,0 +1,1128 @@
+0	1	CombineNet, Inc., Pittsburgh, PA	null
+0	2	CombineNet, Inc., Pittsburgh, PA	University of Texas at Arlington, USA
+0	3	CombineNet, Inc., Pittsburgh, PA	The University of Texas at Arlington, Arlington, TX
+0	4	CombineNet, Inc., Pittsburgh, PA	null
+0	5	CombineNet, Inc., Pittsburgh, PA	null
+0	6	CombineNet, Inc., Pittsburgh, PA	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+0	7	CombineNet, Inc., Pittsburgh, PA	null
+0	8	CombineNet, Inc., Pittsburgh, PA	null
+0	9	CombineNet, Inc., Pittsburgh, PA	null
+0	10	CombineNet, Inc., Pittsburgh, PA	null
+0	11	CombineNet, Inc., Pittsburgh, PA	null
+0	12	CombineNet, Inc., Pittsburgh, PA	null
+0	13	CombineNet, Inc., Pittsburgh, PA	null
+0	14	CombineNet, Inc., Pittsburgh, PA	null
+0	15	CombineNet, Inc., Pittsburgh, PA	null
+0	16	CombineNet, Inc., Pittsburgh, PA	null
+0	17	CombineNet, Inc., Pittsburgh, PA	null
+0	18	CombineNet, Inc., Pittsburgh, PA	null
+0	19	CombineNet, Inc., Pittsburgh, PA	null
+0	20	CombineNet, Inc., Pittsburgh, PA	null
+0	21	CombineNet, Inc., Pittsburgh, PA	null
+0	22	CombineNet, Inc., Pittsburgh, PA	null
+0	23	CombineNet, Inc., Pittsburgh, PA	null
+0	24	CombineNet, Inc., Pittsburgh, PA	null
+0	25	CombineNet, Inc., Pittsburgh, PA	null
+0	26	CombineNet, Inc., Pittsburgh, PA	null
+0	27	CombineNet, Inc., Pittsburgh, PA	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+0	28	CombineNet, Inc., Pittsburgh, PA	null
+0	29	CombineNet, Inc., Pittsburgh, PA	University of Texas at Arlington, Arlington, TX
+0	30	CombineNet, Inc., Pittsburgh, PA	null
+0	31	CombineNet, Inc., Pittsburgh, PA	null
+0	32	CombineNet, Inc., Pittsburgh, PA	null
+0	33	CombineNet, Inc., Pittsburgh, PA	null
+0	34	CombineNet, Inc., Pittsburgh, PA	null
+0	35	CombineNet, Inc., Pittsburgh, PA	null
+0	36	CombineNet, Inc., Pittsburgh, PA	Tel Aviv Univ., Tel Aviv, Israel
+0	37	CombineNet, Inc., Pittsburgh, PA	null
+0	38	CombineNet, Inc., Pittsburgh, PA	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+0	39	CombineNet, Inc., Pittsburgh, PA	The University of Texas at Arlington
+0	40	CombineNet, Inc., Pittsburgh, PA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+0	41	CombineNet, Inc., Pittsburgh, PA	null
+0	42	CombineNet, Inc., Pittsburgh, PA	null
+0	43	CombineNet, Inc., Pittsburgh, PA	null
+0	44	CombineNet, Inc., Pittsburgh, PA	St. Bonaventure College, St. Bonaventure, NY
+0	45	CombineNet, Inc., Pittsburgh, PA	University of Texas at Arlington
+0	46	CombineNet, Inc., Pittsburgh, PA	HuskyLabs
+0	47	CombineNet, Inc., Pittsburgh, PA	null
+1	2	null	University of Texas at Arlington, USA
+1	3	null	The University of Texas at Arlington, Arlington, TX
+1	4	null	null
+1	5	null	null
+1	6	null	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	null
+1	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+1	28	null	null
+1	29	null	University of Texas at Arlington, Arlington, TX
+1	30	null	null
+1	31	null	null
+1	32	null	null
+1	33	null	null
+1	34	null	null
+1	35	null	null
+1	36	null	Tel Aviv Univ., Tel Aviv, Israel
+1	37	null	null
+1	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+1	39	null	The University of Texas at Arlington
+1	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+1	41	null	null
+1	42	null	null
+1	43	null	null
+1	44	null	St. Bonaventure College, St. Bonaventure, NY
+1	45	null	University of Texas at Arlington
+1	46	null	HuskyLabs
+1	47	null	null
+2	3	University of Texas at Arlington, USA	The University of Texas at Arlington, Arlington, TX
+2	4	University of Texas at Arlington, USA	null
+2	5	University of Texas at Arlington, USA	null
+2	6	University of Texas at Arlington, USA	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+2	7	University of Texas at Arlington, USA	null
+2	8	University of Texas at Arlington, USA	null
+2	9	University of Texas at Arlington, USA	null
+2	10	University of Texas at Arlington, USA	null
+2	11	University of Texas at Arlington, USA	null
+2	12	University of Texas at Arlington, USA	null
+2	13	University of Texas at Arlington, USA	null
+2	14	University of Texas at Arlington, USA	null
+2	15	University of Texas at Arlington, USA	null
+2	16	University of Texas at Arlington, USA	null
+2	17	University of Texas at Arlington, USA	null
+2	18	University of Texas at Arlington, USA	null
+2	19	University of Texas at Arlington, USA	null
+2	20	University of Texas at Arlington, USA	null
+2	21	University of Texas at Arlington, USA	null
+2	22	University of Texas at Arlington, USA	null
+2	23	University of Texas at Arlington, USA	null
+2	24	University of Texas at Arlington, USA	null
+2	25	University of Texas at Arlington, USA	null
+2	26	University of Texas at Arlington, USA	null
+2	27	University of Texas at Arlington, USA	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+2	28	University of Texas at Arlington, USA	null
+2	29	University of Texas at Arlington, USA	University of Texas at Arlington, Arlington, TX
+2	30	University of Texas at Arlington, USA	null
+2	31	University of Texas at Arlington, USA	null
+2	32	University of Texas at Arlington, USA	null
+2	33	University of Texas at Arlington, USA	null
+2	34	University of Texas at Arlington, USA	null
+2	35	University of Texas at Arlington, USA	null
+2	36	University of Texas at Arlington, USA	Tel Aviv Univ., Tel Aviv, Israel
+2	37	University of Texas at Arlington, USA	null
+2	38	University of Texas at Arlington, USA	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+2	39	University of Texas at Arlington, USA	The University of Texas at Arlington
+2	40	University of Texas at Arlington, USA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+2	41	University of Texas at Arlington, USA	null
+2	42	University of Texas at Arlington, USA	null
+2	43	University of Texas at Arlington, USA	null
+2	44	University of Texas at Arlington, USA	St. Bonaventure College, St. Bonaventure, NY
+2	45	University of Texas at Arlington, USA	University of Texas at Arlington
+2	46	University of Texas at Arlington, USA	HuskyLabs
+2	47	University of Texas at Arlington, USA	null
+3	4	The University of Texas at Arlington, Arlington, TX	null
+3	5	The University of Texas at Arlington, Arlington, TX	null
+3	6	The University of Texas at Arlington, Arlington, TX	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+3	7	The University of Texas at Arlington, Arlington, TX	null
+3	8	The University of Texas at Arlington, Arlington, TX	null
+3	9	The University of Texas at Arlington, Arlington, TX	null
+3	10	The University of Texas at Arlington, Arlington, TX	null
+3	11	The University of Texas at Arlington, Arlington, TX	null
+3	12	The University of Texas at Arlington, Arlington, TX	null
+3	13	The University of Texas at Arlington, Arlington, TX	null
+3	14	The University of Texas at Arlington, Arlington, TX	null
+3	15	The University of Texas at Arlington, Arlington, TX	null
+3	16	The University of Texas at Arlington, Arlington, TX	null
+3	17	The University of Texas at Arlington, Arlington, TX	null
+3	18	The University of Texas at Arlington, Arlington, TX	null
+3	19	The University of Texas at Arlington, Arlington, TX	null
+3	20	The University of Texas at Arlington, Arlington, TX	null
+3	21	The University of Texas at Arlington, Arlington, TX	null
+3	22	The University of Texas at Arlington, Arlington, TX	null
+3	23	The University of Texas at Arlington, Arlington, TX	null
+3	24	The University of Texas at Arlington, Arlington, TX	null
+3	25	The University of Texas at Arlington, Arlington, TX	null
+3	26	The University of Texas at Arlington, Arlington, TX	null
+3	27	The University of Texas at Arlington, Arlington, TX	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+3	28	The University of Texas at Arlington, Arlington, TX	null
+3	29	The University of Texas at Arlington, Arlington, TX	University of Texas at Arlington, Arlington, TX
+3	30	The University of Texas at Arlington, Arlington, TX	null
+3	31	The University of Texas at Arlington, Arlington, TX	null
+3	32	The University of Texas at Arlington, Arlington, TX	null
+3	33	The University of Texas at Arlington, Arlington, TX	null
+3	34	The University of Texas at Arlington, Arlington, TX	null
+3	35	The University of Texas at Arlington, Arlington, TX	null
+3	36	The University of Texas at Arlington, Arlington, TX	Tel Aviv Univ., Tel Aviv, Israel
+3	37	The University of Texas at Arlington, Arlington, TX	null
+3	38	The University of Texas at Arlington, Arlington, TX	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+3	39	The University of Texas at Arlington, Arlington, TX	The University of Texas at Arlington
+3	40	The University of Texas at Arlington, Arlington, TX	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+3	41	The University of Texas at Arlington, Arlington, TX	null
+3	42	The University of Texas at Arlington, Arlington, TX	null
+3	43	The University of Texas at Arlington, Arlington, TX	null
+3	44	The University of Texas at Arlington, Arlington, TX	St. Bonaventure College, St. Bonaventure, NY
+3	45	The University of Texas at Arlington, Arlington, TX	University of Texas at Arlington
+3	46	The University of Texas at Arlington, Arlington, TX	HuskyLabs
+3	47	The University of Texas at Arlington, Arlington, TX	null
+4	5	null	null
+4	6	null	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	null
+4	24	null	null
+4	25	null	null
+4	26	null	null
+4	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+4	28	null	null
+4	29	null	University of Texas at Arlington, Arlington, TX
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	null
+4	35	null	null
+4	36	null	Tel Aviv Univ., Tel Aviv, Israel
+4	37	null	null
+4	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+4	39	null	The University of Texas at Arlington
+4	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+4	41	null	null
+4	42	null	null
+4	43	null	null
+4	44	null	St. Bonaventure College, St. Bonaventure, NY
+4	45	null	University of Texas at Arlington
+4	46	null	HuskyLabs
+4	47	null	null
+5	6	null	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	null
+5	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+5	28	null	null
+5	29	null	University of Texas at Arlington, Arlington, TX
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	null
+5	34	null	null
+5	35	null	null
+5	36	null	Tel Aviv Univ., Tel Aviv, Israel
+5	37	null	null
+5	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+5	39	null	The University of Texas at Arlington
+5	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+5	41	null	null
+5	42	null	null
+5	43	null	null
+5	44	null	St. Bonaventure College, St. Bonaventure, NY
+5	45	null	University of Texas at Arlington
+5	46	null	HuskyLabs
+5	47	null	null
+6	7	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	8	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	9	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	10	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	11	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	12	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	13	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	14	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	15	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	16	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	17	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	18	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	19	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	20	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	21	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	22	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	23	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	24	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	25	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	26	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	27	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+6	28	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	29	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	University of Texas at Arlington, Arlington, TX
+6	30	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	31	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	32	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	33	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	34	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	35	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	36	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	Tel Aviv Univ., Tel Aviv, Israel
+6	37	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	38	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+6	39	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	The University of Texas at Arlington
+6	40	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+6	41	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	42	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	43	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+6	44	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	St. Bonaventure College, St. Bonaventure, NY
+6	45	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	University of Texas at Arlington
+6	46	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	HuskyLabs
+6	47	University of Texas at Arlington, CSE, Arlington, TX 76019-0015,	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	null
+7	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+7	28	null	null
+7	29	null	University of Texas at Arlington, Arlington, TX
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	null
+7	34	null	null
+7	35	null	null
+7	36	null	Tel Aviv Univ., Tel Aviv, Israel
+7	37	null	null
+7	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+7	39	null	The University of Texas at Arlington
+7	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+7	41	null	null
+7	42	null	null
+7	43	null	null
+7	44	null	St. Bonaventure College, St. Bonaventure, NY
+7	45	null	University of Texas at Arlington
+7	46	null	HuskyLabs
+7	47	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	null
+8	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+8	28	null	null
+8	29	null	University of Texas at Arlington, Arlington, TX
+8	30	null	null
+8	31	null	null
+8	32	null	null
+8	33	null	null
+8	34	null	null
+8	35	null	null
+8	36	null	Tel Aviv Univ., Tel Aviv, Israel
+8	37	null	null
+8	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+8	39	null	The University of Texas at Arlington
+8	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+8	41	null	null
+8	42	null	null
+8	43	null	null
+8	44	null	St. Bonaventure College, St. Bonaventure, NY
+8	45	null	University of Texas at Arlington
+8	46	null	HuskyLabs
+8	47	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	null
+9	15	null	null
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	null
+9	20	null	null
+9	21	null	null
+9	22	null	null
+9	23	null	null
+9	24	null	null
+9	25	null	null
+9	26	null	null
+9	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+9	28	null	null
+9	29	null	University of Texas at Arlington, Arlington, TX
+9	30	null	null
+9	31	null	null
+9	32	null	null
+9	33	null	null
+9	34	null	null
+9	35	null	null
+9	36	null	Tel Aviv Univ., Tel Aviv, Israel
+9	37	null	null
+9	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+9	39	null	The University of Texas at Arlington
+9	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+9	41	null	null
+9	42	null	null
+9	43	null	null
+9	44	null	St. Bonaventure College, St. Bonaventure, NY
+9	45	null	University of Texas at Arlington
+9	46	null	HuskyLabs
+9	47	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	null
+10	23	null	null
+10	24	null	null
+10	25	null	null
+10	26	null	null
+10	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+10	28	null	null
+10	29	null	University of Texas at Arlington, Arlington, TX
+10	30	null	null
+10	31	null	null
+10	32	null	null
+10	33	null	null
+10	34	null	null
+10	35	null	null
+10	36	null	Tel Aviv Univ., Tel Aviv, Israel
+10	37	null	null
+10	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+10	39	null	The University of Texas at Arlington
+10	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+10	41	null	null
+10	42	null	null
+10	43	null	null
+10	44	null	St. Bonaventure College, St. Bonaventure, NY
+10	45	null	University of Texas at Arlington
+10	46	null	HuskyLabs
+10	47	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	null
+11	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+11	28	null	null
+11	29	null	University of Texas at Arlington, Arlington, TX
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	null
+11	34	null	null
+11	35	null	null
+11	36	null	Tel Aviv Univ., Tel Aviv, Israel
+11	37	null	null
+11	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+11	39	null	The University of Texas at Arlington
+11	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+11	41	null	null
+11	42	null	null
+11	43	null	null
+11	44	null	St. Bonaventure College, St. Bonaventure, NY
+11	45	null	University of Texas at Arlington
+11	46	null	HuskyLabs
+11	47	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	null
+12	17	null	null
+12	18	null	null
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	null
+12	23	null	null
+12	24	null	null
+12	25	null	null
+12	26	null	null
+12	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+12	28	null	null
+12	29	null	University of Texas at Arlington, Arlington, TX
+12	30	null	null
+12	31	null	null
+12	32	null	null
+12	33	null	null
+12	34	null	null
+12	35	null	null
+12	36	null	Tel Aviv Univ., Tel Aviv, Israel
+12	37	null	null
+12	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+12	39	null	The University of Texas at Arlington
+12	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+12	41	null	null
+12	42	null	null
+12	43	null	null
+12	44	null	St. Bonaventure College, St. Bonaventure, NY
+12	45	null	University of Texas at Arlington
+12	46	null	HuskyLabs
+12	47	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	null
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	null
+13	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+13	28	null	null
+13	29	null	University of Texas at Arlington, Arlington, TX
+13	30	null	null
+13	31	null	null
+13	32	null	null
+13	33	null	null
+13	34	null	null
+13	35	null	null
+13	36	null	Tel Aviv Univ., Tel Aviv, Israel
+13	37	null	null
+13	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+13	39	null	The University of Texas at Arlington
+13	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+13	41	null	null
+13	42	null	null
+13	43	null	null
+13	44	null	St. Bonaventure College, St. Bonaventure, NY
+13	45	null	University of Texas at Arlington
+13	46	null	HuskyLabs
+13	47	null	null
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	null
+14	24	null	null
+14	25	null	null
+14	26	null	null
+14	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+14	28	null	null
+14	29	null	University of Texas at Arlington, Arlington, TX
+14	30	null	null
+14	31	null	null
+14	32	null	null
+14	33	null	null
+14	34	null	null
+14	35	null	null
+14	36	null	Tel Aviv Univ., Tel Aviv, Israel
+14	37	null	null
+14	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+14	39	null	The University of Texas at Arlington
+14	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+14	41	null	null
+14	42	null	null
+14	43	null	null
+14	44	null	St. Bonaventure College, St. Bonaventure, NY
+14	45	null	University of Texas at Arlington
+14	46	null	HuskyLabs
+14	47	null	null
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	null
+15	24	null	null
+15	25	null	null
+15	26	null	null
+15	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+15	28	null	null
+15	29	null	University of Texas at Arlington, Arlington, TX
+15	30	null	null
+15	31	null	null
+15	32	null	null
+15	33	null	null
+15	34	null	null
+15	35	null	null
+15	36	null	Tel Aviv Univ., Tel Aviv, Israel
+15	37	null	null
+15	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+15	39	null	The University of Texas at Arlington
+15	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+15	41	null	null
+15	42	null	null
+15	43	null	null
+15	44	null	St. Bonaventure College, St. Bonaventure, NY
+15	45	null	University of Texas at Arlington
+15	46	null	HuskyLabs
+15	47	null	null
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	null
+16	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+16	28	null	null
+16	29	null	University of Texas at Arlington, Arlington, TX
+16	30	null	null
+16	31	null	null
+16	32	null	null
+16	33	null	null
+16	34	null	null
+16	35	null	null
+16	36	null	Tel Aviv Univ., Tel Aviv, Israel
+16	37	null	null
+16	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+16	39	null	The University of Texas at Arlington
+16	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+16	41	null	null
+16	42	null	null
+16	43	null	null
+16	44	null	St. Bonaventure College, St. Bonaventure, NY
+16	45	null	University of Texas at Arlington
+16	46	null	HuskyLabs
+16	47	null	null
+17	18	null	null
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	null
+17	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+17	28	null	null
+17	29	null	University of Texas at Arlington, Arlington, TX
+17	30	null	null
+17	31	null	null
+17	32	null	null
+17	33	null	null
+17	34	null	null
+17	35	null	null
+17	36	null	Tel Aviv Univ., Tel Aviv, Israel
+17	37	null	null
+17	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+17	39	null	The University of Texas at Arlington
+17	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+17	41	null	null
+17	42	null	null
+17	43	null	null
+17	44	null	St. Bonaventure College, St. Bonaventure, NY
+17	45	null	University of Texas at Arlington
+17	46	null	HuskyLabs
+17	47	null	null
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	null
+18	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+18	28	null	null
+18	29	null	University of Texas at Arlington, Arlington, TX
+18	30	null	null
+18	31	null	null
+18	32	null	null
+18	33	null	null
+18	34	null	null
+18	35	null	null
+18	36	null	Tel Aviv Univ., Tel Aviv, Israel
+18	37	null	null
+18	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+18	39	null	The University of Texas at Arlington
+18	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+18	41	null	null
+18	42	null	null
+18	43	null	null
+18	44	null	St. Bonaventure College, St. Bonaventure, NY
+18	45	null	University of Texas at Arlington
+18	46	null	HuskyLabs
+18	47	null	null
+19	20	null	null
+19	21	null	null
+19	22	null	null
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	null
+19	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+19	28	null	null
+19	29	null	University of Texas at Arlington, Arlington, TX
+19	30	null	null
+19	31	null	null
+19	32	null	null
+19	33	null	null
+19	34	null	null
+19	35	null	null
+19	36	null	Tel Aviv Univ., Tel Aviv, Israel
+19	37	null	null
+19	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+19	39	null	The University of Texas at Arlington
+19	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+19	41	null	null
+19	42	null	null
+19	43	null	null
+19	44	null	St. Bonaventure College, St. Bonaventure, NY
+19	45	null	University of Texas at Arlington
+19	46	null	HuskyLabs
+19	47	null	null
+20	21	null	null
+20	22	null	null
+20	23	null	null
+20	24	null	null
+20	25	null	null
+20	26	null	null
+20	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+20	28	null	null
+20	29	null	University of Texas at Arlington, Arlington, TX
+20	30	null	null
+20	31	null	null
+20	32	null	null
+20	33	null	null
+20	34	null	null
+20	35	null	null
+20	36	null	Tel Aviv Univ., Tel Aviv, Israel
+20	37	null	null
+20	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+20	39	null	The University of Texas at Arlington
+20	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+20	41	null	null
+20	42	null	null
+20	43	null	null
+20	44	null	St. Bonaventure College, St. Bonaventure, NY
+20	45	null	University of Texas at Arlington
+20	46	null	HuskyLabs
+20	47	null	null
+21	22	null	null
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	null
+21	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+21	28	null	null
+21	29	null	University of Texas at Arlington, Arlington, TX
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	null
+21	34	null	null
+21	35	null	null
+21	36	null	Tel Aviv Univ., Tel Aviv, Israel
+21	37	null	null
+21	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+21	39	null	The University of Texas at Arlington
+21	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+21	41	null	null
+21	42	null	null
+21	43	null	null
+21	44	null	St. Bonaventure College, St. Bonaventure, NY
+21	45	null	University of Texas at Arlington
+21	46	null	HuskyLabs
+21	47	null	null
+22	23	null	null
+22	24	null	null
+22	25	null	null
+22	26	null	null
+22	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+22	28	null	null
+22	29	null	University of Texas at Arlington, Arlington, TX
+22	30	null	null
+22	31	null	null
+22	32	null	null
+22	33	null	null
+22	34	null	null
+22	35	null	null
+22	36	null	Tel Aviv Univ., Tel Aviv, Israel
+22	37	null	null
+22	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+22	39	null	The University of Texas at Arlington
+22	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+22	41	null	null
+22	42	null	null
+22	43	null	null
+22	44	null	St. Bonaventure College, St. Bonaventure, NY
+22	45	null	University of Texas at Arlington
+22	46	null	HuskyLabs
+22	47	null	null
+23	24	null	null
+23	25	null	null
+23	26	null	null
+23	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+23	28	null	null
+23	29	null	University of Texas at Arlington, Arlington, TX
+23	30	null	null
+23	31	null	null
+23	32	null	null
+23	33	null	null
+23	34	null	null
+23	35	null	null
+23	36	null	Tel Aviv Univ., Tel Aviv, Israel
+23	37	null	null
+23	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+23	39	null	The University of Texas at Arlington
+23	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+23	41	null	null
+23	42	null	null
+23	43	null	null
+23	44	null	St. Bonaventure College, St. Bonaventure, NY
+23	45	null	University of Texas at Arlington
+23	46	null	HuskyLabs
+23	47	null	null
+24	25	null	null
+24	26	null	null
+24	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+24	28	null	null
+24	29	null	University of Texas at Arlington, Arlington, TX
+24	30	null	null
+24	31	null	null
+24	32	null	null
+24	33	null	null
+24	34	null	null
+24	35	null	null
+24	36	null	Tel Aviv Univ., Tel Aviv, Israel
+24	37	null	null
+24	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+24	39	null	The University of Texas at Arlington
+24	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+24	41	null	null
+24	42	null	null
+24	43	null	null
+24	44	null	St. Bonaventure College, St. Bonaventure, NY
+24	45	null	University of Texas at Arlington
+24	46	null	HuskyLabs
+24	47	null	null
+25	26	null	null
+25	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+25	28	null	null
+25	29	null	University of Texas at Arlington, Arlington, TX
+25	30	null	null
+25	31	null	null
+25	32	null	null
+25	33	null	null
+25	34	null	null
+25	35	null	null
+25	36	null	Tel Aviv Univ., Tel Aviv, Israel
+25	37	null	null
+25	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+25	39	null	The University of Texas at Arlington
+25	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+25	41	null	null
+25	42	null	null
+25	43	null	null
+25	44	null	St. Bonaventure College, St. Bonaventure, NY
+25	45	null	University of Texas at Arlington
+25	46	null	HuskyLabs
+25	47	null	null
+26	27	null	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA
+26	28	null	null
+26	29	null	University of Texas at Arlington, Arlington, TX
+26	30	null	null
+26	31	null	null
+26	32	null	null
+26	33	null	null
+26	34	null	null
+26	35	null	null
+26	36	null	Tel Aviv Univ., Tel Aviv, Israel
+26	37	null	null
+26	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+26	39	null	The University of Texas at Arlington
+26	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+26	41	null	null
+26	42	null	null
+26	43	null	null
+26	44	null	St. Bonaventure College, St. Bonaventure, NY
+26	45	null	University of Texas at Arlington
+26	46	null	HuskyLabs
+26	47	null	null
+27	28	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	29	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	University of Texas at Arlington, Arlington, TX
+27	30	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	31	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	32	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	33	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	34	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	35	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	36	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	Tel Aviv Univ., Tel Aviv, Israel
+27	37	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	38	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+27	39	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	The University of Texas at Arlington
+27	40	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+27	41	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	42	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	43	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+27	44	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	St. Bonaventure College, St. Bonaventure, NY
+27	45	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	University of Texas at Arlington
+27	46	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	HuskyLabs
+27	47	Dept. of Mathematics/Computer Science, Gettysburg College, Gettysburg, PA	null
+28	29	null	University of Texas at Arlington, Arlington, TX
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	null
+28	34	null	null
+28	35	null	null
+28	36	null	Tel Aviv Univ., Tel Aviv, Israel
+28	37	null	null
+28	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+28	39	null	The University of Texas at Arlington
+28	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+28	41	null	null
+28	42	null	null
+28	43	null	null
+28	44	null	St. Bonaventure College, St. Bonaventure, NY
+28	45	null	University of Texas at Arlington
+28	46	null	HuskyLabs
+28	47	null	null
+29	30	University of Texas at Arlington, Arlington, TX	null
+29	31	University of Texas at Arlington, Arlington, TX	null
+29	32	University of Texas at Arlington, Arlington, TX	null
+29	33	University of Texas at Arlington, Arlington, TX	null
+29	34	University of Texas at Arlington, Arlington, TX	null
+29	35	University of Texas at Arlington, Arlington, TX	null
+29	36	University of Texas at Arlington, Arlington, TX	Tel Aviv Univ., Tel Aviv, Israel
+29	37	University of Texas at Arlington, Arlington, TX	null
+29	38	University of Texas at Arlington, Arlington, TX	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+29	39	University of Texas at Arlington, Arlington, TX	The University of Texas at Arlington
+29	40	University of Texas at Arlington, Arlington, TX	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+29	41	University of Texas at Arlington, Arlington, TX	null
+29	42	University of Texas at Arlington, Arlington, TX	null
+29	43	University of Texas at Arlington, Arlington, TX	null
+29	44	University of Texas at Arlington, Arlington, TX	St. Bonaventure College, St. Bonaventure, NY
+29	45	University of Texas at Arlington, Arlington, TX	University of Texas at Arlington
+29	46	University of Texas at Arlington, Arlington, TX	HuskyLabs
+29	47	University of Texas at Arlington, Arlington, TX	null
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	null
+30	35	null	null
+30	36	null	Tel Aviv Univ., Tel Aviv, Israel
+30	37	null	null
+30	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+30	39	null	The University of Texas at Arlington
+30	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+30	41	null	null
+30	42	null	null
+30	43	null	null
+30	44	null	St. Bonaventure College, St. Bonaventure, NY
+30	45	null	University of Texas at Arlington
+30	46	null	HuskyLabs
+30	47	null	null
+31	32	null	null
+31	33	null	null
+31	34	null	null
+31	35	null	null
+31	36	null	Tel Aviv Univ., Tel Aviv, Israel
+31	37	null	null
+31	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+31	39	null	The University of Texas at Arlington
+31	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+31	41	null	null
+31	42	null	null
+31	43	null	null
+31	44	null	St. Bonaventure College, St. Bonaventure, NY
+31	45	null	University of Texas at Arlington
+31	46	null	HuskyLabs
+31	47	null	null
+32	33	null	null
+32	34	null	null
+32	35	null	null
+32	36	null	Tel Aviv Univ., Tel Aviv, Israel
+32	37	null	null
+32	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+32	39	null	The University of Texas at Arlington
+32	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+32	41	null	null
+32	42	null	null
+32	43	null	null
+32	44	null	St. Bonaventure College, St. Bonaventure, NY
+32	45	null	University of Texas at Arlington
+32	46	null	HuskyLabs
+32	47	null	null
+33	34	null	null
+33	35	null	null
+33	36	null	Tel Aviv Univ., Tel Aviv, Israel
+33	37	null	null
+33	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+33	39	null	The University of Texas at Arlington
+33	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+33	41	null	null
+33	42	null	null
+33	43	null	null
+33	44	null	St. Bonaventure College, St. Bonaventure, NY
+33	45	null	University of Texas at Arlington
+33	46	null	HuskyLabs
+33	47	null	null
+34	35	null	null
+34	36	null	Tel Aviv Univ., Tel Aviv, Israel
+34	37	null	null
+34	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+34	39	null	The University of Texas at Arlington
+34	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+34	41	null	null
+34	42	null	null
+34	43	null	null
+34	44	null	St. Bonaventure College, St. Bonaventure, NY
+34	45	null	University of Texas at Arlington
+34	46	null	HuskyLabs
+34	47	null	null
+35	36	null	Tel Aviv Univ., Tel Aviv, Israel
+35	37	null	null
+35	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+35	39	null	The University of Texas at Arlington
+35	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+35	41	null	null
+35	42	null	null
+35	43	null	null
+35	44	null	St. Bonaventure College, St. Bonaventure, NY
+35	45	null	University of Texas at Arlington
+35	46	null	HuskyLabs
+35	47	null	null
+36	37	Tel Aviv Univ., Tel Aviv, Israel	null
+36	38	Tel Aviv Univ., Tel Aviv, Israel	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+36	39	Tel Aviv Univ., Tel Aviv, Israel	The University of Texas at Arlington
+36	40	Tel Aviv Univ., Tel Aviv, Israel	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+36	41	Tel Aviv Univ., Tel Aviv, Israel	null
+36	42	Tel Aviv Univ., Tel Aviv, Israel	null
+36	43	Tel Aviv Univ., Tel Aviv, Israel	null
+36	44	Tel Aviv Univ., Tel Aviv, Israel	St. Bonaventure College, St. Bonaventure, NY
+36	45	Tel Aviv Univ., Tel Aviv, Israel	University of Texas at Arlington
+36	46	Tel Aviv Univ., Tel Aviv, Israel	HuskyLabs
+36	47	Tel Aviv Univ., Tel Aviv, Israel	null
+37	38	null	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222
+37	39	null	The University of Texas at Arlington
+37	40	null	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+37	41	null	null
+37	42	null	null
+37	43	null	null
+37	44	null	St. Bonaventure College, St. Bonaventure, NY
+37	45	null	University of Texas at Arlington
+37	46	null	HuskyLabs
+37	47	null	null
+38	39	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	The University of Texas at Arlington
+38	40	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+38	41	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	null
+38	42	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	null
+38	43	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	null
+38	44	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	St. Bonaventure College, St. Bonaventure, NY
+38	45	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	University of Texas at Arlington
+38	46	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	HuskyLabs
+38	47	CombineNet, Inc., Fifteen 27th Street, Pittsburgh, Pennsylvania 15222	null
+39	40	The University of Texas at Arlington	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA
+39	41	The University of Texas at Arlington	null
+39	42	The University of Texas at Arlington	null
+39	43	The University of Texas at Arlington	null
+39	44	The University of Texas at Arlington	St. Bonaventure College, St. Bonaventure, NY
+39	45	The University of Texas at Arlington	University of Texas at Arlington
+39	46	The University of Texas at Arlington	HuskyLabs
+39	47	The University of Texas at Arlington	null
+40	41	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA	null
+40	42	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA	null
+40	43	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA	null
+40	44	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA	St. Bonaventure College, St. Bonaventure, NY
+40	45	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA	University of Texas at Arlington
+40	46	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA	HuskyLabs
+40	47	IBM Thomas J. Watson Res. Center, Yorktown Heights, NY, USA	null
+41	42	null	null
+41	43	null	null
+41	44	null	St. Bonaventure College, St. Bonaventure, NY
+41	45	null	University of Texas at Arlington
+41	46	null	HuskyLabs
+41	47	null	null
+42	43	null	null
+42	44	null	St. Bonaventure College, St. Bonaventure, NY
+42	45	null	University of Texas at Arlington
+42	46	null	HuskyLabs
+42	47	null	null
+43	44	null	St. Bonaventure College, St. Bonaventure, NY
+43	45	null	University of Texas at Arlington
+43	46	null	HuskyLabs
+43	47	null	null
+44	45	St. Bonaventure College, St. Bonaventure, NY	University of Texas at Arlington
+44	46	St. Bonaventure College, St. Bonaventure, NY	HuskyLabs
+44	47	St. Bonaventure College, St. Bonaventure, NY	null
+45	46	University of Texas at Arlington	HuskyLabs
+45	47	University of Texas at Arlington	null
+46	47	HuskyLabs	null

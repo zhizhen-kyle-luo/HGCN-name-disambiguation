@@ -1,0 +1,1827 @@
+0	1	AII	AII
+0	11	AII	AII/ALT
+0	29	AII	AII/ALT
+1	11	AII	AII/ALT
+1	29	AII	AII/ALT
+2	3	ALT	ALT
+2	4	ALT	ALT
+2	5	ALT	ALT
+2	6	ALT	ALT
+2	7	ALT	ALT
+2	8	ALT	ALT
+2	9	ALT	ALT
+2	10	ALT	ALT
+2	11	ALT	AII/ALT
+2	12	ALT	ALT
+2	13	ALT	ALT
+2	14	ALT	ALT
+2	15	ALT	ALT
+2	16	ALT	ALT
+2	17	ALT	ALT
+2	18	ALT	ALT
+2	19	ALT	ALT
+2	20	ALT	ALT
+2	21	ALT	ALT
+2	22	ALT	ALT
+2	23	ALT	ALT
+2	24	ALT	ALT
+2	25	ALT	ALT
+2	26	ALT	ALT
+2	27	ALT	ALT
+2	28	ALT	ALT
+2	29	ALT	AII/ALT
+2	30	ALT	ALT
+2	31	ALT	ALT
+2	32	ALT	ALT
+2	33	ALT	ALT
+2	34	ALT	ALT
+2	35	ALT	ALT
+2	201	ALT	ALT
+2	202	ALT	ALT
+2	203	ALT	ALT
+3	4	ALT	ALT
+3	5	ALT	ALT
+3	6	ALT	ALT
+3	7	ALT	ALT
+3	8	ALT	ALT
+3	9	ALT	ALT
+3	10	ALT	ALT
+3	11	ALT	AII/ALT
+3	12	ALT	ALT
+3	13	ALT	ALT
+3	14	ALT	ALT
+3	15	ALT	ALT
+3	16	ALT	ALT
+3	17	ALT	ALT
+3	18	ALT	ALT
+3	19	ALT	ALT
+3	20	ALT	ALT
+3	21	ALT	ALT
+3	22	ALT	ALT
+3	23	ALT	ALT
+3	24	ALT	ALT
+3	25	ALT	ALT
+3	26	ALT	ALT
+3	27	ALT	ALT
+3	28	ALT	ALT
+3	29	ALT	AII/ALT
+3	30	ALT	ALT
+3	31	ALT	ALT
+3	32	ALT	ALT
+3	33	ALT	ALT
+3	34	ALT	ALT
+3	35	ALT	ALT
+3	201	ALT	ALT
+3	202	ALT	ALT
+3	203	ALT	ALT
+4	5	ALT	ALT
+4	6	ALT	ALT
+4	7	ALT	ALT
+4	8	ALT	ALT
+4	9	ALT	ALT
+4	10	ALT	ALT
+4	11	ALT	AII/ALT
+4	12	ALT	ALT
+4	13	ALT	ALT
+4	14	ALT	ALT
+4	15	ALT	ALT
+4	16	ALT	ALT
+4	17	ALT	ALT
+4	18	ALT	ALT
+4	19	ALT	ALT
+4	20	ALT	ALT
+4	21	ALT	ALT
+4	22	ALT	ALT
+4	23	ALT	ALT
+4	24	ALT	ALT
+4	25	ALT	ALT
+4	26	ALT	ALT
+4	27	ALT	ALT
+4	28	ALT	ALT
+4	29	ALT	AII/ALT
+4	30	ALT	ALT
+4	31	ALT	ALT
+4	32	ALT	ALT
+4	33	ALT	ALT
+4	34	ALT	ALT
+4	35	ALT	ALT
+4	201	ALT	ALT
+4	202	ALT	ALT
+4	203	ALT	ALT
+5	6	ALT	ALT
+5	7	ALT	ALT
+5	8	ALT	ALT
+5	9	ALT	ALT
+5	10	ALT	ALT
+5	11	ALT	AII/ALT
+5	12	ALT	ALT
+5	13	ALT	ALT
+5	14	ALT	ALT
+5	15	ALT	ALT
+5	16	ALT	ALT
+5	17	ALT	ALT
+5	18	ALT	ALT
+5	19	ALT	ALT
+5	20	ALT	ALT
+5	21	ALT	ALT
+5	22	ALT	ALT
+5	23	ALT	ALT
+5	24	ALT	ALT
+5	25	ALT	ALT
+5	26	ALT	ALT
+5	27	ALT	ALT
+5	28	ALT	ALT
+5	29	ALT	AII/ALT
+5	30	ALT	ALT
+5	31	ALT	ALT
+5	32	ALT	ALT
+5	33	ALT	ALT
+5	34	ALT	ALT
+5	35	ALT	ALT
+5	201	ALT	ALT
+5	202	ALT	ALT
+5	203	ALT	ALT
+6	7	ALT	ALT
+6	8	ALT	ALT
+6	9	ALT	ALT
+6	10	ALT	ALT
+6	11	ALT	AII/ALT
+6	12	ALT	ALT
+6	13	ALT	ALT
+6	14	ALT	ALT
+6	15	ALT	ALT
+6	16	ALT	ALT
+6	17	ALT	ALT
+6	18	ALT	ALT
+6	19	ALT	ALT
+6	20	ALT	ALT
+6	21	ALT	ALT
+6	22	ALT	ALT
+6	23	ALT	ALT
+6	24	ALT	ALT
+6	25	ALT	ALT
+6	26	ALT	ALT
+6	27	ALT	ALT
+6	28	ALT	ALT
+6	29	ALT	AII/ALT
+6	30	ALT	ALT
+6	31	ALT	ALT
+6	32	ALT	ALT
+6	33	ALT	ALT
+6	34	ALT	ALT
+6	35	ALT	ALT
+6	201	ALT	ALT
+6	202	ALT	ALT
+6	203	ALT	ALT
+7	8	ALT	ALT
+7	9	ALT	ALT
+7	10	ALT	ALT
+7	11	ALT	AII/ALT
+7	12	ALT	ALT
+7	13	ALT	ALT
+7	14	ALT	ALT
+7	15	ALT	ALT
+7	16	ALT	ALT
+7	17	ALT	ALT
+7	18	ALT	ALT
+7	19	ALT	ALT
+7	20	ALT	ALT
+7	21	ALT	ALT
+7	22	ALT	ALT
+7	23	ALT	ALT
+7	24	ALT	ALT
+7	25	ALT	ALT
+7	26	ALT	ALT
+7	27	ALT	ALT
+7	28	ALT	ALT
+7	29	ALT	AII/ALT
+7	30	ALT	ALT
+7	31	ALT	ALT
+7	32	ALT	ALT
+7	33	ALT	ALT
+7	34	ALT	ALT
+7	35	ALT	ALT
+7	201	ALT	ALT
+7	202	ALT	ALT
+7	203	ALT	ALT
+8	9	ALT	ALT
+8	10	ALT	ALT
+8	11	ALT	AII/ALT
+8	12	ALT	ALT
+8	13	ALT	ALT
+8	14	ALT	ALT
+8	15	ALT	ALT
+8	16	ALT	ALT
+8	17	ALT	ALT
+8	18	ALT	ALT
+8	19	ALT	ALT
+8	20	ALT	ALT
+8	21	ALT	ALT
+8	22	ALT	ALT
+8	23	ALT	ALT
+8	24	ALT	ALT
+8	25	ALT	ALT
+8	26	ALT	ALT
+8	27	ALT	ALT
+8	28	ALT	ALT
+8	29	ALT	AII/ALT
+8	30	ALT	ALT
+8	31	ALT	ALT
+8	32	ALT	ALT
+8	33	ALT	ALT
+8	34	ALT	ALT
+8	35	ALT	ALT
+8	201	ALT	ALT
+8	202	ALT	ALT
+8	203	ALT	ALT
+9	10	ALT	ALT
+9	11	ALT	AII/ALT
+9	12	ALT	ALT
+9	13	ALT	ALT
+9	14	ALT	ALT
+9	15	ALT	ALT
+9	16	ALT	ALT
+9	17	ALT	ALT
+9	18	ALT	ALT
+9	19	ALT	ALT
+9	20	ALT	ALT
+9	21	ALT	ALT
+9	22	ALT	ALT
+9	23	ALT	ALT
+9	24	ALT	ALT
+9	25	ALT	ALT
+9	26	ALT	ALT
+9	27	ALT	ALT
+9	28	ALT	ALT
+9	29	ALT	AII/ALT
+9	30	ALT	ALT
+9	31	ALT	ALT
+9	32	ALT	ALT
+9	33	ALT	ALT
+9	34	ALT	ALT
+9	35	ALT	ALT
+9	201	ALT	ALT
+9	202	ALT	ALT
+9	203	ALT	ALT
+10	11	ALT	AII/ALT
+10	12	ALT	ALT
+10	13	ALT	ALT
+10	14	ALT	ALT
+10	15	ALT	ALT
+10	16	ALT	ALT
+10	17	ALT	ALT
+10	18	ALT	ALT
+10	19	ALT	ALT
+10	20	ALT	ALT
+10	21	ALT	ALT
+10	22	ALT	ALT
+10	23	ALT	ALT
+10	24	ALT	ALT
+10	25	ALT	ALT
+10	26	ALT	ALT
+10	27	ALT	ALT
+10	28	ALT	ALT
+10	29	ALT	AII/ALT
+10	30	ALT	ALT
+10	31	ALT	ALT
+10	32	ALT	ALT
+10	33	ALT	ALT
+10	34	ALT	ALT
+10	35	ALT	ALT
+10	201	ALT	ALT
+10	202	ALT	ALT
+10	203	ALT	ALT
+11	12	AII/ALT	ALT
+11	13	AII/ALT	ALT
+11	14	AII/ALT	ALT
+11	15	AII/ALT	ALT
+11	16	AII/ALT	ALT
+11	17	AII/ALT	ALT
+11	18	AII/ALT	ALT
+11	19	AII/ALT	ALT
+11	20	AII/ALT	ALT
+11	21	AII/ALT	ALT
+11	22	AII/ALT	ALT
+11	23	AII/ALT	ALT
+11	24	AII/ALT	ALT
+11	25	AII/ALT	ALT
+11	26	AII/ALT	ALT
+11	27	AII/ALT	ALT
+11	28	AII/ALT	ALT
+11	29	AII/ALT	AII/ALT
+11	30	AII/ALT	ALT
+11	31	AII/ALT	ALT
+11	32	AII/ALT	ALT
+11	33	AII/ALT	ALT
+11	34	AII/ALT	ALT
+11	35	AII/ALT	ALT
+11	201	AII/ALT	ALT
+11	202	AII/ALT	ALT
+11	203	AII/ALT	ALT
+12	13	ALT	ALT
+12	14	ALT	ALT
+12	15	ALT	ALT
+12	16	ALT	ALT
+12	17	ALT	ALT
+12	18	ALT	ALT
+12	19	ALT	ALT
+12	20	ALT	ALT
+12	21	ALT	ALT
+12	22	ALT	ALT
+12	23	ALT	ALT
+12	24	ALT	ALT
+12	25	ALT	ALT
+12	26	ALT	ALT
+12	27	ALT	ALT
+12	28	ALT	ALT
+12	29	ALT	AII/ALT
+12	30	ALT	ALT
+12	31	ALT	ALT
+12	32	ALT	ALT
+12	33	ALT	ALT
+12	34	ALT	ALT
+12	35	ALT	ALT
+12	201	ALT	ALT
+12	202	ALT	ALT
+12	203	ALT	ALT
+13	14	ALT	ALT
+13	15	ALT	ALT
+13	16	ALT	ALT
+13	17	ALT	ALT
+13	18	ALT	ALT
+13	19	ALT	ALT
+13	20	ALT	ALT
+13	21	ALT	ALT
+13	22	ALT	ALT
+13	23	ALT	ALT
+13	24	ALT	ALT
+13	25	ALT	ALT
+13	26	ALT	ALT
+13	27	ALT	ALT
+13	28	ALT	ALT
+13	29	ALT	AII/ALT
+13	30	ALT	ALT
+13	31	ALT	ALT
+13	32	ALT	ALT
+13	33	ALT	ALT
+13	34	ALT	ALT
+13	35	ALT	ALT
+13	201	ALT	ALT
+13	202	ALT	ALT
+13	203	ALT	ALT
+14	15	ALT	ALT
+14	16	ALT	ALT
+14	17	ALT	ALT
+14	18	ALT	ALT
+14	19	ALT	ALT
+14	20	ALT	ALT
+14	21	ALT	ALT
+14	22	ALT	ALT
+14	23	ALT	ALT
+14	24	ALT	ALT
+14	25	ALT	ALT
+14	26	ALT	ALT
+14	27	ALT	ALT
+14	28	ALT	ALT
+14	29	ALT	AII/ALT
+14	30	ALT	ALT
+14	31	ALT	ALT
+14	32	ALT	ALT
+14	33	ALT	ALT
+14	34	ALT	ALT
+14	35	ALT	ALT
+14	201	ALT	ALT
+14	202	ALT	ALT
+14	203	ALT	ALT
+15	16	ALT	ALT
+15	17	ALT	ALT
+15	18	ALT	ALT
+15	19	ALT	ALT
+15	20	ALT	ALT
+15	21	ALT	ALT
+15	22	ALT	ALT
+15	23	ALT	ALT
+15	24	ALT	ALT
+15	25	ALT	ALT
+15	26	ALT	ALT
+15	27	ALT	ALT
+15	28	ALT	ALT
+15	29	ALT	AII/ALT
+15	30	ALT	ALT
+15	31	ALT	ALT
+15	32	ALT	ALT
+15	33	ALT	ALT
+15	34	ALT	ALT
+15	35	ALT	ALT
+15	201	ALT	ALT
+15	202	ALT	ALT
+15	203	ALT	ALT
+16	17	ALT	ALT
+16	18	ALT	ALT
+16	19	ALT	ALT
+16	20	ALT	ALT
+16	21	ALT	ALT
+16	22	ALT	ALT
+16	23	ALT	ALT
+16	24	ALT	ALT
+16	25	ALT	ALT
+16	26	ALT	ALT
+16	27	ALT	ALT
+16	28	ALT	ALT
+16	29	ALT	AII/ALT
+16	30	ALT	ALT
+16	31	ALT	ALT
+16	32	ALT	ALT
+16	33	ALT	ALT
+16	34	ALT	ALT
+16	35	ALT	ALT
+16	201	ALT	ALT
+16	202	ALT	ALT
+16	203	ALT	ALT
+17	18	ALT	ALT
+17	19	ALT	ALT
+17	20	ALT	ALT
+17	21	ALT	ALT
+17	22	ALT	ALT
+17	23	ALT	ALT
+17	24	ALT	ALT
+17	25	ALT	ALT
+17	26	ALT	ALT
+17	27	ALT	ALT
+17	28	ALT	ALT
+17	29	ALT	AII/ALT
+17	30	ALT	ALT
+17	31	ALT	ALT
+17	32	ALT	ALT
+17	33	ALT	ALT
+17	34	ALT	ALT
+17	35	ALT	ALT
+17	201	ALT	ALT
+17	202	ALT	ALT
+17	203	ALT	ALT
+18	19	ALT	ALT
+18	20	ALT	ALT
+18	21	ALT	ALT
+18	22	ALT	ALT
+18	23	ALT	ALT
+18	24	ALT	ALT
+18	25	ALT	ALT
+18	26	ALT	ALT
+18	27	ALT	ALT
+18	28	ALT	ALT
+18	29	ALT	AII/ALT
+18	30	ALT	ALT
+18	31	ALT	ALT
+18	32	ALT	ALT
+18	33	ALT	ALT
+18	34	ALT	ALT
+18	35	ALT	ALT
+18	201	ALT	ALT
+18	202	ALT	ALT
+18	203	ALT	ALT
+19	20	ALT	ALT
+19	21	ALT	ALT
+19	22	ALT	ALT
+19	23	ALT	ALT
+19	24	ALT	ALT
+19	25	ALT	ALT
+19	26	ALT	ALT
+19	27	ALT	ALT
+19	28	ALT	ALT
+19	29	ALT	AII/ALT
+19	30	ALT	ALT
+19	31	ALT	ALT
+19	32	ALT	ALT
+19	33	ALT	ALT
+19	34	ALT	ALT
+19	35	ALT	ALT
+19	201	ALT	ALT
+19	202	ALT	ALT
+19	203	ALT	ALT
+20	21	ALT	ALT
+20	22	ALT	ALT
+20	23	ALT	ALT
+20	24	ALT	ALT
+20	25	ALT	ALT
+20	26	ALT	ALT
+20	27	ALT	ALT
+20	28	ALT	ALT
+20	29	ALT	AII/ALT
+20	30	ALT	ALT
+20	31	ALT	ALT
+20	32	ALT	ALT
+20	33	ALT	ALT
+20	34	ALT	ALT
+20	35	ALT	ALT
+20	201	ALT	ALT
+20	202	ALT	ALT
+20	203	ALT	ALT
+21	22	ALT	ALT
+21	23	ALT	ALT
+21	24	ALT	ALT
+21	25	ALT	ALT
+21	26	ALT	ALT
+21	27	ALT	ALT
+21	28	ALT	ALT
+21	29	ALT	AII/ALT
+21	30	ALT	ALT
+21	31	ALT	ALT
+21	32	ALT	ALT
+21	33	ALT	ALT
+21	34	ALT	ALT
+21	35	ALT	ALT
+21	201	ALT	ALT
+21	202	ALT	ALT
+21	203	ALT	ALT
+22	23	ALT	ALT
+22	24	ALT	ALT
+22	25	ALT	ALT
+22	26	ALT	ALT
+22	27	ALT	ALT
+22	28	ALT	ALT
+22	29	ALT	AII/ALT
+22	30	ALT	ALT
+22	31	ALT	ALT
+22	32	ALT	ALT
+22	33	ALT	ALT
+22	34	ALT	ALT
+22	35	ALT	ALT
+22	201	ALT	ALT
+22	202	ALT	ALT
+22	203	ALT	ALT
+23	24	ALT	ALT
+23	25	ALT	ALT
+23	26	ALT	ALT
+23	27	ALT	ALT
+23	28	ALT	ALT
+23	29	ALT	AII/ALT
+23	30	ALT	ALT
+23	31	ALT	ALT
+23	32	ALT	ALT
+23	33	ALT	ALT
+23	34	ALT	ALT
+23	35	ALT	ALT
+23	201	ALT	ALT
+23	202	ALT	ALT
+23	203	ALT	ALT
+24	25	ALT	ALT
+24	26	ALT	ALT
+24	27	ALT	ALT
+24	28	ALT	ALT
+24	29	ALT	AII/ALT
+24	30	ALT	ALT
+24	31	ALT	ALT
+24	32	ALT	ALT
+24	33	ALT	ALT
+24	34	ALT	ALT
+24	35	ALT	ALT
+24	201	ALT	ALT
+24	202	ALT	ALT
+24	203	ALT	ALT
+25	26	ALT	ALT
+25	27	ALT	ALT
+25	28	ALT	ALT
+25	29	ALT	AII/ALT
+25	30	ALT	ALT
+25	31	ALT	ALT
+25	32	ALT	ALT
+25	33	ALT	ALT
+25	34	ALT	ALT
+25	35	ALT	ALT
+25	201	ALT	ALT
+25	202	ALT	ALT
+25	203	ALT	ALT
+26	27	ALT	ALT
+26	28	ALT	ALT
+26	29	ALT	AII/ALT
+26	30	ALT	ALT
+26	31	ALT	ALT
+26	32	ALT	ALT
+26	33	ALT	ALT
+26	34	ALT	ALT
+26	35	ALT	ALT
+26	201	ALT	ALT
+26	202	ALT	ALT
+26	203	ALT	ALT
+27	28	ALT	ALT
+27	29	ALT	AII/ALT
+27	30	ALT	ALT
+27	31	ALT	ALT
+27	32	ALT	ALT
+27	33	ALT	ALT
+27	34	ALT	ALT
+27	35	ALT	ALT
+27	201	ALT	ALT
+27	202	ALT	ALT
+27	203	ALT	ALT
+28	29	ALT	AII/ALT
+28	30	ALT	ALT
+28	31	ALT	ALT
+28	32	ALT	ALT
+28	33	ALT	ALT
+28	34	ALT	ALT
+28	35	ALT	ALT
+28	201	ALT	ALT
+28	202	ALT	ALT
+28	203	ALT	ALT
+29	30	AII/ALT	ALT
+29	31	AII/ALT	ALT
+29	32	AII/ALT	ALT
+29	33	AII/ALT	ALT
+29	34	AII/ALT	ALT
+29	35	AII/ALT	ALT
+29	201	AII/ALT	ALT
+29	202	AII/ALT	ALT
+29	203	AII/ALT	ALT
+30	31	ALT	ALT
+30	32	ALT	ALT
+30	33	ALT	ALT
+30	34	ALT	ALT
+30	35	ALT	ALT
+30	201	ALT	ALT
+30	202	ALT	ALT
+30	203	ALT	ALT
+31	32	ALT	ALT
+31	33	ALT	ALT
+31	34	ALT	ALT
+31	35	ALT	ALT
+31	201	ALT	ALT
+31	202	ALT	ALT
+31	203	ALT	ALT
+32	33	ALT	ALT
+32	34	ALT	ALT
+32	35	ALT	ALT
+32	201	ALT	ALT
+32	202	ALT	ALT
+32	203	ALT	ALT
+33	34	ALT	ALT
+33	35	ALT	ALT
+33	201	ALT	ALT
+33	202	ALT	ALT
+33	203	ALT	ALT
+34	35	ALT	ALT
+34	201	ALT	ALT
+34	202	ALT	ALT
+34	203	ALT	ALT
+35	201	ALT	ALT
+35	202	ALT	ALT
+35	203	ALT	ALT
+36	204	CiE	CiE
+37	38	COLT	COLT
+37	39	COLT	COLT
+37	40	COLT	COLT
+37	41	COLT	COLT
+37	42	COLT	COLT
+37	43	COLT	COLT
+37	44	COLT	COLT/EuroCOLT
+37	45	COLT	COLT
+37	46	COLT	COLT/EuroCOLT
+37	47	COLT	COLT
+37	48	COLT	COLT
+37	49	COLT	COLT
+37	50	COLT	COLT
+37	51	COLT	COLT
+37	52	COLT	COLT
+37	53	COLT	COLT
+37	54	COLT	COLT
+37	55	COLT	COLT
+37	56	COLT	COLT
+37	57	COLT	COLT
+37	58	COLT	COLT
+38	39	COLT	COLT
+38	40	COLT	COLT
+38	41	COLT	COLT
+38	42	COLT	COLT
+38	43	COLT	COLT
+38	44	COLT	COLT/EuroCOLT
+38	45	COLT	COLT
+38	46	COLT	COLT/EuroCOLT
+38	47	COLT	COLT
+38	48	COLT	COLT
+38	49	COLT	COLT
+38	50	COLT	COLT
+38	51	COLT	COLT
+38	52	COLT	COLT
+38	53	COLT	COLT
+38	54	COLT	COLT
+38	55	COLT	COLT
+38	56	COLT	COLT
+38	57	COLT	COLT
+38	58	COLT	COLT
+39	40	COLT	COLT
+39	41	COLT	COLT
+39	42	COLT	COLT
+39	43	COLT	COLT
+39	44	COLT	COLT/EuroCOLT
+39	45	COLT	COLT
+39	46	COLT	COLT/EuroCOLT
+39	47	COLT	COLT
+39	48	COLT	COLT
+39	49	COLT	COLT
+39	50	COLT	COLT
+39	51	COLT	COLT
+39	52	COLT	COLT
+39	53	COLT	COLT
+39	54	COLT	COLT
+39	55	COLT	COLT
+39	56	COLT	COLT
+39	57	COLT	COLT
+39	58	COLT	COLT
+40	41	COLT	COLT
+40	42	COLT	COLT
+40	43	COLT	COLT
+40	44	COLT	COLT/EuroCOLT
+40	45	COLT	COLT
+40	46	COLT	COLT/EuroCOLT
+40	47	COLT	COLT
+40	48	COLT	COLT
+40	49	COLT	COLT
+40	50	COLT	COLT
+40	51	COLT	COLT
+40	52	COLT	COLT
+40	53	COLT	COLT
+40	54	COLT	COLT
+40	55	COLT	COLT
+40	56	COLT	COLT
+40	57	COLT	COLT
+40	58	COLT	COLT
+41	42	COLT	COLT
+41	43	COLT	COLT
+41	44	COLT	COLT/EuroCOLT
+41	45	COLT	COLT
+41	46	COLT	COLT/EuroCOLT
+41	47	COLT	COLT
+41	48	COLT	COLT
+41	49	COLT	COLT
+41	50	COLT	COLT
+41	51	COLT	COLT
+41	52	COLT	COLT
+41	53	COLT	COLT
+41	54	COLT	COLT
+41	55	COLT	COLT
+41	56	COLT	COLT
+41	57	COLT	COLT
+41	58	COLT	COLT
+42	43	COLT	COLT
+42	44	COLT	COLT/EuroCOLT
+42	45	COLT	COLT
+42	46	COLT	COLT/EuroCOLT
+42	47	COLT	COLT
+42	48	COLT	COLT
+42	49	COLT	COLT
+42	50	COLT	COLT
+42	51	COLT	COLT
+42	52	COLT	COLT
+42	53	COLT	COLT
+42	54	COLT	COLT
+42	55	COLT	COLT
+42	56	COLT	COLT
+42	57	COLT	COLT
+42	58	COLT	COLT
+43	44	COLT	COLT/EuroCOLT
+43	45	COLT	COLT
+43	46	COLT	COLT/EuroCOLT
+43	47	COLT	COLT
+43	48	COLT	COLT
+43	49	COLT	COLT
+43	50	COLT	COLT
+43	51	COLT	COLT
+43	52	COLT	COLT
+43	53	COLT	COLT
+43	54	COLT	COLT
+43	55	COLT	COLT
+43	56	COLT	COLT
+43	57	COLT	COLT
+43	58	COLT	COLT
+44	45	COLT/EuroCOLT	COLT
+44	46	COLT/EuroCOLT	COLT/EuroCOLT
+44	47	COLT/EuroCOLT	COLT
+44	48	COLT/EuroCOLT	COLT
+44	49	COLT/EuroCOLT	COLT
+44	50	COLT/EuroCOLT	COLT
+44	51	COLT/EuroCOLT	COLT
+44	52	COLT/EuroCOLT	COLT
+44	53	COLT/EuroCOLT	COLT
+44	54	COLT/EuroCOLT	COLT
+44	55	COLT/EuroCOLT	COLT
+44	56	COLT/EuroCOLT	COLT
+44	57	COLT/EuroCOLT	COLT
+44	58	COLT/EuroCOLT	COLT
+44	59	COLT/EuroCOLT	EuroCOLT
+44	60	COLT/EuroCOLT	EuroCOLT
+44	61	COLT/EuroCOLT	EuroCOLT
+44	62	COLT/EuroCOLT	EuroCOLT
+44	63	COLT/EuroCOLT	EuroCOLT
+45	46	COLT	COLT/EuroCOLT
+45	47	COLT	COLT
+45	48	COLT	COLT
+45	49	COLT	COLT
+45	50	COLT	COLT
+45	51	COLT	COLT
+45	52	COLT	COLT
+45	53	COLT	COLT
+45	54	COLT	COLT
+45	55	COLT	COLT
+45	56	COLT	COLT
+45	57	COLT	COLT
+45	58	COLT	COLT
+46	47	COLT/EuroCOLT	COLT
+46	48	COLT/EuroCOLT	COLT
+46	49	COLT/EuroCOLT	COLT
+46	50	COLT/EuroCOLT	COLT
+46	51	COLT/EuroCOLT	COLT
+46	52	COLT/EuroCOLT	COLT
+46	53	COLT/EuroCOLT	COLT
+46	54	COLT/EuroCOLT	COLT
+46	55	COLT/EuroCOLT	COLT
+46	56	COLT/EuroCOLT	COLT
+46	57	COLT/EuroCOLT	COLT
+46	58	COLT/EuroCOLT	COLT
+46	59	COLT/EuroCOLT	EuroCOLT
+46	60	COLT/EuroCOLT	EuroCOLT
+46	61	COLT/EuroCOLT	EuroCOLT
+46	62	COLT/EuroCOLT	EuroCOLT
+46	63	COLT/EuroCOLT	EuroCOLT
+47	48	COLT	COLT
+47	49	COLT	COLT
+47	50	COLT	COLT
+47	51	COLT	COLT
+47	52	COLT	COLT
+47	53	COLT	COLT
+47	54	COLT	COLT
+47	55	COLT	COLT
+47	56	COLT	COLT
+47	57	COLT	COLT
+47	58	COLT	COLT
+48	49	COLT	COLT
+48	50	COLT	COLT
+48	51	COLT	COLT
+48	52	COLT	COLT
+48	53	COLT	COLT
+48	54	COLT	COLT
+48	55	COLT	COLT
+48	56	COLT	COLT
+48	57	COLT	COLT
+48	58	COLT	COLT
+49	50	COLT	COLT
+49	51	COLT	COLT
+49	52	COLT	COLT
+49	53	COLT	COLT
+49	54	COLT	COLT
+49	55	COLT	COLT
+49	56	COLT	COLT
+49	57	COLT	COLT
+49	58	COLT	COLT
+50	51	COLT	COLT
+50	52	COLT	COLT
+50	53	COLT	COLT
+50	54	COLT	COLT
+50	55	COLT	COLT
+50	56	COLT	COLT
+50	57	COLT	COLT
+50	58	COLT	COLT
+51	52	COLT	COLT
+51	53	COLT	COLT
+51	54	COLT	COLT
+51	55	COLT	COLT
+51	56	COLT	COLT
+51	57	COLT	COLT
+51	58	COLT	COLT
+52	53	COLT	COLT
+52	54	COLT	COLT
+52	55	COLT	COLT
+52	56	COLT	COLT
+52	57	COLT	COLT
+52	58	COLT	COLT
+53	54	COLT	COLT
+53	55	COLT	COLT
+53	56	COLT	COLT
+53	57	COLT	COLT
+53	58	COLT	COLT
+54	55	COLT	COLT
+54	56	COLT	COLT
+54	57	COLT	COLT
+54	58	COLT	COLT
+55	56	COLT	COLT
+55	57	COLT	COLT
+55	58	COLT	COLT
+56	57	COLT	COLT
+56	58	COLT	COLT
+57	58	COLT	COLT
+59	60	EuroCOLT	EuroCOLT
+59	61	EuroCOLT	EuroCOLT
+59	62	EuroCOLT	EuroCOLT
+59	63	EuroCOLT	EuroCOLT
+60	61	EuroCOLT	EuroCOLT
+60	62	EuroCOLT	EuroCOLT
+60	63	EuroCOLT	EuroCOLT
+61	62	EuroCOLT	EuroCOLT
+61	63	EuroCOLT	EuroCOLT
+62	63	EuroCOLT	EuroCOLT
+64	65	FSTTCS	FSTTCS
+64	66	FSTTCS	FSTTCS
+64	67	FSTTCS	FSTTCS
+65	66	FSTTCS	FSTTCS
+65	67	FSTTCS	FSTTCS
+66	67	FSTTCS	FSTTCS
+68	69	GOSLER Final Report	GOSLER Final Report
+73	74	LFCS	LFCS
+79	80	STACS	STACS
+81	82	TAMC	TAMC
+84	85	Winter Simulation Conference	Winter Simulation Conference
+84	86	Winter Simulation Conference	Winter Simulation Conference
+84	87	Winter Simulation Conference	Winter Simulation Conference
+84	88	Winter Simulation Conference	Winter Simulation Conference
+84	89	Winter Simulation Conference	Winter Simulation Conference
+84	90	Winter Simulation Conference	Winter Simulation Conference
+84	91	Winter Simulation Conference	Winter Simulation Conference
+84	92	Winter Simulation Conference	Winter Simulation Conference
+84	93	Winter Simulation Conference	Winter Simulation Conference
+84	94	Winter Simulation Conference	Winter Simulation Conference
+84	95	Winter Simulation Conference	Winter Simulation Conference
+84	96	Winter Simulation Conference	Winter Simulation Conference
+84	97	Winter Simulation Conference	Winter Simulation Conference
+84	98	Winter Simulation Conference	Winter Simulation Conference
+84	99	Winter Simulation Conference	Winter Simulation Conference
+84	100	Winter Simulation Conference	Winter Simulation Conference
+85	86	Winter Simulation Conference	Winter Simulation Conference
+85	87	Winter Simulation Conference	Winter Simulation Conference
+85	88	Winter Simulation Conference	Winter Simulation Conference
+85	89	Winter Simulation Conference	Winter Simulation Conference
+85	90	Winter Simulation Conference	Winter Simulation Conference
+85	91	Winter Simulation Conference	Winter Simulation Conference
+85	92	Winter Simulation Conference	Winter Simulation Conference
+85	93	Winter Simulation Conference	Winter Simulation Conference
+85	94	Winter Simulation Conference	Winter Simulation Conference
+85	95	Winter Simulation Conference	Winter Simulation Conference
+85	96	Winter Simulation Conference	Winter Simulation Conference
+85	97	Winter Simulation Conference	Winter Simulation Conference
+85	98	Winter Simulation Conference	Winter Simulation Conference
+85	99	Winter Simulation Conference	Winter Simulation Conference
+85	100	Winter Simulation Conference	Winter Simulation Conference
+86	87	Winter Simulation Conference	Winter Simulation Conference
+86	88	Winter Simulation Conference	Winter Simulation Conference
+86	89	Winter Simulation Conference	Winter Simulation Conference
+86	90	Winter Simulation Conference	Winter Simulation Conference
+86	91	Winter Simulation Conference	Winter Simulation Conference
+86	92	Winter Simulation Conference	Winter Simulation Conference
+86	93	Winter Simulation Conference	Winter Simulation Conference
+86	94	Winter Simulation Conference	Winter Simulation Conference
+86	95	Winter Simulation Conference	Winter Simulation Conference
+86	96	Winter Simulation Conference	Winter Simulation Conference
+86	97	Winter Simulation Conference	Winter Simulation Conference
+86	98	Winter Simulation Conference	Winter Simulation Conference
+86	99	Winter Simulation Conference	Winter Simulation Conference
+86	100	Winter Simulation Conference	Winter Simulation Conference
+87	88	Winter Simulation Conference	Winter Simulation Conference
+87	89	Winter Simulation Conference	Winter Simulation Conference
+87	90	Winter Simulation Conference	Winter Simulation Conference
+87	91	Winter Simulation Conference	Winter Simulation Conference
+87	92	Winter Simulation Conference	Winter Simulation Conference
+87	93	Winter Simulation Conference	Winter Simulation Conference
+87	94	Winter Simulation Conference	Winter Simulation Conference
+87	95	Winter Simulation Conference	Winter Simulation Conference
+87	96	Winter Simulation Conference	Winter Simulation Conference
+87	97	Winter Simulation Conference	Winter Simulation Conference
+87	98	Winter Simulation Conference	Winter Simulation Conference
+87	99	Winter Simulation Conference	Winter Simulation Conference
+87	100	Winter Simulation Conference	Winter Simulation Conference
+88	89	Winter Simulation Conference	Winter Simulation Conference
+88	90	Winter Simulation Conference	Winter Simulation Conference
+88	91	Winter Simulation Conference	Winter Simulation Conference
+88	92	Winter Simulation Conference	Winter Simulation Conference
+88	93	Winter Simulation Conference	Winter Simulation Conference
+88	94	Winter Simulation Conference	Winter Simulation Conference
+88	95	Winter Simulation Conference	Winter Simulation Conference
+88	96	Winter Simulation Conference	Winter Simulation Conference
+88	97	Winter Simulation Conference	Winter Simulation Conference
+88	98	Winter Simulation Conference	Winter Simulation Conference
+88	99	Winter Simulation Conference	Winter Simulation Conference
+88	100	Winter Simulation Conference	Winter Simulation Conference
+89	90	Winter Simulation Conference	Winter Simulation Conference
+89	91	Winter Simulation Conference	Winter Simulation Conference
+89	92	Winter Simulation Conference	Winter Simulation Conference
+89	93	Winter Simulation Conference	Winter Simulation Conference
+89	94	Winter Simulation Conference	Winter Simulation Conference
+89	95	Winter Simulation Conference	Winter Simulation Conference
+89	96	Winter Simulation Conference	Winter Simulation Conference
+89	97	Winter Simulation Conference	Winter Simulation Conference
+89	98	Winter Simulation Conference	Winter Simulation Conference
+89	99	Winter Simulation Conference	Winter Simulation Conference
+89	100	Winter Simulation Conference	Winter Simulation Conference
+90	91	Winter Simulation Conference	Winter Simulation Conference
+90	92	Winter Simulation Conference	Winter Simulation Conference
+90	93	Winter Simulation Conference	Winter Simulation Conference
+90	94	Winter Simulation Conference	Winter Simulation Conference
+90	95	Winter Simulation Conference	Winter Simulation Conference
+90	96	Winter Simulation Conference	Winter Simulation Conference
+90	97	Winter Simulation Conference	Winter Simulation Conference
+90	98	Winter Simulation Conference	Winter Simulation Conference
+90	99	Winter Simulation Conference	Winter Simulation Conference
+90	100	Winter Simulation Conference	Winter Simulation Conference
+91	92	Winter Simulation Conference	Winter Simulation Conference
+91	93	Winter Simulation Conference	Winter Simulation Conference
+91	94	Winter Simulation Conference	Winter Simulation Conference
+91	95	Winter Simulation Conference	Winter Simulation Conference
+91	96	Winter Simulation Conference	Winter Simulation Conference
+91	97	Winter Simulation Conference	Winter Simulation Conference
+91	98	Winter Simulation Conference	Winter Simulation Conference
+91	99	Winter Simulation Conference	Winter Simulation Conference
+91	100	Winter Simulation Conference	Winter Simulation Conference
+92	93	Winter Simulation Conference	Winter Simulation Conference
+92	94	Winter Simulation Conference	Winter Simulation Conference
+92	95	Winter Simulation Conference	Winter Simulation Conference
+92	96	Winter Simulation Conference	Winter Simulation Conference
+92	97	Winter Simulation Conference	Winter Simulation Conference
+92	98	Winter Simulation Conference	Winter Simulation Conference
+92	99	Winter Simulation Conference	Winter Simulation Conference
+92	100	Winter Simulation Conference	Winter Simulation Conference
+93	94	Winter Simulation Conference	Winter Simulation Conference
+93	95	Winter Simulation Conference	Winter Simulation Conference
+93	96	Winter Simulation Conference	Winter Simulation Conference
+93	97	Winter Simulation Conference	Winter Simulation Conference
+93	98	Winter Simulation Conference	Winter Simulation Conference
+93	99	Winter Simulation Conference	Winter Simulation Conference
+93	100	Winter Simulation Conference	Winter Simulation Conference
+94	95	Winter Simulation Conference	Winter Simulation Conference
+94	96	Winter Simulation Conference	Winter Simulation Conference
+94	97	Winter Simulation Conference	Winter Simulation Conference
+94	98	Winter Simulation Conference	Winter Simulation Conference
+94	99	Winter Simulation Conference	Winter Simulation Conference
+94	100	Winter Simulation Conference	Winter Simulation Conference
+95	96	Winter Simulation Conference	Winter Simulation Conference
+95	97	Winter Simulation Conference	Winter Simulation Conference
+95	98	Winter Simulation Conference	Winter Simulation Conference
+95	99	Winter Simulation Conference	Winter Simulation Conference
+95	100	Winter Simulation Conference	Winter Simulation Conference
+96	97	Winter Simulation Conference	Winter Simulation Conference
+96	98	Winter Simulation Conference	Winter Simulation Conference
+96	99	Winter Simulation Conference	Winter Simulation Conference
+96	100	Winter Simulation Conference	Winter Simulation Conference
+97	98	Winter Simulation Conference	Winter Simulation Conference
+97	99	Winter Simulation Conference	Winter Simulation Conference
+97	100	Winter Simulation Conference	Winter Simulation Conference
+98	99	Winter Simulation Conference	Winter Simulation Conference
+98	100	Winter Simulation Conference	Winter Simulation Conference
+99	100	Winter Simulation Conference	Winter Simulation Conference
+101	102	SCSC	SCSC
+105	106	Ann. Pure Appl. Logic	Ann. Pure Appl. Logic
+105	107	Ann. Pure Appl. Logic	Ann. Pure Appl. Logic
+106	107	Ann. Pure Appl. Logic	Ann. Pure Appl. Logic
+110	111	Electronic Colloquium on Computational Complexity (ECCC)	Electronic Colloquium on Computational Complexity (ECCC)
+112	113	Fundam. Inform.	Fundam. Inform.
+114	115	Inf. Comput.	Inf. Comput.
+114	116	Inf. Comput.	Inf. Comput.
+114	117	Inf. Comput.	Inf. Comput.
+114	118	Inf. Comput.	Inf. Comput.
+114	119	Inf. Comput.	Inf. Comput.
+114	120	Inf. Comput.	Inf. Comput.
+114	121	Inf. Comput.	Inf. Comput.
+114	122	Inf. Comput.	Inf. Comput.
+114	123	Inf. Comput.	Inf. Comput.
+114	124	Inf. Comput.	Inf. Comput.
+114	125	Inf. Comput.	Inf. Comput.
+114	126	Inf. Comput.	Inf. Comput.
+114	127	Inf. Comput.	Inf. Comput.
+114	128	Inf. Comput.	Inf. Comput.
+114	129	Inf. Comput.	Inf. Comput.
+114	130	Inf. Comput.	Inf. Comput.
+114	131	Inf. Comput.	Inf. Comput.
+114	132	Inf. Comput.	Inf. Comput.
+114	133	Inf. Comput.	Inf. Comput.
+114	134	Inf. Comput.	Inf. Comput.
+114	135	Inf. Comput.	Inf. Comput.
+115	116	Inf. Comput.	Inf. Comput.
+115	117	Inf. Comput.	Inf. Comput.
+115	118	Inf. Comput.	Inf. Comput.
+115	119	Inf. Comput.	Inf. Comput.
+115	120	Inf. Comput.	Inf. Comput.
+115	121	Inf. Comput.	Inf. Comput.
+115	122	Inf. Comput.	Inf. Comput.
+115	123	Inf. Comput.	Inf. Comput.
+115	124	Inf. Comput.	Inf. Comput.
+115	125	Inf. Comput.	Inf. Comput.
+115	126	Inf. Comput.	Inf. Comput.
+115	127	Inf. Comput.	Inf. Comput.
+115	128	Inf. Comput.	Inf. Comput.
+115	129	Inf. Comput.	Inf. Comput.
+115	130	Inf. Comput.	Inf. Comput.
+115	131	Inf. Comput.	Inf. Comput.
+115	132	Inf. Comput.	Inf. Comput.
+115	133	Inf. Comput.	Inf. Comput.
+115	134	Inf. Comput.	Inf. Comput.
+115	135	Inf. Comput.	Inf. Comput.
+116	117	Inf. Comput.	Inf. Comput.
+116	118	Inf. Comput.	Inf. Comput.
+116	119	Inf. Comput.	Inf. Comput.
+116	120	Inf. Comput.	Inf. Comput.
+116	121	Inf. Comput.	Inf. Comput.
+116	122	Inf. Comput.	Inf. Comput.
+116	123	Inf. Comput.	Inf. Comput.
+116	124	Inf. Comput.	Inf. Comput.
+116	125	Inf. Comput.	Inf. Comput.
+116	126	Inf. Comput.	Inf. Comput.
+116	127	Inf. Comput.	Inf. Comput.
+116	128	Inf. Comput.	Inf. Comput.
+116	129	Inf. Comput.	Inf. Comput.
+116	130	Inf. Comput.	Inf. Comput.
+116	131	Inf. Comput.	Inf. Comput.
+116	132	Inf. Comput.	Inf. Comput.
+116	133	Inf. Comput.	Inf. Comput.
+116	134	Inf. Comput.	Inf. Comput.
+116	135	Inf. Comput.	Inf. Comput.
+117	118	Inf. Comput.	Inf. Comput.
+117	119	Inf. Comput.	Inf. Comput.
+117	120	Inf. Comput.	Inf. Comput.
+117	121	Inf. Comput.	Inf. Comput.
+117	122	Inf. Comput.	Inf. Comput.
+117	123	Inf. Comput.	Inf. Comput.
+117	124	Inf. Comput.	Inf. Comput.
+117	125	Inf. Comput.	Inf. Comput.
+117	126	Inf. Comput.	Inf. Comput.
+117	127	Inf. Comput.	Inf. Comput.
+117	128	Inf. Comput.	Inf. Comput.
+117	129	Inf. Comput.	Inf. Comput.
+117	130	Inf. Comput.	Inf. Comput.
+117	131	Inf. Comput.	Inf. Comput.
+117	132	Inf. Comput.	Inf. Comput.
+117	133	Inf. Comput.	Inf. Comput.
+117	134	Inf. Comput.	Inf. Comput.
+117	135	Inf. Comput.	Inf. Comput.
+118	119	Inf. Comput.	Inf. Comput.
+118	120	Inf. Comput.	Inf. Comput.
+118	121	Inf. Comput.	Inf. Comput.
+118	122	Inf. Comput.	Inf. Comput.
+118	123	Inf. Comput.	Inf. Comput.
+118	124	Inf. Comput.	Inf. Comput.
+118	125	Inf. Comput.	Inf. Comput.
+118	126	Inf. Comput.	Inf. Comput.
+118	127	Inf. Comput.	Inf. Comput.
+118	128	Inf. Comput.	Inf. Comput.
+118	129	Inf. Comput.	Inf. Comput.
+118	130	Inf. Comput.	Inf. Comput.
+118	131	Inf. Comput.	Inf. Comput.
+118	132	Inf. Comput.	Inf. Comput.
+118	133	Inf. Comput.	Inf. Comput.
+118	134	Inf. Comput.	Inf. Comput.
+118	135	Inf. Comput.	Inf. Comput.
+119	120	Inf. Comput.	Inf. Comput.
+119	121	Inf. Comput.	Inf. Comput.
+119	122	Inf. Comput.	Inf. Comput.
+119	123	Inf. Comput.	Inf. Comput.
+119	124	Inf. Comput.	Inf. Comput.
+119	125	Inf. Comput.	Inf. Comput.
+119	126	Inf. Comput.	Inf. Comput.
+119	127	Inf. Comput.	Inf. Comput.
+119	128	Inf. Comput.	Inf. Comput.
+119	129	Inf. Comput.	Inf. Comput.
+119	130	Inf. Comput.	Inf. Comput.
+119	131	Inf. Comput.	Inf. Comput.
+119	132	Inf. Comput.	Inf. Comput.
+119	133	Inf. Comput.	Inf. Comput.
+119	134	Inf. Comput.	Inf. Comput.
+119	135	Inf. Comput.	Inf. Comput.
+120	121	Inf. Comput.	Inf. Comput.
+120	122	Inf. Comput.	Inf. Comput.
+120	123	Inf. Comput.	Inf. Comput.
+120	124	Inf. Comput.	Inf. Comput.
+120	125	Inf. Comput.	Inf. Comput.
+120	126	Inf. Comput.	Inf. Comput.
+120	127	Inf. Comput.	Inf. Comput.
+120	128	Inf. Comput.	Inf. Comput.
+120	129	Inf. Comput.	Inf. Comput.
+120	130	Inf. Comput.	Inf. Comput.
+120	131	Inf. Comput.	Inf. Comput.
+120	132	Inf. Comput.	Inf. Comput.
+120	133	Inf. Comput.	Inf. Comput.
+120	134	Inf. Comput.	Inf. Comput.
+120	135	Inf. Comput.	Inf. Comput.
+121	122	Inf. Comput.	Inf. Comput.
+121	123	Inf. Comput.	Inf. Comput.
+121	124	Inf. Comput.	Inf. Comput.
+121	125	Inf. Comput.	Inf. Comput.
+121	126	Inf. Comput.	Inf. Comput.
+121	127	Inf. Comput.	Inf. Comput.
+121	128	Inf. Comput.	Inf. Comput.
+121	129	Inf. Comput.	Inf. Comput.
+121	130	Inf. Comput.	Inf. Comput.
+121	131	Inf. Comput.	Inf. Comput.
+121	132	Inf. Comput.	Inf. Comput.
+121	133	Inf. Comput.	Inf. Comput.
+121	134	Inf. Comput.	Inf. Comput.
+121	135	Inf. Comput.	Inf. Comput.
+122	123	Inf. Comput.	Inf. Comput.
+122	124	Inf. Comput.	Inf. Comput.
+122	125	Inf. Comput.	Inf. Comput.
+122	126	Inf. Comput.	Inf. Comput.
+122	127	Inf. Comput.	Inf. Comput.
+122	128	Inf. Comput.	Inf. Comput.
+122	129	Inf. Comput.	Inf. Comput.
+122	130	Inf. Comput.	Inf. Comput.
+122	131	Inf. Comput.	Inf. Comput.
+122	132	Inf. Comput.	Inf. Comput.
+122	133	Inf. Comput.	Inf. Comput.
+122	134	Inf. Comput.	Inf. Comput.
+122	135	Inf. Comput.	Inf. Comput.
+123	124	Inf. Comput.	Inf. Comput.
+123	125	Inf. Comput.	Inf. Comput.
+123	126	Inf. Comput.	Inf. Comput.
+123	127	Inf. Comput.	Inf. Comput.
+123	128	Inf. Comput.	Inf. Comput.
+123	129	Inf. Comput.	Inf. Comput.
+123	130	Inf. Comput.	Inf. Comput.
+123	131	Inf. Comput.	Inf. Comput.
+123	132	Inf. Comput.	Inf. Comput.
+123	133	Inf. Comput.	Inf. Comput.
+123	134	Inf. Comput.	Inf. Comput.
+123	135	Inf. Comput.	Inf. Comput.
+124	125	Inf. Comput.	Inf. Comput.
+124	126	Inf. Comput.	Inf. Comput.
+124	127	Inf. Comput.	Inf. Comput.
+124	128	Inf. Comput.	Inf. Comput.
+124	129	Inf. Comput.	Inf. Comput.
+124	130	Inf. Comput.	Inf. Comput.
+124	131	Inf. Comput.	Inf. Comput.
+124	132	Inf. Comput.	Inf. Comput.
+124	133	Inf. Comput.	Inf. Comput.
+124	134	Inf. Comput.	Inf. Comput.
+124	135	Inf. Comput.	Inf. Comput.
+125	126	Inf. Comput.	Inf. Comput.
+125	127	Inf. Comput.	Inf. Comput.
+125	128	Inf. Comput.	Inf. Comput.
+125	129	Inf. Comput.	Inf. Comput.
+125	130	Inf. Comput.	Inf. Comput.
+125	131	Inf. Comput.	Inf. Comput.
+125	132	Inf. Comput.	Inf. Comput.
+125	133	Inf. Comput.	Inf. Comput.
+125	134	Inf. Comput.	Inf. Comput.
+125	135	Inf. Comput.	Inf. Comput.
+126	127	Inf. Comput.	Inf. Comput.
+126	128	Inf. Comput.	Inf. Comput.
+126	129	Inf. Comput.	Inf. Comput.
+126	130	Inf. Comput.	Inf. Comput.
+126	131	Inf. Comput.	Inf. Comput.
+126	132	Inf. Comput.	Inf. Comput.
+126	133	Inf. Comput.	Inf. Comput.
+126	134	Inf. Comput.	Inf. Comput.
+126	135	Inf. Comput.	Inf. Comput.
+127	128	Inf. Comput.	Inf. Comput.
+127	129	Inf. Comput.	Inf. Comput.
+127	130	Inf. Comput.	Inf. Comput.
+127	131	Inf. Comput.	Inf. Comput.
+127	132	Inf. Comput.	Inf. Comput.
+127	133	Inf. Comput.	Inf. Comput.
+127	134	Inf. Comput.	Inf. Comput.
+127	135	Inf. Comput.	Inf. Comput.
+128	129	Inf. Comput.	Inf. Comput.
+128	130	Inf. Comput.	Inf. Comput.
+128	131	Inf. Comput.	Inf. Comput.
+128	132	Inf. Comput.	Inf. Comput.
+128	133	Inf. Comput.	Inf. Comput.
+128	134	Inf. Comput.	Inf. Comput.
+128	135	Inf. Comput.	Inf. Comput.
+129	130	Inf. Comput.	Inf. Comput.
+129	131	Inf. Comput.	Inf. Comput.
+129	132	Inf. Comput.	Inf. Comput.
+129	133	Inf. Comput.	Inf. Comput.
+129	134	Inf. Comput.	Inf. Comput.
+129	135	Inf. Comput.	Inf. Comput.
+130	131	Inf. Comput.	Inf. Comput.
+130	132	Inf. Comput.	Inf. Comput.
+130	133	Inf. Comput.	Inf. Comput.
+130	134	Inf. Comput.	Inf. Comput.
+130	135	Inf. Comput.	Inf. Comput.
+131	132	Inf. Comput.	Inf. Comput.
+131	133	Inf. Comput.	Inf. Comput.
+131	134	Inf. Comput.	Inf. Comput.
+131	135	Inf. Comput.	Inf. Comput.
+132	133	Inf. Comput.	Inf. Comput.
+132	134	Inf. Comput.	Inf. Comput.
+132	135	Inf. Comput.	Inf. Comput.
+133	134	Inf. Comput.	Inf. Comput.
+133	135	Inf. Comput.	Inf. Comput.
+134	135	Inf. Comput.	Inf. Comput.
+136	137	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+136	138	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+136	139	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+136	140	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+137	138	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+137	139	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+137	140	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+138	139	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+138	140	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+139	140	Int. J. Found. Comput. Sci.	Int. J. Found. Comput. Sci.
+141	142	Inf. Process. Lett.	Inf. Process. Lett.
+141	143	Inf. Process. Lett.	Inf. Process. Lett.
+141	144	Inf. Process. Lett.	Inf. Process. Lett.
+141	205	Inf. Process. Lett.	Inf. Process. Lett.
+142	143	Inf. Process. Lett.	Inf. Process. Lett.
+142	144	Inf. Process. Lett.	Inf. Process. Lett.
+142	205	Inf. Process. Lett.	Inf. Process. Lett.
+143	144	Inf. Process. Lett.	Inf. Process. Lett.
+143	205	Inf. Process. Lett.	Inf. Process. Lett.
+144	205	Inf. Process. Lett.	Inf. Process. Lett.
+146	147	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	148	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	149	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	150	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	151	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	152	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	153	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+146	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	148	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	149	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	150	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	151	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	152	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	153	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+147	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	149	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	150	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	151	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	152	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	153	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+148	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	150	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	151	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	152	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	153	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+149	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	151	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	152	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	153	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+150	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	152	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	153	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+151	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	153	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+152	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	154	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+153	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	155	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+154	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+155	156	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+155	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+155	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+155	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+155	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+155	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+155	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+156	157	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+156	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+156	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+156	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+156	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+156	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+157	158	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+157	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+157	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+157	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+157	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+158	159	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+158	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+158	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+158	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+159	160	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+159	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+159	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+160	161	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+160	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+161	162	J. Comput. Syst. Sci.	J. Comput. Syst. Sci.
+163	164	J. Exp. Theor. Artif. Intell.	J. Exp. Theor. Artif. Intell.
+163	165	J. Exp. Theor. Artif. Intell.	J. Exp. Theor. Artif. Intell.
+164	165	J. Exp. Theor. Artif. Intell.	J. Exp. Theor. Artif. Intell.
+166	167	J. Symb. Log.	J. Symb. Log.
+166	168	J. Symb. Log.	J. Symb. Log.
+167	168	J. Symb. Log.	J. Symb. Log.
+169	207	Theory Comput. Syst.	Theory Comput. Syst.
+171	172	SIAM J. Comput.	SIAM J. Comput.
+171	173	SIAM J. Comput.	SIAM J. Comput.
+172	173	SIAM J. Comput.	SIAM J. Comput.
+174	175	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	176	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	177	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	178	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	179	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	180	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	181	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+174	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	176	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	177	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	178	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	179	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	180	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	181	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+175	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	177	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	178	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	179	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	180	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	181	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+176	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	178	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	179	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	180	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	181	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+177	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	179	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	180	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	181	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+178	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	180	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	181	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+179	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	181	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+180	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	182	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+181	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	183	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+182	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	184	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+183	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	185	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+184	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	186	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+185	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	187	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+186	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	188	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+187	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	189	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+188	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	190	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+189	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	191	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+190	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	192	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+191	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	193	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+192	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+193	194	Theor. Comput. Sci.	Theor. Comput. Sci.
+193	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+193	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+193	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+193	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+193	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+193	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+194	195	Theor. Comput. Sci.	Theor. Comput. Sci.
+194	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+194	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+194	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+194	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+194	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+195	196	Theor. Comput. Sci.	Theor. Comput. Sci.
+195	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+195	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+195	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+195	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+196	197	Theor. Comput. Sci.	Theor. Comput. Sci.
+196	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+196	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+196	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+197	198	Theor. Comput. Sci.	Theor. Comput. Sci.
+197	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+197	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+198	199	Theor. Comput. Sci.	Theor. Comput. Sci.
+198	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+199	200	Theor. Comput. Sci.	Theor. Comput. Sci.
+201	202	ALT	ALT
+201	203	ALT	ALT
+202	203	ALT	ALT
+208	211	Management Science	Management Science
+208	212	Management Science	Management Science
+209	215	Information and Computation	Information and Computation
+211	212	Management Science	Management Science

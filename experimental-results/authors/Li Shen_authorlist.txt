@@ -1,0 +1,458 @@
+0	14	Haruo Takemura	Haruo Takemura
+1	2	Heng Huang	Heng Huang
+1	2	Rong Zhang	Rong Zhang
+1	2	Fillia Makedon	Fillia Makedon
+1	2	Justin D. Pearlman	Justin D. Pearlman
+1	11	Heng Huang	Heng Huang
+1	12	Heng Huang	Heng Huang
+1	12	Fillia Makedon	Fillia Makedon
+1	13	Heng Huang	Heng Huang
+1	13	Rong Zhang	Rong Zhang
+1	13	Fillia Makedon	Fillia Makedon
+1	13	Justin D. Pearlman	Justin D. Pearlman
+1	18	Fillia Makedon	Fillia Makedon
+1	21	Heng Huang	Heng Huang
+1	27	Fillia Makedon	Fillia Makedon
+1	28	Fillia Makedon	Fillia Makedon
+1	29	Fillia Makedon	Fillia Makedon
+1	31	Heng Huang	Heng Huang
+1	31	Rong Zhang	Rong Zhang
+1	31	Fillia Makedon	Fillia Makedon
+1	31	Justin D. Pearlman	Justin D. Pearlman
+1	32	Heng Huang	Heng Huang
+1	32	Rong Zhang	Rong Zhang
+1	32	Fillia Makedon	Fillia Makedon
+1	32	Justin D. Pearlman	Justin D. Pearlman
+1	33	Fillia Makedon	Fillia Makedon
+1	36	Heng Huang	Heng Huang
+1	36	Fillia Makedon	Fillia Makedon
+1	36	Justin D. Pearlman	Justin D. Pearlman
+1	38	Fillia Makedon	Fillia Makedon
+1	39	Fillia Makedon	Fillia Makedon
+1	40	Fillia Makedon	Fillia Makedon
+1	45	Fillia Makedon	Fillia Makedon
+1	47	Fillia Makedon	Fillia Makedon
+1	55	Heng Huang	Heng Huang
+1	55	Rong Zhang	Rong Zhang
+1	55	Fillia Makedon	Fillia Makedon
+1	55	Justin D. Pearlman	Justin D. Pearlman
+1	61	Heng Huang	Heng Huang
+2	11	Heng Huang	Heng Huang
+2	12	Heng Huang	Heng Huang
+2	12	Fillia Makedon	Fillia Makedon
+2	13	Heng Huang	Heng Huang
+2	13	Rong Zhang	Rong Zhang
+2	13	Fillia Makedon	Fillia Makedon
+2	13	Justin D. Pearlman	Justin D. Pearlman
+2	18	Fillia Makedon	Fillia Makedon
+2	21	Heng Huang	Heng Huang
+2	27	Fillia Makedon	Fillia Makedon
+2	28	Fillia Makedon	Fillia Makedon
+2	29	Fillia Makedon	Fillia Makedon
+2	31	Heng Huang	Heng Huang
+2	31	Rong Zhang	Rong Zhang
+2	31	Fillia Makedon	Fillia Makedon
+2	31	Justin D. Pearlman	Justin D. Pearlman
+2	32	Heng Huang	Heng Huang
+2	32	Rong Zhang	Rong Zhang
+2	32	Fillia Makedon	Fillia Makedon
+2	32	Justin D. Pearlman	Justin D. Pearlman
+2	33	Fillia Makedon	Fillia Makedon
+2	36	Heng Huang	Heng Huang
+2	36	Fillia Makedon	Fillia Makedon
+2	36	Justin D. Pearlman	Justin D. Pearlman
+2	38	Fillia Makedon	Fillia Makedon
+2	39	Fillia Makedon	Fillia Makedon
+2	40	Fillia Makedon	Fillia Makedon
+2	45	Fillia Makedon	Fillia Makedon
+2	47	Fillia Makedon	Fillia Makedon
+2	55	Heng Huang	Heng Huang
+2	55	Rong Zhang	Rong Zhang
+2	55	Fillia Makedon	Fillia Makedon
+2	55	Justin D. Pearlman	Justin D. Pearlman
+2	61	Heng Huang	Heng Huang
+3	11	Moo K. Chung	Moo K. Chung
+3	30	Moo K. Chung	Moo K. Chung
+3	56	Moo K. Chung	Moo K. Chung
+5	6	Eng Chong Tan	Eng Chong Tan
+5	22	Eng Chong Tan	Eng Chong Tan
+5	44	Eng Chong Tan	Eng Chong Tan
+5	54	Eng Chong Tan	Eng Chong Tan
+6	22	Eng Chong Tan	Eng Chong Tan
+6	44	Eng Chong Tan	Eng Chong Tan
+6	54	Eng Chong Tan	Eng Chong Tan
+7	8	Zhiying Wang	Zhiying Wang
+7	16	Zhiying Wang	Zhiying Wang
+7	19	Zhiying Wang	Zhiying Wang
+7	42	Zhiying Wang	Zhiying Wang
+7	43	Zhiying Wang	Zhiying Wang
+7	58	Zhiying Wang	Zhiying Wang
+7	60	Zhiying Wang	Zhiying Wang
+7	62	Zhiying Wang	Zhiying Wang
+7	65	Zhiying Wang	Zhi-ying Wang
+7	67	Zhiying Wang	Zhi-ying Wang
+8	16	Libo Huang	Libo Huang
+8	16	Zhiying Wang	Zhiying Wang
+8	19	Kui Dai	Kui Dai
+8	19	Zhiying Wang	Zhiying Wang
+8	41	Libo Huang	Libo Huang
+8	41	Kui Dai	Kui Dai
+8	42	Libo Huang	Libo Huang
+8	42	Kui Dai	Kui Dai
+8	42	Zhiying Wang	Zhiying Wang
+8	43	Zhiying Wang	Zhiying Wang
+8	58	Zhiying Wang	Zhiying Wang
+8	60	Zhiying Wang	Zhiying Wang
+8	62	Zhiying Wang	Zhiying Wang
+8	65	Kui Dai	Kui Dai
+8	65	Zhiying Wang	Zhi-ying Wang
+8	67	Kui Dai	Kui Dai
+8	67	Zhiying Wang	Zhi-ying Wang
+11	12	Andrew J. Saykin	Andrew J. Saykin
+11	12	Heng Huang	Heng Huang
+11	13	Heng Huang	Heng Huang
+11	18	Andrew J. Saykin	Andrew J. Saykin
+11	21	Heng Huang	Heng Huang
+11	30	Moo K. Chung	Moo K. Chung
+11	31	Heng Huang	Heng Huang
+11	32	Heng Huang	Heng Huang
+11	33	Andrew J. Saykin	Andrew J. Saykin
+11	36	Heng Huang	Heng Huang
+11	39	Andrew J. Saykin	Andrew J. Saykin
+11	45	Andrew J. Saykin	Andrew J. Saykin
+11	55	Andrew J. Saykin	Andrew J. Saykin
+11	55	Heng Huang	Heng Huang
+11	56	Moo K. Chung	Moo K. Chung
+11	61	Heng Huang	Heng Huang
+11	64	Andrew J. Saykin	Andrew J. Saykin
+11	66	Andrew J. Saykin	Andrew J. Saykin
+12	13	Heng Huang	Heng Huang
+12	13	Fillia Makedon	Fillia Makedon
+12	18	Fillia Makedon	Fillia Makedon
+12	18	Andrew J. Saykin	Andrew J. Saykin
+12	21	Heng Huang	Heng Huang
+12	27	Fillia Makedon	Fillia Makedon
+12	28	Fillia Makedon	Fillia Makedon
+12	29	Fillia Makedon	Fillia Makedon
+12	31	Heng Huang	Heng Huang
+12	31	Fillia Makedon	Fillia Makedon
+12	32	Heng Huang	Heng Huang
+12	32	Fillia Makedon	Fillia Makedon
+12	33	Fillia Makedon	Fillia Makedon
+12	33	Andrew J. Saykin	Andrew J. Saykin
+12	36	Heng Huang	Heng Huang
+12	36	Fillia Makedon	Fillia Makedon
+12	38	Fillia Makedon	Fillia Makedon
+12	39	Fillia Makedon	Fillia Makedon
+12	39	Andrew J. Saykin	Andrew J. Saykin
+12	40	Fillia Makedon	Fillia Makedon
+12	45	Fillia Makedon	Fillia Makedon
+12	45	Andrew J. Saykin	Andrew J. Saykin
+12	47	Fillia Makedon	Fillia Makedon
+12	55	Heng Huang	Heng Huang
+12	55	Fillia Makedon	Fillia Makedon
+12	55	Andrew J. Saykin	Andrew J. Saykin
+12	61	Heng Huang	Heng Huang
+12	64	Andrew J. Saykin	Andrew J. Saykin
+12	66	Andrew J. Saykin	Andrew J. Saykin
+13	18	Fillia Makedon	Fillia Makedon
+13	21	Heng Huang	Heng Huang
+13	27	Fillia Makedon	Fillia Makedon
+13	28	Fillia Makedon	Fillia Makedon
+13	29	Fillia Makedon	Fillia Makedon
+13	31	Heng Huang	Heng Huang
+13	31	Rong Zhang	Rong Zhang
+13	31	Fillia Makedon	Fillia Makedon
+13	31	Bruce Hettleman	Bruce Hettleman
+13	31	Justin D. Pearlman	Justin D. Pearlman
+13	32	Heng Huang	Heng Huang
+13	32	Rong Zhang	Rong Zhang
+13	32	Fillia Makedon	Fillia Makedon
+13	32	Bruce Hettleman	Bruce Hettleman
+13	32	Justin D. Pearlman	Justin D. Pearlman
+13	33	Fillia Makedon	Fillia Makedon
+13	36	Heng Huang	Heng Huang
+13	36	Fillia Makedon	Fillia Makedon
+13	36	Justin D. Pearlman	Justin D. Pearlman
+13	38	Fillia Makedon	Fillia Makedon
+13	39	Fillia Makedon	Fillia Makedon
+13	40	Fillia Makedon	Fillia Makedon
+13	45	Fillia Makedon	Fillia Makedon
+13	47	Fillia Makedon	Fillia Makedon
+13	55	Heng Huang	Heng Huang
+13	55	Rong Zhang	Rong Zhang
+13	55	Fillia Makedon	Fillia Makedon
+13	55	Justin D. Pearlman	Justin D. Pearlman
+13	61	Heng Huang	Heng Huang
+15	63	Ping Tan	Ping Tan
+16	19	Zhiying Wang	Zhiying Wang
+16	41	Libo Huang	Libo Huang
+16	42	Libo Huang	Libo Huang
+16	42	Zhiying Wang	Zhiying Wang
+16	43	Zhiying Wang	Zhiying Wang
+16	43	Nong Xiao	Nong Xiao
+16	58	Ya-shuai Lu	Ya-shuai Lu
+16	58	Zhiying Wang	Zhiying Wang
+16	58	Nong Xiao	Nong Xiao
+16	60	Zhiying Wang	Zhiying Wang
+16	60	Nong Xiao	Nong Xiao
+16	62	Zhiying Wang	Zhiying Wang
+16	62	Nong Xiao	Nong Xiao
+16	65	Zhiying Wang	Zhi-ying Wang
+16	67	Zhiying Wang	Zhi-ying Wang
+17	46	Hong Shen	Hong Shen
+17	51	Hong Shen	Hong Shen
+18	27	Fillia Makedon	Fillia Makedon
+18	28	Fillia Makedon	Fillia Makedon
+18	28	James Ford	James Ford
+18	29	Fillia Makedon	Fillia Makedon
+18	29	James Ford	James Ford
+18	29	Tilmann Steinberg	Tilmann Steinberg
+18	29	Sarantos Kapidakis	Sarantos Kapidakis
+18	31	Fillia Makedon	Fillia Makedon
+18	32	Fillia Makedon	Fillia Makedon
+18	33	Fillia Makedon	Fillia Makedon
+18	33	James Ford	James Ford
+18	33	Tilmann Steinberg	Tilmann Steinberg
+18	33	Andrew J. Saykin	Andrew J. Saykin
+18	36	Fillia Makedon	Fillia Makedon
+18	38	Fillia Makedon	Fillia Makedon
+18	38	James Ford	James Ford
+18	38	Sarantos Kapidakis	Sarantos Kapidakis
+18	39	Fillia Makedon	Fillia Makedon
+18	39	Tilmann Steinberg	Tilmann Steinberg
+18	39	Andrew J. Saykin	Andrew J. Saykin
+18	39	Heather Wishart	Heather Wishart
+18	40	Fillia Makedon	Fillia Makedon
+18	40	James Ford	James Ford
+18	40	Tilmann Steinberg	Tilmann Steinberg
+18	45	Fillia Makedon	Fillia Makedon
+18	45	James Ford	James Ford
+18	45	Andrew J. Saykin	Andrew J. Saykin
+18	47	Fillia Makedon	Fillia Makedon
+18	55	Fillia Makedon	Fillia Makedon
+18	55	Andrew J. Saykin	Andrew J. Saykin
+18	64	Andrew J. Saykin	Andrew J. Saykin
+18	66	Andrew J. Saykin	Andrew J. Saykin
+19	41	Ming-che Lai	Ming-che Lai
+19	41	Kui Dai	Kui Dai
+19	42	Kui Dai	Kui Dai
+19	42	Zhiying Wang	Zhiying Wang
+19	43	Zhiying Wang	Zhiying Wang
+19	58	Zhiying Wang	Zhiying Wang
+19	60	Zhiying Wang	Zhiying Wang
+19	62	Zhiying Wang	Zhiying Wang
+19	65	Kui Dai	Kui Dai
+19	65	Zhiying Wang	Zhi-ying Wang
+19	67	Kui Dai	Kui Dai
+19	67	Zhiying Wang	Zhi-ying Wang
+20	25	Stephen Y. H. Su	Stephen Y. H. Su
+20	53	Stephen Y. H. Su	Stephen Y. H. Su
+21	31	Heng Huang	Heng Huang
+21	32	Heng Huang	Heng Huang
+21	36	Heng Huang	Heng Huang
+21	55	Heng Huang	Heng Huang
+21	61	Heng Huang	Heng Huang
+22	44	Eng Chong Tan	Eng Chong Tan
+22	54	Eng Chong Tan	Eng Chong Tan
+23	26	Peizhong Lu	Peizhong Lu
+23	26	Xiangyang Luo	Xiangyang Luo
+25	53	Stephen Y. H. Su	Stephen Y. H. Su
+27	28	Fillia Makedon	Fillia Makedon
+27	29	Fillia Makedon	Fillia Makedon
+27	31	Fillia Makedon	Fillia Makedon
+27	32	Fillia Makedon	Fillia Makedon
+27	33	Fillia Makedon	Fillia Makedon
+27	36	Fillia Makedon	Fillia Makedon
+27	38	Fillia Makedon	Fillia Makedon
+27	39	Fillia Makedon	Fillia Makedon
+27	40	Fillia Makedon	Fillia Makedon
+27	45	Fillia Makedon	Fillia Makedon
+27	47	Fillia Makedon	Fillia Makedon
+27	55	Fillia Makedon	Fillia Makedon
+28	29	Yuhang Wang	Yuhang Wang
+28	29	Fillia Makedon	Fillia Makedon
+28	29	James Ford	James Ford
+28	31	Fillia Makedon	Fillia Makedon
+28	32	Fillia Makedon	Fillia Makedon
+28	33	Yuhang Wang	Yuhang Wang
+28	33	Fillia Makedon	Fillia Makedon
+28	33	James Ford	James Ford
+28	36	Fillia Makedon	Fillia Makedon
+28	38	Fillia Makedon	Fillia Makedon
+28	38	James Ford	James Ford
+28	39	Yuhang Wang	Yuhang Wang
+28	39	Fillia Makedon	Fillia Makedon
+28	40	Fillia Makedon	Fillia Makedon
+28	40	James Ford	James Ford
+28	45	Fillia Makedon	Fillia Makedon
+28	45	James Ford	James Ford
+28	47	Fillia Makedon	Fillia Makedon
+28	55	Fillia Makedon	Fillia Makedon
+29	31	Fillia Makedon	Fillia Makedon
+29	32	Fillia Makedon	Fillia Makedon
+29	33	Song Ye	Song Ye
+29	33	Fillia Makedon	Fillia Makedon
+29	33	Tilmann Steinberg	Tilmann Steinberg
+29	33	James Ford	James Ford
+29	33	Yuhang Wang	Yuhang Wang
+29	36	Fillia Makedon	Fillia Makedon
+29	38	Song Ye	Song Ye
+29	38	Fillia Makedon	Fillia Makedon
+29	38	James Ford	James Ford
+29	38	Sarantos Kapidakis	Sarantos Kapidakis
+29	39	Fillia Makedon	Fillia Makedon
+29	39	Tilmann Steinberg	Tilmann Steinberg
+29	39	Yuhang Wang	Yuhang Wang
+29	40	Fillia Makedon	Fillia Makedon
+29	40	Tilmann Steinberg	Tilmann Steinberg
+29	40	James Ford	James Ford
+29	45	Fillia Makedon	Fillia Makedon
+29	45	James Ford	James Ford
+29	47	Fillia Makedon	Fillia Makedon
+29	55	Fillia Makedon	Fillia Makedon
+30	56	Moo K. Chung	Moo K. Chung
+30	56	Kim M. Dalton	Kim M. Dalton
+30	56	Richard J. Davidson	Richard J. Davidson
+31	32	Heng Huang	Heng Huang
+31	32	Rong Zhang	Rong Zhang
+31	32	Fillia Makedon	Fillia Makedon
+31	32	Bruce Hettleman	Bruce Hettleman
+31	32	Justin D. Pearlman	Justin D. Pearlman
+31	33	Fillia Makedon	Fillia Makedon
+31	36	Heng Huang	Heng Huang
+31	36	Fillia Makedon	Fillia Makedon
+31	36	Justin D. Pearlman	Justin D. Pearlman
+31	38	Fillia Makedon	Fillia Makedon
+31	39	Fillia Makedon	Fillia Makedon
+31	40	Fillia Makedon	Fillia Makedon
+31	45	Fillia Makedon	Fillia Makedon
+31	47	Fillia Makedon	Fillia Makedon
+31	55	Heng Huang	Heng Huang
+31	55	Rong Zhang	Rong Zhang
+31	55	Fillia Makedon	Fillia Makedon
+31	55	Justin D. Pearlman	Justin D. Pearlman
+31	61	Heng Huang	Heng Huang
+32	33	Fillia Makedon	Fillia Makedon
+32	36	Heng Huang	Heng Huang
+32	36	Fillia Makedon	Fillia Makedon
+32	36	Justin D. Pearlman	Justin D. Pearlman
+32	38	Fillia Makedon	Fillia Makedon
+32	39	Fillia Makedon	Fillia Makedon
+32	40	Fillia Makedon	Fillia Makedon
+32	45	Fillia Makedon	Fillia Makedon
+32	47	Fillia Makedon	Fillia Makedon
+32	55	Heng Huang	Heng Huang
+32	55	Rong Zhang	Rong Zhang
+32	55	Fillia Makedon	Fillia Makedon
+32	55	Justin D. Pearlman	Justin D. Pearlman
+32	61	Heng Huang	Heng Huang
+33	36	Fillia Makedon	Fillia Makedon
+33	38	James Ford	James Ford
+33	38	Fillia Makedon	Fillia Makedon
+33	38	Song Ye	Song Ye
+33	39	Fillia Makedon	Fillia Makedon
+33	39	Yuhang Wang	Yuhang Wang
+33	39	Tilmann Steinberg	Tilmann Steinberg
+33	39	Andrew J. Saykin	Andrew J. Saykin
+33	40	James Ford	James Ford
+33	40	Fillia Makedon	Fillia Makedon
+33	40	Tilmann Steinberg	Tilmann Steinberg
+33	45	James Ford	James Ford
+33	45	Fillia Makedon	Fillia Makedon
+33	45	Andrew J. Saykin	Andrew J. Saykin
+33	47	Fillia Makedon	Fillia Makedon
+33	55	Fillia Makedon	Fillia Makedon
+33	55	Andrew J. Saykin	Andrew J. Saykin
+33	64	Andrew J. Saykin	Andrew J. Saykin
+33	66	Andrew J. Saykin	Andrew J. Saykin
+34	48	Pin Liao	Pin Liao
+34	49	Pin Liao	Pin Liao
+36	38	Fillia Makedon	Fillia Makedon
+36	38	Sheng Zhang	Sheng Zhang
+36	39	Fillia Makedon	Fillia Makedon
+36	40	Fillia Makedon	Fillia Makedon
+36	45	Fillia Makedon	Fillia Makedon
+36	47	Fillia Makedon	Fillia Makedon
+36	55	Heng Huang	Heng Huang
+36	55	Fillia Makedon	Fillia Makedon
+36	55	Justin D. Pearlman	Justin D. Pearlman
+36	61	Heng Huang	Heng Huang
+38	39	Fillia Makedon	Fillia Makedon
+38	40	Fillia Makedon	Fillia Makedon
+38	40	James Ford	James Ford
+38	45	Fillia Makedon	Fillia Makedon
+38	45	James Ford	James Ford
+38	47	Fillia Makedon	Fillia Makedon
+38	55	Fillia Makedon	Fillia Makedon
+39	40	Tilmann Steinberg	Tilmann Steinberg
+39	40	Fillia Makedon	Fillia Makedon
+39	45	Fillia Makedon	Fillia Makedon
+39	45	Andrew J. Saykin	Andrew J. Saykin
+39	47	Fillia Makedon	Fillia Makedon
+39	55	Fillia Makedon	Fillia Makedon
+39	55	Andrew J. Saykin	Andrew J. Saykin
+39	64	Andrew J. Saykin	Andrew J. Saykin
+39	66	Andrew J. Saykin	Andrew J. Saykin
+40	45	James Ford	James Ford
+40	45	Fillia Makedon	Fillia Makedon
+40	46	Ling Cheng	Ling Cheng
+40	47	Fillia Makedon	Fillia Makedon
+40	51	Ling Cheng	Ling Cheng
+40	55	Fillia Makedon	Fillia Makedon
+41	42	Libo Huang	Libo Huang
+41	42	Kui Dai	Kui Dai
+41	65	Kui Dai	Kui Dai
+41	67	Kui Dai	Kui Dai
+42	43	Zhiying Wang	Zhiying Wang
+42	58	Zhiying Wang	Zhiying Wang
+42	60	Zhiying Wang	Zhiying Wang
+42	62	Zhiying Wang	Zhiying Wang
+42	65	Kui Dai	Kui Dai
+42	65	Zhiying Wang	Zhi-ying Wang
+42	67	Xinbiao Gan	Xin-biao Gan
+42	67	Kui Dai	Kui Dai
+42	67	Zhiying Wang	Zhi-ying Wang
+43	58	Zhiying Wang	Zhiying Wang
+43	58	Nong Xiao	Nong Xiao
+43	60	Wei Chen	Wei Chen
+43	60	Hongyi Lu	Hongyi Lu
+43	60	Zhiying Wang	Zhiying Wang
+43	60	Nong Xiao	Nong Xiao
+43	62	Wei Chen	Wei Chen
+43	62	Hongyi Lu	Hongyi Lu
+43	62	Zhiying Wang	Zhiying Wang
+43	62	Nong Xiao	Nong Xiao
+43	65	Zhiying Wang	Zhi-ying Wang
+43	67	Zhiying Wang	Zhi-ying Wang
+44	54	Eng Chong Tan	Eng Chong Tan
+45	47	Fillia Makedon	Fillia Makedon
+45	55	Fillia Makedon	Fillia Makedon
+45	55	Andrew J. Saykin	Andrew J. Saykin
+45	64	Andrew J. Saykin	Andrew J. Saykin
+45	66	Andrew J. Saykin	Andrew J. Saykin
+46	51	Hong Shen	Hong Shen
+46	51	Ling Cheng	Ling Cheng
+47	55	Fillia Makedon	Fillia Makedon
+48	49	Pin Liao	Pin Liao
+55	61	Heng Huang	Heng Huang
+55	64	Andrew J. Saykin	Andrew J. Saykin
+55	66	Andrew J. Saykin	Andrew J. Saykin
+58	60	Zhiying Wang	Zhiying Wang
+58	60	Nong Xiao	Nong Xiao
+58	62	Zhiying Wang	Zhiying Wang
+58	62	Nong Xiao	Nong Xiao
+58	65	Zhiying Wang	Zhi-ying Wang
+58	67	Zhiying Wang	Zhi-ying Wang
+60	62	Wei Chen	Wei Chen
+60	62	Hongyi Lu	Hongyi Lu
+60	62	Zhiying Wang	Zhiying Wang
+60	62	Nong Xiao	Nong Xiao
+60	65	Zhiying Wang	Zhi-ying Wang
+60	67	Zhiying Wang	Zhi-ying Wang
+62	65	Zhiying Wang	Zhi-ying Wang
+62	67	Zhiying Wang	Zhi-ying Wang
+64	66	Sungeun Kim	Sungeun Kim
+64	66	Andrew J. Saykin	Andrew J. Saykin
+65	67	Zhi-ying Wang	Zhi-ying Wang
+65	67	Kui Dai	Kui Dai

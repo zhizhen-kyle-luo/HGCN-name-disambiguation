@@ -1,0 +1,2145 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	Tsinghua University, Beijing, China
+0	11	null	Tsinghua University, Beijing, China
+0	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	Nanjing Univ., China
+0	18	null	null
+0	19	null	null
+0	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+0	21	null	Tsinghua University, Beijing, China
+0	22	null	null
+0	23	null	null
+0	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+0	25	null	null
+0	26	null	null
+0	27	null	null
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+0	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+0	34	null	null
+0	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+0	36	null	Department of Computer Science & Technology, Tsinghua University, China
+0	37	null	Department of Computer Science and Technology, Tsinghua University, China
+0	38	null	null
+0	39	null	null
+0	40	null	null
+0	41	null	null
+0	42	null	Tsinghua University, P.R. China
+0	43	null	Tsinghua University, Beijing, China
+0	44	null	Tsinghua University, Beijing, China
+0	45	null	Tsinghua University, Beijing, China
+0	46	null	Tsinghua University, Beijing, China
+0	47	null	Tsinghua University, Beijing, China
+0	48	null	Tsinghua University, China
+0	49	null	null
+0	50	null	null
+0	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+0	52	null	null
+0	53	null	null
+0	54	null	Tsinghua University, Beijing, China
+0	55	null	null
+0	56	null	Tsinghua University, Beijing, China
+0	57	null	Tsinghua University, Beijing, China
+0	58	null	Tsinghua University, Beijing, China
+0	59	null	null
+0	60	null	null
+0	61	null	null
+0	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+0	63	null	Tsinghua University, Beijing
+0	64	null	null
+0	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	Tsinghua University, Beijing, China
+1	11	null	Tsinghua University, Beijing, China
+1	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	Nanjing Univ., China
+1	18	null	null
+1	19	null	null
+1	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+1	21	null	Tsinghua University, Beijing, China
+1	22	null	null
+1	23	null	null
+1	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+1	25	null	null
+1	26	null	null
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+1	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+1	34	null	null
+1	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+1	36	null	Department of Computer Science & Technology, Tsinghua University, China
+1	37	null	Department of Computer Science and Technology, Tsinghua University, China
+1	38	null	null
+1	39	null	null
+1	40	null	null
+1	41	null	null
+1	42	null	Tsinghua University, P.R. China
+1	43	null	Tsinghua University, Beijing, China
+1	44	null	Tsinghua University, Beijing, China
+1	45	null	Tsinghua University, Beijing, China
+1	46	null	Tsinghua University, Beijing, China
+1	47	null	Tsinghua University, Beijing, China
+1	48	null	Tsinghua University, China
+1	49	null	null
+1	50	null	null
+1	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+1	52	null	null
+1	53	null	null
+1	54	null	Tsinghua University, Beijing, China
+1	55	null	null
+1	56	null	Tsinghua University, Beijing, China
+1	57	null	Tsinghua University, Beijing, China
+1	58	null	Tsinghua University, Beijing, China
+1	59	null	null
+1	60	null	null
+1	61	null	null
+1	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+1	63	null	Tsinghua University, Beijing
+1	64	null	null
+1	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	Tsinghua University, Beijing, China
+2	11	null	Tsinghua University, Beijing, China
+2	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	Nanjing Univ., China
+2	18	null	null
+2	19	null	null
+2	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+2	21	null	Tsinghua University, Beijing, China
+2	22	null	null
+2	23	null	null
+2	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+2	25	null	null
+2	26	null	null
+2	27	null	null
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+2	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+2	34	null	null
+2	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+2	36	null	Department of Computer Science & Technology, Tsinghua University, China
+2	37	null	Department of Computer Science and Technology, Tsinghua University, China
+2	38	null	null
+2	39	null	null
+2	40	null	null
+2	41	null	null
+2	42	null	Tsinghua University, P.R. China
+2	43	null	Tsinghua University, Beijing, China
+2	44	null	Tsinghua University, Beijing, China
+2	45	null	Tsinghua University, Beijing, China
+2	46	null	Tsinghua University, Beijing, China
+2	47	null	Tsinghua University, Beijing, China
+2	48	null	Tsinghua University, China
+2	49	null	null
+2	50	null	null
+2	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+2	52	null	null
+2	53	null	null
+2	54	null	Tsinghua University, Beijing, China
+2	55	null	null
+2	56	null	Tsinghua University, Beijing, China
+2	57	null	Tsinghua University, Beijing, China
+2	58	null	Tsinghua University, Beijing, China
+2	59	null	null
+2	60	null	null
+2	61	null	null
+2	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+2	63	null	Tsinghua University, Beijing
+2	64	null	null
+2	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	Tsinghua University, Beijing, China
+3	11	null	Tsinghua University, Beijing, China
+3	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	Nanjing Univ., China
+3	18	null	null
+3	19	null	null
+3	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+3	21	null	Tsinghua University, Beijing, China
+3	22	null	null
+3	23	null	null
+3	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+3	25	null	null
+3	26	null	null
+3	27	null	null
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+3	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+3	34	null	null
+3	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+3	36	null	Department of Computer Science & Technology, Tsinghua University, China
+3	37	null	Department of Computer Science and Technology, Tsinghua University, China
+3	38	null	null
+3	39	null	null
+3	40	null	null
+3	41	null	null
+3	42	null	Tsinghua University, P.R. China
+3	43	null	Tsinghua University, Beijing, China
+3	44	null	Tsinghua University, Beijing, China
+3	45	null	Tsinghua University, Beijing, China
+3	46	null	Tsinghua University, Beijing, China
+3	47	null	Tsinghua University, Beijing, China
+3	48	null	Tsinghua University, China
+3	49	null	null
+3	50	null	null
+3	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+3	52	null	null
+3	53	null	null
+3	54	null	Tsinghua University, Beijing, China
+3	55	null	null
+3	56	null	Tsinghua University, Beijing, China
+3	57	null	Tsinghua University, Beijing, China
+3	58	null	Tsinghua University, Beijing, China
+3	59	null	null
+3	60	null	null
+3	61	null	null
+3	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+3	63	null	Tsinghua University, Beijing
+3	64	null	null
+3	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	Tsinghua University, Beijing, China
+4	11	null	Tsinghua University, Beijing, China
+4	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	Nanjing Univ., China
+4	18	null	null
+4	19	null	null
+4	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+4	21	null	Tsinghua University, Beijing, China
+4	22	null	null
+4	23	null	null
+4	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+4	25	null	null
+4	26	null	null
+4	27	null	null
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+4	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+4	34	null	null
+4	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+4	36	null	Department of Computer Science & Technology, Tsinghua University, China
+4	37	null	Department of Computer Science and Technology, Tsinghua University, China
+4	38	null	null
+4	39	null	null
+4	40	null	null
+4	41	null	null
+4	42	null	Tsinghua University, P.R. China
+4	43	null	Tsinghua University, Beijing, China
+4	44	null	Tsinghua University, Beijing, China
+4	45	null	Tsinghua University, Beijing, China
+4	46	null	Tsinghua University, Beijing, China
+4	47	null	Tsinghua University, Beijing, China
+4	48	null	Tsinghua University, China
+4	49	null	null
+4	50	null	null
+4	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+4	52	null	null
+4	53	null	null
+4	54	null	Tsinghua University, Beijing, China
+4	55	null	null
+4	56	null	Tsinghua University, Beijing, China
+4	57	null	Tsinghua University, Beijing, China
+4	58	null	Tsinghua University, Beijing, China
+4	59	null	null
+4	60	null	null
+4	61	null	null
+4	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+4	63	null	Tsinghua University, Beijing
+4	64	null	null
+4	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	Tsinghua University, Beijing, China
+5	11	null	Tsinghua University, Beijing, China
+5	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	Nanjing Univ., China
+5	18	null	null
+5	19	null	null
+5	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+5	21	null	Tsinghua University, Beijing, China
+5	22	null	null
+5	23	null	null
+5	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+5	25	null	null
+5	26	null	null
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+5	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+5	34	null	null
+5	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+5	36	null	Department of Computer Science & Technology, Tsinghua University, China
+5	37	null	Department of Computer Science and Technology, Tsinghua University, China
+5	38	null	null
+5	39	null	null
+5	40	null	null
+5	41	null	null
+5	42	null	Tsinghua University, P.R. China
+5	43	null	Tsinghua University, Beijing, China
+5	44	null	Tsinghua University, Beijing, China
+5	45	null	Tsinghua University, Beijing, China
+5	46	null	Tsinghua University, Beijing, China
+5	47	null	Tsinghua University, Beijing, China
+5	48	null	Tsinghua University, China
+5	49	null	null
+5	50	null	null
+5	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+5	52	null	null
+5	53	null	null
+5	54	null	Tsinghua University, Beijing, China
+5	55	null	null
+5	56	null	Tsinghua University, Beijing, China
+5	57	null	Tsinghua University, Beijing, China
+5	58	null	Tsinghua University, Beijing, China
+5	59	null	null
+5	60	null	null
+5	61	null	null
+5	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+5	63	null	Tsinghua University, Beijing
+5	64	null	null
+5	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	Tsinghua University, Beijing, China
+6	11	null	Tsinghua University, Beijing, China
+6	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	Nanjing Univ., China
+6	18	null	null
+6	19	null	null
+6	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+6	21	null	Tsinghua University, Beijing, China
+6	22	null	null
+6	23	null	null
+6	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+6	25	null	null
+6	26	null	null
+6	27	null	null
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+6	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+6	34	null	null
+6	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+6	36	null	Department of Computer Science & Technology, Tsinghua University, China
+6	37	null	Department of Computer Science and Technology, Tsinghua University, China
+6	38	null	null
+6	39	null	null
+6	40	null	null
+6	41	null	null
+6	42	null	Tsinghua University, P.R. China
+6	43	null	Tsinghua University, Beijing, China
+6	44	null	Tsinghua University, Beijing, China
+6	45	null	Tsinghua University, Beijing, China
+6	46	null	Tsinghua University, Beijing, China
+6	47	null	Tsinghua University, Beijing, China
+6	48	null	Tsinghua University, China
+6	49	null	null
+6	50	null	null
+6	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+6	52	null	null
+6	53	null	null
+6	54	null	Tsinghua University, Beijing, China
+6	55	null	null
+6	56	null	Tsinghua University, Beijing, China
+6	57	null	Tsinghua University, Beijing, China
+6	58	null	Tsinghua University, Beijing, China
+6	59	null	null
+6	60	null	null
+6	61	null	null
+6	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+6	63	null	Tsinghua University, Beijing
+6	64	null	null
+6	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+7	8	null	null
+7	9	null	null
+7	10	null	Tsinghua University, Beijing, China
+7	11	null	Tsinghua University, Beijing, China
+7	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	Nanjing Univ., China
+7	18	null	null
+7	19	null	null
+7	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+7	21	null	Tsinghua University, Beijing, China
+7	22	null	null
+7	23	null	null
+7	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+7	25	null	null
+7	26	null	null
+7	27	null	null
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+7	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+7	34	null	null
+7	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+7	36	null	Department of Computer Science & Technology, Tsinghua University, China
+7	37	null	Department of Computer Science and Technology, Tsinghua University, China
+7	38	null	null
+7	39	null	null
+7	40	null	null
+7	41	null	null
+7	42	null	Tsinghua University, P.R. China
+7	43	null	Tsinghua University, Beijing, China
+7	44	null	Tsinghua University, Beijing, China
+7	45	null	Tsinghua University, Beijing, China
+7	46	null	Tsinghua University, Beijing, China
+7	47	null	Tsinghua University, Beijing, China
+7	48	null	Tsinghua University, China
+7	49	null	null
+7	50	null	null
+7	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+7	52	null	null
+7	53	null	null
+7	54	null	Tsinghua University, Beijing, China
+7	55	null	null
+7	56	null	Tsinghua University, Beijing, China
+7	57	null	Tsinghua University, Beijing, China
+7	58	null	Tsinghua University, Beijing, China
+7	59	null	null
+7	60	null	null
+7	61	null	null
+7	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+7	63	null	Tsinghua University, Beijing
+7	64	null	null
+7	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+8	9	null	null
+8	10	null	Tsinghua University, Beijing, China
+8	11	null	Tsinghua University, Beijing, China
+8	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	Nanjing Univ., China
+8	18	null	null
+8	19	null	null
+8	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+8	21	null	Tsinghua University, Beijing, China
+8	22	null	null
+8	23	null	null
+8	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+8	25	null	null
+8	26	null	null
+8	27	null	null
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+8	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+8	34	null	null
+8	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+8	36	null	Department of Computer Science & Technology, Tsinghua University, China
+8	37	null	Department of Computer Science and Technology, Tsinghua University, China
+8	38	null	null
+8	39	null	null
+8	40	null	null
+8	41	null	null
+8	42	null	Tsinghua University, P.R. China
+8	43	null	Tsinghua University, Beijing, China
+8	44	null	Tsinghua University, Beijing, China
+8	45	null	Tsinghua University, Beijing, China
+8	46	null	Tsinghua University, Beijing, China
+8	47	null	Tsinghua University, Beijing, China
+8	48	null	Tsinghua University, China
+8	49	null	null
+8	50	null	null
+8	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+8	52	null	null
+8	53	null	null
+8	54	null	Tsinghua University, Beijing, China
+8	55	null	null
+8	56	null	Tsinghua University, Beijing, China
+8	57	null	Tsinghua University, Beijing, China
+8	58	null	Tsinghua University, Beijing, China
+8	59	null	null
+8	60	null	null
+8	61	null	null
+8	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+8	63	null	Tsinghua University, Beijing
+8	64	null	null
+8	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+9	10	null	Tsinghua University, Beijing, China
+9	11	null	Tsinghua University, Beijing, China
+9	12	null	DCST, Tsinghua Univ., Beijing, 100084, China
+9	13	null	null
+9	14	null	null
+9	15	null	null
+9	16	null	null
+9	17	null	Nanjing Univ., China
+9	18	null	null
+9	19	null	null
+9	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+9	21	null	Tsinghua University, Beijing, China
+9	22	null	null
+9	23	null	null
+9	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+9	25	null	null
+9	26	null	null
+9	27	null	null
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+9	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+9	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+9	34	null	null
+9	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+9	36	null	Department of Computer Science & Technology, Tsinghua University, China
+9	37	null	Department of Computer Science and Technology, Tsinghua University, China
+9	38	null	null
+9	39	null	null
+9	40	null	null
+9	41	null	null
+9	42	null	Tsinghua University, P.R. China
+9	43	null	Tsinghua University, Beijing, China
+9	44	null	Tsinghua University, Beijing, China
+9	45	null	Tsinghua University, Beijing, China
+9	46	null	Tsinghua University, Beijing, China
+9	47	null	Tsinghua University, Beijing, China
+9	48	null	Tsinghua University, China
+9	49	null	null
+9	50	null	null
+9	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+9	52	null	null
+9	53	null	null
+9	54	null	Tsinghua University, Beijing, China
+9	55	null	null
+9	56	null	Tsinghua University, Beijing, China
+9	57	null	Tsinghua University, Beijing, China
+9	58	null	Tsinghua University, Beijing, China
+9	59	null	null
+9	60	null	null
+9	61	null	null
+9	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+9	63	null	Tsinghua University, Beijing
+9	64	null	null
+9	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+10	11	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	12	Tsinghua University, Beijing, China	DCST, Tsinghua Univ., Beijing, 100084, China
+10	13	Tsinghua University, Beijing, China	null
+10	14	Tsinghua University, Beijing, China	null
+10	15	Tsinghua University, Beijing, China	null
+10	16	Tsinghua University, Beijing, China	null
+10	17	Tsinghua University, Beijing, China	Nanjing Univ., China
+10	18	Tsinghua University, Beijing, China	null
+10	19	Tsinghua University, Beijing, China	null
+10	20	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+10	21	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	22	Tsinghua University, Beijing, China	null
+10	23	Tsinghua University, Beijing, China	null
+10	24	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+10	25	Tsinghua University, Beijing, China	null
+10	26	Tsinghua University, Beijing, China	null
+10	27	Tsinghua University, Beijing, China	null
+10	28	Tsinghua University, Beijing, China	null
+10	29	Tsinghua University, Beijing, China	null
+10	30	Tsinghua University, Beijing, China	null
+10	31	Tsinghua University, Beijing, China	null
+10	32	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+10	33	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+10	34	Tsinghua University, Beijing, China	null
+10	35	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+10	36	Tsinghua University, Beijing, China	Department of Computer Science & Technology, Tsinghua University, China
+10	37	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua University, China
+10	38	Tsinghua University, Beijing, China	null
+10	39	Tsinghua University, Beijing, China	null
+10	40	Tsinghua University, Beijing, China	null
+10	41	Tsinghua University, Beijing, China	null
+10	42	Tsinghua University, Beijing, China	Tsinghua University, P.R. China
+10	43	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	44	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	45	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	46	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	47	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	48	Tsinghua University, Beijing, China	Tsinghua University, China
+10	49	Tsinghua University, Beijing, China	null
+10	50	Tsinghua University, Beijing, China	null
+10	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+10	52	Tsinghua University, Beijing, China	null
+10	53	Tsinghua University, Beijing, China	null
+10	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	55	Tsinghua University, Beijing, China	null
+10	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+10	59	Tsinghua University, Beijing, China	null
+10	60	Tsinghua University, Beijing, China	null
+10	61	Tsinghua University, Beijing, China	null
+10	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+10	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+10	64	Tsinghua University, Beijing, China	null
+10	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+11	12	Tsinghua University, Beijing, China	DCST, Tsinghua Univ., Beijing, 100084, China
+11	13	Tsinghua University, Beijing, China	null
+11	14	Tsinghua University, Beijing, China	null
+11	15	Tsinghua University, Beijing, China	null
+11	16	Tsinghua University, Beijing, China	null
+11	17	Tsinghua University, Beijing, China	Nanjing Univ., China
+11	18	Tsinghua University, Beijing, China	null
+11	19	Tsinghua University, Beijing, China	null
+11	20	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+11	21	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	22	Tsinghua University, Beijing, China	null
+11	23	Tsinghua University, Beijing, China	null
+11	24	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+11	25	Tsinghua University, Beijing, China	null
+11	26	Tsinghua University, Beijing, China	null
+11	27	Tsinghua University, Beijing, China	null
+11	28	Tsinghua University, Beijing, China	null
+11	29	Tsinghua University, Beijing, China	null
+11	30	Tsinghua University, Beijing, China	null
+11	31	Tsinghua University, Beijing, China	null
+11	32	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+11	33	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+11	34	Tsinghua University, Beijing, China	null
+11	35	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+11	36	Tsinghua University, Beijing, China	Department of Computer Science & Technology, Tsinghua University, China
+11	37	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua University, China
+11	38	Tsinghua University, Beijing, China	null
+11	39	Tsinghua University, Beijing, China	null
+11	40	Tsinghua University, Beijing, China	null
+11	41	Tsinghua University, Beijing, China	null
+11	42	Tsinghua University, Beijing, China	Tsinghua University, P.R. China
+11	43	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	44	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	45	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	46	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	47	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	48	Tsinghua University, Beijing, China	Tsinghua University, China
+11	49	Tsinghua University, Beijing, China	null
+11	50	Tsinghua University, Beijing, China	null
+11	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+11	52	Tsinghua University, Beijing, China	null
+11	53	Tsinghua University, Beijing, China	null
+11	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	55	Tsinghua University, Beijing, China	null
+11	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+11	59	Tsinghua University, Beijing, China	null
+11	60	Tsinghua University, Beijing, China	null
+11	61	Tsinghua University, Beijing, China	null
+11	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+11	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+11	64	Tsinghua University, Beijing, China	null
+11	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+12	13	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	14	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	15	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	16	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	17	DCST, Tsinghua Univ., Beijing, 100084, China	Nanjing Univ., China
+12	18	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	19	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	20	DCST, Tsinghua Univ., Beijing, 100084, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+12	21	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	22	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	23	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	24	DCST, Tsinghua Univ., Beijing, 100084, China	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+12	25	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	26	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	27	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	28	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	29	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	30	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	31	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	32	DCST, Tsinghua Univ., Beijing, 100084, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+12	33	DCST, Tsinghua Univ., Beijing, 100084, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+12	34	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	35	DCST, Tsinghua Univ., Beijing, 100084, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+12	36	DCST, Tsinghua Univ., Beijing, 100084, China	Department of Computer Science & Technology, Tsinghua University, China
+12	37	DCST, Tsinghua Univ., Beijing, 100084, China	Department of Computer Science and Technology, Tsinghua University, China
+12	38	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	39	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	40	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	41	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	42	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, P.R. China
+12	43	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	44	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	45	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	46	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	47	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	48	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, China
+12	49	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	50	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	51	DCST, Tsinghua Univ., Beijing, 100084, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+12	52	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	53	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	54	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	55	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	56	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	57	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	58	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing, China
+12	59	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	60	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	61	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	62	DCST, Tsinghua Univ., Beijing, 100084, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+12	63	DCST, Tsinghua Univ., Beijing, 100084, China	Tsinghua University, Beijing
+12	64	DCST, Tsinghua Univ., Beijing, 100084, China	null
+12	65	DCST, Tsinghua Univ., Beijing, 100084, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	Nanjing Univ., China
+13	18	null	null
+13	19	null	null
+13	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+13	21	null	Tsinghua University, Beijing, China
+13	22	null	null
+13	23	null	null
+13	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+13	25	null	null
+13	26	null	null
+13	27	null	null
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+13	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+13	34	null	null
+13	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+13	36	null	Department of Computer Science & Technology, Tsinghua University, China
+13	37	null	Department of Computer Science and Technology, Tsinghua University, China
+13	38	null	null
+13	39	null	null
+13	40	null	null
+13	41	null	null
+13	42	null	Tsinghua University, P.R. China
+13	43	null	Tsinghua University, Beijing, China
+13	44	null	Tsinghua University, Beijing, China
+13	45	null	Tsinghua University, Beijing, China
+13	46	null	Tsinghua University, Beijing, China
+13	47	null	Tsinghua University, Beijing, China
+13	48	null	Tsinghua University, China
+13	49	null	null
+13	50	null	null
+13	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+13	52	null	null
+13	53	null	null
+13	54	null	Tsinghua University, Beijing, China
+13	55	null	null
+13	56	null	Tsinghua University, Beijing, China
+13	57	null	Tsinghua University, Beijing, China
+13	58	null	Tsinghua University, Beijing, China
+13	59	null	null
+13	60	null	null
+13	61	null	null
+13	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+13	63	null	Tsinghua University, Beijing
+13	64	null	null
+13	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+14	15	null	null
+14	16	null	null
+14	17	null	Nanjing Univ., China
+14	18	null	null
+14	19	null	null
+14	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+14	21	null	Tsinghua University, Beijing, China
+14	22	null	null
+14	23	null	null
+14	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+14	25	null	null
+14	26	null	null
+14	27	null	null
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+14	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+14	34	null	null
+14	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+14	36	null	Department of Computer Science & Technology, Tsinghua University, China
+14	37	null	Department of Computer Science and Technology, Tsinghua University, China
+14	38	null	null
+14	39	null	null
+14	40	null	null
+14	41	null	null
+14	42	null	Tsinghua University, P.R. China
+14	43	null	Tsinghua University, Beijing, China
+14	44	null	Tsinghua University, Beijing, China
+14	45	null	Tsinghua University, Beijing, China
+14	46	null	Tsinghua University, Beijing, China
+14	47	null	Tsinghua University, Beijing, China
+14	48	null	Tsinghua University, China
+14	49	null	null
+14	50	null	null
+14	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+14	52	null	null
+14	53	null	null
+14	54	null	Tsinghua University, Beijing, China
+14	55	null	null
+14	56	null	Tsinghua University, Beijing, China
+14	57	null	Tsinghua University, Beijing, China
+14	58	null	Tsinghua University, Beijing, China
+14	59	null	null
+14	60	null	null
+14	61	null	null
+14	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+14	63	null	Tsinghua University, Beijing
+14	64	null	null
+14	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+15	16	null	null
+15	17	null	Nanjing Univ., China
+15	18	null	null
+15	19	null	null
+15	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+15	21	null	Tsinghua University, Beijing, China
+15	22	null	null
+15	23	null	null
+15	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+15	25	null	null
+15	26	null	null
+15	27	null	null
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+15	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+15	34	null	null
+15	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+15	36	null	Department of Computer Science & Technology, Tsinghua University, China
+15	37	null	Department of Computer Science and Technology, Tsinghua University, China
+15	38	null	null
+15	39	null	null
+15	40	null	null
+15	41	null	null
+15	42	null	Tsinghua University, P.R. China
+15	43	null	Tsinghua University, Beijing, China
+15	44	null	Tsinghua University, Beijing, China
+15	45	null	Tsinghua University, Beijing, China
+15	46	null	Tsinghua University, Beijing, China
+15	47	null	Tsinghua University, Beijing, China
+15	48	null	Tsinghua University, China
+15	49	null	null
+15	50	null	null
+15	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+15	52	null	null
+15	53	null	null
+15	54	null	Tsinghua University, Beijing, China
+15	55	null	null
+15	56	null	Tsinghua University, Beijing, China
+15	57	null	Tsinghua University, Beijing, China
+15	58	null	Tsinghua University, Beijing, China
+15	59	null	null
+15	60	null	null
+15	61	null	null
+15	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+15	63	null	Tsinghua University, Beijing
+15	64	null	null
+15	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+16	17	null	Nanjing Univ., China
+16	18	null	null
+16	19	null	null
+16	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+16	21	null	Tsinghua University, Beijing, China
+16	22	null	null
+16	23	null	null
+16	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+16	25	null	null
+16	26	null	null
+16	27	null	null
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+16	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+16	34	null	null
+16	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+16	36	null	Department of Computer Science & Technology, Tsinghua University, China
+16	37	null	Department of Computer Science and Technology, Tsinghua University, China
+16	38	null	null
+16	39	null	null
+16	40	null	null
+16	41	null	null
+16	42	null	Tsinghua University, P.R. China
+16	43	null	Tsinghua University, Beijing, China
+16	44	null	Tsinghua University, Beijing, China
+16	45	null	Tsinghua University, Beijing, China
+16	46	null	Tsinghua University, Beijing, China
+16	47	null	Tsinghua University, Beijing, China
+16	48	null	Tsinghua University, China
+16	49	null	null
+16	50	null	null
+16	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+16	52	null	null
+16	53	null	null
+16	54	null	Tsinghua University, Beijing, China
+16	55	null	null
+16	56	null	Tsinghua University, Beijing, China
+16	57	null	Tsinghua University, Beijing, China
+16	58	null	Tsinghua University, Beijing, China
+16	59	null	null
+16	60	null	null
+16	61	null	null
+16	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+16	63	null	Tsinghua University, Beijing
+16	64	null	null
+16	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+17	18	Nanjing Univ., China	null
+17	19	Nanjing Univ., China	null
+17	20	Nanjing Univ., China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+17	21	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	22	Nanjing Univ., China	null
+17	23	Nanjing Univ., China	null
+17	24	Nanjing Univ., China	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+17	25	Nanjing Univ., China	null
+17	26	Nanjing Univ., China	null
+17	27	Nanjing Univ., China	null
+17	28	Nanjing Univ., China	null
+17	29	Nanjing Univ., China	null
+17	30	Nanjing Univ., China	null
+17	31	Nanjing Univ., China	null
+17	32	Nanjing Univ., China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+17	33	Nanjing Univ., China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+17	34	Nanjing Univ., China	null
+17	35	Nanjing Univ., China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+17	36	Nanjing Univ., China	Department of Computer Science & Technology, Tsinghua University, China
+17	37	Nanjing Univ., China	Department of Computer Science and Technology, Tsinghua University, China
+17	38	Nanjing Univ., China	null
+17	39	Nanjing Univ., China	null
+17	40	Nanjing Univ., China	null
+17	41	Nanjing Univ., China	null
+17	42	Nanjing Univ., China	Tsinghua University, P.R. China
+17	43	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	44	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	45	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	46	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	47	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	48	Nanjing Univ., China	Tsinghua University, China
+17	49	Nanjing Univ., China	null
+17	50	Nanjing Univ., China	null
+17	51	Nanjing Univ., China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+17	52	Nanjing Univ., China	null
+17	53	Nanjing Univ., China	null
+17	54	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	55	Nanjing Univ., China	null
+17	56	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	57	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	58	Nanjing Univ., China	Tsinghua University, Beijing, China
+17	59	Nanjing Univ., China	null
+17	60	Nanjing Univ., China	null
+17	61	Nanjing Univ., China	null
+17	62	Nanjing Univ., China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+17	63	Nanjing Univ., China	Tsinghua University, Beijing
+17	64	Nanjing Univ., China	null
+17	65	Nanjing Univ., China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+18	19	null	null
+18	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+18	21	null	Tsinghua University, Beijing, China
+18	22	null	null
+18	23	null	null
+18	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+18	25	null	null
+18	26	null	null
+18	27	null	null
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+18	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+18	34	null	null
+18	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+18	36	null	Department of Computer Science & Technology, Tsinghua University, China
+18	37	null	Department of Computer Science and Technology, Tsinghua University, China
+18	38	null	null
+18	39	null	null
+18	40	null	null
+18	41	null	null
+18	42	null	Tsinghua University, P.R. China
+18	43	null	Tsinghua University, Beijing, China
+18	44	null	Tsinghua University, Beijing, China
+18	45	null	Tsinghua University, Beijing, China
+18	46	null	Tsinghua University, Beijing, China
+18	47	null	Tsinghua University, Beijing, China
+18	48	null	Tsinghua University, China
+18	49	null	null
+18	50	null	null
+18	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+18	52	null	null
+18	53	null	null
+18	54	null	Tsinghua University, Beijing, China
+18	55	null	null
+18	56	null	Tsinghua University, Beijing, China
+18	57	null	Tsinghua University, Beijing, China
+18	58	null	Tsinghua University, Beijing, China
+18	59	null	null
+18	60	null	null
+18	61	null	null
+18	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+18	63	null	Tsinghua University, Beijing
+18	64	null	null
+18	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+19	20	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+19	21	null	Tsinghua University, Beijing, China
+19	22	null	null
+19	23	null	null
+19	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+19	25	null	null
+19	26	null	null
+19	27	null	null
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+19	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+19	34	null	null
+19	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+19	36	null	Department of Computer Science & Technology, Tsinghua University, China
+19	37	null	Department of Computer Science and Technology, Tsinghua University, China
+19	38	null	null
+19	39	null	null
+19	40	null	null
+19	41	null	null
+19	42	null	Tsinghua University, P.R. China
+19	43	null	Tsinghua University, Beijing, China
+19	44	null	Tsinghua University, Beijing, China
+19	45	null	Tsinghua University, Beijing, China
+19	46	null	Tsinghua University, Beijing, China
+19	47	null	Tsinghua University, Beijing, China
+19	48	null	Tsinghua University, China
+19	49	null	null
+19	50	null	null
+19	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+19	52	null	null
+19	53	null	null
+19	54	null	Tsinghua University, Beijing, China
+19	55	null	null
+19	56	null	Tsinghua University, Beijing, China
+19	57	null	Tsinghua University, Beijing, China
+19	58	null	Tsinghua University, Beijing, China
+19	59	null	null
+19	60	null	null
+19	61	null	null
+19	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+19	63	null	Tsinghua University, Beijing
+19	64	null	null
+19	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+20	21	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	22	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	23	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	24	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+20	25	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	26	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	27	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	28	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	29	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	30	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	31	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	32	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+20	33	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+20	34	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	35	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+20	36	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science & Technology, Tsinghua University, China
+20	37	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, China
+20	38	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	39	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	40	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	41	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	42	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, P.R. China
+20	43	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	44	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	45	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	46	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	47	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	48	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, China
+20	49	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	50	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	51	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+20	52	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	53	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	54	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	55	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	56	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	57	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	58	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+20	59	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	60	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	61	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	62	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+20	63	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing
+20	64	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+20	65	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+21	22	Tsinghua University, Beijing, China	null
+21	23	Tsinghua University, Beijing, China	null
+21	24	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+21	25	Tsinghua University, Beijing, China	null
+21	26	Tsinghua University, Beijing, China	null
+21	27	Tsinghua University, Beijing, China	null
+21	28	Tsinghua University, Beijing, China	null
+21	29	Tsinghua University, Beijing, China	null
+21	30	Tsinghua University, Beijing, China	null
+21	31	Tsinghua University, Beijing, China	null
+21	32	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+21	33	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+21	34	Tsinghua University, Beijing, China	null
+21	35	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+21	36	Tsinghua University, Beijing, China	Department of Computer Science & Technology, Tsinghua University, China
+21	37	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua University, China
+21	38	Tsinghua University, Beijing, China	null
+21	39	Tsinghua University, Beijing, China	null
+21	40	Tsinghua University, Beijing, China	null
+21	41	Tsinghua University, Beijing, China	null
+21	42	Tsinghua University, Beijing, China	Tsinghua University, P.R. China
+21	43	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	44	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	45	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	46	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	47	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	48	Tsinghua University, Beijing, China	Tsinghua University, China
+21	49	Tsinghua University, Beijing, China	null
+21	50	Tsinghua University, Beijing, China	null
+21	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+21	52	Tsinghua University, Beijing, China	null
+21	53	Tsinghua University, Beijing, China	null
+21	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	55	Tsinghua University, Beijing, China	null
+21	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+21	59	Tsinghua University, Beijing, China	null
+21	60	Tsinghua University, Beijing, China	null
+21	61	Tsinghua University, Beijing, China	null
+21	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+21	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+21	64	Tsinghua University, Beijing, China	null
+21	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+22	23	null	null
+22	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+22	25	null	null
+22	26	null	null
+22	27	null	null
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+22	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+22	34	null	null
+22	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+22	36	null	Department of Computer Science & Technology, Tsinghua University, China
+22	37	null	Department of Computer Science and Technology, Tsinghua University, China
+22	38	null	null
+22	39	null	null
+22	40	null	null
+22	41	null	null
+22	42	null	Tsinghua University, P.R. China
+22	43	null	Tsinghua University, Beijing, China
+22	44	null	Tsinghua University, Beijing, China
+22	45	null	Tsinghua University, Beijing, China
+22	46	null	Tsinghua University, Beijing, China
+22	47	null	Tsinghua University, Beijing, China
+22	48	null	Tsinghua University, China
+22	49	null	null
+22	50	null	null
+22	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+22	52	null	null
+22	53	null	null
+22	54	null	Tsinghua University, Beijing, China
+22	55	null	null
+22	56	null	Tsinghua University, Beijing, China
+22	57	null	Tsinghua University, Beijing, China
+22	58	null	Tsinghua University, Beijing, China
+22	59	null	null
+22	60	null	null
+22	61	null	null
+22	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+22	63	null	Tsinghua University, Beijing
+22	64	null	null
+22	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+23	24	null	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084
+23	25	null	null
+23	26	null	null
+23	27	null	null
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+23	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+23	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+23	34	null	null
+23	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+23	36	null	Department of Computer Science & Technology, Tsinghua University, China
+23	37	null	Department of Computer Science and Technology, Tsinghua University, China
+23	38	null	null
+23	39	null	null
+23	40	null	null
+23	41	null	null
+23	42	null	Tsinghua University, P.R. China
+23	43	null	Tsinghua University, Beijing, China
+23	44	null	Tsinghua University, Beijing, China
+23	45	null	Tsinghua University, Beijing, China
+23	46	null	Tsinghua University, Beijing, China
+23	47	null	Tsinghua University, Beijing, China
+23	48	null	Tsinghua University, China
+23	49	null	null
+23	50	null	null
+23	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+23	52	null	null
+23	53	null	null
+23	54	null	Tsinghua University, Beijing, China
+23	55	null	null
+23	56	null	Tsinghua University, Beijing, China
+23	57	null	Tsinghua University, Beijing, China
+23	58	null	Tsinghua University, Beijing, China
+23	59	null	null
+23	60	null	null
+23	61	null	null
+23	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+23	63	null	Tsinghua University, Beijing
+23	64	null	null
+23	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+24	25	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	26	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	27	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	28	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	29	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	30	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	31	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	32	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+24	33	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+24	34	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	35	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+24	36	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Department of Computer Science & Technology, Tsinghua University, China
+24	37	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Department of Computer Science and Technology, Tsinghua University, China
+24	38	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	39	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	40	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	41	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	42	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, P.R. China
+24	43	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	44	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	45	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	46	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	47	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	48	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, China
+24	49	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	50	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	51	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+24	52	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	53	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	54	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	55	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	56	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	57	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	58	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing, China
+24	59	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	60	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	61	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	62	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+24	63	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing
+24	64	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	null
+24	65	Department of Computer Science and Technology, Tsinghua University, Beijing, China 100084	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+25	26	null	null
+25	27	null	null
+25	28	null	null
+25	29	null	null
+25	30	null	null
+25	31	null	null
+25	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+25	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+25	34	null	null
+25	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+25	36	null	Department of Computer Science & Technology, Tsinghua University, China
+25	37	null	Department of Computer Science and Technology, Tsinghua University, China
+25	38	null	null
+25	39	null	null
+25	40	null	null
+25	41	null	null
+25	42	null	Tsinghua University, P.R. China
+25	43	null	Tsinghua University, Beijing, China
+25	44	null	Tsinghua University, Beijing, China
+25	45	null	Tsinghua University, Beijing, China
+25	46	null	Tsinghua University, Beijing, China
+25	47	null	Tsinghua University, Beijing, China
+25	48	null	Tsinghua University, China
+25	49	null	null
+25	50	null	null
+25	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+25	52	null	null
+25	53	null	null
+25	54	null	Tsinghua University, Beijing, China
+25	55	null	null
+25	56	null	Tsinghua University, Beijing, China
+25	57	null	Tsinghua University, Beijing, China
+25	58	null	Tsinghua University, Beijing, China
+25	59	null	null
+25	60	null	null
+25	61	null	null
+25	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+25	63	null	Tsinghua University, Beijing
+25	64	null	null
+25	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+26	27	null	null
+26	28	null	null
+26	29	null	null
+26	30	null	null
+26	31	null	null
+26	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+26	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+26	34	null	null
+26	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+26	36	null	Department of Computer Science & Technology, Tsinghua University, China
+26	37	null	Department of Computer Science and Technology, Tsinghua University, China
+26	38	null	null
+26	39	null	null
+26	40	null	null
+26	41	null	null
+26	42	null	Tsinghua University, P.R. China
+26	43	null	Tsinghua University, Beijing, China
+26	44	null	Tsinghua University, Beijing, China
+26	45	null	Tsinghua University, Beijing, China
+26	46	null	Tsinghua University, Beijing, China
+26	47	null	Tsinghua University, Beijing, China
+26	48	null	Tsinghua University, China
+26	49	null	null
+26	50	null	null
+26	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+26	52	null	null
+26	53	null	null
+26	54	null	Tsinghua University, Beijing, China
+26	55	null	null
+26	56	null	Tsinghua University, Beijing, China
+26	57	null	Tsinghua University, Beijing, China
+26	58	null	Tsinghua University, Beijing, China
+26	59	null	null
+26	60	null	null
+26	61	null	null
+26	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+26	63	null	Tsinghua University, Beijing
+26	64	null	null
+26	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+27	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+27	34	null	null
+27	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+27	36	null	Department of Computer Science & Technology, Tsinghua University, China
+27	37	null	Department of Computer Science and Technology, Tsinghua University, China
+27	38	null	null
+27	39	null	null
+27	40	null	null
+27	41	null	null
+27	42	null	Tsinghua University, P.R. China
+27	43	null	Tsinghua University, Beijing, China
+27	44	null	Tsinghua University, Beijing, China
+27	45	null	Tsinghua University, Beijing, China
+27	46	null	Tsinghua University, Beijing, China
+27	47	null	Tsinghua University, Beijing, China
+27	48	null	Tsinghua University, China
+27	49	null	null
+27	50	null	null
+27	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+27	52	null	null
+27	53	null	null
+27	54	null	Tsinghua University, Beijing, China
+27	55	null	null
+27	56	null	Tsinghua University, Beijing, China
+27	57	null	Tsinghua University, Beijing, China
+27	58	null	Tsinghua University, Beijing, China
+27	59	null	null
+27	60	null	null
+27	61	null	null
+27	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+27	63	null	Tsinghua University, Beijing
+27	64	null	null
+27	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+28	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+28	34	null	null
+28	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+28	36	null	Department of Computer Science & Technology, Tsinghua University, China
+28	37	null	Department of Computer Science and Technology, Tsinghua University, China
+28	38	null	null
+28	39	null	null
+28	40	null	null
+28	41	null	null
+28	42	null	Tsinghua University, P.R. China
+28	43	null	Tsinghua University, Beijing, China
+28	44	null	Tsinghua University, Beijing, China
+28	45	null	Tsinghua University, Beijing, China
+28	46	null	Tsinghua University, Beijing, China
+28	47	null	Tsinghua University, Beijing, China
+28	48	null	Tsinghua University, China
+28	49	null	null
+28	50	null	null
+28	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+28	52	null	null
+28	53	null	null
+28	54	null	Tsinghua University, Beijing, China
+28	55	null	null
+28	56	null	Tsinghua University, Beijing, China
+28	57	null	Tsinghua University, Beijing, China
+28	58	null	Tsinghua University, Beijing, China
+28	59	null	null
+28	60	null	null
+28	61	null	null
+28	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+28	63	null	Tsinghua University, Beijing
+28	64	null	null
+28	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+29	30	null	null
+29	31	null	null
+29	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+29	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+29	34	null	null
+29	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+29	36	null	Department of Computer Science & Technology, Tsinghua University, China
+29	37	null	Department of Computer Science and Technology, Tsinghua University, China
+29	38	null	null
+29	39	null	null
+29	40	null	null
+29	41	null	null
+29	42	null	Tsinghua University, P.R. China
+29	43	null	Tsinghua University, Beijing, China
+29	44	null	Tsinghua University, Beijing, China
+29	45	null	Tsinghua University, Beijing, China
+29	46	null	Tsinghua University, Beijing, China
+29	47	null	Tsinghua University, Beijing, China
+29	48	null	Tsinghua University, China
+29	49	null	null
+29	50	null	null
+29	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+29	52	null	null
+29	53	null	null
+29	54	null	Tsinghua University, Beijing, China
+29	55	null	null
+29	56	null	Tsinghua University, Beijing, China
+29	57	null	Tsinghua University, Beijing, China
+29	58	null	Tsinghua University, Beijing, China
+29	59	null	null
+29	60	null	null
+29	61	null	null
+29	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+29	63	null	Tsinghua University, Beijing
+29	64	null	null
+29	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+30	31	null	null
+30	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+30	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+30	34	null	null
+30	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+30	36	null	Department of Computer Science & Technology, Tsinghua University, China
+30	37	null	Department of Computer Science and Technology, Tsinghua University, China
+30	38	null	null
+30	39	null	null
+30	40	null	null
+30	41	null	null
+30	42	null	Tsinghua University, P.R. China
+30	43	null	Tsinghua University, Beijing, China
+30	44	null	Tsinghua University, Beijing, China
+30	45	null	Tsinghua University, Beijing, China
+30	46	null	Tsinghua University, Beijing, China
+30	47	null	Tsinghua University, Beijing, China
+30	48	null	Tsinghua University, China
+30	49	null	null
+30	50	null	null
+30	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+30	52	null	null
+30	53	null	null
+30	54	null	Tsinghua University, Beijing, China
+30	55	null	null
+30	56	null	Tsinghua University, Beijing, China
+30	57	null	Tsinghua University, Beijing, China
+30	58	null	Tsinghua University, Beijing, China
+30	59	null	null
+30	60	null	null
+30	61	null	null
+30	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+30	63	null	Tsinghua University, Beijing
+30	64	null	null
+30	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+31	32	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+31	33	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+31	34	null	null
+31	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+31	36	null	Department of Computer Science & Technology, Tsinghua University, China
+31	37	null	Department of Computer Science and Technology, Tsinghua University, China
+31	38	null	null
+31	39	null	null
+31	40	null	null
+31	41	null	null
+31	42	null	Tsinghua University, P.R. China
+31	43	null	Tsinghua University, Beijing, China
+31	44	null	Tsinghua University, Beijing, China
+31	45	null	Tsinghua University, Beijing, China
+31	46	null	Tsinghua University, Beijing, China
+31	47	null	Tsinghua University, Beijing, China
+31	48	null	Tsinghua University, China
+31	49	null	null
+31	50	null	null
+31	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+31	52	null	null
+31	53	null	null
+31	54	null	Tsinghua University, Beijing, China
+31	55	null	null
+31	56	null	Tsinghua University, Beijing, China
+31	57	null	Tsinghua University, Beijing, China
+31	58	null	Tsinghua University, Beijing, China
+31	59	null	null
+31	60	null	null
+31	61	null	null
+31	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+31	63	null	Tsinghua University, Beijing
+31	64	null	null
+31	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+32	33	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+32	34	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	35	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+32	36	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science & Technology, Tsinghua University, China
+32	37	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, China
+32	38	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	39	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	40	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	41	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	42	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, P.R. China
+32	43	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	44	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	45	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	46	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	47	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	48	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, China
+32	49	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	50	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	51	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+32	52	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	53	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	54	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	55	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	56	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	57	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	58	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+32	59	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	60	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	61	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	62	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+32	63	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing
+32	64	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+32	65	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+33	34	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	35	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+33	36	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science & Technology, Tsinghua University, China
+33	37	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, China
+33	38	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	39	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	40	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	41	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	42	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, P.R. China
+33	43	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	44	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	45	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	46	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	47	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	48	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, China
+33	49	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	50	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	51	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+33	52	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	53	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	54	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	55	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	56	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	57	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	58	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+33	59	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	60	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	61	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	62	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+33	63	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing
+33	64	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+33	65	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+34	35	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing
+34	36	null	Department of Computer Science & Technology, Tsinghua University, China
+34	37	null	Department of Computer Science and Technology, Tsinghua University, China
+34	38	null	null
+34	39	null	null
+34	40	null	null
+34	41	null	null
+34	42	null	Tsinghua University, P.R. China
+34	43	null	Tsinghua University, Beijing, China
+34	44	null	Tsinghua University, Beijing, China
+34	45	null	Tsinghua University, Beijing, China
+34	46	null	Tsinghua University, Beijing, China
+34	47	null	Tsinghua University, Beijing, China
+34	48	null	Tsinghua University, China
+34	49	null	null
+34	50	null	null
+34	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+34	52	null	null
+34	53	null	null
+34	54	null	Tsinghua University, Beijing, China
+34	55	null	null
+34	56	null	Tsinghua University, Beijing, China
+34	57	null	Tsinghua University, Beijing, China
+34	58	null	Tsinghua University, Beijing, China
+34	59	null	null
+34	60	null	null
+34	61	null	null
+34	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+34	63	null	Tsinghua University, Beijing
+34	64	null	null
+34	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+35	36	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science & Technology, Tsinghua University, China
+35	37	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua University, China
+35	38	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	39	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	40	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	41	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	42	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, P.R. China
+35	43	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	44	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	45	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	46	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	47	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	48	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, China
+35	49	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	50	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	51	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+35	52	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	53	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	54	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	55	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	56	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	57	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	58	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing, China
+35	59	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	60	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	61	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	62	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+35	63	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Tsinghua University, Beijing
+35	64	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	null
+35	65	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+36	37	Department of Computer Science & Technology, Tsinghua University, China	Department of Computer Science and Technology, Tsinghua University, China
+36	38	Department of Computer Science & Technology, Tsinghua University, China	null
+36	39	Department of Computer Science & Technology, Tsinghua University, China	null
+36	40	Department of Computer Science & Technology, Tsinghua University, China	null
+36	41	Department of Computer Science & Technology, Tsinghua University, China	null
+36	42	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, P.R. China
+36	43	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	44	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	45	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	46	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	47	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	48	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, China
+36	49	Department of Computer Science & Technology, Tsinghua University, China	null
+36	50	Department of Computer Science & Technology, Tsinghua University, China	null
+36	51	Department of Computer Science & Technology, Tsinghua University, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+36	52	Department of Computer Science & Technology, Tsinghua University, China	null
+36	53	Department of Computer Science & Technology, Tsinghua University, China	null
+36	54	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	55	Department of Computer Science & Technology, Tsinghua University, China	null
+36	56	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	57	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	58	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+36	59	Department of Computer Science & Technology, Tsinghua University, China	null
+36	60	Department of Computer Science & Technology, Tsinghua University, China	null
+36	61	Department of Computer Science & Technology, Tsinghua University, China	null
+36	62	Department of Computer Science & Technology, Tsinghua University, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+36	63	Department of Computer Science & Technology, Tsinghua University, China	Tsinghua University, Beijing
+36	64	Department of Computer Science & Technology, Tsinghua University, China	null
+36	65	Department of Computer Science & Technology, Tsinghua University, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+37	38	Department of Computer Science and Technology, Tsinghua University, China	null
+37	39	Department of Computer Science and Technology, Tsinghua University, China	null
+37	40	Department of Computer Science and Technology, Tsinghua University, China	null
+37	41	Department of Computer Science and Technology, Tsinghua University, China	null
+37	42	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, P.R. China
+37	43	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	44	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	45	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	46	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	47	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	48	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, China
+37	49	Department of Computer Science and Technology, Tsinghua University, China	null
+37	50	Department of Computer Science and Technology, Tsinghua University, China	null
+37	51	Department of Computer Science and Technology, Tsinghua University, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+37	52	Department of Computer Science and Technology, Tsinghua University, China	null
+37	53	Department of Computer Science and Technology, Tsinghua University, China	null
+37	54	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	55	Department of Computer Science and Technology, Tsinghua University, China	null
+37	56	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	57	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	58	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing, China
+37	59	Department of Computer Science and Technology, Tsinghua University, China	null
+37	60	Department of Computer Science and Technology, Tsinghua University, China	null
+37	61	Department of Computer Science and Technology, Tsinghua University, China	null
+37	62	Department of Computer Science and Technology, Tsinghua University, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+37	63	Department of Computer Science and Technology, Tsinghua University, China	Tsinghua University, Beijing
+37	64	Department of Computer Science and Technology, Tsinghua University, China	null
+37	65	Department of Computer Science and Technology, Tsinghua University, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+38	39	null	null
+38	40	null	null
+38	41	null	null
+38	42	null	Tsinghua University, P.R. China
+38	43	null	Tsinghua University, Beijing, China
+38	44	null	Tsinghua University, Beijing, China
+38	45	null	Tsinghua University, Beijing, China
+38	46	null	Tsinghua University, Beijing, China
+38	47	null	Tsinghua University, Beijing, China
+38	48	null	Tsinghua University, China
+38	49	null	null
+38	50	null	null
+38	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+38	52	null	null
+38	53	null	null
+38	54	null	Tsinghua University, Beijing, China
+38	55	null	null
+38	56	null	Tsinghua University, Beijing, China
+38	57	null	Tsinghua University, Beijing, China
+38	58	null	Tsinghua University, Beijing, China
+38	59	null	null
+38	60	null	null
+38	61	null	null
+38	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+38	63	null	Tsinghua University, Beijing
+38	64	null	null
+38	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+39	40	null	null
+39	41	null	null
+39	42	null	Tsinghua University, P.R. China
+39	43	null	Tsinghua University, Beijing, China
+39	44	null	Tsinghua University, Beijing, China
+39	45	null	Tsinghua University, Beijing, China
+39	46	null	Tsinghua University, Beijing, China
+39	47	null	Tsinghua University, Beijing, China
+39	48	null	Tsinghua University, China
+39	49	null	null
+39	50	null	null
+39	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+39	52	null	null
+39	53	null	null
+39	54	null	Tsinghua University, Beijing, China
+39	55	null	null
+39	56	null	Tsinghua University, Beijing, China
+39	57	null	Tsinghua University, Beijing, China
+39	58	null	Tsinghua University, Beijing, China
+39	59	null	null
+39	60	null	null
+39	61	null	null
+39	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+39	63	null	Tsinghua University, Beijing
+39	64	null	null
+39	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+40	41	null	null
+40	42	null	Tsinghua University, P.R. China
+40	43	null	Tsinghua University, Beijing, China
+40	44	null	Tsinghua University, Beijing, China
+40	45	null	Tsinghua University, Beijing, China
+40	46	null	Tsinghua University, Beijing, China
+40	47	null	Tsinghua University, Beijing, China
+40	48	null	Tsinghua University, China
+40	49	null	null
+40	50	null	null
+40	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+40	52	null	null
+40	53	null	null
+40	54	null	Tsinghua University, Beijing, China
+40	55	null	null
+40	56	null	Tsinghua University, Beijing, China
+40	57	null	Tsinghua University, Beijing, China
+40	58	null	Tsinghua University, Beijing, China
+40	59	null	null
+40	60	null	null
+40	61	null	null
+40	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+40	63	null	Tsinghua University, Beijing
+40	64	null	null
+40	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+41	42	null	Tsinghua University, P.R. China
+41	43	null	Tsinghua University, Beijing, China
+41	44	null	Tsinghua University, Beijing, China
+41	45	null	Tsinghua University, Beijing, China
+41	46	null	Tsinghua University, Beijing, China
+41	47	null	Tsinghua University, Beijing, China
+41	48	null	Tsinghua University, China
+41	49	null	null
+41	50	null	null
+41	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+41	52	null	null
+41	53	null	null
+41	54	null	Tsinghua University, Beijing, China
+41	55	null	null
+41	56	null	Tsinghua University, Beijing, China
+41	57	null	Tsinghua University, Beijing, China
+41	58	null	Tsinghua University, Beijing, China
+41	59	null	null
+41	60	null	null
+41	61	null	null
+41	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+41	63	null	Tsinghua University, Beijing
+41	64	null	null
+41	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+42	43	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	44	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	45	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	46	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	47	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	48	Tsinghua University, P.R. China	Tsinghua University, China
+42	49	Tsinghua University, P.R. China	null
+42	50	Tsinghua University, P.R. China	null
+42	51	Tsinghua University, P.R. China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+42	52	Tsinghua University, P.R. China	null
+42	53	Tsinghua University, P.R. China	null
+42	54	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	55	Tsinghua University, P.R. China	null
+42	56	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	57	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	58	Tsinghua University, P.R. China	Tsinghua University, Beijing, China
+42	59	Tsinghua University, P.R. China	null
+42	60	Tsinghua University, P.R. China	null
+42	61	Tsinghua University, P.R. China	null
+42	62	Tsinghua University, P.R. China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+42	63	Tsinghua University, P.R. China	Tsinghua University, Beijing
+42	64	Tsinghua University, P.R. China	null
+42	65	Tsinghua University, P.R. China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+43	44	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	45	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	46	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	47	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	48	Tsinghua University, Beijing, China	Tsinghua University, China
+43	49	Tsinghua University, Beijing, China	null
+43	50	Tsinghua University, Beijing, China	null
+43	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+43	52	Tsinghua University, Beijing, China	null
+43	53	Tsinghua University, Beijing, China	null
+43	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	55	Tsinghua University, Beijing, China	null
+43	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+43	59	Tsinghua University, Beijing, China	null
+43	60	Tsinghua University, Beijing, China	null
+43	61	Tsinghua University, Beijing, China	null
+43	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+43	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+43	64	Tsinghua University, Beijing, China	null
+43	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+44	45	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+44	46	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+44	47	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+44	48	Tsinghua University, Beijing, China	Tsinghua University, China
+44	49	Tsinghua University, Beijing, China	null
+44	50	Tsinghua University, Beijing, China	null
+44	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+44	52	Tsinghua University, Beijing, China	null
+44	53	Tsinghua University, Beijing, China	null
+44	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+44	55	Tsinghua University, Beijing, China	null
+44	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+44	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+44	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+44	59	Tsinghua University, Beijing, China	null
+44	60	Tsinghua University, Beijing, China	null
+44	61	Tsinghua University, Beijing, China	null
+44	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+44	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+44	64	Tsinghua University, Beijing, China	null
+44	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+45	46	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+45	47	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+45	48	Tsinghua University, Beijing, China	Tsinghua University, China
+45	49	Tsinghua University, Beijing, China	null
+45	50	Tsinghua University, Beijing, China	null
+45	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+45	52	Tsinghua University, Beijing, China	null
+45	53	Tsinghua University, Beijing, China	null
+45	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+45	55	Tsinghua University, Beijing, China	null
+45	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+45	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+45	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+45	59	Tsinghua University, Beijing, China	null
+45	60	Tsinghua University, Beijing, China	null
+45	61	Tsinghua University, Beijing, China	null
+45	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+45	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+45	64	Tsinghua University, Beijing, China	null
+45	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+46	47	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+46	48	Tsinghua University, Beijing, China	Tsinghua University, China
+46	49	Tsinghua University, Beijing, China	null
+46	50	Tsinghua University, Beijing, China	null
+46	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+46	52	Tsinghua University, Beijing, China	null
+46	53	Tsinghua University, Beijing, China	null
+46	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+46	55	Tsinghua University, Beijing, China	null
+46	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+46	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+46	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+46	59	Tsinghua University, Beijing, China	null
+46	60	Tsinghua University, Beijing, China	null
+46	61	Tsinghua University, Beijing, China	null
+46	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+46	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+46	64	Tsinghua University, Beijing, China	null
+46	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+47	48	Tsinghua University, Beijing, China	Tsinghua University, China
+47	49	Tsinghua University, Beijing, China	null
+47	50	Tsinghua University, Beijing, China	null
+47	51	Tsinghua University, Beijing, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+47	52	Tsinghua University, Beijing, China	null
+47	53	Tsinghua University, Beijing, China	null
+47	54	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+47	55	Tsinghua University, Beijing, China	null
+47	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+47	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+47	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+47	59	Tsinghua University, Beijing, China	null
+47	60	Tsinghua University, Beijing, China	null
+47	61	Tsinghua University, Beijing, China	null
+47	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+47	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+47	64	Tsinghua University, Beijing, China	null
+47	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+48	49	Tsinghua University, China	null
+48	50	Tsinghua University, China	null
+48	51	Tsinghua University, China	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+48	52	Tsinghua University, China	null
+48	53	Tsinghua University, China	null
+48	54	Tsinghua University, China	Tsinghua University, Beijing, China
+48	55	Tsinghua University, China	null
+48	56	Tsinghua University, China	Tsinghua University, Beijing, China
+48	57	Tsinghua University, China	Tsinghua University, Beijing, China
+48	58	Tsinghua University, China	Tsinghua University, Beijing, China
+48	59	Tsinghua University, China	null
+48	60	Tsinghua University, China	null
+48	61	Tsinghua University, China	null
+48	62	Tsinghua University, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+48	63	Tsinghua University, China	Tsinghua University, Beijing
+48	64	Tsinghua University, China	null
+48	65	Tsinghua University, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+49	50	null	null
+49	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+49	52	null	null
+49	53	null	null
+49	54	null	Tsinghua University, Beijing, China
+49	55	null	null
+49	56	null	Tsinghua University, Beijing, China
+49	57	null	Tsinghua University, Beijing, China
+49	58	null	Tsinghua University, Beijing, China
+49	59	null	null
+49	60	null	null
+49	61	null	null
+49	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+49	63	null	Tsinghua University, Beijing
+49	64	null	null
+49	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+50	51	null	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China
+50	52	null	null
+50	53	null	null
+50	54	null	Tsinghua University, Beijing, China
+50	55	null	null
+50	56	null	Tsinghua University, Beijing, China
+50	57	null	Tsinghua University, Beijing, China
+50	58	null	Tsinghua University, Beijing, China
+50	59	null	null
+50	60	null	null
+50	61	null	null
+50	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+50	63	null	Tsinghua University, Beijing
+50	64	null	null
+50	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+51	52	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	null
+51	53	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	null
+51	54	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	Tsinghua University, Beijing, China
+51	55	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	null
+51	56	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	Tsinghua University, Beijing, China
+51	57	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	Tsinghua University, Beijing, China
+51	58	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	Tsinghua University, Beijing, China
+51	59	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	null
+51	60	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	null
+51	61	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	null
+51	62	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+51	63	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	Tsinghua University, Beijing
+51	64	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	null
+51	65	Department of Computer Science and Technology, 10-201, East Main Building, Tsinghua University, Beijing 100084, PR China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+52	53	null	null
+52	54	null	Tsinghua University, Beijing, China
+52	55	null	null
+52	56	null	Tsinghua University, Beijing, China
+52	57	null	Tsinghua University, Beijing, China
+52	58	null	Tsinghua University, Beijing, China
+52	59	null	null
+52	60	null	null
+52	61	null	null
+52	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+52	63	null	Tsinghua University, Beijing
+52	64	null	null
+52	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+53	54	null	Tsinghua University, Beijing, China
+53	55	null	null
+53	56	null	Tsinghua University, Beijing, China
+53	57	null	Tsinghua University, Beijing, China
+53	58	null	Tsinghua University, Beijing, China
+53	59	null	null
+53	60	null	null
+53	61	null	null
+53	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+53	63	null	Tsinghua University, Beijing
+53	64	null	null
+53	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+54	55	Tsinghua University, Beijing, China	null
+54	56	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+54	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+54	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+54	59	Tsinghua University, Beijing, China	null
+54	60	Tsinghua University, Beijing, China	null
+54	61	Tsinghua University, Beijing, China	null
+54	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+54	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+54	64	Tsinghua University, Beijing, China	null
+54	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+55	56	null	Tsinghua University, Beijing, China
+55	57	null	Tsinghua University, Beijing, China
+55	58	null	Tsinghua University, Beijing, China
+55	59	null	null
+55	60	null	null
+55	61	null	null
+55	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+55	63	null	Tsinghua University, Beijing
+55	64	null	null
+55	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+56	57	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+56	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+56	59	Tsinghua University, Beijing, China	null
+56	60	Tsinghua University, Beijing, China	null
+56	61	Tsinghua University, Beijing, China	null
+56	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+56	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+56	64	Tsinghua University, Beijing, China	null
+56	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+57	58	Tsinghua University, Beijing, China	Tsinghua University, Beijing, China
+57	59	Tsinghua University, Beijing, China	null
+57	60	Tsinghua University, Beijing, China	null
+57	61	Tsinghua University, Beijing, China	null
+57	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+57	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+57	64	Tsinghua University, Beijing, China	null
+57	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+58	59	Tsinghua University, Beijing, China	null
+58	60	Tsinghua University, Beijing, China	null
+58	61	Tsinghua University, Beijing, China	null
+58	62	Tsinghua University, Beijing, China	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+58	63	Tsinghua University, Beijing, China	Tsinghua University, Beijing
+58	64	Tsinghua University, Beijing, China	null
+58	65	Tsinghua University, Beijing, China	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+59	60	null	null
+59	61	null	null
+59	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+59	63	null	Tsinghua University, Beijing
+59	64	null	null
+59	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+60	61	null	null
+60	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+60	63	null	Tsinghua University, Beijing
+60	64	null	null
+60	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+61	62	null	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084
+61	63	null	Tsinghua University, Beijing
+61	64	null	null
+61	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+62	63	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084	Tsinghua University, Beijing
+62	64	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084	null
+62	65	Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology, Tsinghua University, Beijing, China 100084	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+63	64	Tsinghua University, Beijing	null
+63	65	Tsinghua University, Beijing	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China
+64	65	null	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing, China

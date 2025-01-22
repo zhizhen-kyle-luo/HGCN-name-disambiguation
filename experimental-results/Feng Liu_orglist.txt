@@ -1,0 +1,95 @@
+1	78	Concordia University, Canada	Concordia Univ., Montreal
+2	3	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China
+2	9	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China	Beijing University of Posts and Telecommunications, Beijing, China
+2	61	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China	Department of Computer Science and Technology, Beijing University of Posts and Telecommunications,
+2	137	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China	Beijing University of Posts and Telecommunications, China
+3	9	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China	Beijing University of Posts and Telecommunications, Beijing, China
+3	61	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China	Department of Computer Science and Technology, Beijing University of Posts and Telecommunications,
+3	137	Department of Computer Science, Beijing University of Posts and Telecommunications, Xitu Cheng Lu 10, 100876 Beijing, China	Beijing University of Posts and Telecommunications, China
+4	42	Avaya Labs Research, NJ, USA	Avaya Labs Research, 233 Mt. Airy Road, Basking Ridge, NJ 07920, USA
+4	44	Avaya Labs Research, NJ, USA	Avaya Labs Research, Basking Ridge, NJ
+6	118	Network Management Research Centre, Beijing Jiaotong University, and Engineering Research Center of Network Management Technology for High Speed Railway, Ministry of Education, Beijing, P.R. China 100044	Beijing JiaoTong University
+9	61	Beijing University of Posts and Telecommunications, Beijing, China	Department of Computer Science and Technology, Beijing University of Posts and Telecommunications,
+9	137	Beijing University of Posts and Telecommunications, Beijing, China	Beijing University of Posts and Telecommunications, China
+10	121	Guangdong Univ. of Technol., Guangzhou	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China
+10	122	Guangdong Univ. of Technol., Guangzhou	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China
+10	141	Guangdong Univ. of Technol., Guangzhou	Guangdong University of Technology, Guangzhou, 510006, China
+10	148	Guangdong Univ. of Technol., Guangzhou	Guangdong Univ. of Technol., Guangzhou
+15	59	Computer Sciences Department, University of Wisconsin-Madison,	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685
+15	62	Computer Sciences Department, University of Wisconsin-Madison,	University of Wisconsin, Madison, Madison, WI
+15	63	Computer Sciences Department, University of Wisconsin-Madison,	University of Wisconsin - Madison, Madison, WI
+15	64	Computer Sciences Department, University of Wisconsin-Madison,	University of Wisconsin-Madison, Madison, WI, USA
+15	65	Computer Sciences Department, University of Wisconsin-Madison,	University of Wisconsin-Madison, Madison, WI, USA
+15	75	Computer Sciences Department, University of Wisconsin-Madison,	University of Wisconsin-Madison, Madison, WI
+15	104	Computer Sciences Department, University of Wisconsin-Madison,	University of Wisconsin-Madison, Madison, WI
+15	112	Computer Sciences Department, University of Wisconsin-Madison,	University of Wisconsin-Madison
+15	123	Computer Sciences Department, University of Wisconsin-Madison,	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+16	52	Hong Kong Univ. of Sci. & Technol., China	Hong Kong Univ. of Sci. & Technol.
+18	54	Microprocessor R&D Center, Peking Univ., Beijing	Sch. of Comput. & Inf. Eng., Peking Univ., Shenzhen
+18	55	Microprocessor R&D Center, Peking Univ., Beijing	Peking Univ., Beijing
+18	56	Microprocessor R&D Center, Peking Univ., Beijing	Peking Univ., Shenzhen
+18	57	Microprocessor R&D Center, Peking Univ., Beijing	TSRC, Key Laboratory of Microelectronic Devices and Circuits of Ministry of Education, Institute of Microelectronics, EECS, Peking University, 100871, China
+40	43	Avaya Labs Research	Avaya Labs Research, Avaya Inc.
+42	44	Avaya Labs Research, 233 Mt. Airy Road, Basking Ridge, NJ 07920, USA	Avaya Labs Research, Basking Ridge, NJ
+42	51	Avaya Labs Research, 233 Mt. Airy Road, Basking Ridge, NJ 07920, USA	Avaya Res. Labs, Basking Ridge, NJ, USA
+54	55	Sch. of Comput. & Inf. Eng., Peking Univ., Shenzhen	Peking Univ., Beijing
+54	56	Sch. of Comput. & Inf. Eng., Peking Univ., Shenzhen	Peking Univ., Shenzhen
+55	56	Peking Univ., Beijing	Peking Univ., Shenzhen
+55	57	Peking Univ., Beijing	TSRC, Key Laboratory of Microelectronic Devices and Circuits of Ministry of Education, Institute of Microelectronics, EECS, Peking University, 100871, China
+56	57	Peking Univ., Shenzhen	TSRC, Key Laboratory of Microelectronic Devices and Circuits of Ministry of Education, Institute of Microelectronics, EECS, Peking University, 100871, China
+58	124	National Lab of Parallel Distributed Processing, Hunan, China	Nat. Lab. of Parallel Distrib. Process., Hunan, China
+59	62	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	University of Wisconsin, Madison, Madison, WI
+59	63	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	University of Wisconsin - Madison, Madison, WI
+59	64	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	University of Wisconsin-Madison, Madison, WI, USA
+59	65	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	University of Wisconsin-Madison, Madison, WI, USA
+59	75	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	University of Wisconsin-Madison, Madison, WI
+59	104	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	University of Wisconsin-Madison, Madison, WI
+59	112	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	University of Wisconsin-Madison
+59	123	Computer Science, University of Wisconsin --- Madison, Madison, USA WI 53706-1685	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+61	137	Department of Computer Science and Technology, Beijing University of Posts and Telecommunications,	Beijing University of Posts and Telecommunications, China
+62	63	University of Wisconsin, Madison, Madison, WI	University of Wisconsin - Madison, Madison, WI
+62	64	University of Wisconsin, Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI, USA
+62	65	University of Wisconsin, Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI, USA
+62	75	University of Wisconsin, Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI
+62	104	University of Wisconsin, Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI
+62	112	University of Wisconsin, Madison, Madison, WI	University of Wisconsin-Madison
+62	123	University of Wisconsin, Madison, Madison, WI	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+63	64	University of Wisconsin - Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI, USA
+63	65	University of Wisconsin - Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI, USA
+63	75	University of Wisconsin - Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI
+63	104	University of Wisconsin - Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI
+63	112	University of Wisconsin - Madison, Madison, WI	University of Wisconsin-Madison
+63	123	University of Wisconsin - Madison, Madison, WI	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+64	65	University of Wisconsin-Madison, Madison, WI, USA	University of Wisconsin-Madison, Madison, WI, USA
+64	75	University of Wisconsin-Madison, Madison, WI, USA	University of Wisconsin-Madison, Madison, WI
+64	104	University of Wisconsin-Madison, Madison, WI, USA	University of Wisconsin-Madison, Madison, WI
+64	112	University of Wisconsin-Madison, Madison, WI, USA	University of Wisconsin-Madison
+64	123	University of Wisconsin-Madison, Madison, WI, USA	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+65	75	University of Wisconsin-Madison, Madison, WI, USA	University of Wisconsin-Madison, Madison, WI
+65	104	University of Wisconsin-Madison, Madison, WI, USA	University of Wisconsin-Madison, Madison, WI
+65	112	University of Wisconsin-Madison, Madison, WI, USA	University of Wisconsin-Madison
+65	123	University of Wisconsin-Madison, Madison, WI, USA	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+69	71	National University of Defense Technology Changsha, Hunan, China	National University of Defense Technology
+69	114	National University of Defense Technology Changsha, Hunan, China	Nat. Lab. for Parallel & Distrib. Process. (PDL), Nat. Univ. of Defense Technol., Changsha, China
+69	117	National University of Defense Technology Changsha, Hunan, China	Nat. Lab. for Parallel & Distrib. Process., Nat. Univ. of Defense Technol., Changsha, China
+71	114	National University of Defense Technology	Nat. Lab. for Parallel & Distrib. Process. (PDL), Nat. Univ. of Defense Technol., Changsha, China
+71	117	National University of Defense Technology	Nat. Lab. for Parallel & Distrib. Process., Nat. Univ. of Defense Technol., Changsha, China
+75	104	University of Wisconsin-Madison, Madison, WI	University of Wisconsin-Madison, Madison, WI
+75	112	University of Wisconsin-Madison, Madison, WI	University of Wisconsin-Madison
+75	123	University of Wisconsin-Madison, Madison, WI	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+81	82	Int. Sch. of Software, Wuhan Univ., Wuhan	Int. Sch. of Software, Wuhan Univ., Wuhan
+100	107	Inst. Image Process. & Pattern Recognition, Shanghai Jiao Tong Univ., China	Department of Electronic Engineering, Shanghai Jiao Tong University, Shanghai 200240, China
+104	112	University of Wisconsin-Madison, Madison, WI	University of Wisconsin-Madison
+104	123	University of Wisconsin-Madison, Madison, WI	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+108	129	The University of Texas at San Antonio, TX	University of Texas at San Antonio
+112	123	University of Wisconsin-Madison	Dept. of Comput. Sci., Univ. of Wisconsin-Madison, Madison, WI, USA
+114	117	Nat. Lab. for Parallel & Distrib. Process. (PDL), Nat. Univ. of Defense Technol., Changsha, China	Nat. Lab. for Parallel & Distrib. Process., Nat. Univ. of Defense Technol., Changsha, China
+121	122	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China
+121	141	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China	Guangdong University of Technology, Guangzhou, 510006, China
+121	148	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China	Guangdong Univ. of Technol., Guangzhou
+122	141	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China	Guangdong University of Technology, Guangzhou, 510006, China
+122	148	Fac. of Civil & Transp. Eng., Guangdong Univ. of Technol., Guangzhou, China	Guangdong Univ. of Technol., Guangzhou
+138	140	Nanjing Univ. of Posts & Telecomm, China	Nanjing Univ. of Posts & Telecomm, China
+141	148	Guangdong University of Technology, Guangzhou, 510006, China	Guangdong Univ. of Technol., Guangzhou
+142	143	Dept. of Economic Information, School of Information (Xinxi Xueyuan), Xi'an University of Finance and Economics (Xi'an Caijing Xueyuan), 44 Cuihua Nan Road (Cuihua Nanlu 44 Hao), Xi'an, Shaanxi Province, 710061, P. R. China	Dept. of Economic Information, School of Information (Xinxi Xueyuan), Xi'an University of Finance and Economics (Xi'an Caijing Xueyuan), 44 Cuihua Nan Road (Cuihua Nanlu 44 Hao), Xi'an, Shaanxi Province, 710061, P. R. China
+144	146	Department of Management Science and Engineering, Shaanxi Economics and Trade Institute (South Campus), South Cuihua Road, Xi'an, Shaanxi, 710061, P.R. China	Dept. of Management Science and Engineering, Shaanxi Economics and Trade Institute (South Campus), South Cuihua Road, Xi'an Shaanxi, 710061, P.R. China

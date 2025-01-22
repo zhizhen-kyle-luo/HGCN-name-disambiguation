@@ -1,0 +1,24 @@
+3	4	ER (Workshops)	ER
+3	5	ER (Workshops)	ER
+3	6	ER (Workshops)	ER
+3	9	ER (Workshops)	ER
+3	10	ER (Workshops)	ER Workshops
+4	5	ER	ER
+4	6	ER	ER
+4	9	ER	ER
+4	10	ER	ER Workshops
+5	6	ER	ER
+5	9	ER	ER
+5	10	ER	ER Workshops
+6	9	ER	ER
+6	10	ER	ER Workshops
+9	10	ER	ER Workshops
+11	13	HICSS (4)	HICSS
+12	13	HICSS (3)	HICSS
+14	15	ICIS	ICIS
+14	16	ICIS	ICIS
+15	16	ICIS	ICIS
+17	18	Commun. ACM	Commun. ACM
+17	19	Commun. ACM	Commun. ACM
+18	19	Commun. ACM	Commun. ACM
+21	22	J. Database Manag.	J. Database Manag.

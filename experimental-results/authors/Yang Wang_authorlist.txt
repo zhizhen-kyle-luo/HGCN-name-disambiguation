@@ -1,0 +1,535 @@
+1	3	Yalou Huang	Yalou Huang
+1	3	Dong Li	Dong Li
+1	32	Weijian Ni	Weijian Ni
+1	32	Yalou Huang	Yalou Huang
+1	32	Dong Li	Dong Li
+1	45	Weijian Ni	Weijian Ni
+1	45	Yalou Huang	Yalou Huang
+1	45	Dong Li	Dong Li
+3	32	Maoqiang Xie	Maoqiang Xie
+3	32	Dong Li	Dong Li
+3	32	Yalou Huang	Yalou Huang
+3	45	Maoqiang Xie	Maoqiang Xie
+3	45	Dong Li	Dong Li
+3	45	Yalou Huang	Yalou Huang
+4	51	David J. Mulvaney	David J. Mulvaney
+4	51	Ian P. W. Sillitoe	Ian P. W. Sillitoe
+4	136	David J. Mulvaney	David J. Mulvaney
+4	136	Ian P. W. Sillitoe	Ian P. W. Sillitoe
+4	136	Erick Swere	Erick Swere
+4	138	David J. Mulvaney	David J. Mulvaney
+4	138	Ian P. W. Sillitoe	Ian P. W. Sillitoe
+4	138	Erick Swere	Erick Swere
+4	138	Zhenhuan Zhu	Zhenhuan Zhu
+12	54	G. M. Stocks	G. M. Stocks
+12	54	D. M. C. Nicholson	D. M. C. Nicholson
+12	75	G. M. Stocks	G. M. Stocks
+12	75	D. M. C. Nicholson	D. M. C. Nicholson
+12	77	G. M. Stocks	G. M. Stocks
+12	77	D. M. C. Nicholson	D. M. C. Nicholson
+12	191	G. M. Stocks	G. M. Stocks
+12	191	D. M. C. Nicholson	D. M. C. Nicholson
+13	17	Scott D. Mainwaring	Scott D. Mainwaring
+13	152	Scott D. Mainwaring	Scott D. Mainwaring
+14	160	Huaiming Song	Huaiming Song
+14	160	Weiping Wang	Weiping Wang
+14	160	Mingyuan An	Mingyuan An
+14	168	Mingyuan An	Mingyuan An
+15	124	Yong Gao	Yong Gao
+15	124	Junfeng Wu	Junfeng Wu
+15	124	Robert Niewiadomski	Robert Niewiadomski
+15	124	Zhi-Zhong Chen	Zhi-Zhong Chen
+15	124	Guohui Lin	Guohui Lin
+16	38	Hung Q. Ngo	Hung Q. Ngo
+16	91	Hung Q. Ngo	Hung Q. Ngo
+16	144	Hung Q. Ngo	Hung Q. Ngo
+17	152	Silvia Lindtner	Silvia Lindtner
+17	152	Scott D. Mainwaring	Scott D. Mainwaring
+18	22	Dimitris Samaras	Dimitris Samaras
+18	22	Sen Wang	Sen Wang
+18	23	Dimitris Samaras	Dimitris Samaras
+18	27	Dimitris Samaras	Dimitris Samaras
+18	28	Dimitris Samaras	Dimitris Samaras
+18	40	Dimitris Samaras	Dimitris Samaras
+18	40	Sen Wang	Sen Wang
+18	40	Mohit Gupta	Mohit Gupta
+18	43	Dimitris Samaras	Dimitris Samaras
+18	43	Sen Wang	Sen Wang
+18	71	Dimitris Samaras	Dimitris Samaras
+18	102	Dimitris Samaras	Dimitris Samaras
+18	104	Dimitris Samaras	Dimitris Samaras
+18	108	Dimitris Samaras	Dimitris Samaras
+18	108	Sen Wang	Sen Wang
+18	108	Mohit Gupta	Mohit Gupta
+18	110	Dimitris Samaras	Dimitris Samaras
+18	116	Dimitris Samaras	Dimitris Samaras
+18	116	Sen Wang	Sen Wang
+18	164	Dimitris Samaras	Dimitris Samaras
+18	164	Lei Zhang	Lei Zhang
+19	49	Qiang Ji	Qiang Ji
+19	119	Qiang Ji	Qiang Ji
+20	29	Greg Mori	Greg Mori
+20	36	Greg Mori	Greg Mori
+20	37	Greg Mori	Greg Mori
+20	48	Greg Mori	Greg Mori
+20	66	Greg Mori	Greg Mori
+20	163	Greg Mori	Greg Mori
+21	41	Tele Tan	Tele Tan
+21	41	Kia-Fock Loe	Kia-Fock Loe
+21	47	Tele Tan	Tele Tan
+21	47	Kia-Fock Loe	Kia-Fock Loe
+21	53	Tele Tan	Tele Tan
+21	53	Kia-Fock Loe	Kia-Fock Loe
+21	84	Tele Tan	Tele Tan
+21	87	Tele Tan	Tele Tan
+21	87	Kia-Fock Loe	Kia-Fock Loe
+21	115	Kia-Fock Loe	Kia-Fock Loe
+21	118	Tele Tan	Tele Tan
+21	118	Kia-Fock Loe	Kia-Fock Loe
+21	125	Tele Tan	Tele Tan
+21	125	Kia-Fock Loe	Kia-Fock Loe
+22	23	Dimitris Samaras	Dimitris Samaras
+22	27	Dimitris Samaras	Dimitris Samaras
+22	28	Xianfeng Gu	Xianfeng Gu
+22	28	Dimitris Samaras	Dimitris Samaras
+22	40	Sen Wang	Sen Wang
+22	40	Xianfeng Gu	Xianfeng Gu
+22	40	Dimitris Samaras	Dimitris Samaras
+22	43	Sen Wang	Sen Wang
+22	43	Xianfeng Gu	Xianfeng Gu
+22	43	Dimitris Samaras	Dimitris Samaras
+22	71	Dimitris Samaras	Dimitris Samaras
+22	102	Dimitris Samaras	Dimitris Samaras
+22	104	Dimitris Samaras	Dimitris Samaras
+22	108	Sen Wang	Sen Wang
+22	108	Xianfeng Gu	Xianfeng Gu
+22	108	Dimitris Samaras	Dimitris Samaras
+22	110	Dimitris Samaras	Dimitris Samaras
+22	116	Sen Wang	Sen Wang
+22	116	Miao Jin	Miao Jin
+22	116	Dimitris Samaras	Dimitris Samaras
+22	164	Dimitris Samaras	Dimitris Samaras
+23	27	Dimitris Samaras	Dimitris Samaras
+23	28	Dimitris Samaras	Dimitris Samaras
+23	40	Dimitris Samaras	Dimitris Samaras
+23	43	Dimitris Samaras	Dimitris Samaras
+23	71	Dimitris Samaras	Dimitris Samaras
+23	102	Dimitris Samaras	Dimitris Samaras
+23	104	Dimitris Samaras	Dimitris Samaras
+23	108	Dimitris Samaras	Dimitris Samaras
+23	110	Dimitris Samaras	Dimitris Samaras
+23	116	Dimitris Samaras	Dimitris Samaras
+23	164	Zicheng Liu	Zicheng Liu
+23	164	Gang Hua	Gang Hua
+23	164	Zhen Wen	Zhen Wen
+23	164	Zhengyou Zhang	Zhengyou Zhang
+23	164	Dimitris Samaras	Dimitris Samaras
+24	42	Simon Lucey	Simon Lucey
+24	42	Jeffrey F. Cohn	Jeffrey F. Cohn
+24	162	Simon Lucey	Simon Lucey
+24	162	Jeffrey F. Cohn	Jeffrey F. Cohn
+25	68	Osmar R. Zaiane	Osmar R. Zaiane
+25	68	Randy Goebel	Randy Goebel
+25	68	Gregory J. Taylor	Gregory J. Taylor
+26	44	Yanmin Sun	Yanmin Sun
+26	59	Andrew K. C. Wong	Andrew K. C. Wong
+26	60	Yanmin Sun	Yanmin Sun
+26	60	Andrew K. C. Wong	Andrew K. C. Wong
+26	107	Andrew K. C. Wong	Andrew K. C. Wong
+26	120	Yanmin Sun	Yanmin Sun
+26	120	Andrew K. C. Wong	Andrew K. C. Wong
+26	122	Andrew K. C. Wong	Andrew K. C. Wong
+26	123	Andrew K. C. Wong	Andrew K. C. Wong
+26	127	Yanmin Sun	Yanmin Sun
+26	127	Andrew K. C. Wong	Andrew K. C. Wong
+26	128	Andrew K. C. Wong	Andrew K. C. Wong
+26	129	Andrew K. C. Wong	Andrew K. C. Wong
+26	132	Andrew K. C. Wong	Andrew K. C. Wong
+26	133	Yanmin Sun	Yanmin Sun
+26	133	Andrew K. C. Wong	Andrew K. C. Wong
+27	28	Dimitris Samaras	Dimitris Samaras
+27	40	Dimitris Samaras	Dimitris Samaras
+27	43	Dimitris Samaras	Dimitris Samaras
+27	71	Dimitris Samaras	Dimitris Samaras
+27	102	Dimitris Samaras	Dimitris Samaras
+27	104	Dimitris Samaras	Dimitris Samaras
+27	108	Dimitris Samaras	Dimitris Samaras
+27	110	Dimitris Samaras	Dimitris Samaras
+27	116	Dimitris Samaras	Dimitris Samaras
+27	164	Dimitris Samaras	Dimitris Samaras
+28	40	Xianfeng Gu	Xianfeng Gu
+28	40	Dimitris Samaras	Dimitris Samaras
+28	43	Yun Zeng	Yun Zeng
+28	43	Xianfeng Gu	Xianfeng Gu
+28	43	Dimitris Samaras	Dimitris Samaras
+28	71	Dimitris Samaras	Dimitris Samaras
+28	102	Dimitris Samaras	Dimitris Samaras
+28	104	Dimitris Samaras	Dimitris Samaras
+28	108	Xianfeng Gu	Xianfeng Gu
+28	108	Dimitris Samaras	Dimitris Samaras
+28	110	Dimitris Samaras	Dimitris Samaras
+28	116	Dimitris Samaras	Dimitris Samaras
+28	164	Dimitris Samaras	Dimitris Samaras
+29	36	Greg Mori	Greg Mori
+29	37	Greg Mori	Greg Mori
+29	48	Greg Mori	Greg Mori
+29	66	Greg Mori	Greg Mori
+29	163	Greg Mori	Greg Mori
+32	45	Dong Li	Dong Li
+32	45	Weijian Ni	Weijian Ni
+32	45	Yalou Huang	Yalou Huang
+32	45	Maoqiang Xie	Maoqiang Xie
+33	169	Hanming Lv	Hanming Lv
+35	64	Meng Ding	Meng Ding
+35	70	Paul Lu	Paul Lu
+36	37	Greg Mori	Greg Mori
+36	48	Greg Mori	Greg Mori
+36	66	Greg Mori	Greg Mori
+36	163	Greg Mori	Greg Mori
+37	48	Greg Mori	Greg Mori
+37	66	Greg Mori	Greg Mori
+37	163	Greg Mori	Greg Mori
+38	91	Hung Q. Ngo	Hung Q. Ngo
+38	144	Hung Q. Ngo	Hung Q. Ngo
+39	159	Wei Xue	Wei Xue
+39	159	Jiwu Shu	Jiwu Shu
+40	43	Sen Wang	Sen Wang
+40	43	Xianfeng Gu	Xianfeng Gu
+40	43	Dimitris Samaras	Dimitris Samaras
+40	71	Dimitris Samaras	Dimitris Samaras
+40	102	Song Zhang	Song Zhang
+40	102	Dimitris Samaras	Dimitris Samaras
+40	102	Peisen Huang	Peisen Huang
+40	104	Dimitris Samaras	Dimitris Samaras
+40	108	Mohit Gupta	Mohit Gupta
+40	108	Song Zhang	Song Zhang
+40	108	Sen Wang	Sen Wang
+40	108	Xianfeng Gu	Xianfeng Gu
+40	108	Dimitris Samaras	Dimitris Samaras
+40	108	Peisen Huang	Peisen Huang
+40	110	Dimitris Samaras	Dimitris Samaras
+40	116	Sen Wang	Sen Wang
+40	116	Dimitris Samaras	Dimitris Samaras
+40	164	Dimitris Samaras	Dimitris Samaras
+41	47	Tele Tan	Tele Tan
+41	47	Kia-Fock Loe	Kia-Fock Loe
+41	53	Tele Tan	Tele Tan
+41	53	Kia-Fock Loe	Kia-Fock Loe
+41	84	Tele Tan	Tele Tan
+41	87	Tele Tan	Tele Tan
+41	87	Kia-Fock Loe	Kia-Fock Loe
+41	115	Kia-Fock Loe	Kia-Fock Loe
+41	118	Tele Tan	Tele Tan
+41	118	Kia-Fock Loe	Kia-Fock Loe
+41	125	Tele Tan	Tele Tan
+41	125	Kia-Fock Loe	Kia-Fock Loe
+42	162	Simon Lucey	Simon Lucey
+42	162	Jeffrey F. Cohn	Jeffrey F. Cohn
+43	71	Dimitris Samaras	Dimitris Samaras
+43	102	Dimitris Samaras	Dimitris Samaras
+43	104	Dimitris Samaras	Dimitris Samaras
+43	108	Xianfeng Gu	Xianfeng Gu
+43	108	Sen Wang	Sen Wang
+43	108	Dimitris Samaras	Dimitris Samaras
+43	110	Dimitris Samaras	Dimitris Samaras
+43	116	Sen Wang	Sen Wang
+43	116	Dimitris Samaras	Dimitris Samaras
+43	164	Dimitris Samaras	Dimitris Samaras
+44	60	Yanmin Sun	Yanmin Sun
+44	120	Yanmin Sun	Yanmin Sun
+44	120	Mohamed S. Kamel	Mohamed S. Kamel
+44	127	Yanmin Sun	Yanmin Sun
+44	133	Yanmin Sun	Yanmin Sun
+46	73	Prabir Bhattacharya	Prabir Bhattacharya
+46	74	Prabir Bhattacharya	Prabir Bhattacharya
+46	105	Prabir Bhattacharya	Prabir Bhattacharya
+46	117	Prabir Bhattacharya	Prabir Bhattacharya
+47	53	Tele Tan	Tele Tan
+47	53	Kia-Fock Loe	Kia-Fock Loe
+47	84	Tele Tan	Tele Tan
+47	87	Tele Tan	Tele Tan
+47	87	Kia-Fock Loe	Kia-Fock Loe
+47	115	Kia-Fock Loe	Kia-Fock Loe
+47	118	Tele Tan	Tele Tan
+47	118	Kia-Fock Loe	Kia-Fock Loe
+47	125	Tele Tan	Tele Tan
+47	125	Kia-Fock Loe	Kia-Fock Loe
+48	66	Greg Mori	Greg Mori
+48	163	Greg Mori	Greg Mori
+49	119	Yan Tong	Yan Tong
+49	119	Zhiwei Zhu	Zhiwei Zhu
+49	119	Qiang Ji	Qiang Ji
+51	136	Ian P. W. Sillitoe	Ian P. W. Sillitoe
+51	136	David J. Mulvaney	David J. Mulvaney
+51	138	Ian P. W. Sillitoe	Ian P. W. Sillitoe
+51	138	David J. Mulvaney	David J. Mulvaney
+52	109	Jinwen Ma	Jinwen Ma
+52	109	Bin Gao	Bin Gao
+52	109	QianSheng Cheng	QianSheng Cheng
+53	84	Tele Tan	Tele Tan
+53	87	Tele Tan	Tele Tan
+53	87	Kia-Fock Loe	Kia-Fock Loe
+53	115	Kia-Fock Loe	Kia-Fock Loe
+53	118	Tele Tan	Tele Tan
+53	118	Kia-Fock Loe	Kia-Fock Loe
+53	125	Tele Tan	Tele Tan
+53	125	Kia-Fock Loe	Kia-Fock Loe
+54	75	William A. Shelton	William A. Shelton
+54	75	D. M. C. Nicholson	D. M. C. Nicholson
+54	75	G. M. Stocks	G. M. Stocks
+54	77	A. Canning	A. Canning
+54	77	B. Ujfalussy	B. Ujfalussy
+54	77	Thomas C. Schulthess	Thomas C. Schulthess
+54	77	X.-G. Zhang	X.-G. Zhang
+54	77	William A. Shelton	William A. Shelton
+54	77	D. M. C. Nicholson	D. M. C. Nicholson
+54	77	G. M. Stocks	G. M. Stocks
+54	77	T. Dirks	T. Dirks
+54	191	A. Canning	A. Canning
+54	191	B. Ujfalussy	B. Ujfalussy
+54	191	William A. Shelton	W. A. Shelton
+54	191	D. M. C. Nicholson	D. M. C. Nicholson
+54	191	G. M. Stocks	G. M. Stocks
+55	140	Yici Cai	Yici Cai
+55	140	Xianlong Hong	Xianlong Hong
+55	140	Qiang Zhou	Qiang Zhou
+59	60	Andrew K. C. Wong	Andrew K. C. Wong
+59	107	Andrew K. C. Wong	Andrew K. C. Wong
+59	120	Andrew K. C. Wong	Andrew K. C. Wong
+59	122	Andrew K. C. Wong	Andrew K. C. Wong
+59	123	Andrew K. C. Wong	Andrew K. C. Wong
+59	127	Andrew K. C. Wong	Andrew K. C. Wong
+59	128	Andrew K. C. Wong	Andrew K. C. Wong
+59	129	Andrew K. C. Wong	Andrew K. C. Wong
+59	132	Andrew K. C. Wong	Andrew K. C. Wong
+59	133	Andrew K. C. Wong	Andrew K. C. Wong
+60	107	Andrew K. C. Wong	Andrew K. C. Wong
+60	120	Yanmin Sun	Yanmin Sun
+60	120	Andrew K. C. Wong	Andrew K. C. Wong
+60	122	Andrew K. C. Wong	Andrew K. C. Wong
+60	123	Andrew K. C. Wong	Andrew K. C. Wong
+60	127	Yanmin Sun	Yanmin Sun
+60	127	Andrew K. C. Wong	Andrew K. C. Wong
+60	128	Andrew K. C. Wong	Andrew K. C. Wong
+60	129	Andrew K. C. Wong	Andrew K. C. Wong
+60	132	Andrew K. C. Wong	Andrew K. C. Wong
+60	133	Yanmin Sun	Yanmin Sun
+60	133	Andrew K. C. Wong	Andrew K. C. Wong
+61	62	Liusheng Huang	Liusheng Huang
+61	62	Hongli Xu	Hongli Xu
+61	62	Jichun Wang	Jichun Wang
+61	80	Liusheng Huang	Liusheng Huang
+61	80	Hongli Xu	Hongli Xu
+61	92	Ben Xu	Ben Xu
+61	92	Liusheng Huang	Liusheng Huang
+61	92	Hongli Xu	Hongli Xu
+61	92	Jichun Wang	Jichun Wang
+61	112	Liusheng Huang	Liusheng Huang
+61	112	Hongli Xu	Hongli Xu
+61	187	Liusheng Huang	Liusheng Huang
+61	187	Hongli Xu	Hongli Xu
+62	80	Hongli Xu	Hongli Xu
+62	80	Liusheng Huang	Liusheng Huang
+62	80	Junmin Wu	Junmin Wu
+62	92	Hongli Xu	Hongli Xu
+62	92	Liusheng Huang	Liusheng Huang
+62	92	Junmin Wu	Junmin Wu
+62	92	Jichun Wang	Jichun Wang
+62	112	Hongli Xu	Hongli Xu
+62	112	Liusheng Huang	Liusheng Huang
+62	112	Junmin Wu	Junmin Wu
+62	187	Hongli Xu	Hongli Xu
+62	187	Liusheng Huang	Liusheng Huang
+64	165	Ming Zhu	Ming Zhu
+66	163	Greg Mori	Greg Mori
+67	78	Haofen Wang	Haofen Wang
+67	78	Haiping Zhu	Haiping Zhu
+67	78	Yong Yu	Yong Yu
+67	79	Haofen Wang	Haofen Wang
+67	79	Haiping Zhu	Haiping Zhu
+67	79	Yong Yu	Yong Yu
+71	102	Dimitris Samaras	Dimitris Samaras
+71	104	Dimitris Samaras	Dimitris Samaras
+71	108	Dimitris Samaras	Dimitris Samaras
+71	110	Dimitris Samaras	Dimitris Samaras
+71	116	Dimitris Samaras	Dimitris Samaras
+71	164	Dimitris Samaras	Dimitris Samaras
+73	74	Prabir Bhattacharya	Prabir Bhattacharya
+73	105	Prabir Bhattacharya	Prabir Bhattacharya
+73	117	Prabir Bhattacharya	Prabir Bhattacharya
+74	105	Prabir Bhattacharya	Prabir Bhattacharya
+74	117	Prabir Bhattacharya	Prabir Bhattacharya
+75	77	William A. Shelton	William A. Shelton
+75	77	G. M. Stocks	G. M. Stocks
+75	77	D. M. C. Nicholson	D. M. C. Nicholson
+75	191	William A. Shelton	W. A. Shelton
+75	191	G. M. Stocks	G. M. Stocks
+75	191	D. M. C. Nicholson	D. M. C. Nicholson
+77	191	A. Canning	A. Canning
+77	191	B. Ujfalussy	B. Ujfalussy
+77	191	William A. Shelton	W. A. Shelton
+77	191	D. M. C. Nicholson	D. M. C. Nicholson
+77	191	G. M. Stocks	G. M. Stocks
+78	79	Linyun Fu	Linyun Fu
+78	79	Haofen Wang	Haofen Wang
+78	79	Haiping Zhu	Haiping Zhu
+78	79	Huajie Zhang	Huajie Zhang
+78	79	Yong Yu	Yong Yu
+80	92	Hongli Xu	Hongli Xu
+80	92	Liusheng Huang	Liusheng Huang
+80	92	Junmin Wu	Junmin Wu
+80	112	Hongli Xu	Hongli Xu
+80	112	Liusheng Huang	Liusheng Huang
+80	112	Junmin Wu	Junmin Wu
+80	187	Hongli Xu	Hongli Xu
+80	187	Liusheng Huang	Liusheng Huang
+81	85	Alfred Kobsa	Alfred Kobsa
+81	142	Alfred Kobsa	Alfred Kobsa
+81	157	Alfred Kobsa	Alfred Kobsa
+81	158	Alfred Kobsa	Alfred Kobsa
+82	89	Chenxi Wang	Chenxi Wang
+82	126	Deepayan Chakrabarti	Deepayan Chakrabarti
+82	126	Chenxi Wang	Chenxi Wang
+82	126	Christos Faloutsos	Christos Faloutsos
+84	87	Tele Tan	Tele Tan
+84	118	Tele Tan	Tele Tan
+84	125	Tele Tan	Tele Tan
+85	142	Alfred Kobsa	Alfred Kobsa
+85	157	Alfred Kobsa	Alfred Kobsa
+85	158	Alfred Kobsa	Alfred Kobsa
+87	115	Kia-Fock Loe	Kia-Fock Loe
+87	115	Jian-Kang Wu	Jian-Kang Wu
+87	118	Kia-Fock Loe	Kia-Fock Loe
+87	118	Tele Tan	Tele Tan
+87	118	Jian-Kang Wu	Jian-Kang Wu
+87	125	Kia-Fock Loe	Kia-Fock Loe
+87	125	Tele Tan	Tele Tan
+87	125	Jian-Kang Wu	Jian-Kang Wu
+89	126	Chenxi Wang	Chenxi Wang
+91	144	Hung Q. Ngo	Hung Q. Ngo
+92	112	Hongli Xu	Hongli Xu
+92	112	Liusheng Huang	Liusheng Huang
+92	112	Junmin Wu	Junmin Wu
+92	187	Hongli Xu	Hongli Xu
+92	187	Liusheng Huang	Liusheng Huang
+94	97	Shuangcheng Deng	Shuangcheng Deng
+94	97	Lipei Jiang	Lipei Jiang
+94	97	Yingyu Cao	Yingyu Cao
+94	97	Ping Liang	Ping Liang
+94	97	Ren He	Ren He
+94	97	Tong Lu	Lu Tong
+94	194	Shuangcheng Deng	Shuangcheng Deng
+94	194	Lipei Jiang	Lipei Jiang
+94	194	Yingyu Cao	Yingyu Cao
+94	194	Ping Liang	Ping Liang
+94	194	Ren He	He Ren
+94	194	Tong Lu	Tong Lu
+95	150	Getian Ye	Getian Ye
+95	150	Jie Xu	Jie Xu
+95	150	Gunawan Herman	Gunawan Herman
+95	150	Bang Zhang	Bang Zhang
+95	151	Getian Ye	Getian Ye
+97	194	Shuangcheng Deng	Shuangcheng Deng
+97	194	Lipei Jiang	Lipei Jiang
+97	194	Yingyu Cao	Yingyu Cao
+97	194	Ping Liang	Ping Liang
+97	194	Ren He	He Ren
+97	194	Lu Tong	Tong Lu
+98	134	Jie Zhang	Jie Zhang
+102	104	Dimitris Samaras	Dimitris Samaras
+102	108	Song Zhang	Song Zhang
+102	108	Dimitris Samaras	Dimitris Samaras
+102	108	Peisen Huang	Peisen Huang
+102	110	Dimitris Samaras	Dimitris Samaras
+102	116	Dimitris Samaras	Dimitris Samaras
+102	164	Dimitris Samaras	Dimitris Samaras
+103	148	Chuang Lin	Chuang Lin
+103	153	Chuang Lin	Chuang Lin
+103	170	Chuang Lin	Chuang Lin
+104	108	Dimitris Samaras	Dimitris Samaras
+104	110	Dimitris Samaras	Dimitris Samaras
+104	116	Dimitris Samaras	Dimitris Samaras
+104	164	Dimitris Samaras	Dimitris Samaras
+105	117	Prabir Bhattacharya	Prabir Bhattacharya
+107	120	Andrew K. C. Wong	Andrew K. C. Wong
+107	122	Andrew K. C. Wong	Andrew K. C. Wong
+107	123	Andrew K. C. Wong	Andrew K. C. Wong
+107	127	Andrew K. C. Wong	Andrew K. C. Wong
+107	128	Andrew K. C. Wong	Andrew K. C. Wong
+107	129	Andrew K. C. Wong	Andrew K. C. Wong
+107	132	Andrew K. C. Wong	Andrew K. C. Wong
+107	133	Andrew K. C. Wong	Andrew K. C. Wong
+108	110	Dimitris Samaras	Dimitris Samaras
+108	116	Sen Wang	Sen Wang
+108	116	Dimitris Samaras	Dimitris Samaras
+108	164	Dimitris Samaras	Dimitris Samaras
+110	116	Dimitris Samaras	Dimitris Samaras
+110	164	Dimitris Samaras	Dimitris Samaras
+112	187	Liusheng Huang	Liusheng Huang
+112	187	Hongli Xu	Hongli Xu
+115	118	Kia-Fock Loe	Kia-Fock Loe
+115	118	Jian-Kang Wu	Jian-Kang Wu
+115	125	Kia-Fock Loe	Kia-Fock Loe
+115	125	Jian-Kang Wu	Jian-Kang Wu
+116	164	Dimitris Samaras	Dimitris Samaras
+118	125	Tele Tan	Tele Tan
+118	125	Kia-Fock Loe	Kia-Fock Loe
+118	125	Jian-Kang Wu	Jian-Kang Wu
+120	122	Andrew K. C. Wong	Andrew K. C. Wong
+120	123	Andrew K. C. Wong	Andrew K. C. Wong
+120	127	Yanmin Sun	Yanmin Sun
+120	127	Andrew K. C. Wong	Andrew K. C. Wong
+120	128	Andrew K. C. Wong	Andrew K. C. Wong
+120	129	Andrew K. C. Wong	Andrew K. C. Wong
+120	132	Andrew K. C. Wong	Andrew K. C. Wong
+120	133	Yanmin Sun	Yanmin Sun
+120	133	Andrew K. C. Wong	Andrew K. C. Wong
+122	123	Wai-Ho Au	Wai-Ho Au
+122	123	Keith C. C. Chan	Keith C. C. Chan
+122	123	Andrew K. C. Wong	Andrew K. C. Wong
+122	127	Andrew K. C. Wong	Andrew K. C. Wong
+122	128	Andrew K. C. Wong	Andrew K. C. Wong
+122	129	Andrew K. C. Wong	Andrew K. C. Wong
+122	132	Andrew K. C. Wong	Andrew K. C. Wong
+122	133	Andrew K. C. Wong	Andrew K. C. Wong
+123	127	Andrew K. C. Wong	Andrew K. C. Wong
+123	128	Andrew K. C. Wong	Andrew K. C. Wong
+123	129	Andrew K. C. Wong	Andrew K. C. Wong
+123	132	Andrew K. C. Wong	Andrew K. C. Wong
+123	133	Andrew K. C. Wong	Andrew K. C. Wong
+127	128	Andrew K. C. Wong	Andrew K. C. Wong
+127	129	Andrew K. C. Wong	Andrew K. C. Wong
+127	132	Andrew K. C. Wong	Andrew K. C. Wong
+127	133	Yanmin Sun	Yanmin Sun
+127	133	Andrew K. C. Wong	Andrew K. C. Wong
+128	129	Andrew K. C. Wong	Andrew K. C. Wong
+128	132	Andrew K. C. Wong	Andrew K. C. Wong
+128	133	Andrew K. C. Wong	Andrew K. C. Wong
+129	132	Andrew K. C. Wong	Andrew K. C. Wong
+129	133	Andrew K. C. Wong	Andrew K. C. Wong
+130	131	Jagath C. Rajapakse	Jagath C. Rajapakse
+132	133	Andrew K. C. Wong	Andrew K. C. Wong
+136	138	David J. Mulvaney	David J. Mulvaney
+136	138	Ian P. W. Sillitoe	Ian P. W. Sillitoe
+136	138	Erick Swere	Erick Swere
+142	157	Alfred Kobsa	Alfred Kobsa
+142	158	Alfred Kobsa	Alfred Kobsa
+146	147	Xiaojun Cao	Xiaojun Cao
+146	155	Xiaojun Cao	Xiaojun Cao
+147	155	Xiaojun Cao	Xiaojun Cao
+147	155	Yichuan Wang	Yichuan Wang
+148	153	Chuang Lin	Chuang Lin
+148	153	Peter D. Ungsunan	Peter D. Ungsunan
+148	170	Chuang Lin	Chuang Lin
+148	170	Yuanzhuo Wang	Yuanzhuo Wang
+150	151	Getian Ye	Getian Ye
+153	170	Chuang Lin	Chuang Lin
+157	158	Alfred Kobsa	Alfred Kobsa
+160	168	Mingyuan An	Mingyuan An
+161	174	Jun Liu	Jun Liu
+161	176	Jun Liu	Jun Liu
+166	177	Yujiang Wu	Yu-Jiang Wu
+174	176	Jun Liu	Jun Liu
+174	176	Meng-zhi Huang	Meng-zhi Huang
+180	181	Junkang Feng	Junkang Feng
+184	192	Hong Zheng	Hong Zheng

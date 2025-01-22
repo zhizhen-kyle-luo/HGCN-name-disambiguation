@@ -1,0 +1,73 @@
+15901	Modeling and Learning Vague Event Durations for Temporal Reasoning
+21083	Learning Event Durations from Event Descriptions
+60851	Infrared Face Recognition by Using Blood Perfusion Data
+96562	REDUS: finding reducible subspaces in high dimensional data
+118292	Optimal Interdiction of Unreactive Markovian Evaders
+207568	Temporal Aggregates in OWL-Time
+298638	A Novel Joint Rate Control Scheme for the Coding of Multiple Real Time Video Programs
+301622	Accelerating Profile Queries in Elevation Maps
+302059	CARE: Finding Local Linear Correlations in High Dimensional Data
+302079	A General Framework for Fast Co-clustering on Large Datasets Using Matrix Decomposition
+302511	Mining Frequent Closed Patterns in Microarray Data
+302775	Finding Representative Set from Massive Data
+303480	Sample Selection for Maximal Diversity
+303726	Quantitative Association Analysis Using Tree Hierarchies
+313450	Study of Improved Hierarchy Genetic Algorithm Based on Adaptive Niches
+319197	Adaptive rate control for H.264
+320318	A New Set of Moment Invariants for Handwritten Numeral Recognition
+320329	Fast intra mode decision algorithm for H.264/AVC video coding
+322438	A router based unequal error control scheme for video over the Internet
+323507	Complexity-based rate distortion optimization with perceptual tuning for scalable video coding
+330929	Complexity adaptive quantization for intra-frames in very low bit rate video coding
+330931	A directional field based fast intra mode decision algorithm for H.264 video coding
+330933	Proactive frame-skipping decision scheme for variable frame rate video coding
+330935	Measuring blocking artifacts using edge direction information
+332489	A perceptual bit allocation scheme for H.264
+354238	Efficient contact state graph generation for assembly applications
+356903	Robust Procedures for Obtaining Assembly Contact State Extremal Configurations
+370590	Temporal Aggregates for Web Services on the Semantic Web
+409001	Exploring the Energy-Time Tradeoff in MPI Programs on a Power-Scalable Cluster
+410320	Exploring the Energy-Time Tradeoff in High-Performance Computing
+423332	Adaptive intra-frame quantization for very low bit rate video coding
+423333	A locally-adaptive algorithm for measuring blocking artifacts in images and videos
+424997	An adaptive edge-preserving artifacts removal filter for video post-processing
+425052	An improved rate control algorithm for H.264
+430117	A scalable fast mode decision algorithm for H.264
+473148	Carpenter: finding closed patterns in long biological datasets
+475340	Fast Rate-Distortion Optimization in H.264/AVC Video Coding
+475341	Block Standstill and Homogeneity Based Fast Motion Estimation Algorithm for H.264 Video Coding
+511635	Computing Semantic Similarity between Skill Statements for Approximate Matching
+532046	A 2-Stage Partial Distortion Search Algorithm for Block Motion Estimation
+559356	COE: A General Approach for Efficient Genome-Wide Two-Locus Epistasis Test in Disease Association Study
+598434	FARMER: Finding Interesting Rule Groups in Microarray Datasets
+600269	CRD: fast co-clustering on large datasets utilizing sampling-based matrix decomposition
+618209	COBBLER: Combining Column and Row Enumeration for Closed Pattern Discovery
+628545	Temporal Arithmetic Mixing Months and Days
+692142	Efficient Compression of Multi-view Video Using Hierarchical B Pictures
+729959	The Exploration and Practice of Talents Foster Mode about Information Science in Country-Oriented Information-Based Strategy
+830032	Optimal Interdiction of Unreactive Markovian Evaders
+1024854	Minimizing a stochastic maximum-reliability path
+1045327	Adaptive image compression using local pattern information
+1077446	An ontology of time for the semantic web
+1097075	A unified architecture for real-time video-coding systems
+1097159	A study of MPEG-4 rate control scheme and its improvements
+1097161	Fast mode decision algorithm for intraprediction in H.264/AVC video coding
+1097431	Fast intermode decision in H.264/AVC video coding
+1126126	Analyzing the Energy-Time Trade-Off in High-Performance Computing Applications
+1143477	Adaptive frame skipping based on spatio-temporal complexity for low bit-rate video coding
+1143496	Adaptive rate control for H.264
+1184607	Dynamic Modeling of Biotechnical Process Based on Online Support Vector Machine
+1185453	A survey of passive technology for digital image forensics
+1186041	Mining non-redundant high order correlations in binary data
+1201411	Digital Video Coding - Techniques and Standards
+1207555	Problem difficulty analysis for particle swarm optimization: deception and modality
+1207666	A multi-objective-based non-stationary UAV assignment model for constraints handling using PSO
+1239501	Feature selection for ranking using boosted trees
+1274010	Robust sequence memory in sparsely-connected networks with controllable steady-state period
+1286072	Discriminating between photorealistic computer graphics and natural images using fractal geometry
+1286198	Statistical learning makes the hybridization of particle swarm and differential evolution more efficient - A novel hybrid optimizer
+1290569	Web-based infectious disease reporting using XML forms
+1302001	A new hybrid model for time-series prediction.
+1329252	An Optimal Controller Based-on GA for Direct Torque Control.
+1370694	An adaptive rate control algorithm for video coding over personal digital assistants (PDA)
+1752846	Modeling of Fermentation Process Based on QDPSO-SVM

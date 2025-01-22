@@ -1,0 +1,199 @@
+2	3	CVPR	CVPR (2)
+2	4	CVPR	CVPR (2)
+2	5	CVPR	CVPR
+2	6	CVPR	CVPR
+2	7	CVPR	CVPR (2)
+2	8	CVPR	CVPR (2)
+2	9	CVPR	CVPR (1)
+2	10	CVPR	CVPR
+2	11	CVPR	CVPR (1)
+2	12	CVPR	CVPR (2)
+2	13	CVPR	CVPR (1)
+2	14	CVPR	CVPR
+2	15	CVPR	CVPR
+2	16	CVPR	CVPR
+2	17	CVPR	CVPR
+2	18	CVPR	CVPR
+2	19	CVPR	CVPR
+3	4	CVPR (2)	CVPR (2)
+3	5	CVPR (2)	CVPR
+3	6	CVPR (2)	CVPR
+3	7	CVPR (2)	CVPR (2)
+3	8	CVPR (2)	CVPR (2)
+3	10	CVPR (2)	CVPR
+3	12	CVPR (2)	CVPR (2)
+3	14	CVPR (2)	CVPR
+3	15	CVPR (2)	CVPR
+3	16	CVPR (2)	CVPR
+3	17	CVPR (2)	CVPR
+3	18	CVPR (2)	CVPR
+3	19	CVPR (2)	CVPR
+4	5	CVPR (2)	CVPR
+4	6	CVPR (2)	CVPR
+4	7	CVPR (2)	CVPR (2)
+4	8	CVPR (2)	CVPR (2)
+4	10	CVPR (2)	CVPR
+4	12	CVPR (2)	CVPR (2)
+4	14	CVPR (2)	CVPR
+4	15	CVPR (2)	CVPR
+4	16	CVPR (2)	CVPR
+4	17	CVPR (2)	CVPR
+4	18	CVPR (2)	CVPR
+4	19	CVPR (2)	CVPR
+5	6	CVPR	CVPR
+5	7	CVPR	CVPR (2)
+5	8	CVPR	CVPR (2)
+5	9	CVPR	CVPR (1)
+5	10	CVPR	CVPR
+5	11	CVPR	CVPR (1)
+5	12	CVPR	CVPR (2)
+5	13	CVPR	CVPR (1)
+5	14	CVPR	CVPR
+5	15	CVPR	CVPR
+5	16	CVPR	CVPR
+5	17	CVPR	CVPR
+5	18	CVPR	CVPR
+5	19	CVPR	CVPR
+6	7	CVPR	CVPR (2)
+6	8	CVPR	CVPR (2)
+6	9	CVPR	CVPR (1)
+6	10	CVPR	CVPR
+6	11	CVPR	CVPR (1)
+6	12	CVPR	CVPR (2)
+6	13	CVPR	CVPR (1)
+6	14	CVPR	CVPR
+6	15	CVPR	CVPR
+6	16	CVPR	CVPR
+6	17	CVPR	CVPR
+6	18	CVPR	CVPR
+6	19	CVPR	CVPR
+7	8	CVPR (2)	CVPR (2)
+7	10	CVPR (2)	CVPR
+7	12	CVPR (2)	CVPR (2)
+7	14	CVPR (2)	CVPR
+7	15	CVPR (2)	CVPR
+7	16	CVPR (2)	CVPR
+7	17	CVPR (2)	CVPR
+7	18	CVPR (2)	CVPR
+7	19	CVPR (2)	CVPR
+8	10	CVPR (2)	CVPR
+8	12	CVPR (2)	CVPR (2)
+8	14	CVPR (2)	CVPR
+8	15	CVPR (2)	CVPR
+8	16	CVPR (2)	CVPR
+8	17	CVPR (2)	CVPR
+8	18	CVPR (2)	CVPR
+8	19	CVPR (2)	CVPR
+9	10	CVPR (1)	CVPR
+9	11	CVPR (1)	CVPR (1)
+9	13	CVPR (1)	CVPR (1)
+9	14	CVPR (1)	CVPR
+9	15	CVPR (1)	CVPR
+9	16	CVPR (1)	CVPR
+9	17	CVPR (1)	CVPR
+9	18	CVPR (1)	CVPR
+9	19	CVPR (1)	CVPR
+10	11	CVPR	CVPR (1)
+10	12	CVPR	CVPR (2)
+10	13	CVPR	CVPR (1)
+10	14	CVPR	CVPR
+10	15	CVPR	CVPR
+10	16	CVPR	CVPR
+10	17	CVPR	CVPR
+10	18	CVPR	CVPR
+10	19	CVPR	CVPR
+11	13	CVPR (1)	CVPR (1)
+11	14	CVPR (1)	CVPR
+11	15	CVPR (1)	CVPR
+11	16	CVPR (1)	CVPR
+11	17	CVPR (1)	CVPR
+11	18	CVPR (1)	CVPR
+11	19	CVPR (1)	CVPR
+12	14	CVPR (2)	CVPR
+12	15	CVPR (2)	CVPR
+12	16	CVPR (2)	CVPR
+12	17	CVPR (2)	CVPR
+12	18	CVPR (2)	CVPR
+12	19	CVPR (2)	CVPR
+13	14	CVPR (1)	CVPR
+13	15	CVPR (1)	CVPR
+13	16	CVPR (1)	CVPR
+13	17	CVPR (1)	CVPR
+13	18	CVPR (1)	CVPR
+13	19	CVPR (1)	CVPR
+14	15	CVPR	CVPR
+14	16	CVPR	CVPR
+14	17	CVPR	CVPR
+14	18	CVPR	CVPR
+14	19	CVPR	CVPR
+15	16	CVPR	CVPR
+15	17	CVPR	CVPR
+15	18	CVPR	CVPR
+15	19	CVPR	CVPR
+16	17	CVPR	CVPR
+16	18	CVPR	CVPR
+16	19	CVPR	CVPR
+17	18	CVPR	CVPR
+17	19	CVPR	CVPR
+18	19	CVPR	CVPR
+20	80	DATE	DATE
+24	25	ICCAD	ICCAD
+26	27	ICCV	ICCV
+26	28	ICCV	ICCV
+26	29	ICCV	ICCV
+26	30	ICCV	ICCV-HCI
+26	31	ICCV	ICCV
+27	28	ICCV	ICCV
+27	29	ICCV	ICCV
+27	30	ICCV	ICCV-HCI
+27	31	ICCV	ICCV
+28	29	ICCV	ICCV
+28	30	ICCV	ICCV-HCI
+28	31	ICCV	ICCV
+29	30	ICCV	ICCV-HCI
+29	31	ICCV	ICCV
+30	31	ICCV-HCI	ICCV
+32	33	Workshop on Vision Algorithms	Workshop on Vision Algorithms
+34	35	ICIP	ICIP
+37	38	ICPR	ICPR (2)
+39	40	INFOCOM	INFOCOM
+39	41	INFOCOM	INFOCOM
+40	41	INFOCOM	INFOCOM
+43	44	ISCA	ISCA
+46	47	MICRO	MICRO
+46	48	MICRO	MICRO
+46	49	MICRO	MICRO
+47	48	MICRO	MICRO
+47	49	MICRO	MICRO
+48	49	MICRO	MICRO
+58	59	Computer Architecture Letters	Computer Architecture Letters
+64	65	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+64	66	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+64	67	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+64	68	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+64	69	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+64	70	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+65	66	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+65	67	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+65	68	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+65	69	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+65	70	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+66	67	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+66	68	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+66	69	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+66	70	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+67	68	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+67	69	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+67	70	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+68	69	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+68	70	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+69	70	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+71	90	SIGARCH Computer Architecture News	ACM SIGARCH Computer Architecture News
+71	91	SIGARCH Computer Architecture News	ACM SIGARCH Computer Architecture News
+75	76	Microelectronics Journal	Microelectronics Journal
+75	77	Microelectronics Journal	Microelectronics Journal
+75	78	Microelectronics Journal	Microelectronics Journal
+76	77	Microelectronics Journal	Microelectronics Journal
+76	78	Microelectronics Journal	Microelectronics Journal
+77	78	Microelectronics Journal	Microelectronics Journal
+90	91	ACM SIGARCH Computer Architecture News	ACM SIGARCH Computer Architecture News

@@ -1,0 +1,178 @@
+4775	Collaborative Education Model and Its Application in E-learning
+55597	Multi-agent coordination: a fuzzy logic based approach
+78494	Java implementation of an object-oriented software metrics assessment tool
+86000	Subdivision Depth Computation for Extra-Ordinary Catmull-Clark Subdivision Surface Patches
+118907	Fast and Practical Algorithms for Computing All the Runs in a String
+122270	A Semantic Web-based Architecture for Collaborative Multi-Agent Functional Modeling in Design
+122339	A Network Access Control Architecture Using State-Transfer-Based Dynamic Policy
+122387	An Index Scheme for XML Documents Based on Relationship Joins
+122403	Securely Sharing Data in Encrypted Databases
+122441	A Web-based Framework For On-line Collaborative Learning
+122463	A Database Encryption Scheme for Enhanced Security and Easy Sharing
+122545	An Event and Service Interacting Model and Event Detection Based on the Broker/Service Model
+122566	Resilient Rights Protection for Product Data
+122583	Collaborative Agents Supported Automatic Physical Database Design Based on Description Logics Reasoning
+122667	A Fractal Watermark Solution for Product Data
+122710	MSFSS: A Storage System for Mass Small Files
+122735	A Caching System for XML Queries Using Frequent Query Patterns
+122934	Accelerating Parent-Child Path Matching in XML
+122961	Prototyping system of codec for novel 2-D continuous barcode
+131742	A test pattern ordering algorithm for diagnosis with truncated fail data
+141056	An Image-Semantic Ontological Framework for Large Image Databases
+141132	MIME: A Dynamic Index Scheme for Multi-dimensional Query in Mobile P2P Networks
+141186	Mining Frequent Patterns in an Arbitrary Sliding Window over Data Streams
+141245	Predictive Skyline Queries for Moving Objects
+143127	Defect Aware Test Patterns
+214294	Simultaneous logic decomposition with technology mapping in FPGA designs
+214297	Simultaneous timing-driven placement and duplication
+215080	Simultaneous Timing Driven Clustering and Placement for FPGAs
+217523	Robust Adaptive Fuzzy Control for Uncertain Nonlinear Systems
+217525	Robust and Adaptive Backstepping Control for Nonlinear Systems Using Fuzzy Logic Systems
+217858	A Fuzzy Contrast Model to Measure Semantic Similarity Between OWL DL Concepts
+221335	A Fuzzy Metric for Image Quality Assessment
+224407	UGE4B: An Universal Grid Environment for Bioinformatics Research
+224475	Adapting to Application Workflow in Processing Data Integration Queries
+234641	A picosecond TDC architecture for multiphase PLLs
+235159	Matrix Based Subdivision Depth Computation for Extra-Ordinary Catmull-Clark Subdivision Surface Patches
+280926	Torsional Pile Subjected to Transient Loading in Viscoelastic Poroelastic Medium
+281178	Accelerating XML Structural Matching Using Suffix Bitmaps
+281179	Improving XML Querying with Maximal Frequent Query Patterns
+285873	Procedures for Identifying Untestable and Redundant Transition Faults in Synchronous Sequential Circuits
+302250	Efficient Processing of Warping Time Series Join of Motion Capture Data
+303566	Collaborative Filtering Using Orthogonal Nonnegative Matrix Tri-factorization
+304279	A Research on Chaos Forecast with the Capital Market Structure Model
+324867	Image Recovery from Broken Image Streams
+325749	Improving image clustering: An unsupervised feature weight learning framework
+337550	Adaptive Neural Network Control for Multi-fingered Robot Hand Manipulation in the Constrained Environment
+337766	A New ART Neural Networks for Remote Sensing Image Classification
+340898	Coordinating Multi-Agents using JavaSpaces
+359960	Reorganizing global schedules for register allocation
+369795	Using VRML and JAVA to Build Virtual Game-Based Learning Environment for Addition and Subtraction Operation
+381890	Nonuniform B-Spline Mesh Fairing Method
+431781	A dual-field elliptic curve cryptographic processor based on a systolic arithmetic unit
+441931	Remote Sensing Image Classification Based on Evidence Theory and Neural Networks
+442039	Inelastic Simulation of Insect Cuticle Using Artificial Neural Network
+443730	A Gradient BYY Harmony Learning Algorithm for Straight Line Detection
+445388	On Building and Updating Distributed LSI for P2P Systems
+493335	Subtyping Calculus of Construction (Extended Abstract)
+495755	A Novel Liver Perfusion Analysis Based on Active Contours and Chamfer Matching
+499510	GPMB - software pipelining branch-intensive loops
+502535	Portrait video phone
+502566	Portrait video phone
+531934	Classifying Motion Time Series Using Neural Networks
+532506	Agent-Mediated Genetic Super-Scheduling in Grid Environments
+546083	Coercive subtyping for the calculus of constructions
+546851	Guarded recursive datatype constructors
+548090	Full integration of subtyping and if-expression
+569826	Music retrieval based on a multi-samples selection strategy for support vector machine active learning
+579341	Semi-supervised Multi-label Learning by Solving a Sylvester Equation
+609164	OBSI: Object Based Storage System for Massive Image Databases
+609516	XML Query Recommendation Based On Association Rules
+609608	Bitmap Filtering: An Efficient Speedup Method for XML Structural Matching
+642368	HISA: A Query System Bridging The Semantic Gap For Large Image Databases
+644974	New Procedures to Identify Redundant Stuck-At Faults and Removal of Redundant Logic
+651887	An Immunity-Based Intrusion Detection Solution for Database Systems
+651889	Watermarking Abstract Tree-Structured Data
+651890	GARWM: Towards a Generalized and Adaptive Watermark Scheme for Relational Data
+651959	Self-adaptive Statistics Management for Efficient Query Processing
+652022	Classifying E-Mails Via Support Vector Machine
+652076	MPX: A Multiversion Concurrency Control Protocol for XML Documents
+652191	BUXMiner: An Efficient Bottom-Up Approach to Mining XML Query Patterns
+652198	A State-Transfer-Based Dynamic Policy Approach for Constraints in RBAC
+652334	Mining Infrequently-Accessed File Correlations in Distributed File System
+655550	Ant Colony Inspired Self-Healing for Resource Allocation in Service-Oriented Environment Considering Resource Breakdown
+655638	Dynamic Self-Healing for Service Flows with Semantic Web Services
+663701	A Latent Image Semantic Indexing Scheme for Image Retrieval on the Web
+664039	The Design and Realization of E-Journals' Categorizing and Navigating System
+675342	Pivotbrowser: a tag-space image searching prototype
+679535	A Fast Document Classification Algorithm Based on Improved KNN
+684196	OSNET - A Language for Domain Modeling
+687835	Research on Service Management Data Modeling Based on SID
+708969	Extremal search of decision policies for scalable distributed applications
+719845	Modeling and Simulation of Continuous Time-Invariant Systems in Simulation Based Learning Environments
+721789	An Architecture for Automated Driving in Urban Environments
+729495	Fine-Grained Progressive Algorithm Based on HMJ
+730278	A Design of Data Rebuilding for Decision Support in E-Government System
+730423	A Fast Center of Mass Estimation Algorithm for Coordinates of IR Markers
+733161	Self-organized manufacturing resource management: An ant-colony inspired approach
+733290	Semantic enhanced rule driven workflow execution in Collaborative Virtual Enterprise
+733419	An improved dead reckoning method for mobile robot with redundant odometry information
+738608	Coordinating Multiple Agents via Reinforcement Learning
+762074	Nanophotonics - quantum dots, photonic crystals, and optical silicon circuits: An excursion into the optical behavior of very small things
+782969	Comparative genomics and function analysis on BI1 family
+855346	Graphic sequences with a realization containing a generalized friendship graph
+876967	Transfer, processing and distribution of cosmic ray data from Tibet
+887416	Dependent Types with Subtyping and Late-Bound Overloading
+895084	Maintaining System State Information in a Multiagent Environment for Effective Learning
+907308	An Effective Method for Chinese Grammar Rule Learning
+943199	Bottom-up discovery of frequent rooted unordered subtrees
+969139	A New Rapid and Effective Chemistry Space Filter in Recognizing a Druglike Database
+1007219	Soundness of Coercion in the Calculus of Constructions
+1082920	A New Systolic Architecture for Modular Division
+1099717	Image coding quality assessment using fuzzy integrals with a three-component image model
+1101283	A fuzzy image metric with application to fractal coding
+1114092	Modeling Image Data for Effective Indexing and Retrieval in Large General Image Databases
+1117991	Simultaneous placement with clustering and duplication
+1118051	A note on 'a mapping algorithm for computer-assisted exploration in the design of embedded systems
+1126353	Coordinated Services Provision in Peer-to-Peer Environments
+1126371	Enhancing Search Performance in Unstructured P2P Networks Based on Users' Common Interest
+1126452	Heuristic Discovery of Role-Based Trust Chains in Peer-to-Peer Networks
+1127462	Design Wizards and Visual Programming Environments for GenVoca Generators
+1155501	Nonequilibrium electron and phonon transport and energy conversion in heterostructures
+1163201	An Audio Feature Extraction Method Taking Class Information into Account
+1180729	Lempel-Ziv Factorization Using Less Time  Space
+1187412	Coordinating Agents in Shop Floor Environments From a Dynamic Systems Perspective
+1206663	Petri-net-based Context-related Access Control in Workflow Environment
+1206668	Research on an Event Specification for Event-Based Collaboration Support Software Architecture
+1220741	Modifying the DPClus algorithm for identifying protein complexes based on new topological structures
+1225932	Adaptive Indexing of Moving Objects with Highly Variable Update Frequencies
+1230228	Global stability of a class of Cohen-Grossberg neural networks with delays
+1236199	A Noise Insensitive Cluster Validity Measure for Pattern Classification
+1239313	Cluster based rank query over multidimensional data streams
+1239952	Formalization and Verification of PLC Timers in Coq
+1240484	A self-embedded watermarking scheme based on relationship function of corresponding inter-blocks DCT coefficient
+1240547	GPGPU supported cooperative acceleration in molecular dynamics
+1241650	PISA: Federated Search in P2P Networks with Uncooperative Peers
+1249495	On-line Evolutionary Exponential Family Mixture
+1249509	Semi-Supervised Regression for Evaluating Convenience Store Location
+1260248	Assessment of Color Video Quality with Singular Value Decomposition of Complex Matrix
+1276274	Collaborative filtering using orthogonal nonnegative matrix tri-factorization
+1289829	A 0-1 LP Model for the Integration and Consolidation of Air Cargo Shipments
+1291260	Change propagation algorithm in a unified feature modeling scheme
+1302939	N-distinguishing Tests for Enhanced Defect Diagnosis.
+1304542	An adaptive load balancing framework for parallel database systems based on collaborative agents.
+1304551	A workflow-based distributed multidisciplinary design optimization framework.
+1304607	DXEC: integrating database, XML and email for collaboration.
+1304653	A logical replication-based intrusion detection approach for CSCW system.
+1304704	Complicated product oriented collaborative document management system.
+1304826	Efficient multi-label classification with hypergraph regularization.
+1305209	Query Triggered Crawling Strategy: Build a Time Sensitive Vertical Search Engine.
+1305253	Efficient Holistic Twig Join Algorithm on XML Documents with Optimization Rules and Index.
+1305701	A Comparative Study of Parallel Prefix Adders in FPGA Implementation of EAC.
+1317083	SpMT WaveCache: Exploiting Thread-Level Parallelism in WaveScalar.
+1317175	A Method of Video Quality Assessment Based on the Sensitive Region.
+1317227	Tactical Communication Equipment Simulation Training Platform Based on VR.
+1318391	Multi-feature Fusion Method of Driver Face Location Based on Area Coincidence Degree and Prior Knowledge.
+1319434	Beyond Banditron: A Conservative and Efficient Reduction for Online Multiclass Prediction with Bandit Setting Model.
+1322819	Assessment of Color Video Quality Based on Quaternion Singular Value Decomposition.
+1327441	OTJFast: Processing Ordered XML Twig Join Fast.
+1328649	Network Attack-Defense Simulation Training System Based on HLA.
+1328684	Scene Simulation Platform Based on Data Fusion of Multiple Format 3D Models.
+1339152	Geometric Analysis of Particle Motion in a Vector Image Field.
+1364889	Preserving and exploiting genetic diversity in evolutionary programming algorithms
+1365083	An improved level set for liver segmentation and perfusion analysis in MRIs
+1365556	Study on Fast Fixed-Codebook Search Algorithm in G.729 Speech Coding
+1373240	A Client Peer Adjustment Policy for Peer-to-Peer Media Streaming
+1389762	Simulation Training Platform for Large Tactical Communication Equipment Based on VR
+1392624	ANSYS-Based Dynamic Analysis of High-Speed Motorized Spindle
+1395401	GPMB&mdash;software pipelining branch-intensive loops
+1412990	An Unified Fault Model and Test Generation Procedure for Interconnect Opens and Bridges
+1414798	Image Retrieval Based on Sugeno Fuzzy Integral
+1574488	A mathematical model for bifurcations in a Belousov-Zhabotinsky reaction
+1581446	Predictive Queries Algorithm Based on Probability Model over Data Streams
+1653658	BCM Mechanism Based on Infinite-horizon Growth Model in E-commerce
+1655373	Design and Development of Small-Size Stiffness Surveying Instrument for Sheet Metal
+1656661	Web-Based Service Management of Distributed Learning
+1707614	Unified synthesis techniques for high performance fpga designs
+1713247	Statistical error analysis for the direct simulation Monte Carlo technique
+1752684	Deploying HEP Applications on Multiple Grid Infrastructures

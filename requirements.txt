@@ -1,0 +1,7 @@
+networkx
+scikit-learn
+Tensorflow == 2.18.0
+pandas
+matplotlib
+community
+nltk

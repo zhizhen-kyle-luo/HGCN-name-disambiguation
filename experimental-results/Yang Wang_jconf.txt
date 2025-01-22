@@ -1,0 +1,195 @@
+0	ACCV (2)
+1	ADMA
+2	Canadian Conference on AI
+3	AIRS
+4	ALaRT
+5	ASIAN
+6	AVI
+7	BIS (Workshops)
+8	CAIP
+9	CASCON
+10	CCCG
+11	CCGRID
+12	CDES
+13	CHI
+14	PIKM
+15	COCOON
+16	COCOON
+17	CSCW
+18	CVPR (2)
+19	CVPR (1)
+20	CVPR (2)
+21	CVPR (2)
+22	CVPR (2)
+23	CVPR
+24	CVPR
+25	DEXA Workshops
+26	DMIN
+27	ECCV (3)
+28	ECCV (3)
+29	ECCV (3)
+30	EEE
+31	EG-ICE
+32	FSKD (2)
+33	FSKD (4)
+34	HICSS
+35	HPCS
+36	Workshop on Human Motion
+37	Workshop on Human Motion
+38	ICC
+39	International Conference on Computational Science (3)
+40	ICCV
+41	ICCV
+42	ICCV
+43	ICCV
+44	ICDM
+45	ICIC (3)
+46	ICIP (3)
+47	ICIP (3)
+48	ICML
+49	ICPR (1)
+50	ICPR
+51	ICRA
+52	IDEAL
+53	IJCAI
+54	IPDPS
+55	ISCAS (5)
+56	ISNN (2)
+57	Intelligent Tutoring Systems
+58	IV
+59	KDD
+60	MLDM
+61	MSN
+62	MSN
+63	MSST
+64	NCA
+65	NIPS
+66	NIPS
+67	NLDB
+68	BioDM
+69	PCM
+70	PDCAT
+71	Pacific Conference on Computer Graphics and Applications
+72	PICS
+73	PICS
+74	PICS
+75	PPSC
+76	PROLAMAT
+77	SC
+78	ISWC/ASWC
+79	Semantic Web Challenge
+80	SNPD (2)
+81	SPLC
+82	SRDS
+83	SUTC (1)
+84	UAI
+85	User Modeling
+86	User Modeling
+87	WACV/MOTION
+88	IWNAS
+89	WORM
+90	CISS
+91	GLOBECOM
+92	Infoscale
+93	ICIRA (1)
+94	ICIRA (2)
+95	MMSP
+96	ICYCS
+97	ICARCV
+98	ICNSC
+99	Adv. Comput. Math.
+100	Adv. Comput. Math.
+101	Adv. Comput. Math.
+102	Comput. Graph. Forum
+103	Computer Networks
+104	Graphical Models
+105	Computer Vision and Image Understanding
+106	Discrete  Computational Geometry
+107	Intell. Data Anal.
+108	International Journal of Computer Vision
+109	IJPRAI
+110	Image Vision Comput.
+111	Journal of Approximation Theory
+112	J. Comput. Sci. Technol.
+113	Nucleic Acids Research
+114	Parallel Algorithms Appl.
+115	IEEE Trans. Pattern Anal. Mach. Intell.
+116	IEEE Trans. Pattern Anal. Mach. Intell.
+117	Pattern Recognition
+118	Pattern Recognition
+119	Pattern Recognition
+120	Pattern Recognition
+121	SIAM J. Comput.
+122	IEEE/ACM Trans. Comput. Biology Bioinform.
+123	IEEE/ACM Trans. Comput. Biology Bioinform.
+124	Theor. Comput. Sci.
+125	IEEE Transactions on Image Processing
+126	ACM Trans. Inf. Syst. Secur.
+127	IEEE Trans. Knowl. Data Eng.
+128	IEEE Trans. Knowl. Data Eng.
+129	IEEE Trans. Knowl. Data Eng.
+130	IEEE Trans. Med. Imaging
+131	IEEE Trans. Med. Imaging
+132	IEEE Transactions on Systems, Man, and Cybernetics, Part C
+133	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+134	Wireless Communications and Mobile Computing
+135	Applied Mathematics and Computation
+136	Journal of Intelligent and Robotic Systems
+137	Microelectronics Journal
+138	IJISTA
+139	IEEE Transactions on Signal Processing
+140	Science in China Series F: Information Sciences
+141	SIGCSE Bulletin
+142	SOUPS
+143	IEEE Trans. Circuits Syst. Video Techn.
+144	IEEE/ACM Trans. Netw.
+145	ACIS-ICIS
+146	ISCA PDCCS
+147	ISCA PDCCS
+148	AINA
+149	AVSS
+150	AVSS
+151	Mathematik für Informatiker
+152	INTERACT (1)
+153	IPDPS
+154	MICCAI (1)
+155	SIGITE Conference
+156	SOSP
+157	Computer Science - R&D
+158	Computers & Electrical Engineering
+159	I. J. Network Security
+160	NAS
+161	Fuzzy Sets and Systems
+162	Image Vision Comput.
+163	IEEE Trans. Pattern Anal. Mach. Intell.
+164	IEEE Trans. Pattern Anal. Mach. Intell.
+165	Parallel Computing
+166	null
+167	null
+168	null
+169	null
+170	null
+171	null
+172	Advances in Adaptive Data Analysis
+173	Advances in Adaptive Data Analysis
+174	Proceedings of the 2009 Second International Workshop on Computer Science and Engineering - Volume 01
+175	Proceedings of the 2009 International Conference on Multimedia Information Networking and Security - Volume 02
+176	Proceedings of the 2009 International Conference on Advanced Computer Control
+177	Journal of Computational and Applied Mathematics
+178	Signal Processing
+179	null
+180	WSEAS Transactions on Computers
+181	Proceedings of the 8th Wseas international conference on Telecommunications and informatics
+182	Wavelets: a tutorial in theory and applications
+183	SIAM Journal on Mathematical Analysis
+184	Proceedings of the Fourth International Conference on Image and Graphics
+185	Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing
+186	Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02
+187	Computer Communications
+188	Applied Mathematics and Computation
+189	IEEE Transactions on Pattern Analysis and Machine Intelligence
+190	null
+191	Proceedings of the 1998 ACM/IEEE conference on Supercomputing (CDROM)
+192	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 06
+193	Proceedings of the 2008 International Conference on Risk Management & Engineering Management
+194	Proceedings of the First International Conference on Intelligent Robotics and Applications: Part II

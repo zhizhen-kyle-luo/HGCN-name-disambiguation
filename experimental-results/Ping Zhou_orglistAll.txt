@@ -1,0 +1,630 @@
+0	1	null	null
+0	2	null	Electr. Power Res. Inst. Beijing
+0	3	null	Northeastern University, China
+0	4	null	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA
+0	5	null	null
+0	6	null	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.
+0	7	null	Univ. of California San Diego, San Diego
+0	8	null	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+0	9	null	null
+0	10	null	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+0	11	null	null
+0	12	null	null
+0	13	null	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+0	14	null	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+0	20	null	null
+0	21	null	University of Pittsburgh, Pittsburgh, PA
+0	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+0	23	null	Qualcomm, Inc., San Diego, CA
+0	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+0	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+0	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+0	27	null	null
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	null
+0	33	null	null
+0	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+0	35	null	The Univ. of Alabama in Huntsville
+1	2	null	Electr. Power Res. Inst. Beijing
+1	3	null	Northeastern University, China
+1	4	null	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA
+1	5	null	null
+1	6	null	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.
+1	7	null	Univ. of California San Diego, San Diego
+1	8	null	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+1	9	null	null
+1	10	null	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+1	11	null	null
+1	12	null	null
+1	13	null	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+1	14	null	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+1	20	null	null
+1	21	null	University of Pittsburgh, Pittsburgh, PA
+1	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+1	23	null	Qualcomm, Inc., San Diego, CA
+1	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+1	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+1	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	null
+1	33	null	null
+1	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+1	35	null	The Univ. of Alabama in Huntsville
+2	3	Electr. Power Res. Inst. Beijing	Northeastern University, China
+2	4	Electr. Power Res. Inst. Beijing	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA
+2	5	Electr. Power Res. Inst. Beijing	null
+2	6	Electr. Power Res. Inst. Beijing	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.
+2	7	Electr. Power Res. Inst. Beijing	Univ. of California San Diego, San Diego
+2	8	Electr. Power Res. Inst. Beijing	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+2	9	Electr. Power Res. Inst. Beijing	null
+2	10	Electr. Power Res. Inst. Beijing	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+2	11	Electr. Power Res. Inst. Beijing	null
+2	12	Electr. Power Res. Inst. Beijing	null
+2	13	Electr. Power Res. Inst. Beijing	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+2	14	Electr. Power Res. Inst. Beijing	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+2	15	Electr. Power Res. Inst. Beijing	null
+2	16	Electr. Power Res. Inst. Beijing	null
+2	17	Electr. Power Res. Inst. Beijing	null
+2	18	Electr. Power Res. Inst. Beijing	null
+2	19	Electr. Power Res. Inst. Beijing	Shanghai Res. Center for Wireless Commun., Shanghai
+2	20	Electr. Power Res. Inst. Beijing	null
+2	21	Electr. Power Res. Inst. Beijing	University of Pittsburgh, Pittsburgh, PA
+2	22	Electr. Power Res. Inst. Beijing	University of Pittsburgh, Pittsburgh, PA, USA
+2	23	Electr. Power Res. Inst. Beijing	Qualcomm, Inc., San Diego, CA
+2	24	Electr. Power Res. Inst. Beijing	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+2	25	Electr. Power Res. Inst. Beijing	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+2	26	Electr. Power Res. Inst. Beijing	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+2	27	Electr. Power Res. Inst. Beijing	null
+2	28	Electr. Power Res. Inst. Beijing	null
+2	29	Electr. Power Res. Inst. Beijing	null
+2	30	Electr. Power Res. Inst. Beijing	null
+2	31	Electr. Power Res. Inst. Beijing	null
+2	32	Electr. Power Res. Inst. Beijing	null
+2	33	Electr. Power Res. Inst. Beijing	null
+2	34	Electr. Power Res. Inst. Beijing	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+2	35	Electr. Power Res. Inst. Beijing	The Univ. of Alabama in Huntsville
+3	4	Northeastern University, China	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA
+3	5	Northeastern University, China	null
+3	6	Northeastern University, China	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.
+3	7	Northeastern University, China	Univ. of California San Diego, San Diego
+3	8	Northeastern University, China	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+3	9	Northeastern University, China	null
+3	10	Northeastern University, China	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+3	11	Northeastern University, China	null
+3	12	Northeastern University, China	null
+3	13	Northeastern University, China	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+3	14	Northeastern University, China	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+3	15	Northeastern University, China	null
+3	16	Northeastern University, China	null
+3	17	Northeastern University, China	null
+3	18	Northeastern University, China	null
+3	19	Northeastern University, China	Shanghai Res. Center for Wireless Commun., Shanghai
+3	20	Northeastern University, China	null
+3	21	Northeastern University, China	University of Pittsburgh, Pittsburgh, PA
+3	22	Northeastern University, China	University of Pittsburgh, Pittsburgh, PA, USA
+3	23	Northeastern University, China	Qualcomm, Inc., San Diego, CA
+3	24	Northeastern University, China	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+3	25	Northeastern University, China	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+3	26	Northeastern University, China	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+3	27	Northeastern University, China	null
+3	28	Northeastern University, China	null
+3	29	Northeastern University, China	null
+3	30	Northeastern University, China	null
+3	31	Northeastern University, China	null
+3	32	Northeastern University, China	null
+3	33	Northeastern University, China	null
+3	34	Northeastern University, China	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+3	35	Northeastern University, China	The Univ. of Alabama in Huntsville
+4	5	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	6	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.
+4	7	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Univ. of California San Diego, San Diego
+4	8	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+4	9	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	10	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+4	11	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	12	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	13	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+4	14	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+4	15	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	16	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	17	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	18	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	19	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Shanghai Res. Center for Wireless Commun., Shanghai
+4	20	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	21	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	University of Pittsburgh, Pittsburgh, PA
+4	22	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	University of Pittsburgh, Pittsburgh, PA, USA
+4	23	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Qualcomm, Inc., San Diego, CA
+4	24	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+4	25	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+4	26	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+4	27	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	28	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	29	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	30	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	31	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	32	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	33	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	null
+4	34	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+4	35	Center for Adv. Comput. Telecommun., Massachusetts Univ., Amherst, MA	The Univ. of Alabama in Huntsville
+5	6	null	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.
+5	7	null	Univ. of California San Diego, San Diego
+5	8	null	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+5	9	null	null
+5	10	null	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+5	11	null	null
+5	12	null	null
+5	13	null	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+5	14	null	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+5	20	null	null
+5	21	null	University of Pittsburgh, Pittsburgh, PA
+5	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+5	23	null	Qualcomm, Inc., San Diego, CA
+5	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+5	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+5	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	null
+5	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+5	35	null	The Univ. of Alabama in Huntsville
+6	7	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Univ. of California San Diego, San Diego
+6	8	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+6	9	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	10	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+6	11	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	12	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	13	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+6	14	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+6	15	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	16	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	17	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	18	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	19	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Shanghai Res. Center for Wireless Commun., Shanghai
+6	20	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	21	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	University of Pittsburgh, Pittsburgh, PA
+6	22	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	University of Pittsburgh, Pittsburgh, PA, USA
+6	23	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Qualcomm, Inc., San Diego, CA
+6	24	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+6	25	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+6	26	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+6	27	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	28	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	29	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	30	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	31	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	32	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	33	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	null
+6	34	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+6	35	Dept. of Math. & Comput. Sci., Eindhoven Univ. of Technol.	The Univ. of Alabama in Huntsville
+7	8	Univ. of California San Diego, San Diego	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen
+7	9	Univ. of California San Diego, San Diego	null
+7	10	Univ. of California San Diego, San Diego	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+7	11	Univ. of California San Diego, San Diego	null
+7	12	Univ. of California San Diego, San Diego	null
+7	13	Univ. of California San Diego, San Diego	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+7	14	Univ. of California San Diego, San Diego	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+7	15	Univ. of California San Diego, San Diego	null
+7	16	Univ. of California San Diego, San Diego	null
+7	17	Univ. of California San Diego, San Diego	null
+7	18	Univ. of California San Diego, San Diego	null
+7	19	Univ. of California San Diego, San Diego	Shanghai Res. Center for Wireless Commun., Shanghai
+7	20	Univ. of California San Diego, San Diego	null
+7	21	Univ. of California San Diego, San Diego	University of Pittsburgh, Pittsburgh, PA
+7	22	Univ. of California San Diego, San Diego	University of Pittsburgh, Pittsburgh, PA, USA
+7	23	Univ. of California San Diego, San Diego	Qualcomm, Inc., San Diego, CA
+7	24	Univ. of California San Diego, San Diego	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+7	25	Univ. of California San Diego, San Diego	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+7	26	Univ. of California San Diego, San Diego	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+7	27	Univ. of California San Diego, San Diego	null
+7	28	Univ. of California San Diego, San Diego	null
+7	29	Univ. of California San Diego, San Diego	null
+7	30	Univ. of California San Diego, San Diego	null
+7	31	Univ. of California San Diego, San Diego	null
+7	32	Univ. of California San Diego, San Diego	null
+7	33	Univ. of California San Diego, San Diego	null
+7	34	Univ. of California San Diego, San Diego	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+7	35	Univ. of California San Diego, San Diego	The Univ. of Alabama in Huntsville
+8	9	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	10	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+8	11	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	12	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	13	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+8	14	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+8	15	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	16	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	17	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	18	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	19	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Shanghai Res. Center for Wireless Commun., Shanghai
+8	20	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	21	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	University of Pittsburgh, Pittsburgh, PA
+8	22	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	University of Pittsburgh, Pittsburgh, PA, USA
+8	23	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Qualcomm, Inc., San Diego, CA
+8	24	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+8	25	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+8	26	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+8	27	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	28	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	29	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	30	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	31	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	32	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	33	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	null
+8	34	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+8	35	Coll. of Inf. Eng., Shenzhen Univ., Shenzhen	The Univ. of Alabama in Huntsville
+9	10	null	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States
+9	11	null	null
+9	12	null	null
+9	13	null	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+9	14	null	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+9	15	null	null
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+9	20	null	null
+9	21	null	University of Pittsburgh, Pittsburgh, PA
+9	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+9	23	null	Qualcomm, Inc., San Diego, CA
+9	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+9	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+9	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+9	27	null	null
+9	28	null	null
+9	29	null	null
+9	30	null	null
+9	31	null	null
+9	32	null	null
+9	33	null	null
+9	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+9	35	null	The Univ. of Alabama in Huntsville
+10	11	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	12	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	13	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+10	14	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+10	15	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	16	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	17	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	18	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	19	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	Shanghai Res. Center for Wireless Commun., Shanghai
+10	20	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	21	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	University of Pittsburgh, Pittsburgh, PA
+10	22	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	University of Pittsburgh, Pittsburgh, PA, USA
+10	23	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	Qualcomm, Inc., San Diego, CA
+10	24	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+10	25	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+10	26	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+10	27	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	28	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	29	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	30	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	31	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	32	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	33	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	null
+10	34	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+10	35	Department of Electrical and Computer Engineering, University of California San Diego, 9500 Gilman Drive, San Diego, CA 92093-0436, United States	The Univ. of Alabama in Huntsville
+11	12	null	null
+11	13	null	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+11	14	null	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+11	20	null	null
+11	21	null	University of Pittsburgh, Pittsburgh, PA
+11	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+11	23	null	Qualcomm, Inc., San Diego, CA
+11	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+11	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+11	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	null
+11	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+11	35	null	The Univ. of Alabama in Huntsville
+12	13	null	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands
+12	14	null	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+12	15	null	null
+12	16	null	null
+12	17	null	null
+12	18	null	null
+12	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+12	20	null	null
+12	21	null	University of Pittsburgh, Pittsburgh, PA
+12	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+12	23	null	Qualcomm, Inc., San Diego, CA
+12	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+12	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+12	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+12	27	null	null
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	null
+12	33	null	null
+12	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+12	35	null	The Univ. of Alabama in Huntsville
+13	14	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China
+13	15	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	16	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	17	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	18	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	19	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	Shanghai Res. Center for Wireless Commun., Shanghai
+13	20	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	21	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	University of Pittsburgh, Pittsburgh, PA
+13	22	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	University of Pittsburgh, Pittsburgh, PA, USA
+13	23	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	Qualcomm, Inc., San Diego, CA
+13	24	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+13	25	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+13	26	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+13	27	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	28	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	29	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	30	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	31	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	32	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	33	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	null
+13	34	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+13	35	Institute of Scientific and Technical Information of China, 15 Fuxing Road, Beijing 100038, PRC and Amsterdam School of Communications Research, University of Amsterdam, Kloveniersburgwal 48, 1012 CX Amsterdam, The Netherlands	The Univ. of Alabama in Huntsville
+14	15	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	16	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	17	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	18	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	19	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	Shanghai Res. Center for Wireless Commun., Shanghai
+14	20	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	21	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	University of Pittsburgh, Pittsburgh, PA
+14	22	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	University of Pittsburgh, Pittsburgh, PA, USA
+14	23	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	Qualcomm, Inc., San Diego, CA
+14	24	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+14	25	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+14	26	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+14	27	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	28	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	29	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	30	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	31	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	32	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	33	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	null
+14	34	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+14	35	K.U. Leuven, Steunpunt O&O Indicatoren, Dekenstraat 2, B-3000 Belgium and the Institute of Scientific and Technical Information of China,15 Fuxing Road, Beijing, 100038, P.R. China	The Univ. of Alabama in Huntsville
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+15	20	null	null
+15	21	null	University of Pittsburgh, Pittsburgh, PA
+15	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+15	23	null	Qualcomm, Inc., San Diego, CA
+15	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+15	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+15	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+15	27	null	null
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	null
+15	33	null	null
+15	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+15	35	null	The Univ. of Alabama in Huntsville
+16	17	null	null
+16	18	null	null
+16	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+16	20	null	null
+16	21	null	University of Pittsburgh, Pittsburgh, PA
+16	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+16	23	null	Qualcomm, Inc., San Diego, CA
+16	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+16	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+16	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+16	27	null	null
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	null
+16	33	null	null
+16	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+16	35	null	The Univ. of Alabama in Huntsville
+17	18	null	null
+17	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+17	20	null	null
+17	21	null	University of Pittsburgh, Pittsburgh, PA
+17	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+17	23	null	Qualcomm, Inc., San Diego, CA
+17	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+17	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+17	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+17	27	null	null
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	null
+17	32	null	null
+17	33	null	null
+17	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+17	35	null	The Univ. of Alabama in Huntsville
+18	19	null	Shanghai Res. Center for Wireless Commun., Shanghai
+18	20	null	null
+18	21	null	University of Pittsburgh, Pittsburgh, PA
+18	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+18	23	null	Qualcomm, Inc., San Diego, CA
+18	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+18	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+18	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+18	27	null	null
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	null
+18	33	null	null
+18	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+18	35	null	The Univ. of Alabama in Huntsville
+19	20	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	21	Shanghai Res. Center for Wireless Commun., Shanghai	University of Pittsburgh, Pittsburgh, PA
+19	22	Shanghai Res. Center for Wireless Commun., Shanghai	University of Pittsburgh, Pittsburgh, PA, USA
+19	23	Shanghai Res. Center for Wireless Commun., Shanghai	Qualcomm, Inc., San Diego, CA
+19	24	Shanghai Res. Center for Wireless Commun., Shanghai	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+19	25	Shanghai Res. Center for Wireless Commun., Shanghai	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+19	26	Shanghai Res. Center for Wireless Commun., Shanghai	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+19	27	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	28	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	29	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	30	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	31	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	32	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	33	Shanghai Res. Center for Wireless Commun., Shanghai	null
+19	34	Shanghai Res. Center for Wireless Commun., Shanghai	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+19	35	Shanghai Res. Center for Wireless Commun., Shanghai	The Univ. of Alabama in Huntsville
+20	21	null	University of Pittsburgh, Pittsburgh, PA
+20	22	null	University of Pittsburgh, Pittsburgh, PA, USA
+20	23	null	Qualcomm, Inc., San Diego, CA
+20	24	null	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+20	25	null	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+20	26	null	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+20	27	null	null
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	null
+20	33	null	null
+20	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+20	35	null	The Univ. of Alabama in Huntsville
+21	22	University of Pittsburgh, Pittsburgh, PA	University of Pittsburgh, Pittsburgh, PA, USA
+21	23	University of Pittsburgh, Pittsburgh, PA	Qualcomm, Inc., San Diego, CA
+21	24	University of Pittsburgh, Pittsburgh, PA	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+21	25	University of Pittsburgh, Pittsburgh, PA	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+21	26	University of Pittsburgh, Pittsburgh, PA	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+21	27	University of Pittsburgh, Pittsburgh, PA	null
+21	28	University of Pittsburgh, Pittsburgh, PA	null
+21	29	University of Pittsburgh, Pittsburgh, PA	null
+21	30	University of Pittsburgh, Pittsburgh, PA	null
+21	31	University of Pittsburgh, Pittsburgh, PA	null
+21	32	University of Pittsburgh, Pittsburgh, PA	null
+21	33	University of Pittsburgh, Pittsburgh, PA	null
+21	34	University of Pittsburgh, Pittsburgh, PA	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+21	35	University of Pittsburgh, Pittsburgh, PA	The Univ. of Alabama in Huntsville
+22	23	University of Pittsburgh, Pittsburgh, PA, USA	Qualcomm, Inc., San Diego, CA
+22	24	University of Pittsburgh, Pittsburgh, PA, USA	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+22	25	University of Pittsburgh, Pittsburgh, PA, USA	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+22	26	University of Pittsburgh, Pittsburgh, PA, USA	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+22	27	University of Pittsburgh, Pittsburgh, PA, USA	null
+22	28	University of Pittsburgh, Pittsburgh, PA, USA	null
+22	29	University of Pittsburgh, Pittsburgh, PA, USA	null
+22	30	University of Pittsburgh, Pittsburgh, PA, USA	null
+22	31	University of Pittsburgh, Pittsburgh, PA, USA	null
+22	32	University of Pittsburgh, Pittsburgh, PA, USA	null
+22	33	University of Pittsburgh, Pittsburgh, PA, USA	null
+22	34	University of Pittsburgh, Pittsburgh, PA, USA	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+22	35	University of Pittsburgh, Pittsburgh, PA, USA	The Univ. of Alabama in Huntsville
+23	24	Qualcomm, Inc., San Diego, CA	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA
+23	25	Qualcomm, Inc., San Diego, CA	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+23	26	Qualcomm, Inc., San Diego, CA	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+23	27	Qualcomm, Inc., San Diego, CA	null
+23	28	Qualcomm, Inc., San Diego, CA	null
+23	29	Qualcomm, Inc., San Diego, CA	null
+23	30	Qualcomm, Inc., San Diego, CA	null
+23	31	Qualcomm, Inc., San Diego, CA	null
+23	32	Qualcomm, Inc., San Diego, CA	null
+23	33	Qualcomm, Inc., San Diego, CA	null
+23	34	Qualcomm, Inc., San Diego, CA	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+23	35	Qualcomm, Inc., San Diego, CA	The Univ. of Alabama in Huntsville
+24	25	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China
+24	26	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+24	27	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	null
+24	28	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	null
+24	29	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	null
+24	30	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	null
+24	31	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	null
+24	32	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	null
+24	33	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	null
+24	34	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+24	35	Comput. Sci. Dept., Univ. of Pittsburgh, Pittsburgh, PA	The Univ. of Alabama in Huntsville
+25	26	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China
+25	27	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	null
+25	28	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	null
+25	29	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	null
+25	30	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	null
+25	31	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	null
+25	32	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	null
+25	33	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	null
+25	34	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+25	35	Sch. of Comput. & Control, Guilin Univ. of Electron. Technol., Guilin, China	The Univ. of Alabama in Huntsville
+26	27	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	null
+26	28	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	null
+26	29	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	null
+26	30	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	null
+26	31	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	null
+26	32	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	null
+26	33	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	null
+26	34	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+26	35	Dept. of Mech. & Electr., Jingdezhen Ceramic Inst., Jingdezhen, China	The Univ. of Alabama in Huntsville
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	null
+27	33	null	null
+27	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+27	35	null	The Univ. of Alabama in Huntsville
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	null
+28	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+28	35	null	The Univ. of Alabama in Huntsville
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	null
+29	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+29	35	null	The Univ. of Alabama in Huntsville
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+30	35	null	The Univ. of Alabama in Huntsville
+31	32	null	null
+31	33	null	null
+31	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+31	35	null	The Univ. of Alabama in Huntsville
+32	33	null	null
+32	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+32	35	null	The Univ. of Alabama in Huntsville
+33	34	null	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China
+33	35	null	The Univ. of Alabama in Huntsville
+34	35	Sch. of Comput. Sci. & Technol., Nanchang Hangkong Univ., Nanchang, China	The Univ. of Alabama in Huntsville

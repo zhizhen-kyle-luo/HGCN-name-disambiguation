@@ -1,0 +1,610 @@
+0	22	Eric Sung	Eric Sung
+0	22	Edmond C. Prakash	Edmond C. Prakash
+0	59	Eric Sung	Eric Sung
+0	59	Edmond C. Prakash	Edmond C. Prakash
+0	63	Edmond C. Prakash	Edmond Cyril Prakash
+0	103	Eric Sung	Eric Sung
+0	103	Edmond C. Prakash	Edmond C. Prakash
+0	107	Eric Sung	Eric Sung
+0	107	Edmond C. Prakash	Edmond C. Prakash
+0	131	Eric Sung	Eric Sung
+0	131	Edmond C. Prakash	Edmond C. Prakash
+0	137	Eric Sung	Eric Sung
+0	137	Edmond C. Prakash	Edmond C. Prakash
+0	143	Eric Sung	Eric Sung
+0	143	Edmond C. Prakash	Edmond C. Prakash
+0	155	Eric Sung	Eric Sung
+0	155	Edmond C. Prakash	Edmond C. Prakash
+0	156	Eric Sung	Eric Sung
+0	156	Edmond C. Prakash	Edmond C. Prakash
+0	157	Eric Sung	Eric Sung
+0	211	Eric Sung	Eric Sung
+0	231	Eric Sung	Eric Sung
+0	231	Edmond C. Prakash	Edmond C. Prakash
+1	23	Terence Sim	Terence Sim
+1	23	Chew Lim Tan	Chew Lim Tan
+1	34	Terence Sim	Terence Sim
+1	34	Chew Lim Tan	Chew Lim Tan
+1	46	Terence Sim	Terence Sim
+1	46	Chew Lim Tan	Chew Lim Tan
+1	48	Terence Sim	Terence Sim
+1	48	Chew Lim Tan	Chew Lim Tan
+1	50	Chew Lim Tan	Chew Lim Tan
+1	60	Terence Sim	Terence Sim
+1	60	Chew Lim Tan	Chew Lim Tan
+1	157	Terence Sim	Terence Sim
+1	157	Chew Lim Tan	Chew Lim Tan
+3	7	Zhaohui Wu	Zhaohui Wu
+3	7	Huajun Chen	Huajun Chen
+3	14	Zhaohui Wu	Zhaohui Wu
+3	14	Huajun Chen	Huajun Chen
+3	18	Zhaohui Wu	Zhaohui Wu
+3	18	Huajun Chen	Huajun Chen
+3	52	Zhaohui Wu	Zhaohui Wu
+3	52	Huajun Chen	Huajun Chen
+3	75	Zhaohui Wu	Zhaohui Wu
+3	75	Huajun Chen	Huajun Chen
+3	88	Zhaohui Wu	Zhaohui Wu
+3	88	Huajun Chen	Huajun Chen
+3	206	Tong Yu	Tong Yu
+3	206	Huajun Chen	Huajun Chen
+3	206	Xiaohong Jiang	Xiaohong Jiang
+3	210	Zhaohui Wu	Zhaohui Wu
+3	210	Huajun Chen	Huajun Chen
+3	210	Xiaohong Jiang	Xiaohong Jiang
+5	54	Tao Li	Tao Li
+5	54	Renchao Qin	Renchao Qin
+5	57	Tao Li	Tao Li
+5	57	Jia Sun	Jia Sun
+5	57	Renchao Qin	Renchao Qin
+5	116	Tao Li	Tao Li
+5	116	Renchao Qin	Renchao Qin
+5	121	Tao Li	Tao Li
+5	121	Renchao Qin	Renchao Qin
+7	14	Huajun Chen	Huajun Chen
+7	14	Zhaohui Wu	Zhaohui Wu
+7	14	Xiaoqing Zheng	Xiaoqing Zheng
+7	18	Huajun Chen	Huajun Chen
+7	18	Zhaohui Wu	Zhaohui Wu
+7	52	Huajun Chen	Huajun Chen
+7	52	Zhaohui Wu	Zhaohui Wu
+7	52	Xiaoqing Zheng	Xiaoqing Zheng
+7	75	Huajun Chen	Huajun Chen
+7	75	Zhaohui Wu	Zhaohui Wu
+7	88	Huajun Chen	Huajun Chen
+7	88	Zhaohui Wu	Zhaohui Wu
+7	206	Huajun Chen	Huajun Chen
+7	210	Huajun Chen	Huajun Chen
+7	210	Zhaohui Wu	Zhaohui Wu
+8	87	Dan Feng	Dan Feng
+8	122	Dan Feng	Dan Feng
+9	10	Ting Liu	Ting Liu
+9	11	Ting Liu	Ting Liu
+9	76	Ting Liu	Ting Liu
+9	230	Ting Liu	Ting Liu
+10	11	Ting Liu	Ting Liu
+10	76	Shiqi Zhao	Shiqi Zhao
+10	76	Ting Liu	Ting Liu
+10	76	Xincheng Yuan	Xincheng Yuan
+10	76	Sheng Li	Sheng Li
+10	230	Shiqi Zhao	Shiqi Zhao
+10	230	Ting Liu	Ting Liu
+10	230	Sheng Li	Sheng Li
+11	76	Ting Liu	Ting Liu
+11	230	Ting Liu	Ting Liu
+14	18	Huajun Chen	Huajun Chen
+14	18	Zhaohui Wu	Zhaohui Wu
+14	52	Xiaoqing Zheng	Xiaoqing Zheng
+14	52	Huajun Chen	Huajun Chen
+14	52	Zhaohui Wu	Zhaohui Wu
+14	75	Huajun Chen	Huajun Chen
+14	75	Zhaohui Wu	Zhaohui Wu
+14	88	Huajun Chen	Huajun Chen
+14	88	Zhaohui Wu	Zhaohui Wu
+14	206	Huajun Chen	Huajun Chen
+14	210	Huajun Chen	Huajun Chen
+14	210	Zhaohui Wu	Zhaohui Wu
+16	25	Slawomir Lasota	Slawomir Lasota
+16	25	David Nowak	David Nowak
+16	26	David Nowak	David Nowak
+16	141	Slawomir Lasota	Slawomir Lasota
+16	141	David Nowak	David Nowak
+17	37	Richard A. Volz	Richard A. Volz
+17	37	Thomas R. Ioerger	Thomas R. Ioerger
+17	38	Richard A. Volz	Richard A. Volz
+17	39	Richard A. Volz	Richard A. Volz
+17	39	Thomas R. Ioerger	Thomas R. Ioerger
+17	82	Richard A. Volz	Richard A. Volz
+17	99	Richard A. Volz	Richard A. Volz
+17	99	Thomas R. Ioerger	Thomas R. Ioerger
+17	220	Richard A. Volz	Richard A. Volz
+18	52	Huajun Chen	Huajun Chen
+18	52	Zhaohui Wu	Zhaohui Wu
+18	75	Huajun Chen	Huajun Chen
+18	75	Zhaohui Wu	Zhaohui Wu
+18	88	Huajun Chen	Huajun Chen
+18	88	Zhaohui Wu	Zhaohui Wu
+18	206	Huajun Chen	Huajun Chen
+18	210	Huajun Chen	Huajun Chen
+18	210	Zhaohui Wu	Zhaohui Wu
+19	29	Zhidong Deng	Zhidong Deng
+19	29	Hongshan Jiang	Hongshan Jiang
+19	29	Peifa Jia	Peifa Jia
+19	98	Zhidong Deng	Zhidong Deng
+19	98	Hongshan Jiang	Hongshan Jiang
+19	98	Peifa Jia	Peifa Jia
+19	222	Zhidong Deng	Zhidong Deng
+19	222	Peifa Jia	Peifa Jia
+21	51	Jinpeng Huai	Jinpeng Huai
+21	68	Jinpeng Huai	Jinpeng Huai
+21	198	Li Lin	Li Lin
+21	198	Jinpeng Huai	Jinpeng Huai
+22	59	Edmond C. Prakash	Edmond C. Prakash
+22	59	Eric Sung	Eric Sung
+22	63	Edmond C. Prakash	Edmond Cyril Prakash
+22	103	Edmond C. Prakash	Edmond C. Prakash
+22	103	Eric Sung	Eric Sung
+22	107	Edmond C. Prakash	Edmond C. Prakash
+22	107	Eric Sung	Eric Sung
+22	131	Edmond C. Prakash	Edmond C. Prakash
+22	131	Eric Sung	Eric Sung
+22	137	Edmond C. Prakash	Edmond C. Prakash
+22	137	Eric Sung	Eric Sung
+22	143	Edmond C. Prakash	Edmond C. Prakash
+22	143	Eric Sung	Eric Sung
+22	155	Edmond C. Prakash	Edmond C. Prakash
+22	155	Eric Sung	Eric Sung
+22	156	Edmond C. Prakash	Edmond C. Prakash
+22	156	Eric Sung	Eric Sung
+22	157	Eric Sung	Eric Sung
+22	211	Eric Sung	Eric Sung
+22	231	Edmond C. Prakash	Edmond C. Prakash
+22	231	Eric Sung	Eric Sung
+23	34	Terence Sim	Terence Sim
+23	34	Chew Lim Tan	Chew Lim Tan
+23	46	Terence Sim	Terence Sim
+23	46	Chew Lim Tan	Chew Lim Tan
+23	48	Terence Sim	Terence Sim
+23	48	Chew Lim Tan	Chew Lim Tan
+23	50	Chew Lim Tan	Chew Lim Tan
+23	60	Terence Sim	Terence Sim
+23	60	Chew Lim Tan	Chew Lim Tan
+23	157	Terence Sim	Terence Sim
+23	157	Chew Lim Tan	Chew Lim Tan
+24	94	Michael S. Waterman	Michael S. Waterman
+24	135	Michael S. Waterman	Michael S. Waterman
+24	144	Michael S. Waterman	Michael S. Waterman
+24	145	Michael S. Waterman	Michael S. Waterman
+25	26	David Nowak	David Nowak
+25	141	Slawomir Lasota	Slawomir Lasota
+25	141	David Nowak	David Nowak
+26	141	David Nowak	David Nowak
+27	91	Dit-Yan Yeung	Dit-Yan Yeung
+27	186	Dit-Yan Yeung	Dit-Yan Yeung
+27	187	Dit-Yan Yeung	Dit-Yan Yeung
+28	71	Song Liu	Song Liu
+28	71	Seda Ogrenci Memik	Seda Ogrenci Memik
+28	71	Gokhan Memik	Gokhan Memik
+28	115	Gokhan Memik	Gokhan Memik
+28	166	Gokhan Memik	Gokhan Memik
+28	168	Gokhan Memik	Gokhan Memik
+29	98	Zhidong Deng	Zhidong Deng
+29	98	Hongshan Jiang	Hongshan Jiang
+29	98	Peifa Jia	Peifa Jia
+29	222	Zhidong Deng	Zhidong Deng
+29	222	Peifa Jia	Peifa Jia
+31	176	Yiyun Chen	Yiyun Chen
+32	53	Ling Xia	Ling Xia
+32	53	Guanghuan Hou	Guanghuan Hou
+32	56	Ling Xia	Ling Xia
+32	56	Yinglan Gong	Yinglan Gong
+34	46	Terence Sim	Terence Sim
+34	46	Chew Lim Tan	Chew Lim Tan
+34	48	Terence Sim	Terence Sim
+34	48	Chew Lim Tan	Chew Lim Tan
+34	50	Chew Lim Tan	Chew Lim Tan
+34	60	Terence Sim	Terence Sim
+34	60	Chew Lim Tan	Chew Lim Tan
+34	157	Terence Sim	Terence Sim
+34	157	Chew Lim Tan	Chew Lim Tan
+37	38	Richard A. Volz	Richard A. Volz
+37	39	Sen Cao	Sen Cao
+37	39	Richard A. Volz	Richard A. Volz
+37	39	Thomas R. Ioerger	Thomas R. Ioerger
+37	82	Richard A. Volz	Richard A. Volz
+37	99	Richard A. Volz	Richard A. Volz
+37	99	Thomas R. Ioerger	Thomas R. Ioerger
+37	220	Richard A. Volz	Richard A. Volz
+38	39	Richard A. Volz	Richard A. Volz
+38	82	Richard A. Volz	Richard A. Volz
+38	99	Richard A. Volz	Richard A. Volz
+38	220	Richard A. Volz	Richard A. Volz
+39	82	Richard A. Volz	Richard A. Volz
+39	99	Richard A. Volz	Richard A. Volz
+39	99	Thomas R. Ioerger	Thomas R. Ioerger
+39	99	John Yen	John Yen
+39	220	Richard A. Volz	Richard A. Volz
+39	220	John Yen	John Yen
+40	41	Phillip Coleman	Phillip Coleman
+40	41	Michael Pellon	Michael Pellon
+40	123	Phillip Coleman	Phillip Coleman
+40	123	Michael Pellon	Michael Pellon
+41	123	Phillip Coleman	Phillip Coleman
+41	123	Michael Pellon	Michael Pellon
+42	44	Jianfei Cai	Jianfei Cai
+42	44	Chuan Heng Foh	Chuan Heng Foh
+42	45	Jianfei Cai	Jianfei Cai
+42	45	Chuan Heng Foh	Chuan Heng Foh
+42	153	Jianfei Cai	Jianfei Cai
+42	153	Chuan Heng Foh	Chuan Heng Foh
+43	132	Lin Zhang	Lin Zhang
+43	132	Xiuming Shan	Xiuming Shan
+44	45	Chuan Heng Foh	Chuan Heng Foh
+44	45	Jianfei Cai	Jianfei Cai
+44	153	Chuan Heng Foh	Chuan Heng Foh
+44	153	Jianfei Cai	Jianfei Cai
+45	153	Chuan Heng Foh	Chuan Heng Foh
+45	153	Zefeng Ni	Zefeng Ni
+45	153	Jianfei Cai	Jianfei Cai
+46	48	Terence Sim	Terence Sim
+46	48	Chew Lim Tan	Chew Lim Tan
+46	50	Chew Lim Tan	Chew Lim Tan
+46	60	Terence Sim	Terence Sim
+46	60	Chew Lim Tan	Chew Lim Tan
+46	157	Terence Sim	Terence Sim
+46	157	Chew Lim Tan	Chew Lim Tan
+48	50	Chew Lim Tan	Chew Lim Tan
+48	60	Terence Sim	Terence Sim
+48	60	Chew Lim Tan	Chew Lim Tan
+48	157	Terence Sim	Terence Sim
+48	157	Chew Lim Tan	Chew Lim Tan
+50	60	Chew Lim Tan	Chew Lim Tan
+50	148	Li Zhang	Li Zhang
+50	157	Chew Lim Tan	Chew Lim Tan
+51	68	Xianxian Li	Xianxian Li
+51	68	Jinpeng Huai	Jinpeng Huai
+51	68	Yunhao Liu	Yunhao Liu
+51	198	Jinpeng Huai	Jinpeng Huai
+52	75	Huajun Chen	Huajun Chen
+52	75	Zhaohui Wu	Zhaohui Wu
+52	88	Huajun Chen	Huajun Chen
+52	88	Zhaohui Wu	Zhaohui Wu
+52	206	Huajun Chen	Huajun Chen
+52	210	Huajun Chen	Huajun Chen
+52	210	Zhaohui Wu	Zhaohui Wu
+53	56	Ling Xia	Ling Xia
+54	57	Tao Li	Tao Li
+54	57	Renchao Qin	Renchao Qin
+54	116	Tao Li	Tao Li
+54	116	Renchao Qin	Renchao Qin
+54	121	Tao Li	Tao Li
+54	121	Renchao Qin	Renchao Qin
+57	116	Tao Li	Tao Li
+57	116	Renchao Qin	Renchao Qin
+57	121	Tao Li	Tao Li
+57	121	Renchao Qin	Renchao Qin
+59	63	Edmond C. Prakash	Edmond Cyril Prakash
+59	103	Eric Sung	Eric Sung
+59	103	Edmond C. Prakash	Edmond C. Prakash
+59	107	Eric Sung	Eric Sung
+59	107	Edmond C. Prakash	Edmond C. Prakash
+59	131	Eric Sung	Eric Sung
+59	131	Edmond C. Prakash	Edmond C. Prakash
+59	137	Eric Sung	Eric Sung
+59	137	Edmond C. Prakash	Edmond C. Prakash
+59	143	Eric Sung	Eric Sung
+59	143	Edmond C. Prakash	Edmond C. Prakash
+59	155	Eric Sung	Eric Sung
+59	155	Edmond C. Prakash	Edmond C. Prakash
+59	156	Eric Sung	Eric Sung
+59	156	Edmond C. Prakash	Edmond C. Prakash
+59	157	Eric Sung	Eric Sung
+59	211	Eric Sung	Eric Sung
+59	231	Eric Sung	Eric Sung
+59	231	Edmond C. Prakash	Edmond C. Prakash
+60	157	Terence Sim	Terence Sim
+60	157	Chew Lim Tan	Chew Lim Tan
+61	199	Shuhong Xu	Shuhong Xu
+62	65	C. J. Duanmu	C. J. Duanmu
+62	65	Xing Chen	Xing Chen
+62	65	Shuihong Zhou	Shuihong Zhou
+63	103	Edmond Cyril Prakash	Edmond C. Prakash
+63	107	Edmond Cyril Prakash	Edmond C. Prakash
+63	131	Edmond Cyril Prakash	Edmond C. Prakash
+63	137	Edmond Cyril Prakash	Edmond C. Prakash
+63	143	Edmond Cyril Prakash	Edmond C. Prakash
+63	155	Edmond Cyril Prakash	Edmond C. Prakash
+63	156	Edmond Cyril Prakash	Edmond C. Prakash
+63	231	Edmond Cyril Prakash	Edmond C. Prakash
+67	214	Hongli Zhang	Hongli Zhang
+68	198	Jinpeng Huai	Jinpeng Huai
+70	190	Changsong Liu	Changsong Liu
+70	190	Xiaoqing Ding	Xiaoqing Ding
+71	115	Gokhan Memik	Gokhan Memik
+71	166	Gokhan Memik	Gokhan Memik
+71	168	Gokhan Memik	Gokhan Memik
+72	129	Bharat K. Bhargava	Bharat K. Bhargava
+72	182	Bharat K. Bhargava	Bharat K. Bhargava
+72	197	Bharat K. Bhargava	Bharat K. Bhargava
+75	88	Huajun Chen	Huajun Chen
+75	88	Hao Sheng	Hao Sheng
+75	88	Zhaohui Wu	Zhaohui Wu
+75	206	Huajun Chen	Huajun Chen
+75	206	Hao Sheng	Hao Sheng
+75	210	Huajun Chen	Huajun Chen
+75	210	Hao Sheng	Hao Sheng
+75	210	Zhaohui Wu	Zhaohui Wu
+76	230	Shiqi Zhao	Shiqi Zhao
+76	230	Ting Liu	Ting Liu
+76	230	Sheng Li	Sheng Li
+77	178	Shuyi Shao	Shuyi Shao
+77	178	Alex K. Jones	Alex K. Jones
+77	178	Rami G. Melhem	Rami G. Melhem
+77	185	Alex K. Jones	Alex K. Jones
+80	102	Zengqi Sun	Zengqi Sun
+82	99	Richard A. Volz	Richard A. Volz
+82	220	Richard A. Volz	Richard A. Volz
+86	138	Lei Guo	Lei Guo
+86	138	Xingwei Wang	Xingwei Wang
+86	139	Xiaobing Zheng	Xiaobing Zheng
+86	139	Lei Guo	Lei Guo
+86	139	Xingwei Wang	Xingwei Wang
+86	139	Xuekui Wang	Xuekui Wang
+86	194	Xiaobing Zheng	Xiaobing Zheng
+86	194	Lei Guo	Lei Guo
+86	194	Xingwei Wang	Xingwei Wang
+86	194	Xuekui Wang	Xuekui Wang
+86	212	Xiaobing Zheng	Xiaobing Zheng
+86	212	Lei Guo	Lei Guo
+86	212	Xingwei Wang	Xingwei Wang
+86	212	Xuekui Wang	Xuekui Wang
+86	234	Xiaobing Zheng	Xiaobing Zheng
+86	234	Lei Guo	Lei Guo
+86	234	Xingwei Wang	Xingwei Wang
+86	234	Xuekui Wang	Xuekui Wang
+87	122	Dan Feng	Dan Feng
+88	206	Huajun Chen	Huajun Chen
+88	206	Hao Sheng	Hao Sheng
+88	210	Huajun Chen	Huajun Chen
+88	210	Hao Sheng	Hao Sheng
+88	210	Zhaohui Wu	Zhaohui Wu
+91	186	Dit-Yan Yeung	Dit-Yan Yeung
+91	187	Dit-Yan Yeung	Dit-Yan Yeung
+94	135	Anton Valouev	Anton Valouev
+94	135	David C. Schwartz	David C. Schwartz
+94	135	Michael S. Waterman	Michael S. Waterman
+94	144	Michael S. Waterman	Michael S. Waterman
+94	145	Anton Valouev	Anton Valouev
+94	145	Lei Li	Lei Li
+94	145	Yu-Chi Liu	Yu-Chi Liu
+94	145	David C. Schwartz	David C. Schwartz
+94	145	Yi Yang	Yi Yang
+94	145	Michael S. Waterman	Michael S. Waterman
+95	188	Webb Miller	Webb Miller
+96	97	Alan K. Mackworth	Alan K. Mackworth
+96	140	Alan K. Mackworth	Alan K. Mackworth
+96	223	Alan K. Mackworth	Alan K. Mackworth
+96	224	Alan K. Mackworth	Alan K. Mackworth
+97	140	Alan K. Mackworth	Alan K. Mackworth
+97	223	Alan K. Mackworth	Alan K. Mackworth
+97	224	Alan K. Mackworth	Alan K. Mackworth
+98	222	Zhidong Deng	Zhidong Deng
+98	222	Peifa Jia	Peifa Jia
+99	220	Richard A. Volz	Richard A. Volz
+99	220	John Yen	John Yen
+100	123	Jason Leezer	Jason Leezer
+100	193	Jason Leezer	Jason Leezer
+101	117	Wade Trappe	Wade Trappe
+101	125	Wade Trappe	Wade Trappe
+101	162	Wade Trappe	Wade Trappe
+103	107	Edmond C. Prakash	Edmond C. Prakash
+103	107	Eric Sung	Eric Sung
+103	131	Edmond C. Prakash	Edmond C. Prakash
+103	131	Eric Sung	Eric Sung
+103	137	Edmond C. Prakash	Edmond C. Prakash
+103	137	Eric Sung	Eric Sung
+103	143	Edmond C. Prakash	Edmond C. Prakash
+103	143	Eric Sung	Eric Sung
+103	155	Edmond C. Prakash	Edmond C. Prakash
+103	155	Eric Sung	Eric Sung
+103	156	Edmond C. Prakash	Edmond C. Prakash
+103	156	Eric Sung	Eric Sung
+103	157	Eric Sung	Eric Sung
+103	211	Eric Sung	Eric Sung
+103	231	Edmond C. Prakash	Edmond C. Prakash
+103	231	Eric Sung	Eric Sung
+107	131	Edmond C. Prakash	Edmond C. Prakash
+107	131	Eric Sung	Eric Sung
+107	137	Edmond C. Prakash	Edmond C. Prakash
+107	137	Eric Sung	Eric Sung
+107	143	Edmond C. Prakash	Edmond C. Prakash
+107	143	Eric Sung	Eric Sung
+107	155	Edmond C. Prakash	Edmond C. Prakash
+107	155	Eric Sung	Eric Sung
+107	156	Edmond C. Prakash	Edmond C. Prakash
+107	156	Eric Sung	Eric Sung
+107	157	Eric Sung	Eric Sung
+107	211	Eric Sung	Eric Sung
+107	231	Edmond C. Prakash	Edmond C. Prakash
+107	231	Eric Sung	Eric Sung
+108	189	Ming Fu	Ming Fu
+111	112	Jianhua Zhang	Jianhua Zhang
+111	114	Xinying Gao	Xinying Gao
+111	114	Jianhua Zhang	Jianhua Zhang
+111	119	Jianhua Zhang	Jianhua Zhang
+111	120	Jianhua Zhang	Jianhua Zhang
+111	170	Xinying Gao	Xinying Gao
+111	170	Jianhua Zhang	Jianhua Zhang
+111	174	Jianhua Zhang	Jianhua Zhang
+112	114	Jianhua Zhang	Jianhua Zhang
+112	119	Jianhua Zhang	Jianhua Zhang
+112	120	Jianhua Zhang	Jianhua Zhang
+112	170	Jianhua Zhang	Jianhua Zhang
+112	174	Jianhua Zhang	Jianhua Zhang
+114	119	Jianhua Zhang	Jianhua Zhang
+114	119	Guangyi Liu	Guangyi Liu
+114	119	Ping Zhang	Ping Zhang
+114	120	Jianhua Zhang	Jianhua Zhang
+114	120	Guangyi Liu	Guangyi Liu
+114	170	Jianhua Zhang	Jianhua Zhang
+114	170	Guangyi Liu	Guangyi Liu
+114	170	Xinying Gao	Xinying Gao
+114	174	Jianhua Zhang	Jianhua Zhang
+114	174	Guangyi Liu	Guangyi Liu
+114	174	Ping Zhang	Ping Zhang
+115	166	Gokhan Memik	Gokhan Memik
+115	168	Gokhan Memik	Gokhan Memik
+116	121	Renchao Qin	Renchao Qin
+116	121	Tao Li	Tao Li
+117	125	Wade Trappe	Wade Trappe
+117	162	Zang Li	Zang Li
+117	162	Wade Trappe	Wade Trappe
+119	120	Jianhua Zhang	Jianhua Zhang
+119	120	Xin Nie	Xin Nie
+119	120	Guangyi Liu	Guangyi Liu
+119	170	Jianhua Zhang	Jianhua Zhang
+119	170	Di Dong	Di Dong
+119	170	Xin Nie	Xin Nie
+119	170	Guangyi Liu	Guangyi Liu
+119	174	Jianhua Zhang	Jianhua Zhang
+119	174	Guangyi Liu	Guangyi Liu
+119	174	Ping Zhang	Ping Zhang
+120	170	Xin Nie	Xin Nie
+120	170	Jianhua Zhang	Jianhua Zhang
+120	170	Guangyi Liu	Guangyi Liu
+120	174	Jianhua Zhang	Jianhua Zhang
+120	174	Guangyi Liu	Guangyi Liu
+123	193	Jason Leezer	Jason Leezer
+125	162	Wade Trappe	Wade Trappe
+129	182	Bharat K. Bhargava	Bharat K. Bhargava
+129	197	Bharat K. Bhargava	Bharat K. Bhargava
+131	137	Edmond C. Prakash	Edmond C. Prakash
+131	137	Eric Sung	Eric Sung
+131	143	Edmond C. Prakash	Edmond C. Prakash
+131	143	Eric Sung	Eric Sung
+131	155	Edmond C. Prakash	Edmond C. Prakash
+131	155	Eric Sung	Eric Sung
+131	156	Edmond C. Prakash	Edmond C. Prakash
+131	156	Eric Sung	Eric Sung
+131	157	Eric Sung	Eric Sung
+131	211	Eric Sung	Eric Sung
+131	231	Edmond C. Prakash	Edmond C. Prakash
+131	231	Eric Sung	Eric Sung
+133	196	Jitao Sun	Jitao Sun
+133	215	Jitao Sun	Jitao Sun
+135	144	Michael S. Waterman	Michael S. Waterman
+135	145	Anton Valouev	Anton Valouev
+135	145	David C. Schwartz	David C. Schwartz
+135	145	Michael S. Waterman	Michael S. Waterman
+137	143	Edmond C. Prakash	Edmond C. Prakash
+137	143	Eric Sung	Eric Sung
+137	155	Edmond C. Prakash	Edmond C. Prakash
+137	155	Eric Sung	Eric Sung
+137	156	Edmond C. Prakash	Edmond C. Prakash
+137	156	Eric Sung	Eric Sung
+137	157	Eric Sung	Eric Sung
+137	211	Eric Sung	Eric Sung
+137	231	Edmond C. Prakash	Edmond C. Prakash
+137	231	Eric Sung	Eric Sung
+138	139	Xingwei Wang	Xingwei Wang
+138	139	Lei Guo	Lei Guo
+138	194	Xingwei Wang	Xingwei Wang
+138	194	Lei Guo	Lei Guo
+138	212	Xingwei Wang	Xingwei Wang
+138	212	Lei Guo	Lei Guo
+138	234	Xingwei Wang	Xingwei Wang
+138	234	Lei Guo	Lei Guo
+139	194	Xingwei Wang	Xingwei Wang
+139	194	Lei Guo	Lei Guo
+139	194	Xuekui Wang	Xuekui Wang
+139	194	Xiaobing Zheng	Xiaobing Zheng
+139	194	Weigang Hou	Weigang Hou
+139	212	Xingwei Wang	Xingwei Wang
+139	212	Lei Guo	Lei Guo
+139	212	Xuekui Wang	Xuekui Wang
+139	212	Xiaobing Zheng	Xiaobing Zheng
+139	234	Xingwei Wang	Xingwei Wang
+139	234	Lei Guo	Lei Guo
+139	234	Xuekui Wang	Xuekui Wang
+139	234	Xiaobing Zheng	Xiaobing Zheng
+140	223	Alan K. Mackworth	Alan K. Mackworth
+140	224	Alan K. Mackworth	Alan K. Mackworth
+142	159	Jian Song	Jian Song
+142	159	Chang-Yong Pan	Chang-Yong Pan
+142	159	Zhixing Yang	Zhixing Yang
+142	173	Jian Song	Jian Song
+142	173	Chang-Yong Pan	Chang-Yong Pan
+142	173	Zhixing Yang	Zhixing Yang
+142	175	Zhixing Yang	Zhixing Yang
+143	155	Edmond C. Prakash	Edmond C. Prakash
+143	155	Eric Sung	Eric Sung
+143	156	Edmond C. Prakash	Edmond C. Prakash
+143	156	Eric Sung	Eric Sung
+143	157	Eric Sung	Eric Sung
+143	211	Eric Sung	Eric Sung
+143	231	Edmond C. Prakash	Edmond C. Prakash
+143	231	Eric Sung	Eric Sung
+144	145	Michael S. Waterman	Michael S. Waterman
+151	160	Huaping Liu	Huaping Liu
+155	156	Edmond C. Prakash	Edmond C. Prakash
+155	156	Eric Sung	Eric Sung
+155	157	Eric Sung	Eric Sung
+155	211	Eric Sung	Eric Sung
+155	231	Edmond C. Prakash	Edmond C. Prakash
+155	231	Eric Sung	Eric Sung
+156	157	Eric Sung	Eric Sung
+156	211	Eric Sung	Eric Sung
+156	231	Edmond C. Prakash	Edmond C. Prakash
+156	231	Eric Sung	Eric Sung
+157	211	Eric Sung	Eric Sung
+157	231	Eric Sung	Eric Sung
+159	173	Feng Yang	Feng Yang
+159	173	Jian Song	Jian Song
+159	173	Chang-Yong Pan	Chang-Yong Pan
+159	173	Zhixing Yang	Zhixing Yang
+159	175	Zhixing Yang	Zhixing Yang
+166	168	John Kim	John Kim
+166	168	Gokhan Memik	Gokhan Memik
+166	168	Alok N. Choudhary	Alok N. Choudhary
+170	174	Jianhua Zhang	Jianhua Zhang
+170	174	Guangyi Liu	Guangyi Liu
+171	192	Jiang Wu	Jiang Wu
+171	192	Bin Hu	Bin Hu
+171	195	Jiang Wu	Jiang Wu
+171	195	Bin Hu	Bin Hu
+173	175	Zhixing Yang	Zhixing Yang
+176	189	Yong Li	Yong Li
+177	180	Hong Shen	Hong Shen
+178	185	Alex K. Jones	Alex K. Jones
+182	197	Bharat K. Bhargava	Bharat K. Bhargava
+182	197	Nwokedi C. Idika	Nwokedi C. Idika
+184	201	Lin Luo	Lin Luo
+186	187	Dit-Yan Yeung	Dit-Yan Yeung
+192	195	Jiang Wu	Jiang Wu
+192	195	Bin Hu	Bin Hu
+194	212	Lei Guo	Lei Guo
+194	212	Xingwei Wang	Xingwei Wang
+194	212	Xiaobing Zheng	Xiaobing Zheng
+194	212	Xuekui Wang	Xuekui Wang
+194	234	Lei Guo	Lei Guo
+194	234	Xingwei Wang	Xingwei Wang
+194	234	Xiaobing Zheng	Xiaobing Zheng
+194	234	Xuekui Wang	Xuekui Wang
+196	215	Jitao Sun	Jitao Sun
+202	204	Yu Zhao	Yu Zhao
+202	204	Chunjie Qi	Chunjie Qi
+202	227	Yu Zhao	Yu Zhao
+202	227	Chunjie Qi	Chunjie Qi
+204	227	Yu Zhao	Yu Zhao
+204	227	Chunjie Qi	Chunjie Qi
+206	210	Huajun Chen	Huajun Chen
+206	210	Xiaohong Jiang	Xiaohong Jiang
+206	210	Hao Sheng	Hao Sheng
+211	231	Eric Sung	Eric Sung
+212	234	Lei Guo	Lei Guo
+212	234	Xingwei Wang	Xingwei Wang
+212	234	Xiaobing Zheng	Xiaobing Zheng
+212	234	Xuekui Wang	Xuekui Wang
+223	224	Alan K. Mackworth	Alan K. Mackworth
+226	229	Shuhua Liu	Shuhua Liu
+226	229	Jie Liu	Jie Liu

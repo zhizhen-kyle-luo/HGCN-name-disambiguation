@@ -1,0 +1,26 @@
+0	9	Univ. of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte, Charlotte, NC
+0	11	Univ. of North Carolina at Charlotte, Charlotte, NC	University of North Carolina, Charlotte
+0	12	Univ. of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte
+0	19	Univ. of North Carolina at Charlotte, Charlotte, NC	Univ. of North Carolina, Charlotte
+0	26	Univ. of North Carolina at Charlotte, Charlotte, NC	Univ. of North Carolina, Charlotte
+3	4	Dept. of Comput. Sci., North Carolina Univ., Charlotte, NC, USA	North Carolina Univ., Charlotte, NC
+3	24	Dept. of Comput. Sci., North Carolina Univ., Charlotte, NC, USA	Dept. of Comput. Sci., North Carolina Univ., Charlotte, NC
+4	24	North Carolina Univ., Charlotte, NC	Dept. of Comput. Sci., North Carolina Univ., Charlotte, NC
+8	11	University of North Carolina Charlotte, Charlotte, NC, USA	University of North Carolina, Charlotte
+8	18	University of North Carolina Charlotte, Charlotte, NC, USA	University of North Carolina Charlotte, Charlotte, NC, USA
+8	19	University of North Carolina Charlotte, Charlotte, NC, USA	Univ. of North Carolina, Charlotte
+8	26	University of North Carolina Charlotte, Charlotte, NC, USA	Univ. of North Carolina, Charlotte
+9	11	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina, Charlotte
+9	12	University of North Carolina at Charlotte, Charlotte, NC	University of North Carolina at Charlotte
+9	19	University of North Carolina at Charlotte, Charlotte, NC	Univ. of North Carolina, Charlotte
+9	26	University of North Carolina at Charlotte, Charlotte, NC	Univ. of North Carolina, Charlotte
+11	12	University of North Carolina, Charlotte	University of North Carolina at Charlotte
+11	18	University of North Carolina, Charlotte	University of North Carolina Charlotte, Charlotte, NC, USA
+11	19	University of North Carolina, Charlotte	Univ. of North Carolina, Charlotte
+11	26	University of North Carolina, Charlotte	Univ. of North Carolina, Charlotte
+12	19	University of North Carolina at Charlotte	Univ. of North Carolina, Charlotte
+12	26	University of North Carolina at Charlotte	Univ. of North Carolina, Charlotte
+18	19	University of North Carolina Charlotte, Charlotte, NC, USA	Univ. of North Carolina, Charlotte
+18	26	University of North Carolina Charlotte, Charlotte, NC, USA	Univ. of North Carolina, Charlotte
+19	26	Univ. of North Carolina, Charlotte	Univ. of North Carolina, Charlotte
+20	21	Brighton Polytechnic, Brighton, UK	Brighton Polytechnic, Brighton, UK

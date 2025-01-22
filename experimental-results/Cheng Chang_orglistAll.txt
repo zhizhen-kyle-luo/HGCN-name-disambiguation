@@ -1,0 +1,351 @@
+0	1	University of Illinois at Chicago	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA
+0	2	University of Illinois at Chicago	University of Illinois at Chicago
+0	3	University of Illinois at Chicago	Hainan University
+0	4	University of Illinois at Chicago	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA
+0	5	University of Illinois at Chicago	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA
+0	6	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+0	7	University of Illinois at Chicago	null
+0	8	University of Illinois at Chicago	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+0	9	University of Illinois at Chicago	Univ. of California, Berkeley
+0	10	University of Illinois at Chicago	null
+0	11	University of Illinois at Chicago	null
+0	12	University of Illinois at Chicago	null
+0	13	University of Illinois at Chicago	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+0	14	University of Illinois at Chicago	D.E. Shaw & Co., New York, NY, USA
+0	15	University of Illinois at Chicago	D.E. Shaw & Co., New York, NY, USA
+0	16	University of Illinois at Chicago	null
+0	17	University of Illinois at Chicago	Department of Automation, Tsinghua University, Beijing 100084, PR China
+0	18	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+0	19	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+0	20	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+0	21	University of Illinois at Chicago	null
+0	22	University of Illinois at Chicago	HP Labs China, Beijing, China
+0	23	University of Illinois at Chicago	HP Labs. China, Beijing, China
+0	24	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+0	25	University of Illinois at Chicago	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+0	26	University of Illinois at Chicago	null
+1	2	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	University of Illinois at Chicago
+1	3	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Hainan University
+1	4	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA
+1	5	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA
+1	6	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+1	7	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	null
+1	8	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+1	9	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Univ. of California, Berkeley
+1	10	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	null
+1	11	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	null
+1	12	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	null
+1	13	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+1	14	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	D.E. Shaw & Co., New York, NY, USA
+1	15	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	D.E. Shaw & Co., New York, NY, USA
+1	16	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	null
+1	17	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Department of Automation, Tsinghua University, Beijing 100084, PR China
+1	18	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+1	19	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+1	20	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+1	21	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	null
+1	22	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	HP Labs China, Beijing, China
+1	23	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	HP Labs. China, Beijing, China
+1	24	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+1	25	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+1	26	Dept. of Electr. & Comput. Eng.,, Illinois Univ., Chicago, IL, USA	null
+2	3	University of Illinois at Chicago	Hainan University
+2	4	University of Illinois at Chicago	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA
+2	5	University of Illinois at Chicago	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA
+2	6	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+2	7	University of Illinois at Chicago	null
+2	8	University of Illinois at Chicago	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+2	9	University of Illinois at Chicago	Univ. of California, Berkeley
+2	10	University of Illinois at Chicago	null
+2	11	University of Illinois at Chicago	null
+2	12	University of Illinois at Chicago	null
+2	13	University of Illinois at Chicago	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+2	14	University of Illinois at Chicago	D.E. Shaw & Co., New York, NY, USA
+2	15	University of Illinois at Chicago	D.E. Shaw & Co., New York, NY, USA
+2	16	University of Illinois at Chicago	null
+2	17	University of Illinois at Chicago	Department of Automation, Tsinghua University, Beijing 100084, PR China
+2	18	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+2	19	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+2	20	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+2	21	University of Illinois at Chicago	null
+2	22	University of Illinois at Chicago	HP Labs China, Beijing, China
+2	23	University of Illinois at Chicago	HP Labs. China, Beijing, China
+2	24	University of Illinois at Chicago	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+2	25	University of Illinois at Chicago	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+2	26	University of Illinois at Chicago	null
+3	4	Hainan University	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA
+3	5	Hainan University	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA
+3	6	Hainan University	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+3	7	Hainan University	null
+3	8	Hainan University	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+3	9	Hainan University	Univ. of California, Berkeley
+3	10	Hainan University	null
+3	11	Hainan University	null
+3	12	Hainan University	null
+3	13	Hainan University	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+3	14	Hainan University	D.E. Shaw & Co., New York, NY, USA
+3	15	Hainan University	D.E. Shaw & Co., New York, NY, USA
+3	16	Hainan University	null
+3	17	Hainan University	Department of Automation, Tsinghua University, Beijing 100084, PR China
+3	18	Hainan University	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+3	19	Hainan University	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+3	20	Hainan University	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+3	21	Hainan University	null
+3	22	Hainan University	HP Labs China, Beijing, China
+3	23	Hainan University	HP Labs. China, Beijing, China
+3	24	Hainan University	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+3	25	Hainan University	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+3	26	Hainan University	null
+4	5	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA
+4	6	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+4	7	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+4	8	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+4	9	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Univ. of California, Berkeley
+4	10	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+4	11	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+4	12	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+4	13	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+4	14	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	D.E. Shaw & Co., New York, NY, USA
+4	15	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	D.E. Shaw & Co., New York, NY, USA
+4	16	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+4	17	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Department of Automation, Tsinghua University, Beijing 100084, PR China
+4	18	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+4	19	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+4	20	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+4	21	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+4	22	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	HP Labs China, Beijing, China
+4	23	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	HP Labs. China, Beijing, China
+4	24	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+4	25	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+4	26	Dept. of Electron. Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+5	6	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+5	7	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+5	8	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+5	9	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Univ. of California, Berkeley
+5	10	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+5	11	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+5	12	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+5	13	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+5	14	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	D.E. Shaw & Co., New York, NY, USA
+5	15	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	D.E. Shaw & Co., New York, NY, USA
+5	16	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+5	17	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Department of Automation, Tsinghua University, Beijing 100084, PR China
+5	18	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+5	19	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+5	20	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+5	21	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+5	22	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	HP Labs China, Beijing, China
+5	23	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	HP Labs. China, Beijing, China
+5	24	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+5	25	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+5	26	Dept. of Electr. * Comput. Eng., Illinois Univ., Chicago, IL, USA	null
+6	7	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+6	8	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+6	9	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Univ. of California, Berkeley
+6	10	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+6	11	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+6	12	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+6	13	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+6	14	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	D.E. Shaw & Co., New York, NY, USA
+6	15	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	D.E. Shaw & Co., New York, NY, USA
+6	16	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+6	17	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Department of Automation, Tsinghua University, Beijing 100084, PR China
+6	18	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+6	19	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+6	20	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+6	21	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+6	22	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	HP Labs China, Beijing, China
+6	23	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	HP Labs. China, Beijing, China
+6	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+6	25	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+6	26	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+7	8	null	Chung Shan Inst. of Sci. & Technol., Lung-Tan
+7	9	null	Univ. of California, Berkeley
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+7	14	null	D.E. Shaw & Co., New York, NY, USA
+7	15	null	D.E. Shaw & Co., New York, NY, USA
+7	16	null	null
+7	17	null	Department of Automation, Tsinghua University, Beijing 100084, PR China
+7	18	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+7	19	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+7	20	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+7	21	null	null
+7	22	null	HP Labs China, Beijing, China
+7	23	null	HP Labs. China, Beijing, China
+7	24	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+7	25	null	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+7	26	null	null
+8	9	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Univ. of California, Berkeley
+8	10	Chung Shan Inst. of Sci. & Technol., Lung-Tan	null
+8	11	Chung Shan Inst. of Sci. & Technol., Lung-Tan	null
+8	12	Chung Shan Inst. of Sci. & Technol., Lung-Tan	null
+8	13	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+8	14	Chung Shan Inst. of Sci. & Technol., Lung-Tan	D.E. Shaw & Co., New York, NY, USA
+8	15	Chung Shan Inst. of Sci. & Technol., Lung-Tan	D.E. Shaw & Co., New York, NY, USA
+8	16	Chung Shan Inst. of Sci. & Technol., Lung-Tan	null
+8	17	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Department of Automation, Tsinghua University, Beijing 100084, PR China
+8	18	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+8	19	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+8	20	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+8	21	Chung Shan Inst. of Sci. & Technol., Lung-Tan	null
+8	22	Chung Shan Inst. of Sci. & Technol., Lung-Tan	HP Labs China, Beijing, China
+8	23	Chung Shan Inst. of Sci. & Technol., Lung-Tan	HP Labs. China, Beijing, China
+8	24	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+8	25	Chung Shan Inst. of Sci. & Technol., Lung-Tan	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+8	26	Chung Shan Inst. of Sci. & Technol., Lung-Tan	null
+9	10	Univ. of California, Berkeley	null
+9	11	Univ. of California, Berkeley	null
+9	12	Univ. of California, Berkeley	null
+9	13	Univ. of California, Berkeley	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+9	14	Univ. of California, Berkeley	D.E. Shaw & Co., New York, NY, USA
+9	15	Univ. of California, Berkeley	D.E. Shaw & Co., New York, NY, USA
+9	16	Univ. of California, Berkeley	null
+9	17	Univ. of California, Berkeley	Department of Automation, Tsinghua University, Beijing 100084, PR China
+9	18	Univ. of California, Berkeley	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+9	19	Univ. of California, Berkeley	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+9	20	Univ. of California, Berkeley	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+9	21	Univ. of California, Berkeley	null
+9	22	Univ. of California, Berkeley	HP Labs China, Beijing, China
+9	23	Univ. of California, Berkeley	HP Labs. China, Beijing, China
+9	24	Univ. of California, Berkeley	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+9	25	Univ. of California, Berkeley	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+9	26	Univ. of California, Berkeley	null
+10	11	null	null
+10	12	null	null
+10	13	null	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+10	14	null	D.E. Shaw & Co., New York, NY, USA
+10	15	null	D.E. Shaw & Co., New York, NY, USA
+10	16	null	null
+10	17	null	Department of Automation, Tsinghua University, Beijing 100084, PR China
+10	18	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+10	19	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+10	20	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+10	21	null	null
+10	22	null	HP Labs China, Beijing, China
+10	23	null	HP Labs. China, Beijing, China
+10	24	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+10	25	null	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+10	26	null	null
+11	12	null	null
+11	13	null	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+11	14	null	D.E. Shaw & Co., New York, NY, USA
+11	15	null	D.E. Shaw & Co., New York, NY, USA
+11	16	null	null
+11	17	null	Department of Automation, Tsinghua University, Beijing 100084, PR China
+11	18	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+11	19	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+11	20	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+11	21	null	null
+11	22	null	HP Labs China, Beijing, China
+11	23	null	HP Labs. China, Beijing, China
+11	24	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+11	25	null	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+11	26	null	null
+12	13	null	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu
+12	14	null	D.E. Shaw & Co., New York, NY, USA
+12	15	null	D.E. Shaw & Co., New York, NY, USA
+12	16	null	null
+12	17	null	Department of Automation, Tsinghua University, Beijing 100084, PR China
+12	18	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+12	19	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+12	20	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+12	21	null	null
+12	22	null	HP Labs China, Beijing, China
+12	23	null	HP Labs. China, Beijing, China
+12	24	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+12	25	null	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+12	26	null	null
+13	14	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	D.E. Shaw & Co., New York, NY, USA
+13	15	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	D.E. Shaw & Co., New York, NY, USA
+13	16	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	null
+13	17	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	Department of Automation, Tsinghua University, Beijing 100084, PR China
+13	18	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+13	19	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+13	20	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+13	21	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	null
+13	22	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	HP Labs China, Beijing, China
+13	23	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	HP Labs. China, Beijing, China
+13	24	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+13	25	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+13	26	Department of Electrical Engineering and Computer Sciences, University of California at Berkeley, Berkeley, CA 94720. hpalaiya@eecs.berkeley.edu	null
+14	15	D.E. Shaw & Co., New York, NY, USA	D.E. Shaw & Co., New York, NY, USA
+14	16	D.E. Shaw & Co., New York, NY, USA	null
+14	17	D.E. Shaw & Co., New York, NY, USA	Department of Automation, Tsinghua University, Beijing 100084, PR China
+14	18	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+14	19	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+14	20	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+14	21	D.E. Shaw & Co., New York, NY, USA	null
+14	22	D.E. Shaw & Co., New York, NY, USA	HP Labs China, Beijing, China
+14	23	D.E. Shaw & Co., New York, NY, USA	HP Labs. China, Beijing, China
+14	24	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+14	25	D.E. Shaw & Co., New York, NY, USA	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+14	26	D.E. Shaw & Co., New York, NY, USA	null
+15	16	D.E. Shaw & Co., New York, NY, USA	null
+15	17	D.E. Shaw & Co., New York, NY, USA	Department of Automation, Tsinghua University, Beijing 100084, PR China
+15	18	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+15	19	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+15	20	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+15	21	D.E. Shaw & Co., New York, NY, USA	null
+15	22	D.E. Shaw & Co., New York, NY, USA	HP Labs China, Beijing, China
+15	23	D.E. Shaw & Co., New York, NY, USA	HP Labs. China, Beijing, China
+15	24	D.E. Shaw & Co., New York, NY, USA	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+15	25	D.E. Shaw & Co., New York, NY, USA	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+15	26	D.E. Shaw & Co., New York, NY, USA	null
+16	17	null	Department of Automation, Tsinghua University, Beijing 100084, PR China
+16	18	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+16	19	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+16	20	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+16	21	null	null
+16	22	null	HP Labs China, Beijing, China
+16	23	null	HP Labs. China, Beijing, China
+16	24	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+16	25	null	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+16	26	null	null
+17	18	Department of Automation, Tsinghua University, Beijing 100084, PR China	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan
+17	19	Department of Automation, Tsinghua University, Beijing 100084, PR China	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+17	20	Department of Automation, Tsinghua University, Beijing 100084, PR China	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+17	21	Department of Automation, Tsinghua University, Beijing 100084, PR China	null
+17	22	Department of Automation, Tsinghua University, Beijing 100084, PR China	HP Labs China, Beijing, China
+17	23	Department of Automation, Tsinghua University, Beijing 100084, PR China	HP Labs. China, Beijing, China
+17	24	Department of Automation, Tsinghua University, Beijing 100084, PR China	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+17	25	Department of Automation, Tsinghua University, Beijing 100084, PR China	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+17	26	Department of Automation, Tsinghua University, Beijing 100084, PR China	null
+18	19	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+18	20	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+18	21	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	null
+18	22	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	HP Labs China, Beijing, China
+18	23	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	HP Labs. China, Beijing, China
+18	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+18	25	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+18	26	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taiwan	null
+19	20	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan
+19	21	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	null
+19	22	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	HP Labs China, Beijing, China
+19	23	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	HP Labs. China, Beijing, China
+19	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+19	25	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+19	26	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	null
+20	21	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+20	22	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	HP Labs China, Beijing, China
+20	23	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	HP Labs. China, Beijing, China
+20	24	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+20	25	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+20	26	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei, Taiwan	null
+21	22	null	HP Labs China, Beijing, China
+21	23	null	HP Labs. China, Beijing, China
+21	24	null	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+21	25	null	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+21	26	null	null
+22	23	HP Labs China, Beijing, China	HP Labs. China, Beijing, China
+22	24	HP Labs China, Beijing, China	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+22	25	HP Labs China, Beijing, China	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+22	26	HP Labs China, Beijing, China	null
+23	24	HP Labs. China, Beijing, China	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei
+23	25	HP Labs. China, Beijing, China	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+23	26	HP Labs. China, Beijing, China	null
+24	25	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China
+24	26	Dept. of Comput. Sci. & Inf. Eng., Nat. Taiwan Univ., Taipei	null
+25	26	Coll. of Inf. Sci. & Technol., Hainan Univ., Haikou, China	null

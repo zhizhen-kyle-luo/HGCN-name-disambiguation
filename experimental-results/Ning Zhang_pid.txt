@@ -1,0 +1,127 @@
+24462	Security Issues in an EDI Environment
+60050	C3: A New Learning Scheme to Improve Classification of Rare Category Emails
+97591	Pseudo-Randomness of Discrete-Log Sequences from Elliptic Curves
+112669	A General Approach to Evaluation of Secure Systems
+112670	Applying Composable Security Properties to Assessment of Information Systems
+112907	Towards an Authentication Middleware to Support Ubiquitous Web Access
+113825	Towards Context Constrained Authorisation for Pervasive Grid Computing
+148965	A Fast Algorithm for the Chirp Rate Estimation
+163115	FAME: Adding Multi-Level Authentication to Shibboleth
+176906	XML Query Processing and Optimization
+178289	A Distributed Reputation Management Scheme for Mobile Agent-Based E-Commerce Applications 
+178405	DSA-Based Verifiable and Recoverable Encryption of Signatures and Its Application in Certified E-Goods Delivery
+219009	CRM Method for Power Supply Enterprises Based on Analysis of Utility and Customers_ Credit and Multistage Fuzzy Evaluation
+219254	Fuzzy Comprehensive Evaluation for Power Network Operating Schemes
+232357	On Miquel's Five-Circle Theorem
+232849	Finding Shortest Paths in Large Network Systems
+239297	A general approach to secure components composition
+249350	Generators Bidding Behavior in the NYISO Day-Ahead Wholesale Electricity Market
+261066	Odaies: Ontology-driven Adaptive Web Information Extraction System
+301481	Compact Access Control Labeling for Efficient Secure XML Query Evaluation
+301483	BlossomTree: Evaluating XPaths in FLWOR Expressions
+301491	A Succinct Physical Storage Scheme for Efficient Evaluation of Path Queries in XML
+301499	XSEED: Accurate and Fast Cardinality Estimation for XPath Queries
+305787	Towards a Secure Mobile Agent Based M-Commerce System
+306935	Non-Repudiation and Fairness in Electronic Data Exchange
+308997	Concurrent Garbage Collection Implementation in a Standard JVM for Real-Time Purposes
+322292	Primary-consistent soft-decision color demosaic for digital cameras
+322655	Lossless compression of color mosaic images
+339234	A Study of Fairness for ATM ABR Service Based on Cell Delay
+408074	DiSigncryption: An Integration of Agent-Based Signature Delegation with Distributed Reputation Management Schem
+410241	Certified E-Mail Delivery with DSA Receipts
+428940	Context-based Arithmetic Coding Reexamined for DCT Video Compression
+431880	An Asymmetric Authentication Protocol for M-Commerce Applications
+431928	A secure proxy signature protocol for agent-based M-commerce applications
+432127	Revocation invocation for accountable anonymous PKI certificate trees
+432643	A secure and fair DSA-based signature exchange protocol
+443630	Prediction of Helix, Strand Segments from Primary Protein Sequences by a Set of Neural Networks
+443983	A General Fuzzified CMAC Controller with Eligibility
+456534	Achieving Distributed Trusted Services
+457227	A Security Protocol for Certified E-Goods Delivery
+458129	An Analysis Framework of Factors Influencing China Software and Information Service Offshore Outsourcing
+476820	Dynamic output feedback Hinfinity controller design of fuzzy dynamic systems using LMI techniques
+506600	Trade-off scheme for fault tolerant connected dominating sets on size and diameter
+509826	A mobility monitoring based advance reservation protocol
+510875	Characteristics of the Group Interest Network
+532236	Graph Cuts in Content-Based Image Classification and Retrieval with Relevance Feedback
+566465	A new signature scheme: joint-signature
+566595	A secure method for signature delegation to mobile agents
+568038	Fair certified e-mail delivery
+580723	An Insight Into User Privacy and Accountable Anonymity for Mobile E-Commerce Transactions
+580853	A New End-to-End Authentication Protocol for Mobile Users to Access Internet Services
+609325	Research on Visualization Techniques for Web Usability Analysis
+609619	Analysis of Sidelobe Elevation for Polyphase Complementary Codes through the Non-ideal System
+618501	InterJoin: Exploiting Indexes and Materialized Views in XPath Evaluation
+623659	Distributed Supercomputing for Graphics Applications: A Case Study on an Implementation of the Radiosity Approach
+637763	L-8 constrained micronoise filtering for high-fidelity image compression
+641789	FIX: Feature-based Indexing Technique for XML Documents
+644121	Statistical Learning Techniques for Costing XML Queries
+655201	Building Domain Ontology Based on Web Data and Generic Ontology
+655228	Offer Group Generation and Delayed Processing in Multi-Issue Negotiation
+655372	An Ant Colony Optimization Algorithm for Learning Classification Rules
+659001	Assisting Seller Pricing Strategy Selection for Electronic Auctions
+660115	Plugging a Scalable Authentication Framework into Shibboleth
+677759	New Approximation for Minimum-Weight Routing Backbone in Wireless Sensor Network
+716897	Levels of Authentication Assurance: an Investigation
+716902	A Purpose-Based Access Control Model
+716922	Secure M-commerce Transactions: A Third Party Based Signature Protocol
+729946	E-learning and Its Information Technology
+768011	MS-BID: a Java package for label-free LC-MS-based comparative proteomic analysis
+792008	Achieving Non-Repudiation of Receipt
+792009	A Flexible Approach to Secure and Fair Document Exchange
+793823	Security enhanced accountable anonymous PKI certificates for mobile e-commerce
+795830	An efficient protocol for anonymous and fair document exchange
+795865	Autonomous mobile agent based fair exchange
+810936	Achieving fine-grained access control in virtual organizations
+839865	SHEETSPAIR: A Database of Amino Acid Pairs in Protein Sheet Structures
+840011	ERPDB: An Integrated Database of ERP Data for Neuroinformatics Research
+846334	Compact access control labeling for efficient secure XML query evaluation
+862508	Reputation management and signature delegation: A distributed approach
+942573	Efficient elliptic curve scalar multiplication algorithms resistant to power analysis
+970596	RSA-based Verifiable and Recoverable Encryption of Signatures and its application in certified e-mail delivery
+981861	H2 Control design for fuzzy dynamic systems via LMI
+997154	An effective model for composition of secure systems
+997532	A unified approach to a fair document exchange system
+997534	Revocation of privacy-enhanced public-key certificates
+1002080	RSA-based Certified Delivery of E-Goods Using Verifiable and Recoverable Signature Encryption
+1003330	Auction-Based Pricing Model for Web Service Providers
+1069267	Automated regression testing using DBT and Sleuth
+1095730	On approximation algorithms of k-connected m-dominating sets in disk graphs
+1101762	Primary-consistent soft-decision color demosaicking for digital cameras (patent pending)
+1102232	On multirate optimality of JPEG2000 code stream
+1102347	Lossless compression of color mosaic images
+1109813	Sixty-phase generalized Barker sequences
+1109814	A limit theorem for n-phase Barker sequences (corresp.)
+1109815	Uniqueness of the generalized Barker sequence of length 6
+1109816	On the crosscorrelation of generalized Barker sequences
+1109817	Polyphase sequence with low autocorrelations
+1168040	Practical and efficient fair document exchange over networks
+1217852	The Bipartite Network Study of the Library Book Lending System
+1217916	Topological Structure and Interest Spectrum of the Group Interest Network
+1220928	Corra: Computational framework and tools for LC-MS discovery and targeted mass spectrometry-based proteomics
+1239571	A tag recommendation system for folksonomy
+1253076	Automatic sports genre categorization and view-type classification over large-scale dataset
+1255161	A Generic Authentication LoA Derivation Model
+1258574	A comprehensive simulation study of SWAN QoS model in MANETs with proactive and reactive routing
+1265940	An Efficient Cloud Computing-Based Architecture for Freight System Application in China Railway
+1275861	Under Development - UCD in Chinese IT enterprises
+1286869	Binary XML Storage and Query Processing in Oracle 11g
+1311997	A New Secure Binding Management Protocol for Mobile IPv6 Networks.
+1314246	Research on Distributed Data Mining Technology Based on Grid.
+1322579	Fuzzy Comprehensive Evaluation for Electromagnetic Loop in China Ultra-high Voltage Grid.
+1328264	Analysis and Simulation Protocols Based on Slotted ALOHA for Plastic Optical Fiber Network.
+1331239	A Flexible Routing Decision Framework to Support Diversified Application-Level Data Types in MANETs.
+1365468	Self-Protection Model Based on Intelligent Agent
+1368124	FIX: feature-based indexing technique for XML documents
+1374965	Effective hole-injection layer for non-doped inverted top-emitting organic light-emitting devices
+1388550	Characteristics of the Group Interest Network
+1413954	Marker-Controlled Perception-Based Mesh Segmentation
+1579168	Fuzzy Comprehensive Evaluation for Power Network Operating Schemes
+1579791	H_2 Control design for fuzzy dynamic systems via LMI
+1582251	Analysis on Routing Convergence in Optical Network
+1592155	Segmentation of Spectrum Map for HFSWR Based on Feature Extraction
+1613361	A New Method in Multi-Issue Negotiation
+1623315	Distributed supercomputing to achieve real-time representation and manipulation of complex scenes
+1654365	A New Time-domain Detection Approach with Blind Separation Based on Neural Network
+1656552	Interference Temperature Estimation Based on the Detection and Estimation of Angles of Arrival of Multiple Wide-Band Sources in Cognitive Radio Sensor Networks
+1747810	VISSIM-Based Simulation of the Left-Turn Waiting Zone at Signalized Intersection

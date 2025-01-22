@@ -1,0 +1,149 @@
+7957	Environment Lighting for Point Sampled Geometry
+7959	Environment Lighting for Point Sampled Geometry
+27564	A Novel Greedy Bayesian Network Structure Learning Algorithm for Limited Data
+27565	Bayesian Network Structure Ensemble Learning
+32866	Web Service for Tele-Communication
+36716	Research on System Integrative Evaluation Method Based on Survivability
+45935	A Novel Integrated Supporting System for Mesh-Pull Based P2P IPTV
+48495	Transform BPEL Workflow into Hierarchical CP-Nets to Make Tool Support for Verification
+60208	A Novel Ordering-Based Greedy Bayesian Network Learning Algorithm on Limited Data
+96421	Ensembling Bayesian network structure learning on limited data
+97372	An Improved Particle Swarm Optimizer for Truss Structure Optimization
+112373	An Architecture of Wireless Web and Dialogue System Convergence for Multimodal Service Interaction Over Converged Networks
+122597	Collaboration upon Heterogeneous Platforms - from Desktop PC to Handheld Device
+122615	WS-SLA: A Framework for Web Services Oriented Service Level Agreements
+158806	Improving the Performance of Gene Mention Recognition System using Reformed Lexicon-based Support Vector Machine
+169754	Texture-Consistent Shadow Removal
+189873	Adaptive spectrum-based variable bit truncation of discrete cosine transform (DCT) for energy-efficient wireless multimedia communication
+189875	A Data Discarding Framework for Reducing the Energy Consumption of Viterbi Decoder in Decoding Broadcasted Wireless Multi-Resolution JPEG2000 Images
+189928	A Low Complexity MPEG Video Decoder with Arbitrary Downscaling Capability
+206318	Forward and Inverse Solutions of Electrocardiography Problem Using an Adaptive BEM Method
+223846	An Efficient Heuristic Algorithm for Constructing Delay- and Degree-Bounded Application-Level Multicast Tree
+253577	Neighbor Relationship and Optimization in Mesh Overlay Multicast
+272767	An Improved Greedy Bayesian Network Learning Algorithm on Limited Data
+273762	A New Algorithm of Gray Watermark Embedding
+276727	Networking Business Model In Regional Medical Service- Case of Chikamori Medical Group in Kochi, Japan
+277915	Low Complexity MMSE Vector Precoding Using Lattice Reduction for MIMO Systems
+279502	A Self-supervised Learning Framework for Classifying Microarray Gene Expression Data
+291555	Intelligent Crowd Simulation
+299212	Remaining Delivery Time Estimation Based Routing for Intermittently Connected Mobile Networks
+303513	A Novel Ordering-Based Greedy Bayesian Network Learning Algorithm on Limited Data
+307872	Named Entity Recognition in Biomedical Literature Using Two-Layer Support Vector Machines
+308482	Named Entity Recognition in Biomedical Literature: A Comparison of Support Vector Machines and Conditional Random Fields
+314642	Evaluating and Comparing Biomedical Term Identification Systems
+319481	Incomplete motion feature tracking algorithm in video sequences
+331967	Region Enhanced Scale-Invariant Saliency Detection
+336530	Context-Sensitive Kernel Functions: A Distance Function Viewpoint
+337767	Estimation Distribution of Algorithm for Fuzzy Clustering Gene Expression Data
+337785	Nonlinear Adaptive Blind Source Separation Based on Kernel Function
+343683	Extending OpenMP for Heterogeneous Chip Multiprocessors
+369981	Optimizing the Location-aided Routing Protocol in Mobile Ad hoc Networks
+370592	Web Service Enablement of Communication Services
+370771	WSIP - Web Service SIP Endpoint for Converged Multimedia/Multimodal Communication over IP
+370844	WIP: Web Service Initiation Protocol for Multimedia and Voice Communication over IP
+371067	Semantic Modeling and Design Patterns for Asynchronous Events in Web Service Interaction
+371069	TARGET: Two-way Web Service Router Gateway
+371108	A Semantic QoS-Aware Discovery Framework for Web Services
+371227	Web Services Methods for Communication over IP
+379058	Research on Radar Targets Recognition by Extracting 3-D Characteristic from ISAR Images
+393629	Artificial Ventilation Modeling using Neuro-Fuzzy Hybrid System
+394223	Blind equalization Using nu- support vector regressor for constant modulus signals
+398280	An Extensible Three-tier XML Dialogue System Architecture for Multimodal Interaction and Automated Agent Services
+416257	An Adaptable Architecture for Secure Delivery of Converged Services
+430562	Energy-aware optimal workload allocation among the battery-powered devices to maximize the co-operation life time
+446159	An Efficient Distributed Algorithm for Constructing Delay and Degree-Bounded Application-Level Multicast Tree
+448486	Tests on Symmetry and Continuity between BSIM4 and BSIM5
+448559	Generic Carrier-Based Core Model for Four-Terminal Double-Gate MOSFET Valid for Symmetric, Asymmetric, SOI, and Independent Gate Operation Modes
+448584	Study on the Si-Ge Nanowire MOSFETs with the Core-Shell Structure
+448673	An analytic model for Ge/Si core/shell nanowire MOSFETs considering drift-diffusion and ballistic transport
+448886	A case study on system-level modeling by aspect-oriented programming
+451861	Efficient Schemes for Monte Carlo Markov Chain Algorithms in Global Illumination
+461321	Motion Path Synthesis for Intelligent Avatar
+464826	The Max-Relevance and Min-Redundancy Greedy Bayesian Network Learning Algorithm
+503374	Video retargeting: automating pan and scan
+503551	Re-cinematography: improving the camera dynamics of casual video
+503760	Discovering panoramas in web videos
+503812	Noisy video super-resolution
+527413	Learning Bayesian Networks with Combination of MRMR Criterion and EMI Method
+531732	A Hybrid Motion Data Manipulation: Wavelet Based Motion Processing and Spacetime Rectification
+531733	A Robust Algorithm for Video Based Human Motion Tracking
+532876	Verifying Web Services Composition: A Transformation-Based Approach
+561674	The Inconsistency in Rough Set Based Rule Generation
+571712	Exploiting Hierarchical CP-Nets to Increase the Reliability of Web Services Workflow
+582638	Web Service for Communication Service Management
+583106	Supremum of Agent Number Needed in Analyzing Security Protocols Based on Horn Logic
+625949	Efficient Computation of Algebraic Immunity of Symmetric Boolean Functions
+634256	Automatic image retargeting with fisheye-view warping
+666065	A Practical OpenMP Compiler for System on Chips
+679415	Frequent Itemset Mining Based on Heuristic Two Level Counting
+687692	A Novel Chase Based Multiuser Detector for MIMO-CDMA Systems
+695382	An Architecture for Supporting Network Fault Recovery Management
+698320	Multi-objective scheduling problems subjected to special process constraint
+729460	A Projection and Search Algorithm for the Bicluster Problem
+729548	Network Optimization based on Genetic Algorithm and Estimation of Distribution Algorithm
+762078	Free-space nano-optical devices and integration: Design, fabrication, and manufacturing
+788750	Visual-Quality Optimizing Super Resolution
+835113	3D motion retrieval with motion index tree
+842787	The alignment problem of visual cryptography schemes
+871362	An optimal weather condition dependent approach for emission planning in urban areas
+895889	Joint MMSE Vector Precoding Based on GMD Method for MIMO Systems
+896162	Lattice-Reduction-Aided MMSE Tomlinson-Harashima Precoding for MIMO Systems
+896946	Wideband Signal DOA Estimation Based on Modified Quantum Genetic Algorithm
+898185	Subspace-Based Blind Detection of Space-Time Coding
+898442	Constant Modulus Based Blind Channel Estimation for OFDM Systems
+899014	A Wavelets Network Interpolation Algorithm for OFDM Channel Estimation Systems
+899065	A Novel Frequency Offset Estimator over Frequency Selective Fading Channels by Using Correlative Coding
+973544	Quantitative QoS Management Implement Mechanism in IP-DiffServ
+1002846	Multiple animated characters motion fusion
+1021336	The pharmacogenetics and pharmacogenomics knowledge base: accentuating the knowledge
+1023835	A Novel Generic Hebbian Ordering-Based Fuzzy Rule Base Reduction Approach to Mamdani Neuro-Fuzzy System
+1046167	Color text image binarization based on binary texture analysis
+1046168	Color text image binarization based on binary texture analysis
+1087022	Interactive Semisupervised Learning for Microarray Analysis
+1099314	An Approach to Integrating SIP in Converged Multimodal/Multimedia Communication Services
+1118051	A note on 'a mapping algorithm for computer-assisted exploration in the design of embedded systems
+1121023	Re-cinematography: Improving the camerawork of casual video
+1148241	A novel analytical scheme to compute the n-fold convolution of exponential-sum distribution functions
+1151049	Wavelet-based diffusion approaches for signal denoising
+1151386	MMSE vector precoding with joint transmitter and receiver design for MIMO systems
+1167784	Adaptive discriminant analysis for microarray-based classification
+1177034	Improving TCP Throughput over HSDPA Networks
+1180412	Diffusion filtering in image processing based on wavelet transform
+1180467	Stabilization of switched linear systems with bounded disturbances and unobservable switchings
+1227885	Content-preserving warps for 3D video stabilization
+1229123	A new verification-based fast-match for large vocabulary continuous speech recognition
+1248990	DHT-Based Range Query Processing for Web Service Discovery
+1249422	Using Web Photos for Measuring Video Frame Interestingness
+1255616	Factors Affecting Software Projects' Budget - A Case Study
+1265811	Transmission Scheduling in Data-Driven Peer-to-Peer Streaming towards Optimal Throughput
+1265940	An Efficient Cloud Computing-Based Architecture for Freight System Application in China Railway
+1284068	Impulsive control of bifurcations
+1303970	A Measurement and Modeling Study of P2P IPTV Applications.
+1304153	A Quick Group Search Optimizer with Passive Congregation and its Convergence Analysis.
+1304154	A Topology Optimization for Truss Based on Improved Group Search Optimizer.
+1304955	Learning color and locality cues for moving object detection and segmentation.
+1305701	A Comparative Study of Parallel Prefix Adders in FPGA Implementation of EAC.
+1324718	Anode-ALM: An Aggregation-Based Application Level Multicast for Media Streaming.
+1328706	Using Simulation to Characterize Topology of Peer to Peer Botnets.
+1332583	Frequency sensitivity in Hodgkin-Huxley systems.
+1332870	Dynamics of the noisy neural network.
+1337769	Learning Microarray Gene Expression Data by Hybrid Discriminant Analysis.
+1339899	Splice Site Prediction using Support Vector Machines with Context-Sensitive Kernel Functions.
+1383282	Design about Real-time Fault Detection Information System of the Transformer Substation
+1394551	The Performance Analysis of an Improved Robust Beamforming Algorithm
+1411175	Robust Color-Based Tracking
+1552492	An Adaptive Grid Method and Its Application to Steady Euler Flow Calculations
+1556193	Level-set-based deformation methods for adaptive grids
+1577144	Use clustering to improve neural network in financial time series prediction
+1579327	Max-Relevance and Min-Redundancy Greedy Bayesian Network Learning on High Dimensional Data
+1585222	Whole-frame Error concealment with improved backward motion estimation for H.264 decoders
+1585311	SceBoost Learning Algorithm for Feature Selection
+1585574	An Effective Error Concealment Framework For H.264 Decoder Based on Video Scene Change Detection
+1591694	An Improved Particle Swarm Optimizer for Truss Structure Optimization
+1613683	Truth and absolute truth in neutrosophic logic
+1614096	Toward excitation and inhibition in neutrosophic logic: a multiagent model based on ying-yang philosophy
+1616452	Intentionally and unintentionally: on both, A and non-A, in neutrosophy
+1702924	Foreward
+1703212	Paradoxes review
+1704731	Smarandache notions
+1750054	The Group Search Optimizer and its Application on Truss Structure Design

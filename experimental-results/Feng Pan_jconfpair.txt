@@ -1,0 +1,45 @@
+3	64	CIKM	CIKM
+7	8	ICDE	ICDE
+7	9	ICDE	ICDE
+8	9	ICDE	ICDE
+10	11	ICDM	ICDM
+10	12	ICDM	ICDM
+10	13	ICDM	ICDM
+11	12	ICDM	ICDM
+11	13	ICDM	ICDM
+12	13	ICDM	ICDM
+15	16	ICIP	ICIP (1)
+15	17	ICIP	ICIP
+15	18	ICIP	ICIP (2)
+15	19	ICIP	ICIP (3)
+16	17	ICIP (1)	ICIP
+17	18	ICIP	ICIP (2)
+17	19	ICIP	ICIP (3)
+20	21	ICME	ICME
+20	22	ICME	ICME
+20	23	ICME	ICME
+20	24	ICME	ICME
+21	22	ICME	ICME
+21	23	ICME	ICME
+21	24	ICME	ICME
+22	23	ICME	ICME
+22	24	ICME	ICME
+23	24	ICME	ICME
+25	26	ICRA	ICRA
+28	29	IPDPS	IPDPS
+30	31	ISCAS (3)	ISCAS (3)
+30	34	ISCAS (3)	ISCAS
+31	34	ISCAS (3)	ISCAS
+32	34	ISCAS (5)	ISCAS
+33	34	ISCAS (1)	ISCAS
+36	37	KES (3)	KES (3)
+41	42	SIGMOD Conference	SIGMOD Conference
+51	52	IEEE Trans. Circuits Syst. Video Techn.	IEEE Trans. Circuits Syst. Video Techn.
+51	53	IEEE Trans. Circuits Syst. Video Techn.	IEEE Trans. Circuits Syst. Video Techn.
+51	54	IEEE Trans. Circuits Syst. Video Techn.	IEEE Trans. Circuits Syst. Video Techn.
+52	53	IEEE Trans. Circuits Syst. Video Techn.	IEEE Trans. Circuits Syst. Video Techn.
+52	54	IEEE Trans. Circuits Syst. Video Techn.	IEEE Trans. Circuits Syst. Video Techn.
+53	54	IEEE Trans. Circuits Syst. Video Techn.	IEEE Trans. Circuits Syst. Video Techn.
+56	57	J. Visual Communication and Image Representation	J. Visual Communication and Image Representation
+62	63	GEC Summit	GEC Summit
+66	67	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences

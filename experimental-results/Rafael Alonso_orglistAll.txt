@@ -1,0 +1,780 @@
+0	1	null	Sarnoff Corporation, Princeton, NJ
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	Dept. of Comput. Sci., Princeton Univ., NJ
+0	7	null	null
+0	8	null	Dept. of Comput. Sci., Princeton Univ., NJ
+0	9	null	Dept. of Comput. Sci., Princeton Univ., NJ
+0	10	null	Dept. of Comput. Sci., Brown Univ., Providence, RI
+0	11	null	null
+0	12	null	Sarnoff Corporation, Princeton, NJ
+0	13	null	Matsushita Inf. Technol. Lab., Princeton, NJ
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	Princeton University, Princeton, N.J.
+0	19	null	Princeton University, Princeton, NJ
+0	20	null	null
+0	21	null	null
+0	22	null	null
+0	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+0	24	null	null
+0	25	null	null
+0	26	null	null
+0	27	null	null
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	null
+0	33	null	null
+0	34	null	null
+0	35	null	null
+0	36	null	SET Corporation, Arlington VA 22201
+0	37	null	null
+0	38	null	null
+0	39	null	MITL
+1	2	Sarnoff Corporation, Princeton, NJ	null
+1	3	Sarnoff Corporation, Princeton, NJ	null
+1	4	Sarnoff Corporation, Princeton, NJ	null
+1	5	Sarnoff Corporation, Princeton, NJ	null
+1	6	Sarnoff Corporation, Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+1	7	Sarnoff Corporation, Princeton, NJ	null
+1	8	Sarnoff Corporation, Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+1	9	Sarnoff Corporation, Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+1	10	Sarnoff Corporation, Princeton, NJ	Dept. of Comput. Sci., Brown Univ., Providence, RI
+1	11	Sarnoff Corporation, Princeton, NJ	null
+1	12	Sarnoff Corporation, Princeton, NJ	Sarnoff Corporation, Princeton, NJ
+1	13	Sarnoff Corporation, Princeton, NJ	Matsushita Inf. Technol. Lab., Princeton, NJ
+1	14	Sarnoff Corporation, Princeton, NJ	null
+1	15	Sarnoff Corporation, Princeton, NJ	null
+1	16	Sarnoff Corporation, Princeton, NJ	null
+1	17	Sarnoff Corporation, Princeton, NJ	null
+1	18	Sarnoff Corporation, Princeton, NJ	Princeton University, Princeton, N.J.
+1	19	Sarnoff Corporation, Princeton, NJ	Princeton University, Princeton, NJ
+1	20	Sarnoff Corporation, Princeton, NJ	null
+1	21	Sarnoff Corporation, Princeton, NJ	null
+1	22	Sarnoff Corporation, Princeton, NJ	null
+1	23	Sarnoff Corporation, Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+1	24	Sarnoff Corporation, Princeton, NJ	null
+1	25	Sarnoff Corporation, Princeton, NJ	null
+1	26	Sarnoff Corporation, Princeton, NJ	null
+1	27	Sarnoff Corporation, Princeton, NJ	null
+1	28	Sarnoff Corporation, Princeton, NJ	null
+1	29	Sarnoff Corporation, Princeton, NJ	null
+1	30	Sarnoff Corporation, Princeton, NJ	null
+1	31	Sarnoff Corporation, Princeton, NJ	null
+1	32	Sarnoff Corporation, Princeton, NJ	null
+1	33	Sarnoff Corporation, Princeton, NJ	null
+1	34	Sarnoff Corporation, Princeton, NJ	null
+1	35	Sarnoff Corporation, Princeton, NJ	null
+1	36	Sarnoff Corporation, Princeton, NJ	SET Corporation, Arlington VA 22201
+1	37	Sarnoff Corporation, Princeton, NJ	null
+1	38	Sarnoff Corporation, Princeton, NJ	null
+1	39	Sarnoff Corporation, Princeton, NJ	MITL
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	Dept. of Comput. Sci., Princeton Univ., NJ
+2	7	null	null
+2	8	null	Dept. of Comput. Sci., Princeton Univ., NJ
+2	9	null	Dept. of Comput. Sci., Princeton Univ., NJ
+2	10	null	Dept. of Comput. Sci., Brown Univ., Providence, RI
+2	11	null	null
+2	12	null	Sarnoff Corporation, Princeton, NJ
+2	13	null	Matsushita Inf. Technol. Lab., Princeton, NJ
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	Princeton University, Princeton, N.J.
+2	19	null	Princeton University, Princeton, NJ
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+2	24	null	null
+2	25	null	null
+2	26	null	null
+2	27	null	null
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	null
+2	33	null	null
+2	34	null	null
+2	35	null	null
+2	36	null	SET Corporation, Arlington VA 22201
+2	37	null	null
+2	38	null	null
+2	39	null	MITL
+3	4	null	null
+3	5	null	null
+3	6	null	Dept. of Comput. Sci., Princeton Univ., NJ
+3	7	null	null
+3	8	null	Dept. of Comput. Sci., Princeton Univ., NJ
+3	9	null	Dept. of Comput. Sci., Princeton Univ., NJ
+3	10	null	Dept. of Comput. Sci., Brown Univ., Providence, RI
+3	11	null	null
+3	12	null	Sarnoff Corporation, Princeton, NJ
+3	13	null	Matsushita Inf. Technol. Lab., Princeton, NJ
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	null
+3	18	null	Princeton University, Princeton, N.J.
+3	19	null	Princeton University, Princeton, NJ
+3	20	null	null
+3	21	null	null
+3	22	null	null
+3	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+3	24	null	null
+3	25	null	null
+3	26	null	null
+3	27	null	null
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	null
+3	33	null	null
+3	34	null	null
+3	35	null	null
+3	36	null	SET Corporation, Arlington VA 22201
+3	37	null	null
+3	38	null	null
+3	39	null	MITL
+4	5	null	null
+4	6	null	Dept. of Comput. Sci., Princeton Univ., NJ
+4	7	null	null
+4	8	null	Dept. of Comput. Sci., Princeton Univ., NJ
+4	9	null	Dept. of Comput. Sci., Princeton Univ., NJ
+4	10	null	Dept. of Comput. Sci., Brown Univ., Providence, RI
+4	11	null	null
+4	12	null	Sarnoff Corporation, Princeton, NJ
+4	13	null	Matsushita Inf. Technol. Lab., Princeton, NJ
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	Princeton University, Princeton, N.J.
+4	19	null	Princeton University, Princeton, NJ
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+4	24	null	null
+4	25	null	null
+4	26	null	null
+4	27	null	null
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	null
+4	34	null	null
+4	35	null	null
+4	36	null	SET Corporation, Arlington VA 22201
+4	37	null	null
+4	38	null	null
+4	39	null	MITL
+5	6	null	Dept. of Comput. Sci., Princeton Univ., NJ
+5	7	null	null
+5	8	null	Dept. of Comput. Sci., Princeton Univ., NJ
+5	9	null	Dept. of Comput. Sci., Princeton Univ., NJ
+5	10	null	Dept. of Comput. Sci., Brown Univ., Providence, RI
+5	11	null	null
+5	12	null	Sarnoff Corporation, Princeton, NJ
+5	13	null	Matsushita Inf. Technol. Lab., Princeton, NJ
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	Princeton University, Princeton, N.J.
+5	19	null	Princeton University, Princeton, NJ
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+5	24	null	null
+5	25	null	null
+5	26	null	null
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	null
+5	34	null	null
+5	35	null	null
+5	36	null	SET Corporation, Arlington VA 22201
+5	37	null	null
+5	38	null	null
+5	39	null	MITL
+6	7	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	8	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+6	9	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+6	10	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Brown Univ., Providence, RI
+6	11	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	12	Dept. of Comput. Sci., Princeton Univ., NJ	Sarnoff Corporation, Princeton, NJ
+6	13	Dept. of Comput. Sci., Princeton Univ., NJ	Matsushita Inf. Technol. Lab., Princeton, NJ
+6	14	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	15	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	16	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	17	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	18	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, N.J.
+6	19	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, NJ
+6	20	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	21	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	22	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	23	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+6	24	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	25	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	26	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	27	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	28	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	29	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	30	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	31	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	32	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	33	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	34	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	35	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	36	Dept. of Comput. Sci., Princeton Univ., NJ	SET Corporation, Arlington VA 22201
+6	37	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	38	Dept. of Comput. Sci., Princeton Univ., NJ	null
+6	39	Dept. of Comput. Sci., Princeton Univ., NJ	MITL
+7	8	null	Dept. of Comput. Sci., Princeton Univ., NJ
+7	9	null	Dept. of Comput. Sci., Princeton Univ., NJ
+7	10	null	Dept. of Comput. Sci., Brown Univ., Providence, RI
+7	11	null	null
+7	12	null	Sarnoff Corporation, Princeton, NJ
+7	13	null	Matsushita Inf. Technol. Lab., Princeton, NJ
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	Princeton University, Princeton, N.J.
+7	19	null	Princeton University, Princeton, NJ
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+7	24	null	null
+7	25	null	null
+7	26	null	null
+7	27	null	null
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	null
+7	34	null	null
+7	35	null	null
+7	36	null	SET Corporation, Arlington VA 22201
+7	37	null	null
+7	38	null	null
+7	39	null	MITL
+8	9	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+8	10	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Brown Univ., Providence, RI
+8	11	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	12	Dept. of Comput. Sci., Princeton Univ., NJ	Sarnoff Corporation, Princeton, NJ
+8	13	Dept. of Comput. Sci., Princeton Univ., NJ	Matsushita Inf. Technol. Lab., Princeton, NJ
+8	14	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	15	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	16	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	17	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	18	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, N.J.
+8	19	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, NJ
+8	20	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	21	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	22	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	23	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+8	24	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	25	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	26	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	27	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	28	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	29	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	30	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	31	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	32	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	33	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	34	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	35	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	36	Dept. of Comput. Sci., Princeton Univ., NJ	SET Corporation, Arlington VA 22201
+8	37	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	38	Dept. of Comput. Sci., Princeton Univ., NJ	null
+8	39	Dept. of Comput. Sci., Princeton Univ., NJ	MITL
+9	10	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Brown Univ., Providence, RI
+9	11	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	12	Dept. of Comput. Sci., Princeton Univ., NJ	Sarnoff Corporation, Princeton, NJ
+9	13	Dept. of Comput. Sci., Princeton Univ., NJ	Matsushita Inf. Technol. Lab., Princeton, NJ
+9	14	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	15	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	16	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	17	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	18	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, N.J.
+9	19	Dept. of Comput. Sci., Princeton Univ., NJ	Princeton University, Princeton, NJ
+9	20	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	21	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	22	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	23	Dept. of Comput. Sci., Princeton Univ., NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+9	24	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	25	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	26	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	27	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	28	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	29	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	30	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	31	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	32	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	33	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	34	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	35	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	36	Dept. of Comput. Sci., Princeton Univ., NJ	SET Corporation, Arlington VA 22201
+9	37	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	38	Dept. of Comput. Sci., Princeton Univ., NJ	null
+9	39	Dept. of Comput. Sci., Princeton Univ., NJ	MITL
+10	11	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	12	Dept. of Comput. Sci., Brown Univ., Providence, RI	Sarnoff Corporation, Princeton, NJ
+10	13	Dept. of Comput. Sci., Brown Univ., Providence, RI	Matsushita Inf. Technol. Lab., Princeton, NJ
+10	14	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	15	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	16	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	17	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	18	Dept. of Comput. Sci., Brown Univ., Providence, RI	Princeton University, Princeton, N.J.
+10	19	Dept. of Comput. Sci., Brown Univ., Providence, RI	Princeton University, Princeton, NJ
+10	20	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	21	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	22	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	23	Dept. of Comput. Sci., Brown Univ., Providence, RI	Dept. of Comput. Sci., Princeton Univ., NJ
+10	24	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	25	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	26	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	27	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	28	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	29	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	30	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	31	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	32	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	33	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	34	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	35	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	36	Dept. of Comput. Sci., Brown Univ., Providence, RI	SET Corporation, Arlington VA 22201
+10	37	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	38	Dept. of Comput. Sci., Brown Univ., Providence, RI	null
+10	39	Dept. of Comput. Sci., Brown Univ., Providence, RI	MITL
+11	12	null	Sarnoff Corporation, Princeton, NJ
+11	13	null	Matsushita Inf. Technol. Lab., Princeton, NJ
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	Princeton University, Princeton, N.J.
+11	19	null	Princeton University, Princeton, NJ
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+11	24	null	null
+11	25	null	null
+11	26	null	null
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	null
+11	34	null	null
+11	35	null	null
+11	36	null	SET Corporation, Arlington VA 22201
+11	37	null	null
+11	38	null	null
+11	39	null	MITL
+12	13	Sarnoff Corporation, Princeton, NJ	Matsushita Inf. Technol. Lab., Princeton, NJ
+12	14	Sarnoff Corporation, Princeton, NJ	null
+12	15	Sarnoff Corporation, Princeton, NJ	null
+12	16	Sarnoff Corporation, Princeton, NJ	null
+12	17	Sarnoff Corporation, Princeton, NJ	null
+12	18	Sarnoff Corporation, Princeton, NJ	Princeton University, Princeton, N.J.
+12	19	Sarnoff Corporation, Princeton, NJ	Princeton University, Princeton, NJ
+12	20	Sarnoff Corporation, Princeton, NJ	null
+12	21	Sarnoff Corporation, Princeton, NJ	null
+12	22	Sarnoff Corporation, Princeton, NJ	null
+12	23	Sarnoff Corporation, Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+12	24	Sarnoff Corporation, Princeton, NJ	null
+12	25	Sarnoff Corporation, Princeton, NJ	null
+12	26	Sarnoff Corporation, Princeton, NJ	null
+12	27	Sarnoff Corporation, Princeton, NJ	null
+12	28	Sarnoff Corporation, Princeton, NJ	null
+12	29	Sarnoff Corporation, Princeton, NJ	null
+12	30	Sarnoff Corporation, Princeton, NJ	null
+12	31	Sarnoff Corporation, Princeton, NJ	null
+12	32	Sarnoff Corporation, Princeton, NJ	null
+12	33	Sarnoff Corporation, Princeton, NJ	null
+12	34	Sarnoff Corporation, Princeton, NJ	null
+12	35	Sarnoff Corporation, Princeton, NJ	null
+12	36	Sarnoff Corporation, Princeton, NJ	SET Corporation, Arlington VA 22201
+12	37	Sarnoff Corporation, Princeton, NJ	null
+12	38	Sarnoff Corporation, Princeton, NJ	null
+12	39	Sarnoff Corporation, Princeton, NJ	MITL
+13	14	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	15	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	16	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	17	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	18	Matsushita Inf. Technol. Lab., Princeton, NJ	Princeton University, Princeton, N.J.
+13	19	Matsushita Inf. Technol. Lab., Princeton, NJ	Princeton University, Princeton, NJ
+13	20	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	21	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	22	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	23	Matsushita Inf. Technol. Lab., Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+13	24	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	25	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	26	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	27	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	28	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	29	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	30	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	31	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	32	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	33	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	34	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	35	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	36	Matsushita Inf. Technol. Lab., Princeton, NJ	SET Corporation, Arlington VA 22201
+13	37	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	38	Matsushita Inf. Technol. Lab., Princeton, NJ	null
+13	39	Matsushita Inf. Technol. Lab., Princeton, NJ	MITL
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	Princeton University, Princeton, N.J.
+14	19	null	Princeton University, Princeton, NJ
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+14	24	null	null
+14	25	null	null
+14	26	null	null
+14	27	null	null
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	null
+14	33	null	null
+14	34	null	null
+14	35	null	null
+14	36	null	SET Corporation, Arlington VA 22201
+14	37	null	null
+14	38	null	null
+14	39	null	MITL
+15	16	null	null
+15	17	null	null
+15	18	null	Princeton University, Princeton, N.J.
+15	19	null	Princeton University, Princeton, NJ
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+15	24	null	null
+15	25	null	null
+15	26	null	null
+15	27	null	null
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	null
+15	33	null	null
+15	34	null	null
+15	35	null	null
+15	36	null	SET Corporation, Arlington VA 22201
+15	37	null	null
+15	38	null	null
+15	39	null	MITL
+16	17	null	null
+16	18	null	Princeton University, Princeton, N.J.
+16	19	null	Princeton University, Princeton, NJ
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+16	24	null	null
+16	25	null	null
+16	26	null	null
+16	27	null	null
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	null
+16	33	null	null
+16	34	null	null
+16	35	null	null
+16	36	null	SET Corporation, Arlington VA 22201
+16	37	null	null
+16	38	null	null
+16	39	null	MITL
+17	18	null	Princeton University, Princeton, N.J.
+17	19	null	Princeton University, Princeton, NJ
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+17	24	null	null
+17	25	null	null
+17	26	null	null
+17	27	null	null
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	null
+17	32	null	null
+17	33	null	null
+17	34	null	null
+17	35	null	null
+17	36	null	SET Corporation, Arlington VA 22201
+17	37	null	null
+17	38	null	null
+17	39	null	MITL
+18	19	Princeton University, Princeton, N.J.	Princeton University, Princeton, NJ
+18	20	Princeton University, Princeton, N.J.	null
+18	21	Princeton University, Princeton, N.J.	null
+18	22	Princeton University, Princeton, N.J.	null
+18	23	Princeton University, Princeton, N.J.	Dept. of Comput. Sci., Princeton Univ., NJ
+18	24	Princeton University, Princeton, N.J.	null
+18	25	Princeton University, Princeton, N.J.	null
+18	26	Princeton University, Princeton, N.J.	null
+18	27	Princeton University, Princeton, N.J.	null
+18	28	Princeton University, Princeton, N.J.	null
+18	29	Princeton University, Princeton, N.J.	null
+18	30	Princeton University, Princeton, N.J.	null
+18	31	Princeton University, Princeton, N.J.	null
+18	32	Princeton University, Princeton, N.J.	null
+18	33	Princeton University, Princeton, N.J.	null
+18	34	Princeton University, Princeton, N.J.	null
+18	35	Princeton University, Princeton, N.J.	null
+18	36	Princeton University, Princeton, N.J.	SET Corporation, Arlington VA 22201
+18	37	Princeton University, Princeton, N.J.	null
+18	38	Princeton University, Princeton, N.J.	null
+18	39	Princeton University, Princeton, N.J.	MITL
+19	20	Princeton University, Princeton, NJ	null
+19	21	Princeton University, Princeton, NJ	null
+19	22	Princeton University, Princeton, NJ	null
+19	23	Princeton University, Princeton, NJ	Dept. of Comput. Sci., Princeton Univ., NJ
+19	24	Princeton University, Princeton, NJ	null
+19	25	Princeton University, Princeton, NJ	null
+19	26	Princeton University, Princeton, NJ	null
+19	27	Princeton University, Princeton, NJ	null
+19	28	Princeton University, Princeton, NJ	null
+19	29	Princeton University, Princeton, NJ	null
+19	30	Princeton University, Princeton, NJ	null
+19	31	Princeton University, Princeton, NJ	null
+19	32	Princeton University, Princeton, NJ	null
+19	33	Princeton University, Princeton, NJ	null
+19	34	Princeton University, Princeton, NJ	null
+19	35	Princeton University, Princeton, NJ	null
+19	36	Princeton University, Princeton, NJ	SET Corporation, Arlington VA 22201
+19	37	Princeton University, Princeton, NJ	null
+19	38	Princeton University, Princeton, NJ	null
+19	39	Princeton University, Princeton, NJ	MITL
+20	21	null	null
+20	22	null	null
+20	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+20	24	null	null
+20	25	null	null
+20	26	null	null
+20	27	null	null
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	null
+20	33	null	null
+20	34	null	null
+20	35	null	null
+20	36	null	SET Corporation, Arlington VA 22201
+20	37	null	null
+20	38	null	null
+20	39	null	MITL
+21	22	null	null
+21	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+21	24	null	null
+21	25	null	null
+21	26	null	null
+21	27	null	null
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	null
+21	34	null	null
+21	35	null	null
+21	36	null	SET Corporation, Arlington VA 22201
+21	37	null	null
+21	38	null	null
+21	39	null	MITL
+22	23	null	Dept. of Comput. Sci., Princeton Univ., NJ
+22	24	null	null
+22	25	null	null
+22	26	null	null
+22	27	null	null
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	null
+22	33	null	null
+22	34	null	null
+22	35	null	null
+22	36	null	SET Corporation, Arlington VA 22201
+22	37	null	null
+22	38	null	null
+22	39	null	MITL
+23	24	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	25	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	26	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	27	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	28	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	29	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	30	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	31	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	32	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	33	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	34	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	35	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	36	Dept. of Comput. Sci., Princeton Univ., NJ	SET Corporation, Arlington VA 22201
+23	37	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	38	Dept. of Comput. Sci., Princeton Univ., NJ	null
+23	39	Dept. of Comput. Sci., Princeton Univ., NJ	MITL
+24	25	null	null
+24	26	null	null
+24	27	null	null
+24	28	null	null
+24	29	null	null
+24	30	null	null
+24	31	null	null
+24	32	null	null
+24	33	null	null
+24	34	null	null
+24	35	null	null
+24	36	null	SET Corporation, Arlington VA 22201
+24	37	null	null
+24	38	null	null
+24	39	null	MITL
+25	26	null	null
+25	27	null	null
+25	28	null	null
+25	29	null	null
+25	30	null	null
+25	31	null	null
+25	32	null	null
+25	33	null	null
+25	34	null	null
+25	35	null	null
+25	36	null	SET Corporation, Arlington VA 22201
+25	37	null	null
+25	38	null	null
+25	39	null	MITL
+26	27	null	null
+26	28	null	null
+26	29	null	null
+26	30	null	null
+26	31	null	null
+26	32	null	null
+26	33	null	null
+26	34	null	null
+26	35	null	null
+26	36	null	SET Corporation, Arlington VA 22201
+26	37	null	null
+26	38	null	null
+26	39	null	MITL
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	null
+27	33	null	null
+27	34	null	null
+27	35	null	null
+27	36	null	SET Corporation, Arlington VA 22201
+27	37	null	null
+27	38	null	null
+27	39	null	MITL
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	null
+28	34	null	null
+28	35	null	null
+28	36	null	SET Corporation, Arlington VA 22201
+28	37	null	null
+28	38	null	null
+28	39	null	MITL
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	null
+29	34	null	null
+29	35	null	null
+29	36	null	SET Corporation, Arlington VA 22201
+29	37	null	null
+29	38	null	null
+29	39	null	MITL
+30	31	null	null
+30	32	null	null
+30	33	null	null
+30	34	null	null
+30	35	null	null
+30	36	null	SET Corporation, Arlington VA 22201
+30	37	null	null
+30	38	null	null
+30	39	null	MITL
+31	32	null	null
+31	33	null	null
+31	34	null	null
+31	35	null	null
+31	36	null	SET Corporation, Arlington VA 22201
+31	37	null	null
+31	38	null	null
+31	39	null	MITL
+32	33	null	null
+32	34	null	null
+32	35	null	null
+32	36	null	SET Corporation, Arlington VA 22201
+32	37	null	null
+32	38	null	null
+32	39	null	MITL
+33	34	null	null
+33	35	null	null
+33	36	null	SET Corporation, Arlington VA 22201
+33	37	null	null
+33	38	null	null
+33	39	null	MITL
+34	35	null	null
+34	36	null	SET Corporation, Arlington VA 22201
+34	37	null	null
+34	38	null	null
+34	39	null	MITL
+35	36	null	SET Corporation, Arlington VA 22201
+35	37	null	null
+35	38	null	null
+35	39	null	MITL
+36	37	SET Corporation, Arlington VA 22201	null
+36	38	SET Corporation, Arlington VA 22201	null
+36	39	SET Corporation, Arlington VA 22201	MITL
+37	38	null	null
+37	39	null	MITL
+38	39	null	MITL

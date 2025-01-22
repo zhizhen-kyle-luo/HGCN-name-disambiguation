@@ -1,0 +1,84 @@
+9161	Affective Computing Model Based on Rough Fuzzy Sets
+32405	A fault tolerant topology control in wireless sensor networks
+45996	Implementation and Evaluation of MPI+OpenMP Programming Model on Dawning3000
+83184	QoS Oriented Resource Reservation in Shared Environments
+100030	STAS: A Scalability Testing and Analysis System
+254726	CoStore: A Reliable and Highly Available Storage System Using Clusters
+261819	Risk Probability Estimating Based on Clustering
+273691	Elastic Algorithm: A New Path Planning Algorithm About Auto-navigation in 3D Virtual Scene
+337522	An Optimization Method Based on Chaotic Immune Evolutionary Algorithm
+340886	CoStore: A Storage Cluster Architecture Using Network Attached Storage Devices
+344409	Scalability of Heterogeneous Computing
+344479	Runtime Parallel Incremental Scheduling of DAGs
+345092	2008 International Conference on Parallel Processing September 8-12, 2008 Portland, Oregon Exploring Parallel I/O Concurrency with Speculative Prefetching
+353851	Wireless Drive and Control of a Swimming Microrobot
+411327	A Runtime System for Dynamic DAG Programming
+412154	Improving Data Access Performance with Server Push Architecture
+434450	Weighted Rough Graph and Its Application
+441921	Novel Exponential Stability Criteria for Fuzzy Cellular Neural Networks with Time-Varying Delay
+441969	A Novel Generalized Congruence Neural Networks
+442448	On Robust Stability of BAM Neural Networks with Constant Delays
+442652	A Region-Based Image Enhancement Algorithm with the Grossberg Network
+442899	RBF Kernel Based Support Vector Machine with Universal Approximation and Its Application
+443313	A Novel Symmetric Cryptography Based on Chaotic Signal Generator and a Clipped Neural Network
+443357	Statistical Neurodynamics for Sequence Processing Neural Networks with Finite Dilution
+443625	Target Recognition of FLIR Images on Radial Basis Function Neural Network
+446119	A Taxonomy of Data Prefetching Mechanisms
+449452	Exact analytical solutions to the nonlinear Schrodinger equation model
+458294	Trust Propagation in Small Worlds
+537213	Hypertool/2: A Parallel Incremental DAG Scheduling System
+561952	Research on Risk Probability Estimating Using Fuzzy Clustering for Dynamic Security Assessment
+575992	Data access history cache and associated data prefetching mechanisms
+576077	Parallel I/O prefetching using MPI file caching and I/O signatures
+576121	Hiding I/O latency with pre-execution prefetching for parallel applications
+606533	Mining circumstance-oriented association rules using singular value decomposition technique
+614985	End-to-End Trust Starts with Recognition
+730633	Generalized Cascade Synchronization of Discrete-time Henon-like Map
+779852	An accurate sampling-based method for approximating geometry
+838723	On the (co)girth of a connected matroid
+867540	Trust Evolution Policies for Security in Collaborative Ad Hoc Applications
+969213	A Region Based Method to Automated Design of Multi-Piece Molds with Application to Rapid Tooling
+969215	A Reverse Glue Approach to Automated Construction of Multi-Piece Molds
+974105	Server-Based Data Push Architecture for Multi-Processor Environments
+990353	Algorithm-system scalability of heterogeneous computing
+1077469	Using data mining techniques and rough set theory for language modeling
+1126728	Quality-oriented-maintenance for multiple interactive tooling components in discrete manufacturing processes
+1126774	Reliability of two-stage weighted-k-out-of-n systems with components in common
+1126795	Quality-reliability chain modeling for system-reliability analysis of complex manufacturing processes
+1144949	A new elliptic equation rational expansion method and its application to the shallow long wave approximate equations
+1145313	Weierstrass semi-rational expansion method and new doubly periodic solutions of the generalized Hirota-Satsuma coupled KdV system
+1145526	Generalized Q-S (lag, anticipated and complete) synchronization in modified Chua's circuit and Hindmarsh-Rose systems
+1145569	Generalized algebraic method and new exact traveling wave solutions for (2+1)-dimensional dispersive long wave equation
+1147461	The function cascade synchronization approach with uncertain parameters or not for hyperchaotic systems
+1147715	Numerical solutions of coupled Burgers equations with time- and space-fractional derivatives
+1148267	New exact travelling wave solutions for the shallow long wave approximate equations
+1148754	A new general algebraic method with symbolic computation to construct new doubly-periodic solutions of the (2 + 1)-dimensional dispersive long wave equation
+1148878	A new general algebraic method with symbolic computation to construct new travelling wave solution for the (1 + 1)-dimensional dispersive long wave equation
+1149360	Homotopy perturbation method for a type of nonlinear coupled equations with parameters derivative
+1149618	Numerical complexiton solutions for the complex KdV equation by the homotopy perturbation method
+1158389	New exact solutions for modified nonlinear dispersive equations mK(m, n) in higher dimensions spaces
+1169083	An effective algorithm of motif finding problem
+1206623	A Model and Algorithm of Two-dimensional Optimum Layout in Blanking
+1211336	Study on Steering Control Strategy of Electric Vehicles Driven by Hub-Motors
+1225902	Taxonomy of Data Prefetching for Multicore Processors
+1250460	Core-aware memory access scheduling schemes
+1259108	A Neural Network Architecture for Perceptual Grouping, Attention Modulation and Boundary-Surface Interaction
+1283118	Generalized Riccati equation expansion method and its application to the (3 + 1)-dimensional Jumbo-Miwa equation
+1283457	ADM-Pade technique for the nonlinear lattice equations
+1283750	Two-dimensional symmetry reduction of (2 + 1)-dimensional nonlinear Klein-Gordon equation
+1304079	An Artificial Neural Network Based on CIEA.
+1315849	VR-GIS: an integrated platform of VR navigation and GIS analysis for city/region simulation.
+1318152	Aspect-Oriented Middleware-Based Real-Time and Embedded Systems Software Process.
+1320106	Comparison of Two Fitness Functions for GA-Based Path-Oriented Test Data Generation.
+1327864	A Porn Video Detecting Method Based on Motion Features Using HMM.
+1328241	Design and Implementation of a Power System Sensor Network for Wide-Area Measurement.
+1339594	Reevaluating Amdahl's law in the multicore era.
+1371079	A unified rational expansion method to construct a series of explicit exact solutions to nonlinear evolution equations
+1375729	Improved glass-PDMS-glass device technology for accurate measurements of electro-osmotic mobilities
+1385525	Gold nanohole arrays for biochemical sensing fabricated by soft UV nanoimprint lithography
+1387582	Accelerated Publication: A resist for electric imprint lithography
+1418123	The Impact of Smart Disks and Spatial Reuse Property on RAID-5 Storage Systems
+1596895	Using Trust for Secure Collaboration in Uncertain Environments
+1653164	A wide dynamic range CMOS image sensor with pulse-frequency-modulation and in-pixel amplification
+1657025	An Optimizing Strategy for Massive Data Management System Based on SQLSERVER 2000
+1750418	Automatic Path-Oriented Test Data Generation Using a Multi-population Genetic Algorithm

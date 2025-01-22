@@ -1,0 +1,182 @@
+0	null
+1	CIT
+2	CIT
+3	CIT
+4	CIT
+5	AAAI
+6	AAAI
+7	AAAI
+8	AAAI/IAAI, Vol. 1
+9	AAAI/IAAI
+10	AAAI/IAAI, Vol. 2
+11	AAAI
+12	AAAI
+13	ACRI
+14	APWeb Workshops
+15	CIKM
+16	CIKM
+17	CIKM
+18	CIKM
+19	CIKM
+20	CIKM
+21	CIS
+22	COMPSAC
+23	CSB
+24	DASFAA
+25	DaWaK
+26	DILS
+27	DMKD
+28	ECAI
+29	ECAI
+30	ECML
+31	ECML
+32	ECML
+33	ICDAR
+34	ICDE
+35	ICDE
+36	ICDM
+37	ICDM
+38	ICDM
+39	ICDM
+40	ICDM
+41	ICDM
+42	ICDM
+43	ICDM
+44	ICML
+45	ICML
+46	ICN
+47	ICTAI
+48	ICWS
+49	IEA/AIE
+50	IEA/AIE
+51	IJCAI
+52	IJCAI
+53	IJCAI (1)
+54	IJCAI (2)
+55	IJCAI
+56	IJCAI
+57	IPDPS
+58	ISNN (1)
+59	ISNN (1)
+60	KDD
+61	KDD
+62	KDD
+63	KDD
+64	KDD
+65	KDD
+66	KDD
+67	KDD
+68	KDD
+69	KDD
+70	KDD
+71	KDD
+72	KDD
+73	KDD
+74	KDD
+75	KDD
+76	KDD
+77	KDD
+78	KDD
+79	KDD
+80	KES
+81	LCPC
+82	LPNMR
+83	Middleware
+84	PAKDD
+85	PKDD
+86	PKDD
+87	PKDD
+88	PRICAI
+89	PRICAI
+90	PRICAI
+91	RSKT
+92	RSKT
+93	SDM
+94	SIGIR
+95	SIGIR
+96	SIGIR
+97	SNPD (3)
+98	SSPR
+99	WAIM
+100	WAIM
+101	WAIM
+102	WAIM
+103	Web Intelligence
+104	Web Intelligence
+105	WISE
+106	WISE
+107	WISE
+108	WWW (Alternate Track Papers  Posters)
+109	WWW
+110	WWW
+111	WWW
+112	WWW (Alternate Track Papers  Posters)
+113	WWW
+114	WWW
+115	World Wide Web
+116	GrC
+117	WSDM
+118	WSDM
+119	AI in Engineering
+120	Appl. Intell.
+121	Appl. Math. Lett.
+122	Appl. Math. Lett.
+123	Appl. Math. Lett.
+124	Bioinformatics
+125	BMC Bioinformatics
+126	BMC Bioinformatics
+127	Commun. ACM
+128	Commun. ACM
+129	Computer-Aided Design
+130	IEEE Expert
+131	IEEE Intelligent Systems
+132	IEEE Intelligent Systems
+133	Int. J. Comput. Math.
+134	Int. J. Comput. Math.
+135	International Journal of Computer Vision
+136	J. Bioinformatics and Computational Biology
+137	Journal of Computational Chemistry
+138	Knowl. Inf. Syst.
+139	SIGKDD Explorations
+140	SIGKDD Explorations
+141	SIGKDD Explorations
+142	SIGKDD Explorations
+143	SIGMOD Record
+144	SIGPLAN Notices
+145	IEEE Trans. Knowl. Data Eng.
+146	IEEE Trans. Knowl. Data Eng.
+147	IEEE Trans. Knowl. Data Eng.
+148	IEEE Trans. Knowl. Data Eng.
+149	Applied Mathematics and Computation
+150	I. J. Bifurcation and Chaos
+151	null
+152	KDD
+153	SDM
+154	Applied Mathematics and Computation
+155	null
+156	CIKM
+157	CMSB
+158	GIS
+159	IJCAI
+160	Appl. Math. Lett.
+161	Journal of Biomedical Informatics
+162	Applied Mathematics and Computation
+163	Applied Mathematics and Computation
+164	Cognitive Technologies
+165	Theory of Computing Systems
+166	Theory of Computing Systems
+167	null
+168	null
+169	null
+170	null
+171	null
+172	null
+173	Proceedings In Applied Mathematics
+174	Applied Mathematics and Computation
+175	null
+176	Applied Mathematics and Computation
+177	ACM SIGMOD Record
+178	Microprocessors Microsystems
+179	Proceedings of the 2009 WRI Global Congress on Intelligent Systems - Volume 03
+180	Proceedings of the Fifth International Conference on Document Analysis and Recognition
+181	Applied Mathematics and Computation

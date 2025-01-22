@@ -1,0 +1,95 @@
+14	74	Syst. Center, Digital Equipment Corp., San Francisco, CA	Digital Equipment Corp., San Francisco, CA
+29	32	Microsoft Research	Microsoft Research
+29	37	Microsoft Research	Microsoft Research
+29	54	Microsoft Research	Microsoft
+29	72	Microsoft Research	Microsoft Research
+29	113	Microsoft Research	Microsoft Research
+29	140	Microsoft Research	Microsoft
+29	152	Microsoft Research	Microsoft
+29	168	Microsoft Research	Microsoft Research
+29	172	Microsoft Research	Microsoft Research
+29	173	Microsoft Research	Microsoft Research
+29	187	Microsoft Research	Microsoft Research
+32	37	Microsoft Research	Microsoft Research
+32	54	Microsoft Research	Microsoft
+32	72	Microsoft Research	Microsoft Research
+32	113	Microsoft Research	Microsoft Research
+32	140	Microsoft Research	Microsoft
+32	152	Microsoft Research	Microsoft
+32	168	Microsoft Research	Microsoft Research
+32	172	Microsoft Research	Microsoft Research
+32	173	Microsoft Research	Microsoft Research
+32	187	Microsoft Research	Microsoft Research
+37	54	Microsoft Research	Microsoft
+37	72	Microsoft Research	Microsoft Research
+37	113	Microsoft Research	Microsoft Research
+37	140	Microsoft Research	Microsoft
+37	152	Microsoft Research	Microsoft
+37	168	Microsoft Research	Microsoft Research
+37	172	Microsoft Research	Microsoft Research
+37	173	Microsoft Research	Microsoft Research
+37	187	Microsoft Research	Microsoft Research
+54	72	Microsoft	Microsoft Research
+54	113	Microsoft	Microsoft Research
+54	140	Microsoft	Microsoft
+54	152	Microsoft	Microsoft
+54	168	Microsoft	Microsoft Research
+54	172	Microsoft	Microsoft Research
+54	173	Microsoft	Microsoft Research
+54	187	Microsoft	Microsoft Research
+65	103	Microsoft, Redmond, WA	Microsoft Corp., Redmond, WA
+65	130	Microsoft, Redmond, WA	Microsoft Corp., Redmond, WA
+65	181	Microsoft, Redmond, WA	Microsoft Corp., Redmond, WA
+66	70	Bay Area Research Center of Microsoft Research, San Francisco, CA	Microsoft Research Group, San Francisco, CA
+66	73	Bay Area Research Center of Microsoft Research, San Francisco, CA	Microsoft Res., San Francisco, CA, USA
+66	74	Bay Area Research Center of Microsoft Research, San Francisco, CA	Digital Equipment Corp., San Francisco, CA
+66	141	Bay Area Research Center of Microsoft Research, San Francisco, CA	Microsoft Research, San Francisco, California
+66	157	Bay Area Research Center of Microsoft Research, San Francisco, CA	Microsoft Research, San Francisco, CA
+66	182	Bay Area Research Center of Microsoft Research, San Francisco, CA	Microsoft Research, 301 Howard St., Suite 830, San Francisco, CA
+70	73	Microsoft Research Group, San Francisco, CA	Microsoft Res., San Francisco, CA, USA
+70	74	Microsoft Research Group, San Francisco, CA	Digital Equipment Corp., San Francisco, CA
+70	141	Microsoft Research Group, San Francisco, CA	Microsoft Research, San Francisco, California
+70	157	Microsoft Research Group, San Francisco, CA	Microsoft Research, San Francisco, CA
+70	182	Microsoft Research Group, San Francisco, CA	Microsoft Research, 301 Howard St., Suite 830, San Francisco, CA
+72	113	Microsoft Research	Microsoft Research
+72	140	Microsoft Research	Microsoft
+72	152	Microsoft Research	Microsoft
+72	168	Microsoft Research	Microsoft Research
+72	172	Microsoft Research	Microsoft Research
+72	173	Microsoft Research	Microsoft Research
+72	187	Microsoft Research	Microsoft Research
+73	141	Microsoft Res., San Francisco, CA, USA	Microsoft Research, San Francisco, California
+73	157	Microsoft Res., San Francisco, CA, USA	Microsoft Research, San Francisco, CA
+73	182	Microsoft Res., San Francisco, CA, USA	Microsoft Research, 301 Howard St., Suite 830, San Francisco, CA
+74	141	Digital Equipment Corp., San Francisco, CA	Microsoft Research, San Francisco, California
+74	157	Digital Equipment Corp., San Francisco, CA	Microsoft Research, San Francisco, CA
+103	130	Microsoft Corp., Redmond, WA	Microsoft Corp., Redmond, WA
+103	181	Microsoft Corp., Redmond, WA	Microsoft Corp., Redmond, WA
+113	140	Microsoft Research	Microsoft
+113	152	Microsoft Research	Microsoft
+113	168	Microsoft Research	Microsoft Research
+113	172	Microsoft Research	Microsoft Research
+113	173	Microsoft Research	Microsoft Research
+113	187	Microsoft Research	Microsoft Research
+130	181	Microsoft Corp., Redmond, WA	Microsoft Corp., Redmond, WA
+140	152	Microsoft	Microsoft
+140	168	Microsoft	Microsoft Research
+140	172	Microsoft	Microsoft Research
+140	173	Microsoft	Microsoft Research
+140	187	Microsoft	Microsoft Research
+141	157	Microsoft Research, San Francisco, California	Microsoft Research, San Francisco, CA
+141	182	Microsoft Research, San Francisco, California	Microsoft Research, 301 Howard St., Suite 830, San Francisco, CA
+152	168	Microsoft	Microsoft Research
+152	172	Microsoft	Microsoft Research
+152	173	Microsoft	Microsoft Research
+152	187	Microsoft	Microsoft Research
+157	182	Microsoft Research, San Francisco, CA	Microsoft Research, 301 Howard St., Suite 830, San Francisco, CA
+168	172	Microsoft Research	Microsoft Research
+168	173	Microsoft Research	Microsoft Research
+168	187	Microsoft Research	Microsoft Research
+172	173	Microsoft Research	Microsoft Research
+172	187	Microsoft Research	Microsoft Research
+173	187	Microsoft Research	Microsoft Research
+175	176	Tandem Computers Inc., Cupertino, CA	Tandem Computers, Cupertino, CA
+175	185	Tandem Computers Inc., Cupertino, CA	Tandem Computers, 19333 Vallco Parkway, Cupertino, California
+176	185	Tandem Computers, Cupertino, CA	Tandem Computers, 19333 Vallco Parkway, Cupertino, California

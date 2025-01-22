@@ -1,0 +1,54 @@
+2058	Rule Discovery for Query Optimization
+51550	Hierarchical Automata as Model for Statecharts
+66326	Translation Validation: From SIGNAL to C
+79727	Deciding Equality Formulas by Small Domains Instantiations
+95373	Context Interchange: Overcoming the Challenges of Large-Scale Interoperable Database Systems in a Dynamic Environment
+95569	Information Integration with Attributio Support for Corporate Profiles
+114610	A Refinement Theory that Supports both 'Decrease of Nondeterminism' and 'Increase of Parallelism
+116077	Context Mediation on Wall Street
+151928	Knowledge Representation Architecture for Context Interchange Mediation: Fixed Income Securities Investment Examples
+151929	Semantic Interoperability in the Securities Industry: Context Interchange Mediation of Semantic Differences in Enumerated Data Types
+157311	Data Integration using Web Services
+160626	The Context Interchange Network Prototype
+177844	Automatic Rule Derivation For Semantic Query Optimization
+178548	Data Integration Using Web Services
+183696	An Active Conceptual Model for Fixed Income Securities Analysis for Multiple Financial Institutions
+208928	From Testing Theory to Test Driver Implementation
+208937	Translation Validation: From DC+ to C*
+219979	Extending the Limits of Sequentially Phased Reasoning
+221146	Formal Verification of Stabilizing Systems
+246839	Semantic Interoperability in the Fixed Income Securities Industry: A Knowledge Representation Architecture for Dynamic Integration of Web-Based Information
+250234	Framework for the Analysis of the Adaptability, Extensibility, and Scalability of Semantic Information Integration and the Context Mediation Approach
+268864	Translation Validation for Synchronous Languages
+544250	Correctness Conditions for Highly Available Replicated Databases
+550641	Reasoning About Temporal Context Using Ontology and Abductive Constraint Logic Programming
+559870	Towards an Active Schema Integration Architecture for Heterogeneous Database Systems
+583844	Representation and Reasoning About Changing Semantics in Heterogeneous Data Sources
+594373	Mobile, dexterous, social robots for mobile manipulation and human-robot interaction
+598204	The COntext INterchange Mediator Prototype
+605361	A Procedure for Mediation of Queries to Sources in Disparate Contexts
+625363	Translation Validation
+627821	The Camaleon Web Wrapper Engine
+628514	Effective Data Integration in the Presence of Temporal Semantic Conflicts
+643769	A Metadata Approach to Resolving Semantic Conflicts
+650143	The COntext INterchange (COIN) Project: Data Extraction and Interpretation from Semi-Structured Web Sources
+659453	Process Aggregation Using Web Services
+662120	Implementing Statecharts in PROMELA/SPIN
+673349	Deductive verification of stabilizing systems
+754809	Context Knowledge Representation and Reasoning in the Context Interchange System
+844818	The Composite Information System Laboratory (CISL) Project at MIT
+889094	Erratum ('The small model property: how small can it be?' Volume 178, Number 1 [2002], pages 279-293)
+889232	The Small Model Property: How Small Can It Be?
+906161	Conceptualizing Semantic Interoperability: A Perspective From the Knowledge Level
+997185	Context interchange in a client-server architecture
+1009191	Seizing the Opportunity: Exploiting Web Aggregation
+1057462	A Study of Singularity Formation in the Kelvin-Helmholtz Instability with Surface Tension
+1057738	Exact Solutions for the Evolution of a Bubble in Stokes Flow: A Cauchy Transform Approach
+1065656	Context Interchange: Sharing the Meaning of Data
+1076616	The Code Validation Tool CVT: Automatic Verification of a Compilation Process
+1118664	Using Semantic Values to Falilitate Interoperability Among Heterogeneous Information Systems
+1118682	A Method for Automatic Rule Derivation to Support Semantic Query Optimization
+1120146	Context Interchange: New Features and Formalisms for the Intelligent Integration of Information
+1241055	Untwist your brain: efficient debugging and diagnosis of complex assertions
+1416564	A WELL-POSED NUMERICAL METHOD TO TRACK ISOLATED CONFORMAL MAP SINGULARITIES IN HELE-SHAW FLOW
+1588851	Data Integration Using Web Services

@@ -1,0 +1,37 @@
+10945	Optimal Wavelength Assignment for Multicast in WDM Networks
+68943	Coordinated survivability in IP-over-optical networks with IP-layer dual-homing and optical-layer protection
+264151	1-Persistent Collision-Free CSMA Protocols for Opportunistic Optical Hyperchannels
+298228	Mobility-Assisted Spatiotemporal Detection in Wireless Sensor Networks
+398816	Performance Analysis Group-Based Key Management
+403308	Finding Minimum-Cost Paths with Minimum Sharability
+403556	Fault-Tolerant Wireless Access Network Design for Dual-Homed Users
+446102	Exploring Core Based Tree (CBT) in WDM Networks
+446141	Minimum Cost Paths Subject to Minimum Vulnerability for Reliable Communications
+446172	Coordinated Robust Routing by Dual Cluster Heads in Layered Wireless Sensor Networks
+514079	Programming Overlay Networks with Overlay Sockets
+540397	Traffic Engineering with AIMD in MPLS Networks
+633823	Handover Cost Optimization in Traffic Management for Multi-homed Mobile Networks
+633898	A Meta Service Description Assisted Service Discovery Protocol for MANETs
+705864	Pipelined Implementation of TCAM-Based Search Engines in High-Performance IP Routers
+705930	Fault Tolerant Service Composition in Service Overlay Networks
+705946	Multicast Routing in Light-Trail WDM Networks
+705974	Maximizing Throughput of an Optical Opportunistic Hyperchannel Subject to QoS Constraint
+708915	Traffic regulation under the percentile-based pricing policy
+743166	HOPNET: A hybrid ant colony optimization routing algorithm for mobile ad hoc network
+802339	Routing and wavelength assignment for core-based tree in WDM networks
+970407	Traffic regulation with single- and dual-homed ISPs under a percentile-based pricing policy
+1082604	Dual-Homing Based Scalable Partia Multicast Protection
+1122808	Wavelength assignment for multicast in all-optical WDM networks with splitting constraints
+1251508	Collaborative Target Detection in Wireless Sensor Networks with Reactive Mobility
+1253218	Data fusion improves the coverage of wireless sensor networks
+1281335	BR-Tree: A Scalable Prototype for Supporting Multiple Queries of Multidimensional Data
+1282262	Opportunistic Optical Hyperchannel and Its Distributed QoS Assuring Access Control
+1321897	Impact of Data Fusion on Real-Time Detection in Sensor Networks.
+1321970	Fast Sensor Placement Algorithms for Fusion-Based Target Detection.
+1323786	A Study of Network Throughput Gain in Optical-Wireless (FiWi) Networks Subject to Peer-to-Peer Communications.
+1324432	MultiHop Light-Trails (MLT) - A Solution to Extended Metro Networks.
+1373278	Dual-Homing Based Scalable Partia Multicast Protection
+1386838	Interference Aware and Delay Bounded Routing in Hybrid Wireless-Optical Access Network
+1387361	Cross-layer Routing Design in Cognitive Radio Networks by Colored Multigraph Model
+1565925	Qos-assuring multicast in wdm networks
+1587216	Service composition in service-oriented wireless sensor networks with persistent queries

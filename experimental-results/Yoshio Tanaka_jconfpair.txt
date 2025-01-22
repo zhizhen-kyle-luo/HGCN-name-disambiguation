@@ -1,0 +1,27 @@
+0	1	CIT	CIT
+0	2	CIT	CIT
+0	3	CIT	CIT
+0	4	CIT	CIT
+0	5	CIT	CIT
+1	2	CIT	CIT
+1	3	CIT	CIT
+1	4	CIT	CIT
+1	5	CIT	CIT
+2	3	CIT	CIT
+2	4	CIT	CIT
+2	5	CIT	CIT
+3	4	CIT	CIT
+3	5	CIT	CIT
+4	5	CIT	CIT
+6	7	CCGRID	CCGRID
+9	10	GRID	GRID
+11	12	HPCN Europe	HPCN Europe
+14	15	ICRA	ICRA
+14	16	ICRA	ICRA
+15	16	ICRA	ICRA
+31	32	J. Grid Comput.	J. Grid Comput.
+31	33	J. Grid Comput.	J. Grid Comput.
+32	33	J. Grid Comput.	J. Grid Comput.
+40	41	Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference	Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference
+40	42	Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference	Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference
+41	42	Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference	Proceedings of the High Performance Computing and Grid in Asia Pacific Region, Seventh International Conference

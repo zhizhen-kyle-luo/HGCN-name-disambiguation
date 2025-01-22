@@ -1,0 +1,36 @@
+1331982	An agent-based approach towards automatic service composition in ambient intelligence.
+106105	A Co-Design Methodology Based on Formal Specification and High-level Estimation
+141781	Influence of Manufacturing Variations in IDDQ Measurements: A New Test Criterion
+142157	The Design Space Layer: Supporting Early Design Space Exploration for Core-Based Designs
+142411	Constraint-Driven System Partitioning
+142412	A Knowledge-based System for Hardware-Software Partitioning
+142578	A hardware-software operating system for heterogeneous designs
+142579	A Flexible Specification Framework for Hardware-Software Codesign
+142877	Model Reuse through Hardware Design Patterns
+143459	Lightweight middleware for seamless HW-SW interoperability, with application to wireless sensor networks
+143889	Design and implementation of a coprocessor for cryptography applications
+161319	OOCE: Object-Oriented Communication Engine for SoC Design
+195202	Evaluation of Design Space Exploration Strategies
+203370	A Methodology for Task Based Partitioning and Scheduling of Dynamically Reconfigurable Systems
+215593	A Hardwar Operating System for Dynamic Reconfiguration of FPGAs
+216302	Dynamic reconfiguration management based on a distributed object model
+235461	Minimalist Object Oriented Service Discovery Protocol for Wireless Sensor Networks
+235481	Embedding a Middleware for Networked Hardware and Software Objects
+235595	Web Services for Deeply Embedded Extra Low-Cost Devices
+261608	Integration of Intelligent Agents Supporting Automatic Service Composition in Ambient Intelligence
+370329	Measurements, Quality of Service and Efficient Load Balancing Algorithm in Mobile Ad-hoc Network
+370471	Quality of Service and Mobility in New Generation Networks
+374412	Applying the ProposeRevise Strategy to the Hardware-Software Partitioning Problem
+450576	Improving Embedded System Design by Means of HW-SW Compilation on Reconfigurable Coprocessors
+529442	A New Model for NoC-based Distributed Heterogeneous System Design
+562805	Unified Inter-Communication Architecture for Systems-on-Chip
+693710	Transparent Dynamic Reconfiguration as a Service of a System-Level Middleware
+754877	Hardware-Software Partitioning at the Knowledge Level
+824118	Model Reuse through Hardware Design Patterns
+1002415	Context-Aware QoS Provision for Mobile Ad-hoc Network -based Ambient Intelligent Environments
+1117867	On the hardware-software partitioning problem: System modeling and partitioning techniques
+1140965	Embedding standard distributed object-oriented middlewares in wireless sensor networks
+1212056	A Distributed Architectural Strategy towards Ambient Intelligence
+1240754	Automatic HW/SW Interface Generation for Seamless Integration from Object-Oriented Models
+1242895	Supporting Operating Systems for Reconfigurable Computing: A Distributed Service Oriented Approach
+1514292	Advanced Techniques for Embedded Systems Design and Test

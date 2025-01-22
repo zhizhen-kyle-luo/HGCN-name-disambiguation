@@ -1,0 +1,192 @@
+2226	Introduction
+2241	Database and Transaction Processing Performance Handbook
+2328	The Benchmark Handbook for Database and Transaction Systems (1st Edition)
+2329	The Benchmark Handbook for Database and Transaction Systems (2nd Edition)
+2330	Transaction Processing: Concepts and Techniques
+17461	Notes on Data Base Operating Systems
+25987	The Revolution in Database System Architecture
+28520	Views, Authorization, and Locking in a Relational Data Base System
+63002	A Straw Man Analysis of the Probability of Waiting and Deadlock in a Database System
+69411	Super Servers: Commodity Computer Clusters Pose a Software Challenge
+69875	Why do Computer Stop and What Can be About it?
+92243	Mobile technologies for the world's children
+94668	When Database Systems Meet the Grid
+109990	One Thousand Transactions per Second
+109991	Desktop Batch Processing
+160561	Granularity of Locks and Degrees of Consistency in a Shared Data Base
+160685	Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function
+200993	Triumphs, Sins, and Challenges of Database Benchmarking
+202466	Greetings from a Filesystem User
+210813	Single Pass Precedence Analysis (Extended Abstract)
+220608	The Design and Architecture of the Microsoft Cluster Service - A Practical Approach to High-Availability and Scalability
+220647	A Comparison of the Byzantine Agreement Problem and the Transaction Commit Problem
+255807	Fault Tolerance in Tandem Systems
+255808	Why TP-Lite will Dominate the TP Market
+268123	A Transaction Model
+299651	Database Research: Lead, Follow, or Get Out of the Way? - Panel Abstract
+300027	Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total
+300028	Rules of Thumb in Data Engineering
+398104	Fcast Multicast File Distribution: 'Tune in, Download, and Drop Out
+472721	On-line science: the world-wide telescope as a prototype for the new computational science
+544016	The Cost of Messages
+575797	Memory - A memory model for scientific algorithms on graphics processors
+584544	Data analysis tools for sensor-based science
+597076	A Benchmark of NonStop SQL Release 2 Demonstrating Near-Linear Speedup and Scaleup on Large Databases
+597143	A View of Database System Performance Measures
+598040	A Critique of ANSI SQL Isolation Levels
+598098	TerraServer: A Spatial Data Warehouse
+598654	GPUTeraSort: high performance graphics co-processor sorting for large database management
+598685	The Next Database Revolution
+598687	Practical Problems in Data Management - A Position Paper
+598694	Operating System Support for Data Management Systems
+598696	Database Performance Metrics
+598698	Database and Transaction Processing Benchmarks
+598715	Parallel Database Systems 101
+598717	The Dangers of Replication and a Solution
+598719	The 5 Minute Rule for Trading Memory for Disk Accesses and The 10 Byte Rule for Trading Memory for CPU Time
+598721	Quickly Generating Billion-Record Synthetic Databases
+598723	The Lowell Report
+599440	AlphaSort: A RISC Machine Sort
+599654	FastSort: A Distributed Single-Input Single-Output External Sort
+599773	Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey
+599775	The SDSS skyserver: public access to the sloan digital sky server data
+599864	The Committee for Advanced DBMS Function': Third Generation Data Base System Manifesto
+617014	Why Do Computers Stop and What Can Be Done About It?
+617990	Where the Rubber Meets the Sky: The Semantic Gap between Data Producers and Data Consumers
+642043	Disk Shadowing
+642677	The Transaction Concept: Virtues and Limitations (Invited Paper)
+642678	Parity Striping of Disk Arrays: Low-Cost Reliable Storage with Acceptable Throughput
+642679	Granularity of Locks in a Large Shared Data Base
+643455	Storage Service Providers: a Solution for Storage Management? (Panel)
+643587	Databases and Workflow Management: What is it All About? (Panel)
+644107	An Adaptive Hash Join Algorithm for Multiuser Environments
+644283	Panel Session: Do the DBMS SW Vendors Offer the Products Required by the Industrial User in the Communication Industry?
+654208	Data Mining the SDSS SkyServer Database
+769438	The Lowell database research self-assessment
+769921	Digital immortality
+769922	What's next in high-performance computing?
+770550	A History and Evaluation of System R
+771176	Parallel Database Systems: The Future of High Performance Database Systems
+771521	The Notions of Consistency and Predicate Locks in a Database System
+772375	The world-wide telescope
+805711	System R: A Relational Data Base Management System
+805782	Petascale Computational Systems
+806566	Evolution of Data Management
+806569	High-Availability Computer Systems
+816317	Locally Served Network Computers
+816319	Scalability Terminology: Farms, Clones, Partitions, Packs, RACS and RAPS
+817465	Data Mining the SDSS SkyServer Database
+817478	Petabyte Scale Data Mining: Dream or Reality?
+817479	Spatial Clustering of Galaxies in Large Datasets
+817512	The Lowell Database Research Self Assessment
+817535	Extending the SDSS Batch Query System to the National Virtual Observatory Grid
+817536	The World Wide Telescope: An Archetype for Online Science
+817537	The Sloan Digital Sky Survey Science Archive: Migrating a Multi-Terabyte Astronomical Archive from Object to Relational DBMS
+817538	A Quick Look at SATA Disk Performance
+817550	The Revolution In Database System Architecture
+817551	There Goes the Neighborhood: Relational Algebra for Spatial Data Search
+817560	Performance / Price Sort
+817561	The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb
+817562	Microsoft TerraServer
+817565	The Asilomar Report on Database Research
+817567	Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey
+817568	Microsoft TerraServer: A Spatial Data Warehouse
+817635	Web Services for the Virtual Observatory
+817774	Consensus on Transaction Commit
+817810	The SDSS SkyServer, Public Access to the Sloan Digital Sky Server Data
+817814	The SDSS SkyServer: Public Access to the Sloan Digital Sky Server Data
+817816	TerraService.NET: An Introduction to Web Services
+817817	Online Scientific Data Curation, Publication, and Archiving
+818108	The Revolution Yet to Happen
+818110	What Next? A Dozen Information-Technology Research Goals
+818825	TeraScale SneakerNet: Using Inexpensive Disks for Backup, Archiving, and Data Exchange
+818865	Distributed Computing Economics
+819855	Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals
+819856	Data Management: Past, Present, and Future
+819857	A Critique of ANSI SQL Isolation Levels
+819858	Queues Are Databases
+819859	Supporting Finite Element Analysis with a Relational Database Backend, Part I: There is Life beyond Files
+819860	Supporting Finite Element Analysis with a Relational Database Backend, Part II: Database Design and Access
+819861	Thousands of DebitCredit Transactions-Per-Second: Easy and Inexpensive
+819862	A Measure of Transaction Processing 20 Years Later
+819863	Using Table Valued Functions in SQL Server 2005 To Implement a Spatial Data Library
+819864	Indexing the Sphere with the Hierarchical Triangular Mesh
+819865	Petascale Computational Systems
+819866	Empirical Measurements of Disk Failure Rates and Error Rates
+819867	Large-Scale Query and XMatch, Entering the Parallel Zone
+819868	To BLOB or Not To BLOB: Large Object Storage in a Database or a Filesystem?
+819870	Life Under Your Feet: An End-to-End Soil Ecology Sensor Network, Database, Web Server, and Analysis Service
+819871	The Zones Algorithm for Finding Points-Near-a-Point or Cross-Matching Spatial Datasets
+819872	Cross-Matching Multiple Spatial Observations and Dealing with Missing Data
+819873	SkyServer Traffic Report - The First Five Years
+822162	Scientific Data Management in the Coming Decade
+822163	Performance Considerations for Gigabyte per Second Transcontinental Disk-to-Disk File Transfers
+822164	TerraServer SAN-Cluster Architecture and Operations Experience
+822165	Where the Rubber Meets the Sky: Bridging the Gap between Databases and Science
+822166	Sequential File Programming Patterns and Performance with .NET
+822172	When Database Systems Meet the Grid
+822226	Batch is back: CasJobs, serving multi-TB data on the Web
+822474	Designing a Multi-petabyte Database for LSST
+832561	The Recovery Manager of the System R Database Manager
+839619	Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals
+844438	Transaction Acceleration
+844613	A 'Measure of Transaction Processing' 20 Years Later
+844615	Where the Rubber Meets the Sky: Bridging the Gap between Databases and Science
+845478	What Next? A Few Remaining Problems in Information Technlogy, SIGMOD Conference 1999, ACM Turing Award Lecture, Video
+856314	Review - Benchmarking Database Systems A Systematic Approach
+888067	The Theory of Sequential Relations
+888068	Two-Way Pushdown Automata
+891747	System R: An Architectural Overview
+891750	System R: An Architectural Overview
+929341	Designing and Building TerraService
+950518	What next?: A dozen information-technology research goals
+950520	On the Covering and Reduction Problems for Context-Free Grammars
+950521	Canonical Precedence Schemes
+971987	Infinite Linear Sequential Machines
+1048746	A conversation with Tim Bray
+1048748	A call to arms
+1064531	Loading Databases Using Dataflow Parallelism
+1064679	The Asilomar Report on Database Research
+1064680	Future Directions in DBMS Research - The Laguna Beach Participants
+1064875	Parallel Database Systems: The Future of Database Processing or a Passing Fad?
+1065061	The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb
+1065063	Scientific data management in the coming decade
+1065693	Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function
+1066145	The Convoy Phenomenon
+1066315	Increasing the Effectiveness of OS Research
+1118209	System R: Relational Approach to Database Management
+1118425	Consensus on transaction commit
+1118715	Transactions and Consistency in Distributed Database Systems
+1128267	An Approach to Decentralized Computer Systems
+1138239	AlphaSort: A Cache-Sensitive Parallel External Sort
+1179249	Data Management in the Worldwide Sensor Web
+1196557	A Shared Segment and Interprocess Communication Facility for VM/370
+1196564	Transactions and Consistency in Distributed Database Systems
+1203997	The Benchmark Handbook for Database and Transaction Systems (1st Edition)
+1203998	The Benchmark Handbook for Database and Transaction Systems (2nd Edition)
+1203999	Transaction Processing: Concepts and Techniques
+1227155	Flash Disk Opportunity for Server Applications
+1227187	Distributed Computing Economics
+1235303	The Benchmark Handbook for Database and Transaction Systems (1st Edition)
+1235304	The Benchmark Handbook for Database and Transaction Systems (2nd Edition)
+1235305	Transaction Processing: Concepts and Techniques
+1269959	The sqlLoader Data-Loading Pipeline
+1269994	The Catalog Archive Server Database Management System
+1412437	The Lowell database research self-assessment
+1441129	The transaction concept: virtues and limitations
+1469234	The 5 minute rule for trading memory for disc accesses and the 10 byte rule for trading memory for CPU time
+1534524	Transaction Processing: Concepts and Techniques, 1st edition
+1544088	The Asilomar report on database research
+1545278	AlphaSort: a cache-sensitive parallel external sort
+1545539	Parallel database systems: the future of high performance database systems
+1548510	Data Cube: a relational aggregation operator generalizing group-by, cross-tab, and sub-totals
+1551876	Microsoft TerraServer: a spatial data warehouse
+1553770	The dangers of replication and a solution
+1574840	Third-generation database system manifesto
+1574963	The Recovery Manager of the System R Database Manager
+1589364	Storage Service Providers: a Solution for Storage Management? (Panel)
+1607878	A performance study of sequential I/O on windows NTTM4
+1630476	Parity striping of disc arrays: low-cost reliable storage with acceptable throughput
+1666800	A comparison of the Byzantine agreement problem and the transaction commit problem
+1709412	A critique of ANSI SQL isolation levels
+1735595	Benchmark Handbook: For Database and Transaction Processing Systems

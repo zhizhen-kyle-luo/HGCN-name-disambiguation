@@ -1,0 +1,23 @@
+3	4	BIBE	BIBE
+10	11	ICC	ICC
+10	12	ICC	ICC
+11	12	ICC	ICC
+14	15	ICML	ICML
+14	16	ICML	ICML
+14	51	ICML	ICML
+15	16	ICML	ICML
+15	51	ICML	ICML
+16	51	ICML	ICML
+34	35	IEICE Transactions	IEICE Transactions
+34	36	IEICE Transactions	IEICE Transactions
+34	37	IEICE Transactions	IEICE Transactions
+35	36	IEICE Transactions	IEICE Transactions
+35	37	IEICE Transactions	IEICE Transactions
+36	37	IEICE Transactions	IEICE Transactions
+39	40	IJPRAI	IJPRAI
+39	41	IJPRAI	IJPRAI
+39	42	IJPRAI	IJPRAI
+40	41	IJPRAI	IJPRAI
+40	42	IJPRAI	IJPRAI
+41	42	IJPRAI	IJPRAI
+47	48	Applied Mathematics and Computation	Applied Mathematics and Computation

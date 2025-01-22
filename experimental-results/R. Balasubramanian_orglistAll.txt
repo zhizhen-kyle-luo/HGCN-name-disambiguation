@@ -1,0 +1,190 @@
+0	1	null	Xerox Digital Imaging Technol. Center, Webster, NY
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	null
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	COMSAT Lab., Clarksburg, MD
+0	15	null	null
+0	16	null	null
+0	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+0	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+0	19	null	null
+1	2	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	3	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	4	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	5	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	6	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	7	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	8	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	9	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	10	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	11	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	12	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	13	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	14	Xerox Digital Imaging Technol. Center, Webster, NY	COMSAT Lab., Clarksburg, MD
+1	15	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	16	Xerox Digital Imaging Technol. Center, Webster, NY	null
+1	17	Xerox Digital Imaging Technol. Center, Webster, NY	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+1	18	Xerox Digital Imaging Technol. Center, Webster, NY	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+1	19	Xerox Digital Imaging Technol. Center, Webster, NY	null
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	null
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	COMSAT Lab., Clarksburg, MD
+2	15	null	null
+2	16	null	null
+2	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+2	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+2	19	null	null
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	COMSAT Lab., Clarksburg, MD
+3	15	null	null
+3	16	null	null
+3	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+3	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+3	19	null	null
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	COMSAT Lab., Clarksburg, MD
+4	15	null	null
+4	16	null	null
+4	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+4	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+4	19	null	null
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	null
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	COMSAT Lab., Clarksburg, MD
+5	15	null	null
+5	16	null	null
+5	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+5	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+5	19	null	null
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	COMSAT Lab., Clarksburg, MD
+6	15	null	null
+6	16	null	null
+6	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+6	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+6	19	null	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	COMSAT Lab., Clarksburg, MD
+7	15	null	null
+7	16	null	null
+7	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+7	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+7	19	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	COMSAT Lab., Clarksburg, MD
+8	15	null	null
+8	16	null	null
+8	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+8	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+8	19	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	COMSAT Lab., Clarksburg, MD
+9	15	null	null
+9	16	null	null
+9	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+9	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+9	19	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	COMSAT Lab., Clarksburg, MD
+10	15	null	null
+10	16	null	null
+10	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+10	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+10	19	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	COMSAT Lab., Clarksburg, MD
+11	15	null	null
+11	16	null	null
+11	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+11	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+11	19	null	null
+12	13	null	null
+12	14	null	COMSAT Lab., Clarksburg, MD
+12	15	null	null
+12	16	null	null
+12	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+12	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+12	19	null	null
+13	14	null	COMSAT Lab., Clarksburg, MD
+13	15	null	null
+13	16	null	null
+13	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+13	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+13	19	null	null
+14	15	COMSAT Lab., Clarksburg, MD	null
+14	16	COMSAT Lab., Clarksburg, MD	null
+14	17	COMSAT Lab., Clarksburg, MD	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+14	18	COMSAT Lab., Clarksburg, MD	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+14	19	COMSAT Lab., Clarksburg, MD	null
+15	16	null	null
+15	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+15	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+15	19	null	null
+16	17	null	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India
+16	18	null	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+16	19	null	null
+17	18	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India
+17	19	Department of Mathematics, Indian Institute of Technology Roorkee, Roorkee, India	null
+18	19	Director, The Institute of Mathematical Sciences, C.I.T. Campus, Taramani, Chennai 600 113, India	null

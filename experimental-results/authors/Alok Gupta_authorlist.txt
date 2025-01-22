@@ -1,0 +1,179 @@
+1	2	Arun Krishnan	Arun Krishnan
+2	5	Xiang Sean Zhou	Xiang Sean Zhou
+2	8	Xiang Sean Zhou	Xiang Sean Zhou
+2	37	Xiang Sean Zhou	Xiang Sean Zhou
+4	6	Gareth Funka-Lea	Gareth Funka-Lea
+5	8	Xiang Sean Zhou	Xiang Sean Zhou
+5	8	Dorin Comaniciu	Dorin Comaniciu
+5	37	Xiang Sean Zhou	Xiang Sean Zhou
+5	37	Dorin Comaniciu	Dorin Comaniciu
+6	7	Thomas O'Donnell	Thomas O'Donnell
+6	9	Thomas O'Donnell	Thomas O'Donnell
+6	20	Thomas O'Donnell	Thomas O'Donnell
+7	9	Thomas O'Donnell	Thomas O'Donnell
+7	9	Terrance E. Boult	Terrance E. Boult
+7	20	Thomas O'Donnell	Thomas O'Donnell
+7	35	Terrance E. Boult	Terrance E. Boult
+8	37	Xiang Sean Zhou	Xiang Sean Zhou
+8	37	Dorin Comaniciu	Dorin Comaniciu
+9	20	Thomas O'Donnell	Thomas O'Donnell
+9	35	Terrance E. Boult	Terrance E. Boult
+10	27	Bo-chiuan Su	Bo-chiuan Su
+10	27	Zhiping D. Walter	Zhiping D. Walter
+11	14	Robert J. Kauffman	Robert J. Kauffman
+11	18	Robert J. Kauffman	Robert J. Kauffman
+11	23	Gediminas Adomavicius	Gediminas Adomavicius
+11	23	Jesse Bockstedt	Jesse Bockstedt
+11	23	Robert J. Kauffman	Robert J. Kauffman
+11	32	Robert J. Kauffman	Robert J. Kauffman
+11	39	Robert J. Kauffman	Robert J. Kauffman
+11	41	Gediminas Adomavicius	Gediminas Adomavicius
+11	43	Gediminas Adomavicius	Gediminas Adomavicius
+11	46	Gediminas Adomavicius	Gediminas Adomavicius
+11	51	Gediminas Adomavicius	Gediminas Adomavicius
+11	51	Robert J. Kauffman	Robert J. Kauffman
+12	21	Ravi Bapna	Ravi Bapna
+12	21	Paulo B. Goes	Paulo B. Goes
+12	25	Ravi Bapna	Ravi Bapna
+12	25	Paulo B. Goes	Paulo B. Goes
+12	26	Paulo B. Goes	Paulo B. Goes
+12	30	Ravi Bapna	Ravi Bapna
+12	30	Paulo B. Goes	Paulo B. Goes
+12	34	Ravi Bapna	Ravi Bapna
+12	34	Paulo B. Goes	Paulo B. Goes
+12	38	Paulo B. Goes	Paulo B. Goes
+12	42	Ravi Bapna	Ravi Bapna
+12	42	Paulo B. Goes	Paulo B. Goes
+12	45	Ravi Bapna	Ravi Bapna
+12	45	Paulo B. Goes	Paulo Goes
+14	18	Robert J. Kauffman	Robert J. Kauffman
+14	23	Robert J. Kauffman	Robert J. Kauffman
+14	32	Nelson F. Granados	Nelson F. Granados
+14	32	Robert J. Kauffman	Robert J. Kauffman
+14	39	Nelson F. Granados	Nelson F. Granados
+14	39	Robert J. Kauffman	Robert J. Kauffman
+14	51	Robert J. Kauffman	Robert J. Kauffman
+15	16	Ramnath K. Chellappa	Ramnath K. Chellappa
+15	17	Ramnath K. Chellappa	Ramnath K. Chellappa
+15	29	Ramnath K. Chellappa	Ramnath K. Chellappa
+16	17	Ramnath K. Chellappa	Ramnath K. Chellappa
+16	29	Ramnath K. Chellappa	Ramnath K. Chellappa
+17	29	Ramnath K. Chellappa	Ramnath K. Chellappa
+18	23	Robert J. Kauffman	Robert J. Kauffman
+18	32	Robert J. Kauffman	Robert J. Kauffman
+18	39	Robert J. Kauffman	Robert J. Kauffman
+18	51	Robert J. Kauffman	Robert J. Kauffman
+19	20	Marie-Pierre Dubuisson-Jolly	Marie-Pierre Dubuisson-Jolly
+19	24	Marie-Pierre Dubuisson-Jolly	Marie-Pierre Dubuisson-Jolly
+19	33	Marie-Pierre Dubuisson-Jolly	Marie-Pierre Dubuisson-Jolly
+20	24	Marie-Pierre Dubuisson-Jolly	Marie-Pierre Dubuisson-Jolly
+20	33	Marie-Pierre Dubuisson-Jolly	Marie-Pierre Dubuisson-Jolly
+21	25	Ravi Bapna	Ravi Bapna
+21	25	Paulo B. Goes	Paulo B. Goes
+21	26	Paulo B. Goes	Paulo B. Goes
+21	30	Ravi Bapna	Ravi Bapna
+21	30	Paulo B. Goes	Paulo B. Goes
+21	34	Ravi Bapna	Ravi Bapna
+21	34	Paulo B. Goes	Paulo B. Goes
+21	38	Paulo B. Goes	Paulo B. Goes
+21	42	Ravi Bapna	Ravi Bapna
+21	42	Paulo B. Goes	Paulo B. Goes
+21	45	Ravi Bapna	Ravi Bapna
+21	45	Paulo B. Goes	Paulo Goes
+22	31	Dale O. Stahl	Dale O. Stahl
+22	31	Andrew B. Whinston	Andrew B. Whinston
+22	40	Andrew B. Whinston	Andrew B. Whinston
+22	44	Dale O. Stahl	Dale O. Stahl
+22	44	Andrew B. Whinston	Andrew B. Whinston
+22	48	Dale O. Stahl	Dale O. Stahl
+22	48	Andrew B. Whinston	Andrew B. Whinston
+22	49	Andrew B. Whinston	Andrew B. Whinston
+22	50	Andrew B. Whinston	Andrew B. Whinston
+22	53	Dale O. Stahl	Dale O. Stahl
+22	53	Andrew B. Whinston	Andrew B. Whinston
+23	32	Robert J. Kauffman	Robert J. Kauffman
+23	39	Robert J. Kauffman	Robert J. Kauffman
+23	41	Gediminas Adomavicius	Gediminas Adomavicius
+23	43	Gediminas Adomavicius	Gediminas Adomavicius
+23	46	Gediminas Adomavicius	Gediminas Adomavicius
+23	51	Gediminas Adomavicius	Gediminas Adomavicius
+23	51	Robert J. Kauffman	Robert J. Kauffman
+24	33	Marie-Pierre Dubuisson-Jolly	Marie-Pierre Dubuisson-Jolly
+25	26	Paulo B. Goes	Paulo B. Goes
+25	30	Ravi Bapna	Ravi Bapna
+25	30	Paulo B. Goes	Paulo B. Goes
+25	34	Ravi Bapna	Ravi Bapna
+25	34	Paulo B. Goes	Paulo B. Goes
+25	38	Paulo B. Goes	Paulo B. Goes
+25	42	Ravi Bapna	Ravi Bapna
+25	42	Paulo B. Goes	Paulo B. Goes
+25	45	Ravi Bapna	Ravi Bapna
+25	45	Paulo B. Goes	Paulo Goes
+26	30	Paulo B. Goes	Paulo B. Goes
+26	34	Paulo B. Goes	Paulo B. Goes
+26	38	Andrew N. K. Chen	Andrew N. K. Chen
+26	38	Paulo B. Goes	Paulo B. Goes
+26	38	James R. Marsden	James R. Marsden
+26	42	Paulo B. Goes	Paulo B. Goes
+26	45	Paulo B. Goes	Paulo Goes
+26	52	James R. Marsden	James R. Marsden
+28	47	Ruzena Bajcsy	Ruzena Bajcsy
+28	54	Ruzena Bajcsy	Ruzena Bajcsy
+30	34	Ravi Bapna	Ravi Bapna
+30	34	Paulo B. Goes	Paulo B. Goes
+30	38	Paulo B. Goes	Paulo B. Goes
+30	42	Ravi Bapna	Ravi Bapna
+30	42	Paulo B. Goes	Paulo B. Goes
+30	45	Ravi Bapna	Ravi Bapna
+30	45	Paulo B. Goes	Paulo Goes
+31	40	Andrew B. Whinston	Andrew B. Whinston
+31	44	Dale O. Stahl	Dale O. Stahl
+31	44	Andrew B. Whinston	Andrew B. Whinston
+31	48	Dale O. Stahl	Dale O. Stahl
+31	48	Andrew B. Whinston	Andrew B. Whinston
+31	49	Andrew B. Whinston	Andrew B. Whinston
+31	50	Andrew B. Whinston	Andrew B. Whinston
+31	53	Boris Jukic	Boris Jukic
+31	53	Dale O. Stahl	Dale O. Stahl
+31	53	Andrew B. Whinston	Andrew B. Whinston
+32	39	Nelson F. Granados	Nelson F. Granados
+32	39	Robert J. Kauffman	Robert J. Kauffman
+32	51	Robert J. Kauffman	Robert J. Kauffman
+34	38	Paulo B. Goes	Paulo B. Goes
+34	42	Ravi Bapna	Ravi Bapna
+34	42	Paulo B. Goes	Paulo B. Goes
+34	45	Ravi Bapna	Ravi Bapna
+34	45	Paulo B. Goes	Paulo Goes
+35	56	Bir Bhanu	Bir Bhanu
+38	42	Paulo B. Goes	Paulo B. Goes
+38	45	Paulo B. Goes	Paulo Goes
+38	52	James R. Marsden	James R. Marsden
+39	51	Robert J. Kauffman	Robert J. Kauffman
+40	44	Andrew B. Whinston	Andrew B. Whinston
+40	48	Andrew B. Whinston	Andrew B. Whinston
+40	49	Andrew B. Whinston	Andrew B. Whinston
+40	50	Prabhudev Konana	Prabhudev Konana
+40	50	Andrew B. Whinston	Andrew B. Whinston
+40	53	Andrew B. Whinston	Andrew B. Whinston
+41	43	Gediminas Adomavicius	Gediminas Adomavicius
+41	46	Gediminas Adomavicius	Gediminas Adomavicius
+41	51	Gediminas Adomavicius	Gediminas Adomavicius
+42	45	Ravi Bapna	Ravi Bapna
+42	45	Paulo B. Goes	Paulo Goes
+43	46	Gediminas Adomavicius	Gediminas Adomavicius
+43	51	Gediminas Adomavicius	Gediminas Adomavicius
+44	48	Dale O. Stahl	Dale O. Stahl
+44	48	Andrew B. Whinston	Andrew B. Whinston
+44	49	Andrew B. Whinston	Andrew B. Whinston
+44	50	Andrew B. Whinston	Andrew B. Whinston
+44	53	Dale O. Stahl	Dale O. Stahl
+44	53	Andrew B. Whinston	Andrew B. Whinston
+46	51	Gediminas Adomavicius	Gediminas Adomavicius
+47	54	Ruzena Bajcsy	Ruzena Bajcsy
+48	49	Andrew B. Whinston	Andrew B. Whinston
+48	50	Andrew B. Whinston	Andrew B. Whinston
+48	53	Dale O. Stahl	Dale O. Stahl
+48	53	Andrew B. Whinston	Andrew B. Whinston
+49	50	Andrew B. Whinston	Andrew B. Whinston
+49	53	Andrew B. Whinston	Andrew B. Whinston
+50	53	Andrew B. Whinston	Andrew B. Whinston

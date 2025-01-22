@@ -1,0 +1,595 @@
+0	162	Shanghai Jiao Tong Univ., Shanghai	Image Guided Surgery and Therapy Laboratory, Med-X Research Institute and Department of Computer Science, Shanghai Jiao Tong University, Shanghai, China
+1	90	Nanyang Technological University, Singapore	Nanyang Technological University, Singapore
+1	99	Nanyang Technological University, Singapore	Information Communication Institute of Singapore, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798
+1	117	Nanyang Technological University, Singapore	Nanyang Technological University, Singapore
+1	140	Nanyang Technological University, Singapore	School of MAE, Nanyang Technological University, Singapore 639798, Singapore
+1	161	Nanyang Technological University, Singapore	School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
+5	6	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+5	7	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+5	8	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ.
+5	9	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+5	10	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+5	11	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang Univ., Hangzhou
+5	12	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang Univ., Hangzhou
+5	13	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+5	16	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang Univ., Hangzhou
+5	17	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang Univ., Hangzhou
+5	23	Inst. of Artificial Intelligence, Zhejiang Univ.	College of Computer Science, Zhejiang University, China
+5	31	Inst. of Artificial Intelligence, Zhejiang Univ.	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+5	37	Inst. of Artificial Intelligence, Zhejiang Univ.	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China
+5	68	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, China
+5	69	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, China
+5	70	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, China
+5	86	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, Hangzhou, China
+5	113	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, Hangzhou
+5	118	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, Hangzhou
+5	124	Inst. of Artificial Intelligence, Zhejiang Univ.	State Key Lab, Zhejiang Univ., China
+5	125	Inst. of Artificial Intelligence, Zhejiang Univ.	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+5	130	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, Hangzhou, China
+5	134	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang University, China
+5	142	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+5	143	Inst. of Artificial Intelligence, Zhejiang Univ.	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+5	144	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+5	145	Inst. of Artificial Intelligence, Zhejiang Univ.	Zhejiang Univ., Hangzhou, China
+5	146	Inst. of Artificial Intelligence, Zhejiang Univ.	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+5	148	Inst. of Artificial Intelligence, Zhejiang Univ.	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+5	149	Inst. of Artificial Intelligence, Zhejiang Univ.	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+5	157	Inst. of Artificial Intelligence, Zhejiang Univ.	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+6	7	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+6	8	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ.
+6	9	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+6	10	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+6	11	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+6	12	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+6	13	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+6	16	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+6	17	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+6	23	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+6	31	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+6	38	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+6	68	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+6	69	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+6	70	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+6	86	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+6	107	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+6	113	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+6	118	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+6	130	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+6	134	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+6	142	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+6	144	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+6	145	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+6	148	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+7	8	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ.
+7	9	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+7	10	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+7	11	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+7	12	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+7	13	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+7	16	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+7	17	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+7	23	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+7	31	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+7	38	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+7	68	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+7	69	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+7	70	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+7	86	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+7	107	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+7	113	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+7	118	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+7	130	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+7	134	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+7	142	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+7	144	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+7	145	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+7	148	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+8	9	Coll. of Comput. Sci., Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+8	10	Coll. of Comput. Sci., Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+8	11	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang Univ., Hangzhou
+8	12	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang Univ., Hangzhou
+8	13	Coll. of Comput. Sci., Zhejiang Univ.	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+8	16	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang Univ., Hangzhou
+8	17	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang Univ., Hangzhou
+8	23	Coll. of Comput. Sci., Zhejiang Univ.	College of Computer Science, Zhejiang University, China
+8	38	Coll. of Comput. Sci., Zhejiang Univ.	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+8	68	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, China
+8	69	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, China
+8	70	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, China
+8	86	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, Hangzhou, China
+8	107	Coll. of Comput. Sci., Zhejiang Univ.	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+8	113	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, Hangzhou
+8	118	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, Hangzhou
+8	124	Coll. of Comput. Sci., Zhejiang Univ.	State Key Lab, Zhejiang Univ., China
+8	130	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, Hangzhou, China
+8	134	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang University, China
+8	142	Coll. of Comput. Sci., Zhejiang Univ.	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+8	144	Coll. of Comput. Sci., Zhejiang Univ.	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+8	145	Coll. of Comput. Sci., Zhejiang Univ.	Zhejiang Univ., Hangzhou, China
+8	148	Coll. of Comput. Sci., Zhejiang Univ.	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+9	10	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou
+9	11	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+9	12	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+9	13	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+9	16	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+9	17	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+9	23	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+9	31	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+9	38	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+9	68	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+9	69	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+9	70	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+9	86	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+9	107	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+9	113	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+9	118	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+9	130	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+9	134	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+9	142	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+9	144	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+9	145	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+9	148	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+10	11	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+10	12	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+10	13	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+10	16	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+10	17	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+10	23	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+10	31	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+10	38	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+10	68	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+10	69	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+10	70	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+10	86	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+10	107	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+10	113	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+10	118	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+10	130	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+10	134	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang University, China
+10	142	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+10	144	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+10	145	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+10	148	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+11	12	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+11	13	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+11	16	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+11	17	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+11	23	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+11	31	Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+11	37	Zhejiang Univ., Hangzhou	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China
+11	38	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+11	68	Zhejiang Univ., Hangzhou	Zhejiang University, China
+11	69	Zhejiang Univ., Hangzhou	Zhejiang University, China
+11	70	Zhejiang Univ., Hangzhou	Zhejiang University, China
+11	86	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+11	107	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+11	113	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+11	118	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+11	124	Zhejiang Univ., Hangzhou	State Key Lab, Zhejiang Univ., China
+11	125	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+11	130	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+11	134	Zhejiang Univ., Hangzhou	Zhejiang University, China
+11	142	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+11	143	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+11	144	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+11	145	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+11	146	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+11	148	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+11	149	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+11	157	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+12	13	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+12	16	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+12	17	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+12	23	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+12	31	Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+12	37	Zhejiang Univ., Hangzhou	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China
+12	38	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+12	68	Zhejiang Univ., Hangzhou	Zhejiang University, China
+12	69	Zhejiang Univ., Hangzhou	Zhejiang University, China
+12	70	Zhejiang Univ., Hangzhou	Zhejiang University, China
+12	86	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+12	107	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+12	113	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+12	118	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+12	124	Zhejiang Univ., Hangzhou	State Key Lab, Zhejiang Univ., China
+12	125	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+12	130	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+12	134	Zhejiang Univ., Hangzhou	Zhejiang University, China
+12	142	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+12	143	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+12	144	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+12	145	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+12	146	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+12	148	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+12	149	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+12	157	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+13	16	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+13	17	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+13	23	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+13	31	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+13	38	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+13	68	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, China
+13	69	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, China
+13	70	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, China
+13	86	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+13	107	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+13	113	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+13	118	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+13	130	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+13	134	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang University, China
+13	142	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+13	144	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+13	145	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+13	148	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+16	17	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou
+16	23	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+16	31	Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+16	37	Zhejiang Univ., Hangzhou	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China
+16	38	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+16	68	Zhejiang Univ., Hangzhou	Zhejiang University, China
+16	69	Zhejiang Univ., Hangzhou	Zhejiang University, China
+16	70	Zhejiang Univ., Hangzhou	Zhejiang University, China
+16	86	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+16	107	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+16	113	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+16	118	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+16	124	Zhejiang Univ., Hangzhou	State Key Lab, Zhejiang Univ., China
+16	125	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+16	130	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+16	134	Zhejiang Univ., Hangzhou	Zhejiang University, China
+16	142	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+16	143	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+16	144	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+16	145	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+16	146	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+16	148	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+16	149	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+16	157	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+17	23	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, China
+17	31	Zhejiang Univ., Hangzhou	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+17	37	Zhejiang Univ., Hangzhou	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China
+17	38	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+17	68	Zhejiang Univ., Hangzhou	Zhejiang University, China
+17	69	Zhejiang Univ., Hangzhou	Zhejiang University, China
+17	70	Zhejiang Univ., Hangzhou	Zhejiang University, China
+17	86	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+17	107	Zhejiang Univ., Hangzhou	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+17	113	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+17	118	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou
+17	124	Zhejiang Univ., Hangzhou	State Key Lab, Zhejiang Univ., China
+17	125	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+17	130	Zhejiang Univ., Hangzhou	Zhejiang University, Hangzhou, China
+17	134	Zhejiang Univ., Hangzhou	Zhejiang University, China
+17	142	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+17	143	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+17	144	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+17	145	Zhejiang Univ., Hangzhou	Zhejiang Univ., Hangzhou, China
+17	146	Zhejiang Univ., Hangzhou	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+17	148	Zhejiang Univ., Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+17	149	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+17	157	Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+18	132	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	School of Computer Science, Fudan University, Shanghai, China
+18	133	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	School of Computer Science, Fudan University, Shanghai 200433, China
+18	151	Dept. of Comput. & Inf. Technol., Fudan Univ., Shanghai	Sch. of Comput. Sci., Fudan Univ., Shanghai, China
+19	141	Mentor Graphics Corp., Wilsonville, OR	Mentor Graphics Corp., Wilsonville, OR, USA
+23	31	College of Computer Science, Zhejiang University, China	Inst. of Sci., Zhejiang Univ., Hangzhou, China
+23	38	College of Computer Science, Zhejiang University, China	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+23	68	College of Computer Science, Zhejiang University, China	Zhejiang University, China
+23	69	College of Computer Science, Zhejiang University, China	Zhejiang University, China
+23	70	College of Computer Science, Zhejiang University, China	Zhejiang University, China
+23	86	College of Computer Science, Zhejiang University, China	Zhejiang University, Hangzhou, China
+23	107	College of Computer Science, Zhejiang University, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+23	113	College of Computer Science, Zhejiang University, China	Zhejiang University, Hangzhou
+23	118	College of Computer Science, Zhejiang University, China	Zhejiang University, Hangzhou
+23	124	College of Computer Science, Zhejiang University, China	State Key Lab, Zhejiang Univ., China
+23	125	College of Computer Science, Zhejiang University, China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+23	130	College of Computer Science, Zhejiang University, China	Zhejiang University, Hangzhou, China
+23	134	College of Computer Science, Zhejiang University, China	Zhejiang University, China
+23	142	College of Computer Science, Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+23	144	College of Computer Science, Zhejiang University, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+23	145	College of Computer Science, Zhejiang University, China	Zhejiang Univ., Hangzhou, China
+23	148	College of Computer Science, Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+24	72	University of Iowa, Iowa City	University of Iowa
+24	168	University of Iowa, Iowa City	University of Iowa
+25	175	Computer Science Department, University of California, Los Angeles, CA	University of California, Los Angeles
+26	114	Magma Design Automation, Los Angeles, CA	Magma Design Automation, Santa Clara, CA
+31	37	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China
+31	38	Inst. of Sci., Zhejiang Univ., Hangzhou, China	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+31	68	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, China
+31	69	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, China
+31	70	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, China
+31	86	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, Hangzhou, China
+31	107	Inst. of Sci., Zhejiang Univ., Hangzhou, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+31	113	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, Hangzhou
+31	118	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, Hangzhou
+31	124	Inst. of Sci., Zhejiang Univ., Hangzhou, China	State Key Lab, Zhejiang Univ., China
+31	125	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+31	130	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, Hangzhou, China
+31	134	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang University, China
+31	142	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+31	143	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+31	144	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+31	145	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Zhejiang Univ., Hangzhou, China
+31	146	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+31	148	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+31	149	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+31	157	Inst. of Sci., Zhejiang Univ., Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+32	51	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Inst. of Microelectron., Tsinghua Univ., Beijing
+32	58	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Comput. Sci., Tsinghua Univ., Beijing
+32	110	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Inst. of Microelectron., Tsinghua Univ., Beijing
+32	131	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China
+32	138	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China
+32	147	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+32	155	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+32	167	Dept. of Comput. Sci. & Technol., Tsinghua Univ., Beijing	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+37	38	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China
+37	68	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, China
+37	69	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, China
+37	70	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, China
+37	86	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, Hangzhou, China
+37	107	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+37	113	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, Hangzhou
+37	118	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, Hangzhou
+37	124	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	State Key Lab, Zhejiang Univ., China
+37	125	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+37	130	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, Hangzhou, China
+37	134	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang University, China
+37	142	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+37	143	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+37	144	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+37	145	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Zhejiang Univ., Hangzhou, China
+37	146	Dept. of Computer Science, Zhejiang University, Hangzhou, P.R. China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+38	68	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, China
+38	69	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, China
+38	70	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, China
+38	86	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, Hangzhou, China
+38	107	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+38	113	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, Hangzhou
+38	118	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, Hangzhou
+38	124	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	State Key Lab, Zhejiang Univ., China
+38	130	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, Hangzhou, China
+38	134	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang University, China
+38	142	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+38	143	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+38	144	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+38	145	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Zhejiang Univ., Hangzhou, China
+38	146	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+38	148	College of Computer Science, Zhejiang University, Hangzhou, 310027, P.R. China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+43	111	Hong Kong Polytech. Univ., Kowloon	Dept. of Electron. & Inf. Eng., Hong Kong Polytech. Univ., China
+43	112	Hong Kong Polytech. Univ., Kowloon	Dept. of Electron. & Inf. Eng., Hong Kong Polytech. Univ., Kowloon
+44	98	IBM China Res. Lab., Beijing	Inst. of autom., Chinese Acad. of Sci., Beijing, China
+44	129	IBM China Res. Lab., Beijing	Lab. of Simulation of Space Inf., Chinese Acad. of Sci., Beijing, China
+47	82	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+47	83	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+47	96	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+47	97	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+47	116	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+47	123	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+51	58	Inst. of Microelectron., Tsinghua Univ., Beijing	Dept. of Comput. Sci., Tsinghua Univ., Beijing
+51	110	Inst. of Microelectron., Tsinghua Univ., Beijing	Inst. of Microelectron., Tsinghua Univ., Beijing
+51	131	Inst. of Microelectron., Tsinghua Univ., Beijing	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China
+51	138	Inst. of Microelectron., Tsinghua Univ., Beijing	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China
+51	147	Inst. of Microelectron., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+51	155	Inst. of Microelectron., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+51	167	Inst. of Microelectron., Tsinghua Univ., Beijing	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+58	110	Dept. of Comput. Sci., Tsinghua Univ., Beijing	Inst. of Microelectron., Tsinghua Univ., Beijing
+58	131	Dept. of Comput. Sci., Tsinghua Univ., Beijing	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China
+58	138	Dept. of Comput. Sci., Tsinghua Univ., Beijing	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China
+58	147	Dept. of Comput. Sci., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+58	155	Dept. of Comput. Sci., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+58	167	Dept. of Comput. Sci., Tsinghua Univ., Beijing	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+63	64	Boston University, Boston, MA	Boston University
+63	65	Boston University, Boston, MA	Boston University, Boston, MA
+63	109	Boston University, Boston, MA	Computer Science Department, Boston University, Boston, MA 02215, USA. E-mail: gangchen5@aol.com
+64	65	Boston University	Boston University, Boston, MA
+64	109	Boston University	Computer Science Department, Boston University, Boston, MA 02215, USA. E-mail: gangchen5@aol.com
+65	109	Boston University, Boston, MA	Computer Science Department, Boston University, Boston, MA 02215, USA. E-mail: gangchen5@aol.com
+66	101	Huazhong University of Science and Technology, Wuhan, China	Cancer Biology Research Center, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, 1095 Jiefang Ave., Wuhan, Hubei, 430030, PR China
+66	171	Huazhong University of Science and Technology, Wuhan, China	Huazhong University of Science and Technology, China
+68	69	Zhejiang University, China	Zhejiang University, China
+68	70	Zhejiang University, China	Zhejiang University, China
+68	86	Zhejiang University, China	Zhejiang University, Hangzhou, China
+68	107	Zhejiang University, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+68	113	Zhejiang University, China	Zhejiang University, Hangzhou
+68	118	Zhejiang University, China	Zhejiang University, Hangzhou
+68	124	Zhejiang University, China	State Key Lab, Zhejiang Univ., China
+68	125	Zhejiang University, China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+68	130	Zhejiang University, China	Zhejiang University, Hangzhou, China
+68	134	Zhejiang University, China	Zhejiang University, China
+68	142	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+68	143	Zhejiang University, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+68	144	Zhejiang University, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+68	145	Zhejiang University, China	Zhejiang Univ., Hangzhou, China
+68	146	Zhejiang University, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+68	148	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+68	149	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+68	157	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+69	70	Zhejiang University, China	Zhejiang University, China
+69	86	Zhejiang University, China	Zhejiang University, Hangzhou, China
+69	107	Zhejiang University, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+69	113	Zhejiang University, China	Zhejiang University, Hangzhou
+69	118	Zhejiang University, China	Zhejiang University, Hangzhou
+69	124	Zhejiang University, China	State Key Lab, Zhejiang Univ., China
+69	125	Zhejiang University, China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+69	130	Zhejiang University, China	Zhejiang University, Hangzhou, China
+69	134	Zhejiang University, China	Zhejiang University, China
+69	142	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+69	143	Zhejiang University, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+69	144	Zhejiang University, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+69	145	Zhejiang University, China	Zhejiang Univ., Hangzhou, China
+69	146	Zhejiang University, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+69	148	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+69	149	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+69	157	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+70	86	Zhejiang University, China	Zhejiang University, Hangzhou, China
+70	107	Zhejiang University, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+70	113	Zhejiang University, China	Zhejiang University, Hangzhou
+70	118	Zhejiang University, China	Zhejiang University, Hangzhou
+70	124	Zhejiang University, China	State Key Lab, Zhejiang Univ., China
+70	125	Zhejiang University, China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+70	130	Zhejiang University, China	Zhejiang University, Hangzhou, China
+70	134	Zhejiang University, China	Zhejiang University, China
+70	142	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+70	143	Zhejiang University, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+70	144	Zhejiang University, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+70	145	Zhejiang University, China	Zhejiang Univ., Hangzhou, China
+70	146	Zhejiang University, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+70	148	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+70	149	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+70	157	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+72	168	University of Iowa	University of Iowa
+82	83	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+82	96	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+82	97	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+82	116	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+82	123	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+83	96	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+83	97	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+83	116	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+83	123	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+86	107	Zhejiang University, Hangzhou, China	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China
+86	113	Zhejiang University, Hangzhou, China	Zhejiang University, Hangzhou
+86	118	Zhejiang University, Hangzhou, China	Zhejiang University, Hangzhou
+86	124	Zhejiang University, Hangzhou, China	State Key Lab, Zhejiang Univ., China
+86	125	Zhejiang University, Hangzhou, China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+86	130	Zhejiang University, Hangzhou, China	Zhejiang University, Hangzhou, China
+86	134	Zhejiang University, Hangzhou, China	Zhejiang University, China
+86	142	Zhejiang University, Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+86	143	Zhejiang University, Hangzhou, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+86	144	Zhejiang University, Hangzhou, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+86	145	Zhejiang University, Hangzhou, China	Zhejiang Univ., Hangzhou, China
+86	146	Zhejiang University, Hangzhou, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+86	148	Zhejiang University, Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+86	149	Zhejiang University, Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+86	157	Zhejiang University, Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+90	99	Nanyang Technological University, Singapore	Information Communication Institute of Singapore, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798
+90	117	Nanyang Technological University, Singapore	Nanyang Technological University, Singapore
+90	140	Nanyang Technological University, Singapore	School of MAE, Nanyang Technological University, Singapore 639798, Singapore
+90	161	Nanyang Technological University, Singapore	School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
+96	97	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+96	116	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+96	123	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+97	116	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Nanyang Technol. Univ., Singapore
+97	123	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+98	129	Inst. of autom., Chinese Acad. of Sci., Beijing, China	Lab. of Simulation of Space Inf., Chinese Acad. of Sci., Beijing, China
+99	117	Information Communication Institute of Singapore, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798	Nanyang Technological University, Singapore
+99	140	Information Communication Institute of Singapore, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798	School of MAE, Nanyang Technological University, Singapore 639798, Singapore
+99	161	Information Communication Institute of Singapore, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798	School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
+101	171	Cancer Biology Research Center, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, 1095 Jiefang Ave., Wuhan, Hubei, 430030, PR China	Huazhong University of Science and Technology, China
+107	113	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Zhejiang University, Hangzhou
+107	118	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Zhejiang University, Hangzhou
+107	124	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	State Key Lab, Zhejiang Univ., China
+107	130	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Zhejiang University, Hangzhou, China
+107	134	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Zhejiang University, China
+107	142	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+107	143	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+107	144	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+107	145	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Zhejiang Univ., Hangzhou, China
+107	146	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+107	148	College of Computer Science, Zhejiang University, Yuquan Campus, Hangzhou 310027, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+110	131	Inst. of Microelectron., Tsinghua Univ., Beijing	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China
+110	138	Inst. of Microelectron., Tsinghua Univ., Beijing	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China
+110	147	Inst. of Microelectron., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+110	155	Inst. of Microelectron., Tsinghua Univ., Beijing	Dept. of Autom., Tsinghua Univ., Beijing, China
+110	167	Inst. of Microelectron., Tsinghua Univ., Beijing	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+111	112	Dept. of Electron. & Inf. Eng., Hong Kong Polytech. Univ., China	Dept. of Electron. & Inf. Eng., Hong Kong Polytech. Univ., Kowloon
+113	118	Zhejiang University, Hangzhou	Zhejiang University, Hangzhou
+113	124	Zhejiang University, Hangzhou	State Key Lab, Zhejiang Univ., China
+113	125	Zhejiang University, Hangzhou	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+113	130	Zhejiang University, Hangzhou	Zhejiang University, Hangzhou, China
+113	134	Zhejiang University, Hangzhou	Zhejiang University, China
+113	142	Zhejiang University, Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+113	143	Zhejiang University, Hangzhou	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+113	144	Zhejiang University, Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+113	145	Zhejiang University, Hangzhou	Zhejiang Univ., Hangzhou, China
+113	146	Zhejiang University, Hangzhou	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+113	148	Zhejiang University, Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+113	149	Zhejiang University, Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+113	157	Zhejiang University, Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+116	123	Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+117	140	Nanyang Technological University, Singapore	School of MAE, Nanyang Technological University, Singapore 639798, Singapore
+117	161	Nanyang Technological University, Singapore	School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
+118	124	Zhejiang University, Hangzhou	State Key Lab, Zhejiang Univ., China
+118	125	Zhejiang University, Hangzhou	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+118	130	Zhejiang University, Hangzhou	Zhejiang University, Hangzhou, China
+118	134	Zhejiang University, Hangzhou	Zhejiang University, China
+118	142	Zhejiang University, Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+118	143	Zhejiang University, Hangzhou	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+118	144	Zhejiang University, Hangzhou	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+118	145	Zhejiang University, Hangzhou	Zhejiang Univ., Hangzhou, China
+118	146	Zhejiang University, Hangzhou	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+118	148	Zhejiang University, Hangzhou	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+118	149	Zhejiang University, Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+118	157	Zhejiang University, Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+124	125	State Key Lab, Zhejiang Univ., China	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China
+124	130	State Key Lab, Zhejiang Univ., China	Zhejiang University, Hangzhou, China
+124	134	State Key Lab, Zhejiang Univ., China	Zhejiang University, China
+124	142	State Key Lab, Zhejiang Univ., China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+124	143	State Key Lab, Zhejiang Univ., China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+124	144	State Key Lab, Zhejiang Univ., China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+124	145	State Key Lab, Zhejiang Univ., China	Zhejiang Univ., Hangzhou, China
+124	146	State Key Lab, Zhejiang Univ., China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+125	130	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China	Zhejiang University, Hangzhou, China
+125	134	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China	Zhejiang University, China
+125	143	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+125	145	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China	Zhejiang Univ., Hangzhou, China
+125	146	Dept. of Comput. Sci. & Eng., Zhejiang Univ., China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+130	134	Zhejiang University, Hangzhou, China	Zhejiang University, China
+130	142	Zhejiang University, Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+130	143	Zhejiang University, Hangzhou, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+130	144	Zhejiang University, Hangzhou, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+130	145	Zhejiang University, Hangzhou, China	Zhejiang Univ., Hangzhou, China
+130	146	Zhejiang University, Hangzhou, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+130	148	Zhejiang University, Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+130	149	Zhejiang University, Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+130	157	Zhejiang University, Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+131	138	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China
+131	147	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+131	155	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+131	167	Key Lab. for ISS of MOE, Tsinghua Univ., Beijing, China	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+132	133	School of Computer Science, Fudan University, Shanghai, China	School of Computer Science, Fudan University, Shanghai 200433, China
+132	151	School of Computer Science, Fudan University, Shanghai, China	Sch. of Comput. Sci., Fudan Univ., Shanghai, China
+133	151	School of Computer Science, Fudan University, Shanghai 200433, China	Sch. of Comput. Sci., Fudan Univ., Shanghai, China
+134	142	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+134	143	Zhejiang University, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+134	144	Zhejiang University, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+134	145	Zhejiang University, China	Zhejiang Univ., Hangzhou, China
+134	146	Zhejiang University, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+134	148	Zhejiang University, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+134	149	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+134	157	Zhejiang University, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+137	152	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China
+137	156	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China
+137	160	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Institute of DSP and Software Techniques, Ningbo University, China
+137	169	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Ningbo University
+138	147	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+138	155	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+138	167	State Key Laboratory of Intelligent Technology and Systems, Tsinghua National Laboratory for Information Science and Technology (TNList), Department of Automation, Tsinghua University, Beijing 100084, China	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+140	161	School of MAE, Nanyang Technological University, Singapore 639798, Singapore	School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore
+142	143	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China
+142	144	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+142	145	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Zhejiang Univ., Hangzhou, China
+142	146	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+142	148	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+143	144	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+143	145	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Zhejiang Univ., Hangzhou, China
+143	146	Dept. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+144	145	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China	Zhejiang Univ., Hangzhou, China
+144	146	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+144	148	Coll. of Comput. Sci., Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+145	146	Zhejiang Univ., Hangzhou, China	Dept. of Comput. Sci., Zhejiang Univ., Hangzhou, China
+145	148	Zhejiang Univ., Hangzhou, China	Coll. of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+145	149	Zhejiang Univ., Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+145	157	Zhejiang Univ., Hangzhou, China	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+147	155	Dept. of Autom., Tsinghua Univ., Beijing, China	Dept. of Autom., Tsinghua Univ., Beijing, China
+147	167	Dept. of Autom., Tsinghua Univ., Beijing, China	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+149	157	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou	Colleage of Comput. Sci. & Technol., Zhejiang Univ., Hangzhou
+152	156	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China
+152	160	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Institute of DSP and Software Techniques, Ningbo University, China
+152	169	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Ningbo University
+154	164	Dept. of Instrum. Sci. & Eng., Southeast Univ., Nanjing, China	Southeast University, Nanjing, China
+155	167	Dept. of Autom., Tsinghua Univ., Beijing, China	Dept. of Computer Science, Tsinghua University, Beijing 100084, China
+156	160	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Institute of DSP and Software Techniques, Ningbo University, China
+156	169	Coll. of Inf. Sci. & Eng., Ningbo Univ., Ningbo, China	Ningbo University
+158	159	Commun. Acad. Wuhan, Wuhan	Commun. Acad. Wuhan, Wuhan
+160	169	Institute of DSP and Software Techniques, Ningbo University, China	Ningbo University

@@ -1,0 +1,728 @@
+0	Jiong Yang, Wei Wang
+1	Roberto Battiti, Wei Wang
+2	Bing Liu, Xiaoming Yang, Bai Le Shi, Genxing Yang, Yan Heping, Wei Wang
+3	Hao Chen, Shi Ying, Jin Liu, Wei Wang
+4	Bing Liu, Bai Le Shi, Yong-Sheng Xue, Hao-Feng Zhou, Wei Wang, Jiangjiao Duan
+5	Bai Le Shi, Genxing Yang, Jin Pan, Wei Wang, Peng Wang
+6	Bai Le Shi, Jian-Jun Xu, Zijing Tan, Wei Wang
+7	Bai Le Shi, Zheng-Fei Wang, Wei Wang
+8	Bing Liu, Wang Zhibin, Xiaoming Yang, Shouzhi Zhang, Bole Shi, Wei Wang
+9	Xiao-Dan Wang, Chunying Zheng, Chong-Ming Wu, Wei Wang
+10	Guanghua Song, Yao Zheng, Wei Wang
+11	Guanghua Song, Guiyi Wei, Cuiju Luan, Chaoyan Zhu, Yao Zheng, Wei Wang
+12	Changrui Ren, Jin Dong, Lijie Wen, Minmin Qiu, Wei Wang, Hongwei Ding
+13	Changrui Ren, Jin Dong, Minmin Qiu, Wei Wang, Hongwei Ding
+14	Jin Dong, Wei Wang, Hongwei Ding, Jie Yang
+15	Ronald Chung, Wei Wang
+16	Kevin Knight, Jonathan Graehl, Steve DeNeefe, Michel Galley, Daniel Marcu, Wei Wang, Ignacio Thayer
+17	Thomas E. Daniels, Wei Wang
+18	Jeffrey Xu Yu, Hong-Jun Lu, Haifeng Jiang, Wei Wang
+19	Zhenhua Huang, Wei Wang
+20	Diep Bich Do, Wei Wang, Xuemin Lin
+21	Jack Y. B. Lee, L. S. Lam, Soung Chang Liew, Wei Wang
+22	Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+23	Bai Le Shi, Zijing Tan, Wei Wang
+24	Jin-Cheon Na, Wei Wang, Christopher S. G. Khoo
+25	Bai Le Shi, Ding X. Zhou, Baokang Ding, Cheng Zunping, Jiankui Guo, Wei Wang, Chen Wang
+26	Bin-Xing Fang, Wei Wang
+27	Jian-Zhong Li, Hong Zhi Wang, Wei Wang, Xuemin Lin
+28	Bai Le Shi, Wei Wang, Yongtai Zhu, Chen Wang, Tianyi Wu
+29	Bai Le Shi, Hao-Feng Zhou, Wei Wang, Yong Yan, Chen Wang, Peng Wang
+30	Youcong Ni, Wei Wang
+31	Shunying Lu, Yan Zhang III, Wei Wang
+32	Guosun Zeng, Huanan Gu, Quan Zhang, Wei Wang, Mingjun Sun
+33	Jian-Zhong Li, Reymond Wong, Hong Zhi Wang, Wei Wang, Xuemin Lin
+34	Guosun Zeng, Lulai Yuan, Wei Wang
+35	Ying-hua Lu, Gang Hou, Jun Kong, Wei Wang, Jialing Han
+36	Baochang Zhang, Shiguang Shan, Wen Gao, Wei Wang
+37	Jiong Yang, Philip Shi-Lung Yu, Haixun Wang, Wei Wang
+38	Mehul Motani, Vikram Srinivasan, Wei Wang
+39	Hu Cao, Shi Zhongzhi, Wei Wang
+40	Qing Xu, Pan Zhigeng, Mateu Sbert, Wei Wang, Lianping Xing
+41	Jiawei Han, Wei Wang, Jian Pei
+42	Wei Wang, Xiang Zhang
+43	Wei Wang, Qi Zhang
+44	Feng Frank Pan, Wei Wang, Xiang Zhang
+45	Bai Le Shi, Zheng-Fei Wang, Jing Dai, Wei Wang
+46	Hai H. Wang, Wei Wang, Ji Zhang
+47	Sang-Jae Moon, Jian-Feng Ma, Wei Wang
+48	Chu-Hong Hoi, Michael Rung-Tsong Lyu, Wei Wang
+49	Yuqing Song, Aidong Zhang, Wei Wang
+50	Ming Zhou, Chang-Ning Huang, Wei Wang, Jin-Xia Huang
+51	Shi-Hui Wang, Yan Zhang III, Wei Wang
+52	Xia Cui, Wei Wang, Ai Wang
+53	Jan F. Prins, Todd J. Vision, Jun (Luke) Huan, Wei Wang
+54	Jiong Yang, Jinze Liu, Wei Wang
+55	Jiong Yang, Jinze Liu, Wei Wang
+56	Jiong Yang, Wei Wang
+57	Jiong Yang, Philip Shi-Lung Yu, Yi Xia, Wei Wang
+58	Jiong Yang, Jiawei Han, Hwanjo Yu, Wei Wang
+59	Gregory F. Cooper, Wei Wang
+60	Hai-wei Sun, Wei Wang
+61	Qiang Wu, Wei Wang, Wei Xie
+62	Dong Jin-xiang, Lihua Yu, Gang Chen, Wei Wang
+63	Sylvain Gombault, Wei Wang
+64	Wei Wang
+65	Brian King Flachs, Si-Ning Liu, Wei Wang
+66	Haixun Wang, Wei Wang
+67	Xiao-yuan Wang, Wei Wang
+68	Bai Le Shi, Jian-Jun Xu, Jiaheng Lu, Wei Wang
+69	Wang Xiao-ling, Bo Zhang, Wei Wang, Aoying Zhou
+70	Bai Le Shi, Ding X. Zhou, Cheng Zunping, Hao-Feng Zhou, Wei Wang, Chen Wang
+71	Bai Le Shi, Zhi-Hui Wang, Wei Wang, Seng H. Boey
+72	Wentao Wu, Wei Wang, Zhenying He, Yanghua Xiao
+73	Bai Le Shi, Chengfei Liu, Zijing Tan, Wei Wang
+74	Ugo Matrangolo, Wei Wang, Alfredo Cuzzocrea
+75	Shouzhi Zhang, Bai Le Shi, Hao-Feng Zhou, Ming Hua, Wei Wang
+76	Chinya Venkataram Ravishankar, Wei Wang, Shanzhong Zhu
+77	Ryan H. Choi, Wei Wang, Raymond K. Wong
+78	Zhenhua Huang, Wei Wang
+79	Thomas E. Daniels, Wei Wang
+80	Kimberly Flair, Hye-Chung (Monica) Kum, Dean Duncan, Wei Wang
+81	Kimberly Flair, Hye-Chung (Monica) Kum, Dean Duncan, Wei Wang
+82	Kimberly Flair, Hye-Chung (Monica) Kum, Dean Duncan, Wei Wang
+83	Kimberly Flair, Hye-Chung (Monica) Kum, Dean Duncan, Wei Wang
+84	Hye-Chung (Monica) Kum, Dean Duncan, Wei Wang
+85	Daoying Ma, David M. Mark, Aidong Zhang, Yimin Wu, Wei Wang
+86	Aidong Zhang, Yimin Wu, Wei Wang
+87	David M. Mark, Aidong Zhang, Wei Wang
+88	Sheng Zhang, Wei Wang, Ji Zhang
+89	Zhi-Hua Zhou, Wei Wang
+90	Thu Duc Nguyen, Christopher Peery, Amelie Marian, Wei Wang
+91	Wentao Wu, Wei Wang, Jian Pei, Zhenying He, Yanghua Xiao
+92	Chunhong Zhang, Jinan Li, Wei Wang, Shaochun Zhong, Yongjiang Zhong
+93	Bai Le Shi, Dong Huang, Jun Tang, Wei Wang, Chen Wang
+94	M. David Yeager, Wei Wang
+95	Xiao-Yun Wang, Hongbo Yu, Wei Wang, Haina Zhang, Tao Zhan
+96	Wei Wei Goh, Dong Liu, Qigang Wang, Wei Wang
+97	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+98	Guangli Tian, Wan-Dong Cai, Li Yongjun, Wei Wang
+99	Rene Quiniou, Marie-Odile Cordier, Florent Masseglia, Thomas Guyet, Wei Wang
+100	Rene Quiniou, Marie-Odile Cordier, Thomas Guyet, Wei Wang
+101	Jeffrey Xu Yu, Xiangye Xiao, Hong-Jun Lu, Guimei Liu, Wei Wang
+102	Jiong Yang, Richard Robert Muntz, Wei Wang
+103	Dongyao Ji, Wei Wang
+104	Shengzhong Yuan, Hong He, Wei Wang
+105	Xia Cui, Chun-Heng Wang, Wei Wang, Ai Wang
+106	Xia Cui, Chun-Heng Wang, Wei Wang, Ai Wang
+107	Chang-Le Zhou, Wei Wang, Kunhui Lin
+108	Zhongmin Xiong, Dong-mei Huang, Wei Wang
+109	Kishor Shridharbhai Trivedi, Joseph A. Profeta III, Wei Wang, Babubhai V. Shah
+110	Shi Zhongzhi, Jiewen Luo, Wei Wang, Maoguang Wang
+111	Hongli Zhang, Bin-Xing Fang, Wei Wang, Yuanzhe Yao
+112	Dilin Mao, Min (Leon) Li, Chuanshan Gao, Cheng Zunping, Jing Dai, Wei Wang, Ning Shang, Min Yang, Mi Zhang
+113	Hongli Zhang, Bin-Xing Fang, Wei Wang, Yuanzhe Yao
+114	Hongli Zhang, Bin-Xing Fang, Wei Wang, Yuanzhe Yao
+115	Yujin Wu, Ning Gu, Shaohua Zhang, Wei Wang
+116	Wei-Zheng Yuan, Lei Zhang, Wei Wang
+117	Guosun Zeng, Lulai Yuan, Wei Wang
+118	Guosun Zeng, Lulai Yuan, Wei Wang
+119	Jürgen Branke, Jurgen Branke, Wei Wang
+120	Erik D. Goodman, Jiachuan Wang, Zhun Fan, Ali Gurcan Ozkil, Torben Sorensen, Wei Wang, Sofiane Achiche
+121	Ying Yang II, Zine-Eddine Abid, Wei Wang
+122	Qing Xu, Mateu Sbert, Wei Wang, Lianping Xing
+123	Sun Zhengxing, Jing Michelle Liu, Wei Wang, Lisha Zhang
+124	Wei Wang, Kim Leng Poh
+125	Tao Liu, Guosun Zeng, Wei Wang
+126	Yonghong Yan, Ping Lv, Qingwei Zhao, Wei Wang
+127	Shoushui Chen, Xin Yang, Wei Wang
+128	Bin Fu, Wei Wang
+129	Jian Wei Li, Xuchu Wang, Wei-min Chen, Yanmin Niu, Wei Wang
+130	Samy A. Mahmoud, Mohamed Ahmed, Wei Wang
+131	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+132	Sang-Jae Moon, Jian-Feng Ma, Wei Wang
+133	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+134	Guangming Wang, Guiyi Wei, Yao Zheng, Wei Wang
+135	Shunying Lu, Yan Zhang III, Wei Wang
+136	Deming Chen, Wei Wang, Sansiri Tanachutiwat, Chen Dong
+137	Bin Du, Danny H. K. Tsang, Jun Gu, Wei Wang
+138	Kihong Park, Wei Wang
+139	Yu Zhang, Wei Wang, Chen Wang, Sujian Li
+140	Wei Wang, Chen Wang, Sujian Li
+141	Shaowei Xia, Hui Su, Li Xinyou, Wei Wang
+142	Jiong Yang, Richard Robert Muntz, Silvia Nittel, Wei Wang
+143	Hong-Jun Lu, Beng Chin Ooi, Haifeng Jiang, Wei Wang
+144	Jeffrey Xu Yu, Hong-Jun Lu, Haifeng Jiang, Wei Wang
+145	Yidong Yuan, Hong-Jun Lu, Wei Wang, Xuemin Lin
+146	Weiyi Meng, Clement Tak Yu, Naphtali Rishe, Wei Wang
+147	Jeffrey Xu Yu, Hong-Jun Lu, Haifeng Jiang, Wei Wang
+148	Jeffrey Xu Yu, Hong-Jun Lu, Wei Wang, Jianlin Feng
+149	Jiong Yang, Wei Wang
+150	Jiong Yang, Richard Robert Muntz, Wei Wang
+151	Jiong Yang, Richard Robert Muntz, Wei Wang
+152	Xin Xu, Ying Lu, Wei Wang, Anthony K. H. Tung
+153	Ying Jun (Angela) Zhang, Flip Korn, Wei Wang, Jian Xu, Xuemin Lin
+154	Jiong Yang, Wei Wang
+155	Jiong Yang, Philip Shi-Lung Yu, Haixun Wang, Wei Wang
+156	Feng Frank Pan, Leonard McMillan, Wei Wang
+157	Bai Le Shi, Zhi-Hui Wang, Wei Wang
+158	Hongtao Xu, Xiang-Dong Zhou, Bai Le Shi, Guoyu Hao, Mei Wang, Wei Wang, Qi Zhang
+159	David W. Williams, Jun (Luke) Huan, Wei Wang
+160	Jinze Liu, Wei Wang, Qi Zhang
+161	Jinze Liu, Wei Wang, Mengsheng Zhang
+162	Thu Duc Nguyen, Christopher Peery, Amelie Marian, Wei Wang
+163	Yi Luo, Wei Wang, Xuemin Lin
+164	Feng Frank Pan, Wei Wang, Xiang Zhang
+165	Feng Frank Pan, Wei Wang, Xiang Zhang
+166	Jeffrey Xu Yu, Ying Jun (Angela) Zhang, Wenjie Zhang, Wei Wang, Xuemin Lin
+167	Chuan Xiao, Haichuan Shang, Wei Wang, Xuemin Lin
+168	Jan F. Prins, Jun (Luke) Huan, Wei Wang
+169	Jiong Yang, Feng Frank Pan, Wei Wang, Anthony K. H. Tung
+170	Jan F. Prins, Susan Paulsen, Andrew B. Nobel, Jinze Liu, Wei Wang
+171	Karl Strohmaier, Jinze Liu, Wei Wang
+172	Jinze Liu, Wei Wang
+173	Bai Le Shi, Xiaochen Wu, Haixun Wang, Wei Wang, Peng Wang
+174	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+175	Jiong Yang, Wei Wang
+176	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+177	Hao-Feng Zhou, Jun Li, Wei Wang
+178	Philip Shi-Lung Yu, Bai Le Shi, Haixun Wang, Wei Wang, Peng Wang
+179	Bai Le Shi, Zhi-Hui Wang, Wei Wang, Seng H. Boey
+180	Jinze Liu, Wei Wang, Qi Zhang
+181	Adam C. Roberts, Feng Frank Pan, Leonard McMillan, Wei Wang, David Threadgill
+182	Feng Frank Pan, Leonard McMillan, Fernando Pardo-Manuel de Villena, Wei Wang, Lynda Yang, David Threadgill
+183	Ze-fei Li, Wei Wang, Qiang Zhang, Wei Mei
+184	Wenbo Zhang, Lei Zhang, Tao Huang, Wei Wang
+185	Zheng-you Wang, Jiatao Song, Zheru Chi, Wei Wang
+186	Qing H. Liu, Qiuyong Zhou, Wei Wang, Lanfeng Yan, Janjun Ma
+187	Xuena Qiu, Beijing Chen, Jiatao Song, Zheru Chi, Wei Wang
+188	Changhong Wang, Wei Wang, X. Gao
+189	Rebecka Jornsten, Bin Yu, Kannan Ramchandran, Wei Wang
+190	Ronald Chung, Wei Wang
+191	Toshinori Yoshikawa, Xi Zhang, Wei Wang, Yoshinori Takei
+192	Bin Zou, Shuang Zhou, Wei Wang, Yigang Zhou
+193	Kihong Park, Wei Wang
+194	Ji-lin Liu, Jiatao Song, Zheru Chi, Wei Wang
+195	Xiang-Dong Zhou, Bai Le Shi, Junqi Zhang, Mei Wang, Wei Wang, Jin Yuan, Qi Zhang
+196	Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+197	Bao-Cai Yin, Shiguang Shan, Bo Cao, Wen Gao, Wei Wang
+198	Zhi-Hua Zhou, Wei Wang
+199	Jian Wei Li, Wei-min Chen, Wei Wang
+200	Hung-Tat Tsui, Wei Wang
+201	Xia Cui, Chun-Heng Wang, Wei Wang, Ai Wang
+202	Longshe Huo, Qingming Huang, Wen Gao, Wei Wang, Yizhou Wang
+203	Wai Lam, Tak-Lam Wong, Wei Wang
+204	Chinya Venkataram Ravishankar, Wei Wang
+205	Wilfred Ng, Bai Le Shi, Hao-Feng Zhou, Wei Wang, Qing-Qing Yuan, Yubo Lou
+206	Jiaru Lin, Ling Wang, Elena Costa, Wei Wang, Wei Qiu, Zhiqiang He
+207	Prahlad Vadakkepat, Low Wai Yee, Wei Wang, Jian-Xin Xu
+208	Bai Le Shi, Zijing Tan, Wei Wang
+209	Yahui Feng, Bai Le Shi, Weiwei Sun, Xufeng Zhang, Wei Wang
+210	Lejun Zhang, Yang Yongtian, Lin Guo, Wu Yang, Wei Wang
+211	Wang Zhenyuan, Wei Wang
+212	Kannan Ramchandran, Minos N. Garofalakis, Wei Wang
+213	Kannan Ramchandran, Wei Wang
+214	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+215	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+216	Gustavo K. Rohde, Robert F. Murphy, Wei Wang, Tao Peng
+217	John C. Rasmussen, Eva M. Sevick-Muraca, Amit M. Joshi, Wolfgang Bangerth, Wei Wang, Ruchi Sharma
+218	Hanif M. Ladak, Daniel Dai, Yehea I. Ismail, Wei Wang
+219	M. Omair Ahmad, M. N. S. Swamy, Wei Wang
+220	I-Chyn Wey, Wei Wang, Chia-Tsun Wu, An-Yeu Wu
+221	Yonghong Yang, Zine-Eddine Abid, Chih-Yuan Yang, Z. Zhang, Wei Wang
+222	Konrad Walus, Wei Wang, Rumi Zhang, Graham A. Jullien
+223	Malgorzata Chrzanowska-Jeske, Wei Wang
+224	M. Omair Ahmad, M. N. S. Swamy, Yuke Wang, Wei Wang
+225	Shaoqiang Bi, Asim J. Al-Khalili, Wei Wang
+226	M. Omair Ahmad, M. N. S. Swamy, Wei Wang
+227	Ming L. Liu, Dayong Li, Wei Wang
+228	Anestis Dounavis, Wei Wang, Rumi Zhang, Graham A. Jullien
+229	I-Chyn Wey, Wei Wang, Chia-Tsun Wu, An-Yeu Wu
+230	Brian King Flachs, Fred Bowen, Si-Ning Liu, Wei Wang
+231	Qishan Zhang, S. Haruehanroengra, Zhi Huo, Wei Wang
+232	I-Chyn Wey, Wei Wang, Chia-Tsun Wu, An-Yeu Wu
+233	S. Haruehanroengra, Wei Wang, Chen Dong
+234	Yaobin Chen, B. M. Handjojo, Wei Wang, Shahab Salehi
+235	Ming L. Liu, Wei Wang, Sansiri Tanachutiwat, Liwei Shang
+236	Zine Abid, Wei Wang
+237	Qixiang Pang, Soung Chang Liew, Victor O. K. Li, Wei Wang
+238	Yan-Jun Liu, Wei Wang, Yisha Liu
+239	Ivan Rusyn, Adam C. Roberts, Joel S. Parker, Leonard McMillan, Wei Wang, David Threadgill
+240	Bao-Cai Yin, Shiguang Shan, De-Bin Zhao, Wen Gao, Wei Wang
+241	Shuyan Chen, Wei Wang
+242	Zhiwei Shi, Min Kyu Han, Wei Wang
+243	Wei Wang, Yun-Feng Kang, Xiao-Li Li
+244	Liu Yue, Tian-Yu Liu, Gengfeng Wu, Wei Wang, Guo-Zheng Li
+245	Yan-Jun Liu, Wei Wang
+246	Jing Su, Zheng Zhong Bian, Wei Wang, Lanfeng Yan
+247	Xiao-Hong Guan, Wei Wang, Xiangliang Zhang
+248	Baowei Liu, Heng Zhang, Wei Wang, Lanfeng Yan
+249	Yan Zhuang, Wei Wang, Ke Wang
+250	Hongxing Wei, Tianmiao Wang, Hongming Zhao, Wei Wang
+251	Jun Wei, Bin Zeng, Wei Wang, Pu Wang
+252	Ronald Chung, Wei Wang
+253	Ronald Chung, Wei Wang
+254	Jian Wei Li, Xuchu Wang, Wei-min Chen, Yanmin Niu, Wei Wang
+255	M. N. S. Swamy, Shaoqiang Bi, Asim J. Al-Khalili, Warren J. Gross, Wei Wang
+256	M. Omair Ahmad, M. N. S. Swamy, Wei Wang
+257	Qiang Wu, Wei Wang, Wei Xie
+258	Amynmohamed Rajan, Krzysztof Koperski, Yongjian Fu, Deyi Li, Wan Gong, Yijun Lu, Osmar R. Zaiane, Jiawei Han, Betty Xia, Nebojsa Stefanovic, Wei Wang, Jenny Chiang
+259	Jan F. Prins, Jiong Yang, Jun (Luke) Huan, Wei Wang
+260	Jiong Yang, Jinze Liu, Wei Wang
+261	Jan F. Prins, Leonard McMillan, Jinze Liu, Wei Wang, Qi Zhang
+262	Bai Le Shi, Wei Wang, Yongtai Zhu, Chen Wang, Jian Pei
+263	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+264	Xiao-yuan Wang, Ada Wai-Chee Fu, Bai Le Shi, Wei Wang, Jian Xu, Jian Pei
+265	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+266	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+267	Fei Zou, Wei Wang, Xiang Zhang
+268	Bai Le Shi, Jian-Jun Xu, Zijing Tan, Wei Wang
+269	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+270	Puttipong Mahasukhon, Ting Zhou, Hamid Sharif, Wei Wang, Michael Hempel
+271	Xiao-yuan Wang, Bai Le Shi, Qing Zhang, Weiwei Sun, Wei Wang
+272	Y.-K. Wang, Ke Li, Bin Yan, Yanhui Yang, Qiao-Tzu Chen, Kuncheng Li, Jing Hao, Wei Wang, Xiaolin Zhou, Baoci Shan, Dexuan Zhang
+273	Junsong Yuan, Ying Choon Wu, Jingjing Meng, Wei Wang, Dongge Li
+274	Kee Chaing Chua, Vikram Srinivasan, Wei Wang
+275	Mehul Motani, Vikram Srinivasan, Wei Wang
+276	Kee Chaing Chua, Vikram Srinivasan, Wei Wang
+277	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+278	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+279	Sang-Jae Moon, Jian-Feng Ma, Wei Wang
+280	Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+281	Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+282	Kevin Knight, Daniel Marcu, Wei Wang
+283	Guangli Tian, Wan-Dong Cai, Li Yongjun, Wei Wang
+284	Ming Zhou, Chang-Ning Huang, Wei Wang, Jin-Xia Huang
+285	Chen Qing-Kui, Wei Wang
+286	Thomas E. Daniels, Wei Wang
+287	Guosun Zeng, Lulai Yuan, Wei Wang, Mingjun Sun
+288	Xiao-Rong Li, Bai Le Shi, Weiping Ge, Wei Wang
+289	Ming-Sheng Hong, Bai Le Shi, Hao-Feng Zhou, Wei Wang
+290	Jiawei Han, Wen Jin, Wei Wang, Anthony K. H. Tung
+291	Jeffrey Xu Yu, Hong-Jun Lu, Zheng Liu, Wei Wang, Xuemin Lin
+292	Bai Le Shi, Wei Wang, Jian Xu, Chen Wang, Tianyi Wu
+293	Ming-Sheng Hong, Bai Le Shi, Hao-Feng Zhou, Wei Wang, Chen Wang, Jian Pei
+294	Hye-Chung Kum, Wei Wang, Joong Hyuk Chang
+295	Bai Le Shi, Xiaochen Wu, Wei Wang, Peng Wang
+296	Hai Jin, Muzhou Xiong, Wei Wang, Song Wu
+297	Guosun Zeng, Huanan Gu, Quan Zhang, Wei Wang, Mingjun Sun
+298	Hongtao Xu, Xiang-Dong Zhou, Mei Wang, Wei Wang, Jin Yuan
+299	Hongli Zhang, Bin-Xing Fang, Wei Wang
+300	Jiong Yang, Richard Robert Muntz, Silvia Nittel, Wei Wang
+301	Guosun Zeng, Wei Wang
+302	Guosun Zeng, Lulai Yuan, Wei Wang
+303	Jun-Bo Wang, Wenzhao Li, Min Gao, Wei Wang
+304	Jan F. Prins, Alexander Tropsha, Jun (Luke) Huan, Anglina Washington, Wei Wang, Ruchir Shah
+305	Wenbo Zhang, Jun Wei, Tao Huang, Wei Wang
+306	Jan F. Prins, Jack S Snoeyink, Alexander Tropsha, Jun (Luke) Huan, Wei Wang, Deepak Bandyopadhyay
+307	Yuying Xie, Feng Frank Pan, Fei Zou, Wei Wang, Xiang Zhang
+308	Bing Liu, Xiaoming Yang, Bai Le Shi, Zhi-Hui Wang, Wei Wang
+309	Bing Liu, Bai Le Shi, Jian-Jun Xu, Zhi-Hui Wang, Wei Wang
+310	Mingzhou Lin, Suyu Mei, Liu Yue, Gengfeng Wu, Wei Wang
+311	Hye-Chung Kum, Dean Duncan, Wei Wang, Jian Pei
+312	Jan F. Prins, Xing Sun, Susan Paulsen, Andrew B. Nobel, Jinze Liu, Wei Wang
+313	Jiong Yang, Philip Shi-Lung Yu, Richard Robert Muntz, Yi Xia, Wei Wang
+314	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+315	Jan F. Prins, Leonard McMillan, Jinze Liu, Wei Wang, Qi Zhang
+316	Jun (Luke) Huan, Wei Wang, Xiang Zhang
+317	Wei Wang, Alfredo Cuzzocrea
+318	Wei Wang
+319	Jingdan Zhang, Leonard McMillan, Guodong Liu, Wei Wang
+320	Jiong Yang, Richard Robert Muntz, Wei Wang
+321	Naga K. Govindaraju, Dinesh Manocha, Brandon Lloyd, Ming Chieh Lin, Wei Wang
+322	Krzysztof Koperski, Yongjian Fu, Jaiwei Han, Osmar R. Zaiane, Jiawei Han, Youngjian Fu, Wei Wang, Osmar R. Zaïane, Jenny Chiang
+323	Hong-Jun Lu, Haifeng Jiang, Wei Wang
+324	Jingdan Zhang, Leonard McMillan, Guodong Liu, Wei Wang
+325	Jeffrey Xu Yu, Hong-Jun Lu, Haifeng Jiang, Wei Wang
+326	Jiong Yang, Philip Shi-Lung Yu, Haixun Wang, Wei Wang
+327	Xifeng Yan, Bai Le Shi, Jiawei Han, Wei Wang, Yongtai Zhu, Chen Wang, Jian Pei
+328	Jiong Yang, Philip Shi-Lung Yu, Jiawei Han, Wei Wang
+329	Xiao-Fang Zhou, Yi Luo, Wei Wang, Xuemin Lin
+330	Feng Frank Pan, Wei Wang, Xiang Zhang
+331	Yonghong Yang, Zine-Eddine Abid, Wei Wang
+332	Chen-Yang Yang, Xiaolin Zhang, M. Omair Ahmad, M. N. S. Swamy, Wei Wang
+333	Laurie Jane Hendren, Karel Driesen, Bruno Dufour, Rhodes Brown, Wei Wang, Qin Iris Wang, Clark Verbrugge
+334	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+335	Jack S Snoeyink, Jun (Luke) Huan, Wei Wang, Xueyi Wang
+336	Wei Wang, Qi Zhang
+337	Wang Zhibin, Wei Wang, Jian Xu, Jian Pei, Ke Wang
+338	Wei Wang, Xiang Zhang
+339	Hamid Sharif, Wei Wang, Jong-Hoon Youn
+340	Apostolos Gerasoulis, Konstantinos Kleisouris, Hyun-ju Seo, Song Wang, Junyu Tian, Yingfang Lu, Wei Wang, Brian Douglas Davison, Baohua Wu
+341	Joe Vasak, Wei Wang, Fei Song
+342	Yan L. He, Peter Pirsch, Qingdong Yao, Huimin Gong, Xun Mao, Lu Yu, Wei Wang, Jian Lou
+343	Yuqing Song, Aidong Zhang, Wei Wang
+344	Jeffrey Xu Yu, Hong-Jun Lu, Haifeng Jiang, Wei Wang
+345	Jeffrey Xu Yu, Hong-Jun Lu, Haifeng Jiang, Wei Wang
+346	Jian-Zhong Li, Hong-Jun Lu, Haifeng Jiang, Hong Zhi Wang, Wei Wang, Xuemin Lin
+347	Jiong Yang, Richard Robert Muntz, Wei Wang
+348	Xiang-Dong Zhou, Bai Le Shi, Junqi Zhang, Wei Wang, Jian Pei
+349	Jeffrey Xu Yu, Qing Zhang, Yidong Yuan, Qing H. Liu, Wei Wang, Xuemin Lin
+350	Jan F. Prins, Leonard McMillan, Fernando Pardo-Manuel de Villena, Wei Wang, Qi Zhang, David Threadgill
+351	Haifeng Jiang, Wei Wang, Wenwu Lou
+352	Bing Liu, Bai Le Shi, Yuliang Shi, Zhi-Hui Wang, Wei Wang
+353	Bing Liu, Jing-Tao Li, Bai Le Shi, Zhi-Hui Wang, Wei Wang
+354	Jeffrey Xu Yu, Zheng Liu, Yi Luo, Wei Wang, Xuemin Lin
+355	Bing Liu, Bai Le Shi, Hao-Feng Zhou, Zhi-Hui Wang, Wei Wang
+356	Xiao-yuan Wang, Weiwei Sun, Wei Wang
+357	Jian-Zhong Li, Hong Zhi Wang, Wei Wang, Xuemin Lin
+358	Xiao-yuan Wang, Bai Le Shi, Qing Zhang, Weiwei Sun, Wei Wang
+359	Bai Le Shi, Hao-Feng Zhou, Wei Wang, Qing-Qing Yuan, Yubo Lou
+360	Zhongmin Xiong, Wei Wang, Jian Pei
+361	Bai Le Shi, Zhi-Hui Wang, Wei Wang
+362	Hao-Feng Zhou, Zhenhua Huang, Chen Lin, Wei Wang
+363	Bai Le Shi, Zijing Tan, Wei Wang, Zijun Zhang
+364	Xiao-Feng Meng, Jinqing Zhu, Wei Wang
+365	Vassilios Tzerpos, Wei Wang
+366	Ken Moody, Andras Belokosztolszki, David M. Eyers, Wei Wang
+367	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+368	Yueting Chai, Yi Y. Liu, Wei Wang, Juqi Liu
+369	Changrui Ren, Jin Dong, Wei Wang, Hongwei Ding
+370	Changrui Ren, Jin Dong, Wei Wang, Hongwei Ding
+371	Changrui Ren, Jin Dong, Wei Wang, Hongwei Ding
+372	Jin Dong, Wen Jun Yin, Ming Xie, Wei Wang
+373	Changrui Ren, Jin Dong, Minmin Qiu, Wei Wang, Hongwei Ding
+374	Shubir Kapoor, Kaan Katircioglu, Jing Xu, Young Moo Lee, Daniel Connors, Wei Wang, Sugato Bagchi, Lianjun An
+375	Changrui Ren, Jin Dong, Feng Cheng, Young Moo Lee, Minmin Qiu, Wei Wang, Hongwei Ding
+376	Feng Cheng, Young Moo Lee, Wei Wang, Stuart Stephens, Hongwei Ding
+377	Changrui Ren, Bing Shao, Jin Dong, Qinhua Wang, Wei Wang, Hongwei Ding
+378	Xiao-Ming Xu, Zhi-Gang Wang, Wei Wang
+379	Sheng Zhang, Wei Wang, Han Liu, Ji Zhang
+380	Sheng Zhang, Wei Wang, Han Liu, Ji Zhang
+381	Jeffrey Xu Yu, Chuan Xiao, Wei Wang, Xuemin Lin
+382	Xin-Jing Wang, Jiang-Ming Yang, Lei Zhang, Chen Lin, Wei Wang, Rui Cai
+383	Rene Quiniou, Marie-Odile Cordier, Florent Masseglia, Thomas Guyet, Wei Wang
+384	Yinxing Hao, Jian-Qiang Yi, Wei Wang, Dongbin Zhao
+385	Jin Billy Li, Wencang Zhao, Wei Wang
+386	Jupeng Li, Jiangbo Yu, Chen Houjin, Wei Wang
+387	Jun-Bo Guo, Zhenmin Zhu, Jin-Tao Li, Hongzhou Shi, Wei Wang
+388	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+389	Wang Wenbo, Yilin Cui, Wei Wang, Tao Peng
+390	Tommy Svensson, Wei Wang, Tony Ottosson
+391	Chunlin Yan, Hidetoshi Kayama, Wei Wang, Zhan Zhang
+392	Puttipong Mahasukhon, Ting Zhou, Hamid Sharif, Wei Wang, Michael Hempel, Song Ci
+393	Puttipong Mahasukhon, Ting Zhou, Hamid Sharif, Wei Wang, Michael Hempel
+394	Boon-Hee Soong, Wei Wang
+395	Bo Tian, Zhi-fang Wang, Chen Yiyun, Wei Wang, Zhenming Wang
+396	Chunlin Yan, Hidetoshi Kayama, Wei Wang, Zhan Zhang
+397	Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+398	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+399	Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+400	Hsiao Hwa Chen, Yaoqing Yang, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+401	Wang Wenbo, Wei Wang, Qianxi Lu, Tao Peng
+402	Ke Li, Bin Yan, Jianyang Xu, Yanhui Yang, Kuncheng Li, Jing Hao, Wei Wang, Na Lu, Baoci Shan
+403	Xinsheng Yu, Shou-ning Qu, Bing Zhang, Wei Wang
+404	Guangli Tian, Wan-Dong Cai, Wei Wang
+405	Wei Wang, Joseph M. Hellerstein
+406	Baowei Liu, Ping Gao Pages, Yan-jun Shi, Yingxia Shen, Yuerong Wang, Wei Wang, Yang Liu
+407	Yuan-yuan Wang, Chao Yun, Wei Wang, Xuefeng Zhao
+408	Wenpeng Yu, Jianwei Zhang, Guanghua Zong, Wei Wang, Houxiang Zhang
+409	Jianwei Zhang, Guanghua Zong, Wei Wang, Houxiang Zhang, Zhicheng Deng
+410	Osamu Miyazawa, Gang Song, Kenzou Nonami, Mitsuo Hirata, Wei Wang
+411	Liang Liu, Guosun Zeng, Bo Yang, Peini Liu, Wei Wang, Hao Wang
+412	Dilip Krishnaswamy, Wei Wang, Xin Liu
+413	Zong-yu Liu, Wei Wang
+414	Wei Wang, Jin Biao Wang
+415	Haibo Xv, Li Xiaoling, Wei Wang
+416	Li-bin Zhang, Wei Wang
+417	Jinghuai Gao, Kang Li, Wei Wang
+418	Zhenguo Ding, Jian-Feng Ma, FengHua Li, Wei Wang
+419	Minsheng Zhang, Tian Chen, Huaguo Liang, Wei Wang
+420	Bo Tian, Zhi-fang Wang, Chen Yiyun, Wei Wang, Zhenming Wang
+421	Puttipong Mahasukhon, Tadeusz A. Wysocki, Ting Zhou, Hamid Sharif, Wei Wang, Michael Hempel
+422	Changyun Wen, Wei Wang, Jing Zhou
+423	Xiao Lua, Wei Wang, Huanshui Zhang
+424	Gong-You Tang, Shan-Shan Zhou, Wei Wang
+425	Min Cai Henderson, Wei Wang, Huanshui Zhang
+426	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+427	Jian-Xin Chen, Jing Chen, Guangcheng Xi, Wei Wang, Huihui Zhao
+428	Jan F. Prins, Jun (Luke) Huan, Wei Wang
+429	Decheng Ding, Wei Wang
+430	Decheng Ding, Wei Wang
+431	Fang Ren, Guo-Jun Wang, Wei Wang
+432	Sining Zheng, Wei Wang
+433	Wei Wang, Yifan Xu
+434	Dingjun Lou, Wei Wang
+435	Jean Jacques E. Slotine, Wei Wang
+436	Xiao-Hong Guan, Wei Wang, Xiangliang Zhang
+437	Xiao-Hong Guan, Li-Wei Yang, Wei Wang, Xiangliang Zhang
+438	John K. Karlof, Wei Wang
+439	Wei Wang
+440	Ilya Dan Melamed, Wei Wang
+441	Wentao Wu, Wei Wang, Zhenying He, Yanghua Xiao
+442	Martin J. Wainwright, Kannan Ramchandran, Wei Wang
+443	Hye-Chung Kum, Wei Wang, Joong Hyuk Chang
+444	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+445	Hiroyuki Kawano, Shojiro Nishio, Jiawei Han, Wei Wang
+446	Hye-Chung Kum, Wei Wang, Joong Hyuk Chang
+447	Dingjun Lou, Wei Wang
+448	Cheng-xian Xu, Wei Wang
+449	Vassilios Tzerpos, Wei Wang
+450	Jin-Tan David Yang, Jui-Feng Weng, Shian-Shyong Tseng, Wen-Nung Tsai, Jun-Ming Su, Wei Wang
+451	Shao Cheng Tong, Han-Xiong Li, Wei Wang
+452	Hongwei Dai, Wei Wang, Fangjia Li, Zheng Tang, Shangce Gao
+453	Jiong Yang, Philip Shi-Lung Yu, Haixun Wang, Wei Wang
+454	Qing Xu, Wei Wang, Shiqiang Bao
+455	Wei Wang
+456	Jean Jacques E. Slotine, Wei Wang
+457	Bai Le Shi, Zijing Tan, Wei Wang, Zijun Zhang
+458	Chai Tianyou, Liu Wanquan, Liu Xiaodong, Wei Wang
+459	Chai Tianyou, Liu Wanquan, Liu Xiaodong, Wei Wang
+460	Yan-Jun Liu, Wei Wang
+461	Jan F. Prins, Jack S Snoeyink, Alexander Tropsha, Jun (Luke) Huan, Wei Wang, Deepak Bandyopadhyay
+462	James Gumbart, Elizabeth Villa, Rosemary Braun, Robert D. Skeel, Klaus Schulten, Emad Tajkhorshid, Laxmikant Vasudeo Kale, James C. Phillips, Wei Wang, Christophe Chipot
+463	M. Omair Ahmad, M. N. S. Swamy, Wei Wang
+464	Jun Seok Yang, Yufei Tao, Jiong Yang, Zhi-Yuan Chen, Haixun Wang, Li Chen, Wei Wang, Jian Pei, Donghui Zhang
+465	Zhengjie Zhang, Zhihong Chong, Jeffrey Xu Yu, Wei Wang, Xuemin Lin, Aoying Zhou
+466	Ming-Sheng Hong, Bai Le Shi, Wei Wang, Chen Wang
+467	Bai Le Shi, Wang Yujun, Wei Wang
+468	Ming-Sheng Hong, Bai Le Shi, Hao-Feng Zhou, Wei Wang, Qing-Qing Yuan
+469	Lian-Hong Cai, Wei Wang
+470	Andrew Hsu, Ming L. Liu, Wei Wang
+471	Sheng-Li Sun, Zhenhua Huang, Jiankui Guo, Wei Wang
+472	Yu (Jeffrey) Hu, Yin-He Han, Li Xiaowei, You-Sheng Zhang, Wei Wang, Xiao-Wei Li
+473	Wei Wang
+474	George J. Klir, Wang Zhenyuan, Wei Wang
+475	Jiawei Han, Wei Wang, Jian Pei
+476	Wei Wang, Alfredo Cuzzocrea
+477	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+478	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+479	Norman E. Fenton, Wei Wang
+480	Aidong Zhang, Wei Wang
+481	Brian King Flachs, Si-Ning Liu, Wei Wang
+482	Fei Wang, Wei Wang, Shaoping Ling, Cai-Yan Jia, Lusheng Chen
+483	Shabbir Ahmed, Wei Wang
+484	Jun Gu, Wei Wang
+485	Bai Le Shi, Wentao Wu, Hua Dong, Momiao Xiong, Wei Wang, Yanghua Xiao
+486	Feifei Huang, Jian Wei Li, Hailiang Feng, Wei Wang
+487	Bin Fu, Wei Wang
+488	Mohammed Javeed Zaki, Srinivasan Parthasarathy, Wei Wang
+489	Xiao-yuan Wang, Ada Wai-Chee Fu, Bai Le Shi, Wei Wang, Jian Xu, Jian Pei
+490	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+491	Samuel R. Madden, Nicolas Bruno, Wei Wang
+492	Vince Busam, Jiong Yang, Richard Robert Muntz, Silvia Nittel, Wei Wang
+493	Thomas E. Daniels, Wei Wang
+494	Serap A. Savari, Vivek K. Goyal, Wei Wang
+495	Weiyi Meng, Clement Tak Yu, Naphtali Rishe, Wei Wang
+496	Jiong Yang, Wei Wang
+497	Jiong Yang, Richard Robert Muntz, Wei Wang
+498	Jiong Yang, Philip Shi-Lung Yu, Wei Wang
+499	Bai Le Shi, Xiaochen Wu, Haixun Wang, Wei Wang, Peng Wang
+500	Chinya Venkataram Ravishankar, Wei Wang
+501	Meng-Xing Tang, James Wheeler, Xiuzhen Zhang Pauline Lienhua Chou Guozhu Dong, Malcolm McCormick, Wei Wang
+502	Jiang Li, Jun Sun, Chong Luo, Wei Wang, Jian Tang
+503	Yufei Tao, Martin Ester, Jeffrey Xu Yu, Qing Zhang, Yidong Yuan, Qing H. Liu, Wen Jin, Wei Wang, Xuemin Lin, Jian Pei
+504	Kee Chaing Chua, Vikram Srinivasan, Wei Wang
+505	Chai Tianyou, Liu Xiaodong, Wei Wang
+506	Guoping P. Liu, Jun Zhao, Xi-Ming Sun, Wei Wang
+507	Wei Wang, Jian-Xin Xu
+508	Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+509	Yuqing Song, Aidong Zhang, Wei Wang
+510	Jian-Zhong Li, Hong Zhi Wang, Wei Wang, Xuemin Lin
+511	Wang Wenbo, Wei Wang, Qianxi Lu, Tao Peng
+512	Li-Ping Pang, Wei Wang, Jie Shen
+513	Zhengrong Zhao, Wei Wang, Bin Yang
+514	Rebecka Jornsten, Bin Yu, Kannan Ramchandran, Wei Wang
+515	Wei Wang, Tulay Adali
+516	Marcelo H. Ang Jr, Robert N. K. Loh, Teck-Seng Low, Wei Wang
+517	Shuxu Guo, Jiawei Shi, Jiang Wenhai, Baofu Quan, Wei Wang, Dongge Ma, Hongmei Zhang
+518	Shihua Ma, Liming Liu, Wei Wang
+519	Andrzej Cichocki, Hualiang Li, Darren Emge, Wei Wang, Tulay Adali
+520	Mohammed Javeed Zaki, Jiong Yang, George Karypis, Wei Wang
+521	Xiao-Hong Guan, Wei Wang, Xiangliang Zhang
+522	John E. Butler, Wei Wang
+523	Hai Jin, Muzhou Xiong, Wei Wang, Song Wu
+524	Chinya Venkataram Ravishankar, Wei Wang, Shanzhong Zhu
+525	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+526	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+527	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+528	Xiao Lu, Wei Wang
+529	Guosun Zeng, Wei Wang
+530	YinHua Lei, Yu Zhao, Wei Wang, Zhihong Li
+531	Guoping P. Liu, Xi-Ming Sun, Wei Wang, David Rees
+532	Changyun Wen, Wei Wang, Jing Zhou
+533	Kok Lay Teo, Xiao Lu, Wei Wang, Huanshui Zhang
+534	Chuan Xiao, Wei Wang, Xuemin Lin
+535	Feng Frank Pan, Andrew B. Nobel, Wei Wang, Xiang Zhang
+536	Jian-hua Sun, Chen Guanrong, Wei Wang
+537	Wei-Min Yun, Yan Zhuang, Wei Wang
+538	Jianwei Zhang, Guanghua Zong, Wei Wang, Houxiang Zhang
+539	Susan Paulsen, Hye-Chung (Monica) Kum, Wei Wang
+540	Mei-Qin Wang, Xiao-Yun Wang, Keting Jia, Wei Wang
+541	Ying Liu, Wei Wang, Xia Wang, Qiuhong Chen, Jie Wang
+542	Huanglingzi Liu, Bin Wang, Ying Liu, Wei Wang
+543	Lin Zhi-gui, Zhihong Feng, Zhitao Xiao, Wei Wang, Wei Mark Fang
+544	Xin-Jing Wang, Jiang-Ming Yang, Chen Lin, Wei Wang, Rui Cai
+545	Yi Chen, Ziyang Liu, Wei Wang, Xuemin Lin
+546	Chuan Xiao, Chengqi Zhang, Wei Wang, Xuemin Lin
+547	Eric Yi Liu, Wei Wang, Abhishek Sarkar, Qi Zhang
+548	Jinyuan Jia, Wei Wang
+549	Hidetoshi Kayama, Wei Wang, Zhan Zhang
+550	Thomas Jost, Armin Dammann, Wei Wang
+551	Philip E. Bourne, Jo-Lan Chung, Wei Wang
+552	Ken Chen, William A. McLaughlin, Wei Wang, Tingjun Hou
+553	Kyoung-Jae Won, Bing Ren, Iouri Chepelev, Wei Wang
+554	Li Shen, Jie Liu, Wei Wang
+555	Amelie Marian, Wei Wang
+556	Maojun Zhang, Wei Wang, Tao Zhou
+557	Kee Chaing Chua, Vikram Srinivasan, Wei Wang
+558	Kee Chaing Chua, Vikram Srinivasan, Wei Wang
+559	Darren Emge, Wei Wang, Tulay Adali
+560	Changyun Wen, Wei Wang, Jing Zhou
+561	Haixun Wang, Wei Wang, Moonjung Cho, Jian Pei
+562	Hidetoshi Kono, Jeffery G. Saven, Wei Wang, Eric T. Boder, Sheldon Park
+563	Xiangyu Wang, Rui Wang, Wei Wang
+564	Hang Guo, Ji-Dong Chen, Wentao Wu, Wei Wang
+565	Wen Jie Li, Wei Wang, Furu Wei, Sujian Li
+566	Yanxiang He, Wen Jie Li, Wei Wang, Furu Wei
+567	Calvin Young, Ning Jin, Wei Wang
+568	Hang Guo, Ji-Dong Chen, Wentao Wu, Wei Wang
+569	Xiao-Yun Wang, Guangwu Xu, Keting Jia, Wei Wang, Zheng Yuan
+570	Xiangyu Wang, Wei Wang
+571	Xiangyu Wang, Wei Wang, Irene Rui Chen
+572	Xiangyu Wang, Rui Wang, Wei Wang
+573	Wei Wang, Baihua Zheng
+574	Li-na Wang, Senlin Lv, Zhuo Zhang, Wei Wang, Shaochun Zhong
+575	Xing Xie, Yu Zheng, Wei Wang, Yan Huang, Yin Lou, Chengyang Zhang
+576	Wang Zhi-liang, Siyi Zheng, Wei Wang, Xuejing Gu
+577	Tie-Niu Tan, Jing Dong, Wei Wang
+578	Tie-Niu Tan, Jing Dong, Wei Wang
+579	Li Yu, Wei Wang, Baochun Li
+580	Ji Fang, Jiansong Zhang, Mi Chen, Wei Wang, Geoffrey M. Voelker, He Liu, Kun Tan
+581	Svein Johan Knapskog, Thomas Guyet, Wei Wang
+582	Puttipong Mahasukhon, Tao Ma, Ting Zhou, Hamid Sharif, Wei Wang, Michael Hempel
+583	Xiao-Dong Li, Di Ma, Wei Wang, Wei Mao
+584	Jian-Feng Ma, FengHua Li, Wei Wang, Haoxin Su
+585	Ming L. Liu, Hua Yu, Wei Wang
+586	Kevin M. Ryan, Wei Wang, Sansiri Tanachutiwat
+587	Wei Wang, Sansiri Tanachutiwat
+588	Ming L. Liu, Haigang Yang, Wei Wang, Sansiri Tanachutiwat
+589	Kai X. Miao, Ben Lin, Xiaoxin Wu, Wei Wang
+590	Rene Quiniou, Marie-Odile Cordier, Thomas Guyet, Wei Wang
+591	Shuyan Chen, Wei Wang, Henk J. van Zuylen
+592	Jianping Zeng, Dong-Zhan Zhang, Bai Le Shi, Wei Wang, Jiangjiao Duan
+593	Shuyan Chen, Wei Wang
+594	Shao Cheng Tong, Yan-Jun Liu, Wei Wang
+595	Xiao-Hong Guan, Beizhan Wang, Yaping Wang, Wei Wang
+596	Dilip Krishnaswamy, Wei Wang, Xin Liu
+597	Jing-Lin Tong, Sheng Zhang, Wei Wang
+598	L. Rodney Long, Daniel P. Lopresti, George R. Thoma, Sameer K. Antani, Yaoyao Zhu, Xiaolei Huang, Wei Wang, Zhiyun Xue
+599	Li-na Zhu, Yi Zhang, Li Feng, Wei Wang
+600	Toshinori Yoshikawa, Xi Zhang, Wei Wang, Yoshinori Takei
+601	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+602	Hsiao Hwa Chen, Dongming Peng, Hamid Sharif, Honggang Wang, Wei Wang
+603	Ying Jun (Angela) Zhang, Wenjie Zhang, Muhammad Aamir Cheema, Wei Wang, Xuemin Lin
+604	Wei Wang, Wei Gao, Runsheng Wang
+605	Zine-Eddine Abid, Wei Wang
+606	Lejun Zhang, Yang Yongtian, Lin Guo, Wu Yang, Wei Wang
+607	Lejun Zhang, Yang Yongtian, Wu Yang, Wei Wang, Dapeng Man
+608	Mingqiang Wang, Wei Wang, Puwen Wei
+609	Shaomin Zhang, Wei Wang
+610	Pengtao Zhang, Ying Tan, Xin-Gui He, Wei Wang
+611	Tie-Niu Tan, Jing Dong, Yun Q. Shi, Wei Wang
+612	Jun Li, Wei Wang
+613	Gregory M. P. O'Hare, Yu-Chen Song, Michael J. O'Grady, Wei Wang
+614	Wei Wang, Peng Zhang, Runsheng Wang
+615	Jan F. Prins, Jack S Snoeyink, Alexander Tropsha, Jun (Luke) Huan, Jinze Liu, Wei Wang, Deepak Bandyopadhyay
+616	Wei Wang, Jianwei Zhang, Houxiang Zhang
+617	Wenpeng Yu, Jianwei Zhang, Wei Wang, Houxiang Zhang
+618	Yong Qi, Di Hou, Wei Wei Goh, Qingsong Yao, Min Xi, Saiyu Qi, Wei Wang
+619	Guosun Zeng, Yu Huang, Yufeng Qiu, Dongqi Zhang, Xiaojun Wang, Wei Wang
+620	Yongke Yuan, Wei Wang
+621	Qiang Li, Hong G. Zhao, Zhixiong Liu, Wei Wang
+622	Huan-Wen Liu, Wei Wang
+623	Gang Ren, Wei Wang
+624	Wei Wang, Hao Wang
+625	Wei Wang
+626	Jun Zheng, Yang Yongtian, Wu Yang, Wei Wang
+627	Dunxian She, Xiaoxue Hu, Jian-qiang Li, Wei Wang, Xiaohua Yang
+628	Xiao Yu Li, Jun Zhang, Zhu Zhou, Wu Xiao, Wei Wang, Wei Zhou
+629	Chunchun Han, Wei Wang, Liang Li, Ji-Wen Wang
+630	Wei Wang
+631	Zhongwen Lan, Wencheng Li, Kai On Li, Dan Y. Chen, Wei Wang, Neng Peng
+632	Chuanqi Li, Wei Wang
+633	Jian-Xin Chen, Wei Wang, Huihui Zhao, Na Hou, Weidong Lu
+634	Xiao Yu Li, Jun Zhang, Mao Si Kui, Shengjie Jiao, Yi Zhang, Wei Wang
+635	Qiang Li, Hong G. Zhao, Zhixiong Liu, Wei Wang
+636	Wang Zhi-liang, Wei Wang
+637	Puttipong Mahasukhon, Ting Zhou, Hamid Sharif, Wei Wang, Michael Hempel, Song Ci
+638	Svein Johan Knapskog, Sylvain Gombault, Wei Wang, Xiangliang Zhang
+639	Yong Qi, Wei Wei Goh, Xin James He, Ruidong Li, Hui He, Wei Wang
+640	Yan Zhuang, Fei Yan, Wei Wang
+641	Luhua Deng, Guanghua Zong, Wei Wang
+642	Ruizhi Xing, Yan Zhuang, Wei Wang
+643	Jianwei Zhang, Guanghua Zong, Wei Wang, Houxiang Zhang
+644	Jianwei Zhang, Guanghua Zong, Dazhai Li, Tim Baier, Wei Wang, Rong Liu, Houxiang Zhang
+645	Jin-mu Wu, Wei Wang, Jie-Hua Liu
+646	Hui H. Liu, Ting-lei Huang, Wei Wang, Fei Pang
+647	Yu Qiao, Nobuaki Minematsu, Wei Wang, Xiaoou Tang, Jianzhuang Liu
+648	Yi-Ou Li, Vince D. Calhoun, Tülay Adali, Wei Wang
+649	Darren Emge, Tülay Adali, Wei Wang
+650	Dun-fan Ye, Wei Wang, Liang-liang Min
+651	Feng Liu, Yuguo Yu, Wei Wang
+652	Xixian Yao, Feng Liu, Wei Wang
+653	Wai Lam, Wei Wang, Che-Wang Yue
+654	Wei Wang, Shu Jue Yan and Chi-Wang
+655	Sylvain Gombault, Wei Wang, Xiangliang Zhang
+656	Chinya Venkataram Ravishankar, Wei Wang
+657	Wei Wang, Bo Yu
+658	Wei Wang, Zheng Tang, Shangce Gao
+659	Yu Qiao, Mitsou Takeda, Mitsuo Takeda, Nobuaki Minematsu, Wei Wang, Xiaoou Tang, Jianzhuang Liu
+660	Mehul Motani, Vikram Srinivasan, Wei Wang
+661	Kee Chaing Chua, Vikram Srinivasan, Wei Wang, Bang Wang
+662	Weixing Sheng, Ma Xiaofeng, Fei Huang, Wei Wang
+663	Hong Man Kim, Yu Liu, Wei Wang
+664	Liqiang Zhao, Hailin Zhang, Li Cong, Wei Wang, Guopeng Zhang
+665	Ying Daisy Wang, Wei Wang
+666	Wei Wang
+667	Wei Wang
+668	Bai Le Shi, Weidong Yang, Qing-Ming Wang, Wei Wang
+669	Lejun Zhang, Lin Guo, Wu Yang, Wei Wang
+670	Yu (Jeffrey) Hu, Yin-He Han, Xiao-Qing Wen, Cheng Li, Laung-Terng(L. T) Wang, Wei Wang, Hua-wei Li, Jia Li, Xiao-Wei Li
+671	Ming Xie, Wei Wang, Yong Fang, Daisheng Luo
+672	Sunanda Patro, Wei Wang
+673	Bo Han, Wei Wang
+674	Jinlin Wang, Haibo Zhang, Wei Wang, Kefa Zhou, Xi E. Chen
+675	Wanneng Shu, Wei Wang, Yong Fang, Daisheng Luo
+676	Changyun Wen, Wei Wang, Jing Zhou
+677	Ming Zhou, Chang-Ning Huang, Wei Wang, Jin-Xia Huang
+678	Jiong Yang, Wei Wang
+679	Qing Xu, MingChu Li, Roberto Brunelli, Jing Cai, Wei Wang, Liang Ma, Sterfano Messelodi
+680	Shen Wang, Haitao Wu, Ji Fang, Jiansong Zhang, Wei Wang, Yongguang Zhang, Geoffrey M. Voelker, He Liu, Kun Tan, Yusheng Ye
+681	Thomas Culby Henderson, Jun Gu, Wei Wang
+682	Jiong Yang, Richard Robert Muntz, Wei Wang
+683	Ken Craver, Barry Meinster, Wei Wang
+684	Jiong Yang, Richard Robert Muntz, Silvia Nittel, Wei Wang
+685	Steven S. Gearhart, Henley L. Liu, Wei Wang, John H. Booske
+686	Qiang Tu, Wei Wang
+687	Jun Seok Yang, Yufei Tao, Jiong Yang, Zhi-Yuan Chen, Chen Li, Haixun Wang, Wei Wang, Jian Pei, Donghui Zhang
+688	Jiong Yang, Richard Robert Muntz, Wei Wang
+689	Liduo Wang, Wei Wang, Yong Qiu, Guifang Dong
+690	Yi Luo, Wei Wang, Xuemin Lin
+691	Changhong Wang, Wei Wang, X. Z. Gao
+692	Hong Man Kim, Yu Liu, Wei Wang
+693	Puttipong Mahasukhon, Ting Zhou, Hamid Sharif, Wei Wang, Michael Hempel
+694	Lei Chen, Clarence A. Ellis, Kevin Chen-Chuan Chang, Haixun Wang, Ching-Hsien Hsu, Wei Wang, Ah Chung Tsoi
+695	Qizheng Liao, Wei Wang, Shimin Wei
+696	Chengxi Wang, Wei Wang
+697	Sang-Jae Moon, Jian-Feng Ma, Wei Wang
+698	Fan Wenhui, Huiui Liu, Yuming Yuan, Wei Wang
+699	Wei Wang
+700	Wei Wang
+701	Wei Wang
+702	Hong-Jun Lu, Haifeng Jiang, Wei Wang
+703	Naiwei Zou, Wei Wang, Xiaohua Zeng, Qingnian Wang, Yuanbin Yu
+704	Tang Yi-Ping, Jun Sik Hong, Wei Wang
+705	Naiwei Zou, Wei Wang, Xiaohua Zeng, Qingnian Wang
+706	Jia-qing Huang, Bing-rui Wang, Hui-Yao An, Li Yu, Hui X. Li, Wei Wang
+707	Kevin Knight, David Chiang, Wei Wang
+708	Yingtang Zhang, Guoquan Ren, Wei Wang
+709	Xiang-bo Ze, Jun-ming Zhang, Wei Wang, Dong-ning Su, Fang Zhao
+710	Kevin Knight, Abdessamad Echihabi, Daniel Marcu, Wei Wang
+711	H. C. Yee, Björn Sjögreen, Wei Wang, Shu Jue Yan and Chi-Wang
+712	Wei Wang, Jian John Lu, Hu Xiaojian
+713	Laurie Jane Hendren, Karel Driesen, Bruno Dufour, Rhodes Brown, Wei Wang, Qin Iris Wang, Clark Verbrugge
+714	M. N. S. Swamy, Shaoqiang Bi, Asim J. Al-Khalili, Warren J. Gross, Wei Wang
+715	Li Huang Ng, Wei Wang
+716	Changrui Ren, Jin Dong, Qinhua Wang, Shao Bing, Wei Wang, Hongwei Ding
+717	Wanshan Wang, Kai Zhao, Wei Wang, Jing Zhou, Tianbiao Yu
+718	Wei Wang, Zheng Tang, Shangce Gao
+719	Yan-Jun Liu, Wei Wang, Qiang Kang
+720	Wei Wang, Qian Zhang, Lan Wang
+721	Li-Gang Zheng, Shuijun Yu, Wei Wang, Minggao Yu
+722	Yongzhi Yao, Wei Wang
+723	Xiaohui Qiu, Wei Wang, Wei Guo
+724	Wei Wang, Qian Wan, Jian John Lu, Chen Yang
+725	Xin (Shin) Zhang, Wei Wang, Wen Dong
+726	Wei Wang
+727	Chao Yun, Wei Wang, Xiangquan Liu, Xuefeng Zhao

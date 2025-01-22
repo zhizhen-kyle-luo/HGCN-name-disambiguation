@@ -1,0 +1,105 @@
+20343	Approximation Lasso Methods for Language Modeling
+33932	Application of PGA on Optimization of Distribution of Shopping Centers
+43454	Incentive Mechanisms for Peer-to-Peer Systems
+45726	Utilizing Fuzzy Petri Net for Choreography Based Semantic Web Services Discovery
+55536	Emergence of agent-based referral networks
+55541	Searching social networks
+56439	Synergistic integration of agent technologies for military simulation
+56969	An integrated token-based algorithm for scalable coordination
+56996	A Dynamic Pricing Mechanisms for P2P Referral Systems
+56997	An evidential model of distributed reputation management
+56998	Detecting deception in reputation management
+56999	Scalable and reliable data delivery in mobile ad hoc sensor networks
+57106	Managing the pedigree and quality of information in dynamic information sharing environments
+57315	An incentive mechanism for message relaying in unstructured peer-to-peer systems
+82893	Service Matchmaking with Rough Sets
+92589	A Social Mechanism of Reputation Management in Electronic Communities
+95989	An agent-based approach to knowledge management
+122389	Semantic Matching of Web Services Based on Choreographies
+122624	Semantic Matching of Web Services for Collaborative Business Processes
+146156	Low Delay Perpetually Lossless Coding of Audio Signals
+178775	A WSRF Based Shopping Cart System
+255126	SpiderNet: An Integrated Peer-to-Peer Service Composition Framework
+272651	Multi-step-ahead Prediction Based on B-Spline Interpolation and Adaptive Time-Delay Neural Network
+294928	Page Segmentation Using Document Model
+295820	Automatic understanding of symbol-connected diagrams
+313797	The Dynamics Mechanism Study on Interactive Development of Industry Clusters and Urbanization
+314189	Hybrid Control of Hopf Bifurcation for an Internet Congestion Model
+316807	Image Denoising via Lossy Compression and Wavelet Thresholding
+316808	Spatially Adaptive Wavelet Thresholding with Context Modeling for Image Denoising
+316809	Multiple Copy Image Denoising via Wavelet Thresholding
+318395	Compression of cDNA and inkjet microarray images
+322560	Lane Boundary Detection Using a Multiresolution Hough Transform
+329271	Trust and Reputation Management in a Small-World Network
+331749	A Three-Layer Virtual Director Model for Supporting Automated Multi-Site Distributed Education
+336048	On the Convergence of Boosting Procedures
+336268	Data spectroscopy: learning mixture models using eigenspaces of convolution operators
+364000	An Economical Contour Extraction AIgorithm for Understanding Large-size Engineering Drawings
+401592	Pseudo Likelihood Estimation in Network Tomography
+417336	Compression of cDNA microarray images
+437567	TEEVE: The Next Generation Architecture for Tele-immersive Environment
+437654	A Study of Collaborative Dancing in Tele-immersive Environments
+447480	Requirements Engineering Processes Improvement: A Systematic View
+490022	Intelligent Online BGP-4 Analyzer
+502693	A scalable overlay video mixing service model
+503192	Video summarization based on user log enhanced link analysis
+503319	Collaborative dancing in tele-immersive environment
+508472	A Realtime Software Solution for Resynchronizing Filtered MPEG2 Transport Stream
+518189	Model Selection in Gaussian Graphical Models: High-Dimensional Consistency of l1-regularized MLE
+518304	Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images
+519688	A multi-stream adaptation framework for bandwidth management in 3D tele-immersion
+681003	Service Matchmaking and Discovery with Rough Sets
+729317	Research and Design of One Key Agreement Scheme in Bluetooth
+738444	An Adaptive Social Network for Information Access: Theoretical and Experimental Results
+764323	Simultaneous Gene Clustering and Subset Selection for Sample Classification Via MDL
+776086	Community-based service location
+789222	Distributed Reputation Management for Electronic Commerce
+827761	Information In The Non-Stationary Case
+876946	PGGA: A predictable and grouped genetic algorithm for job scheduling
+934516	The Tree Representation of the Graph Used in Binary Image Processing
+985261	Sparse Boosting
+985276	On Model Selection Consistency of Lasso
+1011439	Internet-based interactive HDTV
+1031946	Document Representation and Its Application to Page Decomposition
+1033439	A Generic System for Form Dropout
+1039774	Automatic text location in images and video frames
+1042081	A robust and fast skew detection algorithm for generic documents
+1042110	A more efficient branch and bound algorithm for feature selection
+1046550	A new edge detector based on Fresnel diffraction
+1100481	Spatially adaptive wavelet thresholding with context modeling for image denoising
+1100482	Adaptive wavelet thresholding for image denoising and compression
+1100483	Wavelet thresholding for multiple noisy image copies
+1102356	Image subband coding using context-based classification and adaptive quantization
+1104153	The Minimum Description Length Principle in Coding and Modeling
+1106172	Wavelet thresholding via MDL for natural images
+1107223	Iterated logarithmic expansions of the pathwise code lengths for exponential families
+1107242	A fast lightweight approach to origin-destination IP traffic estimation using partial measurements
+1108393	Density estimation by stochastic complexity
+1109732	Lower Bounds on Expected Redundancy for Nonparametric Classes
+1109744	A rate of convergence result for a universal D-semifaithful code
+1113893	Grid Service Discovery with Rough Sets
+1150426	Microarray image compression: SLOCO and the effect of information loss
+1163152	An improved ant colony optimization for vehicle routing problem
+1185325	Hourglass multimedia content and service composition framework for smart room environments
+1186549	Genetic Polymorphisms of Nine X-STR Loci in Four Population Groups from Inner Mongolia, China
+1186707	Automatically wrapping legacy software into services: A grid case study
+1225537	An integrated approach to high-level information fusion
+1226229	Web Services Discovery with Rough Sets
+1229364	Perceptual audio coding using adaptive pre- and post-filters and lossless compression
+1266579	A dynamic holding strategy in public transit systems with real-time information
+1267372	Computational prediction of novel non-coding RNAs in Arabidopsis thaliana
+1279648	Information in the Nonstationary Case
+1280940	Extending the ONESAF Testbed into a C4ISR Testbed
+1289889	Large Sample Properties of Weighted Monte Carlo Estimators
+1303878	A Modified Multi-Secret Sharing Visual Cryptography Scheme.
+1304040	A Verifiable Visual Cryptography Scheme.
+1366064	Prediction of Transmembrane Helical Segments in Membrane Proteins Using Back Propagation Neural Network with Wavelet Analysis
+1367661	Transform from Models to Service Description Based on MDA
+1379964	Stagewise Lasso
+1430319	Sparsity and model selection through convex penalties: structured selection, covariance selection and some theory
+1487469	Some results on empirical processes and stochastic complexity
+1501529	Isothetic polygon representation for contours
+1534733	Looking at Markov samplers through cusum path plots: a simple diagnostic idea
+1555660	The minimum description length principle in coding and modeling (invited paper)
+1592467	A New Method of Realizing Fingerprint Authentication on Smartcard
+1624358	An economical contour extraction algorithm for understanding large-size engineering drawings

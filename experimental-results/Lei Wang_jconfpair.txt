@@ -1,0 +1,198 @@
+3	4	Asia-Pacific Computer Systems Architecture Conference	Asia-Pacific Computer Systems Architecture Conference
+16	237	CIKM	CIKM
+20	21	COMPSAC	COMPSAC (1)
+20	22	COMPSAC	COMPSAC
+21	22	COMPSAC (1)	COMPSAC
+25	27	CVPR (2)	CVPR
+26	27	CVPR (1)	CVPR
+29	30	DICTA	DICTA
+29	31	DICTA	DICTA
+30	31	DICTA	DICTA
+36	138	FSE	SIGSOFT FSE
+40	41	GCC (1)	GCC
+47	48	ICCD	ICCD
+47	49	ICCD	ICCD
+48	49	ICCD	ICCD
+56	57	ICESS	ICESS
+61	62	ICIP	ICIP (1)
+61	63	ICIP	ICIP (1)
+61	64	ICIP	ICIP
+61	65	ICIP	ICIP (2)
+61	66	ICIP	ICIP (2)
+61	67	ICIP	ICIP (5)
+61	68	ICIP	ICIP
+62	63	ICIP (1)	ICIP (1)
+62	64	ICIP (1)	ICIP
+62	68	ICIP (1)	ICIP
+63	64	ICIP (1)	ICIP
+63	68	ICIP (1)	ICIP
+64	65	ICIP	ICIP (2)
+64	66	ICIP	ICIP (2)
+64	67	ICIP	ICIP (5)
+64	68	ICIP	ICIP
+65	66	ICIP (2)	ICIP (2)
+65	68	ICIP (2)	ICIP
+66	68	ICIP (2)	ICIP
+67	68	ICIP (5)	ICIP
+69	70	ICME	ICME
+69	71	ICME	ICME
+69	72	ICME	ICME
+70	71	ICME	ICME
+70	72	ICME	ICME
+71	72	ICME	ICME
+75	76	ICNC (2)	ICNC (2)
+78	79	ICPR (3)	ICPR (3)
+86	87	IPDPS	IPDPS
+89	92	ISCAS (2)	ISCAS
+89	93	ISCAS (2)	ISCAS
+89	94	ISCAS (2)	ISCAS
+89	95	ISCAS (2)	ISCAS
+89	96	ISCAS (2)	ISCAS
+90	91	ISCAS (1)	ISCAS (1)
+90	92	ISCAS (1)	ISCAS
+90	93	ISCAS (1)	ISCAS
+90	94	ISCAS (1)	ISCAS
+90	95	ISCAS (1)	ISCAS
+90	96	ISCAS (1)	ISCAS
+91	92	ISCAS (1)	ISCAS
+91	93	ISCAS (1)	ISCAS
+91	94	ISCAS (1)	ISCAS
+91	95	ISCAS (1)	ISCAS
+91	96	ISCAS (1)	ISCAS
+92	93	ISCAS	ISCAS
+92	94	ISCAS	ISCAS
+92	95	ISCAS	ISCAS
+92	96	ISCAS	ISCAS
+93	94	ISCAS	ISCAS
+93	95	ISCAS	ISCAS
+93	96	ISCAS	ISCAS
+94	95	ISCAS	ISCAS
+94	96	ISCAS	ISCAS
+95	96	ISCAS	ISCAS
+100	101	ISLPED	ISLPED
+100	239	ISLPED	ISLPED
+101	239	ISLPED	ISLPED
+102	104	ISNN (3)	ISNN (3)
+102	108	ISNN (3)	ISNN (3)
+103	105	ISNN (2)	ISNN (2)
+103	219	ISNN (2)	ISNN (2)
+103	220	ISNN (2)	ISNN (2)
+103	221	ISNN (2)	ISNN (2)
+104	108	ISNN (3)	ISNN (3)
+105	219	ISNN (2)	ISNN (2)
+105	220	ISNN (2)	ISNN (2)
+105	221	ISNN (2)	ISNN (2)
+106	107	ISNN (1)	ISNN (1)
+115	116	Multimedia Information Systems	Multimedia Information Systems
+117	118	ACM Multimedia	ACM Multimedia
+124	125	PDCAT	PDCAT
+124	126	PDCAT	PDCAT
+125	126	PDCAT	PDCAT
+130	131	RTCSA	RTCSA
+132	133	SAC	SAC
+142	143	UIC	UIC
+149	150	Web Intelligence	Web Intelligence
+149	151	Web Intelligence	Web Intelligence
+150	151	Web Intelligence	Web Intelligence
+153	154	WOWMOM	WOWMOM
+159	160	GLOBECOM	GLOBECOM
+169	170	CSSE (3)	CSSE (3)
+169	171	CSSE (3)	CSSE (3)
+170	171	CSSE (3)	CSSE (3)
+174	175	WCNC	WCNC
+176	177	ICNSC	ICNSC
+178	227	CoRR	CoRR
+178	248	CoRR	CoRR
+178	281	CoRR	CoRR
+179	180	IEICE Transactions	IEICE Transactions
+179	181	IEICE Transactions	IEICE Transactions
+179	182	IEICE Transactions	IEICE Transactions
+179	183	IEICE Transactions	IEICE Transactions
+179	184	IEICE Transactions	IEICE Transactions
+179	228	IEICE Transactions	IEICE Transactions
+179	229	IEICE Transactions	IEICE Transactions
+179	230	IEICE Transactions	IEICE Transactions
+179	231	IEICE Transactions	IEICE Transactions
+179	232	IEICE Transactions	IEICE Transactions
+180	181	IEICE Transactions	IEICE Transactions
+180	182	IEICE Transactions	IEICE Transactions
+180	183	IEICE Transactions	IEICE Transactions
+180	184	IEICE Transactions	IEICE Transactions
+180	228	IEICE Transactions	IEICE Transactions
+180	229	IEICE Transactions	IEICE Transactions
+180	230	IEICE Transactions	IEICE Transactions
+180	231	IEICE Transactions	IEICE Transactions
+180	232	IEICE Transactions	IEICE Transactions
+181	182	IEICE Transactions	IEICE Transactions
+181	183	IEICE Transactions	IEICE Transactions
+181	184	IEICE Transactions	IEICE Transactions
+181	228	IEICE Transactions	IEICE Transactions
+181	229	IEICE Transactions	IEICE Transactions
+181	230	IEICE Transactions	IEICE Transactions
+181	231	IEICE Transactions	IEICE Transactions
+181	232	IEICE Transactions	IEICE Transactions
+182	183	IEICE Transactions	IEICE Transactions
+182	184	IEICE Transactions	IEICE Transactions
+182	228	IEICE Transactions	IEICE Transactions
+182	229	IEICE Transactions	IEICE Transactions
+182	230	IEICE Transactions	IEICE Transactions
+182	231	IEICE Transactions	IEICE Transactions
+182	232	IEICE Transactions	IEICE Transactions
+183	184	IEICE Transactions	IEICE Transactions
+183	228	IEICE Transactions	IEICE Transactions
+183	229	IEICE Transactions	IEICE Transactions
+183	230	IEICE Transactions	IEICE Transactions
+183	231	IEICE Transactions	IEICE Transactions
+183	232	IEICE Transactions	IEICE Transactions
+184	228	IEICE Transactions	IEICE Transactions
+184	229	IEICE Transactions	IEICE Transactions
+184	230	IEICE Transactions	IEICE Transactions
+184	231	IEICE Transactions	IEICE Transactions
+184	232	IEICE Transactions	IEICE Transactions
+189	190	J. Comput. Sci. Technol.	J. Comput. Sci. Technol.
+191	249	JETC	JETC
+191	282	JETC	JETC
+196	233	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+198	199	Pattern Recognition	Pattern Recognition Letters
+198	200	Pattern Recognition	Pattern Recognition Letters
+199	200	Pattern Recognition Letters	Pattern Recognition Letters
+202	203	IEEE Transactions on Communications	IEEE Transactions on Communications
+202	215	IEEE Transactions on Communications	IEEE Transactions on Wireless Communications
+203	215	IEEE Transactions on Communications	IEEE Transactions on Wireless Communications
+205	206	IEEE Transactions on Systems, Man, and Cybernetics, Part A	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+205	207	IEEE Transactions on Systems, Man, and Cybernetics, Part A	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+206	207	IEEE Transactions on Systems, Man, and Cybernetics, Part B	IEEE Transactions on Systems, Man, and Cybernetics, Part B
+208	209	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+208	210	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+208	211	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+209	210	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+209	211	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+210	211	IEEE Trans. VLSI Syst.	IEEE Trans. VLSI Syst.
+213	234	Applied Mathematics and Computation	Applied Mathematics and Computation
+213	235	Applied Mathematics and Computation	Applied Mathematics and Computation
+219	220	ISNN (2)	ISNN (2)
+219	221	ISNN (2)	ISNN (2)
+220	221	ISNN (2)	ISNN (2)
+224	225	Complex (1)	Complex (1)
+224	226	Complex (1)	Complex (1)
+225	226	Complex (1)	Complex (1)
+227	248	CoRR	CoRR
+227	281	CoRR	CoRR
+228	229	IEICE Transactions	IEICE Transactions
+228	230	IEICE Transactions	IEICE Transactions
+228	231	IEICE Transactions	IEICE Transactions
+228	232	IEICE Transactions	IEICE Transactions
+229	230	IEICE Transactions	IEICE Transactions
+229	231	IEICE Transactions	IEICE Transactions
+229	232	IEICE Transactions	IEICE Transactions
+230	231	IEICE Transactions	IEICE Transactions
+230	232	IEICE Transactions	IEICE Transactions
+231	232	IEICE Transactions	IEICE Transactions
+234	235	Applied Mathematics and Computation	Applied Mathematics and Computation
+244	245	Genomics, Proteomics & Bioinformatics	Genomics, Proteomics & Bioinformatics
+248	281	CoRR	CoRR
+249	282	JETC	JETC
+250	251	Synthesis Lectures on Information Concepts, Retrieval, and Services	Synthesis Lectures on Information Concepts, Retrieval, and Services
+283	284	Signal Processing	Signal Processing
+296	297	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+299	301	Proceedings of the 4th ACM international workshop on Experimental evaluation and characterization	Proceedings of the 4th ACM international workshop on Experimental evaluation and characterization

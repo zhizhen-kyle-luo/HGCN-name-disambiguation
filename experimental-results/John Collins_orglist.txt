@@ -1,0 +1,27 @@
+0	5	University of Minnesota, Minneapolis, MN	Dept of Computer Science and Engineering, University of Minnesota
+0	11	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	12	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	14	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	19	University of Minnesota, Minneapolis, MN	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+0	21	University of Minnesota, Minneapolis, MN	University of Minnesota
+0	22	University of Minnesota, Minneapolis, MN	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+5	11	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+5	12	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+5	14	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+5	19	Dept of Computer Science and Engineering, University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+5	21	Dept of Computer Science and Engineering, University of Minnesota	University of Minnesota
+11	12	University of Minnesota	University of Minnesota
+11	14	University of Minnesota	University of Minnesota
+11	19	University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+11	21	University of Minnesota	University of Minnesota
+11	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+12	14	University of Minnesota	University of Minnesota
+12	19	University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+12	21	University of Minnesota	University of Minnesota
+12	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+14	19	University of Minnesota	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA
+14	21	University of Minnesota	University of Minnesota
+14	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+19	21	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	University of Minnesota
+19	22	Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota 55455, USA	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA
+21	22	University of Minnesota	Dept. of Comput. Sci. & Eng., Univ. of Minnesota, Minneapolis, MN, USA

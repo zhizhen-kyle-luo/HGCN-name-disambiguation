@@ -1,0 +1,703 @@
+0	1	null	null
+0	2	null	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China
+0	3	null	Texas A&M University, College Station
+0	4	null	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu
+0	5	null	Texas A&M Univ., College Station
+0	6	null	Texas A&M Univ., College Station
+0	7	null	null
+0	8	null	Texas A&M Univ., College Station, TX
+0	9	null	null
+0	10	null	Texas A&M University, College Station, TX
+0	11	null	Texas A&M University, College Station, TX, USA
+0	12	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+0	13	null	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+0	14	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+0	15	null	Wuhan Univ. of Technol., Wuhan
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	null
+0	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+0	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+0	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+0	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+0	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+0	25	null	null
+0	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+0	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+0	28	null	Texas A&M University, College Station, TX
+0	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+0	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+0	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+0	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+0	33	null	null
+0	34	null	null
+0	35	null	null
+0	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+0	37	null	null
+1	2	null	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China
+1	3	null	Texas A&M University, College Station
+1	4	null	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu
+1	5	null	Texas A&M Univ., College Station
+1	6	null	Texas A&M Univ., College Station
+1	7	null	null
+1	8	null	Texas A&M Univ., College Station, TX
+1	9	null	null
+1	10	null	Texas A&M University, College Station, TX
+1	11	null	Texas A&M University, College Station, TX, USA
+1	12	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+1	13	null	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+1	14	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+1	15	null	Wuhan Univ. of Technol., Wuhan
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+1	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+1	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+1	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+1	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+1	25	null	null
+1	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+1	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+1	28	null	Texas A&M University, College Station, TX
+1	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+1	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+1	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+1	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+1	33	null	null
+1	34	null	null
+1	35	null	null
+1	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+1	37	null	null
+2	3	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Texas A&M University, College Station
+2	4	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu
+2	5	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Texas A&M Univ., College Station
+2	6	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Texas A&M Univ., College Station
+2	7	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	8	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Texas A&M Univ., College Station, TX
+2	9	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	10	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Texas A&M University, College Station, TX
+2	11	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Texas A&M University, College Station, TX, USA
+2	12	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+2	13	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+2	14	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+2	15	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Wuhan Univ. of Technol., Wuhan
+2	16	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	17	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	18	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	19	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	20	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+2	21	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Department of Computer Science, Texas A&M University, College Station, TX
+2	22	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Department of Computer Science, Texas A&M University, College Station, TX
+2	23	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Department of Computer Science, Texas A&M University, College Station, TX
+2	24	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Department of Computer Science, Texas A&M University, College Station, TX
+2	25	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	26	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+2	27	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Department of Computer Science, Texas A&M University, College Station, TX
+2	28	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Texas A&M University, College Station, TX
+2	29	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+2	30	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+2	31	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+2	32	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+2	33	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	34	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	35	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+2	36	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+2	37	Dept. of Comput. Sci., Tsinghua Univ., Beijing, China	null
+3	4	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu
+3	5	Texas A&M University, College Station	Texas A&M Univ., College Station
+3	6	Texas A&M University, College Station	Texas A&M Univ., College Station
+3	7	Texas A&M University, College Station	null
+3	8	Texas A&M University, College Station	Texas A&M Univ., College Station, TX
+3	9	Texas A&M University, College Station	null
+3	10	Texas A&M University, College Station	Texas A&M University, College Station, TX
+3	11	Texas A&M University, College Station	Texas A&M University, College Station, TX, USA
+3	12	Texas A&M University, College Station	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+3	13	Texas A&M University, College Station	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+3	14	Texas A&M University, College Station	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+3	15	Texas A&M University, College Station	Wuhan Univ. of Technol., Wuhan
+3	16	Texas A&M University, College Station	null
+3	17	Texas A&M University, College Station	null
+3	18	Texas A&M University, College Station	null
+3	19	Texas A&M University, College Station	null
+3	20	Texas A&M University, College Station	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+3	21	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	22	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	23	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	24	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	25	Texas A&M University, College Station	null
+3	26	Texas A&M University, College Station	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+3	27	Texas A&M University, College Station	Department of Computer Science, Texas A&M University, College Station, TX
+3	28	Texas A&M University, College Station	Texas A&M University, College Station, TX
+3	29	Texas A&M University, College Station	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+3	30	Texas A&M University, College Station	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+3	31	Texas A&M University, College Station	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+3	32	Texas A&M University, College Station	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+3	33	Texas A&M University, College Station	null
+3	34	Texas A&M University, College Station	null
+3	35	Texas A&M University, College Station	null
+3	36	Texas A&M University, College Station	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+3	37	Texas A&M University, College Station	null
+4	5	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M Univ., College Station
+4	6	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M Univ., College Station
+4	7	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	8	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M Univ., College Station, TX
+4	9	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	10	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M University, College Station, TX
+4	11	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M University, College Station, TX, USA
+4	12	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+4	13	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+4	14	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+4	15	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Wuhan Univ. of Technol., Wuhan
+4	16	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	17	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	18	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	19	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	20	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+4	21	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	22	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	23	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	24	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	25	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	26	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+4	27	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Department of Computer Science, Texas A&M University, College Station, TX
+4	28	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Texas A&M University, College Station, TX
+4	29	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+4	30	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+4	31	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+4	32	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+4	33	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	34	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	35	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+4	36	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+4	37	Department of Computer Science, Texas A&M University, College Station, TX 77802 USA. xmwang@cs.tamu.edu	null
+5	6	Texas A&M Univ., College Station	Texas A&M Univ., College Station
+5	7	Texas A&M Univ., College Station	null
+5	8	Texas A&M Univ., College Station	Texas A&M Univ., College Station, TX
+5	9	Texas A&M Univ., College Station	null
+5	10	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+5	11	Texas A&M Univ., College Station	Texas A&M University, College Station, TX, USA
+5	12	Texas A&M Univ., College Station	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+5	13	Texas A&M Univ., College Station	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+5	14	Texas A&M Univ., College Station	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+5	15	Texas A&M Univ., College Station	Wuhan Univ. of Technol., Wuhan
+5	16	Texas A&M Univ., College Station	null
+5	17	Texas A&M Univ., College Station	null
+5	18	Texas A&M Univ., College Station	null
+5	19	Texas A&M Univ., College Station	null
+5	20	Texas A&M Univ., College Station	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+5	21	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	22	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	23	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	24	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	25	Texas A&M Univ., College Station	null
+5	26	Texas A&M Univ., College Station	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+5	27	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+5	28	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+5	29	Texas A&M Univ., College Station	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+5	30	Texas A&M Univ., College Station	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+5	31	Texas A&M Univ., College Station	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+5	32	Texas A&M Univ., College Station	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+5	33	Texas A&M Univ., College Station	null
+5	34	Texas A&M Univ., College Station	null
+5	35	Texas A&M Univ., College Station	null
+5	36	Texas A&M Univ., College Station	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+5	37	Texas A&M Univ., College Station	null
+6	7	Texas A&M Univ., College Station	null
+6	8	Texas A&M Univ., College Station	Texas A&M Univ., College Station, TX
+6	9	Texas A&M Univ., College Station	null
+6	10	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+6	11	Texas A&M Univ., College Station	Texas A&M University, College Station, TX, USA
+6	12	Texas A&M Univ., College Station	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+6	13	Texas A&M Univ., College Station	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+6	14	Texas A&M Univ., College Station	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+6	15	Texas A&M Univ., College Station	Wuhan Univ. of Technol., Wuhan
+6	16	Texas A&M Univ., College Station	null
+6	17	Texas A&M Univ., College Station	null
+6	18	Texas A&M Univ., College Station	null
+6	19	Texas A&M Univ., College Station	null
+6	20	Texas A&M Univ., College Station	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+6	21	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	22	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	23	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	24	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	25	Texas A&M Univ., College Station	null
+6	26	Texas A&M Univ., College Station	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+6	27	Texas A&M Univ., College Station	Department of Computer Science, Texas A&M University, College Station, TX
+6	28	Texas A&M Univ., College Station	Texas A&M University, College Station, TX
+6	29	Texas A&M Univ., College Station	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+6	30	Texas A&M Univ., College Station	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+6	31	Texas A&M Univ., College Station	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+6	32	Texas A&M Univ., College Station	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+6	33	Texas A&M Univ., College Station	null
+6	34	Texas A&M Univ., College Station	null
+6	35	Texas A&M Univ., College Station	null
+6	36	Texas A&M Univ., College Station	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+6	37	Texas A&M Univ., College Station	null
+7	8	null	Texas A&M Univ., College Station, TX
+7	9	null	null
+7	10	null	Texas A&M University, College Station, TX
+7	11	null	Texas A&M University, College Station, TX, USA
+7	12	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+7	13	null	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+7	14	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+7	15	null	Wuhan Univ. of Technol., Wuhan
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+7	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+7	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+7	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+7	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+7	25	null	null
+7	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+7	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+7	28	null	Texas A&M University, College Station, TX
+7	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+7	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+7	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+7	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+7	33	null	null
+7	34	null	null
+7	35	null	null
+7	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+7	37	null	null
+8	9	Texas A&M Univ., College Station, TX	null
+8	10	Texas A&M Univ., College Station, TX	Texas A&M University, College Station, TX
+8	11	Texas A&M Univ., College Station, TX	Texas A&M University, College Station, TX, USA
+8	12	Texas A&M Univ., College Station, TX	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+8	13	Texas A&M Univ., College Station, TX	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+8	14	Texas A&M Univ., College Station, TX	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+8	15	Texas A&M Univ., College Station, TX	Wuhan Univ. of Technol., Wuhan
+8	16	Texas A&M Univ., College Station, TX	null
+8	17	Texas A&M Univ., College Station, TX	null
+8	18	Texas A&M Univ., College Station, TX	null
+8	19	Texas A&M Univ., College Station, TX	null
+8	20	Texas A&M Univ., College Station, TX	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+8	21	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	22	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	23	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	24	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	25	Texas A&M Univ., College Station, TX	null
+8	26	Texas A&M Univ., College Station, TX	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+8	27	Texas A&M Univ., College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+8	28	Texas A&M Univ., College Station, TX	Texas A&M University, College Station, TX
+8	29	Texas A&M Univ., College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+8	30	Texas A&M Univ., College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+8	31	Texas A&M Univ., College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+8	32	Texas A&M Univ., College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+8	33	Texas A&M Univ., College Station, TX	null
+8	34	Texas A&M Univ., College Station, TX	null
+8	35	Texas A&M Univ., College Station, TX	null
+8	36	Texas A&M Univ., College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+8	37	Texas A&M Univ., College Station, TX	null
+9	10	null	Texas A&M University, College Station, TX
+9	11	null	Texas A&M University, College Station, TX, USA
+9	12	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+9	13	null	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+9	14	null	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+9	15	null	Wuhan Univ. of Technol., Wuhan
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	null
+9	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+9	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+9	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+9	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+9	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+9	25	null	null
+9	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+9	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+9	28	null	Texas A&M University, College Station, TX
+9	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+9	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+9	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+9	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+9	33	null	null
+9	34	null	null
+9	35	null	null
+9	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+9	37	null	null
+10	11	Texas A&M University, College Station, TX	Texas A&M University, College Station, TX, USA
+10	12	Texas A&M University, College Station, TX	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+10	13	Texas A&M University, College Station, TX	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+10	14	Texas A&M University, College Station, TX	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+10	15	Texas A&M University, College Station, TX	Wuhan Univ. of Technol., Wuhan
+10	16	Texas A&M University, College Station, TX	null
+10	17	Texas A&M University, College Station, TX	null
+10	18	Texas A&M University, College Station, TX	null
+10	19	Texas A&M University, College Station, TX	null
+10	20	Texas A&M University, College Station, TX	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+10	21	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	22	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	23	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	24	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	25	Texas A&M University, College Station, TX	null
+10	26	Texas A&M University, College Station, TX	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+10	27	Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+10	28	Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+10	29	Texas A&M University, College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+10	30	Texas A&M University, College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+10	31	Texas A&M University, College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+10	32	Texas A&M University, College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+10	33	Texas A&M University, College Station, TX	null
+10	34	Texas A&M University, College Station, TX	null
+10	35	Texas A&M University, College Station, TX	null
+10	36	Texas A&M University, College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+10	37	Texas A&M University, College Station, TX	null
+11	12	Texas A&M University, College Station, TX, USA	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+11	13	Texas A&M University, College Station, TX, USA	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+11	14	Texas A&M University, College Station, TX, USA	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+11	15	Texas A&M University, College Station, TX, USA	Wuhan Univ. of Technol., Wuhan
+11	16	Texas A&M University, College Station, TX, USA	null
+11	17	Texas A&M University, College Station, TX, USA	null
+11	18	Texas A&M University, College Station, TX, USA	null
+11	19	Texas A&M University, College Station, TX, USA	null
+11	20	Texas A&M University, College Station, TX, USA	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+11	21	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	22	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	23	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	24	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	25	Texas A&M University, College Station, TX, USA	null
+11	26	Texas A&M University, College Station, TX, USA	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+11	27	Texas A&M University, College Station, TX, USA	Department of Computer Science, Texas A&M University, College Station, TX
+11	28	Texas A&M University, College Station, TX, USA	Texas A&M University, College Station, TX
+11	29	Texas A&M University, College Station, TX, USA	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+11	30	Texas A&M University, College Station, TX, USA	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+11	31	Texas A&M University, College Station, TX, USA	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+11	32	Texas A&M University, College Station, TX, USA	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+11	33	Texas A&M University, College Station, TX, USA	null
+11	34	Texas A&M University, College Station, TX, USA	null
+11	35	Texas A&M University, College Station, TX, USA	null
+11	36	Texas A&M University, College Station, TX, USA	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+11	37	Texas A&M University, College Station, TX, USA	null
+12	13	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+12	14	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+12	15	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Wuhan Univ. of Technol., Wuhan
+12	16	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	17	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	18	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	19	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	20	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+12	21	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+12	22	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+12	23	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+12	24	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+12	25	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	26	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+12	27	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+12	28	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Texas A&M University, College Station, TX
+12	29	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+12	30	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+12	31	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+12	32	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+12	33	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	34	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	35	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+12	36	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+12	37	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	14	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319
+13	15	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Wuhan Univ. of Technol., Wuhan
+13	16	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	17	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	18	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	19	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	20	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+13	21	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+13	22	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+13	23	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+13	24	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+13	25	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	26	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+13	27	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+13	28	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Texas A&M University, College Station, TX
+13	29	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+13	30	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+13	31	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+13	32	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+13	33	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	34	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	35	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+13	36	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+13	37	School of Computer Science, Shaanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	15	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Wuhan Univ. of Technol., Wuhan
+14	16	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	17	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	18	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	19	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	20	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+14	21	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+14	22	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+14	23	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+14	24	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+14	25	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	26	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+14	27	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Department of Computer Science, Texas A&M University, College Station, TX
+14	28	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Texas A&M University, College Station, TX
+14	29	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+14	30	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+14	31	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+14	32	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+14	33	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	34	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	35	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+14	36	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+14	37	School of Computer Science, Shanxi Normal University, Xi'an, China 710062 and Department of Computer Science, Georgia State University, Atlanta, USA 30319	null
+15	16	Wuhan Univ. of Technol., Wuhan	null
+15	17	Wuhan Univ. of Technol., Wuhan	null
+15	18	Wuhan Univ. of Technol., Wuhan	null
+15	19	Wuhan Univ. of Technol., Wuhan	null
+15	20	Wuhan Univ. of Technol., Wuhan	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+15	21	Wuhan Univ. of Technol., Wuhan	Department of Computer Science, Texas A&M University, College Station, TX
+15	22	Wuhan Univ. of Technol., Wuhan	Department of Computer Science, Texas A&M University, College Station, TX
+15	23	Wuhan Univ. of Technol., Wuhan	Department of Computer Science, Texas A&M University, College Station, TX
+15	24	Wuhan Univ. of Technol., Wuhan	Department of Computer Science, Texas A&M University, College Station, TX
+15	25	Wuhan Univ. of Technol., Wuhan	null
+15	26	Wuhan Univ. of Technol., Wuhan	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+15	27	Wuhan Univ. of Technol., Wuhan	Department of Computer Science, Texas A&M University, College Station, TX
+15	28	Wuhan Univ. of Technol., Wuhan	Texas A&M University, College Station, TX
+15	29	Wuhan Univ. of Technol., Wuhan	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+15	30	Wuhan Univ. of Technol., Wuhan	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+15	31	Wuhan Univ. of Technol., Wuhan	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+15	32	Wuhan Univ. of Technol., Wuhan	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+15	33	Wuhan Univ. of Technol., Wuhan	null
+15	34	Wuhan Univ. of Technol., Wuhan	null
+15	35	Wuhan Univ. of Technol., Wuhan	null
+15	36	Wuhan Univ. of Technol., Wuhan	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+15	37	Wuhan Univ. of Technol., Wuhan	null
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+16	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+16	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+16	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+16	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+16	25	null	null
+16	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+16	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+16	28	null	Texas A&M University, College Station, TX
+16	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+16	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+16	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+16	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+16	33	null	null
+16	34	null	null
+16	35	null	null
+16	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+16	37	null	null
+17	18	null	null
+17	19	null	null
+17	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+17	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+17	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+17	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+17	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+17	25	null	null
+17	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+17	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+17	28	null	Texas A&M University, College Station, TX
+17	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+17	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+17	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+17	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+17	33	null	null
+17	34	null	null
+17	35	null	null
+17	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+17	37	null	null
+18	19	null	null
+18	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+18	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+18	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+18	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+18	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+18	25	null	null
+18	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+18	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+18	28	null	Texas A&M University, College Station, TX
+18	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+18	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+18	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+18	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+18	33	null	null
+18	34	null	null
+18	35	null	null
+18	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+18	37	null	null
+19	20	null	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China
+19	21	null	Department of Computer Science, Texas A&M University, College Station, TX
+19	22	null	Department of Computer Science, Texas A&M University, College Station, TX
+19	23	null	Department of Computer Science, Texas A&M University, College Station, TX
+19	24	null	Department of Computer Science, Texas A&M University, College Station, TX
+19	25	null	null
+19	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+19	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+19	28	null	Texas A&M University, College Station, TX
+19	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+19	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+19	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+19	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+19	33	null	null
+19	34	null	null
+19	35	null	null
+19	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+19	37	null	null
+20	21	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Department of Computer Science, Texas A&M University, College Station, TX
+20	22	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Department of Computer Science, Texas A&M University, College Station, TX
+20	23	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Department of Computer Science, Texas A&M University, College Station, TX
+20	24	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Department of Computer Science, Texas A&M University, College Station, TX
+20	25	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	null
+20	26	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+20	27	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Department of Computer Science, Texas A&M University, College Station, TX
+20	28	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Texas A&M University, College Station, TX
+20	29	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+20	30	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+20	31	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+20	32	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+20	33	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	null
+20	34	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	null
+20	35	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	null
+20	36	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+20	37	School of Computer Science, Shanxi Normal University, Shanxi Xian 710062, China	null
+21	22	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	23	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	24	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	25	Department of Computer Science, Texas A&M University, College Station, TX	null
+21	26	Department of Computer Science, Texas A&M University, College Station, TX	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+21	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+21	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+21	29	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+21	30	Department of Computer Science, Texas A&M University, College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+21	31	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+21	32	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+21	33	Department of Computer Science, Texas A&M University, College Station, TX	null
+21	34	Department of Computer Science, Texas A&M University, College Station, TX	null
+21	35	Department of Computer Science, Texas A&M University, College Station, TX	null
+21	36	Department of Computer Science, Texas A&M University, College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+21	37	Department of Computer Science, Texas A&M University, College Station, TX	null
+22	23	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+22	24	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+22	25	Department of Computer Science, Texas A&M University, College Station, TX	null
+22	26	Department of Computer Science, Texas A&M University, College Station, TX	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+22	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+22	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+22	29	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+22	30	Department of Computer Science, Texas A&M University, College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+22	31	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+22	32	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+22	33	Department of Computer Science, Texas A&M University, College Station, TX	null
+22	34	Department of Computer Science, Texas A&M University, College Station, TX	null
+22	35	Department of Computer Science, Texas A&M University, College Station, TX	null
+22	36	Department of Computer Science, Texas A&M University, College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+22	37	Department of Computer Science, Texas A&M University, College Station, TX	null
+23	24	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+23	25	Department of Computer Science, Texas A&M University, College Station, TX	null
+23	26	Department of Computer Science, Texas A&M University, College Station, TX	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+23	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+23	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+23	29	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+23	30	Department of Computer Science, Texas A&M University, College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+23	31	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+23	32	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+23	33	Department of Computer Science, Texas A&M University, College Station, TX	null
+23	34	Department of Computer Science, Texas A&M University, College Station, TX	null
+23	35	Department of Computer Science, Texas A&M University, College Station, TX	null
+23	36	Department of Computer Science, Texas A&M University, College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+23	37	Department of Computer Science, Texas A&M University, College Station, TX	null
+24	25	Department of Computer Science, Texas A&M University, College Station, TX	null
+24	26	Department of Computer Science, Texas A&M University, College Station, TX	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+24	27	Department of Computer Science, Texas A&M University, College Station, TX	Department of Computer Science, Texas A&M University, College Station, TX
+24	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+24	29	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+24	30	Department of Computer Science, Texas A&M University, College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+24	31	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+24	32	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+24	33	Department of Computer Science, Texas A&M University, College Station, TX	null
+24	34	Department of Computer Science, Texas A&M University, College Station, TX	null
+24	35	Department of Computer Science, Texas A&M University, College Station, TX	null
+24	36	Department of Computer Science, Texas A&M University, College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+24	37	Department of Computer Science, Texas A&M University, College Station, TX	null
+25	26	null	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China
+25	27	null	Department of Computer Science, Texas A&M University, College Station, TX
+25	28	null	Texas A&M University, College Station, TX
+25	29	null	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+25	30	null	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+25	31	null	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+25	32	null	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+25	33	null	null
+25	34	null	null
+25	35	null	null
+25	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+25	37	null	null
+26	27	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	Department of Computer Science, Texas A&M University, College Station, TX
+26	28	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	Texas A&M University, College Station, TX
+26	29	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+26	30	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+26	31	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+26	32	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+26	33	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	null
+26	34	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	null
+26	35	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	null
+26	36	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+26	37	Mechanical Engineering Department, Dalian University of Technology, Dalian 116024, China	null
+27	28	Department of Computer Science, Texas A&M University, College Station, TX	Texas A&M University, College Station, TX
+27	29	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+27	30	Department of Computer Science, Texas A&M University, College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+27	31	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+27	32	Department of Computer Science, Texas A&M University, College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+27	33	Department of Computer Science, Texas A&M University, College Station, TX	null
+27	34	Department of Computer Science, Texas A&M University, College Station, TX	null
+27	35	Department of Computer Science, Texas A&M University, College Station, TX	null
+27	36	Department of Computer Science, Texas A&M University, College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+27	37	Department of Computer Science, Texas A&M University, College Station, TX	null
+28	29	Texas A&M University, College Station, TX	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA
+28	30	Texas A&M University, College Station, TX	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+28	31	Texas A&M University, College Station, TX	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+28	32	Texas A&M University, College Station, TX	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+28	33	Texas A&M University, College Station, TX	null
+28	34	Texas A&M University, College Station, TX	null
+28	35	Texas A&M University, College Station, TX	null
+28	36	Texas A&M University, College Station, TX	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+28	37	Texas A&M University, College Station, TX	null
+29	30	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA
+29	31	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+29	32	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+29	33	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	null
+29	34	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	null
+29	35	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	null
+29	36	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+29	37	Dept. of Comput. Sci., Georgia State Univ., Atlanta, GA	null
+30	31	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA	Dept. of Comput. Sci., Jinan Univ., Guangzhou
+30	32	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+30	33	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA	null
+30	34	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA	null
+30	35	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA	null
+30	36	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+30	37	Biomedical Informatics Core, Computation Institute, University of Chicago, 950 E 61st Street, Room 334, Chicago, IL 60637, USA and Computation Institute, University of Chicago, 5801 S Ellis Avenue Suite 400, Chicago, IL 60637, USA	null
+31	32	Dept. of Comput. Sci., Jinan Univ., Guangzhou	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China
+31	33	Dept. of Comput. Sci., Jinan Univ., Guangzhou	null
+31	34	Dept. of Comput. Sci., Jinan Univ., Guangzhou	null
+31	35	Dept. of Comput. Sci., Jinan Univ., Guangzhou	null
+31	36	Dept. of Comput. Sci., Jinan Univ., Guangzhou	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+31	37	Dept. of Comput. Sci., Jinan Univ., Guangzhou	null
+32	33	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China	null
+32	34	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China	null
+32	35	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China	null
+32	36	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+32	37	Dept. of Comput. Sci., South China Univ. of Technol., Guanghzou, China	null
+33	34	null	null
+33	35	null	null
+33	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+33	37	null	null
+34	35	null	null
+34	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+34	37	null	null
+35	36	null	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China
+35	37	null	null
+36	37	Sch. of Mechatron. Eng. & Autom., Nat. Univ. of Defense Technol., Changsha, China	null

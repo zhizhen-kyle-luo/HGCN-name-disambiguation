@@ -1,0 +1,16 @@
+0	1	Australian Conference on Artificial Intelligence	Australian Conference on Artificial Intelligence
+0	2	Australian Conference on Artificial Intelligence	Australian Conference on Artificial Intelligence
+1	2	Australian Conference on Artificial Intelligence	Australian Conference on Artificial Intelligence
+3	4	BIBE	BIBE
+5	6	COCOON	COCOON
+9	10	ICC	ICC
+12	13	ICTAI	ICTAI
+12	14	ICTAI	ICTAI
+13	14	ICTAI	ICTAI
+15	16	IEA/AIE	IEA/AIE
+15	17	IEA/AIE	IEA/AIE
+16	17	IEA/AIE	IEA/AIE
+22	39	SSDBM	SSDBM
+23	24	VLSI Design	VLSI Design
+28	29	VTC Fall	VTC Fall
+34	35	Journal of Computational Chemistry	Journal of Computational Chemistry

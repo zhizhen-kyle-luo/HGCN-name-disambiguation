@@ -1,0 +1,177 @@
+5	8	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	9	University of Massachusetts, Amherst, MA	University of Massachusetts at Amherst
+5	11	University of Massachusetts, Amherst, MA	Univ. of Massachusetts, Amherst
+5	12	University of Massachusetts, Amherst, MA	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+5	23	University of Massachusetts, Amherst, MA	University of Massachusetts - Amherst, Amherst, MA
+5	24	University of Massachusetts, Amherst, MA	Univ. of Massachusetts - Amherst, Amherst, MA
+5	25	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+5	27	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+5	31	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	32	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	33	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	36	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	41	University of Massachusetts, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+5	43	University of Massachusetts, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+5	45	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	46	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+5	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+5	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+5	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+6	10	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA	Dept. of Comput. Sci., Massachusetts Univ., Amherst, MA, USA
+8	11	University of Massachusetts Amherst	Univ. of Massachusetts, Amherst
+8	12	University of Massachusetts Amherst	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+8	23	University of Massachusetts Amherst	University of Massachusetts - Amherst, Amherst, MA
+8	24	University of Massachusetts Amherst	Univ. of Massachusetts - Amherst, Amherst, MA
+8	25	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+8	27	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+8	31	University of Massachusetts Amherst	University of Massachusetts Amherst
+8	32	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	33	University of Massachusetts Amherst	University of Massachusetts Amherst
+8	36	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	41	University of Massachusetts Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+8	43	University of Massachusetts Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+8	45	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	46	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+8	47	University of Massachusetts Amherst	University of Massachusetts Amherst
+8	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+8	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+9	11	University of Massachusetts at Amherst	Univ. of Massachusetts, Amherst
+9	25	University of Massachusetts at Amherst	University of Massachusetts, Amherst, MA
+9	27	University of Massachusetts at Amherst	University of Massachusetts, Amherst, MA
+9	46	University of Massachusetts at Amherst	University of Massachusetts, Amherst, MA
+11	12	Univ. of Massachusetts, Amherst	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA
+11	23	Univ. of Massachusetts, Amherst	University of Massachusetts - Amherst, Amherst, MA
+11	24	Univ. of Massachusetts, Amherst	Univ. of Massachusetts - Amherst, Amherst, MA
+11	25	Univ. of Massachusetts, Amherst	University of Massachusetts, Amherst, MA
+11	27	Univ. of Massachusetts, Amherst	University of Massachusetts, Amherst, MA
+11	31	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+11	32	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	33	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+11	36	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	41	Univ. of Massachusetts, Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+11	43	Univ. of Massachusetts, Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+11	45	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	46	Univ. of Massachusetts, Amherst	University of Massachusetts, Amherst, MA
+11	47	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+11	50	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst, Amherst, MA
+11	52	Univ. of Massachusetts, Amherst	University of Massachusetts Amherst
+12	23	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts - Amherst, Amherst, MA
+12	24	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	Univ. of Massachusetts - Amherst, Amherst, MA
+12	25	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+12	27	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+12	31	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+12	32	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	33	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+12	36	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	41	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+12	43	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+12	45	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	46	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+12	47	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+12	50	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+12	52	Dept. of Comput. Sci., Univ. of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+23	24	University of Massachusetts - Amherst, Amherst, MA	Univ. of Massachusetts - Amherst, Amherst, MA
+23	25	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+23	27	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+23	31	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+23	32	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	33	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+23	36	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	41	University of Massachusetts - Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+23	43	University of Massachusetts - Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+23	45	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	46	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+23	47	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+23	50	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+23	52	University of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	25	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+24	27	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+24	31	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	32	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	33	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	36	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	41	Univ. of Massachusetts - Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+24	43	Univ. of Massachusetts - Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+24	45	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	46	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+24	47	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+24	50	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+24	52	Univ. of Massachusetts - Amherst, Amherst, MA	University of Massachusetts Amherst
+25	27	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+25	31	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+25	32	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	33	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+25	36	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	41	University of Massachusetts, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+25	43	University of Massachusetts, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+25	45	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	46	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+25	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+25	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+25	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+27	31	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+27	32	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	33	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+27	36	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	41	University of Massachusetts, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+27	43	University of Massachusetts, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+27	45	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	46	University of Massachusetts, Amherst, MA	University of Massachusetts, Amherst, MA
+27	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+27	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+27	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+31	32	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	33	University of Massachusetts Amherst	University of Massachusetts Amherst
+31	36	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	41	University of Massachusetts Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+31	43	University of Massachusetts Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+31	45	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	46	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+31	47	University of Massachusetts Amherst	University of Massachusetts Amherst
+31	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+31	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+32	33	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+32	36	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+32	41	University of Massachusetts Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+32	43	University of Massachusetts Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+32	45	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+32	46	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+32	47	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+32	50	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+32	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+33	36	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+33	41	University of Massachusetts Amherst	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+33	43	University of Massachusetts Amherst	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+33	45	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+33	46	University of Massachusetts Amherst	University of Massachusetts, Amherst, MA
+33	47	University of Massachusetts Amherst	University of Massachusetts Amherst
+33	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+33	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+36	41	University of Massachusetts Amherst, Amherst, MA	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610
+36	43	University of Massachusetts Amherst, Amherst, MA	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+36	45	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+36	46	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+36	47	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+36	50	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+36	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+41	43	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA
+41	45	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst, Amherst, MA
+41	46	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts, Amherst, MA
+41	47	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst
+41	50	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst, Amherst, MA
+41	52	Department of Computer Science, University of Massachusetts Amherst, Amherst, USA 01003-4610	University of Massachusetts Amherst
+43	45	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst, Amherst, MA
+43	46	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts, Amherst, MA
+43	47	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst
+43	50	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst, Amherst, MA
+43	52	Computer Science Department, Knowledge Discovery Laboratory, University of Massachusetts Amherst, Amherst, MA 01003, USA	University of Massachusetts Amherst
+45	46	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts, Amherst, MA
+45	47	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+45	50	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+45	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst
+46	47	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+46	50	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst, Amherst, MA
+46	52	University of Massachusetts, Amherst, MA	University of Massachusetts Amherst
+47	50	University of Massachusetts Amherst	University of Massachusetts Amherst, Amherst, MA
+47	52	University of Massachusetts Amherst	University of Massachusetts Amherst
+50	52	University of Massachusetts Amherst, Amherst, MA	University of Massachusetts Amherst

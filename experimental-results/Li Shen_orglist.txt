@@ -1,0 +1,15 @@
+0	14	Osaka University	Osaka University
+1	2	Univ. of Mass. Dartmouth, USA	Univ. of Mass. Dartmouth, USA
+3	4	University of Massachusetts Dartmouth, USA	University of Massachusetts Dartmouth, USA
+3	12	University of Massachusetts Dartmouth, USA	University of Massachusetts
+3	36	University of Massachusetts Dartmouth, USA	University of Massachusetts Dartmouth, MA
+4	12	University of Massachusetts Dartmouth, USA	University of Massachusetts
+4	36	University of Massachusetts Dartmouth, USA	University of Massachusetts Dartmouth, MA
+8	16	National University of Defense Technology	National University of Defense Technology, Changsha, Hunan, China
+8	58	National University of Defense Technology	National University of Defense Technology, Changsha, China
+8	65	National University of Defense Technology	National University of Defense Technology
+12	36	University of Massachusetts	University of Massachusetts Dartmouth, MA
+16	58	National University of Defense Technology, Changsha, Hunan, China	National University of Defense Technology, Changsha, China
+16	65	National University of Defense Technology, Changsha, Hunan, China	National University of Defense Technology
+28	45	Dartmouth College, Hanover, NH	(Correspd. Tel.: +1 508 910 6691; Fax: +1 508 999 9144; lshen@umassd.edu) Dartmouth Exp. Vis. Lab., Dept. of Comp. Sci., Dartmouth Coll., Hanover, NH 03755, USA and Dept. of Comp. and Info. Sci., Umass Dartmouth, MA 02747, USA
+58	65	National University of Defense Technology, Changsha, China	National University of Defense Technology

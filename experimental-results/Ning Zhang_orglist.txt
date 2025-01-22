@@ -1,0 +1,150 @@
+2	79	Ministry of Education Key Lab of Computer Networks and Information Security, Xidian University, Xi'an, China 710071	National Key Laboratory of ISN, Xidian University, Xi'an, Shaanxi 710071, PR China
+6	10	Manchester Univ., Manchester	Dept. of Comput. Sci., Manchester Univ., UK
+6	32	Manchester Univ., Manchester	Dept. of Comput. Sci., Manchester Univ., UK
+6	33	Manchester Univ., Manchester	Dept. of Comput. Sci., Manchester Univ., UK
+6	35	Manchester Univ., Manchester	Dept. of Comput. Sci., Manchester Univ., UK
+6	38	Manchester Univ., Manchester	Dept. of Comput. Sci., Manchester Univ., UK
+6	39	Manchester Univ., Manchester	Dept. of Comput. Sci., Manchester Univ., UK
+8	11	University of Manchester, UK	University of Manchester
+8	30	University of Manchester, UK	University of Manchester
+8	43	University of Manchester, UK	University of Manchester, Manchester, UK
+8	46	University of Manchester, UK	The University of Manchester, Manchester, UK
+8	47	University of Manchester, UK	University of Manchester, Manchester, UK
+8	48	University of Manchester, UK	University of Manchester, UK
+8	64	University of Manchester, UK	University of Manchester, UK
+8	65	University of Manchester, UK	University of Manchester, UK
+8	73	University of Manchester, UK	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+8	78	University of Manchester, UK	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+8	108	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+8	112	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+10	32	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+10	33	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+10	35	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+10	38	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+10	39	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+11	30	University of Manchester	University of Manchester
+11	43	University of Manchester	University of Manchester, Manchester, UK
+11	46	University of Manchester	The University of Manchester, Manchester, UK
+11	47	University of Manchester	University of Manchester, Manchester, UK
+11	48	University of Manchester	University of Manchester, UK
+11	64	University of Manchester	University of Manchester, UK
+11	65	University of Manchester	University of Manchester, UK
+11	73	University of Manchester	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+11	78	University of Manchester	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+11	108	University of Manchester	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+11	112	University of Manchester	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+13	110	Shandong Univ., Jinan	Shandong Univ., Jinan, China
+13	118	Shandong Univ., Jinan	Shandong University
+17	61	Cornell University	Cornell University
+18	58	Dept. of Comput. Sci. & Technol., Peking Univ., Beijing, China	Peking Univ., Beijing, China
+18	59	Dept. of Comput. Sci. & Technol., Peking Univ., Beijing, China	Peking University, Beijing
+18	117	Dept. of Comput. Sci. & Technol., Peking Univ., Beijing, China	Peking University
+18	122	Dept. of Comput. Sci. & Technol., Peking Univ., Beijing, China	Peking University, Beijing
+19	20	University of Waterloo, Canada	University of Waterloo
+19	22	University of Waterloo, Canada	University of Waterloo
+19	53	University of Waterloo, Canada	University of Waterloo, Canada
+19	77	University of Waterloo, Canada	Computer Science Department, University of Waterloo, Waterloo, ON, Canada
+19	114	University of Waterloo, Canada	University of Waterloo
+20	22	University of Waterloo	University of Waterloo
+20	53	University of Waterloo	University of Waterloo, Canada
+20	77	University of Waterloo	Computer Science Department, University of Waterloo, Waterloo, ON, Canada
+20	114	University of Waterloo	University of Waterloo
+22	53	University of Waterloo	University of Waterloo, Canada
+22	77	University of Waterloo	Computer Science Department, University of Waterloo, Waterloo, ON, Canada
+22	114	University of Waterloo	University of Waterloo
+26	27	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada
+26	89	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada
+26	90	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada
+26	91	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada
+27	89	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada
+27	90	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada
+27	91	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada
+30	43	University of Manchester	University of Manchester, Manchester, UK
+30	46	University of Manchester	The University of Manchester, Manchester, UK
+30	47	University of Manchester	University of Manchester, Manchester, UK
+30	48	University of Manchester	University of Manchester, UK
+30	64	University of Manchester	University of Manchester, UK
+30	65	University of Manchester	University of Manchester, UK
+30	73	University of Manchester	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+30	78	University of Manchester	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+30	108	University of Manchester	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+30	112	University of Manchester	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+32	33	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+32	35	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+32	38	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+32	39	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+33	35	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+33	38	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+33	39	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+35	38	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+35	39	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+37	51	College of Information Science and Technology, Dalian Maritime University, Dalian, China 116026	Dalian Maritime University, China
+38	39	Dept. of Comput. Sci., Manchester Univ., UK	Dept. of Comput. Sci., Manchester Univ., UK
+42	63	University of Florida, Gainesville, FL, USA	Dept. of Computer and Information Science and Engineering, University of Florida, Gainesville FL 32611
+42	88	University of Florida, Gainesville, FL, USA	Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States
+43	46	University of Manchester, Manchester, UK	The University of Manchester, Manchester, UK
+43	47	University of Manchester, Manchester, UK	University of Manchester, Manchester, UK
+43	48	University of Manchester, Manchester, UK	University of Manchester, UK
+43	64	University of Manchester, Manchester, UK	University of Manchester, UK
+43	65	University of Manchester, Manchester, UK	University of Manchester, UK
+43	73	University of Manchester, Manchester, UK	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+43	78	University of Manchester, Manchester, UK	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+43	108	University of Manchester, Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+43	112	University of Manchester, Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+46	47	The University of Manchester, Manchester, UK	University of Manchester, Manchester, UK
+46	48	The University of Manchester, Manchester, UK	University of Manchester, UK
+46	64	The University of Manchester, Manchester, UK	University of Manchester, UK
+46	65	The University of Manchester, Manchester, UK	University of Manchester, UK
+46	73	The University of Manchester, Manchester, UK	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+46	78	The University of Manchester, Manchester, UK	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+46	108	The University of Manchester, Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+46	112	The University of Manchester, Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+47	48	University of Manchester, Manchester, UK	University of Manchester, UK
+47	64	University of Manchester, Manchester, UK	University of Manchester, UK
+47	65	University of Manchester, Manchester, UK	University of Manchester, UK
+47	73	University of Manchester, Manchester, UK	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+47	78	University of Manchester, Manchester, UK	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+47	108	University of Manchester, Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+47	112	University of Manchester, Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+48	64	University of Manchester, UK	University of Manchester, UK
+48	65	University of Manchester, UK	University of Manchester, UK
+48	73	University of Manchester, UK	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+48	78	University of Manchester, UK	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+48	108	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+48	112	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+53	77	University of Waterloo, Canada	Computer Science Department, University of Waterloo, Waterloo, ON, Canada
+53	114	University of Waterloo, Canada	University of Waterloo
+58	59	Peking Univ., Beijing, China	Peking University, Beijing
+58	117	Peking Univ., Beijing, China	Peking University
+58	122	Peking Univ., Beijing, China	Peking University, Beijing
+59	117	Peking University, Beijing	Peking University
+59	122	Peking University, Beijing	Peking University, Beijing
+63	88	Dept. of Computer and Information Science and Engineering, University of Florida, Gainesville FL 32611	Department of Computer and Information Science and Engineering, University of Florida, Gainesville, FL 32611, United States
+64	65	University of Manchester, UK	University of Manchester, UK
+64	73	University of Manchester, UK	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+64	78	University of Manchester, UK	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+64	108	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+64	112	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+65	73	University of Manchester, UK	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL
+65	78	University of Manchester, UK	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+65	108	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+65	112	University of Manchester, UK	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+67	109	Inst. of Inf. Technol., Beijing Union Univ., Beijing	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China
+67	120	Inst. of Inf. Technol., Beijing Union Univ., Beijing	Beijing Union University, Beijing 100101, China
+73	78	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL
+73	108	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+73	112	Department of Computer Science, The University of Manchester, Oxford Road, Manchester, UK M13 9PL	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+77	114	Computer Science Department, University of Waterloo, Waterloo, ON, Canada	University of Waterloo
+78	108	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL	Sch. of Comput. Sci., Univ. of Manchester, Manchester
+78	112	School of Computer Science, The University of Manchester, Manchester, United Kingdom M13 9PL	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+89	90	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada
+89	91	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada
+90	91	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Ont., Canada	Dept. of Electr. & Comput. Eng., McMaster Univ., Hamilton, Canada
+94	95	Pacific Bell Broadband Network Res., San Ramon, CA	Pacific Bell, San Ramon, CA
+94	96	Pacific Bell Broadband Network Res., San Ramon, CA	Pacific Bell, San Ramon, CA
+95	96	Pacific Bell, San Ramon, CA	Pacific Bell, San Ramon, CA
+102	104	Ryerson Multimedia Research Laboratory, Ryerson University, Toronto, Ontario, Toronto, Canada	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, ON
+108	112	Sch. of Comput. Sci., Univ. of Manchester, Manchester	Sch. of Comput. Sci., Univ. of Manchester, Manchester, UK
+109	120	Inst. of Inf. Technol., Beijing Union Univ., Beijing, China	Beijing Union University, Beijing 100101, China
+110	118	Shandong Univ., Jinan, China	Shandong University
+117	122	Peking University	Peking University, Beijing

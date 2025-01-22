@@ -1,0 +1,36 @@
+11	22	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL
+11	25	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA
+11	27	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364
+11	28	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364
+11	32	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+11	33	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA
+11	34	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+11	35	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816
+22	25	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA
+22	27	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364
+22	28	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364
+22	32	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+22	33	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA
+22	34	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+22	35	Department of Mathematics, University of Central Florida, Orlando, FL	Department of Mathematics, University of Central Florida, Orlando, FL 32816
+25	27	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364
+25	28	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364
+25	32	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+25	33	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA
+25	34	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+25	35	Department of Mathematics, University of Central Florida, Orlando, FL 32816, USA	Department of Mathematics, University of Central Florida, Orlando, FL 32816
+27	28	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364
+27	32	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+27	33	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA
+27	34	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+27	35	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816
+28	32	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+28	33	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA
+28	34	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+28	35	Department of Mathematics, University of Central Florida, Orlando, Florida 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816
+32	33	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA
+32	34	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+32	35	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816
+33	34	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364
+33	35	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364, USA	Department of Mathematics, University of Central Florida, Orlando, FL 32816
+34	35	Department of Mathematics, University of Central Florida, Orlando, FL 32816-1364	Department of Mathematics, University of Central Florida, Orlando, FL 32816

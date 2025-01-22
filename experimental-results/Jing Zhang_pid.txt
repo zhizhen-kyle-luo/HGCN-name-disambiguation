@@ -1,0 +1,231 @@
+6802	E-R modeler: a database modeling toolkit for Eclipse
+8266	Novel View Generation from Two Reference Images Based on the Same Optical Axis
+10873	Index Support for Visualizing Large, Distributed, High-Dimension Data Sets
+19629	Camera Calibration from a Single Frame of Planar Pattern
+27491	CACS: A Novel Classification Algorithm Based on Concept Similarity
+51924	Autonomous Objects and Bottom-Up Composition in ZOO Applied to a Case Study of Biological Reactivity
+60006	An Adaptive Selection of Motion for Online Hand-Eye Calibration
+65209	Simulations of Protein Folding Process
+65373	Methods and Simulations for the Protein Folding
+72760	Limn Matrix: A Tool for Visualizing Large, Distributed, High-Dimension Data Sets
+78839	Enhancing SQL with Set-Comparison Operators
+93607	Toward Protein Structure Analysis with Self-Organizing Maps
+113456	A Context-Aware Policy Model to Support Autonomic Networking
+113496	MDDAS 2008 Workshop Organization
+113528	Message from the MDDS 2008 Workshop Organizers
+118893	Computing Exact p-Value for Structured Motif
+122288	A Composition-Oriented Approach for Business Process Formal Design
+122539	A Pi-calculus-Based Business Process Formal Design Method
+122836	Research on the Optimal Transmission Design of Planar Bar Mechanism
+129049	Motion Segmentation of Multiple Translating Objects Using Line Correspondences
+141094	Expert Finding in a Social Network
+154947	Exploring digital government initiatives to expand Full Information Product Pricing (FIPP) networks in NAFTA
+155020	North American digital government working group: initial steps in the development of a comparative and transnational agenda
+167800	A Case Study: A Model-Based Approach to Retrofit a Network Fault Management System with Self-Healing Functionality
+177965	Dynamic Terrain LOD with Region Preservation in 3D Game Engine
+178100	A Survey on Use of 'New Perspective English Learning System' among University Students-Case Study on Jiangxi Normal University
+178134	The F-R Model of Teaching in Chinese Universities
+178153	Federate Job Mapping Strategy in Grid-Based Virtual Wargame Collaborative Environment
+178191	Real-Time Visualization of Tire Tracks in Dynamic Terrain with LOD
+218107	An Improved Fuzzy Image Enhancement Algorithm
+218240	DNA Sequences Classification Based on Immune Evolution Network
+218523	Model Retrieval Based on Flattened Shape Comparison in 3D Databases
+219221	ROI Based Natural Image Retrieval Using Color and TextureFeature
+235717	Model-Driven Program Transformation of a Large Avionics Framework
+236706	Adaptive Noise Reduction for Engineering Drawings Based on Primitives and Noise Assessment
+243352	Increase of Potential Intellectual Bandwidth in a Scientific Community through Implementation of an End-User Information System
+249055	Divergent Approaches and Converging Views: Drawing Sensible Linkages between Knowledge Management and Organizational Learning
+249056	The Nature of Knowledge and Its Influence on Knowledge Sharing Practice: Experiences from Building the MACROS System
+249057	The Effect of Organizational/Technological Factors and the Nature of Knowledge on Knowledge Sharing
+249626	Minitrack: E-Government Information and Knowledge Management
+250442	Information Strategies to Support Full Information Product Pricing: the Role of Trust
+253472	Texture-Based Image Retrieval by Edge Detection Matching GLCM
+261096	Transforming Natural Arguments in Araucaria to Formal Arguments in LMA
+261854	Factor Analysis Based Anomaly Detection
+273835	Exploiting Frame-to-Frame Coherence for Rendering Terrain Using Continuous LOD
+278881	Studies on a Class of AWG-Based Node Architectures for Optical Burst-Switched Networks
+280585	Explicit Routing for Traffic Engineering in Labeled Optical Burst-Switched WDM Networks
+280683	Federation Based Solution for Peer-to-Peer Network Management
+289698	RSA Extended Modulus Attacks and Their Solutions in a Kind of Fair Exchange Protocols
+291531	A Hybrid Restoration Scheme Based on Threshold Reaction Time in Optical Burst-Switched Networks
+302116	Optimal-Nearest-Neighbor Queries
+303689	A Topic Modeling Approach and Its Integration into the Random Walk Framework for Academic Search
+307579	Dynamic Negotiation for Real-Time Manufacturing Execution
+313284	The Cluster Distribution of Regulatory Motifs of Transcription in Yeast Introns
+314057	Optimizing the Selection of Partners in Collaborative Operation Networks
+323809	A Novel Lossless Compression for Hyperspectral Images by Adaptive Classified Arithmetic Coding in Wavelet Domain
+332131	A Multimedia System for Route Sharing and Video-Based Navigation
+334256	A PDA-Based Sign Translator
+337211	An Advanced Scheme For Wireless Network Authentication System
+337219	A New Scheme For Wireless Network Authentication System
+337739	Neuroinformatics Research in China- Current Status and Future Research Activities
+337784	Eigenspectra Versus Eigenfaces: Classification with a Kernel-Based Nonlinear Representor
+337904	Evolutionary Algorithm Based on Overlapped Gene Expression
+338111	A Novel Approach Using Edge Detection Information for Texture Based Image Retrieval
+347652	Multimodal Registration using the Discrete Wavelet Frame Transform
+349484	A Robust Approach for Recognition of Text Embedded in Natural Scenes
+349549	Motion Segmentation by Multibody Trifocal Tensor Using Line Correspondence
+350612	A new edge-based text verification approach for video
+357268	Sharing Inertia Load between Multiple Robots with Active Compliant Grippers using Trajectory Pre-shaping
+364890	Maintaining software product lines - an industrial practice
+365290	The LLAMA Middleware Support for Accountable Service-Oriented Architecture
+371126	Personalized QoS Prediction forWeb Services via Collaborative Filtering
+375148	Processing and Analysis of Ground Penetrating Radar Landmine Detection
+384364	On the Integration Frame of Collaborative Innovation Support System for Telecom Operators
+398678	Applying Virtual Reality to Web-based Education
+398757	Real-time Competition Simulation System
+411670	Model-driven generative techniques for scalable performability analysis of distributed systems
+425307	Approximate treatment for calculation of the rate-distortion slope in EBCOT
+443210	Landmine Feature Extraction and Classification of GPR Data Based on SVM Method
+443547	Adaptive Training of a Kernel-Based Representative and Discriminative Nonlinear Classifier
+443867	Single Trial Evoked Potentials Study during an Emotional Processing Based on Wavelet Transform
+443970	Sequential Proximity-Based Clustering for Telecommunication Network Alarm Correlation
+464050	Watermarking for Authentication of LZ-77 Compressed Documents
+473726	ArnetMiner: extraction and mining of academic social networks
+498119	A Hand-Eye Robotic Model for Total Knee Replacement Surgery
+499789	Levels of Independence in Aspect-Oriented Modeling
+503482	Hyperspectral images lossless compression by a novel three-dimensional wavelet coding
+509479	Computer Simulation for Protein Folding
+511082	Speechalator: Two-Way Speech-to-Speech Translation in Your Hand
+522215	C-SAW and genAWeave: a two-level aspect weaving toolsuite
+522969	Supporting software evolution through model-driven program transformation
+522971	Metamodel-driven model interpreter evolution
+527619	A Mixture Model for Expert Finding
+527702	A Discriminative Approach to Topic-Based Citation Recommendation
+538250	Core role-based access control: efficient implementations by transformations
+559285	Rapid and Accurate Protein Side Chain Prediction with Local Backbone Information
+583919	ArnetMiner: An Expertise Oriented Search System for Web Community
+608973	Multi-signers Strong Designated Verifier Signature Scheme
+635185	Replicators: Transformations to Address Model Scalability
+650904	Automatic Detection of Signs with Affine Transformation
+652226	A New Heuristic Reduct Algorithm Base on Rough Sets Theory
+652256	Name Disambiguation Using Atomic Clusters
+652393	Recommendation over a Heterogeneous Social Network
+652412	Topic-Level Random Walk through Probabilistic Model
+675121	EOS: expertise oriented search using social networks
+675428	Extraction and mining of an academic social network
+675438	A unified framework for name disambiguation
+677741	Enhancing Software Product Line Maintenance with Source Code Mining
+679558	Efficient Video Authentication for H.264/AVC
+687443	Study on the Co-Existence of 20ms TTI and 5ms TTI in E-DCH of TD-SCDMA HSUPA
+687483	Multi-User Joint Doppler Spread Estimation in Generalized Distributed Antenna System
+690517	A Novel Load Control Strategy For TD-SCDMA Enhanced Uplink
+695810	3D Motion Segmentation from Straight-Line Optical Flow
+696642	Evaluating the Disaster Defense Ability of Information Systems
+709104	An Automatic Voice Query System for Bank Based on Telephone Network
+716682	Comparison between Voxel-based Morphometry and Volumetric Analysis in Schizophrenia
+720138	Business Process-Oriented Software Architecture for Supporting Business Process Change
+720471	Semantic Information Extraction of Video Based on Ontology and Inference
+721833	Model-Driven Adaptive Self-healing for Autonomic Computing
+724360	A New Calibration Model and Method of Camera Lens Distortion
+726821	A model-based approach to adding autonomic capabilities to network fault management system
+727231	A low complexity method for real-time gaze tracking
+730647	A Novel Approach of Face Detection based on Skin Color Segmentation and PCA
+732481	Biomechanical Modeling of Bone-Needle Interaction for Haptic Rendering in Needle Insertion Simulation
+733219	Identification of initial rotor position of a micro-PMSM
+733497	Application of multisensor data fusion based on RBF neural networks for fault diagnosis of SAMS
+733585	Application of neuro-fuzzy control for satellite AOCS
+735931	Robust Controller for Networked Control Systems Induced Noise and Long Transmission Delay
+760629	Similarity computing model of high dimension data for symptom classification of Chinese traditional medicine
+763153	ATID: a web-oriented database for collection of publicly available alternative translational initiation events
+766419	MicroRNA identification based on sequence and structure alignment
+767013	Computing exact P-values for DNA motifs
+767958	dbNEI2.0: building multilayer network for drug-NEI-disease
+768501	htSNPer1.0: software for haplotype block partition and htSNPs selection
+782827	Detection of potential positive regulatory motifs of transcription in yeast introns by comparative analysis of oligonucleotide frequencies
+806568	Automating Change Evolution in Model-Driven Engineering
+849249	The spectrum of cyclic BSEC with block size three
+857418	Factor-analysis based anomaly detection and clustering
+896014	Improved Blind Decodings of STBC with Unknown and Known Channel Correlation to Transmitter
+899538	Epitaxial Growth of SiGe Interband Tunneling Diodes on Si(001) and on Si0.7Ge0.3 Virtual Substrates
+904926	Aspect mining from a modelling perspective
+907015	Systematic benchmarking of microarray data feature extraction and classification
+921069	Weaving Deployment Aspects into Domain-specific Models
+956110	Comparative knowledge management: A pilot study of Chinese and American universities
+992460	Backup reprovisioning to remedy the effect of multiple link failures in WDM mesh networks
+993005	Optimized routing for fault management in optical burst-switched WDM networks
+993070	Dynamic provisioning with availability guarantee for differentiated services in survivable mesh networks
+1024029	A review of fault management in WDM mesh networks: basic concepts and research challenges
+1041342	Motion segmentation of multiple translating objects from line correspondences
+1042648	A new calibration model of camera lens distortion
+1075787	Model replication: transformations to address model scalability
+1102318	Automatic detection and recognition of signs from natural scenes
+1123027	Availability-aware provisioning strategies for differentiated protection services in wavelength-convertible WDM mesh networks
+1123179	A comprehensive study on backup-bandwidth reprovisioning after network-state updates in survivable telecom mesh networks
+1155422	Fabrication of strained Si channel PMOSFET on thin relaxed Si1-xGex virtual substrate
+1163202	Efficient Sports Video Retrieval Based on Index Structure
+1169621	A component-oriented software toolkit for patient-specific finite element model generation
+1179729	A model-driven approach to enforce crosscutting assertion checking
+1184523	Multi-Index Cooperative Mixed Strategy for Service Selection Problem in Service-Oriented Architecture
+1185492	Arnetminer: expertise oriented search using social networks
+1195093	Adaptive motion selection for online hand-eye calibration
+1201917	Learning-Based Driver Workload Estimation
+1206974	Research group on digital government in North America: developing a comparative and transnational agenda
+1206987	Exploring digital government initiatives to expand full information product pricing (FIPP) networks in NAFTA
+1218857	Bath-induced Control of two-qubit entanglement under Markovian noises
+1226712	Framework for Performance Evaluation of Face, Text, and Vehicle Detection and Tracking in Video: Data, Metrics, and Protocol
+1236119	A Web Service Adapter with Contract-Oriented Methodology
+1240043	Applying PageRank Algorithm in Requirement Concern Impact Analysis
+1246182	A Pixel-level Statistical Structural Descriptor for Shape Measure and Recognition
+1248983	SOA Middleware Support for Service Process Reconfiguration with End-to-End QoS Constraints
+1255135	Do You Know Where Your Data's Been? - Tamper-Evident Database Provenance
+1265653	Fudan University at TRECVID 2008
+1269842	Examining Glacier Mass Balances with a Hierarchical Modeling Approach
+1275992	Building Accountability Middleware to Support Dependable SOA
+1291742	A Task-Based Approach to User Interface Design for a Web-Based Hydrologic Information Systems
+1305339	Extraction of Text Objects in Video Documents: Recent Progress.
+1305868	The Design of a New Context-Aware Policy Model for Autonomic Networking.
+1310195	An Efficient Approach for Service Process Reconfiguration in SOA with End-to-End QoS Constraints.
+1310218	Business Process Composition with QoS Optimization.
+1314750	Interweave Neural Networks with Evolutionary Algorithms, Cellular Computing, Bayesian Learning and Ensemble Learning.
+1317157	Computer Simulation of Air Flow Distribution Characteristics in Inner Filtering Fabric Filters.
+1317546	A Simplified Learning Algorithm of Incremental Bayesian.
+1317764	Spectral Unmixing Technique Based on Flexibly Selected Endmembers.
+1317793	Concern Based Approach to Generating SCR Requirement Specification: A Case Study.
+1319502	Topic Distributions over Links on Web.
+1319722	Image Computing: Fractional Spectra and Circular Moments via FrFT.
+1322534	Terminal Delay Performance Evaluation Based on Piece-Wise Fuzzy Linear Regression Modeling.
+1322632	A New FCM-Based Algorithm of Hydrophobic Image Segmentation.
+1322933	Numerical Simulation of Bag-Type Collector Flow Field in Biomass Energy Power Plant.
+1322943	Service Quality Evaluation for Brand Retailers Based on Fuzzy Comprehensive Appraisal.
+1322984	A Fuzzy Design Algorithm in Nature-Inspired Computation Systems.
+1323179	Advances in Fuzzy Method for Natural Computing.
+1327704	Equivalent Inertia Moment in Linear Stability Calculation of Stepped Beam.
+1327836	Optimized NURBS Curve and Surface Fitting Using Simulated Annealing.
+1327907	Creditability Modeling of Distributed Embedded System Based on Real-Time Interaction Specification.
+1327960	High Dependability Design Framework in Real-Time Embedded Control Software.
+1328225	A Novel Video Searching Model Based on Ontology Inference and Multimodal Information Fusion.
+1329173	The Application of Cultural Algorithm in Load Balancing of Hybrid P2P Network.
+1371300	Reliability Modeling and Analysis of Service-Oriented Robot Management System
+1374070	Leopard Image Retrieval using Region of Interest and Texture Feature
+1383251	A Simulating Algorithm for Protein Folding Process
+1386388	Design and analysis of bi-directional pumping silicon Raman laser
+1390589	Watermarking for Authentication of LZ-77 Compressed Documents
+1394130	Implementation Technique of Unrestricted LL Action Grammar
+1413754	Comparative knowledge management: A pilot study of Chinese and American universities: Book Reviews
+1428380	Large area nanosize array stamp for UV-based nanoimprint lithography fabricated by size reduction process
+1428842	Research group on digital government in North America: developing a comparative and transnational agenda
+1578769	Dynamic Equivalents of Power System Based on Extended Two Particle Swarm Optimization
+1579908	Function Finding and Constants Creation Method in Evolutionary Algorithm Based on Overlapped Gene Expression
+1581750	The Predictive Control of Sintering Temperature in Rotary Kiln Based on Image Feedback and Soft Computing
+1581878	An Improved Immune Evolutionary Algorithm for Multimodal Function Optimization
+1582696	ROI Based Natural Image Retrieval Using Color and Texture Feature
+1582760	Specification and Runtime Enforcement of Security Policies
+1595078	Monotone iterative technique for initial-value problems of nonlinear singular discrete systems
+1596745	Flexible Feature Processing Mechanism of Radar Target Signal
+1599260	A Survey on Use of "New Perspective English Learning System" among University Students--Case Study on Jiangxi Normal University
+1613981	Work-Flow Based Multi-Domain Certificate in E-Commerce
+1649111	Numerical Simulation of Fluid Flow in Thin Slab Continuous Casting Mould
+1649843	Fabrication, constructions and electrical property of Si2Sb2Te5 electrical probe storage system
+1653729	Do You Know Where Your Data's Been? --- Tamper-Evident Database Provenance
+1655257	Intelligence Computing Methods in Electronic Commerce and Security
+1707212	Architectures and algorithms for fault management in optical wdm networks
+1747152	Externality Identification and Quantification of Transmission Construction Projects
+1748067	Coordination Research on Key Parameters in Generation Competition Based on Dynamic Simulation
+1748899	Network Intrusion Active Defense Model Based on Artificial Immune System
+1752652	dbNEI2.0
+1753048	A Square Root Extended Set Membership Algorithm with Applications to Nonlinear System Estimation
+1753520	A Novel Approach Using PCA and SVM for Face Detection
+1755237	Design of an Automatic Control System for Coal Preparation Process
+1755524	Composite Evaluation of Replacing Small Generation Units with Large Ones in the Electricity Sector in China
+1755784	Application of Immune Classifier Based on Increment of Diversity in the Model Species Genomes Identification

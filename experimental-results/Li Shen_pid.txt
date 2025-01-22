@@ -1,0 +1,68 @@
+4155	Efficient Photometric Stereo Technique for Three-Dimensional Surfaces with Unknown BRDF
+4443	A Spatio-Temporal Modeling Method for Shape Representation
+4475	Hemispherical Harmonic Surface Description and Applications to Medical Image Analysis
+4486	Large-Scale Modeling of Parametric Surfaces Using Spherical Harmonics
+4511	Shape Analysis and Spatio-Temporal Tracking of Mesoscale Eddies in Miami Isopycnic Coordinate Ocean Model
+43724	PLS and SVD based penalized logistic regression for cancer classification using microarray data
+43726	A Generalized Output-Coding Scheme with SVM for Multiclass Microarray Classification
+46775	Predicate Analysis Based on Path Information
+49697	A New Architecture For Multiple-Precision Floating-Point Multiply-Add Fused Unit Design
+58635	RTL Concurrent Fault Simulation
+58636	Genetic Algorithm Based Test Generation for Sequential Circuits
+63560	Morphometric Analysis of Hippocampal Shape in Mild Cognitive Impairment: An Imaging Genetics Study
+119559	Efficient Registration of 3D SPHARM Surfaces
+121000	K-means+ Method for Improving Gene Selection for Classification of Microarray Data
+129042	Spatial Reflectance Recovery under Complex Illumination from Sparse Images
+130603	Intrinsic image decomposition with non-local texture cues
+134879	Customizing computation accelerators for extensible multi-issue processors with effective optimization techniques
+150310	Mining Flexible Multiple-Level Association Rules in All Concept Hierarchies (Extended Abstract)
+184750	MetaDL: A Digital Library of Metadata for Sensitive or Complex Research Data
+308990	A New Technique for Program Code Compression in Embedded Microprocessor
+310458	VLSI functional testing using critical path traces at hardware description language level
+324759	Surface Harmonics for Shape Modeling
+337854	Nonlinear Kernel MSE Methods for Cancer Classification
+385587	An Improved Sample Pairs Method for Detection of LSB Embedding
+438062	A Quick Method for Synthesizing Photorealistic Color Images under Various Illumination Conditions
+455760	A Simplified Algorithm for Testing Microprocessors
+457328	Equivalence of Punctured Convolutional Codes from Shift Equivalent Puncturing Patterns
+457329	Spherical Parameterization for 3D Surface Analysis in Volumetric Images
+467822	Generating fuzzy semantic metadata describing spatial relations from images using the R-histogram
+467888	SCENS: A System for the Mediated Sharing of Sensitive Data
+495787	Multi-scale Voxel-Based Morphometry Via Weighted Spherical Harmonic Representation
+497359	Surface Alignment of 3D Spherical Harmonic Models: Application to Cardiac MRI Analysis
+497371	A Prediction Framework for Cardiac Resynchronization Therapy Via 4D Cardiac Motion Analysis
+498110	Morphometric Analysis of Brain Structures for Improved Discrimination
+531691	Classification of Facial Images Using Gaussian Mixture Models
+540264	Illumination Brush: Interactive Design of All-Frequency Lighting
+567463	A clustering-based approach for prediction of cardiac resynchronization therapy
+585782	Application of Software Fault Tree Analysis to an Airport Ground Control System
+585980	Data Brokers: Building Collections through Automated Negotiation
+618368	A Spatio-temporal Multi-modal Data Management and Analysis Environment for Tracking MS Lesions
+658048	Mining the Most Interesting Web Access Associations
+692046	Hardware Support for Arithmetic Units of Processor with Multimedia Extension
+692120	A New CORDIC Algorithm and Software Implementation Based on Synchronized Data Triggering Architecture
+730702	A Novel Hardware Assisted Full Virtualization Technique
+782592	Reducing multiclass cancer classification to binary by output coding and SVM
+893297	A surface-based approach for classification of 3D neuroanatomic structures
+941746	New Algorithms for Efficient Mining of Association Rules
+947448	Spherical mapping for processing of 3D closed surfaces
+973637	Unified Probabilistic Models for Face Recognition from a Single Example Image per Person
+973640	Unified Model in Identity Subspace for Face Recognition
+973742	VFSim: Concurrent Fault Simulation at Register Transfer Level
+1003533	Fast Association Discovery in Derivative Transaction Collections
+1068282	The Design and Implementation of a Program Development System Based on Rewriting Method
+1081979	A Functional Testing Method for Microprocessors
+1087048	Dimension Reduction-Based Penalized Logistic Regression for Cancer Classification Using Microarray Data
+1111674	A Novel Surface Registration Algorithm With Biomedical Modeling Applications
+1115977	Weighted Fourier Series Representation and Its Application to Quantifying the Amount of Gray Matter
+1220810	GBNet: Deciphering regulatory rules in the co-regulated genes using a Gibbs sampler enhanced Bayesian network approach
+1239846	Dynamically utilizing computation accelerators for extensible processors in a software approach
+1242429	Fast Shape-Simplifying Image Abstraction Using Graphics Hardware
+1243195	DBTIM: An Advanced Hardware Assisted Full Virtualization Architecture
+1280657	Three-dimensional Models for Cardiac Bioelectricity Simulation: Cell to Organ
+1301918	A Hardware Approach for Reducing Interpretation Overhead.
+1305021	Photometric stereo and weather estimation using internet images.
+1333578	Fourier method for large-scale surface modeling and registration.
+1365520	Parallel simulation of chip-multiprocessor by using multi-threading
+1431896	Technical Section: Fourier method for large-scale surface modeling and registration
+1755063	Optimal Matrix Computing Using Vector Division with Sub-word Parallel

@@ -1,0 +1,1653 @@
+0	1	Tsinghua University, Beijing	null
+0	2	Tsinghua University, Beijing	Technische Universität München, Munich, Germany
+0	3	Tsinghua University, Beijing	null
+0	4	Tsinghua University, Beijing	null
+0	5	Tsinghua University, Beijing	University of Surrey, United Kingdom
+0	6	Tsinghua University, Beijing	null
+0	7	Tsinghua University, Beijing	null
+0	8	Tsinghua University, Beijing	null
+0	9	Tsinghua University, Beijing	null
+0	10	Tsinghua University, Beijing	null
+0	11	Tsinghua University, Beijing	null
+0	12	Tsinghua University, Beijing	null
+0	13	Tsinghua University, Beijing	null
+0	14	Tsinghua University, Beijing	null
+0	15	Tsinghua University, Beijing	null
+0	16	Tsinghua University, Beijing	null
+0	17	Tsinghua University, Beijing	null
+0	18	Tsinghua University, Beijing	null
+0	19	Tsinghua University, Beijing	null
+0	20	Tsinghua University, Beijing	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+0	21	Tsinghua University, Beijing	null
+0	22	Tsinghua University, Beijing	Rutgers University, New Brunswick, NJ
+0	23	Tsinghua University, Beijing	Washington University in St. Louis, St. Louis, USA MO 63130
+0	24	Tsinghua University, Beijing	null
+0	25	Tsinghua University, Beijing	University of Surrey, United Kingdom
+0	26	Tsinghua University, Beijing	null
+0	27	Tsinghua University, Beijing	null
+0	28	Tsinghua University, Beijing	Washington University in St. Louis
+0	29	Tsinghua University, Beijing	Tsinghua University, Beijing, China
+0	30	Tsinghua University, Beijing	null
+0	31	Tsinghua University, Beijing	null
+0	32	Tsinghua University, Beijing	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+0	33	Tsinghua University, Beijing	null
+0	34	Tsinghua University, Beijing	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+0	35	Tsinghua University, Beijing	null
+0	36	Tsinghua University, Beijing	School of Economics and Management, Beihang University, Beijing 100083, China
+0	37	Tsinghua University, Beijing	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+0	38	Tsinghua University, Beijing	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+0	39	Tsinghua University, Beijing	null
+0	40	Tsinghua University, Beijing	null
+0	41	Tsinghua University, Beijing	null
+0	42	Tsinghua University, Beijing	School of Computer, National University of Defense Technology, Changsha, China 410073
+0	43	Tsinghua University, Beijing	null
+0	44	Tsinghua University, Beijing	null
+0	45	Tsinghua University, Beijing	Washington University in St. Louis
+0	46	Tsinghua University, Beijing	Washington University in St. Louis
+0	47	Tsinghua University, Beijing	null
+0	48	Tsinghua University, Beijing	null
+0	49	Tsinghua University, Beijing	null
+0	50	Tsinghua University, Beijing	null
+0	51	Tsinghua University, Beijing	null
+0	52	Tsinghua University, Beijing	null
+0	53	Tsinghua University, Beijing	null
+0	54	Tsinghua University, Beijing	null
+0	55	Tsinghua University, Beijing	null
+0	56	Tsinghua University, Beijing	null
+0	57	Tsinghua University, Beijing	null
+1	2	null	Technische Universität München, Munich, Germany
+1	3	null	null
+1	4	null	null
+1	5	null	University of Surrey, United Kingdom
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	null
+1	10	null	null
+1	11	null	null
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+1	21	null	null
+1	22	null	Rutgers University, New Brunswick, NJ
+1	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+1	24	null	null
+1	25	null	University of Surrey, United Kingdom
+1	26	null	null
+1	27	null	null
+1	28	null	Washington University in St. Louis
+1	29	null	Tsinghua University, Beijing, China
+1	30	null	null
+1	31	null	null
+1	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+1	33	null	null
+1	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+1	35	null	null
+1	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+1	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+1	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+1	39	null	null
+1	40	null	null
+1	41	null	null
+1	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+1	43	null	null
+1	44	null	null
+1	45	null	Washington University in St. Louis
+1	46	null	Washington University in St. Louis
+1	47	null	null
+1	48	null	null
+1	49	null	null
+1	50	null	null
+1	51	null	null
+1	52	null	null
+1	53	null	null
+1	54	null	null
+1	55	null	null
+1	56	null	null
+1	57	null	null
+2	3	Technische Universität München, Munich, Germany	null
+2	4	Technische Universität München, Munich, Germany	null
+2	5	Technische Universität München, Munich, Germany	University of Surrey, United Kingdom
+2	6	Technische Universität München, Munich, Germany	null
+2	7	Technische Universität München, Munich, Germany	null
+2	8	Technische Universität München, Munich, Germany	null
+2	9	Technische Universität München, Munich, Germany	null
+2	10	Technische Universität München, Munich, Germany	null
+2	11	Technische Universität München, Munich, Germany	null
+2	12	Technische Universität München, Munich, Germany	null
+2	13	Technische Universität München, Munich, Germany	null
+2	14	Technische Universität München, Munich, Germany	null
+2	15	Technische Universität München, Munich, Germany	null
+2	16	Technische Universität München, Munich, Germany	null
+2	17	Technische Universität München, Munich, Germany	null
+2	18	Technische Universität München, Munich, Germany	null
+2	19	Technische Universität München, Munich, Germany	null
+2	20	Technische Universität München, Munich, Germany	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+2	21	Technische Universität München, Munich, Germany	null
+2	22	Technische Universität München, Munich, Germany	Rutgers University, New Brunswick, NJ
+2	23	Technische Universität München, Munich, Germany	Washington University in St. Louis, St. Louis, USA MO 63130
+2	24	Technische Universität München, Munich, Germany	null
+2	25	Technische Universität München, Munich, Germany	University of Surrey, United Kingdom
+2	26	Technische Universität München, Munich, Germany	null
+2	27	Technische Universität München, Munich, Germany	null
+2	28	Technische Universität München, Munich, Germany	Washington University in St. Louis
+2	29	Technische Universität München, Munich, Germany	Tsinghua University, Beijing, China
+2	30	Technische Universität München, Munich, Germany	null
+2	31	Technische Universität München, Munich, Germany	null
+2	32	Technische Universität München, Munich, Germany	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+2	33	Technische Universität München, Munich, Germany	null
+2	34	Technische Universität München, Munich, Germany	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+2	35	Technische Universität München, Munich, Germany	null
+2	36	Technische Universität München, Munich, Germany	School of Economics and Management, Beihang University, Beijing 100083, China
+2	37	Technische Universität München, Munich, Germany	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+2	38	Technische Universität München, Munich, Germany	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+2	39	Technische Universität München, Munich, Germany	null
+2	40	Technische Universität München, Munich, Germany	null
+2	41	Technische Universität München, Munich, Germany	null
+2	42	Technische Universität München, Munich, Germany	School of Computer, National University of Defense Technology, Changsha, China 410073
+2	43	Technische Universität München, Munich, Germany	null
+2	44	Technische Universität München, Munich, Germany	null
+2	45	Technische Universität München, Munich, Germany	Washington University in St. Louis
+2	46	Technische Universität München, Munich, Germany	Washington University in St. Louis
+2	47	Technische Universität München, Munich, Germany	null
+2	48	Technische Universität München, Munich, Germany	null
+2	49	Technische Universität München, Munich, Germany	null
+2	50	Technische Universität München, Munich, Germany	null
+2	51	Technische Universität München, Munich, Germany	null
+2	52	Technische Universität München, Munich, Germany	null
+2	53	Technische Universität München, Munich, Germany	null
+2	54	Technische Universität München, Munich, Germany	null
+2	55	Technische Universität München, Munich, Germany	null
+2	56	Technische Universität München, Munich, Germany	null
+2	57	Technische Universität München, Munich, Germany	null
+3	4	null	null
+3	5	null	University of Surrey, United Kingdom
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	null
+3	10	null	null
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+3	21	null	null
+3	22	null	Rutgers University, New Brunswick, NJ
+3	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+3	24	null	null
+3	25	null	University of Surrey, United Kingdom
+3	26	null	null
+3	27	null	null
+3	28	null	Washington University in St. Louis
+3	29	null	Tsinghua University, Beijing, China
+3	30	null	null
+3	31	null	null
+3	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+3	33	null	null
+3	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+3	35	null	null
+3	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+3	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+3	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+3	39	null	null
+3	40	null	null
+3	41	null	null
+3	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+3	43	null	null
+3	44	null	null
+3	45	null	Washington University in St. Louis
+3	46	null	Washington University in St. Louis
+3	47	null	null
+3	48	null	null
+3	49	null	null
+3	50	null	null
+3	51	null	null
+3	52	null	null
+3	53	null	null
+3	54	null	null
+3	55	null	null
+3	56	null	null
+3	57	null	null
+4	5	null	University of Surrey, United Kingdom
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	null
+4	10	null	null
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+4	21	null	null
+4	22	null	Rutgers University, New Brunswick, NJ
+4	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+4	24	null	null
+4	25	null	University of Surrey, United Kingdom
+4	26	null	null
+4	27	null	null
+4	28	null	Washington University in St. Louis
+4	29	null	Tsinghua University, Beijing, China
+4	30	null	null
+4	31	null	null
+4	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+4	33	null	null
+4	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+4	35	null	null
+4	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+4	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+4	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+4	39	null	null
+4	40	null	null
+4	41	null	null
+4	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+4	43	null	null
+4	44	null	null
+4	45	null	Washington University in St. Louis
+4	46	null	Washington University in St. Louis
+4	47	null	null
+4	48	null	null
+4	49	null	null
+4	50	null	null
+4	51	null	null
+4	52	null	null
+4	53	null	null
+4	54	null	null
+4	55	null	null
+4	56	null	null
+4	57	null	null
+5	6	University of Surrey, United Kingdom	null
+5	7	University of Surrey, United Kingdom	null
+5	8	University of Surrey, United Kingdom	null
+5	9	University of Surrey, United Kingdom	null
+5	10	University of Surrey, United Kingdom	null
+5	11	University of Surrey, United Kingdom	null
+5	12	University of Surrey, United Kingdom	null
+5	13	University of Surrey, United Kingdom	null
+5	14	University of Surrey, United Kingdom	null
+5	15	University of Surrey, United Kingdom	null
+5	16	University of Surrey, United Kingdom	null
+5	17	University of Surrey, United Kingdom	null
+5	18	University of Surrey, United Kingdom	null
+5	19	University of Surrey, United Kingdom	null
+5	20	University of Surrey, United Kingdom	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+5	21	University of Surrey, United Kingdom	null
+5	22	University of Surrey, United Kingdom	Rutgers University, New Brunswick, NJ
+5	23	University of Surrey, United Kingdom	Washington University in St. Louis, St. Louis, USA MO 63130
+5	24	University of Surrey, United Kingdom	null
+5	25	University of Surrey, United Kingdom	University of Surrey, United Kingdom
+5	26	University of Surrey, United Kingdom	null
+5	27	University of Surrey, United Kingdom	null
+5	28	University of Surrey, United Kingdom	Washington University in St. Louis
+5	29	University of Surrey, United Kingdom	Tsinghua University, Beijing, China
+5	30	University of Surrey, United Kingdom	null
+5	31	University of Surrey, United Kingdom	null
+5	32	University of Surrey, United Kingdom	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+5	33	University of Surrey, United Kingdom	null
+5	34	University of Surrey, United Kingdom	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+5	35	University of Surrey, United Kingdom	null
+5	36	University of Surrey, United Kingdom	School of Economics and Management, Beihang University, Beijing 100083, China
+5	37	University of Surrey, United Kingdom	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+5	38	University of Surrey, United Kingdom	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+5	39	University of Surrey, United Kingdom	null
+5	40	University of Surrey, United Kingdom	null
+5	41	University of Surrey, United Kingdom	null
+5	42	University of Surrey, United Kingdom	School of Computer, National University of Defense Technology, Changsha, China 410073
+5	43	University of Surrey, United Kingdom	null
+5	44	University of Surrey, United Kingdom	null
+5	45	University of Surrey, United Kingdom	Washington University in St. Louis
+5	46	University of Surrey, United Kingdom	Washington University in St. Louis
+5	47	University of Surrey, United Kingdom	null
+5	48	University of Surrey, United Kingdom	null
+5	49	University of Surrey, United Kingdom	null
+5	50	University of Surrey, United Kingdom	null
+5	51	University of Surrey, United Kingdom	null
+5	52	University of Surrey, United Kingdom	null
+5	53	University of Surrey, United Kingdom	null
+5	54	University of Surrey, United Kingdom	null
+5	55	University of Surrey, United Kingdom	null
+5	56	University of Surrey, United Kingdom	null
+5	57	University of Surrey, United Kingdom	null
+6	7	null	null
+6	8	null	null
+6	9	null	null
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+6	21	null	null
+6	22	null	Rutgers University, New Brunswick, NJ
+6	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+6	24	null	null
+6	25	null	University of Surrey, United Kingdom
+6	26	null	null
+6	27	null	null
+6	28	null	Washington University in St. Louis
+6	29	null	Tsinghua University, Beijing, China
+6	30	null	null
+6	31	null	null
+6	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+6	33	null	null
+6	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+6	35	null	null
+6	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+6	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+6	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+6	39	null	null
+6	40	null	null
+6	41	null	null
+6	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+6	43	null	null
+6	44	null	null
+6	45	null	Washington University in St. Louis
+6	46	null	Washington University in St. Louis
+6	47	null	null
+6	48	null	null
+6	49	null	null
+6	50	null	null
+6	51	null	null
+6	52	null	null
+6	53	null	null
+6	54	null	null
+6	55	null	null
+6	56	null	null
+6	57	null	null
+7	8	null	null
+7	9	null	null
+7	10	null	null
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+7	21	null	null
+7	22	null	Rutgers University, New Brunswick, NJ
+7	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+7	24	null	null
+7	25	null	University of Surrey, United Kingdom
+7	26	null	null
+7	27	null	null
+7	28	null	Washington University in St. Louis
+7	29	null	Tsinghua University, Beijing, China
+7	30	null	null
+7	31	null	null
+7	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+7	33	null	null
+7	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+7	35	null	null
+7	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+7	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+7	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+7	39	null	null
+7	40	null	null
+7	41	null	null
+7	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+7	43	null	null
+7	44	null	null
+7	45	null	Washington University in St. Louis
+7	46	null	Washington University in St. Louis
+7	47	null	null
+7	48	null	null
+7	49	null	null
+7	50	null	null
+7	51	null	null
+7	52	null	null
+7	53	null	null
+7	54	null	null
+7	55	null	null
+7	56	null	null
+7	57	null	null
+8	9	null	null
+8	10	null	null
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+8	21	null	null
+8	22	null	Rutgers University, New Brunswick, NJ
+8	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+8	24	null	null
+8	25	null	University of Surrey, United Kingdom
+8	26	null	null
+8	27	null	null
+8	28	null	Washington University in St. Louis
+8	29	null	Tsinghua University, Beijing, China
+8	30	null	null
+8	31	null	null
+8	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+8	33	null	null
+8	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+8	35	null	null
+8	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+8	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+8	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+8	39	null	null
+8	40	null	null
+8	41	null	null
+8	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+8	43	null	null
+8	44	null	null
+8	45	null	Washington University in St. Louis
+8	46	null	Washington University in St. Louis
+8	47	null	null
+8	48	null	null
+8	49	null	null
+8	50	null	null
+8	51	null	null
+8	52	null	null
+8	53	null	null
+8	54	null	null
+8	55	null	null
+8	56	null	null
+8	57	null	null
+9	10	null	null
+9	11	null	null
+9	12	null	null
+9	13	null	null
+9	14	null	null
+9	15	null	null
+9	16	null	null
+9	17	null	null
+9	18	null	null
+9	19	null	null
+9	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+9	21	null	null
+9	22	null	Rutgers University, New Brunswick, NJ
+9	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+9	24	null	null
+9	25	null	University of Surrey, United Kingdom
+9	26	null	null
+9	27	null	null
+9	28	null	Washington University in St. Louis
+9	29	null	Tsinghua University, Beijing, China
+9	30	null	null
+9	31	null	null
+9	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+9	33	null	null
+9	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+9	35	null	null
+9	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+9	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+9	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+9	39	null	null
+9	40	null	null
+9	41	null	null
+9	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+9	43	null	null
+9	44	null	null
+9	45	null	Washington University in St. Louis
+9	46	null	Washington University in St. Louis
+9	47	null	null
+9	48	null	null
+9	49	null	null
+9	50	null	null
+9	51	null	null
+9	52	null	null
+9	53	null	null
+9	54	null	null
+9	55	null	null
+9	56	null	null
+9	57	null	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	null
+10	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+10	21	null	null
+10	22	null	Rutgers University, New Brunswick, NJ
+10	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+10	24	null	null
+10	25	null	University of Surrey, United Kingdom
+10	26	null	null
+10	27	null	null
+10	28	null	Washington University in St. Louis
+10	29	null	Tsinghua University, Beijing, China
+10	30	null	null
+10	31	null	null
+10	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+10	33	null	null
+10	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+10	35	null	null
+10	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+10	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+10	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+10	39	null	null
+10	40	null	null
+10	41	null	null
+10	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+10	43	null	null
+10	44	null	null
+10	45	null	Washington University in St. Louis
+10	46	null	Washington University in St. Louis
+10	47	null	null
+10	48	null	null
+10	49	null	null
+10	50	null	null
+10	51	null	null
+10	52	null	null
+10	53	null	null
+10	54	null	null
+10	55	null	null
+10	56	null	null
+10	57	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+11	21	null	null
+11	22	null	Rutgers University, New Brunswick, NJ
+11	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+11	24	null	null
+11	25	null	University of Surrey, United Kingdom
+11	26	null	null
+11	27	null	null
+11	28	null	Washington University in St. Louis
+11	29	null	Tsinghua University, Beijing, China
+11	30	null	null
+11	31	null	null
+11	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+11	33	null	null
+11	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+11	35	null	null
+11	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+11	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+11	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+11	39	null	null
+11	40	null	null
+11	41	null	null
+11	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+11	43	null	null
+11	44	null	null
+11	45	null	Washington University in St. Louis
+11	46	null	Washington University in St. Louis
+11	47	null	null
+11	48	null	null
+11	49	null	null
+11	50	null	null
+11	51	null	null
+11	52	null	null
+11	53	null	null
+11	54	null	null
+11	55	null	null
+11	56	null	null
+11	57	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	null
+12	17	null	null
+12	18	null	null
+12	19	null	null
+12	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+12	21	null	null
+12	22	null	Rutgers University, New Brunswick, NJ
+12	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+12	24	null	null
+12	25	null	University of Surrey, United Kingdom
+12	26	null	null
+12	27	null	null
+12	28	null	Washington University in St. Louis
+12	29	null	Tsinghua University, Beijing, China
+12	30	null	null
+12	31	null	null
+12	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+12	33	null	null
+12	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+12	35	null	null
+12	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+12	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+12	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+12	39	null	null
+12	40	null	null
+12	41	null	null
+12	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+12	43	null	null
+12	44	null	null
+12	45	null	Washington University in St. Louis
+12	46	null	Washington University in St. Louis
+12	47	null	null
+12	48	null	null
+12	49	null	null
+12	50	null	null
+12	51	null	null
+12	52	null	null
+12	53	null	null
+12	54	null	null
+12	55	null	null
+12	56	null	null
+12	57	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+13	21	null	null
+13	22	null	Rutgers University, New Brunswick, NJ
+13	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+13	24	null	null
+13	25	null	University of Surrey, United Kingdom
+13	26	null	null
+13	27	null	null
+13	28	null	Washington University in St. Louis
+13	29	null	Tsinghua University, Beijing, China
+13	30	null	null
+13	31	null	null
+13	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+13	33	null	null
+13	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+13	35	null	null
+13	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+13	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+13	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+13	39	null	null
+13	40	null	null
+13	41	null	null
+13	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+13	43	null	null
+13	44	null	null
+13	45	null	Washington University in St. Louis
+13	46	null	Washington University in St. Louis
+13	47	null	null
+13	48	null	null
+13	49	null	null
+13	50	null	null
+13	51	null	null
+13	52	null	null
+13	53	null	null
+13	54	null	null
+13	55	null	null
+13	56	null	null
+13	57	null	null
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+14	21	null	null
+14	22	null	Rutgers University, New Brunswick, NJ
+14	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+14	24	null	null
+14	25	null	University of Surrey, United Kingdom
+14	26	null	null
+14	27	null	null
+14	28	null	Washington University in St. Louis
+14	29	null	Tsinghua University, Beijing, China
+14	30	null	null
+14	31	null	null
+14	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+14	33	null	null
+14	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+14	35	null	null
+14	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+14	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+14	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+14	39	null	null
+14	40	null	null
+14	41	null	null
+14	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+14	43	null	null
+14	44	null	null
+14	45	null	Washington University in St. Louis
+14	46	null	Washington University in St. Louis
+14	47	null	null
+14	48	null	null
+14	49	null	null
+14	50	null	null
+14	51	null	null
+14	52	null	null
+14	53	null	null
+14	54	null	null
+14	55	null	null
+14	56	null	null
+14	57	null	null
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+15	21	null	null
+15	22	null	Rutgers University, New Brunswick, NJ
+15	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+15	24	null	null
+15	25	null	University of Surrey, United Kingdom
+15	26	null	null
+15	27	null	null
+15	28	null	Washington University in St. Louis
+15	29	null	Tsinghua University, Beijing, China
+15	30	null	null
+15	31	null	null
+15	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+15	33	null	null
+15	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+15	35	null	null
+15	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+15	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+15	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+15	39	null	null
+15	40	null	null
+15	41	null	null
+15	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+15	43	null	null
+15	44	null	null
+15	45	null	Washington University in St. Louis
+15	46	null	Washington University in St. Louis
+15	47	null	null
+15	48	null	null
+15	49	null	null
+15	50	null	null
+15	51	null	null
+15	52	null	null
+15	53	null	null
+15	54	null	null
+15	55	null	null
+15	56	null	null
+15	57	null	null
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+16	21	null	null
+16	22	null	Rutgers University, New Brunswick, NJ
+16	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+16	24	null	null
+16	25	null	University of Surrey, United Kingdom
+16	26	null	null
+16	27	null	null
+16	28	null	Washington University in St. Louis
+16	29	null	Tsinghua University, Beijing, China
+16	30	null	null
+16	31	null	null
+16	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+16	33	null	null
+16	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+16	35	null	null
+16	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+16	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+16	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+16	39	null	null
+16	40	null	null
+16	41	null	null
+16	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+16	43	null	null
+16	44	null	null
+16	45	null	Washington University in St. Louis
+16	46	null	Washington University in St. Louis
+16	47	null	null
+16	48	null	null
+16	49	null	null
+16	50	null	null
+16	51	null	null
+16	52	null	null
+16	53	null	null
+16	54	null	null
+16	55	null	null
+16	56	null	null
+16	57	null	null
+17	18	null	null
+17	19	null	null
+17	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+17	21	null	null
+17	22	null	Rutgers University, New Brunswick, NJ
+17	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+17	24	null	null
+17	25	null	University of Surrey, United Kingdom
+17	26	null	null
+17	27	null	null
+17	28	null	Washington University in St. Louis
+17	29	null	Tsinghua University, Beijing, China
+17	30	null	null
+17	31	null	null
+17	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+17	33	null	null
+17	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+17	35	null	null
+17	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+17	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+17	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+17	39	null	null
+17	40	null	null
+17	41	null	null
+17	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+17	43	null	null
+17	44	null	null
+17	45	null	Washington University in St. Louis
+17	46	null	Washington University in St. Louis
+17	47	null	null
+17	48	null	null
+17	49	null	null
+17	50	null	null
+17	51	null	null
+17	52	null	null
+17	53	null	null
+17	54	null	null
+17	55	null	null
+17	56	null	null
+17	57	null	null
+18	19	null	null
+18	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+18	21	null	null
+18	22	null	Rutgers University, New Brunswick, NJ
+18	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+18	24	null	null
+18	25	null	University of Surrey, United Kingdom
+18	26	null	null
+18	27	null	null
+18	28	null	Washington University in St. Louis
+18	29	null	Tsinghua University, Beijing, China
+18	30	null	null
+18	31	null	null
+18	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+18	33	null	null
+18	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+18	35	null	null
+18	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+18	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+18	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+18	39	null	null
+18	40	null	null
+18	41	null	null
+18	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+18	43	null	null
+18	44	null	null
+18	45	null	Washington University in St. Louis
+18	46	null	Washington University in St. Louis
+18	47	null	null
+18	48	null	null
+18	49	null	null
+18	50	null	null
+18	51	null	null
+18	52	null	null
+18	53	null	null
+18	54	null	null
+18	55	null	null
+18	56	null	null
+18	57	null	null
+19	20	null	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China
+19	21	null	null
+19	22	null	Rutgers University, New Brunswick, NJ
+19	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+19	24	null	null
+19	25	null	University of Surrey, United Kingdom
+19	26	null	null
+19	27	null	null
+19	28	null	Washington University in St. Louis
+19	29	null	Tsinghua University, Beijing, China
+19	30	null	null
+19	31	null	null
+19	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+19	33	null	null
+19	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+19	35	null	null
+19	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+19	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+19	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+19	39	null	null
+19	40	null	null
+19	41	null	null
+19	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+19	43	null	null
+19	44	null	null
+19	45	null	Washington University in St. Louis
+19	46	null	Washington University in St. Louis
+19	47	null	null
+19	48	null	null
+19	49	null	null
+19	50	null	null
+19	51	null	null
+19	52	null	null
+19	53	null	null
+19	54	null	null
+19	55	null	null
+19	56	null	null
+19	57	null	null
+20	21	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	22	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Rutgers University, New Brunswick, NJ
+20	23	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Washington University in St. Louis, St. Louis, USA MO 63130
+20	24	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	25	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	University of Surrey, United Kingdom
+20	26	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	27	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	28	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Washington University in St. Louis
+20	29	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Tsinghua University, Beijing, China
+20	30	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	31	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	32	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+20	33	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	34	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+20	35	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	36	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	School of Economics and Management, Beihang University, Beijing 100083, China
+20	37	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+20	38	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+20	39	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	40	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	41	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	42	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	School of Computer, National University of Defense Technology, Changsha, China 410073
+20	43	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	44	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	45	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Washington University in St. Louis
+20	46	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	Washington University in St. Louis
+20	47	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	48	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	49	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	50	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	51	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	52	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	53	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	54	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	55	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	56	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+20	57	Faculty of Electrical Engineering, Wuhan University, Hubei, Wuhan 430072, China	null
+21	22	null	Rutgers University, New Brunswick, NJ
+21	23	null	Washington University in St. Louis, St. Louis, USA MO 63130
+21	24	null	null
+21	25	null	University of Surrey, United Kingdom
+21	26	null	null
+21	27	null	null
+21	28	null	Washington University in St. Louis
+21	29	null	Tsinghua University, Beijing, China
+21	30	null	null
+21	31	null	null
+21	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+21	33	null	null
+21	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+21	35	null	null
+21	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+21	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+21	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+21	39	null	null
+21	40	null	null
+21	41	null	null
+21	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+21	43	null	null
+21	44	null	null
+21	45	null	Washington University in St. Louis
+21	46	null	Washington University in St. Louis
+21	47	null	null
+21	48	null	null
+21	49	null	null
+21	50	null	null
+21	51	null	null
+21	52	null	null
+21	53	null	null
+21	54	null	null
+21	55	null	null
+21	56	null	null
+21	57	null	null
+22	23	Rutgers University, New Brunswick, NJ	Washington University in St. Louis, St. Louis, USA MO 63130
+22	24	Rutgers University, New Brunswick, NJ	null
+22	25	Rutgers University, New Brunswick, NJ	University of Surrey, United Kingdom
+22	26	Rutgers University, New Brunswick, NJ	null
+22	27	Rutgers University, New Brunswick, NJ	null
+22	28	Rutgers University, New Brunswick, NJ	Washington University in St. Louis
+22	29	Rutgers University, New Brunswick, NJ	Tsinghua University, Beijing, China
+22	30	Rutgers University, New Brunswick, NJ	null
+22	31	Rutgers University, New Brunswick, NJ	null
+22	32	Rutgers University, New Brunswick, NJ	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+22	33	Rutgers University, New Brunswick, NJ	null
+22	34	Rutgers University, New Brunswick, NJ	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+22	35	Rutgers University, New Brunswick, NJ	null
+22	36	Rutgers University, New Brunswick, NJ	School of Economics and Management, Beihang University, Beijing 100083, China
+22	37	Rutgers University, New Brunswick, NJ	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+22	38	Rutgers University, New Brunswick, NJ	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+22	39	Rutgers University, New Brunswick, NJ	null
+22	40	Rutgers University, New Brunswick, NJ	null
+22	41	Rutgers University, New Brunswick, NJ	null
+22	42	Rutgers University, New Brunswick, NJ	School of Computer, National University of Defense Technology, Changsha, China 410073
+22	43	Rutgers University, New Brunswick, NJ	null
+22	44	Rutgers University, New Brunswick, NJ	null
+22	45	Rutgers University, New Brunswick, NJ	Washington University in St. Louis
+22	46	Rutgers University, New Brunswick, NJ	Washington University in St. Louis
+22	47	Rutgers University, New Brunswick, NJ	null
+22	48	Rutgers University, New Brunswick, NJ	null
+22	49	Rutgers University, New Brunswick, NJ	null
+22	50	Rutgers University, New Brunswick, NJ	null
+22	51	Rutgers University, New Brunswick, NJ	null
+22	52	Rutgers University, New Brunswick, NJ	null
+22	53	Rutgers University, New Brunswick, NJ	null
+22	54	Rutgers University, New Brunswick, NJ	null
+22	55	Rutgers University, New Brunswick, NJ	null
+22	56	Rutgers University, New Brunswick, NJ	null
+22	57	Rutgers University, New Brunswick, NJ	null
+23	24	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	25	Washington University in St. Louis, St. Louis, USA MO 63130	University of Surrey, United Kingdom
+23	26	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	27	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	28	Washington University in St. Louis, St. Louis, USA MO 63130	Washington University in St. Louis
+23	29	Washington University in St. Louis, St. Louis, USA MO 63130	Tsinghua University, Beijing, China
+23	30	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	31	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	32	Washington University in St. Louis, St. Louis, USA MO 63130	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+23	33	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	34	Washington University in St. Louis, St. Louis, USA MO 63130	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+23	35	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	36	Washington University in St. Louis, St. Louis, USA MO 63130	School of Economics and Management, Beihang University, Beijing 100083, China
+23	37	Washington University in St. Louis, St. Louis, USA MO 63130	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+23	38	Washington University in St. Louis, St. Louis, USA MO 63130	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+23	39	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	40	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	41	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	42	Washington University in St. Louis, St. Louis, USA MO 63130	School of Computer, National University of Defense Technology, Changsha, China 410073
+23	43	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	44	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	45	Washington University in St. Louis, St. Louis, USA MO 63130	Washington University in St. Louis
+23	46	Washington University in St. Louis, St. Louis, USA MO 63130	Washington University in St. Louis
+23	47	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	48	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	49	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	50	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	51	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	52	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	53	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	54	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	55	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	56	Washington University in St. Louis, St. Louis, USA MO 63130	null
+23	57	Washington University in St. Louis, St. Louis, USA MO 63130	null
+24	25	null	University of Surrey, United Kingdom
+24	26	null	null
+24	27	null	null
+24	28	null	Washington University in St. Louis
+24	29	null	Tsinghua University, Beijing, China
+24	30	null	null
+24	31	null	null
+24	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+24	33	null	null
+24	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+24	35	null	null
+24	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+24	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+24	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+24	39	null	null
+24	40	null	null
+24	41	null	null
+24	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+24	43	null	null
+24	44	null	null
+24	45	null	Washington University in St. Louis
+24	46	null	Washington University in St. Louis
+24	47	null	null
+24	48	null	null
+24	49	null	null
+24	50	null	null
+24	51	null	null
+24	52	null	null
+24	53	null	null
+24	54	null	null
+24	55	null	null
+24	56	null	null
+24	57	null	null
+25	26	University of Surrey, United Kingdom	null
+25	27	University of Surrey, United Kingdom	null
+25	28	University of Surrey, United Kingdom	Washington University in St. Louis
+25	29	University of Surrey, United Kingdom	Tsinghua University, Beijing, China
+25	30	University of Surrey, United Kingdom	null
+25	31	University of Surrey, United Kingdom	null
+25	32	University of Surrey, United Kingdom	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+25	33	University of Surrey, United Kingdom	null
+25	34	University of Surrey, United Kingdom	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+25	35	University of Surrey, United Kingdom	null
+25	36	University of Surrey, United Kingdom	School of Economics and Management, Beihang University, Beijing 100083, China
+25	37	University of Surrey, United Kingdom	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+25	38	University of Surrey, United Kingdom	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+25	39	University of Surrey, United Kingdom	null
+25	40	University of Surrey, United Kingdom	null
+25	41	University of Surrey, United Kingdom	null
+25	42	University of Surrey, United Kingdom	School of Computer, National University of Defense Technology, Changsha, China 410073
+25	43	University of Surrey, United Kingdom	null
+25	44	University of Surrey, United Kingdom	null
+25	45	University of Surrey, United Kingdom	Washington University in St. Louis
+25	46	University of Surrey, United Kingdom	Washington University in St. Louis
+25	47	University of Surrey, United Kingdom	null
+25	48	University of Surrey, United Kingdom	null
+25	49	University of Surrey, United Kingdom	null
+25	50	University of Surrey, United Kingdom	null
+25	51	University of Surrey, United Kingdom	null
+25	52	University of Surrey, United Kingdom	null
+25	53	University of Surrey, United Kingdom	null
+25	54	University of Surrey, United Kingdom	null
+25	55	University of Surrey, United Kingdom	null
+25	56	University of Surrey, United Kingdom	null
+25	57	University of Surrey, United Kingdom	null
+26	27	null	null
+26	28	null	Washington University in St. Louis
+26	29	null	Tsinghua University, Beijing, China
+26	30	null	null
+26	31	null	null
+26	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+26	33	null	null
+26	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+26	35	null	null
+26	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+26	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+26	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+26	39	null	null
+26	40	null	null
+26	41	null	null
+26	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+26	43	null	null
+26	44	null	null
+26	45	null	Washington University in St. Louis
+26	46	null	Washington University in St. Louis
+26	47	null	null
+26	48	null	null
+26	49	null	null
+26	50	null	null
+26	51	null	null
+26	52	null	null
+26	53	null	null
+26	54	null	null
+26	55	null	null
+26	56	null	null
+26	57	null	null
+27	28	null	Washington University in St. Louis
+27	29	null	Tsinghua University, Beijing, China
+27	30	null	null
+27	31	null	null
+27	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+27	33	null	null
+27	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+27	35	null	null
+27	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+27	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+27	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+27	39	null	null
+27	40	null	null
+27	41	null	null
+27	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+27	43	null	null
+27	44	null	null
+27	45	null	Washington University in St. Louis
+27	46	null	Washington University in St. Louis
+27	47	null	null
+27	48	null	null
+27	49	null	null
+27	50	null	null
+27	51	null	null
+27	52	null	null
+27	53	null	null
+27	54	null	null
+27	55	null	null
+27	56	null	null
+27	57	null	null
+28	29	Washington University in St. Louis	Tsinghua University, Beijing, China
+28	30	Washington University in St. Louis	null
+28	31	Washington University in St. Louis	null
+28	32	Washington University in St. Louis	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+28	33	Washington University in St. Louis	null
+28	34	Washington University in St. Louis	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+28	35	Washington University in St. Louis	null
+28	36	Washington University in St. Louis	School of Economics and Management, Beihang University, Beijing 100083, China
+28	37	Washington University in St. Louis	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+28	38	Washington University in St. Louis	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+28	39	Washington University in St. Louis	null
+28	40	Washington University in St. Louis	null
+28	41	Washington University in St. Louis	null
+28	42	Washington University in St. Louis	School of Computer, National University of Defense Technology, Changsha, China 410073
+28	43	Washington University in St. Louis	null
+28	44	Washington University in St. Louis	null
+28	45	Washington University in St. Louis	Washington University in St. Louis
+28	46	Washington University in St. Louis	Washington University in St. Louis
+28	47	Washington University in St. Louis	null
+28	48	Washington University in St. Louis	null
+28	49	Washington University in St. Louis	null
+28	50	Washington University in St. Louis	null
+28	51	Washington University in St. Louis	null
+28	52	Washington University in St. Louis	null
+28	53	Washington University in St. Louis	null
+28	54	Washington University in St. Louis	null
+28	55	Washington University in St. Louis	null
+28	56	Washington University in St. Louis	null
+28	57	Washington University in St. Louis	null
+29	30	Tsinghua University, Beijing, China	null
+29	31	Tsinghua University, Beijing, China	null
+29	32	Tsinghua University, Beijing, China	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+29	33	Tsinghua University, Beijing, China	null
+29	34	Tsinghua University, Beijing, China	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+29	35	Tsinghua University, Beijing, China	null
+29	36	Tsinghua University, Beijing, China	School of Economics and Management, Beihang University, Beijing 100083, China
+29	37	Tsinghua University, Beijing, China	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+29	38	Tsinghua University, Beijing, China	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+29	39	Tsinghua University, Beijing, China	null
+29	40	Tsinghua University, Beijing, China	null
+29	41	Tsinghua University, Beijing, China	null
+29	42	Tsinghua University, Beijing, China	School of Computer, National University of Defense Technology, Changsha, China 410073
+29	43	Tsinghua University, Beijing, China	null
+29	44	Tsinghua University, Beijing, China	null
+29	45	Tsinghua University, Beijing, China	Washington University in St. Louis
+29	46	Tsinghua University, Beijing, China	Washington University in St. Louis
+29	47	Tsinghua University, Beijing, China	null
+29	48	Tsinghua University, Beijing, China	null
+29	49	Tsinghua University, Beijing, China	null
+29	50	Tsinghua University, Beijing, China	null
+29	51	Tsinghua University, Beijing, China	null
+29	52	Tsinghua University, Beijing, China	null
+29	53	Tsinghua University, Beijing, China	null
+29	54	Tsinghua University, Beijing, China	null
+29	55	Tsinghua University, Beijing, China	null
+29	56	Tsinghua University, Beijing, China	null
+29	57	Tsinghua University, Beijing, China	null
+30	31	null	null
+30	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+30	33	null	null
+30	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+30	35	null	null
+30	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+30	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+30	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+30	39	null	null
+30	40	null	null
+30	41	null	null
+30	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+30	43	null	null
+30	44	null	null
+30	45	null	Washington University in St. Louis
+30	46	null	Washington University in St. Louis
+30	47	null	null
+30	48	null	null
+30	49	null	null
+30	50	null	null
+30	51	null	null
+30	52	null	null
+30	53	null	null
+30	54	null	null
+30	55	null	null
+30	56	null	null
+30	57	null	null
+31	32	null	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.
+31	33	null	null
+31	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+31	35	null	null
+31	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+31	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+31	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+31	39	null	null
+31	40	null	null
+31	41	null	null
+31	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+31	43	null	null
+31	44	null	null
+31	45	null	Washington University in St. Louis
+31	46	null	Washington University in St. Louis
+31	47	null	null
+31	48	null	null
+31	49	null	null
+31	50	null	null
+31	51	null	null
+31	52	null	null
+31	53	null	null
+31	54	null	null
+31	55	null	null
+31	56	null	null
+31	57	null	null
+32	33	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	34	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+32	35	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	36	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	School of Economics and Management, Beihang University, Beijing 100083, China
+32	37	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+32	38	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+32	39	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	40	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	41	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	42	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	School of Computer, National University of Defense Technology, Changsha, China 410073
+32	43	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	44	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	45	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	Washington University in St. Louis
+32	46	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	Washington University in St. Louis
+32	47	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	48	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	49	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	50	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	51	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	52	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	53	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	54	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	55	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	56	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+32	57	School of Computing, University of Leeds, Leeds, West Yorkshire, U.K.	null
+33	34	null	Surrey Space Centre, University of Surrey, Surrey, United Kingdom
+33	35	null	null
+33	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+33	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+33	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+33	39	null	null
+33	40	null	null
+33	41	null	null
+33	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+33	43	null	null
+33	44	null	null
+33	45	null	Washington University in St. Louis
+33	46	null	Washington University in St. Louis
+33	47	null	null
+33	48	null	null
+33	49	null	null
+33	50	null	null
+33	51	null	null
+33	52	null	null
+33	53	null	null
+33	54	null	null
+33	55	null	null
+33	56	null	null
+33	57	null	null
+34	35	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	36	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	School of Economics and Management, Beihang University, Beijing 100083, China
+34	37	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+34	38	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+34	39	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	40	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	41	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	42	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	School of Computer, National University of Defense Technology, Changsha, China 410073
+34	43	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	44	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	45	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	Washington University in St. Louis
+34	46	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	Washington University in St. Louis
+34	47	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	48	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	49	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	50	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	51	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	52	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	53	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	54	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	55	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	56	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+34	57	Surrey Space Centre, University of Surrey, Surrey, United Kingdom	null
+35	36	null	School of Economics and Management, Beihang University, Beijing 100083, China
+35	37	null	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+35	38	null	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+35	39	null	null
+35	40	null	null
+35	41	null	null
+35	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+35	43	null	null
+35	44	null	null
+35	45	null	Washington University in St. Louis
+35	46	null	Washington University in St. Louis
+35	47	null	null
+35	48	null	null
+35	49	null	null
+35	50	null	null
+35	51	null	null
+35	52	null	null
+35	53	null	null
+35	54	null	null
+35	55	null	null
+35	56	null	null
+35	57	null	null
+36	37	School of Economics and Management, Beihang University, Beijing 100083, China	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901
+36	38	School of Economics and Management, Beihang University, Beijing 100083, China	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+36	39	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	40	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	41	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	42	School of Economics and Management, Beihang University, Beijing 100083, China	School of Computer, National University of Defense Technology, Changsha, China 410073
+36	43	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	44	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	45	School of Economics and Management, Beihang University, Beijing 100083, China	Washington University in St. Louis
+36	46	School of Economics and Management, Beihang University, Beijing 100083, China	Washington University in St. Louis
+36	47	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	48	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	49	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	50	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	51	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	52	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	53	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	54	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	55	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	56	School of Economics and Management, Beihang University, Beijing 100083, China	null
+36	57	School of Economics and Management, Beihang University, Beijing 100083, China	null
+37	38	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT
+37	39	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	40	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	41	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	42	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	School of Computer, National University of Defense Technology, Changsha, China 410073
+37	43	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	44	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	45	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	Washington University in St. Louis
+37	46	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	Washington University in St. Louis
+37	47	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	48	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	49	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	50	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	51	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	52	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	53	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	54	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	55	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	56	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+37	57	Rutgers University School of Communication, Information and Library Studies, 4 Huntington, New Brunswick, NJ 08901	null
+38	39	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	40	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	41	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	42	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	School of Computer, National University of Defense Technology, Changsha, China 410073
+38	43	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	44	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	45	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	Washington University in St. Louis
+38	46	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	Washington University in St. Louis
+38	47	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	48	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	49	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	50	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	51	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	52	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	53	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	54	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	55	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	56	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+38	57	Surrey Space Centre, University of Surrey, Guildford, UK GU2 7XH and School of Computing, University of Leeds, Leeds, UK LS2 9JT	null
+39	40	null	null
+39	41	null	null
+39	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+39	43	null	null
+39	44	null	null
+39	45	null	Washington University in St. Louis
+39	46	null	Washington University in St. Louis
+39	47	null	null
+39	48	null	null
+39	49	null	null
+39	50	null	null
+39	51	null	null
+39	52	null	null
+39	53	null	null
+39	54	null	null
+39	55	null	null
+39	56	null	null
+39	57	null	null
+40	41	null	null
+40	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+40	43	null	null
+40	44	null	null
+40	45	null	Washington University in St. Louis
+40	46	null	Washington University in St. Louis
+40	47	null	null
+40	48	null	null
+40	49	null	null
+40	50	null	null
+40	51	null	null
+40	52	null	null
+40	53	null	null
+40	54	null	null
+40	55	null	null
+40	56	null	null
+40	57	null	null
+41	42	null	School of Computer, National University of Defense Technology, Changsha, China 410073
+41	43	null	null
+41	44	null	null
+41	45	null	Washington University in St. Louis
+41	46	null	Washington University in St. Louis
+41	47	null	null
+41	48	null	null
+41	49	null	null
+41	50	null	null
+41	51	null	null
+41	52	null	null
+41	53	null	null
+41	54	null	null
+41	55	null	null
+41	56	null	null
+41	57	null	null
+42	43	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	44	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	45	School of Computer, National University of Defense Technology, Changsha, China 410073	Washington University in St. Louis
+42	46	School of Computer, National University of Defense Technology, Changsha, China 410073	Washington University in St. Louis
+42	47	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	48	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	49	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	50	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	51	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	52	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	53	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	54	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	55	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	56	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+42	57	School of Computer, National University of Defense Technology, Changsha, China 410073	null
+43	44	null	null
+43	45	null	Washington University in St. Louis
+43	46	null	Washington University in St. Louis
+43	47	null	null
+43	48	null	null
+43	49	null	null
+43	50	null	null
+43	51	null	null
+43	52	null	null
+43	53	null	null
+43	54	null	null
+43	55	null	null
+43	56	null	null
+43	57	null	null
+44	45	null	Washington University in St. Louis
+44	46	null	Washington University in St. Louis
+44	47	null	null
+44	48	null	null
+44	49	null	null
+44	50	null	null
+44	51	null	null
+44	52	null	null
+44	53	null	null
+44	54	null	null
+44	55	null	null
+44	56	null	null
+44	57	null	null
+45	46	Washington University in St. Louis	Washington University in St. Louis
+45	47	Washington University in St. Louis	null
+45	48	Washington University in St. Louis	null
+45	49	Washington University in St. Louis	null
+45	50	Washington University in St. Louis	null
+45	51	Washington University in St. Louis	null
+45	52	Washington University in St. Louis	null
+45	53	Washington University in St. Louis	null
+45	54	Washington University in St. Louis	null
+45	55	Washington University in St. Louis	null
+45	56	Washington University in St. Louis	null
+45	57	Washington University in St. Louis	null
+46	47	Washington University in St. Louis	null
+46	48	Washington University in St. Louis	null
+46	49	Washington University in St. Louis	null
+46	50	Washington University in St. Louis	null
+46	51	Washington University in St. Louis	null
+46	52	Washington University in St. Louis	null
+46	53	Washington University in St. Louis	null
+46	54	Washington University in St. Louis	null
+46	55	Washington University in St. Louis	null
+46	56	Washington University in St. Louis	null
+46	57	Washington University in St. Louis	null
+47	48	null	null
+47	49	null	null
+47	50	null	null
+47	51	null	null
+47	52	null	null
+47	53	null	null
+47	54	null	null
+47	55	null	null
+47	56	null	null
+47	57	null	null
+48	49	null	null
+48	50	null	null
+48	51	null	null
+48	52	null	null
+48	53	null	null
+48	54	null	null
+48	55	null	null
+48	56	null	null
+48	57	null	null
+49	50	null	null
+49	51	null	null
+49	52	null	null
+49	53	null	null
+49	54	null	null
+49	55	null	null
+49	56	null	null
+49	57	null	null
+50	51	null	null
+50	52	null	null
+50	53	null	null
+50	54	null	null
+50	55	null	null
+50	56	null	null
+50	57	null	null
+51	52	null	null
+51	53	null	null
+51	54	null	null
+51	55	null	null
+51	56	null	null
+51	57	null	null
+52	53	null	null
+52	54	null	null
+52	55	null	null
+52	56	null	null
+52	57	null	null
+53	54	null	null
+53	55	null	null
+53	56	null	null
+53	57	null	null
+54	55	null	null
+54	56	null	null
+54	57	null	null
+55	56	null	null
+55	57	null	null
+56	57	null	null

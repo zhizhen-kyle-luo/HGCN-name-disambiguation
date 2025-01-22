@@ -1,0 +1,1035 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	Ericsson Res., Research Triangle Park, NC
+0	10	null	null
+0	11	null	null
+0	12	null	State Univ. of New York at Buffalo, Buffalo
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	Texas Instruments Inc., Dallas
+0	23	null	null
+0	24	null	null
+0	25	null	null
+0	26	null	null
+0	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+0	28	null	null
+0	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+0	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+0	31	null	null
+0	32	null	State Univ. of New York at Buffalo, Buffalo
+0	33	null	null
+0	34	null	null
+0	35	null	null
+0	36	null	null
+0	37	null	null
+0	38	null	State Univ. of New York, Buffalo
+0	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+0	40	null	null
+0	41	null	null
+0	42	null	null
+0	43	null	null
+0	44	null	null
+0	45	null	null
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	Ericsson Res., Research Triangle Park, NC
+1	10	null	null
+1	11	null	null
+1	12	null	State Univ. of New York at Buffalo, Buffalo
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	Texas Instruments Inc., Dallas
+1	23	null	null
+1	24	null	null
+1	25	null	null
+1	26	null	null
+1	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+1	28	null	null
+1	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+1	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+1	31	null	null
+1	32	null	State Univ. of New York at Buffalo, Buffalo
+1	33	null	null
+1	34	null	null
+1	35	null	null
+1	36	null	null
+1	37	null	null
+1	38	null	State Univ. of New York, Buffalo
+1	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+1	40	null	null
+1	41	null	null
+1	42	null	null
+1	43	null	null
+1	44	null	null
+1	45	null	null
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	Ericsson Res., Research Triangle Park, NC
+2	10	null	null
+2	11	null	null
+2	12	null	State Univ. of New York at Buffalo, Buffalo
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	Texas Instruments Inc., Dallas
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	null
+2	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+2	28	null	null
+2	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+2	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+2	31	null	null
+2	32	null	State Univ. of New York at Buffalo, Buffalo
+2	33	null	null
+2	34	null	null
+2	35	null	null
+2	36	null	null
+2	37	null	null
+2	38	null	State Univ. of New York, Buffalo
+2	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+2	40	null	null
+2	41	null	null
+2	42	null	null
+2	43	null	null
+2	44	null	null
+2	45	null	null
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	Ericsson Res., Research Triangle Park, NC
+3	10	null	null
+3	11	null	null
+3	12	null	State Univ. of New York at Buffalo, Buffalo
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	null
+3	21	null	null
+3	22	null	Texas Instruments Inc., Dallas
+3	23	null	null
+3	24	null	null
+3	25	null	null
+3	26	null	null
+3	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+3	28	null	null
+3	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+3	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+3	31	null	null
+3	32	null	State Univ. of New York at Buffalo, Buffalo
+3	33	null	null
+3	34	null	null
+3	35	null	null
+3	36	null	null
+3	37	null	null
+3	38	null	State Univ. of New York, Buffalo
+3	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+3	40	null	null
+3	41	null	null
+3	42	null	null
+3	43	null	null
+3	44	null	null
+3	45	null	null
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	Ericsson Res., Research Triangle Park, NC
+4	10	null	null
+4	11	null	null
+4	12	null	State Univ. of New York at Buffalo, Buffalo
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	Texas Instruments Inc., Dallas
+4	23	null	null
+4	24	null	null
+4	25	null	null
+4	26	null	null
+4	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+4	28	null	null
+4	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+4	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+4	31	null	null
+4	32	null	State Univ. of New York at Buffalo, Buffalo
+4	33	null	null
+4	34	null	null
+4	35	null	null
+4	36	null	null
+4	37	null	null
+4	38	null	State Univ. of New York, Buffalo
+4	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+4	40	null	null
+4	41	null	null
+4	42	null	null
+4	43	null	null
+4	44	null	null
+4	45	null	null
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	Ericsson Res., Research Triangle Park, NC
+5	10	null	null
+5	11	null	null
+5	12	null	State Univ. of New York at Buffalo, Buffalo
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	null
+5	21	null	null
+5	22	null	Texas Instruments Inc., Dallas
+5	23	null	null
+5	24	null	null
+5	25	null	null
+5	26	null	null
+5	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+5	28	null	null
+5	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+5	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+5	31	null	null
+5	32	null	State Univ. of New York at Buffalo, Buffalo
+5	33	null	null
+5	34	null	null
+5	35	null	null
+5	36	null	null
+5	37	null	null
+5	38	null	State Univ. of New York, Buffalo
+5	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+5	40	null	null
+5	41	null	null
+5	42	null	null
+5	43	null	null
+5	44	null	null
+5	45	null	null
+6	7	null	null
+6	8	null	null
+6	9	null	Ericsson Res., Research Triangle Park, NC
+6	10	null	null
+6	11	null	null
+6	12	null	State Univ. of New York at Buffalo, Buffalo
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	Texas Instruments Inc., Dallas
+6	23	null	null
+6	24	null	null
+6	25	null	null
+6	26	null	null
+6	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+6	28	null	null
+6	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+6	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+6	31	null	null
+6	32	null	State Univ. of New York at Buffalo, Buffalo
+6	33	null	null
+6	34	null	null
+6	35	null	null
+6	36	null	null
+6	37	null	null
+6	38	null	State Univ. of New York, Buffalo
+6	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+6	40	null	null
+6	41	null	null
+6	42	null	null
+6	43	null	null
+6	44	null	null
+6	45	null	null
+7	8	null	null
+7	9	null	Ericsson Res., Research Triangle Park, NC
+7	10	null	null
+7	11	null	null
+7	12	null	State Univ. of New York at Buffalo, Buffalo
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	Texas Instruments Inc., Dallas
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	null
+7	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+7	28	null	null
+7	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+7	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+7	31	null	null
+7	32	null	State Univ. of New York at Buffalo, Buffalo
+7	33	null	null
+7	34	null	null
+7	35	null	null
+7	36	null	null
+7	37	null	null
+7	38	null	State Univ. of New York, Buffalo
+7	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+7	40	null	null
+7	41	null	null
+7	42	null	null
+7	43	null	null
+7	44	null	null
+7	45	null	null
+8	9	null	Ericsson Res., Research Triangle Park, NC
+8	10	null	null
+8	11	null	null
+8	12	null	State Univ. of New York at Buffalo, Buffalo
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	Texas Instruments Inc., Dallas
+8	23	null	null
+8	24	null	null
+8	25	null	null
+8	26	null	null
+8	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+8	28	null	null
+8	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+8	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+8	31	null	null
+8	32	null	State Univ. of New York at Buffalo, Buffalo
+8	33	null	null
+8	34	null	null
+8	35	null	null
+8	36	null	null
+8	37	null	null
+8	38	null	State Univ. of New York, Buffalo
+8	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+8	40	null	null
+8	41	null	null
+8	42	null	null
+8	43	null	null
+8	44	null	null
+8	45	null	null
+9	10	Ericsson Res., Research Triangle Park, NC	null
+9	11	Ericsson Res., Research Triangle Park, NC	null
+9	12	Ericsson Res., Research Triangle Park, NC	State Univ. of New York at Buffalo, Buffalo
+9	13	Ericsson Res., Research Triangle Park, NC	null
+9	14	Ericsson Res., Research Triangle Park, NC	null
+9	15	Ericsson Res., Research Triangle Park, NC	null
+9	16	Ericsson Res., Research Triangle Park, NC	null
+9	17	Ericsson Res., Research Triangle Park, NC	null
+9	18	Ericsson Res., Research Triangle Park, NC	null
+9	19	Ericsson Res., Research Triangle Park, NC	null
+9	20	Ericsson Res., Research Triangle Park, NC	null
+9	21	Ericsson Res., Research Triangle Park, NC	null
+9	22	Ericsson Res., Research Triangle Park, NC	Texas Instruments Inc., Dallas
+9	23	Ericsson Res., Research Triangle Park, NC	null
+9	24	Ericsson Res., Research Triangle Park, NC	null
+9	25	Ericsson Res., Research Triangle Park, NC	null
+9	26	Ericsson Res., Research Triangle Park, NC	null
+9	27	Ericsson Res., Research Triangle Park, NC	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+9	28	Ericsson Res., Research Triangle Park, NC	null
+9	29	Ericsson Res., Research Triangle Park, NC	Department of Management Science & Systems, SUNY, Buffalo, USA
+9	30	Ericsson Res., Research Triangle Park, NC	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+9	31	Ericsson Res., Research Triangle Park, NC	null
+9	32	Ericsson Res., Research Triangle Park, NC	State Univ. of New York at Buffalo, Buffalo
+9	33	Ericsson Res., Research Triangle Park, NC	null
+9	34	Ericsson Res., Research Triangle Park, NC	null
+9	35	Ericsson Res., Research Triangle Park, NC	null
+9	36	Ericsson Res., Research Triangle Park, NC	null
+9	37	Ericsson Res., Research Triangle Park, NC	null
+9	38	Ericsson Res., Research Triangle Park, NC	State Univ. of New York, Buffalo
+9	39	Ericsson Res., Research Triangle Park, NC	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+9	40	Ericsson Res., Research Triangle Park, NC	null
+9	41	Ericsson Res., Research Triangle Park, NC	null
+9	42	Ericsson Res., Research Triangle Park, NC	null
+9	43	Ericsson Res., Research Triangle Park, NC	null
+9	44	Ericsson Res., Research Triangle Park, NC	null
+9	45	Ericsson Res., Research Triangle Park, NC	null
+10	11	null	null
+10	12	null	State Univ. of New York at Buffalo, Buffalo
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	null
+10	18	null	null
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	Texas Instruments Inc., Dallas
+10	23	null	null
+10	24	null	null
+10	25	null	null
+10	26	null	null
+10	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+10	28	null	null
+10	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+10	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+10	31	null	null
+10	32	null	State Univ. of New York at Buffalo, Buffalo
+10	33	null	null
+10	34	null	null
+10	35	null	null
+10	36	null	null
+10	37	null	null
+10	38	null	State Univ. of New York, Buffalo
+10	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+10	40	null	null
+10	41	null	null
+10	42	null	null
+10	43	null	null
+10	44	null	null
+10	45	null	null
+11	12	null	State Univ. of New York at Buffalo, Buffalo
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	Texas Instruments Inc., Dallas
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	null
+11	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+11	28	null	null
+11	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+11	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+11	31	null	null
+11	32	null	State Univ. of New York at Buffalo, Buffalo
+11	33	null	null
+11	34	null	null
+11	35	null	null
+11	36	null	null
+11	37	null	null
+11	38	null	State Univ. of New York, Buffalo
+11	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+11	40	null	null
+11	41	null	null
+11	42	null	null
+11	43	null	null
+11	44	null	null
+11	45	null	null
+12	13	State Univ. of New York at Buffalo, Buffalo	null
+12	14	State Univ. of New York at Buffalo, Buffalo	null
+12	15	State Univ. of New York at Buffalo, Buffalo	null
+12	16	State Univ. of New York at Buffalo, Buffalo	null
+12	17	State Univ. of New York at Buffalo, Buffalo	null
+12	18	State Univ. of New York at Buffalo, Buffalo	null
+12	19	State Univ. of New York at Buffalo, Buffalo	null
+12	20	State Univ. of New York at Buffalo, Buffalo	null
+12	21	State Univ. of New York at Buffalo, Buffalo	null
+12	22	State Univ. of New York at Buffalo, Buffalo	Texas Instruments Inc., Dallas
+12	23	State Univ. of New York at Buffalo, Buffalo	null
+12	24	State Univ. of New York at Buffalo, Buffalo	null
+12	25	State Univ. of New York at Buffalo, Buffalo	null
+12	26	State Univ. of New York at Buffalo, Buffalo	null
+12	27	State Univ. of New York at Buffalo, Buffalo	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+12	28	State Univ. of New York at Buffalo, Buffalo	null
+12	29	State Univ. of New York at Buffalo, Buffalo	Department of Management Science & Systems, SUNY, Buffalo, USA
+12	30	State Univ. of New York at Buffalo, Buffalo	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+12	31	State Univ. of New York at Buffalo, Buffalo	null
+12	32	State Univ. of New York at Buffalo, Buffalo	State Univ. of New York at Buffalo, Buffalo
+12	33	State Univ. of New York at Buffalo, Buffalo	null
+12	34	State Univ. of New York at Buffalo, Buffalo	null
+12	35	State Univ. of New York at Buffalo, Buffalo	null
+12	36	State Univ. of New York at Buffalo, Buffalo	null
+12	37	State Univ. of New York at Buffalo, Buffalo	null
+12	38	State Univ. of New York at Buffalo, Buffalo	State Univ. of New York, Buffalo
+12	39	State Univ. of New York at Buffalo, Buffalo	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+12	40	State Univ. of New York at Buffalo, Buffalo	null
+12	41	State Univ. of New York at Buffalo, Buffalo	null
+12	42	State Univ. of New York at Buffalo, Buffalo	null
+12	43	State Univ. of New York at Buffalo, Buffalo	null
+12	44	State Univ. of New York at Buffalo, Buffalo	null
+12	45	State Univ. of New York at Buffalo, Buffalo	null
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	Texas Instruments Inc., Dallas
+13	23	null	null
+13	24	null	null
+13	25	null	null
+13	26	null	null
+13	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+13	28	null	null
+13	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+13	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+13	31	null	null
+13	32	null	State Univ. of New York at Buffalo, Buffalo
+13	33	null	null
+13	34	null	null
+13	35	null	null
+13	36	null	null
+13	37	null	null
+13	38	null	State Univ. of New York, Buffalo
+13	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+13	40	null	null
+13	41	null	null
+13	42	null	null
+13	43	null	null
+13	44	null	null
+13	45	null	null
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	Texas Instruments Inc., Dallas
+14	23	null	null
+14	24	null	null
+14	25	null	null
+14	26	null	null
+14	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+14	28	null	null
+14	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+14	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+14	31	null	null
+14	32	null	State Univ. of New York at Buffalo, Buffalo
+14	33	null	null
+14	34	null	null
+14	35	null	null
+14	36	null	null
+14	37	null	null
+14	38	null	State Univ. of New York, Buffalo
+14	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+14	40	null	null
+14	41	null	null
+14	42	null	null
+14	43	null	null
+14	44	null	null
+14	45	null	null
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	Texas Instruments Inc., Dallas
+15	23	null	null
+15	24	null	null
+15	25	null	null
+15	26	null	null
+15	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+15	28	null	null
+15	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+15	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+15	31	null	null
+15	32	null	State Univ. of New York at Buffalo, Buffalo
+15	33	null	null
+15	34	null	null
+15	35	null	null
+15	36	null	null
+15	37	null	null
+15	38	null	State Univ. of New York, Buffalo
+15	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+15	40	null	null
+15	41	null	null
+15	42	null	null
+15	43	null	null
+15	44	null	null
+15	45	null	null
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	Texas Instruments Inc., Dallas
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	null
+16	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+16	28	null	null
+16	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+16	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+16	31	null	null
+16	32	null	State Univ. of New York at Buffalo, Buffalo
+16	33	null	null
+16	34	null	null
+16	35	null	null
+16	36	null	null
+16	37	null	null
+16	38	null	State Univ. of New York, Buffalo
+16	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+16	40	null	null
+16	41	null	null
+16	42	null	null
+16	43	null	null
+16	44	null	null
+16	45	null	null
+17	18	null	null
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	Texas Instruments Inc., Dallas
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	null
+17	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+17	28	null	null
+17	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+17	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+17	31	null	null
+17	32	null	State Univ. of New York at Buffalo, Buffalo
+17	33	null	null
+17	34	null	null
+17	35	null	null
+17	36	null	null
+17	37	null	null
+17	38	null	State Univ. of New York, Buffalo
+17	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+17	40	null	null
+17	41	null	null
+17	42	null	null
+17	43	null	null
+17	44	null	null
+17	45	null	null
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	Texas Instruments Inc., Dallas
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	null
+18	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+18	28	null	null
+18	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+18	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+18	31	null	null
+18	32	null	State Univ. of New York at Buffalo, Buffalo
+18	33	null	null
+18	34	null	null
+18	35	null	null
+18	36	null	null
+18	37	null	null
+18	38	null	State Univ. of New York, Buffalo
+18	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+18	40	null	null
+18	41	null	null
+18	42	null	null
+18	43	null	null
+18	44	null	null
+18	45	null	null
+19	20	null	null
+19	21	null	null
+19	22	null	Texas Instruments Inc., Dallas
+19	23	null	null
+19	24	null	null
+19	25	null	null
+19	26	null	null
+19	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+19	28	null	null
+19	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+19	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+19	31	null	null
+19	32	null	State Univ. of New York at Buffalo, Buffalo
+19	33	null	null
+19	34	null	null
+19	35	null	null
+19	36	null	null
+19	37	null	null
+19	38	null	State Univ. of New York, Buffalo
+19	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+19	40	null	null
+19	41	null	null
+19	42	null	null
+19	43	null	null
+19	44	null	null
+19	45	null	null
+20	21	null	null
+20	22	null	Texas Instruments Inc., Dallas
+20	23	null	null
+20	24	null	null
+20	25	null	null
+20	26	null	null
+20	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+20	28	null	null
+20	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+20	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+20	31	null	null
+20	32	null	State Univ. of New York at Buffalo, Buffalo
+20	33	null	null
+20	34	null	null
+20	35	null	null
+20	36	null	null
+20	37	null	null
+20	38	null	State Univ. of New York, Buffalo
+20	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+20	40	null	null
+20	41	null	null
+20	42	null	null
+20	43	null	null
+20	44	null	null
+20	45	null	null
+21	22	null	Texas Instruments Inc., Dallas
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	null
+21	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+21	28	null	null
+21	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+21	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+21	31	null	null
+21	32	null	State Univ. of New York at Buffalo, Buffalo
+21	33	null	null
+21	34	null	null
+21	35	null	null
+21	36	null	null
+21	37	null	null
+21	38	null	State Univ. of New York, Buffalo
+21	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+21	40	null	null
+21	41	null	null
+21	42	null	null
+21	43	null	null
+21	44	null	null
+21	45	null	null
+22	23	Texas Instruments Inc., Dallas	null
+22	24	Texas Instruments Inc., Dallas	null
+22	25	Texas Instruments Inc., Dallas	null
+22	26	Texas Instruments Inc., Dallas	null
+22	27	Texas Instruments Inc., Dallas	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+22	28	Texas Instruments Inc., Dallas	null
+22	29	Texas Instruments Inc., Dallas	Department of Management Science & Systems, SUNY, Buffalo, USA
+22	30	Texas Instruments Inc., Dallas	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+22	31	Texas Instruments Inc., Dallas	null
+22	32	Texas Instruments Inc., Dallas	State Univ. of New York at Buffalo, Buffalo
+22	33	Texas Instruments Inc., Dallas	null
+22	34	Texas Instruments Inc., Dallas	null
+22	35	Texas Instruments Inc., Dallas	null
+22	36	Texas Instruments Inc., Dallas	null
+22	37	Texas Instruments Inc., Dallas	null
+22	38	Texas Instruments Inc., Dallas	State Univ. of New York, Buffalo
+22	39	Texas Instruments Inc., Dallas	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+22	40	Texas Instruments Inc., Dallas	null
+22	41	Texas Instruments Inc., Dallas	null
+22	42	Texas Instruments Inc., Dallas	null
+22	43	Texas Instruments Inc., Dallas	null
+22	44	Texas Instruments Inc., Dallas	null
+22	45	Texas Instruments Inc., Dallas	null
+23	24	null	null
+23	25	null	null
+23	26	null	null
+23	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+23	28	null	null
+23	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+23	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+23	31	null	null
+23	32	null	State Univ. of New York at Buffalo, Buffalo
+23	33	null	null
+23	34	null	null
+23	35	null	null
+23	36	null	null
+23	37	null	null
+23	38	null	State Univ. of New York, Buffalo
+23	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+23	40	null	null
+23	41	null	null
+23	42	null	null
+23	43	null	null
+23	44	null	null
+23	45	null	null
+24	25	null	null
+24	26	null	null
+24	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+24	28	null	null
+24	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+24	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+24	31	null	null
+24	32	null	State Univ. of New York at Buffalo, Buffalo
+24	33	null	null
+24	34	null	null
+24	35	null	null
+24	36	null	null
+24	37	null	null
+24	38	null	State Univ. of New York, Buffalo
+24	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+24	40	null	null
+24	41	null	null
+24	42	null	null
+24	43	null	null
+24	44	null	null
+24	45	null	null
+25	26	null	null
+25	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+25	28	null	null
+25	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+25	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+25	31	null	null
+25	32	null	State Univ. of New York at Buffalo, Buffalo
+25	33	null	null
+25	34	null	null
+25	35	null	null
+25	36	null	null
+25	37	null	null
+25	38	null	State Univ. of New York, Buffalo
+25	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+25	40	null	null
+25	41	null	null
+25	42	null	null
+25	43	null	null
+25	44	null	null
+25	45	null	null
+26	27	null	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India
+26	28	null	null
+26	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+26	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+26	31	null	null
+26	32	null	State Univ. of New York at Buffalo, Buffalo
+26	33	null	null
+26	34	null	null
+26	35	null	null
+26	36	null	null
+26	37	null	null
+26	38	null	State Univ. of New York, Buffalo
+26	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+26	40	null	null
+26	41	null	null
+26	42	null	null
+26	43	null	null
+26	44	null	null
+26	45	null	null
+27	28	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	29	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	Department of Management Science & Systems, SUNY, Buffalo, USA
+27	30	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+27	31	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	32	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	State Univ. of New York at Buffalo, Buffalo
+27	33	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	34	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	35	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	36	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	37	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	38	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	State Univ. of New York, Buffalo
+27	39	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+27	40	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	41	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	42	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	43	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	44	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+27	45	Dept. of Mech. Eng., Pondicherry Eng. Coll., Puducherry, India	null
+28	29	null	Department of Management Science & Systems, SUNY, Buffalo, USA
+28	30	null	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+28	31	null	null
+28	32	null	State Univ. of New York at Buffalo, Buffalo
+28	33	null	null
+28	34	null	null
+28	35	null	null
+28	36	null	null
+28	37	null	null
+28	38	null	State Univ. of New York, Buffalo
+28	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+28	40	null	null
+28	41	null	null
+28	42	null	null
+28	43	null	null
+28	44	null	null
+28	45	null	null
+29	30	Department of Management Science & Systems, SUNY, Buffalo, USA	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India
+29	31	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	32	Department of Management Science & Systems, SUNY, Buffalo, USA	State Univ. of New York at Buffalo, Buffalo
+29	33	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	34	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	35	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	36	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	37	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	38	Department of Management Science & Systems, SUNY, Buffalo, USA	State Univ. of New York, Buffalo
+29	39	Department of Management Science & Systems, SUNY, Buffalo, USA	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+29	40	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	41	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	42	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	43	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	44	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+29	45	Department of Management Science & Systems, SUNY, Buffalo, USA	null
+30	31	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	32	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	State Univ. of New York at Buffalo, Buffalo
+30	33	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	34	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	35	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	36	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	37	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	38	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	State Univ. of New York, Buffalo
+30	39	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+30	40	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	41	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	42	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	43	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	44	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+30	45	School of Electronics and Communication Engineering, SRM University, Kancheepuram, Tamilnadu, India	null
+31	32	null	State Univ. of New York at Buffalo, Buffalo
+31	33	null	null
+31	34	null	null
+31	35	null	null
+31	36	null	null
+31	37	null	null
+31	38	null	State Univ. of New York, Buffalo
+31	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+31	40	null	null
+31	41	null	null
+31	42	null	null
+31	43	null	null
+31	44	null	null
+31	45	null	null
+32	33	State Univ. of New York at Buffalo, Buffalo	null
+32	34	State Univ. of New York at Buffalo, Buffalo	null
+32	35	State Univ. of New York at Buffalo, Buffalo	null
+32	36	State Univ. of New York at Buffalo, Buffalo	null
+32	37	State Univ. of New York at Buffalo, Buffalo	null
+32	38	State Univ. of New York at Buffalo, Buffalo	State Univ. of New York, Buffalo
+32	39	State Univ. of New York at Buffalo, Buffalo	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+32	40	State Univ. of New York at Buffalo, Buffalo	null
+32	41	State Univ. of New York at Buffalo, Buffalo	null
+32	42	State Univ. of New York at Buffalo, Buffalo	null
+32	43	State Univ. of New York at Buffalo, Buffalo	null
+32	44	State Univ. of New York at Buffalo, Buffalo	null
+32	45	State Univ. of New York at Buffalo, Buffalo	null
+33	34	null	null
+33	35	null	null
+33	36	null	null
+33	37	null	null
+33	38	null	State Univ. of New York, Buffalo
+33	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+33	40	null	null
+33	41	null	null
+33	42	null	null
+33	43	null	null
+33	44	null	null
+33	45	null	null
+34	35	null	null
+34	36	null	null
+34	37	null	null
+34	38	null	State Univ. of New York, Buffalo
+34	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+34	40	null	null
+34	41	null	null
+34	42	null	null
+34	43	null	null
+34	44	null	null
+34	45	null	null
+35	36	null	null
+35	37	null	null
+35	38	null	State Univ. of New York, Buffalo
+35	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+35	40	null	null
+35	41	null	null
+35	42	null	null
+35	43	null	null
+35	44	null	null
+35	45	null	null
+36	37	null	null
+36	38	null	State Univ. of New York, Buffalo
+36	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+36	40	null	null
+36	41	null	null
+36	42	null	null
+36	43	null	null
+36	44	null	null
+36	45	null	null
+37	38	null	State Univ. of New York, Buffalo
+37	39	null	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+37	40	null	null
+37	41	null	null
+37	42	null	null
+37	43	null	null
+37	44	null	null
+37	45	null	null
+38	39	State Univ. of New York, Buffalo	Department of Computer Science, University of Texas at Dallas, Richardson, TX
+38	40	State Univ. of New York, Buffalo	null
+38	41	State Univ. of New York, Buffalo	null
+38	42	State Univ. of New York, Buffalo	null
+38	43	State Univ. of New York, Buffalo	null
+38	44	State Univ. of New York, Buffalo	null
+38	45	State Univ. of New York, Buffalo	null
+39	40	Department of Computer Science, University of Texas at Dallas, Richardson, TX	null
+39	41	Department of Computer Science, University of Texas at Dallas, Richardson, TX	null
+39	42	Department of Computer Science, University of Texas at Dallas, Richardson, TX	null
+39	43	Department of Computer Science, University of Texas at Dallas, Richardson, TX	null
+39	44	Department of Computer Science, University of Texas at Dallas, Richardson, TX	null
+39	45	Department of Computer Science, University of Texas at Dallas, Richardson, TX	null
+40	41	null	null
+40	42	null	null
+40	43	null	null
+40	44	null	null
+40	45	null	null
+41	42	null	null
+41	43	null	null
+41	44	null	null
+41	45	null	null
+42	43	null	null
+42	44	null	null
+42	45	null	null
+43	44	null	null
+43	45	null	null
+44	45	null	null

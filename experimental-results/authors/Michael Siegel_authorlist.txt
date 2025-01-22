@@ -1,0 +1,497 @@
+0	42	Edward Sciore	Edward Sciore
+0	48	Edward Sciore	Edward Sciore
+0	49	Edward Sciore	Edward Sciore
+0	49	Sharon C. Salveter	Sharon C. Salveter
+1	35	Erich Mikk	Erich Mikk
+1	35	Yassine Lakhnech	Yassine Lakhnech
+1	36	Yassine Lakhnech	Yassine Lakhnech
+2	3	Amir Pnueli	Amir Pnueli
+2	3	Ofer Strichman	Ofer Strichman
+2	16	Amir Pnueli	Amir Pnueli
+2	16	Ofer Strichman	Ofer Strichman
+2	21	Amir Pnueli	Amir Pnueli
+2	21	Ofer Strichman	Ofer Strichman
+2	29	Amir Pnueli	Amir Pnueli
+2	39	Amir Pnueli	Amir Pnueli
+2	39	Ofer Strichman	Ofer Strichman
+2	40	Amir Pnueli	Amir Pnueli
+2	40	Ofer Strichman	Ofer Strichman
+2	47	Amir Pnueli	Amir Pnueli
+2	47	Ofer Strichman	Ofer Strichman
+3	16	Amir Pnueli	Amir Pnueli
+3	16	Ofer Strichman	Ofer Strichman
+3	21	Amir Pnueli	Amir Pnueli
+3	21	Ofer Strichman	Ofer Strichman
+3	29	Amir Pnueli	Amir Pnueli
+3	39	Amir Pnueli	Amir Pnueli
+3	39	Yoav Rodeh	Yoav Rodeh
+3	39	Ofer Strichman	Ofer Strichman
+3	40	Amir Pnueli	Amir Pnueli
+3	40	Yoav Rodeh	Yoav Rodeh
+3	40	Ofer Strichman	Ofer Strichman
+3	47	Amir Pnueli	Amir Pnueli
+3	47	Ofer Strichman	Ofer Strichman
+4	5	Stuart E. Madnick	Stuart E. Madnick
+4	7	Stuart E. Madnick	Stuart E. Madnick
+4	8	Stuart E. Madnick	Stuart E. Madnick
+4	9	Stuart E. Madnick	Stuart E. Madnick
+4	10	Stuart E. Madnick	Stuart E. Madnick
+4	11	Cheng Hian Goh	Cheng Hian Goh
+4	11	Stuart E. Madnick	Stuart E. Madnick
+4	13	Stuart E. Madnick	Stuart E. Madnick
+4	14	Stuart E. Madnick	Stuart E. Madnick
+4	19	Stuart E. Madnick	Stuart E. Madnick
+4	20	Stuart E. Madnick	Stuart E. Madnick
+4	23	Stuart E. Madnick	Stuart E. Madnick
+4	25	Stuart E. Madnick	Stuart E. Madnick
+4	27	Cheng Hian Goh	Cheng Hian Goh
+4	27	Stuart E. Madnick	Stuart E. Madnick
+4	28	Cheng Hian Goh	Cheng Hian Goh
+4	28	Stuart E. Madnick	Stuart E. Madnick
+4	30	Stuart E. Madnick	Stuart E. Madnick
+4	31	Stuart E. Madnick	Stuart E. Madnick
+4	32	Stuart E. Madnick	Stuart E. Madnick
+4	33	Stuart E. Madnick	Stuart E. Madnick
+4	34	Stuart E. Madnick	Stuart E. Madnick
+4	37	Cheng Hian Goh	Cheng Hian Goh
+4	37	Stuart E. Madnick	Stuart E. Madnick
+4	38	Stuart E. Madnick	Stuart E. Madnick
+4	41	Stuart E. Madnick	Stuart E. Madnick
+4	42	Stuart E. Madnick	Stuart E. Madnick
+4	43	Stuart E. Madnick	Stuart E. Madnick
+4	46	Stuart E. Madnick	Stuart E. Madnick
+4	50	Cheng Hian Goh	Cheng Hian Goh
+4	50	Stuart E. Madnick	Stuart E. Madnick
+4	53	Stuart E. Madnick	Stuart E. Madnick
+5	7	Stuart E. Madnick	Stuart E. Madnick
+5	8	Stuart E. Madnick	Stuart E. Madnick
+5	9	Stuart E. Madnick	Stuart E. Madnick
+5	10	Stuart E. Madnick	Stuart E. Madnick
+5	11	Stuart E. Madnick	Stuart E. Madnick
+5	13	Stuart E. Madnick	Stuart E. Madnick
+5	14	Stuart E. Madnick	Stuart E. Madnick
+5	19	Stuart E. Madnick	Stuart E. Madnick
+5	20	Stuart E. Madnick	Stuart E. Madnick
+5	23	Stuart E. Madnick	Stuart E. Madnick
+5	25	Stuart E. Madnick	Stuart E. Madnick
+5	27	Thomas Lee	Thomas Lee
+5	27	Stuart E. Madnick	Stuart E. Madnick
+5	28	Thomas Lee	Thomas Lee
+5	28	Stuart E. Madnick	Stuart E. Madnick
+5	30	Stuart E. Madnick	Stuart E. Madnick
+5	31	Stuart E. Madnick	Stuart E. Madnick
+5	32	Stuart E. Madnick	Stuart E. Madnick
+5	33	Stuart E. Madnick	Stuart E. Madnick
+5	34	Stuart E. Madnick	Stuart E. Madnick
+5	37	Stuart E. Madnick	Stuart E. Madnick
+5	38	Stuart E. Madnick	Stuart E. Madnick
+5	41	Stuart E. Madnick	Stuart E. Madnick
+5	42	Stuart E. Madnick	Stuart E. Madnick
+5	43	Stuart E. Madnick	Stuart E. Madnick
+5	46	Stuart E. Madnick	Stuart E. Madnick
+5	50	Stuart E. Madnick	Stuart E. Madnick
+5	53	Stuart E. Madnick	Stuart E. Madnick
+7	8	Allen Moulton	Allen Moulton
+7	8	Stuart E. Madnick	Stuart E. Madnick
+7	9	Allen Moulton	Allen Moulton
+7	9	Stuart E. Madnick	Stuart E. Madnick
+7	10	Stuart E. Madnick	Stuart E. Madnick
+7	11	Stuart E. Madnick	Stuart E. Madnick
+7	13	Stuart E. Madnick	Stuart E. Madnick
+7	14	Allen Moulton	Allen Moulton
+7	14	Stuart E. Madnick	Stuart E. Madnick
+7	19	Allen Moulton	Allen Moulton
+7	19	Stuart E. Madnick	Stuart E. Madnick
+7	20	Allen Moulton	Allen Moulton
+7	20	Stuart E. Madnick	Stuart E. Madnick
+7	23	Stuart E. Madnick	Stuart E. Madnick
+7	25	Stuart E. Madnick	Stuart E. Madnick
+7	27	Stuart E. Madnick	Stuart E. Madnick
+7	28	Stuart E. Madnick	Stuart E. Madnick
+7	30	Stuart E. Madnick	Stuart E. Madnick
+7	31	Stuart E. Madnick	Stuart E. Madnick
+7	32	Stuart E. Madnick	Stuart E. Madnick
+7	33	Stuart E. Madnick	Stuart E. Madnick
+7	34	Stuart E. Madnick	Stuart E. Madnick
+7	37	Stuart E. Madnick	Stuart E. Madnick
+7	38	Stuart E. Madnick	Stuart E. Madnick
+7	41	Stuart E. Madnick	Stuart E. Madnick
+7	42	Stuart E. Madnick	Stuart E. Madnick
+7	43	Stuart E. Madnick	Stuart E. Madnick
+7	46	Stuart E. Madnick	Stuart E. Madnick
+7	50	Stuart E. Madnick	Stuart E. Madnick
+7	53	Stuart E. Madnick	Stuart E. Madnick
+8	9	Allen Moulton	Allen Moulton
+8	9	Stuart E. Madnick	Stuart E. Madnick
+8	10	Stuart E. Madnick	Stuart E. Madnick
+8	11	Stuart E. Madnick	Stuart E. Madnick
+8	13	Stuart E. Madnick	Stuart E. Madnick
+8	14	Allen Moulton	Allen Moulton
+8	14	Stuart E. Madnick	Stuart E. Madnick
+8	19	Allen Moulton	Allen Moulton
+8	19	Stuart E. Madnick	Stuart E. Madnick
+8	20	Allen Moulton	Allen Moulton
+8	20	Stuart E. Madnick	Stuart E. Madnick
+8	23	Stuart E. Madnick	Stuart E. Madnick
+8	25	Stuart E. Madnick	Stuart E. Madnick
+8	27	Stuart E. Madnick	Stuart E. Madnick
+8	28	Stuart E. Madnick	Stuart E. Madnick
+8	30	Stuart E. Madnick	Stuart E. Madnick
+8	31	Stuart E. Madnick	Stuart E. Madnick
+8	32	Stuart E. Madnick	Stuart E. Madnick
+8	33	Stuart E. Madnick	Stuart E. Madnick
+8	34	Stuart E. Madnick	Stuart E. Madnick
+8	37	Stuart E. Madnick	Stuart E. Madnick
+8	38	Stuart E. Madnick	Stuart E. Madnick
+8	41	Stuart E. Madnick	Stuart E. Madnick
+8	42	Stuart E. Madnick	Stuart E. Madnick
+8	43	Stuart E. Madnick	Stuart E. Madnick
+8	46	Stuart E. Madnick	Stuart E. Madnick
+8	50	Stuart E. Madnick	Stuart E. Madnick
+8	53	Stuart E. Madnick	Stuart E. Madnick
+9	10	Stuart E. Madnick	Stuart E. Madnick
+9	11	Stuart E. Madnick	Stuart E. Madnick
+9	13	Stuart E. Madnick	Stuart E. Madnick
+9	14	Allen Moulton	Allen Moulton
+9	14	Stuart E. Madnick	Stuart E. Madnick
+9	19	Allen Moulton	Allen Moulton
+9	19	Stuart E. Madnick	Stuart E. Madnick
+9	20	Allen Moulton	Allen Moulton
+9	20	Stuart E. Madnick	Stuart E. Madnick
+9	23	Stuart E. Madnick	Stuart E. Madnick
+9	25	Stuart E. Madnick	Stuart E. Madnick
+9	27	Stuart E. Madnick	Stuart E. Madnick
+9	28	Stuart E. Madnick	Stuart E. Madnick
+9	30	Stuart E. Madnick	Stuart E. Madnick
+9	31	Stuart E. Madnick	Stuart E. Madnick
+9	32	Stuart E. Madnick	Stuart E. Madnick
+9	33	Stuart E. Madnick	Stuart E. Madnick
+9	34	Stuart E. Madnick	Stuart E. Madnick
+9	37	Stuart E. Madnick	Stuart E. Madnick
+9	38	Stuart E. Madnick	Stuart E. Madnick
+9	41	Stuart E. Madnick	Stuart E. Madnick
+9	42	Stuart E. Madnick	Stuart E. Madnick
+9	43	Stuart E. Madnick	Stuart E. Madnick
+9	46	Stuart E. Madnick	Stuart E. Madnick
+9	50	Stuart E. Madnick	Stuart E. Madnick
+9	53	Stuart E. Madnick	Stuart E. Madnick
+10	11	Stuart E. Madnick	Stuart E. Madnick
+10	13	Mark Hansen	Mark Hansen
+10	13	Stuart E. Madnick	Stuart E. Madnick
+10	14	Stuart E. Madnick	Stuart E. Madnick
+10	19	Stuart E. Madnick	Stuart E. Madnick
+10	20	Stuart E. Madnick	Stuart E. Madnick
+10	23	Stuart E. Madnick	Stuart E. Madnick
+10	25	Stuart E. Madnick	Stuart E. Madnick
+10	27	Stuart E. Madnick	Stuart E. Madnick
+10	28	Stuart E. Madnick	Stuart E. Madnick
+10	30	Stuart E. Madnick	Stuart E. Madnick
+10	31	Stuart E. Madnick	Stuart E. Madnick
+10	32	Stuart E. Madnick	Stuart E. Madnick
+10	33	Stuart E. Madnick	Stuart E. Madnick
+10	34	Mark Hansen	Mark Hansen
+10	34	Stuart E. Madnick	Stuart E. Madnick
+10	37	Stuart E. Madnick	Stuart E. Madnick
+10	38	Stuart E. Madnick	Stuart E. Madnick
+10	41	Stuart E. Madnick	Stuart E. Madnick
+10	42	Stuart E. Madnick	Stuart E. Madnick
+10	43	Stuart E. Madnick	Stuart E. Madnick
+10	46	Stuart E. Madnick	Stuart E. Madnick
+10	50	Stuart E. Madnick	Stuart E. Madnick
+10	53	Mark Hansen	Mark Hansen
+10	53	Stuart E. Madnick	Stuart E. Madnick
+11	13	Stuart E. Madnick	Stuart E. Madnick
+11	14	Stuart E. Madnick	Stuart E. Madnick
+11	19	Stuart E. Madnick	Stuart E. Madnick
+11	20	Stuart E. Madnick	Stuart E. Madnick
+11	23	Stuart E. Madnick	Stuart E. Madnick
+11	25	Stuart E. Madnick	Stuart E. Madnick
+11	27	Cheng Hian Goh	Cheng Hian Goh
+11	27	Karim Hussein	Karim Hussein
+11	27	Stuart E. Madnick	Stuart E. Madnick
+11	28	Cheng Hian Goh	Cheng Hian Goh
+11	28	Stuart E. Madnick	Stuart E. Madnick
+11	30	Stuart E. Madnick	Stuart E. Madnick
+11	31	Stuart E. Madnick	Stuart E. Madnick
+11	32	Stuart E. Madnick	Stuart E. Madnick
+11	33	Stuart E. Madnick	Stuart E. Madnick
+11	34	Stuart E. Madnick	Stuart E. Madnick
+11	37	Cheng Hian Goh	Cheng Hian Goh
+11	37	Stuart E. Madnick	Stuart E. Madnick
+11	38	Stuart E. Madnick	Stuart E. Madnick
+11	41	Stuart E. Madnick	Stuart E. Madnick
+11	42	Stuart E. Madnick	Stuart E. Madnick
+11	43	Stuart E. Madnick	Stuart E. Madnick
+11	46	Stuart E. Madnick	Stuart E. Madnick
+11	50	Cheng Hian Goh	Cheng Hian Goh
+11	50	Stuart E. Madnick	Stuart E. Madnick
+11	53	Stuart E. Madnick	Stuart E. Madnick
+13	14	Stuart E. Madnick	Stuart E. Madnick
+13	19	Stuart E. Madnick	Stuart E. Madnick
+13	20	Stuart E. Madnick	Stuart E. Madnick
+13	23	Stuart E. Madnick	Stuart E. Madnick
+13	25	Stuart E. Madnick	Stuart E. Madnick
+13	27	Stuart E. Madnick	Stuart E. Madnick
+13	28	Stuart E. Madnick	Stuart E. Madnick
+13	30	Stuart E. Madnick	Stuart E. Madnick
+13	31	Stuart E. Madnick	Stuart E. Madnick
+13	32	Stuart E. Madnick	Stuart E. Madnick
+13	33	Stuart E. Madnick	Stuart E. Madnick
+13	34	Mark Hansen	Mark Hansen
+13	34	Stuart E. Madnick	Stuart E. Madnick
+13	37	Stuart E. Madnick	Stuart E. Madnick
+13	38	Stuart E. Madnick	Stuart E. Madnick
+13	41	Stuart E. Madnick	Stuart E. Madnick
+13	42	Stuart E. Madnick	Stuart E. Madnick
+13	43	Stuart E. Madnick	Stuart E. Madnick
+13	46	Stuart E. Madnick	Stuart E. Madnick
+13	50	Stuart E. Madnick	Stuart E. Madnick
+13	53	Mark Hansen	Mark Hansen
+13	53	Stuart E. Madnick	Stuart E. Madnick
+14	19	Allen Moulton	Allen Moulton
+14	19	Stuart E. Madnick	Stuart E. Madnick
+14	20	Allen Moulton	Allen Moulton
+14	20	Stuart E. Madnick	Stuart E. Madnick
+14	23	Stuart E. Madnick	Stuart E. Madnick
+14	25	Stuart E. Madnick	Stuart E. Madnick
+14	27	Stephane Bressan	Stephane Bressan
+14	27	Stuart E. Madnick	Stuart E. Madnick
+14	28	Stephane Bressan	Stephane Bressan
+14	28	Stuart E. Madnick	Stuart E. Madnick
+14	30	Stuart E. Madnick	Stuart E. Madnick
+14	31	Stuart E. Madnick	Stuart E. Madnick
+14	32	Stuart E. Madnick	Stuart E. Madnick
+14	33	Stuart E. Madnick	Stuart E. Madnick
+14	34	Stuart E. Madnick	Stuart E. Madnick
+14	37	Stephane Bressan	Stephane Bressan
+14	37	Stuart E. Madnick	Stuart E. Madnick
+14	38	Stuart E. Madnick	Stuart E. Madnick
+14	41	Stuart E. Madnick	Stuart E. Madnick
+14	42	Stuart E. Madnick	Stuart E. Madnick
+14	43	Stuart E. Madnick	Stuart E. Madnick
+14	46	Stuart E. Madnick	Stuart E. Madnick
+14	50	Stephane Bressan	Stephane Bressan
+14	50	Stuart E. Madnick	Stuart E. Madnick
+14	53	Stuart E. Madnick	Stuart E. Madnick
+16	21	Amir Pnueli	Amir Pnueli
+16	21	Ofer Strichman	Ofer Strichman
+16	29	Amir Pnueli	Amir Pnueli
+16	39	Amir Pnueli	Amir Pnueli
+16	39	Ofer Strichman	Ofer Strichman
+16	40	Amir Pnueli	Amir Pnueli
+16	40	Ofer Strichman	Ofer Strichman
+16	47	Amir Pnueli	Amir Pnueli
+16	47	Ofer Strichman	Ofer Strichman
+19	20	Allen Moulton	Allen Moulton
+19	20	Stuart E. Madnick	Stuart E. Madnick
+19	23	Stuart E. Madnick	Stuart E. Madnick
+19	25	Stuart E. Madnick	Stuart E. Madnick
+19	27	Stuart E. Madnick	Stuart E. Madnick
+19	28	Stuart E. Madnick	Stuart E. Madnick
+19	30	Stuart E. Madnick	Stuart E. Madnick
+19	31	Stuart E. Madnick	Stuart E. Madnick
+19	32	Stuart E. Madnick	Stuart E. Madnick
+19	33	Stuart E. Madnick	Stuart E. Madnick
+19	34	Stuart E. Madnick	Stuart E. Madnick
+19	37	Stuart E. Madnick	Stuart E. Madnick
+19	38	Stuart E. Madnick	Stuart E. Madnick
+19	41	Stuart E. Madnick	Stuart E. Madnick
+19	42	Stuart E. Madnick	Stuart E. Madnick
+19	43	Stuart E. Madnick	Stuart E. Madnick
+19	46	Stuart E. Madnick	Stuart E. Madnick
+19	50	Stuart E. Madnick	Stuart E. Madnick
+19	53	Stuart E. Madnick	Stuart E. Madnick
+20	23	Stuart E. Madnick	Stuart E. Madnick
+20	23	Hongwei Zhu	Hongwei Zhu
+20	25	Stuart E. Madnick	Stuart E. Madnick
+20	25	Hongwei Zhu	Hongwei Zhu
+20	27	Stuart E. Madnick	Stuart E. Madnick
+20	28	Stuart E. Madnick	Stuart E. Madnick
+20	30	Stuart E. Madnick	Stuart E. Madnick
+20	31	Stuart E. Madnick	Stuart E. Madnick
+20	31	Hongwei Zhu	Hongwei Zhu
+20	32	Stuart E. Madnick	Stuart E. Madnick
+20	33	Stuart E. Madnick	Stuart E. Madnick
+20	34	Stuart E. Madnick	Stuart E. Madnick
+20	37	Stuart E. Madnick	Stuart E. Madnick
+20	38	Stuart E. Madnick	Stuart E. Madnick
+20	41	Stuart E. Madnick	Stuart E. Madnick
+20	42	Stuart E. Madnick	Stuart E. Madnick
+20	43	Stuart E. Madnick	Stuart E. Madnick
+20	46	Stuart E. Madnick	Stuart E. Madnick
+20	50	Stuart E. Madnick	Stuart E. Madnick
+20	53	Stuart E. Madnick	Stuart E. Madnick
+21	29	Amir Pnueli	Amir Pnueli
+21	39	Amir Pnueli	Amir Pnueli
+21	39	Ofer Strichman	Ofer Strichman
+21	40	Amir Pnueli	Amir Pnueli
+21	40	Ofer Strichman	Ofer Strichman
+21	47	Amir Pnueli	Amir Pnueli
+21	47	Ofer Strichman	Ofer Strichman
+23	25	Hongwei Zhu	Hongwei Zhu
+23	25	Stuart E. Madnick	Stuart E. Madnick
+23	27	Stuart E. Madnick	Stuart E. Madnick
+23	28	Stuart E. Madnick	Stuart E. Madnick
+23	30	Stuart E. Madnick	Stuart E. Madnick
+23	31	Hongwei Zhu	Hongwei Zhu
+23	31	Stuart E. Madnick	Stuart E. Madnick
+23	32	Stuart E. Madnick	Stuart E. Madnick
+23	33	Stuart E. Madnick	Stuart E. Madnick
+23	34	Stuart E. Madnick	Stuart E. Madnick
+23	37	Stuart E. Madnick	Stuart E. Madnick
+23	38	Stuart E. Madnick	Stuart E. Madnick
+23	41	Stuart E. Madnick	Stuart E. Madnick
+23	42	Stuart E. Madnick	Stuart E. Madnick
+23	43	Stuart E. Madnick	Stuart E. Madnick
+23	46	Stuart E. Madnick	Stuart E. Madnick
+23	50	Stuart E. Madnick	Stuart E. Madnick
+23	53	Stuart E. Madnick	Stuart E. Madnick
+25	27	Stuart E. Madnick	Stuart E. Madnick
+25	28	Stuart E. Madnick	Stuart E. Madnick
+25	30	Stuart E. Madnick	Stuart E. Madnick
+25	31	Hongwei Zhu	Hongwei Zhu
+25	31	Stuart E. Madnick	Stuart E. Madnick
+25	32	Stuart E. Madnick	Stuart E. Madnick
+25	33	Stuart E. Madnick	Stuart E. Madnick
+25	34	Stuart E. Madnick	Stuart E. Madnick
+25	37	Stuart E. Madnick	Stuart E. Madnick
+25	38	Stuart E. Madnick	Stuart E. Madnick
+25	41	Stuart E. Madnick	Stuart E. Madnick
+25	42	Stuart E. Madnick	Stuart E. Madnick
+25	43	Stuart E. Madnick	Stuart E. Madnick
+25	46	Stuart E. Madnick	Stuart E. Madnick
+25	50	Stuart E. Madnick	Stuart E. Madnick
+25	53	Stuart E. Madnick	Stuart E. Madnick
+27	28	Stephane Bressan	Stephane Bressan
+27	28	Cheng Hian Goh	Cheng Hian Goh
+27	28	Thomas Lee	Thomas Lee
+27	28	Stuart E. Madnick	Stuart E. Madnick
+27	30	Stuart E. Madnick	Stuart E. Madnick
+27	31	Stuart E. Madnick	Stuart E. Madnick
+27	32	Stuart E. Madnick	Stuart E. Madnick
+27	33	Stuart E. Madnick	Stuart E. Madnick
+27	34	Stuart E. Madnick	Stuart E. Madnick
+27	37	Stephane Bressan	Stephane Bressan
+27	37	Cheng Hian Goh	Cheng Hian Goh
+27	37	Stuart E. Madnick	Stuart E. Madnick
+27	38	Stuart E. Madnick	Stuart E. Madnick
+27	41	Stuart E. Madnick	Stuart E. Madnick
+27	42	Stuart E. Madnick	Stuart E. Madnick
+27	43	Stuart E. Madnick	Stuart E. Madnick
+27	46	Stuart E. Madnick	Stuart E. Madnick
+27	50	Stephane Bressan	Stephane Bressan
+27	50	Cheng Hian Goh	Cheng Hian Goh
+27	50	Stuart E. Madnick	Stuart E. Madnick
+27	53	Stuart E. Madnick	Stuart E. Madnick
+28	30	Stuart E. Madnick	Stuart E. Madnick
+28	31	Stuart E. Madnick	Stuart E. Madnick
+28	32	Stuart E. Madnick	Stuart E. Madnick
+28	33	Stuart E. Madnick	Stuart E. Madnick
+28	34	Stuart E. Madnick	Stuart E. Madnick
+28	37	Stephane Bressan	Stephane Bressan
+28	37	Cheng Hian Goh	Cheng Hian Goh
+28	37	Stuart E. Madnick	Stuart E. Madnick
+28	38	Stuart E. Madnick	Stuart E. Madnick
+28	41	Stuart E. Madnick	Stuart E. Madnick
+28	42	Stuart E. Madnick	Stuart E. Madnick
+28	43	Stuart E. Madnick	Stuart E. Madnick
+28	46	Stuart E. Madnick	Stuart E. Madnick
+28	50	Stephane Bressan	Stephane Bressan
+28	50	Cheng Hian Goh	Cheng Hian Goh
+28	50	Stuart E. Madnick	Stuart E. Madnick
+28	53	Stuart E. Madnick	Stuart E. Madnick
+29	39	Amir Pnueli	Amir Pnueli
+29	40	Amir Pnueli	Amir Pnueli
+29	47	Amir Pnueli	Amir Pnueli
+30	31	Stuart E. Madnick	Stuart E. Madnick
+30	32	Stuart E. Madnick	Stuart E. Madnick
+30	33	Stuart E. Madnick	Stuart E. Madnick
+30	34	Stuart E. Madnick	Stuart E. Madnick
+30	37	Stuart E. Madnick	Stuart E. Madnick
+30	38	Stuart E. Madnick	Stuart E. Madnick
+30	41	Stuart E. Madnick	Stuart E. Madnick
+30	42	Stuart E. Madnick	Stuart E. Madnick
+30	43	Stuart E. Madnick	Stuart E. Madnick
+30	46	Stuart E. Madnick	Stuart E. Madnick
+30	50	Stuart E. Madnick	Stuart E. Madnick
+30	53	Stuart E. Madnick	Stuart E. Madnick
+31	32	Stuart E. Madnick	Stuart E. Madnick
+31	33	Stuart E. Madnick	Stuart E. Madnick
+31	34	Stuart E. Madnick	Stuart E. Madnick
+31	37	Stuart E. Madnick	Stuart E. Madnick
+31	38	Stuart E. Madnick	Stuart E. Madnick
+31	41	Stuart E. Madnick	Stuart E. Madnick
+31	42	Stuart E. Madnick	Stuart E. Madnick
+31	43	Stuart E. Madnick	Stuart E. Madnick
+31	46	Stuart E. Madnick	Stuart E. Madnick
+31	50	Stuart E. Madnick	Stuart E. Madnick
+31	53	Stuart E. Madnick	Stuart E. Madnick
+32	33	Stuart E. Madnick	Stuart E. Madnick
+32	34	Stuart E. Madnick	Stuart E. Madnick
+32	37	Stuart E. Madnick	Stuart E. Madnick
+32	38	Stuart E. Madnick	Stuart E. Madnick
+32	41	Stuart E. Madnick	Stuart E. Madnick
+32	42	Stuart E. Madnick	Stuart E. Madnick
+32	43	Stuart E. Madnick	Stuart E. Madnick
+32	46	Stuart E. Madnick	Stuart E. Madnick
+32	50	Stuart E. Madnick	Stuart E. Madnick
+32	53	Stuart E. Madnick	Stuart E. Madnick
+33	34	Stuart E. Madnick	Stuart E. Madnick
+33	37	Stuart E. Madnick	Stuart E. Madnick
+33	38	Stuart E. Madnick	Stuart E. Madnick
+33	41	Stuart E. Madnick	Stuart E. Madnick
+33	42	Stuart E. Madnick	Stuart E. Madnick
+33	43	Stuart E. Madnick	Stuart E. Madnick
+33	46	Stuart E. Madnick	Stuart E. Madnick
+33	50	Stuart E. Madnick	Stuart E. Madnick
+33	53	Stuart E. Madnick	Stuart E. Madnick
+34	37	Stuart E. Madnick	Stuart E. Madnick
+34	38	Stuart E. Madnick	Stuart E. Madnick
+34	41	Stuart E. Madnick	Stuart E. Madnick
+34	42	Stuart E. Madnick	Stuart E. Madnick
+34	43	Stuart E. Madnick	Stuart E. Madnick
+34	46	Stuart E. Madnick	Stuart E. Madnick
+34	50	Stuart E. Madnick	Stuart E. Madnick
+34	53	Mark Hansen	Mark Hansen
+34	53	Stuart E. Madnick	Stuart E. Madnick
+35	36	Yassine Lakhnech	Yassine Lakhnech
+37	38	Stuart E. Madnick	Stuart E. Madnick
+37	41	Stuart E. Madnick	Stuart E. Madnick
+37	42	Stuart E. Madnick	Stuart E. Madnick
+37	43	Stuart E. Madnick	Stuart E. Madnick
+37	46	Stuart E. Madnick	Stuart E. Madnick
+37	50	Stephane Bressan	Stephane Bressan
+37	50	Cheng Hian Goh	Cheng Hian Goh
+37	50	Stuart E. Madnick	Stuart E. Madnick
+37	53	Stuart E. Madnick	Stuart E. Madnick
+38	41	Stuart E. Madnick	Stuart E. Madnick
+38	42	Stuart E. Madnick	Stuart E. Madnick
+38	43	Stuart E. Madnick	Stuart E. Madnick
+38	46	Stuart E. Madnick	Stuart E. Madnick
+38	50	Stuart E. Madnick	Stuart E. Madnick
+38	53	Stuart E. Madnick	Stuart E. Madnick
+39	40	Amir Pnueli	Amir Pnueli
+39	40	Yoav Rodeh	Yoav Rodeh
+39	40	Ofer Strichman	Ofer Strichman
+39	47	Amir Pnueli	Amir Pnueli
+39	47	Ofer Strichman	Ofer Strichman
+40	47	Amir Pnueli	Amir Pnueli
+40	47	Ofer Strichman	Ofer Strichman
+41	42	Stuart E. Madnick	Stuart E. Madnick
+41	43	Stuart E. Madnick	Stuart E. Madnick
+41	46	Stuart E. Madnick	Stuart E. Madnick
+41	50	Stuart E. Madnick	Stuart E. Madnick
+41	53	Stuart E. Madnick	Stuart E. Madnick
+42	43	Stuart E. Madnick	Stuart E. Madnick
+42	46	Stuart E. Madnick	Stuart E. Madnick
+42	48	Edward Sciore	Edward Sciore
+42	49	Edward Sciore	Edward Sciore
+42	50	Stuart E. Madnick	Stuart E. Madnick
+42	53	Stuart E. Madnick	Stuart E. Madnick
+43	46	Stuart E. Madnick	Stuart E. Madnick
+43	50	Stuart E. Madnick	Stuart E. Madnick
+43	53	Stuart E. Madnick	Stuart E. Madnick
+46	50	Stuart E. Madnick	Stuart E. Madnick
+46	53	Stuart E. Madnick	Stuart E. Madnick
+48	49	Edward Sciore	Edward Sciore
+50	53	Stuart E. Madnick	Stuart E. Madnick

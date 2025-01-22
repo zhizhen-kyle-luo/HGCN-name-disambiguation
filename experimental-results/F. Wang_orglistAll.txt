@@ -1,0 +1,171 @@
+0	1	null	null
+0	2	null	null
+0	3	null	Virginia Polytechnic Institute and State University, Blacksburg, VA
+0	4	null	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA
+0	5	null	null
+0	6	null	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA
+0	7	null	null
+0	8	null	null
+0	9	null	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+0	10	null	null
+0	11	null	null
+0	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+0	18	null	null
+1	2	null	null
+1	3	null	Virginia Polytechnic Institute and State University, Blacksburg, VA
+1	4	null	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA
+1	5	null	null
+1	6	null	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA
+1	7	null	null
+1	8	null	null
+1	9	null	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+1	10	null	null
+1	11	null	null
+1	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+1	18	null	null
+2	3	null	Virginia Polytechnic Institute and State University, Blacksburg, VA
+2	4	null	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA
+2	5	null	null
+2	6	null	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA
+2	7	null	null
+2	8	null	null
+2	9	null	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+2	10	null	null
+2	11	null	null
+2	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+2	18	null	null
+3	4	Virginia Polytechnic Institute and State University, Blacksburg, VA	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA
+3	5	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	6	Virginia Polytechnic Institute and State University, Blacksburg, VA	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA
+3	7	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	8	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	9	Virginia Polytechnic Institute and State University, Blacksburg, VA	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+3	10	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	11	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	12	Virginia Polytechnic Institute and State University, Blacksburg, VA	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+3	13	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	14	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	15	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	16	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+3	17	Virginia Polytechnic Institute and State University, Blacksburg, VA	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+3	18	Virginia Polytechnic Institute and State University, Blacksburg, VA	null
+4	5	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	6	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA
+4	7	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	8	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	9	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+4	10	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	11	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	12	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+4	13	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	14	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	15	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	16	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+4	17	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+4	18	Design Computing, Georgia Institute of Technology, Atlanta 30332-0155, GA, USA	null
+5	6	null	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA
+5	7	null	null
+5	8	null	null
+5	9	null	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+5	10	null	null
+5	11	null	null
+5	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+5	18	null	null
+6	7	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	8	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	9	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+6	10	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	11	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	12	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+6	13	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	14	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	15	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	16	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+6	17	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+6	18	Manufacturing Systems Integration Division, Manufacturing Engineering Laboratory, National Institute of Standards and Technology, Gaithersburg, MD 20899, USA	null
+7	8	null	null
+7	9	null	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+7	10	null	null
+7	11	null	null
+7	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+7	18	null	null
+8	9	null	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com
+8	10	null	null
+8	11	null	null
+8	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+8	18	null	null
+9	10	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	null
+9	11	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	null
+9	12	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+9	13	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	null
+9	14	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	null
+9	15	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	null
+9	16	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	null
+9	17	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+9	18	Nanyang Technological University, School of Computer Engineering, Nanyang Avenue, Singapore 639798. wangfd@yahoo.com	null
+10	11	null	null
+10	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+10	18	null	null
+11	12	null	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+11	18	null	null
+12	13	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China	null
+12	14	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China	null
+12	15	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China	null
+12	16	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China	null
+12	17	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+12	18	Institute of Automation, School of Information Science and Engineering, Northeastern University, Shenyang, Liaoning, P.R. China	null
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+13	18	null	null
+14	15	null	null
+14	16	null	null
+14	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+14	18	null	null
+15	16	null	null
+15	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+15	18	null	null
+16	17	null	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA
+16	18	null	null
+17	18	Adv. Radio Technology, NSS, Motorola Inc., Arlington Heights, IL, USA	null

@@ -1,0 +1,66 @@
+3	4	CVPR	CVPR
+3	5	CVPR	CVPR (2)
+3	6	CVPR	CVPR
+3	7	CVPR	CVPR
+3	8	CVPR	CVPR (1)
+4	5	CVPR	CVPR (2)
+4	6	CVPR	CVPR
+4	7	CVPR	CVPR
+4	8	CVPR	CVPR (1)
+5	6	CVPR (2)	CVPR
+5	7	CVPR (2)	CVPR
+6	7	CVPR	CVPR
+6	8	CVPR	CVPR (1)
+7	8	CVPR	CVPR (1)
+11	12	HICSS	HICSS
+11	13	HICSS	HICSS
+11	14	HICSS	HICSS
+11	15	HICSS	HICSS
+11	16	HICSS	HICSS
+11	17	HICSS	HICSS
+11	18	HICSS	HICSS
+12	13	HICSS	HICSS
+12	14	HICSS	HICSS
+12	15	HICSS	HICSS
+12	16	HICSS	HICSS
+12	17	HICSS	HICSS
+12	18	HICSS	HICSS
+13	14	HICSS	HICSS
+13	15	HICSS	HICSS
+13	16	HICSS	HICSS
+13	17	HICSS	HICSS
+13	18	HICSS	HICSS
+14	15	HICSS	HICSS
+14	16	HICSS	HICSS
+14	17	HICSS	HICSS
+14	18	HICSS	HICSS
+15	16	HICSS	HICSS
+15	17	HICSS	HICSS
+15	18	HICSS	HICSS
+16	17	HICSS	HICSS
+16	18	HICSS	HICSS
+17	18	HICSS	HICSS
+19	20	ICCV	ICCV
+21	22	Commun. ACM	Commun. ACM
+21	23	Commun. ACM	Commun. ACM
+22	23	Commun. ACM	Commun. ACM
+25	26	Decision Support Systems	Decision Support Systems
+25	27	Decision Support Systems	Decision Support Systems
+25	39	Decision Support Systems	Decision Support Systems
+25	48	Decision Support Systems	Decision Support Systems
+25	49	Decision Support Systems	Decision Support Systems
+26	27	Decision Support Systems	Decision Support Systems
+26	39	Decision Support Systems	Decision Support Systems
+26	48	Decision Support Systems	Decision Support Systems
+26	49	Decision Support Systems	Decision Support Systems
+27	39	Decision Support Systems	Decision Support Systems
+27	48	Decision Support Systems	Decision Support Systems
+27	49	Decision Support Systems	Decision Support Systems
+36	37	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans. Pattern Anal. Mach. Intell.
+39	48	Decision Support Systems	Decision Support Systems
+39	49	Decision Support Systems	Decision Support Systems
+40	41	Synthesis Lectures on Computer Graphics and Animation	Synthesis Lectures on Computer Graphics and Animation
+40	42	Synthesis Lectures on Computer Graphics and Animation	Synthesis Lectures on Computer Graphics and Animation
+41	42	Synthesis Lectures on Computer Graphics and Animation	Synthesis Lectures on Computer Graphics and Animation
+48	49	Decision Support Systems	Decision Support Systems
+51	52	Information Technology and Management	Information and Management

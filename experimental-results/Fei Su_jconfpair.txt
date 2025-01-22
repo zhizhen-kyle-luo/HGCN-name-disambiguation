@@ -1,0 +1,17 @@
+1	2	DAC	DAC
+3	4	DATE	DATE
+3	5	DATE	DATE
+4	5	DATE	DATE
+6	32	ICB	ICB
+9	10	ICPR (4)	ICPR (4)
+11	12	ITC	ITC
+14	15	SINOBIOMETRICS	SINOBIOMETRICS
+14	16	SINOBIOMETRICS	SINOBIOMETRICS
+15	16	SINOBIOMETRICS	SINOBIOMETRICS
+19	20	CoRR	CoRR
+22	23	JETC	JETC
+22	24	JETC	JETC
+23	24	JETC	JETC
+25	26	IEEE Trans. on CAD of Integrated Circuits and Systems	IEEE Trans. on CAD of Integrated Circuits and Systems
+27	28	ACM Trans. Design Autom. Electr. Syst.	ACM Trans. Design Autom. Electr. Syst.
+30	31	J. Electronic Testing	J. Electronic Testing

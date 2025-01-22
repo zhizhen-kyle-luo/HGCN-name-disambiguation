@@ -1,0 +1,136 @@
+0	1	Nankai University, Tianjin City, P.R., China	Virginia Tech, Blacksburg, VA
+0	2	Nankai University, Tianjin City, P.R., China	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA
+0	3	Nankai University, Tianjin City, P.R., China	Virginia Tech, USA
+0	4	Nankai University, Tianjin City, P.R., China	Virginia Tech., Blacksburg, VA, USA
+0	5	Nankai University, Tianjin City, P.R., China	null
+0	6	Nankai University, Tianjin City, P.R., China	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA
+0	7	Nankai University, Tianjin City, P.R., China	Dept. of Electr. Eng., Syracuse Univ., NY, USA
+0	8	Nankai University, Tianjin City, P.R., China	null
+0	9	Nankai University, Tianjin City, P.R., China	Syracuse University
+0	10	Nankai University, Tianjin City, P.R., China	University of Virginia
+0	11	Nankai University, Tianjin City, P.R., China	Virginia Tech, USA
+0	12	Nankai University, Tianjin City, P.R., China	null
+0	13	Nankai University, Tianjin City, P.R., China	Univ. of Virginia, Charlottesville, VA
+0	14	Nankai University, Tianjin City, P.R., China	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+0	15	Nankai University, Tianjin City, P.R., China	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+0	16	Nankai University, Tianjin City, P.R., China	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+1	2	Virginia Tech, Blacksburg, VA	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA
+1	3	Virginia Tech, Blacksburg, VA	Virginia Tech, USA
+1	4	Virginia Tech, Blacksburg, VA	Virginia Tech., Blacksburg, VA, USA
+1	5	Virginia Tech, Blacksburg, VA	null
+1	6	Virginia Tech, Blacksburg, VA	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA
+1	7	Virginia Tech, Blacksburg, VA	Dept. of Electr. Eng., Syracuse Univ., NY, USA
+1	8	Virginia Tech, Blacksburg, VA	null
+1	9	Virginia Tech, Blacksburg, VA	Syracuse University
+1	10	Virginia Tech, Blacksburg, VA	University of Virginia
+1	11	Virginia Tech, Blacksburg, VA	Virginia Tech, USA
+1	12	Virginia Tech, Blacksburg, VA	null
+1	13	Virginia Tech, Blacksburg, VA	Univ. of Virginia, Charlottesville, VA
+1	14	Virginia Tech, Blacksburg, VA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+1	15	Virginia Tech, Blacksburg, VA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+1	16	Virginia Tech, Blacksburg, VA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+2	3	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Virginia Tech, USA
+2	4	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Virginia Tech., Blacksburg, VA, USA
+2	5	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	null
+2	6	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA
+2	7	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Dept. of Electr. Eng., Syracuse Univ., NY, USA
+2	8	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	null
+2	9	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Syracuse University
+2	10	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	University of Virginia
+2	11	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Virginia Tech, USA
+2	12	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	null
+2	13	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Univ. of Virginia, Charlottesville, VA
+2	14	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+2	15	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+2	16	Dept. of Electr. & Comput. Eng., Virginia Tech, Blacksburg, VA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+3	4	Virginia Tech, USA	Virginia Tech., Blacksburg, VA, USA
+3	5	Virginia Tech, USA	null
+3	6	Virginia Tech, USA	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA
+3	7	Virginia Tech, USA	Dept. of Electr. Eng., Syracuse Univ., NY, USA
+3	8	Virginia Tech, USA	null
+3	9	Virginia Tech, USA	Syracuse University
+3	10	Virginia Tech, USA	University of Virginia
+3	11	Virginia Tech, USA	Virginia Tech, USA
+3	12	Virginia Tech, USA	null
+3	13	Virginia Tech, USA	Univ. of Virginia, Charlottesville, VA
+3	14	Virginia Tech, USA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+3	15	Virginia Tech, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+3	16	Virginia Tech, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+4	5	Virginia Tech., Blacksburg, VA, USA	null
+4	6	Virginia Tech., Blacksburg, VA, USA	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA
+4	7	Virginia Tech., Blacksburg, VA, USA	Dept. of Electr. Eng., Syracuse Univ., NY, USA
+4	8	Virginia Tech., Blacksburg, VA, USA	null
+4	9	Virginia Tech., Blacksburg, VA, USA	Syracuse University
+4	10	Virginia Tech., Blacksburg, VA, USA	University of Virginia
+4	11	Virginia Tech., Blacksburg, VA, USA	Virginia Tech, USA
+4	12	Virginia Tech., Blacksburg, VA, USA	null
+4	13	Virginia Tech., Blacksburg, VA, USA	Univ. of Virginia, Charlottesville, VA
+4	14	Virginia Tech., Blacksburg, VA, USA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+4	15	Virginia Tech., Blacksburg, VA, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+4	16	Virginia Tech., Blacksburg, VA, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+5	6	null	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA
+5	7	null	Dept. of Electr. Eng., Syracuse Univ., NY, USA
+5	8	null	null
+5	9	null	Syracuse University
+5	10	null	University of Virginia
+5	11	null	Virginia Tech, USA
+5	12	null	null
+5	13	null	Univ. of Virginia, Charlottesville, VA
+5	14	null	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+5	15	null	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+5	16	null	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+6	7	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	Dept. of Electr. Eng., Syracuse Univ., NY, USA
+6	8	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	null
+6	9	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	Syracuse University
+6	10	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	University of Virginia
+6	11	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	Virginia Tech, USA
+6	12	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	null
+6	13	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	Univ. of Virginia, Charlottesville, VA
+6	14	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+6	15	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+6	16	Dept. of Electr. & Comput. Eng., Connecticut Univ., Storrs, CT, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+7	8	Dept. of Electr. Eng., Syracuse Univ., NY, USA	null
+7	9	Dept. of Electr. Eng., Syracuse Univ., NY, USA	Syracuse University
+7	10	Dept. of Electr. Eng., Syracuse Univ., NY, USA	University of Virginia
+7	11	Dept. of Electr. Eng., Syracuse Univ., NY, USA	Virginia Tech, USA
+7	12	Dept. of Electr. Eng., Syracuse Univ., NY, USA	null
+7	13	Dept. of Electr. Eng., Syracuse Univ., NY, USA	Univ. of Virginia, Charlottesville, VA
+7	14	Dept. of Electr. Eng., Syracuse Univ., NY, USA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+7	15	Dept. of Electr. Eng., Syracuse Univ., NY, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+7	16	Dept. of Electr. Eng., Syracuse Univ., NY, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+8	9	null	Syracuse University
+8	10	null	University of Virginia
+8	11	null	Virginia Tech, USA
+8	12	null	null
+8	13	null	Univ. of Virginia, Charlottesville, VA
+8	14	null	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+8	15	null	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+8	16	null	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+9	10	Syracuse University	University of Virginia
+9	11	Syracuse University	Virginia Tech, USA
+9	12	Syracuse University	null
+9	13	Syracuse University	Univ. of Virginia, Charlottesville, VA
+9	14	Syracuse University	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+9	15	Syracuse University	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+9	16	Syracuse University	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+10	11	University of Virginia	Virginia Tech, USA
+10	12	University of Virginia	null
+10	13	University of Virginia	Univ. of Virginia, Charlottesville, VA
+10	14	University of Virginia	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+10	15	University of Virginia	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+10	16	University of Virginia	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+11	12	Virginia Tech, USA	null
+11	13	Virginia Tech, USA	Univ. of Virginia, Charlottesville, VA
+11	14	Virginia Tech, USA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+11	15	Virginia Tech, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+11	16	Virginia Tech, USA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+12	13	null	Univ. of Virginia, Charlottesville, VA
+12	14	null	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+12	15	null	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+12	16	null	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+13	14	Univ. of Virginia, Charlottesville, VA	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061
+13	15	Univ. of Virginia, Charlottesville, VA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+13	16	Univ. of Virginia, Charlottesville, VA	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+14	15	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+14	16	Department of Electrical and Computer Engineering, Virginia Tech, Blacksburg, USA 24061	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024
+15	16	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024	Zhijiang College, Zhejiang University of Technology, Hangzhou, China 310024

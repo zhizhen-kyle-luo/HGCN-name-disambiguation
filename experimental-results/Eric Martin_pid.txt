@@ -1,0 +1,85 @@
+34449	Quantification over names and modalities
+39381	Absolute Versus Probabilistic Classification in a Logical Setting
+39456	Learning, Logic, and Topology in a Common Framework
+39458	On Ordinal VC-Dimension and Some Notions of Complexity
+39460	On the Data Consumption Benefits of Accepting Increased Uncertainty
+59201	Foundations for a Formalism of Nearness
+59203	Membership Functions for Spatial Proximity
+94962	Input-Dependence in Function-Learning
+105991	Memory accesses management during high level synthesis
+109165	On a Syntactic Characterization of Classification with a Mind Change Bound
+141366	A Multi-Level Design Flow for Incorporating IP Cores: Case Study of 1D Wavelet IP Integration
+141558	Synchronization Processor Synthesis for Latency Insensitive Systems
+142330	Functional Level Power Analysis: An Efficient Approach for Modeling the Power Consumption of Complex Processors
+156626	On the Convergence of Incremental Knowledge Base Construction.
+156769	A General Theory of Deduction, Induction, and Learning
+157029	Learning from Each Other
+160825	Power Consumption Characterization and Modeling of Embedded Memories in XILINX VIRTEX 400E FPGA
+160871	High-Level Synthesis in Latency Insensitive System Methodology
+160918	Memory Aware HLS and the Implementation of Ageing Vectors
+161039	A Complete Methodology for Memory Optimization in DSP Applications
+192624	A note on the use of probabilities by mechanical learners
+233708	Hardware interface design for real time embedded systems
+233753	A memory aware behavioral synthesis tool for real-time VLSI circuits
+233828	Low Power Design of an Acoustic Echo Canceller Gmdf a Algorithm on Dedicated VLSI Architectures
+233829	How to Transform an Architectural Synthesis Tool for Low Power VLSI Designs
+234516	A design methodology for space-time adapter
+271330	Neural Network Based Algorithm for Radiation Dose Evaluation in Heterogeneous Environments
+283658	A design flow dedicated to multi-mode architectures for DSP applications
+311057	Identifying Clusters from Positive Data
+327774	Limiting Resolution: From Foundations to Implementation
+328379	Learning in Logic with RichProlog
+359018	Autonomous Capture of a Tumbling Satellite
+378634	A Vision System on Chip for Industrial Control
+378660	Architectural Synthesis with Interconnection Cost Control
+395243	On Sufficient Conditions for Learnability of Logic Programs from Positive Data
+420371	Reed-Solomon behavioral virtual component for communication systems
+420770	High-level synthesis under I/O timing and memory constraints
+427902	A design methodology for IP integration
+428785	A Methodology for Efficient Space-Time Adapter Design Space Exploration: A Case Study of an Ultra Wide Band Interleaver
+435379	Power Estimation of a C Algorithm Based on the Functional-Level Power Analysis of a Digital Signal Processor
+452244	A Memory Aware High Level Synthesis Tool 
+452286	Pipelined Memory Controllers for DSP Applications Handling Unpredictable Data Accesses
+530904	Power Consumption Estimation of a C Program for Data-Intensive Applications
+530906	SoftExplorer: Estimation, Characterization, and Optimization of the Power and Energy Consumption at the Algorithmic Level
+572058	DVB-DSNG Modem High Level Synthesis in an Optimized Latency Insensitive System Context
+644393	Communication and Timing Constraints Analysis for IP Design and Integration
+732281	SystemCmantic: A high level Modelling and Co-Design Framework
+820820	A Methodology for Efficient Space-Time Adapter Design Space Exploration: A Case Study of an Ultra Wide Band Interleaver
+820850	A Design Methodology for Space-Time Adapter
+820856	Methodologie de modelisation et d'implementation d'adaptateurs spatio-temporels
+820864	Application of a design space exploration tool to enhance interleaver generation
+822629	Integration de la synthese memoire dans l'outil de synthese d'architecture GAUT Low Power
+822630	High-level synthesis under I/O Timing and Memory constraints
+822631	A Memory Aware High Level Synthesis Too
+822632	Memory Aware High-Level Synthesis for Embedded Systems
+822633	Synthese Comportementale Sous Contraintes de Communication et de Placement Memoire pour les composants du TDSI
+824038	Synchronization Processor Synthesis for Latency Insensitive Systems
+861453	Identifying Clusters from Positive Data
+888820	Induction by Enumeration
+927154	Constrained algorithmic IP design for system-on-chip
+967614	Sensitivity Analysis and Other Improvements to Tailored Combinatorial Library Design
+1000159	Scientific Discovery Based on Belief Revision
+1008474	Power Consumption Modeling and Characterization of the TI C6201
+1058793	Identifying Clusters from Positive Data
+1093286	Learning power and language expressiveness
+1093288	Unifying logic, topology and learning in Parametric logic
+1095559	On ordinal VC-dimension and some notions of complexity
+1095773	On the data consumption benefits of accepting increased uncertainty
+1096079	Absolute versus probabilistic classification in a logical setting
+1098650	A formal method for hardware IP design and integration under I/O and timing constraints
+1130285	Synthese architecturale d'applications temps reel pour technologies submicroniques
+1130529	Estimation et optimisation de la consommation des memoires
+1150234	Design of a flexible 2-D discrete wavelet transform IP core for JPEG2000 image coding in embedded imaging systems
+1165241	G729 Voice Decoder Design
+1165578	A Co-Design Methodology for Telecommunication Systems: A Case Study of an Acoustic Echo Canceller
+1165599	Low Power Synthesis Methodology with Data Format Optimization Applied on a DWT
+1169230	Human Discovery and Machine Learning
+1195711	Autonomous capture of a tumbling satellite
+1241806	A Dialectic Approach to Problem-Solving
+1262210	Design Space Exploration of DSP Applications Based on Behavioral Description Models
+1284336	Exploration and Rapid Prototyping of DSP Applications using SystemC Behavioral Simulation and High-level Synthesis
+1336158	Static Address Generation Easing: a Design Methodology for Parallel Interleaver Architectures
+1340782	Input-Dependence in Function-Learning.
+1433407	Power Estimation of a C Algorithm Based on the Functional-Level Power Analysis of a Digital Signal Processor
+1746973	Learning from Each Other

@@ -1,0 +1,217 @@
+33498	Learning from Multiple Sources of Inaccurate Data
+33512	Strong Separation of Learning Classes
+39179	Approximate Inference and Scientific Method
+39193	Non U-Shaped Vacillatory and Team Learning
+39201	Synthesizing Learners Tolerating Computable Noisy Data
+39203	Predictive Learning Models for Concept Drift
+39205	Learning a Subclass of Regular Patterns in Polynomial Time
+39213	Anomalous Learning Helps Succinctness (Extended Abstract)
+39215	Machine Induction Without Revolutionary Paradigm Shifts
+39217	Vacillatory and BC Learning on Noisy Data
+39219	Synthesizing Noise-Tolerant Language Learners
+39369	Program Synthesis in the Presence of Infinite Number of Inaccuracies
+39370	Learning with Refutation
+39371	Learning Languages from Positive Data and Negative Counterexamples
+39372	Learning Multiple Languages in Groups
+39373	Learning and Extending Sublanguages
+39374	Iterative Learning from Positive Data and Negative Counterexamples
+39375	On Learning and Co-learning of Minimal Programs
+39376	Learning Recursive Functions Refutably
+39377	Learning of R.E. Languages from Good Examples
+39378	Gold-Style and Query Learning Under Various Constraints on the Target Class
+39379	Towards a Better Understanding of Incremental Learning
+39380	Classes with Easily Learnable Subclasses
+39381	Absolute Versus Probabilistic Classification in a Logical Setting
+39382	Learning Languages in a Union
+39383	Learning by Switching Type of Information
+39384	Learning How to Separate
+39385	Prudence in Vacillatory Language Identification (Extended Abstract)
+39386	On Aggregating Teams of Learning Machines
+39387	On Monotonic Strategies for Learning r.e. Languages
+39388	Editors' Introduction
+39666	One-Shot Learners Using Negative Counterexamples and Nearest Positive Examples
+39667	Learning in Friedberg Numberings
+39683	Prescribed Learning of R.E. Classes
+39703	Iterative Learning of Simple External Contextual Languages
+39713	Numberings Optimal for Learning
+94962	Input-Dependence in Function-Learning
+108618	Synthesizing Enumeration Techniques for Language Learning
+108778	Memory-Limited U-Shaped Learning
+108779	Variations on U-Shaped Learning
+108781	Generality's Price: Inescapable Deficiencies in Machine-Learned Programs
+108782	On Learning to Coordinate: Random Bits Help, Insightful Normal Forms, and Competency Isomorphisms
+108783	Robust Learning Aided by Context
+108784	On Learning Limiting Programs
+108785	Robust Learning - Rich and Poor
+108909	Learning in the Presence of Inaccurate Information
+109004	Intrinsic Complexity of Learning Geometrical Concepts from Positive Data
+109005	On Learning Languages from Positive Data and a Limited Number of Short Counterexamples
+109006	Language Learning From Texts: Degrees of Instrinsic Complexity and Their Characterizations
+109007	Learning All Subfunctions of a Function
+109008	Finite Learning by a ``Team'
+109009	Probability is More Powerful Than Team for Language Identification from Positive Data
+109010	On the Intrinsic Complexity of Language Identification
+109011	Elementary Formal Systems, Intrinsic Complexity, and Procrastination
+109012	On a Generalized Notion of Mistake Bounds
+109013	Convergence to Nearly Minimal Size Grammars by Vacillating Learning Machines
+109014	On the Power of Learning Robustly
+109382	Mitotic Classes
+109403	Learning Correction Grammars
+192564	Ordinal Mind Change Complexity of Language Identification
+192590	Control Structures in Hypothesis Spaces: The Influence on Learning
+192598	Kolmogorov numberings and minimal identification
+192612	The structure of intrinsic complexity of learning
+192613	Mind Change Complexity of Learning Logic Programs
+219437	Complexity Issues for Vacillatory Function Identification
+219632	On the Limitations of Locally Robust Positive Reductions
+219664	Branch and Bound on the Network Model
+219666	Learning Languages from Positive Data and a Finite Number of Queries
+235368	Not-So-Nearly-Minimal-Size Program Inference
+235377	On Identification by Teams and Probabilistic Machines
+268324	Language Learning by a 'Team' (Extended Abstract)
+311057	Identifying Clusters from Positive Data
+343558	Crowd Control: Coordinating Processes in Parallel
+483927	Machine Learning of Higher Order Programs
+484009	Banishing Robust Turing Completeness
+526454	Performance Prediction Tools for Parallel Discrete-Event Simulation
+526477	Load balancing for conservative simulation on shared memory multiprocessor systems
+529009	Topology Independent Models for Parallel Computation
+551516	Team Learning of Recursive Languages
+619840	Language Learning With Some Negative Information
+620043	Costs of General Purpose Learning
+625959	Invertible Classes
+625961	Some Recent Results in U-Shaped Learning
+626800	Hypothesis Formation and Language Acquisition with an Infinitely-Often Correct Teacher
+667715	Supply chain opportunities: panel session: opportunities for simulation in supply chain management
+668672	Manufacturing sypply chain management: distributed supply chain simulation across enterprise boundaries
+669170	Supply Chain Management Tradeoffs Analysis
+669172	Simulation in the next millennium
+669173	Expert simulation for on-line scheduling
+669174	Experiences with Backward Simulation Based Approach for Lot Release Planning
+669175	Manufacturing supply chain applications: modeling computer assembly operations for supply chain integration
+669176	Analyzing the supply chain for a large logistics operation using simulation
+669177	Stress testing a supply chain using simulation
+669178	Criticality of detailed modeling in semiconductor supply chain simulation
+669179	Simulation for emergency response: a framework for modeling and simulation for emergency response
+669180	Integrated simulation and gaming architecture for incident management training
+669181	Supply chain applications II: development of a high-level supply chain simulation model
+669652	Implementations of Dispatch Rules in Parallel Manufacturing Simulation
+671703	A concept prototype for integrated gaming and simulation for incident management
+671980	Distributed simulation for interoperability testing along the supply chain
+672152	Tradeoffs in building a generic supply chain simulation capability
+718831	A simulation architecture for manufacturing interoperability testing
+718898	Towards standards for integrated gaming and simulation for incident management
+722687	Hypothesis Spaces for Learning
+751716	Generalization and Specialization Strategies for Learning r.e. Languages
+753821	Extremes in the Degrees of Inferability
+753993	Characterizing Language Identification in Terms of Computable Numberings
+754513	Generality's price: Inescapable deficiencies in machine-learned programs
+768999	Low degree metabolites explain essential reactions and enhance modularity in biological networks
+773097	Expert Simulation for On-Line Scheduling
+861433	A Polynomial Time Learner for a Subclass of Regular Patterns
+861453	Identifying Clusters from Positive Data
+881953	The Intrinsic Complexity of Learning: A Survey
+882968	Prescribed Learning of Indexed Families
+887112	The Synthesis of Language Learners
+887399	Incremental Concept Learning for Bounded Data Mining
+887405	Complexity Issues for Vacillatory Function Identification
+887407	Machine Induction Without Revolutionary Changes in Hypothesis Size
+887908	Approximate Inference and Scientific Method
+888352	Robust Behaviorally Correct Learning
+888353	Learning languages from positive data and a finite number of queries
+888354	On the intrinsic complexity of learning recursive functions
+888355	Learning all subfunctions of a function
+888356	Classes with easily learnable subclasses
+888357	Learning by switching type of information
+888358	Learning in the Presence of Partial Explanations
+888359	Learning with the Knowledge of an Upper Bound on Program Size
+888360	Computational Limits on Team Identification of Languages
+888361	Elementary Formal Dystems, Intrinsic Complexity, and Procrastination
+888362	Counting extensional differences in BC-learning
+888363	Finite Identification of Functions by Teams with Success Ratio 1\over2 and Above
+889905	Variations on U-shaped learning
+889986	Learning in Friedberg numberings
+890008	Results on memory-limited U-shaped learning
+890011	Some natural conditions on incremental learning
+890012	Iterative learning from positive data and negative counterexamples
+908962	On Learning Limiting Programs
+909135	On the Limitations of Locally Robust Positive Reductions
+909146	Banishing Robust Turing Completeness
+909211	An Infinite Class of Functions Identifiable Using Minimal Programs in all Kolmogorov Numberings
+909212	Minimal Concept Identification and Reliability
+931927	On a Question About Learning Nearly Minimal Programs
+931928	On a Question of Nearly Minimal Identification of Functions
+931929	On the Non-Existence of Maximal Inference Degrees for Language Identification
+935214	On some open problems in reflective inductive inference
+970373	Analytic evaluation of the expectation and variance of different performance measures of a schedule on a single machine under processing time variability
+971443	Language Learning with Some Negative Information
+971658	Synthesizing Learners Tolerating Computable Noisy Data
+971659	On learning to coordinate: random bits help, insightful normal forms, and competency isomorphisms
+971660	Robust Learning Aided by Context
+971661	Vacillatory Learning of Nearly Minimal Size Grammars
+971662	Robust learning--rich and poor
+971971	Open Problems in 'Systems That Learn
+972297	Program Synthesis in the Presence of Infinite Number of Inaccuracies
+972299	Learning with Refutation
+972301	Intrinsic complexity of learning geometrical concepts from positive data
+972303	Language Learning from Texts: Degrees of Intrinsic Complexity and Their Characterizations
+972305	Characterizing Language Identification by Standardizing Operations
+972307	The Intrinsic Complexity of Language Identification
+972309	Robust Learning Is Rich
+973188	Learning languages in a union
+973255	Non-U-shaped vacillatory and team learning
+973327	Learning languages from positive data and negative counterexamples
+980352	Strong separation of learning classes
+980388	On an open problem in classification of languages
+980390	Strong monotonic and set-driven inductive inference
+998211	Machine Learning of Higher-Order Programs
+999575	Some Independence Results for Control Structures in Complete Numberings
+999577	The Structure of Intrinsic Complexity of Learning
+1015648	Team Learning of Computable Languages
+1015649	Prudence in Vacillatory Language Identification
+1058514	Learning from Multiple Sources of Inaccurate Data
+1058793	Identifying Clusters from Positive Data
+1060860	Mitotic Classes in Inductive Inference
+1088841	Ordinal Mind Change Complexity of Language Identification
+1088921	Preface
+1089922	Costs of general purpose learning
+1089923	Predictive learning models for concept drift
+1089924	Vacillatory and BC learning on noisy data
+1089925	Synthesizing noise-tolerant language learners
+1089926	Control structures in hypothesis spaces: the influence on learning
+1089927	Anomalous Learning Helps Succinctness
+1091264	Kolmogorov Numberings and Minimal Identification
+1091310	Learning in the Presence of Inaccurate Information
+1092297	Branch and bound on the network model
+1092298	Learning languages and functions by erasing
+1092299	On learning of functions refutably
+1092300	On the learnability of recursively enumerable languages from good examples
+1092301	Mind change complexity of learning logic programs
+1092302	Learning how to separate
+1092303	Program Size Restrictions in Computational Learning
+1092304	On Aggregating Teams of Learning Machines
+1095557	Learning a subclass of regular patterns in polynomial time
+1095815	Invertible classes
+1095864	Learning multiple languages in groups
+1095877	A general comparison of language learning from examples and from queries
+1095922	Learning languages from positive data and a limited number of short counterexamples
+1096072	Learning and extending sublanguages
+1096079	Absolute versus probabilistic classification in a logical setting
+1096552	Prescribed learning of r.e. classes
+1227594	One-shot learners using negative counterexamples and nearest positive examples
+1237536	Uncountable Automatic Classes and Learning
+1237540	Iterative Learning from Texts and Counterexamples Using Additional Information
+1237546	Learning from Streams
+1239195	Index Sets and Universal Numberings
+1276130	On some open problems in monotonic and conservative learning
+1280724	Components of an Incident Management Simulation and Gaming Framework and Related Developments
+1340782	Input-Dependence in Function-Learning.
+1347884	Joint Bidding in the Name-Your-Own-Price Channel: A Strategic Analysis.
+1397352	Elementary formal systems, intrinsic complexity, and procrastination
+1550187	Evolutionary games with two timescales
+1560270	David vs. Goliath: An Analysis of Asymmetric Mixed-Strategy Games and Experimental Evidence
+1565714	Pricing of Information Products on Online Servers: Issues, Models, and Analysis
+1596224	Prescribed Learning of R.E. Classes
+1661807	Learning in the presence of additional information and inaccurate information
+1711503	Finite identification of functions by teams with success ratio 1/2 and above
+1719033	Using simulation generators for modeling flexible manufacturing systems

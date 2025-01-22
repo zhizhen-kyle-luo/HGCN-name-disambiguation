@@ -1,0 +1,74 @@
+17719	Petri Nets and Manufacturing Systems: An Examples-Driven Tour
+17765	Linear Algebraic and Linear Programming Techniques for the Analysis of Place or Transition Net Systems
+17766	Petri Nets and Production Systems
+45022	Structural techniques and performance bounds of stochastic Petri net models
+45158	Circuits, handles, bridges and nets
+45160	On the analysis and synthesis of free choice systems
+45183	Top-down synthesis of live and bounded free choice nets
+45193	A New Technique for Finding a Generating Family of Siphons, Traps and st-Components. Application to Colored Petri Nets
+45206	Convex geometry and semiflows in P/T nets. A comparative study of algorithms for computation of minimal P-semiflows
+45208	Improving the linearly based characterization of P/T nets
+45311	Structural Characterization and Qualitative Properties of Product Form Stochastic Petri Nets
+45373	On Reachability in Autonomous Continuous Petri Net Systems
+45463	A Simple and Fast Algorithm to Obtain All Invariants of a Generalized Petri Net
+45478	{SC}*ECS: A Class of Modular and Hierarchical Cooperating Systems
+45480	Autonomous Continuous P/T Systems
+45580	Interleaving Functional and Performance Structural Analysis of Net Models
+45582	On the Computation of Structural Synchronic Invariants in P/T Nets
+45584	Continuization of Timed Petri Nets: From Performance Evaluation to Observation and Control
+45586	Petri nets and flexible manufacturing
+45613	On Weighted T-Systems
+45614	Liveness and Home States in Equal Conflict Systems
+45615	Well-Formedness of Equal Conflict Systems
+59011	Continuous Petri Nets: Expressive Power and Decidability Issues
+114188	Compositional Synthesis of Live and Bounded Free Choice Petri Nets
+187088	A two steps method: non linear regression and pruning neural network for analyzing multicomponent mixtures
+212831	On the Computational Power of Timed Differentiable Petri Nets
+258003	On Controllability of Timed Continuous Petri Nets
+354543	On Optimal Scheduling in DEDS
+378480	Modelling and Analysis of Deterministic Concurrent Systems with Bulk Services and Arrivals
+381734	Understanding Users' Response To Ontology Based Systems In The Context Of An Enterprise Sponsored Virtual Community
+423099	A Genetic Algorithm for Sex-Fair Stable Marriage Problem
+524555	Developing Enterprise Sponsored Virtual Communities: The Case of a SME's Knowledge Community
+543465	On Periodic Schedules for Deterministically Timed Petri Net Systems
+543466	Tight Polynomial Bounds for Steady-State Performance of Marked Graphs
+543468	Properties and Steady-State Performance Bounds for Petri Nets with Unique Repetitive Firing Count Vector
+543470	Througput Upper Bounds for Markovian Petri Nets: Embedded Subnets and Queueing Networks
+543472	Througput Lower Bounds for Markovian Petri Nets: Transformation Techniques
+547408	Unforced Continuous Petri Nets and Positive Systems
+556566	On Observability in Timed Continuous Petri Net Systems
+606783	Design of observers for timed continuous Petri net systems
+606905	Relaxed continuous views of discrete event systems: considerations on Forrester diagrams and Petri nets
+607174	Two heuristics for the improvement of a two-phase optimization method for manufacturing systems
+966909	Improving the Quantification of Highly Overlapping Chromatographic Peaks by Using Product Unit Neural Networks Modeled by an Evolutionary Algorithm
+966910	Heuristic Extraction of Rules in Pruned Artificial Neural Networks Models Used for Quantifying Highly Overlapping Chromatographic Peaks
+966911	Correction of Temperature Variations in Kinetic-Based Determinations by Use of Pruning Computational Neural Networks in Conjunction with Genetic Algorithms
+966912	Use of Pruned Computational Neural Networks for Processing the Response of Oscillating Chemical Reactions with a View to Analyzing Nonlinear Multicomponent Mixtures
+966913	Computational Neural Networks for Resolving Nonlinear Multicomponent Systems Based on Chemiluminescence Methods
+968870	Computational Neural Networks in Conjunction with Principal Component Analysis for Resolving Highly Nonlinear Kinetics
+968872	Estimation of Parameters of Kinetic Compartmental Models by Use of Computational Neural Networks
+971017	On Linear Algebraic Techniques for Liveness Analysis of P/T Systems
+972968	B-Fairness and Structural B-Fairness in Petri Net Models of Concurrent Systems
+989013	Approximate Throughput Computation of Stohastic Marked Graphs
+1036526	Embedded Product-Form Queueing Networks and the Improvement of Performance Bounds for Petri Net Systems
+1036760	Product-form and stochastic Petri nets: a structural approach
+1090964	A Polynomial-Time Algorithm to Decide Liveness of Bounded Free Choice Nets
+1094177	Structure theory of multi-level deterministically synchronized sequential processes
+1094904	Structure Theory of Equal Conflict Systems
+1095963	Words avoiding repetitions in arithmetic progressions
+1127675	Approximate Throughput Computation of Stochastic Marked Graphs
+1127676	Ergodicity and Throughput Bounds of Petri Nets with Unique Consistent Firing Count Vector
+1127677	Structured Solution of Asynchronously Communicating Stochastic Modules
+1132101	Petri nets and integrality relaxations: A view of continuous Petri net models
+1164832	Tracking Control of Join-Free Timed Continuous Petri Net Systems under Infinite Servers Semantics
+1181893	Steady-state performance evaluation of continuous mono-T-semiflow Petri nets
+1218486	Stochastic continuous-state approximation of Markovian Petri net systems
+1218576	Formal analysis of timed continuous Petri nets
+1278413	Petri Nets applied to the modelling and analysis of computer architecture problems
+1292533	Steady-State Control Reference and Token Conservation Laws in Continuous Petri Net Systems
+1292547	On Observability and Design of Observers inTimed Continuous Petri Net Systems
+1344529	Basic Server Semantics and Performance Monotonicity of Continuous Petri Nets.
+1344530	Closed-loop Live Marked Graphs under Generalized Mutual Exclusion Constraint Enforcement.
+1502018	Embedded product-form queueing networks and the improvement of performance bounds for the Petri net systems
+1666376	Circuits, handles, bridges and nets
+1684687	On the analysis and synthesis of free choice systems

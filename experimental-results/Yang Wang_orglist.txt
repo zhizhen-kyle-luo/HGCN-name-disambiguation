@@ -1,0 +1,137 @@
+2	20	School of Computing Science, Simon Fraser University, Burnaby, BC V5A 1S6, Canada	Simon Fraser University
+2	29	School of Computing Science, Simon Fraser University, Burnaby, BC V5A 1S6, Canada	School of Computing Science, Simon Fraser University, Canada
+2	48	School of Computing Science, Simon Fraser University, Burnaby, BC V5A 1S6, Canada	Simon Fraser University, Canada
+2	69	School of Computing Science, Simon Fraser University, Burnaby, BC V5A 1S6, Canada	School of Computing Science, Simon Fraser University, Canada
+2	163	School of Computing Science, Simon Fraser University, Burnaby, BC V5A 1S6, Canada	Simon Fraser University, Burnaby
+9	25	University of Alberta, Edmonton, Canada	University of Alberta, Edmonton, Canada
+9	64	University of Alberta, Edmonton, Canada	University of Alberta, Edmonton
+9	70	University of Alberta, Edmonton, Canada	University of Alberta, Canada
+9	124	University of Alberta, Edmonton, Canada	Department of Computing Science, Faculty of Sciences, University of Alberta, 2-21 Athabasca Hall, Edmonton, Alberta, Canada T6G 2E8
+9	165	University of Alberta, Edmonton, Canada	Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada T6G 2E8
+11	13	University of California, Irvine, CA	University of California, Irvine, Irvine, CA, USA
+11	17	University of California, Irvine, CA	University of California, Irvine, Irvine, USA
+11	85	University of California, Irvine, CA	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+11	142	University of California, Irvine, CA	University of California, Irvine
+11	152	University of California, Irvine, CA	Department of Informatics, University of California, Irvine, Irvine, USA 92697-3440
+11	157	University of California, Irvine, CA	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+13	17	University of California, Irvine, Irvine, CA, USA	University of California, Irvine, Irvine, USA
+13	85	University of California, Irvine, Irvine, CA, USA	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+13	142	University of California, Irvine, Irvine, CA, USA	University of California, Irvine
+13	152	University of California, Irvine, Irvine, CA, USA	Department of Informatics, University of California, Irvine, Irvine, USA 92697-3440
+13	157	University of California, Irvine, Irvine, CA, USA	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+16	38	Computer Science and Engineering Department, State University of New York at Buffalo, Amherst, USA NY 14260	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY
+16	71	Computer Science and Engineering Department, State University of New York at Buffalo, Amherst, USA NY 14260	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA
+16	91	Computer Science and Engineering Department, State University of New York at Buffalo, Amherst, USA NY 14260	Com.put. Sci. & Eng., State Univ. of New York at Buffalo, Amherst, NY
+16	116	Computer Science and Engineering Department, State University of New York at Buffalo, Amherst, USA NY 14260	State Univ. of New York, Stony Brook
+16	144	Computer Science and Engineering Department, State University of New York at Buffalo, Amherst, USA NY 14260	Department of Computer Science and Engineering, State University of New York at Buffalo, Buffalo, NY
+17	85	University of California, Irvine, Irvine, USA	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+17	142	University of California, Irvine, Irvine, USA	University of California, Irvine
+17	152	University of California, Irvine, Irvine, USA	Department of Informatics, University of California, Irvine, Irvine, USA 92697-3440
+17	157	University of California, Irvine, Irvine, USA	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+18	22	State University of New York at Stony Brook	State University of New York at Stony Brook
+18	38	State University of New York at Stony Brook	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY
+18	40	State University of New York at Stony Brook	State University of New York at Stony Brook
+18	71	State University of New York at Stony Brook	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA
+18	104	State University of New York at Stony Brook	Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY
+18	116	State University of New York at Stony Brook	State Univ. of New York, Stony Brook
+20	29	Simon Fraser University	School of Computing Science, Simon Fraser University, Canada
+20	48	Simon Fraser University	Simon Fraser University, Canada
+20	69	Simon Fraser University	School of Computing Science, Simon Fraser University, Canada
+20	163	Simon Fraser University	Simon Fraser University, Burnaby
+21	41	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+22	38	State University of New York at Stony Brook	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY
+22	40	State University of New York at Stony Brook	State University of New York at Stony Brook
+22	71	State University of New York at Stony Brook	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA
+22	104	State University of New York at Stony Brook	Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY
+22	116	State University of New York at Stony Brook	State Univ. of New York, Stony Brook
+23	24	Carnegie Mellon Univ., Pittsburgh	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA
+23	28	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon University, Pittsburgh, USA PA 15213
+23	42	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon Univ., Pittsburgh
+23	82	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon Univ., Pittsburgh, PA, USA
+23	108	Carnegie Mellon Univ., Pittsburgh	Robotics Institute, Carnegie Mellon University, Pittsburg, USA
+23	126	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon University, Pittsburgh, PA
+23	162	Carnegie Mellon Univ., Pittsburgh	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+23	164	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon University, Pittsburgh
+24	28	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA	Carnegie Mellon University, Pittsburgh, USA PA 15213
+24	42	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA	Carnegie Mellon Univ., Pittsburgh
+24	82	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA	Carnegie Mellon Univ., Pittsburgh, PA, USA
+24	108	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA	Robotics Institute, Carnegie Mellon University, Pittsburg, USA
+24	126	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA	Carnegie Mellon University, Pittsburgh, PA
+24	162	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+24	164	Robot. Inst., Carnegie Mellon Univ., Pittsburgh, PA	Carnegie Mellon University, Pittsburgh
+25	64	University of Alberta, Edmonton, Canada	University of Alberta, Edmonton
+25	70	University of Alberta, Edmonton, Canada	University of Alberta, Canada
+25	124	University of Alberta, Edmonton, Canada	Department of Computing Science, Faculty of Sciences, University of Alberta, 2-21 Athabasca Hall, Edmonton, Alberta, Canada T6G 2E8
+25	165	University of Alberta, Edmonton, Canada	Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada T6G 2E8
+28	42	Carnegie Mellon University, Pittsburgh, USA PA 15213	Carnegie Mellon Univ., Pittsburgh
+28	82	Carnegie Mellon University, Pittsburgh, USA PA 15213	Carnegie Mellon Univ., Pittsburgh, PA, USA
+28	108	Carnegie Mellon University, Pittsburgh, USA PA 15213	Robotics Institute, Carnegie Mellon University, Pittsburg, USA
+28	126	Carnegie Mellon University, Pittsburgh, USA PA 15213	Carnegie Mellon University, Pittsburgh, PA
+28	162	Carnegie Mellon University, Pittsburgh, USA PA 15213	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+28	164	Carnegie Mellon University, Pittsburgh, USA PA 15213	Carnegie Mellon University, Pittsburgh
+29	48	School of Computing Science, Simon Fraser University, Canada	Simon Fraser University, Canada
+29	69	School of Computing Science, Simon Fraser University, Canada	School of Computing Science, Simon Fraser University, Canada
+29	163	School of Computing Science, Simon Fraser University, Canada	Simon Fraser University, Burnaby
+30	151	SISTM, University of New South Wales, Australia	University of New South Wales
+34	167	Dept. of Comput. Sci., Alberta Univ., Edmonton, Alta., Canada	Dept. of Comput. Sci., Alberta Univ., Alta., Canada
+38	40	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY	State University of New York at Stony Brook
+38	71	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA
+38	91	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY	Com.put. Sci. & Eng., State Univ. of New York at Buffalo, Amherst, NY
+38	104	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY	Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY
+38	116	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY	State Univ. of New York, Stony Brook
+38	144	Dept. of Comput. Sci. & Eng., State Univ. of New York, Amherst, NY	Department of Computer Science and Engineering, State University of New York at Buffalo, Buffalo, NY
+40	71	State University of New York at Stony Brook	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA
+40	104	State University of New York at Stony Brook	Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY
+40	116	State University of New York at Stony Brook	State Univ. of New York, Stony Brook
+42	82	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon Univ., Pittsburgh, PA, USA
+42	108	Carnegie Mellon Univ., Pittsburgh	Robotics Institute, Carnegie Mellon University, Pittsburg, USA
+42	126	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon University, Pittsburgh, PA
+42	162	Carnegie Mellon Univ., Pittsburgh	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+42	164	Carnegie Mellon Univ., Pittsburgh	Carnegie Mellon University, Pittsburgh
+44	107	Pattern Discovery Software Systems Ltd., Canada	Pattern Discovery Software Systems, Ltd., 550 Parkside Drive, Unit B9, Waterloo, Ontario N2L 5V4, Canada. E-mail: yang@patterndiscovery.com
+48	69	Simon Fraser University, Canada	School of Computing Science, Simon Fraser University, Canada
+48	163	Simon Fraser University, Canada	Simon Fraser University, Burnaby
+51	136	Dept. of Electron. & Electr. Eng., Loughborough Univ.	Department of Electronic and Electrial Engineering, Loughborough University, Loughborough, UK LE11 3TU
+51	138	Dept. of Electron. & Electr. Eng., Loughborough Univ.	Department of Electronic and Electrical Engineering, Loughborough University, LE11 3TU, UK.
+64	70	University of Alberta, Edmonton	University of Alberta, Canada
+64	124	University of Alberta, Edmonton	Department of Computing Science, Faculty of Sciences, University of Alberta, 2-21 Athabasca Hall, Edmonton, Alberta, Canada T6G 2E8
+64	165	University of Alberta, Edmonton	Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada T6G 2E8
+69	163	School of Computing Science, Simon Fraser University, Canada	Simon Fraser University, Burnaby
+70	124	University of Alberta, Canada	Department of Computing Science, Faculty of Sciences, University of Alberta, 2-21 Athabasca Hall, Edmonton, Alberta, Canada T6G 2E8
+70	165	University of Alberta, Canada	Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada T6G 2E8
+71	91	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA	Com.put. Sci. & Eng., State Univ. of New York at Buffalo, Amherst, NY
+71	104	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA	Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY
+71	116	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA	State Univ. of New York, Stony Brook
+71	144	Dept. of Comput. Sci., State Univ. of New York, Stony Brook, NY, USA	Department of Computer Science and Engineering, State University of New York at Buffalo, Buffalo, NY
+77	191	Pittsburgh Supercomputer Center, Pittsburgh, PA	Pittsburgh Supercomputing Center, Pittsburgh, PA
+80	92	Univ. of Science & Technology of China, China	Univ. of Science & Technology of China, Hefei, P. R. China
+80	187	Univ. of Science & Technology of China, China	School of Computer Science & Technology, Univ. of Science & Technology of China, Hefei, Anhui 230027, PR China and Suzhou Institute for Advanced Study, Univ. of Science & Technology of China, Suzhou, Jiangsu 215123, PR China
+82	108	Carnegie Mellon Univ., Pittsburgh, PA, USA	Robotics Institute, Carnegie Mellon University, Pittsburg, USA
+82	126	Carnegie Mellon Univ., Pittsburgh, PA, USA	Carnegie Mellon University, Pittsburgh, PA
+82	162	Carnegie Mellon Univ., Pittsburgh, PA, USA	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+82	164	Carnegie Mellon Univ., Pittsburgh, PA, USA	Carnegie Mellon University, Pittsburgh
+85	142	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.	University of California, Irvine
+85	152	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.	Department of Informatics, University of California, Irvine, Irvine, USA 92697-3440
+85	157	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+87	118	National University of Singapore, Singapore; Institute for Infocomm Research, Singapore	Institute for Infocomm Research, Singapore 119613 and Department of Computer Science, National University of Singapore, Singapore 117543
+91	116	Com.put. Sci. & Eng., State Univ. of New York at Buffalo, Amherst, NY	State Univ. of New York, Stony Brook
+91	144	Com.put. Sci. & Eng., State Univ. of New York at Buffalo, Amherst, NY	Department of Computer Science and Engineering, State University of New York at Buffalo, Buffalo, NY
+92	187	Univ. of Science & Technology of China, Hefei, P. R. China	School of Computer Science & Technology, Univ. of Science & Technology of China, Hefei, Anhui 230027, PR China and Suzhou Institute for Advanced Study, Univ. of Science & Technology of China, Suzhou, Jiangsu 215123, PR China
+95	119	Making Sense of Data Group, Nat. ICT Australia, Sydney, NSW	National ICT Australia, Eveleigh, NSW 1430, Australia
+103	153	Department of Computer Science and Technology, Tsinghua University, Beijing 100084, China	Department of Computer Science and Technology, Tsinghua University, Beijing, China
+104	116	Computer Science Department, State University of New York at Stony Brook, Stony Brook, NY	State Univ. of New York, Stony Brook
+108	126	Robotics Institute, Carnegie Mellon University, Pittsburg, USA	Carnegie Mellon University, Pittsburgh, PA
+108	162	Robotics Institute, Carnegie Mellon University, Pittsburg, USA	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+108	164	Robotics Institute, Carnegie Mellon University, Pittsburg, USA	Carnegie Mellon University, Pittsburgh
+116	144	State Univ. of New York, Stony Brook	Department of Computer Science and Engineering, State University of New York at Buffalo, Buffalo, NY
+124	165	Department of Computing Science, Faculty of Sciences, University of Alberta, 2-21 Athabasca Hall, Edmonton, Alberta, Canada T6G 2E8	Dept. of Computing Science, University of Alberta, Edmonton, Alberta, Canada T6G 2E8
+126	162	Carnegie Mellon University, Pittsburgh, PA	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA
+126	164	Carnegie Mellon University, Pittsburgh, PA	Carnegie Mellon University, Pittsburgh
+128	189	IEEE	IEEE
+136	138	Department of Electronic and Electrial Engineering, Loughborough University, Loughborough, UK LE11 3TU	Department of Electronic and Electrical Engineering, Loughborough University, LE11 3TU, UK.
+141	145	Missouri State University, Springfield, Missouri	Comput. Sci. Dept., Missouri State Univ., Springfield, MO, USA
+142	152	University of California, Irvine	Department of Informatics, University of California, Irvine, Irvine, USA 92697-3440
+142	157	University of California, Irvine	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+152	157	Department of Informatics, University of California, Irvine, Irvine, USA 92697-3440	Donald Bren School of Information and Computer Sciences, University of California, Irvine, U.S.A.
+162	164	Robotics Institute, Carnegie Mellon University, Pittsburgh, PA 15213, USA	Carnegie Mellon University, Pittsburgh
+180	181	Database Research Group, School of Computing, University of the West of Scotland, UK	University of the West of Scotland, UK

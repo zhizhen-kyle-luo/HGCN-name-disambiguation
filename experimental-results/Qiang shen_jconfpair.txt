@@ -1,0 +1,55 @@
+2	3	FUZZ-IEEE	FUZZ-IEEE
+2	4	FUZZ-IEEE	FUZZ-IEEE
+2	5	FUZZ-IEEE	FUZZ-IEEE
+2	6	FUZZ-IEEE	FUZZ-IEEE
+2	7	FUZZ-IEEE	FUZZ-IEEE
+3	4	FUZZ-IEEE	FUZZ-IEEE
+3	5	FUZZ-IEEE	FUZZ-IEEE
+3	6	FUZZ-IEEE	FUZZ-IEEE
+3	7	FUZZ-IEEE	FUZZ-IEEE
+4	5	FUZZ-IEEE	FUZZ-IEEE
+4	6	FUZZ-IEEE	FUZZ-IEEE
+4	7	FUZZ-IEEE	FUZZ-IEEE
+5	6	FUZZ-IEEE	FUZZ-IEEE
+5	7	FUZZ-IEEE	FUZZ-IEEE
+6	7	FUZZ-IEEE	FUZZ-IEEE
+8	9	ICAIL	ICAIL
+8	54	ICAIL	ICAIL
+9	54	ICAIL	ICAIL
+15	16	RSFDGrC	RSFDGrC (1)
+15	17	RSFDGrC	RSFDGrC
+16	17	RSFDGrC (1)	RSFDGrC
+20	21	AI in Engineering	AI in Engineering
+20	22	AI in Engineering	AI in Engineering
+20	23	AI in Engineering	AI in Engineering
+21	22	AI in Engineering	AI in Engineering
+21	23	AI in Engineering	AI in Engineering
+22	23	AI in Engineering	AI in Engineering
+24	26	Artif. Intell.	Artif. Intell. Rev.
+24	27	Artif. Intell.	Artif. Intell. Rev.
+26	27	Artif. Intell. Rev.	Artif. Intell. Rev.
+29	30	Appl. Intell.	Appl. Intell.
+29	31	Appl. Intell.	Appl. Intell.
+29	32	Appl. Intell.	Appl. Intell.
+30	31	Appl. Intell.	Appl. Intell.
+30	32	Appl. Intell.	Appl. Intell.
+31	32	Appl. Intell.	Appl. Intell.
+33	34	Fuzzy Sets and Systems	Fuzzy Sets and Systems
+37	38	Pattern Recognition	Pattern Recognition
+37	39	Pattern Recognition	Pattern Recognition
+37	55	Pattern Recognition	Pattern Recognition
+38	39	Pattern Recognition	Pattern Recognition
+38	55	Pattern Recognition	Pattern Recognition
+39	55	Pattern Recognition	Pattern Recognition
+40	41	Soft Comput.	Soft Comput.
+40	62	Soft Comput.	Soft Comput.
+41	62	Soft Comput.	Soft Comput.
+42	43	IEEE T. Fuzzy Systems	IEEE T. Fuzzy Systems
+42	44	IEEE T. Fuzzy Systems	IEEE T. Fuzzy Systems
+42	45	IEEE T. Fuzzy Systems	IEEE T. Fuzzy Systems
+43	44	IEEE T. Fuzzy Systems	IEEE T. Fuzzy Systems
+43	45	IEEE T. Fuzzy Systems	IEEE T. Fuzzy Systems
+44	45	IEEE T. Fuzzy Systems	IEEE T. Fuzzy Systems
+48	49	IEEE Transactions on Systems, Man, and Cybernetics, Part A	IEEE Transactions on Systems, Man, and Cybernetics, Part A
+51	52	KES Journal	KES Journal
+63	64	Proceedings of the 2009 International Conference on Advanced Computer Control	Proceedings of the 2009 International Conference on Advanced Computer Control

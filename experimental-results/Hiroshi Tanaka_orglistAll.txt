@@ -1,0 +1,780 @@
+0	1	null	null
+0	2	null	null
+0	3	null	null
+0	4	null	null
+0	5	null	null
+0	6	null	null
+0	7	null	null
+0	8	null	null
+0	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+0	10	null	Fujitsu Labs. Ltd., Hyogo
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	null
+0	23	null	null
+0	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+0	25	null	Graduate Sch. of Eng., Fukui Univ.
+0	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+0	27	null	null
+0	28	null	null
+0	29	null	null
+0	30	null	null
+0	31	null	null
+0	32	null	null
+0	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+0	34	null	null
+0	35	null	null
+0	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+0	37	null	null
+0	38	null	null
+0	39	null	null
+1	2	null	null
+1	3	null	null
+1	4	null	null
+1	5	null	null
+1	6	null	null
+1	7	null	null
+1	8	null	null
+1	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+1	10	null	Fujitsu Labs. Ltd., Hyogo
+1	11	null	null
+1	12	null	null
+1	13	null	null
+1	14	null	null
+1	15	null	null
+1	16	null	null
+1	17	null	null
+1	18	null	null
+1	19	null	null
+1	20	null	null
+1	21	null	null
+1	22	null	null
+1	23	null	null
+1	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+1	25	null	Graduate Sch. of Eng., Fukui Univ.
+1	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+1	27	null	null
+1	28	null	null
+1	29	null	null
+1	30	null	null
+1	31	null	null
+1	32	null	null
+1	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+1	34	null	null
+1	35	null	null
+1	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+1	37	null	null
+1	38	null	null
+1	39	null	null
+2	3	null	null
+2	4	null	null
+2	5	null	null
+2	6	null	null
+2	7	null	null
+2	8	null	null
+2	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+2	10	null	Fujitsu Labs. Ltd., Hyogo
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	null
+2	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+2	25	null	Graduate Sch. of Eng., Fukui Univ.
+2	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+2	27	null	null
+2	28	null	null
+2	29	null	null
+2	30	null	null
+2	31	null	null
+2	32	null	null
+2	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+2	34	null	null
+2	35	null	null
+2	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+2	37	null	null
+2	38	null	null
+2	39	null	null
+3	4	null	null
+3	5	null	null
+3	6	null	null
+3	7	null	null
+3	8	null	null
+3	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+3	10	null	Fujitsu Labs. Ltd., Hyogo
+3	11	null	null
+3	12	null	null
+3	13	null	null
+3	14	null	null
+3	15	null	null
+3	16	null	null
+3	17	null	null
+3	18	null	null
+3	19	null	null
+3	20	null	null
+3	21	null	null
+3	22	null	null
+3	23	null	null
+3	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+3	25	null	Graduate Sch. of Eng., Fukui Univ.
+3	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+3	27	null	null
+3	28	null	null
+3	29	null	null
+3	30	null	null
+3	31	null	null
+3	32	null	null
+3	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+3	34	null	null
+3	35	null	null
+3	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+3	37	null	null
+3	38	null	null
+3	39	null	null
+4	5	null	null
+4	6	null	null
+4	7	null	null
+4	8	null	null
+4	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+4	10	null	Fujitsu Labs. Ltd., Hyogo
+4	11	null	null
+4	12	null	null
+4	13	null	null
+4	14	null	null
+4	15	null	null
+4	16	null	null
+4	17	null	null
+4	18	null	null
+4	19	null	null
+4	20	null	null
+4	21	null	null
+4	22	null	null
+4	23	null	null
+4	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+4	25	null	Graduate Sch. of Eng., Fukui Univ.
+4	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+4	27	null	null
+4	28	null	null
+4	29	null	null
+4	30	null	null
+4	31	null	null
+4	32	null	null
+4	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+4	34	null	null
+4	35	null	null
+4	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+4	37	null	null
+4	38	null	null
+4	39	null	null
+5	6	null	null
+5	7	null	null
+5	8	null	null
+5	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+5	10	null	Fujitsu Labs. Ltd., Hyogo
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	null
+5	15	null	null
+5	16	null	null
+5	17	null	null
+5	18	null	null
+5	19	null	null
+5	20	null	null
+5	21	null	null
+5	22	null	null
+5	23	null	null
+5	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+5	25	null	Graduate Sch. of Eng., Fukui Univ.
+5	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+5	27	null	null
+5	28	null	null
+5	29	null	null
+5	30	null	null
+5	31	null	null
+5	32	null	null
+5	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+5	34	null	null
+5	35	null	null
+5	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+5	37	null	null
+5	38	null	null
+5	39	null	null
+6	7	null	null
+6	8	null	null
+6	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+6	10	null	Fujitsu Labs. Ltd., Hyogo
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	null
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	null
+6	23	null	null
+6	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+6	25	null	Graduate Sch. of Eng., Fukui Univ.
+6	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+6	27	null	null
+6	28	null	null
+6	29	null	null
+6	30	null	null
+6	31	null	null
+6	32	null	null
+6	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+6	34	null	null
+6	35	null	null
+6	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+6	37	null	null
+6	38	null	null
+6	39	null	null
+7	8	null	null
+7	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+7	10	null	Fujitsu Labs. Ltd., Hyogo
+7	11	null	null
+7	12	null	null
+7	13	null	null
+7	14	null	null
+7	15	null	null
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	null
+7	20	null	null
+7	21	null	null
+7	22	null	null
+7	23	null	null
+7	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+7	25	null	Graduate Sch. of Eng., Fukui Univ.
+7	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+7	27	null	null
+7	28	null	null
+7	29	null	null
+7	30	null	null
+7	31	null	null
+7	32	null	null
+7	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+7	34	null	null
+7	35	null	null
+7	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+7	37	null	null
+7	38	null	null
+7	39	null	null
+8	9	null	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.
+8	10	null	Fujitsu Labs. Ltd., Hyogo
+8	11	null	null
+8	12	null	null
+8	13	null	null
+8	14	null	null
+8	15	null	null
+8	16	null	null
+8	17	null	null
+8	18	null	null
+8	19	null	null
+8	20	null	null
+8	21	null	null
+8	22	null	null
+8	23	null	null
+8	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+8	25	null	Graduate Sch. of Eng., Fukui Univ.
+8	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+8	27	null	null
+8	28	null	null
+8	29	null	null
+8	30	null	null
+8	31	null	null
+8	32	null	null
+8	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+8	34	null	null
+8	35	null	null
+8	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+8	37	null	null
+8	38	null	null
+8	39	null	null
+9	10	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	Fujitsu Labs. Ltd., Hyogo
+9	11	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	12	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	13	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	14	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	15	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	16	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	17	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	18	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	19	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	20	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	21	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	22	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	23	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	24	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+9	25	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	Graduate Sch. of Eng., Fukui Univ.
+9	26	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+9	27	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	28	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	29	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	30	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	31	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	32	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	33	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+9	34	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	35	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	36	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	Fujitsu Labs. Ltd., Kawasaki, Japan
+9	37	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	38	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+9	39	Nat. Inst. of Gentics, Tokyo Med. & Dental Univ.	null
+10	11	Fujitsu Labs. Ltd., Hyogo	null
+10	12	Fujitsu Labs. Ltd., Hyogo	null
+10	13	Fujitsu Labs. Ltd., Hyogo	null
+10	14	Fujitsu Labs. Ltd., Hyogo	null
+10	15	Fujitsu Labs. Ltd., Hyogo	null
+10	16	Fujitsu Labs. Ltd., Hyogo	null
+10	17	Fujitsu Labs. Ltd., Hyogo	null
+10	18	Fujitsu Labs. Ltd., Hyogo	null
+10	19	Fujitsu Labs. Ltd., Hyogo	null
+10	20	Fujitsu Labs. Ltd., Hyogo	null
+10	21	Fujitsu Labs. Ltd., Hyogo	null
+10	22	Fujitsu Labs. Ltd., Hyogo	null
+10	23	Fujitsu Labs. Ltd., Hyogo	null
+10	24	Fujitsu Labs. Ltd., Hyogo	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+10	25	Fujitsu Labs. Ltd., Hyogo	Graduate Sch. of Eng., Fukui Univ.
+10	26	Fujitsu Labs. Ltd., Hyogo	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+10	27	Fujitsu Labs. Ltd., Hyogo	null
+10	28	Fujitsu Labs. Ltd., Hyogo	null
+10	29	Fujitsu Labs. Ltd., Hyogo	null
+10	30	Fujitsu Labs. Ltd., Hyogo	null
+10	31	Fujitsu Labs. Ltd., Hyogo	null
+10	32	Fujitsu Labs. Ltd., Hyogo	null
+10	33	Fujitsu Labs. Ltd., Hyogo	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+10	34	Fujitsu Labs. Ltd., Hyogo	null
+10	35	Fujitsu Labs. Ltd., Hyogo	null
+10	36	Fujitsu Labs. Ltd., Hyogo	Fujitsu Labs. Ltd., Kawasaki, Japan
+10	37	Fujitsu Labs. Ltd., Hyogo	null
+10	38	Fujitsu Labs. Ltd., Hyogo	null
+10	39	Fujitsu Labs. Ltd., Hyogo	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+11	25	null	Graduate Sch. of Eng., Fukui Univ.
+11	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+11	27	null	null
+11	28	null	null
+11	29	null	null
+11	30	null	null
+11	31	null	null
+11	32	null	null
+11	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+11	34	null	null
+11	35	null	null
+11	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+11	37	null	null
+11	38	null	null
+11	39	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	null
+12	17	null	null
+12	18	null	null
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	null
+12	23	null	null
+12	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+12	25	null	Graduate Sch. of Eng., Fukui Univ.
+12	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+12	27	null	null
+12	28	null	null
+12	29	null	null
+12	30	null	null
+12	31	null	null
+12	32	null	null
+12	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+12	34	null	null
+12	35	null	null
+12	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+12	37	null	null
+12	38	null	null
+12	39	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	null
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	null
+13	23	null	null
+13	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+13	25	null	Graduate Sch. of Eng., Fukui Univ.
+13	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+13	27	null	null
+13	28	null	null
+13	29	null	null
+13	30	null	null
+13	31	null	null
+13	32	null	null
+13	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+13	34	null	null
+13	35	null	null
+13	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+13	37	null	null
+13	38	null	null
+13	39	null	null
+14	15	null	null
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	null
+14	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+14	25	null	Graduate Sch. of Eng., Fukui Univ.
+14	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+14	27	null	null
+14	28	null	null
+14	29	null	null
+14	30	null	null
+14	31	null	null
+14	32	null	null
+14	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+14	34	null	null
+14	35	null	null
+14	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+14	37	null	null
+14	38	null	null
+14	39	null	null
+15	16	null	null
+15	17	null	null
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	null
+15	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+15	25	null	Graduate Sch. of Eng., Fukui Univ.
+15	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+15	27	null	null
+15	28	null	null
+15	29	null	null
+15	30	null	null
+15	31	null	null
+15	32	null	null
+15	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+15	34	null	null
+15	35	null	null
+15	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+15	37	null	null
+15	38	null	null
+15	39	null	null
+16	17	null	null
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	null
+16	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+16	25	null	Graduate Sch. of Eng., Fukui Univ.
+16	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+16	27	null	null
+16	28	null	null
+16	29	null	null
+16	30	null	null
+16	31	null	null
+16	32	null	null
+16	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+16	34	null	null
+16	35	null	null
+16	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+16	37	null	null
+16	38	null	null
+16	39	null	null
+17	18	null	null
+17	19	null	null
+17	20	null	null
+17	21	null	null
+17	22	null	null
+17	23	null	null
+17	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+17	25	null	Graduate Sch. of Eng., Fukui Univ.
+17	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+17	27	null	null
+17	28	null	null
+17	29	null	null
+17	30	null	null
+17	31	null	null
+17	32	null	null
+17	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+17	34	null	null
+17	35	null	null
+17	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+17	37	null	null
+17	38	null	null
+17	39	null	null
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+18	25	null	Graduate Sch. of Eng., Fukui Univ.
+18	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+18	27	null	null
+18	28	null	null
+18	29	null	null
+18	30	null	null
+18	31	null	null
+18	32	null	null
+18	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+18	34	null	null
+18	35	null	null
+18	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+18	37	null	null
+18	38	null	null
+18	39	null	null
+19	20	null	null
+19	21	null	null
+19	22	null	null
+19	23	null	null
+19	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+19	25	null	Graduate Sch. of Eng., Fukui Univ.
+19	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+19	27	null	null
+19	28	null	null
+19	29	null	null
+19	30	null	null
+19	31	null	null
+19	32	null	null
+19	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+19	34	null	null
+19	35	null	null
+19	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+19	37	null	null
+19	38	null	null
+19	39	null	null
+20	21	null	null
+20	22	null	null
+20	23	null	null
+20	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+20	25	null	Graduate Sch. of Eng., Fukui Univ.
+20	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+20	27	null	null
+20	28	null	null
+20	29	null	null
+20	30	null	null
+20	31	null	null
+20	32	null	null
+20	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+20	34	null	null
+20	35	null	null
+20	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+20	37	null	null
+20	38	null	null
+20	39	null	null
+21	22	null	null
+21	23	null	null
+21	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+21	25	null	Graduate Sch. of Eng., Fukui Univ.
+21	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+21	27	null	null
+21	28	null	null
+21	29	null	null
+21	30	null	null
+21	31	null	null
+21	32	null	null
+21	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+21	34	null	null
+21	35	null	null
+21	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+21	37	null	null
+21	38	null	null
+21	39	null	null
+22	23	null	null
+22	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+22	25	null	Graduate Sch. of Eng., Fukui Univ.
+22	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+22	27	null	null
+22	28	null	null
+22	29	null	null
+22	30	null	null
+22	31	null	null
+22	32	null	null
+22	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+22	34	null	null
+22	35	null	null
+22	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+22	37	null	null
+22	38	null	null
+22	39	null	null
+23	24	null	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo
+23	25	null	Graduate Sch. of Eng., Fukui Univ.
+23	26	null	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+23	27	null	null
+23	28	null	null
+23	29	null	null
+23	30	null	null
+23	31	null	null
+23	32	null	null
+23	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+23	34	null	null
+23	35	null	null
+23	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+23	37	null	null
+23	38	null	null
+23	39	null	null
+24	25	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	Graduate Sch. of Eng., Fukui Univ.
+24	26	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+24	27	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	28	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	29	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	30	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	31	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	32	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	33	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+24	34	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	35	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	36	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	Fujitsu Labs. Ltd., Kawasaki, Japan
+24	37	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	38	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+24	39	Dept. of Neuropsychiatry, Nippon Med. Sch., Tokyo	null
+25	26	Graduate Sch. of Eng., Fukui Univ.	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo
+25	27	Graduate Sch. of Eng., Fukui Univ.	null
+25	28	Graduate Sch. of Eng., Fukui Univ.	null
+25	29	Graduate Sch. of Eng., Fukui Univ.	null
+25	30	Graduate Sch. of Eng., Fukui Univ.	null
+25	31	Graduate Sch. of Eng., Fukui Univ.	null
+25	32	Graduate Sch. of Eng., Fukui Univ.	null
+25	33	Graduate Sch. of Eng., Fukui Univ.	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+25	34	Graduate Sch. of Eng., Fukui Univ.	null
+25	35	Graduate Sch. of Eng., Fukui Univ.	null
+25	36	Graduate Sch. of Eng., Fukui Univ.	Fujitsu Labs. Ltd., Kawasaki, Japan
+25	37	Graduate Sch. of Eng., Fukui Univ.	null
+25	38	Graduate Sch. of Eng., Fukui Univ.	null
+25	39	Graduate Sch. of Eng., Fukui Univ.	null
+26	27	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	28	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	29	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	30	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	31	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	32	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	33	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+26	34	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	35	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	36	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	Fujitsu Labs. Ltd., Kawasaki, Japan
+26	37	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	38	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+26	39	Dept. of Network Syst. Eng., Kokusai Denshin Denwa Co. Ltd., Tokyo	null
+27	28	null	null
+27	29	null	null
+27	30	null	null
+27	31	null	null
+27	32	null	null
+27	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+27	34	null	null
+27	35	null	null
+27	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+27	37	null	null
+27	38	null	null
+27	39	null	null
+28	29	null	null
+28	30	null	null
+28	31	null	null
+28	32	null	null
+28	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+28	34	null	null
+28	35	null	null
+28	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+28	37	null	null
+28	38	null	null
+28	39	null	null
+29	30	null	null
+29	31	null	null
+29	32	null	null
+29	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+29	34	null	null
+29	35	null	null
+29	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+29	37	null	null
+29	38	null	null
+29	39	null	null
+30	31	null	null
+30	32	null	null
+30	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+30	34	null	null
+30	35	null	null
+30	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+30	37	null	null
+30	38	null	null
+30	39	null	null
+31	32	null	null
+31	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+31	34	null	null
+31	35	null	null
+31	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+31	37	null	null
+31	38	null	null
+31	39	null	null
+32	33	null	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan
+32	34	null	null
+32	35	null	null
+32	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+32	37	null	null
+32	38	null	null
+32	39	null	null
+33	34	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan	null
+33	35	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan	null
+33	36	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan	Fujitsu Labs. Ltd., Kawasaki, Japan
+33	37	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan	null
+33	38	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan	null
+33	39	Medical Research Institute (Bio-Informatics), Tokyo Medical and Dental University, 1-5-45 Yushima, Tokyo 113-0034, Japan	null
+34	35	null	null
+34	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+34	37	null	null
+34	38	null	null
+34	39	null	null
+35	36	null	Fujitsu Labs. Ltd., Kawasaki, Japan
+35	37	null	null
+35	38	null	null
+35	39	null	null
+36	37	Fujitsu Labs. Ltd., Kawasaki, Japan	null
+36	38	Fujitsu Labs. Ltd., Kawasaki, Japan	null
+36	39	Fujitsu Labs. Ltd., Kawasaki, Japan	null
+37	38	null	null
+37	39	null	null
+38	39	null	null

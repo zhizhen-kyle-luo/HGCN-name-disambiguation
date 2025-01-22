@@ -1,0 +1,1081 @@
+0	1	null	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.
+0	2	null	null
+0	3	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+0	4	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+0	5	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+0	6	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+0	7	null	null
+0	8	null	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+0	9	null	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+0	10	null	IBM T.J. Watson Research Center
+0	11	null	null
+0	12	null	null
+0	13	null	IBM T.J. Watson Res. Center, Hawthorne, NY
+0	14	null	null
+0	15	null	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+0	16	null	null
+0	17	null	null
+0	18	null	null
+0	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+0	20	null	University of Wisconsin-Madison
+0	21	null	null
+0	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+0	23	null	null
+0	24	null	null
+0	25	null	null
+0	26	null	IBM T.J. Watson Research Center
+0	27	null	IBM T.J. Watson Research Center
+0	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+0	29	null	null
+0	30	null	Hunan University, China
+0	31	null	Hunan University, China
+0	32	null	null
+0	33	null	null
+0	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+0	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+0	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+0	37	null	null
+0	38	null	null
+0	39	null	null
+0	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+0	41	null	National University of Defense Technology, Changsha
+0	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+0	43	null	null
+0	44	null	null
+0	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+0	46	null	null
+1	2	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	3	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+1	4	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+1	5	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+1	6	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+1	7	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	8	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+1	9	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+1	10	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center
+1	11	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	12	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	13	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Res. Center, Hawthorne, NY
+1	14	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	15	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+1	16	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	17	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	18	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	19	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+1	20	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	University of Wisconsin-Madison
+1	21	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	22	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center, Hawthorne, NY
+1	23	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	24	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	25	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	26	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center
+1	27	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center
+1	28	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+1	29	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	30	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Hunan University, China
+1	31	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Hunan University, China
+1	32	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	33	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	34	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+1	35	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+1	36	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+1	37	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	38	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	39	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	40	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+1	41	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	National University of Defense Technology, Changsha
+1	42	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+1	43	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	44	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+1	45	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	IBM T. J. Watson Research Center, Hawthorne, NY
+1	46	Sch. of Electr. & Electron. Eng., Nanyang Technol. Inst.	null
+2	3	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+2	4	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+2	5	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+2	6	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+2	7	null	null
+2	8	null	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+2	9	null	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+2	10	null	IBM T.J. Watson Research Center
+2	11	null	null
+2	12	null	null
+2	13	null	IBM T.J. Watson Res. Center, Hawthorne, NY
+2	14	null	null
+2	15	null	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+2	16	null	null
+2	17	null	null
+2	18	null	null
+2	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+2	20	null	University of Wisconsin-Madison
+2	21	null	null
+2	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+2	23	null	null
+2	24	null	null
+2	25	null	null
+2	26	null	IBM T.J. Watson Research Center
+2	27	null	IBM T.J. Watson Research Center
+2	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+2	29	null	null
+2	30	null	Hunan University, China
+2	31	null	Hunan University, China
+2	32	null	null
+2	33	null	null
+2	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+2	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+2	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+2	37	null	null
+2	38	null	null
+2	39	null	null
+2	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+2	41	null	National University of Defense Technology, Changsha
+2	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+2	43	null	null
+2	44	null	null
+2	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+2	46	null	null
+3	4	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	5	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	6	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	7	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	8	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+3	9	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+3	10	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+3	11	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	12	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	13	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Res. Center, Hawthorne, NY
+3	14	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	15	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+3	16	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	17	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	18	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+3	20	IBM T.J. Watson Research Center, Hawthorne, NY, USA	University of Wisconsin-Madison
+3	21	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+3	23	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	24	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	25	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	26	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+3	27	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+3	28	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+3	29	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	30	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+3	31	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+3	32	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	33	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+3	35	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+3	36	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+3	37	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	38	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	39	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+3	41	IBM T.J. Watson Research Center, Hawthorne, NY, USA	National University of Defense Technology, Changsha
+3	42	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+3	43	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	44	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+3	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+3	46	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	5	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+4	6	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+4	7	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	8	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+4	9	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+4	10	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+4	11	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	12	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	13	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Res. Center, Hawthorne, NY
+4	14	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	15	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+4	16	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	17	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	18	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+4	20	IBM T.J. Watson Research Center, Hawthorne, NY, USA	University of Wisconsin-Madison
+4	21	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+4	23	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	24	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	25	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	26	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+4	27	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+4	28	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+4	29	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	30	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+4	31	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+4	32	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	33	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+4	35	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+4	36	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+4	37	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	38	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	39	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+4	41	IBM T.J. Watson Research Center, Hawthorne, NY, USA	National University of Defense Technology, Changsha
+4	42	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+4	43	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	44	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+4	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+4	46	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	6	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+5	7	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	8	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+5	9	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+5	10	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+5	11	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	12	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	13	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Res. Center, Hawthorne, NY
+5	14	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	15	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+5	16	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	17	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	18	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+5	20	IBM T.J. Watson Research Center, Hawthorne, NY, USA	University of Wisconsin-Madison
+5	21	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+5	23	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	24	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	25	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	26	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+5	27	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+5	28	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+5	29	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	30	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+5	31	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+5	32	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	33	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+5	35	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+5	36	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+5	37	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	38	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	39	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+5	41	IBM T.J. Watson Research Center, Hawthorne, NY, USA	National University of Defense Technology, Changsha
+5	42	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+5	43	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	44	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+5	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+5	46	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	7	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	8	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+6	9	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+6	10	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+6	11	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	12	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	13	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Res. Center, Hawthorne, NY
+6	14	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	15	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+6	16	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	17	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	18	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	19	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+6	20	IBM T.J. Watson Research Center, Hawthorne, NY, USA	University of Wisconsin-Madison
+6	21	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+6	23	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	24	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	25	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	26	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+6	27	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+6	28	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+6	29	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	30	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+6	31	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+6	32	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	33	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+6	35	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+6	36	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+6	37	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	38	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	39	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+6	41	IBM T.J. Watson Research Center, Hawthorne, NY, USA	National University of Defense Technology, Changsha
+6	42	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+6	43	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	44	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+6	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+6	46	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+7	8	null	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI
+7	9	null	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+7	10	null	IBM T.J. Watson Research Center
+7	11	null	null
+7	12	null	null
+7	13	null	IBM T.J. Watson Res. Center, Hawthorne, NY
+7	14	null	null
+7	15	null	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+7	16	null	null
+7	17	null	null
+7	18	null	null
+7	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+7	20	null	University of Wisconsin-Madison
+7	21	null	null
+7	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+7	23	null	null
+7	24	null	null
+7	25	null	null
+7	26	null	IBM T.J. Watson Research Center
+7	27	null	IBM T.J. Watson Research Center
+7	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+7	29	null	null
+7	30	null	Hunan University, China
+7	31	null	Hunan University, China
+7	32	null	null
+7	33	null	null
+7	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+7	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+7	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+7	37	null	null
+7	38	null	null
+7	39	null	null
+7	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+7	41	null	National University of Defense Technology, Changsha
+7	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+7	43	null	null
+7	44	null	null
+7	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+7	46	null	null
+8	9	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA
+8	10	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T.J. Watson Research Center
+8	11	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	12	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	13	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T.J. Watson Res. Center, Hawthorne, NY
+8	14	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	15	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+8	16	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	17	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	18	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	19	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+8	20	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	University of Wisconsin-Madison
+8	21	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	22	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T.J. Watson Research Center, Hawthorne, NY
+8	23	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	24	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	25	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	26	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T.J. Watson Research Center
+8	27	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T.J. Watson Research Center
+8	28	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+8	29	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	30	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Hunan University, China
+8	31	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Hunan University, China
+8	32	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	33	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	34	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+8	35	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+8	36	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+8	37	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	38	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	39	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	40	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+8	41	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	National University of Defense Technology, Changsha
+8	42	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+8	43	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	44	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+8	45	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	IBM T. J. Watson Research Center, Hawthorne, NY
+8	46	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI	null
+9	10	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T.J. Watson Research Center
+9	11	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	12	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	13	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T.J. Watson Res. Center, Hawthorne, NY
+9	14	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	15	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+9	16	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	17	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	18	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	19	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+9	20	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	University of Wisconsin-Madison
+9	21	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	22	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+9	23	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	24	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	25	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	26	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T.J. Watson Research Center
+9	27	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T.J. Watson Research Center
+9	28	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+9	29	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	30	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	Hunan University, China
+9	31	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	Hunan University, China
+9	32	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	33	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	34	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+9	35	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+9	36	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+9	37	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	38	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	39	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	40	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+9	41	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	National University of Defense Technology, Changsha
+9	42	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+9	43	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	44	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+9	45	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+9	46	Dept. of Comput. Sci., Wisconsin Univ., Madison, WI, USA	null
+10	11	IBM T.J. Watson Research Center	null
+10	12	IBM T.J. Watson Research Center	null
+10	13	IBM T.J. Watson Research Center	IBM T.J. Watson Res. Center, Hawthorne, NY
+10	14	IBM T.J. Watson Research Center	null
+10	15	IBM T.J. Watson Research Center	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+10	16	IBM T.J. Watson Research Center	null
+10	17	IBM T.J. Watson Research Center	null
+10	18	IBM T.J. Watson Research Center	null
+10	19	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+10	20	IBM T.J. Watson Research Center	University of Wisconsin-Madison
+10	21	IBM T.J. Watson Research Center	null
+10	22	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center, Hawthorne, NY
+10	23	IBM T.J. Watson Research Center	null
+10	24	IBM T.J. Watson Research Center	null
+10	25	IBM T.J. Watson Research Center	null
+10	26	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center
+10	27	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center
+10	28	IBM T.J. Watson Research Center	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+10	29	IBM T.J. Watson Research Center	null
+10	30	IBM T.J. Watson Research Center	Hunan University, China
+10	31	IBM T.J. Watson Research Center	Hunan University, China
+10	32	IBM T.J. Watson Research Center	null
+10	33	IBM T.J. Watson Research Center	null
+10	34	IBM T.J. Watson Research Center	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+10	35	IBM T.J. Watson Research Center	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+10	36	IBM T.J. Watson Research Center	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+10	37	IBM T.J. Watson Research Center	null
+10	38	IBM T.J. Watson Research Center	null
+10	39	IBM T.J. Watson Research Center	null
+10	40	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+10	41	IBM T.J. Watson Research Center	National University of Defense Technology, Changsha
+10	42	IBM T.J. Watson Research Center	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+10	43	IBM T.J. Watson Research Center	null
+10	44	IBM T.J. Watson Research Center	null
+10	45	IBM T.J. Watson Research Center	IBM T. J. Watson Research Center, Hawthorne, NY
+10	46	IBM T.J. Watson Research Center	null
+11	12	null	null
+11	13	null	IBM T.J. Watson Res. Center, Hawthorne, NY
+11	14	null	null
+11	15	null	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+11	16	null	null
+11	17	null	null
+11	18	null	null
+11	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+11	20	null	University of Wisconsin-Madison
+11	21	null	null
+11	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+11	23	null	null
+11	24	null	null
+11	25	null	null
+11	26	null	IBM T.J. Watson Research Center
+11	27	null	IBM T.J. Watson Research Center
+11	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+11	29	null	null
+11	30	null	Hunan University, China
+11	31	null	Hunan University, China
+11	32	null	null
+11	33	null	null
+11	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+11	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+11	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+11	37	null	null
+11	38	null	null
+11	39	null	null
+11	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+11	41	null	National University of Defense Technology, Changsha
+11	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+11	43	null	null
+11	44	null	null
+11	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+11	46	null	null
+12	13	null	IBM T.J. Watson Res. Center, Hawthorne, NY
+12	14	null	null
+12	15	null	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+12	16	null	null
+12	17	null	null
+12	18	null	null
+12	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+12	20	null	University of Wisconsin-Madison
+12	21	null	null
+12	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+12	23	null	null
+12	24	null	null
+12	25	null	null
+12	26	null	IBM T.J. Watson Research Center
+12	27	null	IBM T.J. Watson Research Center
+12	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+12	29	null	null
+12	30	null	Hunan University, China
+12	31	null	Hunan University, China
+12	32	null	null
+12	33	null	null
+12	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+12	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+12	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+12	37	null	null
+12	38	null	null
+12	39	null	null
+12	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+12	41	null	National University of Defense Technology, Changsha
+12	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+12	43	null	null
+12	44	null	null
+12	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+12	46	null	null
+13	14	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	15	IBM T.J. Watson Res. Center, Hawthorne, NY	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+13	16	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	17	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	18	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	19	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+13	20	IBM T.J. Watson Res. Center, Hawthorne, NY	University of Wisconsin-Madison
+13	21	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	22	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T.J. Watson Research Center, Hawthorne, NY
+13	23	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	24	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	25	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	26	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T.J. Watson Research Center
+13	27	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T.J. Watson Research Center
+13	28	IBM T.J. Watson Res. Center, Hawthorne, NY	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+13	29	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	30	IBM T.J. Watson Res. Center, Hawthorne, NY	Hunan University, China
+13	31	IBM T.J. Watson Res. Center, Hawthorne, NY	Hunan University, China
+13	32	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	33	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	34	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+13	35	IBM T.J. Watson Res. Center, Hawthorne, NY	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+13	36	IBM T.J. Watson Res. Center, Hawthorne, NY	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+13	37	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	38	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	39	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	40	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+13	41	IBM T.J. Watson Res. Center, Hawthorne, NY	National University of Defense Technology, Changsha
+13	42	IBM T.J. Watson Res. Center, Hawthorne, NY	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+13	43	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	44	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+13	45	IBM T.J. Watson Res. Center, Hawthorne, NY	IBM T. J. Watson Research Center, Hawthorne, NY
+13	46	IBM T.J. Watson Res. Center, Hawthorne, NY	null
+14	15	null	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing
+14	16	null	null
+14	17	null	null
+14	18	null	null
+14	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+14	20	null	University of Wisconsin-Madison
+14	21	null	null
+14	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+14	23	null	null
+14	24	null	null
+14	25	null	null
+14	26	null	IBM T.J. Watson Research Center
+14	27	null	IBM T.J. Watson Research Center
+14	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+14	29	null	null
+14	30	null	Hunan University, China
+14	31	null	Hunan University, China
+14	32	null	null
+14	33	null	null
+14	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+14	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+14	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+14	37	null	null
+14	38	null	null
+14	39	null	null
+14	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+14	41	null	National University of Defense Technology, Changsha
+14	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+14	43	null	null
+14	44	null	null
+14	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+14	46	null	null
+15	16	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	17	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	18	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	19	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+15	20	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	University of Wisconsin-Madison
+15	21	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	22	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	IBM T.J. Watson Research Center, Hawthorne, NY
+15	23	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	24	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	25	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	26	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	IBM T.J. Watson Research Center
+15	27	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	IBM T.J. Watson Research Center
+15	28	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+15	29	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	30	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	Hunan University, China
+15	31	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	Hunan University, China
+15	32	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	33	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	34	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+15	35	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+15	36	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+15	37	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	38	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	39	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	40	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+15	41	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	National University of Defense Technology, Changsha
+15	42	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+15	43	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	44	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+15	45	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	IBM T. J. Watson Research Center, Hawthorne, NY
+15	46	Sch. of Comput. Sci., Nat. Univ. of Defense Technol., Beijing	null
+16	17	null	null
+16	18	null	null
+16	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+16	20	null	University of Wisconsin-Madison
+16	21	null	null
+16	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+16	23	null	null
+16	24	null	null
+16	25	null	null
+16	26	null	IBM T.J. Watson Research Center
+16	27	null	IBM T.J. Watson Research Center
+16	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+16	29	null	null
+16	30	null	Hunan University, China
+16	31	null	Hunan University, China
+16	32	null	null
+16	33	null	null
+16	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+16	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+16	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+16	37	null	null
+16	38	null	null
+16	39	null	null
+16	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+16	41	null	National University of Defense Technology, Changsha
+16	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+16	43	null	null
+16	44	null	null
+16	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+16	46	null	null
+17	18	null	null
+17	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+17	20	null	University of Wisconsin-Madison
+17	21	null	null
+17	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+17	23	null	null
+17	24	null	null
+17	25	null	null
+17	26	null	IBM T.J. Watson Research Center
+17	27	null	IBM T.J. Watson Research Center
+17	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+17	29	null	null
+17	30	null	Hunan University, China
+17	31	null	Hunan University, China
+17	32	null	null
+17	33	null	null
+17	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+17	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+17	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+17	37	null	null
+17	38	null	null
+17	39	null	null
+17	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+17	41	null	National University of Defense Technology, Changsha
+17	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+17	43	null	null
+17	44	null	null
+17	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+17	46	null	null
+18	19	null	IBM T.J. Watson Research Center, Hawthorne, NY, USA
+18	20	null	University of Wisconsin-Madison
+18	21	null	null
+18	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+18	23	null	null
+18	24	null	null
+18	25	null	null
+18	26	null	IBM T.J. Watson Research Center
+18	27	null	IBM T.J. Watson Research Center
+18	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+18	29	null	null
+18	30	null	Hunan University, China
+18	31	null	Hunan University, China
+18	32	null	null
+18	33	null	null
+18	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+18	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+18	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+18	37	null	null
+18	38	null	null
+18	39	null	null
+18	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+18	41	null	National University of Defense Technology, Changsha
+18	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+18	43	null	null
+18	44	null	null
+18	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+18	46	null	null
+19	20	IBM T.J. Watson Research Center, Hawthorne, NY, USA	University of Wisconsin-Madison
+19	21	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	22	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, Hawthorne, NY
+19	23	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	24	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	25	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	26	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+19	27	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center
+19	28	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+19	29	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	30	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+19	31	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Hunan University, China
+19	32	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	33	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	34	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+19	35	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+19	36	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+19	37	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	38	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	39	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	40	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+19	41	IBM T.J. Watson Research Center, Hawthorne, NY, USA	National University of Defense Technology, Changsha
+19	42	IBM T.J. Watson Research Center, Hawthorne, NY, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+19	43	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	44	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+19	45	IBM T.J. Watson Research Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+19	46	IBM T.J. Watson Research Center, Hawthorne, NY, USA	null
+20	21	University of Wisconsin-Madison	null
+20	22	University of Wisconsin-Madison	IBM T.J. Watson Research Center, Hawthorne, NY
+20	23	University of Wisconsin-Madison	null
+20	24	University of Wisconsin-Madison	null
+20	25	University of Wisconsin-Madison	null
+20	26	University of Wisconsin-Madison	IBM T.J. Watson Research Center
+20	27	University of Wisconsin-Madison	IBM T.J. Watson Research Center
+20	28	University of Wisconsin-Madison	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+20	29	University of Wisconsin-Madison	null
+20	30	University of Wisconsin-Madison	Hunan University, China
+20	31	University of Wisconsin-Madison	Hunan University, China
+20	32	University of Wisconsin-Madison	null
+20	33	University of Wisconsin-Madison	null
+20	34	University of Wisconsin-Madison	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+20	35	University of Wisconsin-Madison	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+20	36	University of Wisconsin-Madison	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+20	37	University of Wisconsin-Madison	null
+20	38	University of Wisconsin-Madison	null
+20	39	University of Wisconsin-Madison	null
+20	40	University of Wisconsin-Madison	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+20	41	University of Wisconsin-Madison	National University of Defense Technology, Changsha
+20	42	University of Wisconsin-Madison	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+20	43	University of Wisconsin-Madison	null
+20	44	University of Wisconsin-Madison	null
+20	45	University of Wisconsin-Madison	IBM T. J. Watson Research Center, Hawthorne, NY
+20	46	University of Wisconsin-Madison	null
+21	22	null	IBM T.J. Watson Research Center, Hawthorne, NY
+21	23	null	null
+21	24	null	null
+21	25	null	null
+21	26	null	IBM T.J. Watson Research Center
+21	27	null	IBM T.J. Watson Research Center
+21	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+21	29	null	null
+21	30	null	Hunan University, China
+21	31	null	Hunan University, China
+21	32	null	null
+21	33	null	null
+21	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+21	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+21	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+21	37	null	null
+21	38	null	null
+21	39	null	null
+21	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+21	41	null	National University of Defense Technology, Changsha
+21	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+21	43	null	null
+21	44	null	null
+21	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+21	46	null	null
+22	23	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	24	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	25	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	26	IBM T.J. Watson Research Center, Hawthorne, NY	IBM T.J. Watson Research Center
+22	27	IBM T.J. Watson Research Center, Hawthorne, NY	IBM T.J. Watson Research Center
+22	28	IBM T.J. Watson Research Center, Hawthorne, NY	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+22	29	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	30	IBM T.J. Watson Research Center, Hawthorne, NY	Hunan University, China
+22	31	IBM T.J. Watson Research Center, Hawthorne, NY	Hunan University, China
+22	32	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	33	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	34	IBM T.J. Watson Research Center, Hawthorne, NY	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+22	35	IBM T.J. Watson Research Center, Hawthorne, NY	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+22	36	IBM T.J. Watson Research Center, Hawthorne, NY	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+22	37	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	38	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	39	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	40	IBM T.J. Watson Research Center, Hawthorne, NY	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+22	41	IBM T.J. Watson Research Center, Hawthorne, NY	National University of Defense Technology, Changsha
+22	42	IBM T.J. Watson Research Center, Hawthorne, NY	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+22	43	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	44	IBM T.J. Watson Research Center, Hawthorne, NY	null
+22	45	IBM T.J. Watson Research Center, Hawthorne, NY	IBM T. J. Watson Research Center, Hawthorne, NY
+22	46	IBM T.J. Watson Research Center, Hawthorne, NY	null
+23	24	null	null
+23	25	null	null
+23	26	null	IBM T.J. Watson Research Center
+23	27	null	IBM T.J. Watson Research Center
+23	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+23	29	null	null
+23	30	null	Hunan University, China
+23	31	null	Hunan University, China
+23	32	null	null
+23	33	null	null
+23	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+23	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+23	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+23	37	null	null
+23	38	null	null
+23	39	null	null
+23	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+23	41	null	National University of Defense Technology, Changsha
+23	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+23	43	null	null
+23	44	null	null
+23	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+23	46	null	null
+24	25	null	null
+24	26	null	IBM T.J. Watson Research Center
+24	27	null	IBM T.J. Watson Research Center
+24	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+24	29	null	null
+24	30	null	Hunan University, China
+24	31	null	Hunan University, China
+24	32	null	null
+24	33	null	null
+24	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+24	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+24	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+24	37	null	null
+24	38	null	null
+24	39	null	null
+24	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+24	41	null	National University of Defense Technology, Changsha
+24	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+24	43	null	null
+24	44	null	null
+24	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+24	46	null	null
+25	26	null	IBM T.J. Watson Research Center
+25	27	null	IBM T.J. Watson Research Center
+25	28	null	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+25	29	null	null
+25	30	null	Hunan University, China
+25	31	null	Hunan University, China
+25	32	null	null
+25	33	null	null
+25	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+25	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+25	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+25	37	null	null
+25	38	null	null
+25	39	null	null
+25	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+25	41	null	National University of Defense Technology, Changsha
+25	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+25	43	null	null
+25	44	null	null
+25	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+25	46	null	null
+26	27	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center
+26	28	IBM T.J. Watson Research Center	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+26	29	IBM T.J. Watson Research Center	null
+26	30	IBM T.J. Watson Research Center	Hunan University, China
+26	31	IBM T.J. Watson Research Center	Hunan University, China
+26	32	IBM T.J. Watson Research Center	null
+26	33	IBM T.J. Watson Research Center	null
+26	34	IBM T.J. Watson Research Center	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+26	35	IBM T.J. Watson Research Center	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+26	36	IBM T.J. Watson Research Center	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+26	37	IBM T.J. Watson Research Center	null
+26	38	IBM T.J. Watson Research Center	null
+26	39	IBM T.J. Watson Research Center	null
+26	40	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+26	41	IBM T.J. Watson Research Center	National University of Defense Technology, Changsha
+26	42	IBM T.J. Watson Research Center	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+26	43	IBM T.J. Watson Research Center	null
+26	44	IBM T.J. Watson Research Center	null
+26	45	IBM T.J. Watson Research Center	IBM T. J. Watson Research Center, Hawthorne, NY
+26	46	IBM T.J. Watson Research Center	null
+27	28	IBM T.J. Watson Research Center	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.
+27	29	IBM T.J. Watson Research Center	null
+27	30	IBM T.J. Watson Research Center	Hunan University, China
+27	31	IBM T.J. Watson Research Center	Hunan University, China
+27	32	IBM T.J. Watson Research Center	null
+27	33	IBM T.J. Watson Research Center	null
+27	34	IBM T.J. Watson Research Center	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+27	35	IBM T.J. Watson Research Center	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+27	36	IBM T.J. Watson Research Center	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+27	37	IBM T.J. Watson Research Center	null
+27	38	IBM T.J. Watson Research Center	null
+27	39	IBM T.J. Watson Research Center	null
+27	40	IBM T.J. Watson Research Center	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+27	41	IBM T.J. Watson Research Center	National University of Defense Technology, Changsha
+27	42	IBM T.J. Watson Research Center	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+27	43	IBM T.J. Watson Research Center	null
+27	44	IBM T.J. Watson Research Center	null
+27	45	IBM T.J. Watson Research Center	IBM T. J. Watson Research Center, Hawthorne, NY
+27	46	IBM T.J. Watson Research Center	null
+28	29	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	30	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	Hunan University, China
+28	31	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	Hunan University, China
+28	32	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	33	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	34	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+28	35	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+28	36	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+28	37	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	38	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	39	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	40	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+28	41	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	National University of Defense Technology, Changsha
+28	42	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+28	43	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	44	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+28	45	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	IBM T. J. Watson Research Center, Hawthorne, NY
+28	46	Dept. of Electr. & Comput. Eng., Ryerson Univ., Toronto, Ont.	null
+29	30	null	Hunan University, China
+29	31	null	Hunan University, China
+29	32	null	null
+29	33	null	null
+29	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+29	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+29	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+29	37	null	null
+29	38	null	null
+29	39	null	null
+29	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+29	41	null	National University of Defense Technology, Changsha
+29	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+29	43	null	null
+29	44	null	null
+29	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+29	46	null	null
+30	31	Hunan University, China	Hunan University, China
+30	32	Hunan University, China	null
+30	33	Hunan University, China	null
+30	34	Hunan University, China	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+30	35	Hunan University, China	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+30	36	Hunan University, China	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+30	37	Hunan University, China	null
+30	38	Hunan University, China	null
+30	39	Hunan University, China	null
+30	40	Hunan University, China	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+30	41	Hunan University, China	National University of Defense Technology, Changsha
+30	42	Hunan University, China	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+30	43	Hunan University, China	null
+30	44	Hunan University, China	null
+30	45	Hunan University, China	IBM T. J. Watson Research Center, Hawthorne, NY
+30	46	Hunan University, China	null
+31	32	Hunan University, China	null
+31	33	Hunan University, China	null
+31	34	Hunan University, China	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+31	35	Hunan University, China	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+31	36	Hunan University, China	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+31	37	Hunan University, China	null
+31	38	Hunan University, China	null
+31	39	Hunan University, China	null
+31	40	Hunan University, China	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+31	41	Hunan University, China	National University of Defense Technology, Changsha
+31	42	Hunan University, China	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+31	43	Hunan University, China	null
+31	44	Hunan University, China	null
+31	45	Hunan University, China	IBM T. J. Watson Research Center, Hawthorne, NY
+31	46	Hunan University, China	null
+32	33	null	null
+32	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+32	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+32	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+32	37	null	null
+32	38	null	null
+32	39	null	null
+32	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+32	41	null	National University of Defense Technology, Changsha
+32	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+32	43	null	null
+32	44	null	null
+32	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+32	46	null	null
+33	34	null	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA
+33	35	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+33	36	null	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+33	37	null	null
+33	38	null	null
+33	39	null	null
+33	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+33	41	null	National University of Defense Technology, Changsha
+33	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+33	43	null	null
+33	44	null	null
+33	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+33	46	null	null
+34	35	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+34	36	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+34	37	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	null
+34	38	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	null
+34	39	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	null
+34	40	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+34	41	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	National University of Defense Technology, Changsha
+34	42	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+34	43	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	null
+34	44	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	null
+34	45	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+34	46	IBM Thomas J. Watson Res. Center, Hawthorne, NY, USA	null
+35	36	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.
+35	37	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+35	38	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+35	39	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+35	40	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+35	41	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	National University of Defense Technology, Changsha
+35	42	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+35	43	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+35	44	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+35	45	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	IBM T. J. Watson Research Center, Hawthorne, NY
+35	46	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+36	37	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+36	38	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+36	39	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+36	40	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+36	41	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	National University of Defense Technology, Changsha
+36	42	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+36	43	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+36	44	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+36	45	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	IBM T. J. Watson Research Center, Hawthorne, NY
+36	46	Dept. d'Inf. et de Recherche Oper., Montreal Univ., Que.	null
+37	38	null	null
+37	39	null	null
+37	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+37	41	null	National University of Defense Technology, Changsha
+37	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+37	43	null	null
+37	44	null	null
+37	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+37	46	null	null
+38	39	null	null
+38	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+38	41	null	National University of Defense Technology, Changsha
+38	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+38	43	null	null
+38	44	null	null
+38	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+38	46	null	null
+39	40	null	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA
+39	41	null	National University of Defense Technology, Changsha
+39	42	null	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+39	43	null	null
+39	44	null	null
+39	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+39	46	null	null
+40	41	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA	National University of Defense Technology, Changsha
+40	42	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+40	43	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA	null
+40	44	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA	null
+40	45	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA	IBM T. J. Watson Research Center, Hawthorne, NY
+40	46	IBM T.J. Watson Research Center, 19 Skyline Drive, 10532, Hawthorne, NY, USA	null
+41	42	National University of Defense Technology, Changsha	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China
+41	43	National University of Defense Technology, Changsha	null
+41	44	National University of Defense Technology, Changsha	null
+41	45	National University of Defense Technology, Changsha	IBM T. J. Watson Research Center, Hawthorne, NY
+41	46	National University of Defense Technology, Changsha	null
+42	43	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China	null
+42	44	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China	null
+42	45	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China	IBM T. J. Watson Research Center, Hawthorne, NY
+42	46	Dept. of Comput. Sci., LeShan Normal Univ., Leshan, China	null
+43	44	null	null
+43	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+43	46	null	null
+44	45	null	IBM T. J. Watson Research Center, Hawthorne, NY
+44	46	null	null
+45	46	IBM T. J. Watson Research Center, Hawthorne, NY	null

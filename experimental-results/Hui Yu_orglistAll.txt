@@ -1,0 +1,496 @@
+0	1	null	East China Normal University, Shanghai
+0	2	null	Fudan University, Shanghai, China
+0	3	null	Chongqing Institute of Technology
+0	4	null	Fac. of Archit., Southwest Jiaotong Univ., Chengdu
+0	5	null	null
+0	6	null	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083
+0	7	null	Center for Inf. Sci., Peking Univ., Beijing, China
+0	8	null	Coll. of Sci., Three Gorges Univ., Hubei
+0	9	null	Supercomput. Center, Comput. Network Inf. Center, Beijing
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+0	16	null	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+0	17	null	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+0	18	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+0	19	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+0	20	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+0	21	null	null
+0	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+0	23	null	null
+0	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+0	25	null	University of Texas at Dallas, Richardson
+0	26	null	null
+0	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+0	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+0	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+0	30	null	Northwestern Polytechnic University
+0	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+1	2	East China Normal University, Shanghai	Fudan University, Shanghai, China
+1	3	East China Normal University, Shanghai	Chongqing Institute of Technology
+1	4	East China Normal University, Shanghai	Fac. of Archit., Southwest Jiaotong Univ., Chengdu
+1	5	East China Normal University, Shanghai	null
+1	6	East China Normal University, Shanghai	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083
+1	7	East China Normal University, Shanghai	Center for Inf. Sci., Peking Univ., Beijing, China
+1	8	East China Normal University, Shanghai	Coll. of Sci., Three Gorges Univ., Hubei
+1	9	East China Normal University, Shanghai	Supercomput. Center, Comput. Network Inf. Center, Beijing
+1	10	East China Normal University, Shanghai	null
+1	11	East China Normal University, Shanghai	null
+1	12	East China Normal University, Shanghai	null
+1	13	East China Normal University, Shanghai	null
+1	14	East China Normal University, Shanghai	null
+1	15	East China Normal University, Shanghai	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+1	16	East China Normal University, Shanghai	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+1	17	East China Normal University, Shanghai	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+1	18	East China Normal University, Shanghai	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+1	19	East China Normal University, Shanghai	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+1	20	East China Normal University, Shanghai	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+1	21	East China Normal University, Shanghai	null
+1	22	East China Normal University, Shanghai	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+1	23	East China Normal University, Shanghai	null
+1	24	East China Normal University, Shanghai	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+1	25	East China Normal University, Shanghai	University of Texas at Dallas, Richardson
+1	26	East China Normal University, Shanghai	null
+1	27	East China Normal University, Shanghai	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+1	28	East China Normal University, Shanghai	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+1	29	East China Normal University, Shanghai	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+1	30	East China Normal University, Shanghai	Northwestern Polytechnic University
+1	31	East China Normal University, Shanghai	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+2	3	Fudan University, Shanghai, China	Chongqing Institute of Technology
+2	4	Fudan University, Shanghai, China	Fac. of Archit., Southwest Jiaotong Univ., Chengdu
+2	5	Fudan University, Shanghai, China	null
+2	6	Fudan University, Shanghai, China	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083
+2	7	Fudan University, Shanghai, China	Center for Inf. Sci., Peking Univ., Beijing, China
+2	8	Fudan University, Shanghai, China	Coll. of Sci., Three Gorges Univ., Hubei
+2	9	Fudan University, Shanghai, China	Supercomput. Center, Comput. Network Inf. Center, Beijing
+2	10	Fudan University, Shanghai, China	null
+2	11	Fudan University, Shanghai, China	null
+2	12	Fudan University, Shanghai, China	null
+2	13	Fudan University, Shanghai, China	null
+2	14	Fudan University, Shanghai, China	null
+2	15	Fudan University, Shanghai, China	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+2	16	Fudan University, Shanghai, China	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+2	17	Fudan University, Shanghai, China	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+2	18	Fudan University, Shanghai, China	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+2	19	Fudan University, Shanghai, China	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+2	20	Fudan University, Shanghai, China	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+2	21	Fudan University, Shanghai, China	null
+2	22	Fudan University, Shanghai, China	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+2	23	Fudan University, Shanghai, China	null
+2	24	Fudan University, Shanghai, China	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+2	25	Fudan University, Shanghai, China	University of Texas at Dallas, Richardson
+2	26	Fudan University, Shanghai, China	null
+2	27	Fudan University, Shanghai, China	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+2	28	Fudan University, Shanghai, China	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+2	29	Fudan University, Shanghai, China	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+2	30	Fudan University, Shanghai, China	Northwestern Polytechnic University
+2	31	Fudan University, Shanghai, China	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+3	4	Chongqing Institute of Technology	Fac. of Archit., Southwest Jiaotong Univ., Chengdu
+3	5	Chongqing Institute of Technology	null
+3	6	Chongqing Institute of Technology	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083
+3	7	Chongqing Institute of Technology	Center for Inf. Sci., Peking Univ., Beijing, China
+3	8	Chongqing Institute of Technology	Coll. of Sci., Three Gorges Univ., Hubei
+3	9	Chongqing Institute of Technology	Supercomput. Center, Comput. Network Inf. Center, Beijing
+3	10	Chongqing Institute of Technology	null
+3	11	Chongqing Institute of Technology	null
+3	12	Chongqing Institute of Technology	null
+3	13	Chongqing Institute of Technology	null
+3	14	Chongqing Institute of Technology	null
+3	15	Chongqing Institute of Technology	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+3	16	Chongqing Institute of Technology	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+3	17	Chongqing Institute of Technology	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+3	18	Chongqing Institute of Technology	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+3	19	Chongqing Institute of Technology	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+3	20	Chongqing Institute of Technology	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+3	21	Chongqing Institute of Technology	null
+3	22	Chongqing Institute of Technology	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+3	23	Chongqing Institute of Technology	null
+3	24	Chongqing Institute of Technology	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+3	25	Chongqing Institute of Technology	University of Texas at Dallas, Richardson
+3	26	Chongqing Institute of Technology	null
+3	27	Chongqing Institute of Technology	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+3	28	Chongqing Institute of Technology	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+3	29	Chongqing Institute of Technology	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+3	30	Chongqing Institute of Technology	Northwestern Polytechnic University
+3	31	Chongqing Institute of Technology	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+4	5	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	6	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083
+4	7	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Center for Inf. Sci., Peking Univ., Beijing, China
+4	8	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Coll. of Sci., Three Gorges Univ., Hubei
+4	9	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Supercomput. Center, Comput. Network Inf. Center, Beijing
+4	10	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	11	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	12	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	13	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	14	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	15	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+4	16	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+4	17	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+4	18	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+4	19	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+4	20	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+4	21	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	22	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+4	23	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	24	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+4	25	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	University of Texas at Dallas, Richardson
+4	26	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	null
+4	27	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+4	28	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+4	29	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+4	30	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Northwestern Polytechnic University
+4	31	Fac. of Archit., Southwest Jiaotong Univ., Chengdu	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+5	6	null	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083
+5	7	null	Center for Inf. Sci., Peking Univ., Beijing, China
+5	8	null	Coll. of Sci., Three Gorges Univ., Hubei
+5	9	null	Supercomput. Center, Comput. Network Inf. Center, Beijing
+5	10	null	null
+5	11	null	null
+5	12	null	null
+5	13	null	null
+5	14	null	null
+5	15	null	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+5	16	null	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+5	17	null	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+5	18	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+5	19	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+5	20	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+5	21	null	null
+5	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+5	23	null	null
+5	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+5	25	null	University of Texas at Dallas, Richardson
+5	26	null	null
+5	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+5	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+5	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+5	30	null	Northwestern Polytechnic University
+5	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+6	7	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Center for Inf. Sci., Peking Univ., Beijing, China
+6	8	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Coll. of Sci., Three Gorges Univ., Hubei
+6	9	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Supercomput. Center, Comput. Network Inf. Center, Beijing
+6	10	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	11	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	12	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	13	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	14	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	15	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+6	16	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+6	17	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+6	18	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+6	19	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+6	20	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+6	21	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	22	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+6	23	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	24	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+6	25	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	University of Texas at Dallas, Richardson
+6	26	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	null
+6	27	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+6	28	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+6	29	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+6	30	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Northwestern Polytechnic University
+6	31	Computer Engineering Program, University of Texas at Dallas, Richardson, TX 75083	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+7	8	Center for Inf. Sci., Peking Univ., Beijing, China	Coll. of Sci., Three Gorges Univ., Hubei
+7	9	Center for Inf. Sci., Peking Univ., Beijing, China	Supercomput. Center, Comput. Network Inf. Center, Beijing
+7	10	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	11	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	12	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	13	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	14	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	15	Center for Inf. Sci., Peking Univ., Beijing, China	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+7	16	Center for Inf. Sci., Peking Univ., Beijing, China	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+7	17	Center for Inf. Sci., Peking Univ., Beijing, China	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+7	18	Center for Inf. Sci., Peking Univ., Beijing, China	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+7	19	Center for Inf. Sci., Peking Univ., Beijing, China	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+7	20	Center for Inf. Sci., Peking Univ., Beijing, China	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+7	21	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	22	Center for Inf. Sci., Peking Univ., Beijing, China	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+7	23	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	24	Center for Inf. Sci., Peking Univ., Beijing, China	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+7	25	Center for Inf. Sci., Peking Univ., Beijing, China	University of Texas at Dallas, Richardson
+7	26	Center for Inf. Sci., Peking Univ., Beijing, China	null
+7	27	Center for Inf. Sci., Peking Univ., Beijing, China	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+7	28	Center for Inf. Sci., Peking Univ., Beijing, China	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+7	29	Center for Inf. Sci., Peking Univ., Beijing, China	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+7	30	Center for Inf. Sci., Peking Univ., Beijing, China	Northwestern Polytechnic University
+7	31	Center for Inf. Sci., Peking Univ., Beijing, China	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+8	9	Coll. of Sci., Three Gorges Univ., Hubei	Supercomput. Center, Comput. Network Inf. Center, Beijing
+8	10	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	11	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	12	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	13	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	14	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	15	Coll. of Sci., Three Gorges Univ., Hubei	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+8	16	Coll. of Sci., Three Gorges Univ., Hubei	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+8	17	Coll. of Sci., Three Gorges Univ., Hubei	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+8	18	Coll. of Sci., Three Gorges Univ., Hubei	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+8	19	Coll. of Sci., Three Gorges Univ., Hubei	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+8	20	Coll. of Sci., Three Gorges Univ., Hubei	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+8	21	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	22	Coll. of Sci., Three Gorges Univ., Hubei	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+8	23	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	24	Coll. of Sci., Three Gorges Univ., Hubei	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+8	25	Coll. of Sci., Three Gorges Univ., Hubei	University of Texas at Dallas, Richardson
+8	26	Coll. of Sci., Three Gorges Univ., Hubei	null
+8	27	Coll. of Sci., Three Gorges Univ., Hubei	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+8	28	Coll. of Sci., Three Gorges Univ., Hubei	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+8	29	Coll. of Sci., Three Gorges Univ., Hubei	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+8	30	Coll. of Sci., Three Gorges Univ., Hubei	Northwestern Polytechnic University
+8	31	Coll. of Sci., Three Gorges Univ., Hubei	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+9	10	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	11	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	12	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	13	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	14	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	15	Supercomput. Center, Comput. Network Inf. Center, Beijing	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+9	16	Supercomput. Center, Comput. Network Inf. Center, Beijing	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+9	17	Supercomput. Center, Comput. Network Inf. Center, Beijing	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+9	18	Supercomput. Center, Comput. Network Inf. Center, Beijing	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+9	19	Supercomput. Center, Comput. Network Inf. Center, Beijing	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+9	20	Supercomput. Center, Comput. Network Inf. Center, Beijing	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+9	21	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	22	Supercomput. Center, Comput. Network Inf. Center, Beijing	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+9	23	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	24	Supercomput. Center, Comput. Network Inf. Center, Beijing	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+9	25	Supercomput. Center, Comput. Network Inf. Center, Beijing	University of Texas at Dallas, Richardson
+9	26	Supercomput. Center, Comput. Network Inf. Center, Beijing	null
+9	27	Supercomput. Center, Comput. Network Inf. Center, Beijing	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+9	28	Supercomput. Center, Comput. Network Inf. Center, Beijing	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+9	29	Supercomput. Center, Comput. Network Inf. Center, Beijing	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+9	30	Supercomput. Center, Comput. Network Inf. Center, Beijing	Northwestern Polytechnic University
+9	31	Supercomput. Center, Comput. Network Inf. Center, Beijing	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+10	16	null	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+10	17	null	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+10	18	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+10	19	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+10	20	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+10	21	null	null
+10	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+10	23	null	null
+10	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+10	25	null	University of Texas at Dallas, Richardson
+10	26	null	null
+10	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+10	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+10	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+10	30	null	Northwestern Polytechnic University
+10	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+11	16	null	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+11	17	null	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+11	18	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+11	19	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+11	20	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+11	21	null	null
+11	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+11	23	null	null
+11	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+11	25	null	University of Texas at Dallas, Richardson
+11	26	null	null
+11	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+11	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+11	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+11	30	null	Northwestern Polytechnic University
+11	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+12	13	null	null
+12	14	null	null
+12	15	null	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+12	16	null	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+12	17	null	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+12	18	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+12	19	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+12	20	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+12	21	null	null
+12	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+12	23	null	null
+12	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+12	25	null	University of Texas at Dallas, Richardson
+12	26	null	null
+12	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+12	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+12	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+12	30	null	Northwestern Polytechnic University
+12	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+13	14	null	null
+13	15	null	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+13	16	null	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+13	17	null	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+13	18	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+13	19	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+13	20	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+13	21	null	null
+13	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+13	23	null	null
+13	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+13	25	null	University of Texas at Dallas, Richardson
+13	26	null	null
+13	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+13	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+13	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+13	30	null	Northwestern Polytechnic University
+13	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+14	15	null	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai
+14	16	null	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+14	17	null	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+14	18	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+14	19	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+14	20	null	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+14	21	null	null
+14	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+14	23	null	null
+14	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+14	25	null	University of Texas at Dallas, Richardson
+14	26	null	null
+14	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+14	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+14	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+14	30	null	Northwestern Polytechnic University
+14	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+15	16	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX
+15	17	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+15	18	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+15	19	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+15	20	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+15	21	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	null
+15	22	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+15	23	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	null
+15	24	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+15	25	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	University of Texas at Dallas, Richardson
+15	26	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	null
+15	27	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+15	28	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+15	29	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+15	30	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Northwestern Polytechnic University
+15	31	Inst. of Wireless Commun. Technol., Shanghai Jiao Tong Univ., Shanghai	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+16	17	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX
+16	18	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+16	19	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+16	20	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+16	21	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	null
+16	22	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+16	23	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	null
+16	24	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+16	25	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	University of Texas at Dallas, Richardson
+16	26	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	null
+16	27	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+16	28	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+16	29	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+16	30	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Northwestern Polytechnic University
+16	31	Comput. Eng. Program, Univ. of Texas at Dallas, Richardson, TX	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+17	18	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002
+17	19	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+17	20	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+17	21	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	null
+17	22	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+17	23	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	null
+17	24	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+17	25	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	University of Texas at Dallas, Richardson
+17	26	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	null
+17	27	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+17	28	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+17	29	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+17	30	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Northwestern Polytechnic University
+17	31	Program of Telecommun. Eng., Univ. of Texas at Dallas, Richardson, TX	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+18	19	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+18	20	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+18	21	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	null
+18	22	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+18	23	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	null
+18	24	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+18	25	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	University of Texas at Dallas, Richardson
+18	26	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	null
+18	27	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+18	28	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+18	29	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+18	30	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Northwestern Polytechnic University
+18	31	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, China 443002	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+19	20	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang
+19	21	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	null
+19	22	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+19	23	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	null
+19	24	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+19	25	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	University of Texas at Dallas, Richardson
+19	26	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	null
+19	27	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+19	28	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+19	29	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+19	30	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Northwestern Polytechnic University
+19	31	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+20	21	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	null
+20	22	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+20	23	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	null
+20	24	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+20	25	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	University of Texas at Dallas, Richardson
+20	26	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	null
+20	27	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+20	28	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+20	29	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+20	30	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Northwestern Polytechnic University
+20	31	Inst. of Nonlinear & Complex Syst., China Three Gorges Univ., Yichang	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+21	22	null	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002
+21	23	null	null
+21	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+21	25	null	University of Texas at Dallas, Richardson
+21	26	null	null
+21	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+21	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+21	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+21	30	null	Northwestern Polytechnic University
+21	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+22	23	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	null
+22	24	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+22	25	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	University of Texas at Dallas, Richardson
+22	26	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	null
+22	27	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+22	28	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+22	29	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+22	30	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	Northwestern Polytechnic University
+22	31	Institute of Nonlinear and Complex Systems, China Three Gorges University, Yichang, People's Republic of China 443002	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+23	24	null	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2
+23	25	null	University of Texas at Dallas, Richardson
+23	26	null	null
+23	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+23	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+23	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+23	30	null	Northwestern Polytechnic University
+23	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+24	25	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2	University of Texas at Dallas, Richardson
+24	26	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2	null
+24	27	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+24	28	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+24	29	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+24	30	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2	Northwestern Polytechnic University
+24	31	Environmental Systems Engineering Program, Faculty of Engineering, University of Regina, Regina, Saskatchewan, Canada S4S 0A2	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+25	26	University of Texas at Dallas, Richardson	null
+25	27	University of Texas at Dallas, Richardson	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+25	28	University of Texas at Dallas, Richardson	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+25	29	University of Texas at Dallas, Richardson	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+25	30	University of Texas at Dallas, Richardson	Northwestern Polytechnic University
+25	31	University of Texas at Dallas, Richardson	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+26	27	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+26	28	null	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+26	29	null	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+26	30	null	Northwestern Polytechnic University
+26	31	null	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+27	28	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China
+27	29	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+27	30	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China	Northwestern Polytechnic University
+27	31	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+28	29	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China
+28	30	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China	Northwestern Polytechnic University
+28	31	Dept. of Electron. Eng., Shanghai Jiao Tong Univ., Shanghai, China	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+29	30	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China	Northwestern Polytechnic University
+29	31	Inf. & Educ. Technol. Center, Foshan Univ., Foshan, China	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China
+30	31	Northwestern Polytechnic University	Inst. of Comput. & Commun. Eng., China Univ. of Pet., Dongying, China

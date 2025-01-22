@@ -1,0 +1,12 @@
+0	1	AIME	AIME
+4	5	BCEC	BCEC
+10	36	ICDAR	ICDAR
+13	14	KDD Workshop	KDD
+13	15	KDD Workshop	KDD
+13	16	KDD Workshop	KDD
+14	15	KDD	KDD
+14	16	KDD	KDD
+15	16	KDD	KDD
+17	18	Pacific Symposium on Biocomputing	Pacific Symposium on Biocomputing
+19	20	RSKD	RSKD
+27	35	Bioinformatics	Bioinformatics

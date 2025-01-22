@@ -1,0 +1,122 @@
+3	8	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu
+3	9	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu
+3	11	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	University of North Carolina at Chapel Hill
+3	12	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	Univ. of North Carolina, Chapel Hill
+3	13	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC
+3	40	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	Department of Computer Science, University of North Carolina at Chapel Hill,
+3	42	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+3	60	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	University of North Carolina at Chapel Hill
+6	18	Center for Signal Process., Nanyang Technol. Univ., Singapore	Labs. for Inf. Technol., Nanyang Technol. Univ., Singapore
+6	24	Center for Signal Process., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+6	33	Center for Signal Process., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore
+6	34	Center for Signal Process., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+8	9	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu
+8	11	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu	University of North Carolina at Chapel Hill
+8	12	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu	Univ. of North Carolina, Chapel Hill
+8	13	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC
+8	40	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu	Department of Computer Science, University of North Carolina at Chapel Hill,
+8	42	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+8	60	Department of Computer Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA. panfeng@cs.unc.edu	University of North Carolina at Chapel Hill
+9	11	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu	University of North Carolina at Chapel Hill
+9	12	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu	Univ. of North Carolina, Chapel Hill
+9	13	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC
+9	40	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu	Department of Computer Science, University of North Carolina at Chapel Hill,
+9	42	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+9	60	Department of Computer Science, University of North Carolina at Chapel Hill. panfeng@cs.unc.edu	University of North Carolina at Chapel Hill
+10	43	National University of Singapore	National University of Singapore
+11	12	University of North Carolina at Chapel Hill	Univ. of North Carolina, Chapel Hill
+11	13	University of North Carolina at Chapel Hill	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC
+11	40	University of North Carolina at Chapel Hill	Department of Computer Science, University of North Carolina at Chapel Hill,
+11	42	University of North Carolina at Chapel Hill	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+11	60	University of North Carolina at Chapel Hill	University of North Carolina at Chapel Hill
+12	13	Univ. of North Carolina, Chapel Hill	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC
+12	40	Univ. of North Carolina, Chapel Hill	Department of Computer Science, University of North Carolina at Chapel Hill,
+12	42	Univ. of North Carolina, Chapel Hill	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+12	60	Univ. of North Carolina, Chapel Hill	University of North Carolina at Chapel Hill
+13	40	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC	Department of Computer Science, University of North Carolina at Chapel Hill,
+13	42	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+13	60	Dept. of Comput. Sci., Univ. of North Carolina at Chapel Hill, Chapel Hill, NC	University of North Carolina at Chapel Hill
+18	24	Labs. for Inf. Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+18	33	Labs. for Inf. Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore
+18	34	Labs. for Inf. Technol., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+19	20	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore
+19	21	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore
+19	22	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+19	30	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+19	31	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+19	51	Inst. for Infocomm Res., Singapore	Media Div., Inst. for InfoComm Res., Singapore
+19	52	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore
+19	53	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+19	54	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+19	57	Inst. for Infocomm Res., Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+19	71	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+20	21	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore
+20	22	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+20	30	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+20	31	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+20	51	Inst. for Infocomm Res., Singapore	Media Div., Inst. for InfoComm Res., Singapore
+20	52	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore
+20	53	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+20	54	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+20	57	Inst. for Infocomm Res., Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+20	71	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+21	22	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+21	30	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+21	31	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+21	51	Inst. for Infocomm Res., Singapore	Media Div., Inst. for InfoComm Res., Singapore
+21	52	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore
+21	53	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+21	54	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+21	57	Inst. for Infocomm Res., Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+21	71	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+22	30	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+22	31	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+22	51	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for InfoComm Res., Singapore
+22	52	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore
+22	53	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+22	54	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+22	57	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+22	71	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+24	33	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore
+24	34	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+25	26	Dept. of Mech. & Ind. Eng., Marquette Univ., Milwaukee, WI, USA	Dept. of Mech. & Ind. Eng., Marquette Univ., Milwaukee, WI, USA
+27	44	University of Southern California	University of Southern California
+27	50	University of Southern California	University of Southern California
+28	29	North Carolina State University	North Carolina State University, Raleigh, NC
+28	55	North Carolina State University	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC
+29	55	North Carolina State University, Raleigh, NC	Dept. of Comput. Sci., North Carolina State Univ., Raleigh, NC
+30	31	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+30	51	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for InfoComm Res., Singapore
+30	52	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore
+30	53	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+30	54	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+30	57	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+30	71	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+31	51	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for InfoComm Res., Singapore
+31	52	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore
+31	53	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+31	54	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+31	57	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+31	71	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+33	34	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore, Singapore	Sch. of Electr. & Electron. Eng., Nanyang Technol. Univ., Singapore
+40	42	Department of Computer Science, University of North Carolina at Chapel Hill,	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+40	60	Department of Computer Science, University of North Carolina at Chapel Hill,	University of North Carolina at Chapel Hill
+42	60	University of North Carolina at Chapel Hill, Chapel Hill, NC, USA	University of North Carolina at Chapel Hill
+44	50	University of Southern California	University of Southern California
+47	48	Risk Analysis and Decision Support Systems, Los Alamos National Laboratory, Los Alamos, New Mexico 87545	D-6 Risk Analysis and Decision Support Systems, Los Alamos National Laboratory, Los Alamos, New Mexico 87545
+51	52	Media Div., Inst. for InfoComm Res., Singapore	Inst. for Infocomm Res., Singapore
+51	53	Media Div., Inst. for InfoComm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+51	54	Media Div., Inst. for InfoComm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+51	57	Media Div., Inst. for InfoComm Res., Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+51	71	Media Div., Inst. for InfoComm Res., Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+52	53	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+52	54	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., Singapore, Singapore
+52	57	Inst. for Infocomm Res., Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+52	71	Inst. for Infocomm Res., Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+53	54	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., Singapore, Singapore
+53	57	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+53	71	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+54	57	Inst. for Infocomm Res., Singapore, Singapore	Media Div., Inst. for Infocomm Res., Singapore, Singapore
+54	71	Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+57	71	Media Div., Inst. for Infocomm Res., Singapore, Singapore	Inst. for Infocomm Res., A-STAR, Singapore
+62	63	Department of Automatic Control, Beijing Institute of Technology, Beijing, China	Beijing Institute of Technology, Beijing, China

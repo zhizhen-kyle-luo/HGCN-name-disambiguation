@@ -1,0 +1,115 @@
+2	3	Discovery Science	Discovery Science
+2	4	Discovery Science	Discovery Science
+3	4	Discovery Science	Discovery Science
+7	8	FGCS	FGCS
+7	9	FGCS	FGCS
+7	10	FGCS	FGCS
+7	11	FGCS	FGCS
+8	9	FGCS	FGCS
+8	10	FGCS	FGCS
+8	11	FGCS	FGCS
+9	10	FGCS	FGCS
+9	11	FGCS	FGCS
+10	11	FGCS	FGCS
+14	15	ICLP	ICLP/SLP
+14	16	ICLP	ICLP
+14	17	ICLP	ICLP
+14	18	ICLP	ICLP
+14	19	ICLP	ICLP
+14	20	ICLP	ICLP
+15	16	ICLP/SLP	ICLP
+15	17	ICLP/SLP	ICLP
+15	18	ICLP/SLP	ICLP
+15	19	ICLP/SLP	ICLP
+15	20	ICLP/SLP	ICLP
+15	41	ICLP/SLP	SLP
+15	42	ICLP/SLP	SLP
+15	43	ICLP/SLP	SLP
+16	17	ICLP	ICLP
+16	18	ICLP	ICLP
+16	19	ICLP	ICLP
+16	20	ICLP	ICLP
+17	18	ICLP	ICLP
+17	19	ICLP	ICLP
+17	20	ICLP	ICLP
+18	19	ICLP	ICLP
+18	20	ICLP	ICLP
+19	20	ICLP	ICLP
+22	23	IFIP Congress	IFIP Congress
+22	24	IFIP Congress	IFIP Congress
+23	24	IFIP Congress	IFIP Congress
+25	26	IJCAI	IJCAI
+28	30	ILP	ILP
+28	31	ILP	ILP
+30	31	ILP	ILP
+41	42	SLP	SLP
+41	43	SLP	SLP
+42	43	SLP	SLP
+48	49	Commun. ACM	Commun. ACM
+51	52	Electron. Trans. Artif. Intell.	Electron. Trans. Artif. Intell.
+54	55	New Generation Comput.	New Generation Comput.
+54	56	New Generation Comput.	New Generation Comput.
+54	57	New Generation Comput.	New Generation Comput.
+54	58	New Generation Comput.	New Generation Comput.
+54	59	New Generation Comput.	New Generation Comput.
+54	60	New Generation Comput.	New Generation Comput.
+54	61	New Generation Comput.	New Generation Comput.
+54	62	New Generation Comput.	New Generation Comput.
+54	63	New Generation Comput.	New Generation Comput.
+54	64	New Generation Comput.	New Generation Comput.
+54	65	New Generation Comput.	New Generation Comput.
+55	56	New Generation Comput.	New Generation Comput.
+55	57	New Generation Comput.	New Generation Comput.
+55	58	New Generation Comput.	New Generation Comput.
+55	59	New Generation Comput.	New Generation Comput.
+55	60	New Generation Comput.	New Generation Comput.
+55	61	New Generation Comput.	New Generation Comput.
+55	62	New Generation Comput.	New Generation Comput.
+55	63	New Generation Comput.	New Generation Comput.
+55	64	New Generation Comput.	New Generation Comput.
+55	65	New Generation Comput.	New Generation Comput.
+56	57	New Generation Comput.	New Generation Comput.
+56	58	New Generation Comput.	New Generation Comput.
+56	59	New Generation Comput.	New Generation Comput.
+56	60	New Generation Comput.	New Generation Comput.
+56	61	New Generation Comput.	New Generation Comput.
+56	62	New Generation Comput.	New Generation Comput.
+56	63	New Generation Comput.	New Generation Comput.
+56	64	New Generation Comput.	New Generation Comput.
+56	65	New Generation Comput.	New Generation Comput.
+57	58	New Generation Comput.	New Generation Comput.
+57	59	New Generation Comput.	New Generation Comput.
+57	60	New Generation Comput.	New Generation Comput.
+57	61	New Generation Comput.	New Generation Comput.
+57	62	New Generation Comput.	New Generation Comput.
+57	63	New Generation Comput.	New Generation Comput.
+57	64	New Generation Comput.	New Generation Comput.
+57	65	New Generation Comput.	New Generation Comput.
+58	59	New Generation Comput.	New Generation Comput.
+58	60	New Generation Comput.	New Generation Comput.
+58	61	New Generation Comput.	New Generation Comput.
+58	62	New Generation Comput.	New Generation Comput.
+58	63	New Generation Comput.	New Generation Comput.
+58	64	New Generation Comput.	New Generation Comput.
+58	65	New Generation Comput.	New Generation Comput.
+59	60	New Generation Comput.	New Generation Comput.
+59	61	New Generation Comput.	New Generation Comput.
+59	62	New Generation Comput.	New Generation Comput.
+59	63	New Generation Comput.	New Generation Comput.
+59	64	New Generation Comput.	New Generation Comput.
+59	65	New Generation Comput.	New Generation Comput.
+60	61	New Generation Comput.	New Generation Comput.
+60	62	New Generation Comput.	New Generation Comput.
+60	63	New Generation Comput.	New Generation Comput.
+60	64	New Generation Comput.	New Generation Comput.
+60	65	New Generation Comput.	New Generation Comput.
+61	62	New Generation Comput.	New Generation Comput.
+61	63	New Generation Comput.	New Generation Comput.
+61	64	New Generation Comput.	New Generation Comput.
+61	65	New Generation Comput.	New Generation Comput.
+62	63	New Generation Comput.	New Generation Comput.
+62	64	New Generation Comput.	New Generation Comput.
+62	65	New Generation Comput.	New Generation Comput.
+63	64	New Generation Comput.	New Generation Comput.
+63	65	New Generation Comput.	New Generation Comput.
+64	65	New Generation Comput.	New Generation Comput.

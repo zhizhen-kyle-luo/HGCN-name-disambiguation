@@ -1,0 +1,37 @@
+0	CODES+ISSS
+1	DAC
+2	DAC
+3	DATE
+4	DATE
+5	DATE
+6	ICB
+7	ICBA
+8	ICCAD
+9	ICPR (4)
+10	ICPR (4)
+11	ITC
+12	ITC
+13	IWBRS
+14	SINOBIOMETRICS
+15	SINOBIOMETRICS
+16	SINOBIOMETRICS
+17	VLSI Design
+18	VTS
+19	CoRR
+20	CoRR
+21	IEEE Design  Test of Computers
+22	JETC
+23	JETC
+24	JETC
+25	IEEE Trans. on CAD of Integrated Circuits and Systems
+26	IEEE Trans. on CAD of Integrated Circuits and Systems
+27	ACM Trans. Design Autom. Electr. Syst.
+28	ACM Trans. Design Autom. Electr. Syst.
+29	Microelectronics Reliability
+30	J. Electronic Testing
+31	J. Electronic Testing
+32	ICB
+33	ICIC (1)
+34	IAS
+35	null
+36	Proceedings of the International Multi-Conference on Computing in the Global Information Technology

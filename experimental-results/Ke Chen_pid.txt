@@ -1,0 +1,107 @@
+65379	Optimal Search Model for Combined Strategy in Sequence Alignment
+93660	Prediction of the Number of Helices for the Twilight Zone Proteins
+93688	Optimization of the Sliding Window Size for Protein Structure Prediction
+110835	How to play a coloring game against a color-blind adversary
+110838	The orienteering problem in the plane revisited
+122403	Securely Sharing Data in Encrypted Databases
+122463	A Database Encryption Scheme for Enhanced Security and Easy Sharing
+122566	Resilient Rights Protection for Product Data
+122627	An Architecture Approach to Dynamic Policy in RBAC
+122667	A Fractal Watermark Solution for Product Data
+274279	Speaker Modeling with Various Speech Representations
+302250	Efficient Processing of Warping Time Series Join of Motion Capture Data
+314190	MATLAB Simulation of Gradient-Based Neural Network for Online Matrix Inversion
+314339	MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Online Solution of Linear Time-Varying Matrix Equation AXB-C=0
+314341	Zhang Neural Network Versus Gradient Neural Network for Online Time-Varying Quadratic Function Minimization
+337510	Boosting Input/Output Hidden Markov Models for Sequence Classification
+351455	Systematic Generation of Assembly Precedence Graphs
+371768	Personalized News Reading via Hybrid Learning
+373722	A Model-Directed Image Understanding System for Computer Vision
+392519	Capture Inter-Speaker Information with a Neural Network for Speaker Identification
+392893	Ensemble Learning with Active Data Selection for Semi-Supervised Pattern Classification
+393455	An Ensemble of Competitive Learning Networks with Different Representations for Temporal Data Clustering
+394407	A simplified LVI-based primal-dual neural network for repetitive motion planning of PA10 robot manipulator starting from different initial states
+394458	Zhang neural network without using time-derivative information for constant and time-varying matrix inversion
+443758	MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Time-Varying Lyapunov Equation Solving
+504727	Universal Background Models for Real-time Speaker Change Detection
+515146	Perceiving without Learning: From Spirals to Inside/Outside Relations
+517944	Regularized Boost for Semi-Supervised Learning
+610207	On k-Median clustering in high dimensions
+611527	A constant factor approximation algorithm for k-median clustering with outliers
+651887	An Immunity-Based Intrusion Detection Solution for Database Systems
+651889	Watermarking Abstract Tree-Structured Data
+651890	GARWM: Towards a Generalized and Adaptive Watermark Scheme for Relational Data
+654035	Cost-Aware Caching Algorithms for Distributed Storage Servers
+713026	An Empirical Study on Improving the Manufacturing Informatization Index System of China
+713147	The Data Mining Technology Based on CIMS and its Application on Automotive Remanufacturing
+735735	Common Nature of Learning Exemplified by BP and Hopfield Neural Networks for Solving Online a System of Linear Equations
+735922	MATLAB Simulink Modeling and Simulation of Zhang Neural Network for Online Time-Varying Matrix Inversion
+767249	PFRES: protein fold classification by using evolutionary information and predicted secondary structure
+767954	Accurate sequence-based prediction of catalytic residues
+810979	Efficient parallelization of the iterative solution of a coupled fluid-structure interaction problem
+906412	On a Recursive Schur Preconditioner for Iterative Solution of a Class of Dense Matrix Problems
+906471	New wavelet preconditioner for solving boundary integral equations over nonsmooth boundaries
+906482	An efficient preconditioned iterative solver for solving a coupled fluid structure interaction problem
+906655	An improved and accelerated non-linear multigrid method for total-variation denoising
+906967	Preconditioning and convergence in the right norm
+907044	Fast iterative and preconditioning methods for linear and non-linear systems
+914539	A Modular Neural Network Architecture for Pattern Classification Based on Different Feature Sets
+915552	A method of combining multiple probabilistic classifiers through soft competition on different feature sets
+915586	A self-generating modular neural network architecture for supervised learning
+918209	MATLAB Simulink modeling and simulation of LVI-based primal-dual neural network for solving linear and quadratic programs
+918814	Methods of Combining Multiple Classifiers with Different Features and Their Applications to Text-Independent Speaker Identification
+965180	Prediction of protein structural class using novel evolutionary collocation-based sequence representation
+965315	Prediction of integral membrane protein type by collocated hydrophobic amino acid pairs
+995315	A Nonlinear Multigrid Method for Total Variation Minimization from Image Restoration
+1021596	Combining Linear Discriminant Functions with Neural Networks for Supervised Learning
+1026117	A dynamically coupled neural oscillator network for image segmentation
+1026118	Improved learning algorithms for mixture of experts in multiclass classification
+1028101	Text-Dependent Speaker Identification Based on Input/Output HMMs: An Empirical Study
+1030533	Flexible parallelization of fast wavelet transforms
+1031308	Adaptive Smoothing via Contextual and Local Discontinuities
+1034283	Parallel algorithms of the Purcell method for direct solution of linear systems
+1038760	Towards better making a decision in speaker verification
+1044151	A connectionist method for pattern classification with diverse features
+1044178	On the use of nearest feature line for speaker identification
+1060746	Online Conflict-Free Coloring for Intervals
+1060819	The Euclidean Orienteering Problem Revisited
+1077417	Online conflict-free coloring for halfplanes, congruent disks, and axis-parallel rectangles
+1100135	Hbm infty Fuzzy Filtering of Nonlinear Systems With Intermittent Measurements
+1103071	On Two Multigrid Algorithms for Modeling Variational Multiphase Image Segmentation
+1126452	Heuristic Discovery of Role-Based Trust Chains in Peer-to-Peer Networks
+1130811	On the use of different speech representations for speaker modeling
+1164122	An Implicit Wavelet Sparse Approximate Inverse Preconditioner
+1164503	Fast Multilevel Algorithm for a Minimization Problem in Impulse Noise Removal
+1194953	On Adapting Test Function Methods for Fast Detection of fold bifurcations in Power Systems
+1200937	Trends in Neural Computation
+1201144	Combining Competitive Learning Networks of Various Representations for Sequential Data Clustering
+1221014	Sequence based residue depth prediction using evolutionary information and predicted secondary structure
+1221114	SCPRED: Accurate prediction of protein structural class for sequences of twilight-zone similarity with predicting sequences
+1226680	Erratum to 'Adaptive Smoothing via Contextual and Local Discontinuities
+1227262	Repetitive motion of redundant robots planned by three kinds of recurrent neural networks and illustrated with a four-link planar manipulator's straight-line example
+1234471	Trends in Neural Computation
+1283822	Global exponential convergence and stability of gradient-based neural network for online matrix inversion
+1292237	HuMiTar: A sequence-based method for prediction of human microRNA targets
+1301111	Trends in Neural Computation
+1304542	An adaptive load balancing framework for parallel database systems based on collaborative agents.
+1304653	A logical replication-based intrusion detection approach for CSCW system.
+1305253	Efficient Holistic Twig Join Algorithm on XML Documents with Optimization Rules and Index.
+1327441	OTJFast: Processing Ordered XML Twig Join Fast.
+1330851	Boundary-Based Feature Extraction and Recognition of Breast Tumors Using Support Vector Machine.
+1341458	On Coresets for k-Median and k-Means Clustering in Metric and Euclidean Spaces and Their Applications.
+1351945	Trends in Neural Computation (Studies in Computational Intelligence)
+1360157	Advances in Natural Computation: First International Conference, ICNC 2005, Changsha, China, August 27-29, 2005, Proceedings, Part I (Lecture Notes in ... Science) (Lecture Notes in Computer Science)
+1371515	UBM-based incremental speaker adaptation
+1380860	Multilevel algorithm for a Poisson noise removal model with total-variation regularization
+1387029	Application research of an LFB management and development model in ForCES router
+1391625	An efficient method for evaluating the integral of a class of highly oscillatory functions
+1423544	On efficient preconditioners for iterative solution of a Galerkin boundary element equation for the three-dimensional exterior Helmholtz problem
+1433788	Bonding of Cu-based high aspect ratio microscale structures with Sn intermediate layers
+1518850	An Analysis of Sparse Approximate Inverse Preconditioners for Boundary Integral Equations
+1523441	On Two Variants of an Algebraic Wavelet Preconditioner
+1553450	On a Class of Preconditioning Methods for Dense Linear Systems from Boundary Elements
+1554737	Perceiving without learning: from spirals to inside/outside relations
+1590557	MATLAB Simulation and Comparison of Zhang Neural Network and Gradient Neural Network for Online Solution of Linear Time-Varying Matrix Equation AXB - C = 0
+1610134	Efficient parallelization of the iterative solution of a coupled fluid&ndash;structure interaction problem: Research Articles
+1610658	Online Conflict-Free Coloring for Intervals
+1752154	Simulink Modeling and Comparison of Zhang Neural Networks and Gradient Neural Networks for Time-Varying Lyapunov Equation Solving

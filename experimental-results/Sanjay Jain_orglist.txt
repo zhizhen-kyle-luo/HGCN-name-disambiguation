@@ -1,0 +1,914 @@
+31	32	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+31	34	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590
+31	35	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543
+31	36	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore
+31	103	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590
+31	112	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+31	113	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg
+31	120	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+31	121	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, 119260 Singapore
+31	122	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+31	123	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+31	124	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+31	131	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+31	132	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+31	133	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+31	134	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+31	135	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+31	144	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590
+31	148	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+31	155	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+31	160	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+31	161	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+31	162	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+31	177	School of Computing, National University of Singapore, 117590, Singapore	Univ. of Singapore, Singapore
+31	178	School of Computing, National University of Singapore, 117590, Singapore	National Univ. of Singapore, Singapore
+31	179	School of Computing, National University of Singapore, 117590, Singapore	National Univ. of Singapore, Singapore
+31	184	School of Computing, National University of Singapore, 117590, Singapore	National Univ. of Singapore, Singapore, Singapore
+31	185	School of Computing, National University of Singapore, 117590, Singapore	National Univ. of Singapore, Singapore
+31	187	School of Computing, National University of Singapore, 117590, Singapore	National Univ. of Singapore, Singapore
+31	188	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+31	189	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+31	192	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+31	194	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+31	195	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+31	196	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+31	197	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+31	198	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+31	200	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+31	204	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+31	205	School of Computing, National University of Singapore, 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417
+31	207	School of Computing, National University of Singapore, 117590, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+31	213	School of Computing, National University of Singapore, 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+32	34	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590
+32	35	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543
+32	36	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore
+32	103	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590
+32	112	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+32	113	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg
+32	120	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+32	122	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+32	123	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+32	124	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+32	131	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+32	132	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+32	133	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+32	134	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+32	135	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+32	144	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590
+32	148	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+32	155	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+32	160	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+32	161	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+32	162	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+32	177	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Univ. of Singapore, Singapore
+32	178	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+32	179	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+32	184	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+32	185	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+32	187	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+32	188	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+32	189	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+32	192	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+32	194	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+32	195	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+32	196	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+32	197	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+32	198	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+32	200	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+32	204	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+32	207	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+32	213	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+34	35	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543
+34	36	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore
+34	103	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590
+34	112	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+34	113	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg
+34	120	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore, Singapore
+34	121	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 119260 Singapore
+34	122	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+34	123	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+34	124	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+34	131	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+34	132	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+34	133	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+34	134	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+34	135	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+34	144	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590
+34	148	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+34	155	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+34	160	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+34	161	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+34	162	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117543, Singapore
+34	177	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Univ. of Singapore, Singapore
+34	178	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+34	179	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+34	184	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore, Singapore
+34	185	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+34	187	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+34	188	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+34	189	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+34	192	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore, Singapore
+34	194	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+34	195	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+34	196	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+34	197	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+34	198	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+34	200	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117417, Singapore
+34	204	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+34	205	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117417
+34	207	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+34	213	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+35	36	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore
+35	103	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590
+35	112	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+35	113	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg
+35	120	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore, Singapore
+35	121	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, 119260 Singapore
+35	122	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+35	123	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 119260, Singapore
+35	124	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+35	131	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+35	132	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+35	133	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+35	134	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590, Singapore
+35	135	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590, Singapore
+35	144	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590
+35	148	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+35	155	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+35	160	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 119260, Singapore
+35	161	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+35	162	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117543, Singapore
+35	177	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Univ. of Singapore, Singapore
+35	178	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	National Univ. of Singapore, Singapore
+35	179	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	National Univ. of Singapore, Singapore
+35	184	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	National Univ. of Singapore, Singapore, Singapore
+35	185	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	National Univ. of Singapore, Singapore
+35	187	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	National Univ. of Singapore, Singapore
+35	188	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+35	189	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 119260, Singapore
+35	192	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore, Singapore
+35	194	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590, Singapore
+35	195	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590, Singapore
+35	196	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590, Singapore
+35	197	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+35	198	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+35	200	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117417, Singapore
+35	204	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+35	205	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	School of Computing, National University of Singapore, Singapore 117417
+35	207	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+35	213	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117543	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+36	103	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590
+36	112	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+36	113	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg
+36	120	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+36	122	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+36	123	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+36	124	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+36	131	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+36	132	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+36	133	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+36	134	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+36	135	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+36	148	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+36	155	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+36	160	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+36	161	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+36	162	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+36	177	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	Univ. of Singapore, Singapore
+36	178	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+36	179	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+36	184	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+36	185	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+36	187	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+36	188	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+36	189	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+36	192	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+36	194	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+36	195	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+36	196	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+36	197	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+36	198	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+36	200	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+36	204	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+36	207	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+36	213	Department of Computer Science, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+76	85	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075	Gintic Institute of Manufacturing Technology, SINGAPORE 638075
+76	87	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075
+76	93	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075
+85	87	Gintic Institute of Manufacturing Technology, SINGAPORE 638075	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075
+85	89	Gintic Institute of Manufacturing Technology, SINGAPORE 638075	Gintic Institute of Manufacturing Technology
+85	93	Gintic Institute of Manufacturing Technology, SINGAPORE 638075	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075
+87	93	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075	Gintic Institute of Manufacturing Technology, 71 Nanyang Drive, Singapore 638075
+90	94	Virginia Polytechnic Institute and State University, Alexandria, VA	Virginia Polytechnic Institute and State University, Falls Church, VA
+92	95	The George Washington University, NW Washington, DC	The George Washington University, Washington, DC
+92	98	The George Washington University, NW Washington, DC	The George Washington University, Funger Hall, Washington, DC
+92	100	The George Washington University, NW Washington, DC	The George Washington University, Washington, DC
+92	102	The George Washington University, NW Washington, DC	The George Washington University, Washington, DC
+95	98	The George Washington University, Washington, DC	The George Washington University, Funger Hall, Washington, DC
+95	100	The George Washington University, Washington, DC	The George Washington University, Washington, DC
+95	102	The George Washington University, Washington, DC	The George Washington University, Washington, DC
+98	100	The George Washington University, Funger Hall, Washington, DC	The George Washington University, Washington, DC
+98	102	The George Washington University, Funger Hall, Washington, DC	The George Washington University, Washington, DC
+100	102	The George Washington University, Washington, DC	The George Washington University, Washington, DC
+103	112	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+103	113	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg
+103	120	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore, Singapore
+103	121	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 119260 Singapore
+103	122	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+103	123	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+103	124	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+103	131	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+103	132	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+103	133	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+103	134	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+103	135	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+103	144	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590
+103	148	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+103	155	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+103	160	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+103	161	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+103	162	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117543, Singapore
+103	177	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Univ. of Singapore, Singapore
+103	178	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+103	179	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+103	184	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore, Singapore
+103	185	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+103	187	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National Univ. of Singapore, Singapore
+103	188	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+103	189	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+103	192	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore, Singapore
+103	194	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+103	195	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+103	196	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+103	197	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+103	198	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+103	200	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117417, Singapore
+103	204	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+103	205	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	School of Computing, National University of Singapore, Singapore 117417
+103	207	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+103	213	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117590	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+112	113	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg
+112	120	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+112	121	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, 119260 Singapore
+112	122	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+112	123	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+112	124	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+112	131	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+112	132	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+112	133	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+112	134	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+112	135	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+112	144	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590
+112	148	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+112	155	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+112	160	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+112	161	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+112	162	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+112	177	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Univ. of Singapore, Singapore
+112	178	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	National Univ. of Singapore, Singapore
+112	179	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	National Univ. of Singapore, Singapore
+112	184	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+112	185	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	National Univ. of Singapore, Singapore
+112	187	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	National Univ. of Singapore, Singapore
+112	188	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+112	189	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+112	192	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+112	194	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+112	195	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+112	196	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+112	197	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+112	198	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+112	200	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+112	204	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+112	205	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417
+112	207	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+112	213	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+113	120	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore, Singapore
+113	121	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, 119260 Singapore
+113	122	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+113	123	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 119260, Singapore
+113	124	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+113	131	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+113	132	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+113	133	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+113	134	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117590, Singapore
+113	135	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117590, Singapore
+113	144	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117590
+113	148	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+113	155	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+113	160	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 119260, Singapore
+113	161	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+113	162	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117543, Singapore
+113	177	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	Univ. of Singapore, Singapore
+113	178	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	National Univ. of Singapore, Singapore
+113	179	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	National Univ. of Singapore, Singapore
+113	184	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	National Univ. of Singapore, Singapore, Singapore
+113	185	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	National Univ. of Singapore, Singapore
+113	187	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	National Univ. of Singapore, Singapore
+113	188	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+113	189	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 119260, Singapore
+113	192	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore, Singapore
+113	194	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117590, Singapore
+113	195	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117590, Singapore
+113	196	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117590, Singapore
+113	197	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+113	198	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+113	200	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117417, Singapore
+113	204	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+113	205	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	School of Computing, National University of Singapore, Singapore 117417
+113	207	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+113	213	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore. E-mails: sanjay@comp.nus.edu.sg; g0701171@nus.edu.sg	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+120	121	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, 119260 Singapore
+120	122	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+120	123	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+120	124	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+120	131	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+120	132	School of Computing, National University of Singapore, Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+120	133	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+120	134	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+120	135	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+120	144	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590
+120	148	School of Computing, National University of Singapore, Singapore, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+120	155	School of Computing, National University of Singapore, Singapore, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+120	160	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+120	161	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+120	162	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+120	177	School of Computing, National University of Singapore, Singapore, Singapore	Univ. of Singapore, Singapore
+120	178	School of Computing, National University of Singapore, Singapore, Singapore	National Univ. of Singapore, Singapore
+120	179	School of Computing, National University of Singapore, Singapore, Singapore	National Univ. of Singapore, Singapore
+120	184	School of Computing, National University of Singapore, Singapore, Singapore	National Univ. of Singapore, Singapore, Singapore
+120	185	School of Computing, National University of Singapore, Singapore, Singapore	National Univ. of Singapore, Singapore
+120	187	School of Computing, National University of Singapore, Singapore, Singapore	National Univ. of Singapore, Singapore
+120	188	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+120	189	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+120	192	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+120	194	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+120	195	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+120	196	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+120	197	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+120	198	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+120	200	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+120	204	School of Computing, National University of Singapore, Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+120	205	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+120	207	School of Computing, National University of Singapore, Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+120	213	School of Computing, National University of Singapore, Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+121	122	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+121	123	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+121	124	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+121	131	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+121	133	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+121	134	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+121	135	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+121	144	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117590
+121	148	School of Computing, National University of Singapore, 119260 Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+121	155	School of Computing, National University of Singapore, 119260 Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+121	160	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+121	161	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+121	162	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+121	177	School of Computing, National University of Singapore, 119260 Singapore	Univ. of Singapore, Singapore
+121	178	School of Computing, National University of Singapore, 119260 Singapore	National Univ. of Singapore, Singapore
+121	179	School of Computing, National University of Singapore, 119260 Singapore	National Univ. of Singapore, Singapore
+121	184	School of Computing, National University of Singapore, 119260 Singapore	National Univ. of Singapore, Singapore, Singapore
+121	185	School of Computing, National University of Singapore, 119260 Singapore	National Univ. of Singapore, Singapore
+121	187	School of Computing, National University of Singapore, 119260 Singapore	National Univ. of Singapore, Singapore
+121	188	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+121	189	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+121	192	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+121	194	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+121	195	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+121	196	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+121	197	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+121	198	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+121	200	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+121	204	School of Computing, National University of Singapore, 119260 Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+121	205	School of Computing, National University of Singapore, 119260 Singapore	School of Computing, National University of Singapore, Singapore 117417
+121	207	School of Computing, National University of Singapore, 119260 Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+121	213	School of Computing, National University of Singapore, 119260 Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+122	123	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+122	124	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+122	131	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+122	132	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+122	133	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+122	134	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+122	135	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+122	144	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590
+122	148	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+122	155	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+122	160	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+122	161	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+122	162	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+122	177	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Univ. of Singapore, Singapore
+122	178	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+122	179	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+122	184	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore, Singapore
+122	185	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+122	187	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+122	188	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+122	189	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+122	192	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+122	194	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+122	195	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+122	196	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+122	197	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+122	198	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+122	200	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+122	204	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+122	205	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417
+122	207	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+122	213	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+123	124	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+123	131	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+123	132	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+123	133	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+123	134	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+123	135	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+123	144	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590
+123	148	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+123	155	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+123	160	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+123	161	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+123	162	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+123	177	School of Computing, National University of Singapore, Singapore 119260, Singapore	Univ. of Singapore, Singapore
+123	178	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+123	179	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+123	184	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore, Singapore
+123	185	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+123	187	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+123	188	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+123	189	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+123	192	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+123	194	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+123	195	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+123	196	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+123	197	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+123	198	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+123	200	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+123	204	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+123	205	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417
+123	207	School of Computing, National University of Singapore, Singapore 119260, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+123	213	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+124	131	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore, Republic of Singapore
+124	132	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+124	133	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+124	134	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+124	135	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+124	144	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590
+124	148	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+124	155	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+124	160	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+124	161	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+124	162	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+124	177	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Univ. of Singapore, Singapore
+124	178	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+124	179	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+124	184	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore, Singapore
+124	185	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+124	187	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+124	188	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+124	189	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+124	192	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+124	194	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+124	195	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+124	196	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+124	197	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+124	198	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+124	200	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+124	204	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+124	205	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417
+124	207	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+124	213	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+131	132	School of Computing, National University of Singapore, Singapore, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore
+131	133	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+131	134	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+131	135	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+131	144	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590
+131	148	School of Computing, National University of Singapore, Singapore, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+131	155	School of Computing, National University of Singapore, Singapore, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+131	160	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+131	161	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+131	162	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+131	177	School of Computing, National University of Singapore, Singapore, Republic of Singapore	Univ. of Singapore, Singapore
+131	178	School of Computing, National University of Singapore, Singapore, Republic of Singapore	National Univ. of Singapore, Singapore
+131	179	School of Computing, National University of Singapore, Singapore, Republic of Singapore	National Univ. of Singapore, Singapore
+131	184	School of Computing, National University of Singapore, Singapore, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+131	185	School of Computing, National University of Singapore, Singapore, Republic of Singapore	National Univ. of Singapore, Singapore
+131	187	School of Computing, National University of Singapore, Singapore, Republic of Singapore	National Univ. of Singapore, Singapore
+131	188	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+131	189	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+131	192	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+131	194	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+131	195	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+131	196	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+131	197	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+131	198	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+131	200	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+131	204	School of Computing, National University of Singapore, Singapore, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+131	205	School of Computing, National University of Singapore, Singapore, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417
+131	207	School of Computing, National University of Singapore, Singapore, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+131	213	School of Computing, National University of Singapore, Singapore, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+132	133	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+132	134	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+132	135	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+132	144	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590
+132	148	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+132	155	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+132	160	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+132	161	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+132	162	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+132	177	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Univ. of Singapore, Singapore
+132	178	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+132	179	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+132	184	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+132	185	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+132	187	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National Univ. of Singapore, Singapore
+132	188	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+132	189	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+132	192	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+132	194	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+132	195	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+132	196	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+132	197	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+132	198	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+132	200	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+132	204	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+132	207	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+132	213	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+133	134	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+133	135	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+133	144	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590
+133	148	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+133	155	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+133	160	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+133	161	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+133	162	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+133	177	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Univ. of Singapore, Singapore
+133	178	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+133	179	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+133	184	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+133	185	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+133	187	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+133	188	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+133	189	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+133	192	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+133	194	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+133	195	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+133	196	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+133	197	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+133	198	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+133	200	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+133	204	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+133	205	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417
+133	207	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+133	213	School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+134	135	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+134	144	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590
+134	148	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+134	155	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+134	160	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+134	161	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+134	162	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+134	177	School of Computing, National University of Singapore, Singapore 117590, Singapore	Univ. of Singapore, Singapore
+134	178	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+134	179	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+134	184	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore, Singapore
+134	185	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+134	187	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+134	188	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+134	189	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+134	192	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+134	194	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+134	195	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+134	196	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+134	197	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+134	198	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+134	200	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+134	204	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+134	205	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417
+134	207	School of Computing, National University of Singapore, Singapore 117590, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+134	213	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+135	144	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590
+135	148	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+135	155	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+135	160	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+135	161	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+135	162	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+135	177	School of Computing, National University of Singapore, Singapore 117590, Singapore	Univ. of Singapore, Singapore
+135	178	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+135	179	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+135	184	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore, Singapore
+135	185	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+135	187	School of Computing, National University of Singapore, Singapore 117590, Singapore	National Univ. of Singapore, Singapore
+135	188	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+135	189	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+135	192	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+135	194	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+135	195	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+135	196	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+135	197	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+135	198	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+135	200	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+135	204	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+135	205	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417
+135	207	School of Computing, National University of Singapore, Singapore 117590, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+135	213	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+144	148	School of Computing, National University of Singapore, Singapore 117590	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore
+144	155	School of Computing, National University of Singapore, Singapore 117590	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+144	160	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+144	161	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+144	162	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 117543, Singapore
+144	177	School of Computing, National University of Singapore, Singapore 117590	Univ. of Singapore, Singapore
+144	178	School of Computing, National University of Singapore, Singapore 117590	National Univ. of Singapore, Singapore
+144	179	School of Computing, National University of Singapore, Singapore 117590	National Univ. of Singapore, Singapore
+144	184	School of Computing, National University of Singapore, Singapore 117590	National Univ. of Singapore, Singapore, Singapore
+144	185	School of Computing, National University of Singapore, Singapore 117590	National Univ. of Singapore, Singapore
+144	187	School of Computing, National University of Singapore, Singapore 117590	National Univ. of Singapore, Singapore
+144	188	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+144	189	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 119260, Singapore
+144	192	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore, Singapore
+144	194	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+144	195	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+144	196	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Singapore
+144	197	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+144	198	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+144	200	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 117417, Singapore
+144	204	School of Computing, National University of Singapore, Singapore 117590	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+144	205	School of Computing, National University of Singapore, Singapore 117590	School of Computing, National University of Singapore, Singapore 117417
+144	207	School of Computing, National University of Singapore, Singapore 117590	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+144	213	School of Computing, National University of Singapore, Singapore 117590	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+148	155	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore
+148	160	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+148	161	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+148	162	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+148	177	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Univ. of Singapore, Singapore
+148	178	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+148	179	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+148	184	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+148	185	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+148	187	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+148	188	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+148	189	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+148	192	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+148	194	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+148	195	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+148	196	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+148	197	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+148	198	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+148	200	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+148	204	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+148	205	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417
+148	207	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+148	213	Department of Computer Science, School of Computing, National University of Singapore, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+155	160	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+155	161	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+155	162	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+155	177	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	Univ. of Singapore, Singapore
+155	178	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+155	179	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+155	184	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	National Univ. of Singapore, Singapore, Singapore
+155	185	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+155	187	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+155	188	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+155	189	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+155	192	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+155	194	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+155	195	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+155	196	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+155	197	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+155	198	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+155	200	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+155	204	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+155	205	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417
+155	207	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+155	213	Department of Computer Science, School of Computing, National University of Singapore, Lower Kent Ridge Road, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+160	161	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore
+160	162	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+160	177	School of Computing, National University of Singapore, Singapore 119260, Singapore	Univ. of Singapore, Singapore
+160	178	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+160	179	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+160	184	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore, Singapore
+160	185	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+160	187	School of Computing, National University of Singapore, Singapore 119260, Singapore	National Univ. of Singapore, Singapore
+160	188	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+160	189	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+160	192	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+160	194	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+160	195	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+160	196	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+160	197	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+160	198	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+160	200	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+160	204	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+160	205	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417
+160	207	School of Computing, National University of Singapore, Singapore 119260, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+160	213	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+161	162	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117543, Singapore
+161	177	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	Univ. of Singapore, Singapore
+161	178	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+161	179	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+161	184	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore, Singapore
+161	185	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+161	187	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	National Univ. of Singapore, Singapore
+161	188	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+161	189	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+161	192	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+161	194	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+161	195	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+161	196	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+161	197	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+161	198	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+161	200	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+161	204	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+161	205	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417
+161	207	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+161	213	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+162	177	School of Computing, National University of Singapore, Singapore 117543, Singapore	Univ. of Singapore, Singapore
+162	178	School of Computing, National University of Singapore, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+162	179	School of Computing, National University of Singapore, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+162	184	School of Computing, National University of Singapore, Singapore 117543, Singapore	National Univ. of Singapore, Singapore, Singapore
+162	185	School of Computing, National University of Singapore, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+162	187	School of Computing, National University of Singapore, Singapore 117543, Singapore	National Univ. of Singapore, Singapore
+162	188	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+162	189	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+162	192	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+162	194	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+162	195	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+162	196	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+162	197	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+162	198	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+162	200	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+162	204	School of Computing, National University of Singapore, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+162	205	School of Computing, National University of Singapore, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417
+162	207	School of Computing, National University of Singapore, Singapore 117543, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+162	213	School of Computing, National University of Singapore, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+177	178	Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+177	179	Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+177	184	Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore, Singapore
+177	185	Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+177	187	Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+177	188	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+177	189	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+177	192	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+177	194	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+177	195	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+177	196	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+177	197	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+177	198	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+177	200	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+177	204	Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+177	205	Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+177	207	Univ. of Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+177	213	Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+178	179	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+178	184	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore, Singapore
+178	185	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+178	187	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+178	188	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+178	189	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+178	192	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+178	194	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+178	195	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+178	196	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+178	197	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+178	198	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+178	200	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+178	204	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+178	205	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+178	207	National Univ. of Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+178	213	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+179	184	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore, Singapore
+179	185	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+179	187	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+179	188	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+179	189	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+179	192	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+179	194	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+179	195	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+179	196	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+179	197	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+179	198	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+179	200	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+179	204	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+179	205	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+179	207	National Univ. of Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+179	213	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+184	185	National Univ. of Singapore, Singapore, Singapore	National Univ. of Singapore, Singapore
+184	187	National Univ. of Singapore, Singapore, Singapore	National Univ. of Singapore, Singapore
+184	188	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+184	189	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+184	192	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+184	194	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+184	195	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+184	196	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+184	197	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+184	198	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+184	200	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+184	204	National Univ. of Singapore, Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+184	205	National Univ. of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+184	207	National Univ. of Singapore, Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+184	213	National Univ. of Singapore, Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+185	187	National Univ. of Singapore, Singapore	National Univ. of Singapore, Singapore
+185	188	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+185	189	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+185	192	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+185	194	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+185	195	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+185	196	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+185	197	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+185	198	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+185	200	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+185	204	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+185	205	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+185	207	National Univ. of Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+185	213	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+187	188	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore
+187	189	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+187	192	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+187	194	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+187	195	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+187	196	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+187	197	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+187	198	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+187	200	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+187	204	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+187	205	National Univ. of Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+187	207	National Univ. of Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+187	213	National Univ. of Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+188	189	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 119260, Singapore
+188	192	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+188	194	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+188	195	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+188	196	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+188	197	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+188	198	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+188	200	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+188	204	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+188	205	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417
+188	207	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+188	213	School of Computing, National University of Singapore, Singapore 119260, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+189	192	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore, Singapore
+189	194	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+189	195	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+189	196	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+189	197	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+189	198	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+189	200	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+189	204	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+189	205	School of Computing, National University of Singapore, Singapore 119260, Singapore	School of Computing, National University of Singapore, Singapore 117417
+189	207	School of Computing, National University of Singapore, Singapore 119260, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+189	213	School of Computing, National University of Singapore, Singapore 119260, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+192	194	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+192	195	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+192	196	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+192	197	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+192	198	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+192	200	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+192	204	School of Computing, National University of Singapore, Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+192	205	School of Computing, National University of Singapore, Singapore, Singapore	School of Computing, National University of Singapore, Singapore 117417
+192	207	School of Computing, National University of Singapore, Singapore, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+192	213	School of Computing, National University of Singapore, Singapore, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+194	195	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+194	196	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+194	197	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+194	198	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+194	200	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+194	204	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+194	205	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417
+194	207	School of Computing, National University of Singapore, Singapore 117590, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+194	213	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+195	196	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Singapore
+195	197	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+195	198	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+195	200	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+195	204	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+195	205	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417
+195	207	School of Computing, National University of Singapore, Singapore 117590, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+195	213	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+196	197	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore
+196	198	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+196	200	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+196	204	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+196	205	School of Computing, National University of Singapore, Singapore 117590, Singapore	School of Computing, National University of Singapore, Singapore 117417
+196	207	School of Computing, National University of Singapore, Singapore 117590, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+196	213	School of Computing, National University of Singapore, Singapore 117590, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+197	198	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore
+197	200	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+197	204	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+197	205	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	School of Computing, National University of Singapore, Singapore 117417
+197	207	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+197	213	School of Computing, National University of Singapore, 3 Science Drive 2, Singapore 117543, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+198	200	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417, Singapore
+198	204	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+198	205	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore	School of Computing, National University of Singapore, Singapore 117417
+198	207	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+198	213	School of Computing, National University of Singapore, Singapore 117590, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+200	204	School of Computing, National University of Singapore, Singapore 117417, Singapore	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417
+200	205	School of Computing, National University of Singapore, Singapore 117417, Singapore	School of Computing, National University of Singapore, Singapore 117417
+200	207	School of Computing, National University of Singapore, Singapore 117417, Singapore	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+200	213	School of Computing, National University of Singapore, Singapore 117417, Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+204	205	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417	School of Computing, National University of Singapore, Singapore 117417
+204	207	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+204	213	Department of Computer Science, National University of Singapore, Singapore, Republic of Singapore 117417	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+205	207	School of Computing, National University of Singapore, Singapore 117417	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore
+205	213	School of Computing, National University of Singapore, Singapore 117417	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore
+207	213	National University of Singapore, Department of Computer Science, 117417, Singapore, Republic of Singapore	Department of Computer Science, National University of Singapore, Singapore 117590, Republic of, Singapore

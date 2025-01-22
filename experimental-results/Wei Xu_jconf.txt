@@ -1,0 +1,153 @@
+0	ACIS-ICIS
+1	IEEE ICCI
+2	ACL
+3	AINA (2)
+4	APBC
+5	APSEC
+6	CICLing
+7	COMPSAC
+8	COMPSAC
+9	COMPSAC
+10	CSC
+11	CVPR (1)
+12	CVPR (2)
+13	CVPR
+14	CVPR
+15	DSOM
+16	ECCV (2)
+17	ECCV (3)
+18	EDOC
+19	GIL Jahrestagung
+20	ACM Great Lakes Symposium on VLSI
+21	GPC
+22	HCI (2)
+23	I3E (2)
+24	ICC
+25	ICC
+26	ICC
+27	International Conference on Computational Science (3)
+28	ICCPOL
+29	ICICS
+30	ICME
+31	ICME
+32	ICME
+33	ICMENS
+34	ICMENS
+35	ICML
+36	ICPR (1)
+37	ICPR (3)
+38	ICPR
+39	ICPR
+40	ICVS
+41	ICWS
+42	ISCAS
+43	ISPDC
+44	ACM Multimedia
+45	ACM Multimedia
+46	NIPS
+47	SysML
+48	PARCO
+49	QSIC
+50	RSKT
+51	SAC
+52	SDM
+53	OM
+54	SIGIR
+55	SIGIR
+56	SIGIR
+57	SIGIR
+58	SIGIR
+59	SIGIR
+60	SIGIR
+61	SIGSOFT FSE
+62	SNPD (1)
+63	TREC
+64	VLSI Design
+65	WACV/MOTION
+66	WISE
+67	WWW (Special interest tracks and posters)
+68	ICICIC (2)
+69	NAS
+70	NOMS
+71	ICARCV
+72	Appl. Math. Lett.
+73	CVGIP: Graphical Model and Image Processing
+74	Computer Vision and Image Understanding
+75	Fuzzy Sets and Systems
+76	Int. J. Found. Comput. Sci.
+77	Inf. Process. Manage.
+78	Inf. Sci.
+79	Journal of Computational Biology
+80	Mach. Vis. Appl.
+81	Robotics and Autonomous Systems
+82	Scientometrics
+83	IEEE Transactions on Image Processing
+84	Applied Mathematics and Computation
+85	Applied Mathematics and Computation
+86	Applied Mathematics and Computation
+87	Applied Mathematics and Computation
+88	Applied Mathematics and Computation
+89	Applied Mathematics and Computation
+90	Applied Mathematics and Computation
+91	Applied Mathematics and Computation
+92	Applied Mathematics and Computation
+93	Applied Mathematics and Computation
+94	Applied Mathematics and Computation
+95	Applied Mathematics and Computation
+96	Applied Mathematics and Computation
+97	Applied Mathematics and Computation
+98	Applied Mathematics and Computation
+99	Applied Mathematics and Computation
+100	Applied Mathematics and Computation
+101	Applied Mathematics and Computation
+102	Journal of Intelligent and Robotic Systems
+103	Computer Methods and Programs in Biomedicine
+104	J. Network and Computer Applications
+105	I. J. Bifurcation and Chaos
+106	I. J. Bifurcation and Chaos
+107	J. Field Robotics
+108	GEC Summit
+109	ISNN (1)
+110	ISNN (2)
+111	BMC Bioinformatics
+112	DAC
+113	ISLPED
+114	ACM Multimedia
+115	SOSP
+116	IJHPCA
+117	Discrete Applied Mathematics
+118	Interactions
+119	Pattern Recognition
+120	Applied Mathematics and Computation
+121	Applied Mathematics and Computation
+122	Mathematics and Computers in Simulation
+123	IEEE Transactions on Wireless Communications
+124	null
+125	null
+126	null
+127	null
+128	null
+129	null
+130	SIAM J. Scientific Computing
+131	J. Medical Systems
+132	null
+133	null
+134	Zeitschrift f&uuml;r Angewandte Mathematik und Physik (ZAMP)
+135	SIAM Journal on Matrix Analysis and Applications
+136	Proceedings of the Third International Conference on Natural Computation - Volume 03
+137	Proceedings of the Sixth IEEE international conference on Symposium on Biomedical Imaging: From Nano to Macro
+138	Proceedings of the 15th conference on USENIX Security Symposium - Volume 15
+139	Zeitschrift f&uuml;r Angewandte Mathematik und Physik (ZAMP)
+140	Proceedings of the ANLP-NAACL 2000 Workshop on Conversational Systems
+141	Proceedings of the 2009 IITA International Conference on Control, Automation and Systems Engineering (case 2009)
+142	Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions
+143	Proceedings of the 2009 International Conference on Computational Intelligence and Natural Computing - Volume 01
+144	Proceedings of the 2009 International Conference on Measuring Technology and Mechatronics Automation - Volume 03
+145	Proceedings of the 2009 Second International Symposium on Electronic Commerce and Security - Volume 02
+146	CVGIP: Graphical Models and Image Processing
+147	Fuzzy Sets and Systems
+148	International Journal of Human-Computer Interaction
+149	Proceedings of the second Pacific conference on Fundamentals of computer graphics
+150	International Journal of Computational Fluid Dynamics
+151	Numerische Mathematik
+152	Bioinformatics

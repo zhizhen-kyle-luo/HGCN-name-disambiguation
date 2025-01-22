@@ -1,0 +1,96 @@
+0	1	CGIV	CGIV
+2	3	ADMA	ADMA
+12	13	CSCWD	CSCWD
+16	17	ESTImedia	ESTImedia
+16	18	ESTImedia	ESTImedia
+17	18	ESTImedia	ESTImedia
+24	25	ICC	ICC
+36	37	ICNC (2)	ICNC (2)
+40	41	ICWS	ICWS
+40	42	ICWS	ICWS
+40	43	ICWS	ICWS
+40	44	ICWS	ICWS
+40	45	ICWS	ICWS
+40	46	ICWS	ICWS
+40	114	ICWS	ICWS
+41	42	ICWS	ICWS
+41	43	ICWS	ICWS
+41	44	ICWS	ICWS
+41	45	ICWS	ICWS
+41	46	ICWS	ICWS
+41	114	ICWS	ICWS
+42	43	ICWS	ICWS
+42	44	ICWS	ICWS
+42	45	ICWS	ICWS
+42	46	ICWS	ICWS
+42	114	ICWS	ICWS
+43	44	ICWS	ICWS
+43	45	ICWS	ICWS
+43	46	ICWS	ICWS
+43	114	ICWS	ICWS
+44	45	ICWS	ICWS
+44	46	ICWS	ICWS
+44	114	ICWS	ICWS
+45	46	ICWS	ICWS
+45	114	ICWS	ICWS
+46	114	ICWS	ICWS
+48	49	IJCNN	IJCNN
+54	55	ISQED	ISQED
+54	56	ISQED	ISQED
+54	57	ISQED	ISQED
+54	58	ISQED	ISQED
+55	56	ISQED	ISQED
+55	57	ISQED	ISQED
+55	58	ISQED	ISQED
+56	57	ISQED	ISQED
+56	58	ISQED	ISQED
+57	58	ISQED	ISQED
+62	63	ACM Multimedia	ACM Multimedia
+62	64	ACM Multimedia	ACM Multimedia
+62	65	ACM Multimedia	ACM Multimedia
+63	64	ACM Multimedia	ACM Multimedia
+63	65	ACM Multimedia	ACM Multimedia
+64	65	ACM Multimedia	ACM Multimedia
+67	68	IEEE Pacific Rim Conference on Multimedia	IEEE Pacific Rim Conference on Multimedia
+72	73	SEKE	SEKE
+81	82	CSSE (4)	CSSE (4)
+88	89	IEICE Transactions	IEICE Transactions
+88	90	IEICE Transactions	IEICE Transactions
+88	91	IEICE Transactions	IEICE Transactions
+88	92	IEICE Transactions	IEICE Transactions
+88	93	IEICE Transactions	IEICE Transactions
+88	94	IEICE Transactions	IEICE Transactions
+89	90	IEICE Transactions	IEICE Transactions
+89	91	IEICE Transactions	IEICE Transactions
+89	92	IEICE Transactions	IEICE Transactions
+89	93	IEICE Transactions	IEICE Transactions
+89	94	IEICE Transactions	IEICE Transactions
+90	91	IEICE Transactions	IEICE Transactions
+90	92	IEICE Transactions	IEICE Transactions
+90	93	IEICE Transactions	IEICE Transactions
+90	94	IEICE Transactions	IEICE Transactions
+91	92	IEICE Transactions	IEICE Transactions
+91	93	IEICE Transactions	IEICE Transactions
+91	94	IEICE Transactions	IEICE Transactions
+92	93	IEICE Transactions	IEICE Transactions
+92	94	IEICE Transactions	IEICE Transactions
+93	94	IEICE Transactions	IEICE Transactions
+99	100	Pattern Recognition Letters	Pattern Recognition Letters
+106	107	Signal Processing	Signal Processing
+110	111	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+127	128	Biological Cybernetics	Biological Cybernetics
+133	138	Proceedings of the Third International Conference on Image and Graphics	Proceedings of the Fourth International Conference on Image and Graphics
+133	140	Proceedings of the Third International Conference on Image and Graphics	Proceedings of the Fourth International Conference on Image and Graphics
+136	137	Proceedings of the Third International Conference on Natural Computation - Volume 02	Proceedings of the Third International Conference on Natural Computation - Volume 01
+136	139	Proceedings of the Third International Conference on Natural Computation - Volume 02	Proceedings of the Third International Conference on Natural Computation - Volume 01
+136	148	Proceedings of the Third International Conference on Natural Computation - Volume 02	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 07
+137	139	Proceedings of the Third International Conference on Natural Computation - Volume 01	Proceedings of the Third International Conference on Natural Computation - Volume 01
+137	148	Proceedings of the Third International Conference on Natural Computation - Volume 01	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 07
+138	140	Proceedings of the Fourth International Conference on Image and Graphics	Proceedings of the Fourth International Conference on Image and Graphics
+139	148	Proceedings of the Third International Conference on Natural Computation - Volume 01	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 07
+142	143	Smarandache Notions Journal	Smarandache Notions Journal
+142	145	Smarandache Notions Journal	Smarandache notions
+142	146	Smarandache Notions Journal	Smarandache Notions Journal
+143	145	Smarandache Notions Journal	Smarandache notions
+143	146	Smarandache Notions Journal	Smarandache Notions Journal
+145	146	Smarandache notions	Smarandache Notions Journal

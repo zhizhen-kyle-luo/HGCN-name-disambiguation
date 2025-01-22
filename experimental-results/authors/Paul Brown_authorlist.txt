@@ -1,0 +1,42 @@
+1	9	Michael Stonebraker	Michael Stonebraker
+1	15	Michael Stonebraker	Michael Stonebraker
+1	16	Michael Stonebraker	Michael Stonebraker
+1	16	Dorothy Moore	Dorothy Moore
+1	17	Michael Stonebraker	Michael Stonebraker
+1	17	Dorothy Moore	Dorothy Moore
+1	20	Michael Stonebraker	Michael Stonebraker
+1	20	Dorothy Moore	Dorothy Moore
+2	7	Peter J. Haas	Peter J. Haas
+2	10	Peter J. Haas	Peter J. Haas
+2	11	Peter J. Haas	Peter J. Haas
+2	11	Berthold Reinwald	Berthold Reinwald
+2	11	Yannis Sismanis	Yannis Sismanis
+3	15	Martin Herbach	Martin Herbach
+4	13	Phil Husbands	Phil Husbands
+7	10	Peter J. Haas	Peter J. Haas
+7	11	Peter J. Haas	Peter J. Haas
+7	12	Volker Markl	Volker Markl
+7	23	Volker Markl	Volker Markl
+9	15	Michael Stonebraker	Michael Stonebraker
+9	16	Michael Stonebraker	Michael Stonebraker
+9	17	Michael Stonebraker	Michael Stonebraker
+9	20	Michael Stonebraker	Michael Stonebraker
+10	11	Peter J. Haas	Peter J. Haas
+12	23	Mehmet Altinel	Mehmet Altinel
+12	23	Susan Cline	Susan Cline
+12	23	Rajesh Kartha	Rajesh Kartha
+12	23	Eric Louie	Eric Louie
+12	23	Volker Markl	Volker Markl
+12	23	Louis Mau	Louis Mau
+12	23	Yip-Hing Ng	Yip-Hing Ng
+12	23	David E. Simmen	David Simmen
+12	23	Ashutosh Singh	Ashutosh Singh
+15	16	Michael Stonebraker	Michael Stonebraker
+15	17	Michael Stonebraker	Michael Stonebraker
+15	20	Michael Stonebraker	Michael Stonebraker
+16	17	Michael Stonebraker	Michael Stonebraker
+16	17	Dorothy Moore	Dorothy Moore
+16	20	Michael Stonebraker	Michael Stonebraker
+16	20	Dorothy Moore	Dorothy Moore
+17	20	Michael Stonebraker	Michael Stonebraker
+17	20	Dorothy Moore	Dorothy Moore

@@ -1,0 +1,181 @@
+2480	A Framework for Biological Pattern Discovery on Networks of Workstations
+7955	Sketch Retrieval Based on Spatial Relations
+36583	Supporting Live Video on Ad Hoc Wireless Networks: Unbalanced Multiple Description Coding, Single Path Transport and Recursive Error Concealment
+42238	CLUGGS and CLUCR-Two Matrix Solution Methods for General Circuit Simulation
+52628	A mixed-signal simulator for VHDL-AMS
+97422	Full-Space LDA With Evolutionary Selection for Face Recognition
+97468	Precise Eye Localization with AdaBoost and Fast Radial Symmetry
+122722	On Dynamic and Concurrent Model of Web Service Components
+122751	SSOA: a Semantic Service-Oriented Architecture Based on Fuzzy Assertion System
+126537	An ID-based Anonymous Proxy Signature From Bilinear Pairings
+142362	A Novel SAT All-Solutions Solver for Efficient Preimage Computation
+178049	Dynamic User Modeling for Sketch-Based User Interface
+219079	A New Approach to Forecast Crude Oil Price Based on Fuzzy Neural Network
+253106	Versatile prediction and fast estimation of Architectural Vulnerability Factor from processor performance metrics
+253474	A Configurable Web Service Performance Testing Framework
+261766	Personal Name Recognition Based on Categorized Linguistic Knowledge
+273184	A Biased Support Vector Machine Approach to Web Filtering
+274093	Minimizing Spatial Deformation Method for Online Signature Matching
+274340	On-Line Signature Verification Based on PCA (Principal Component Analysis) and MCA (Minor Component Analysis)
+275089	A New Block Detection Receiver for Noncoherent Orthogonal CDMA System
+276041	Linear Transceiver Design for Multiuser MIMO Downlink
+276520	A New Transmit Scheme Combining Beamforming with Space-Time Block Coding
+276656	Limited Feedback Precoding Based on Hierarchical Codebook and Linear Receiver
+287098	Polaris: A System-Level Roadmap for On-Chip Interconnection Networks
+313702	Authoritative Server's Impact on Domain Name System's Performance and Security
+322021	A pinhole camera modeling of motion vector field for tennis video analysis
+324531	Steganalysis of LSB Greedy Embedding Algorithm for JPEG Images using Coefficient Symmetry
+324652	Attack LSB Matching Steganography by Counting Alteration Rate of the Number of Neighbourhood Gray Levels
+325752	Universal JPEG steganalysis based on microscopic and macroscopic calibration
+331648	An Unbalanced Multiple Description Coding Scheme for Video Transmission Over Wireless Ad Hoc Networks
+331883	SIKAS: A Scalable Distributed Key Management Scheme for Dynamic Collaborative Groups
+331884	Optimized Rate Allocation for Unbalanced Multiple Description Video Coding Over Unreliable Packet Network
+332457	License management scheme with anonymous trust for digital rights management
+336019	Support cluster machine
+337477	Fuzzy Description of Topological Relations I: A Unified Fuzzy 9-Intersection Model
+338185	Detection of Individual Microbubbles Using Wavelet Transform Based on a Theoretical Bubble Oscillation Model
+347687	Continuous Optimization based-on Boosting Gaussian Mixture Model
+349153	Palmprint Identification using Boosting Local Binary Pattern
+349398	Analysis and Improvement of An Iris Identification Algorithm
+349400	Iris Recognition Algorithm Using Modified Log-Gabor Filters
+353624	Control of a 3-dimensional snake-like robot
+353630	Analysis of creeping locomotion of a snake robot on a slope
+357657	Turning and Side Motion of Snake-like Robot
+357742	Studies on Lateral Rolling Locomotion of a Snake Robot
+357842	Locomotion Analysis and Experiment for Climbing Motion of RPRS
+359413	Design of a mobile mechanism possessing driving ability and detecting function for in-pipe inspection
+361066	The Deformed Cube: A Visualization Technique for 3D Velocity Vector Field
+369837	Construct Teacher Community in E-Learning System
+372124	Genetic Algorithm Based-On the Quantum Probability Representation
+398529	A Wireless Intrusion Detection Method Based on Dynamic Growing Neural Network
+402805	LRED: A Robust Active Queue Management Scheme Based on Packet Loss Ratio
+442431	Adaptive Neural Network Path Tracking of Unmanned Ground Vehicle
+442551	RBF Neural Network Based Shape Control of Hyper-redundant Manipulator with Constrained End-Effector
+443219	BP Networks Based Trajectory Planning and Inverse Kinematics of a Reconfigurable Mars Rover
+443455	Neural Network Based Kinematic Control of the Hyper-Redundant Snake-Like Manipulator
+443483	An Improved On-Line Sequential Learning Algorithm for Extreme Learning Machine
+445262	Tracking Anomalous Behaviors of Name Servers by Mining DNS Traffic
+445545	A Distributed Hebb Neural Network for Network Anomaly Detection
+449904	Lower bounds for approximate factorizations via semidefinite programming: (extended abstract)
+449905	Approximate GCDs of polynomials and SOS relaxation
+449971	Exact certification of global optimality of approximate factorizations via rationalizing sums-of-squares with floating point scalars
+450254	Integrating Software into PRA
+458175	An E-Government Platform Based on Multi-Tier Architecture
+464068	Effect of Different Coding Patterns on Compressed Frequency Domain Based Universal JPEG Steganalysis
+500588	A set theoretical method for video synopsis
+503430	A web-based aggregated platform for user-contributed interactive media broadcasting
+503447	DJ DreamFactory
+504850	Bit rate reduction of H.264/AVC video coding for mobile applications
+519885	A Parallel and Distributed Method for Computing High Dimensional MOLAP
+527549	Spatial Clustering with Obstacles Constraints Using Ant Colony and Particle Swarm Optimization
+531668	Relevance Feedback for Sketch Retrieval Based on Linear Programming Classification
+532701	Towards an Analysis of Source-Rewriting Anonymous Systems in a Lossy Environment
+552323	Multiagent Reinforcement Learning for a Planetary Exploration Multirobot System
+559776	An Event-State Approach to Handling Temporal Queries in an Extended Relational Database System
+597817	Efficient mart-aided modeling for microarchitecture design space exploration and performance prediction
+598318	Free Parallel Data Mining
+609152	D-S Theory-based Trust Model FIRE+ in Multi-agent Systems
+609215	A Policy Language for Adaptive Web Services Security Framework
+609326	Battle Damage Assessment based on Bayesian Network
+630505	UTDallas at TREC 2008 Blog Track
+696714	Impact of Process and Temperature Variations on Network-on-Chip Design Exploration
+697361	Hybrid quantum probabilistic coding genetic algorithm for large scale hardware-software co-synthesis of embedded systems
+697957	A restart univariate estimation of distribution algorithm: sampling under mixed Gaussian and Levy probability distribution
+698165	Understand behavior and performance of Real Coded Optimization Algorithms via NK-linkage model
+702969	Steganalysis of YASS
+707482	Unequal-arm Adaptive Rood Pattern Search with Early Terminations For Fast Block-matching Motion Estimation on H.264
+709232	A Dynamic Trust Model for the Multi-agent Systems
+719553	Joint error concealment and error recovery for consecutive frame losses under the unbalanced multiple description coding architecture
+720165	A Multi-Dimensional K-Anonymity Model for Hierarchical Data
+722424	A Method of General Stiffness Modeling for Multi-axis Machine Tool
+722438	Adaptive Notch Filter Control for the Torsion Vibration in Lead-Screw Feed Drive System Based on Neural Network
+722455	Look-Ahead Scheme for High Speed Consecutive Micro Line Interpolation Based on Dynamics of Machine Tool
+723114	Multifunctional Mobile Units with a same platform for in-pipe inspection robots
+724147	An in-pipe inspection robot based on adaptive mobile mechanism: mechanical design and basic experiments
+724336	Configuration Analysis for Reconfigurable Modular Planetary Robots Based on MSV and CSM
+724809	3D Locomotion of a Snake-like Robot Controlled by Cyclic Inhibitory CPG Model
+725165	Design and Basic Experiments of a Shape-shifting Mobile Robot for Urban Search and Rescue
+725557	The Case of Interactive Web-Based Course Development
+727205	Detecting doubly compressed JPEG images by using Mode Based First Digit Features
+727254	CCL-SVC: Optimizing user experience of broadcasting video on computation capability limited handheld devices
+728291	Analysis of locomotion of a planetary rover on a slope
+733053	Scene segmentation based on video structure and spectral methods
+733636	Development of an OpenGL based multi-robot simulating platform
+733790	Position-sensing based a new docking system of RPRS
+733909	Development of a snake-like robot adapting to the ground
+748576	Automated Cellular Modeling and Prediction on a Large Scale
+760640	A hardware/software partitioning algorithm based on artificial immune principles
+768431	VKCDB: Voltage-gated potassium channel database
+839573	CHAMP: A Prototype for Automated Cellular Churn Prediction
+883565	Distributed Spatial Catalog Service on the CORBA Object Bus
+905973	A Multi-Objective Hw-sw Co-Synthesis Algorithm Based on Quantum-Inspired Evolutionary Algorithm
+910470	Online Signature Verification by Combining Shape Contexts and Local Features
+917812	Exploiting multi-scale support vector regression for image compression
+919811	A Robust Iris Localization Algorithm via Radial Symmetry for Nonideal Capturing Condition
+943023	Multi-strategy ensemble particle swarm optimization for dynamic optimization
+973833	A New Synchronization Algorithm for VHDL-AMS Simulation
+992695	Call admission control for voice/data integrated cellular networks: performance analysis and comparative study
+1030268	Online signature verification based on null component analysis and principal component analysis
+1042527	A robust incremental learning framework for accurate skin region segmentation in color images
+1095400	A representation theorem for recovering contraction relations satisfying wci
+1096358	Approximate GCDs of polynomials and sparse SOS relaxations
+1114814	A Novel Approach to Extract Colon Lumen from CT Images for Virtual Colonoscopy
+1134821	Polaris: A System-Level Roadmapping Toolchain for On-Chip Interconnection Networks
+1141263	On Handoff Performance for an Integrated Voice/Data Cellular System
+1157627	Classification of functional data: A segmentation approach
+1157746	Defending against distributed denial-of-service attacks with an auction-based method
+1164706	A Location-free Algorithm of Energy-Efficient Connected Coverage for High Density Wireless Sensor Networks
+1176941	A dynamic multiple-threshold bandwidth reservation (DMTBR) scheme for QoS provisioning in multimedia wireless networks
+1180463	Center-configuration selection technique for the reconfigurable modular robot
+1180499	Gaits-transferable CPG controller for a snake-like robot
+1180601	Network-based reconfiguration routes for a self-reconfigurable robot
+1180618	Theoretical analysis of transmission characteristics for all fiber, multi-cavity Fabry-Perot filters based on fiber Bragg gratings
+1180635	Combined adaptive beamforming with space-time block coding for multi-antenna communications
+1192274	Towards a Coordination Infrastructure for Pervasive Computing Environment Based on Tuplespace and Semantic Web
+1198179	Information Services, Geography
+1210331	Transfer learning for collaborative filtering via a rating-matrix generative model
+1217633	A Forward-Secrecy WTLS Handshake Protocol Based on XTR
+1234546	A Self-adaptive Mixed Distribution Based Uni-variate Estimation of Distribution Algorithm for Large Scale Global Optimization
+1241308	ORION 2.0: A fast and accurate NoC power and area model for early-stage design space exploration
+1249661	Can Movies and Books Collaborate? Cross-Domain Collaborative Filtering for Sparsity Reduction
+1282789	Enhanced high-performance distributed coordination function for IEEE 802.11 multi-rate LANs
+1286078	Configuration representation and reconfiguration optimization for the reconfigurable robots with independent manipulation
+1291577	A research on open CNC system based on architecture/component software reuse technology
+1303559	Risk Informed Computer Economics.
+1306145	Trust and Privacy in Dissemination Control.
+1306764	Posture control of a dual-crawler-driven robot.
+1313195	Dynamic modeling for locomotion-manipulation of a snake-like robot by using geometric methods.
+1318101	The Consequences of Work-Family Conflicts to Female Entrepreneurs within the Travel Agenices.
+1318868	A Method of Raster Data Mining Based on Multi Dimension Data Set.
+1319855	The Adaptive Path Planning Research for a Shape-Shifting Robot Using Particle Swarm Optimization.
+1328268	An Improved FCM Algorithm Incorporating Spatial Information for Image Segmentation.
+1328374	Locomotion of a Snake-like Robot Controlled by the Bidirectional Cyclic Inhibitory CPG Model.
+1328503	Study on Epipolar Geometry Restoration of Parallel Binocular Vision.
+1331108	Nitrogen and Phosphate Removal by Zeolite-Rare Earth Adsorbents.
+1333150	3D-SURFER: software for high-throughput protein surface comparison and analysis.
+1339606	Accurate and efficient processor performance prediction via regression tree based modeling.
+1343744	Saturation throughput analysis of multi-rate IEEE 802.11 wireless networks.
+1347012	A Model of GIS Virtual Machine.
+1365784	Steganalysis of YASS
+1386659	Performance Analysis of Multi-channel DCA MAC Protocol in Cognitive Wireless Mesh Networks
+1388852	Effect of Different Coding Patterns on Compressed Frequency Domain Based Universal JPEG Steganalysis
+1392627	Dielectric mismatch effect on coupled impurity states in a freestanding nanowire
+1414205	Mixture-Based Bone Segmentation and Its Application in Computer Aided Diagnosis and Treatment Planning
+1557863	An Effective Collision Resolution Mechanism for Wireless LAN
+1581131	Letters: Exploiting multi-scale support vector regression for image compression
+1581602	Anomaly Intrusion Detection Methods for Peer-to-Peer System
+1583425	An Approach for Dynamic Hardware /Software Partitioning Based on DPBIL
+1583640	An Agent-based Policy Aware Framework for Web Services Security
+1585692	A Practical Calibration Method for Multiple Cameras
+1585710	Kernel-based Global Folley-Sammon Discriminate Analysis
+1592441	Encouraging Good Interactions in Open Agent Systems
+1593717	Precise Eye Localization with AdaBoost and Fast Radial Symmetry
+1595828	Full-Space LDA With Evolutionary Selection for Face Recognition
+1600738	A Tuplespace-Based Middleware for Semantic Web Services Using SWRL
+1655882	Novel Routing Algorithms for Hierarchical Architecture in ASON
+1656545	Design and Implementation of an Automated Microscope Stage
+1658233	Influence of Incomplete Linkage between Marked and Functional Gene on Estimating Gene Effect by Molecular Marker Regression Model
+1658830	Semi-automatic dynamic auxiliary-tag-aided image annotation
+1749458	Influence of connecting units' thicknesses on tandem organic devices' performances
+1750381	Design and Application of GIS Software Platform Integrating with DSS Oriented to E-Government
+1751809	A Data Collection System in High-Energy Detection

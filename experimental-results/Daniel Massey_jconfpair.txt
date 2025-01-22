@@ -1,0 +1,22 @@
+1	2	DSN	DSN
+1	3	DSN	DSN
+1	4	DSN	DSN
+2	3	DSN	DSN
+2	4	DSN	DSN
+3	4	DSN	DSN
+7	8	ICDCS	ICDCS
+7	9	ICDCS	ICDCS
+8	9	ICDCS	ICDCS
+10	11	ICNP	ICNP
+13	15	Internet Measurement Workshop	Internet Measurement Workshop
+16	17	INFOCOM	INFOCOM
+26	27	Computer Networks	Computer Networks
+26	28	Computer Networks	Computer Networks
+26	29	Computer Networks	Computer Networks
+26	30	Computer Networks	Computer Networks
+27	28	Computer Networks	Computer Networks
+27	29	Computer Networks	Computer Networks
+27	30	Computer Networks	Computer Networks
+28	29	Computer Networks	Computer Networks
+28	30	Computer Networks	Computer Networks
+29	30	Computer Networks	Computer Networks

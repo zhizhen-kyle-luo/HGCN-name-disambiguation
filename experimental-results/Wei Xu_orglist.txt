@@ -1,0 +1,170 @@
+5	43	Graduate School, Chinese Academy of Sciences, Beijing, China	Chinese Academy of Sciences, Beijing, China
+5	104	Graduate School, Chinese Academy of Sciences, Beijing, China	Technology Center of Software Engineering, Institute of Software, Chinese Academy of Sciences, Beijing 100080, China and Graduate School, Chinese Academy of Sciences, Beijing 100039, China
+9	18	Chinese Academy of Sciences	Chinese Academy of Sciences
+11	17	NEC Labs. America, Cupertino, CA, USA	NEC Labs America, Cupertino, CA 95014
+11	31	NEC Labs. America, Cupertino, CA, USA	NEC Lab. America, Cupertino
+11	36	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America Cupertino, CA, USA
+11	37	NEC Labs. America, Cupertino, CA, USA	NEC Labs America, Cupertino, CA
+11	51	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+11	55	NEC Labs. America, Cupertino, CA, USA	NEC USA, Inc, Cupertino, CA
+11	56	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+11	57	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+11	58	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+11	59	NEC Labs. America, Cupertino, CA, USA	NEC Lab America, Cupertino, CA
+11	60	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Cupertino, USA
+11	74	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+11	80	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Cupertino, CA, USA
+11	114	NEC Labs. America, Cupertino, CA, USA	NEC Laboratories America, Cupertino, CA, USA
+12	38	University of Colorado at Boulder	Dept. of Comput. Sci., Univ. of Colorado, Boulder, CO
+12	125	University of Colorado at Boulder	Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430
+12	126	University of Colorado at Boulder	Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430
+16	36	NEC Laboratories America, Inc., USA	NEC Laboratories America Cupertino, CA, USA
+16	44	NEC Laboratories America, Inc., USA	C & C Research Laboratories, NEC USA, Inc.
+16	51	NEC Laboratories America, Inc., USA	NEC Laboratories America, Inc., Cupertino, CA
+16	55	NEC Laboratories America, Inc., USA	NEC USA, Inc, Cupertino, CA
+16	56	NEC Laboratories America, Inc., USA	NEC Laboratories America, Inc., Cupertino, CA
+16	57	NEC Laboratories America, Inc., USA	NEC Laboratories America, Inc., Cupertino, CA
+16	58	NEC Laboratories America, Inc., USA	NEC Laboratories America, Inc., Cupertino, CA
+16	60	NEC Laboratories America, Inc., USA	NEC Laboratories America, Cupertino, USA
+16	65	NEC Laboratories America, Inc., USA	NEC Laboratories America, Inc.
+16	74	NEC Laboratories America, Inc., USA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+16	80	NEC Laboratories America, Inc., USA	NEC Laboratories America, Cupertino, CA, USA
+16	114	NEC Laboratories America, Inc., USA	NEC Laboratories America, Cupertino, CA, USA
+16	119	NEC Laboratories America, Inc., USA	NEC Laboratories America, Inc., USA
+17	36	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America Cupertino, CA, USA
+17	37	NEC Labs America, Cupertino, CA 95014	NEC Labs America, Cupertino, CA
+17	51	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America, Inc., Cupertino, CA
+17	55	NEC Labs America, Cupertino, CA 95014	NEC USA, Inc, Cupertino, CA
+17	56	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America, Inc., Cupertino, CA
+17	57	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America, Inc., Cupertino, CA
+17	58	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America, Inc., Cupertino, CA
+17	59	NEC Labs America, Cupertino, CA 95014	NEC Lab America, Cupertino, CA
+17	74	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+17	80	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America, Cupertino, CA, USA
+17	114	NEC Labs America, Cupertino, CA 95014	NEC Laboratories America, Cupertino, CA, USA
+24	123	Nat. Mobile Commun. Res. Lab., Southeast Univ., Nanjing	National Mobile Communications Research Lab., Southeast University, Nanjing, China
+30	32	Beckman Inst., Univ. of Illinois at Urbana-Champaign, Urbana, IL	Univ. of Illinois, Urbana
+31	36	NEC Lab. America, Cupertino	NEC Laboratories America Cupertino, CA, USA
+31	37	NEC Lab. America, Cupertino	NEC Labs America, Cupertino, CA
+31	51	NEC Lab. America, Cupertino	NEC Laboratories America, Inc., Cupertino, CA
+31	55	NEC Lab. America, Cupertino	NEC USA, Inc, Cupertino, CA
+31	56	NEC Lab. America, Cupertino	NEC Laboratories America, Inc., Cupertino, CA
+31	57	NEC Lab. America, Cupertino	NEC Laboratories America, Inc., Cupertino, CA
+31	58	NEC Lab. America, Cupertino	NEC Laboratories America, Inc., Cupertino, CA
+31	59	NEC Lab. America, Cupertino	NEC Lab America, Cupertino, CA
+31	74	NEC Lab. America, Cupertino	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+31	80	NEC Lab. America, Cupertino	NEC Laboratories America, Cupertino, CA, USA
+31	114	NEC Lab. America, Cupertino	NEC Laboratories America, Cupertino, CA, USA
+36	37	NEC Laboratories America Cupertino, CA, USA	NEC Labs America, Cupertino, CA
+36	45	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America
+36	51	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+36	55	NEC Laboratories America Cupertino, CA, USA	NEC USA, Inc, Cupertino, CA
+36	56	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+36	57	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+36	58	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Inc., Cupertino, CA
+36	59	NEC Laboratories America Cupertino, CA, USA	NEC Lab America, Cupertino, CA
+36	60	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Cupertino, USA
+36	80	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Cupertino, CA, USA
+36	114	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Cupertino, CA, USA
+36	119	NEC Laboratories America Cupertino, CA, USA	NEC Laboratories America, Inc., USA
+37	51	NEC Labs America, Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+37	55	NEC Labs America, Cupertino, CA	NEC USA, Inc, Cupertino, CA
+37	56	NEC Labs America, Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+37	57	NEC Labs America, Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+37	58	NEC Labs America, Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+37	59	NEC Labs America, Cupertino, CA	NEC Lab America, Cupertino, CA
+37	60	NEC Labs America, Cupertino, CA	NEC Laboratories America, Cupertino, USA
+37	74	NEC Labs America, Cupertino, CA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+37	80	NEC Labs America, Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+37	114	NEC Labs America, Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+38	125	Dept. of Comput. Sci., Univ. of Colorado, Boulder, CO	Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430
+38	126	Dept. of Comput. Sci., Univ. of Colorado, Boulder, CO	Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430
+41	61	Stony Brook University	Stony Brook University
+41	67	Stony Brook University	Stony Brook University
+41	137	Stony Brook University	Center for Visual Computing, Computer Science Department, Stony Brook University
+41	138	Stony Brook University	Stony Brook University
+43	104	Chinese Academy of Sciences, Beijing, China	Technology Center of Software Engineering, Institute of Software, Chinese Academy of Sciences, Beijing 100080, China and Graduate School, Chinese Academy of Sciences, Beijing 100039, China
+44	119	C & C Research Laboratories, NEC USA, Inc.	NEC Laboratories America, Inc., USA
+45	51	NEC Laboratories America	NEC Laboratories America, Inc., Cupertino, CA
+45	56	NEC Laboratories America	NEC Laboratories America, Inc., Cupertino, CA
+45	57	NEC Laboratories America	NEC Laboratories America, Inc., Cupertino, CA
+45	58	NEC Laboratories America	NEC Laboratories America, Inc., Cupertino, CA
+45	65	NEC Laboratories America	NEC Laboratories America, Inc.
+45	74	NEC Laboratories America	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+45	80	NEC Laboratories America	NEC Laboratories America, Cupertino, CA, USA
+45	114	NEC Laboratories America	NEC Laboratories America, Cupertino, CA, USA
+51	55	NEC Laboratories America, Inc., Cupertino, CA	NEC USA, Inc, Cupertino, CA
+51	56	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+51	57	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+51	58	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+51	59	NEC Laboratories America, Inc., Cupertino, CA	NEC Lab America, Cupertino, CA
+51	60	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, USA
+51	65	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc.
+51	74	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+51	80	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+51	114	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+51	119	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., USA
+55	56	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+55	57	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+55	58	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+55	59	NEC USA, Inc, Cupertino, CA	NEC Lab America, Cupertino, CA
+55	60	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Cupertino, USA
+55	65	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Inc.
+55	74	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+55	80	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+55	114	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+55	119	NEC USA, Inc, Cupertino, CA	NEC Laboratories America, Inc., USA
+56	57	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+56	58	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+56	59	NEC Laboratories America, Inc., Cupertino, CA	NEC Lab America, Cupertino, CA
+56	60	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, USA
+56	65	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc.
+56	74	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+56	80	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+56	114	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+56	119	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., USA
+57	58	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., Cupertino, CA
+57	59	NEC Laboratories America, Inc., Cupertino, CA	NEC Lab America, Cupertino, CA
+57	60	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, USA
+57	65	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc.
+57	74	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+57	80	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+57	114	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+57	119	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., USA
+58	59	NEC Laboratories America, Inc., Cupertino, CA	NEC Lab America, Cupertino, CA
+58	60	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, USA
+58	65	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc.
+58	74	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+58	80	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+58	114	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+58	119	NEC Laboratories America, Inc., Cupertino, CA	NEC Laboratories America, Inc., USA
+59	60	NEC Lab America, Cupertino, CA	NEC Laboratories America, Cupertino, USA
+59	74	NEC Lab America, Cupertino, CA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+59	80	NEC Lab America, Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+59	114	NEC Lab America, Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+60	74	NEC Laboratories America, Cupertino, USA	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+60	80	NEC Laboratories America, Cupertino, USA	NEC Laboratories America, Cupertino, CA, USA
+60	114	NEC Laboratories America, Cupertino, USA	NEC Laboratories America, Cupertino, CA, USA
+60	119	NEC Laboratories America, Cupertino, USA	NEC Laboratories America, Inc., USA
+61	67	Stony Brook University	Stony Brook University
+61	137	Stony Brook University	Center for Visual Computing, Computer Science Department, Stony Brook University
+61	138	Stony Brook University	Stony Brook University
+65	74	NEC Laboratories America, Inc.	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA
+65	119	NEC Laboratories America, Inc.	NEC Laboratories America, Inc., USA
+67	137	Stony Brook University	Center for Visual Computing, Computer Science Department, Stony Brook University
+67	138	Stony Brook University	Stony Brook University
+71	103	Centre for Biomed. Eng., Univ. of Surrey, Guildford	Centre for Biomedical Engineering, School of Engineering, University of Surrey, Guildford, Surrey GU2 7XH, UK
+74	80	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+74	114	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA	NEC Laboratories America, Cupertino, CA, USA
+74	119	NEC Laboratories America, Inc., 10080 North Wolfe Road, SW3-350 Cupertino, CA	NEC Laboratories America, Inc., USA
+80	114	NEC Laboratories America, Cupertino, CA, USA	NEC Laboratories America, Cupertino, CA, USA
+80	119	NEC Laboratories America, Cupertino, CA, USA	NEC Laboratories America, Inc., USA
+102	107	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai 200030, P. R. of China; e-mail: njxw2000@yahoo.com	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai 200030, People's Republic of China
+102	150	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai 200030, P. R. of China; e-mail: njxw2000@yahoo.com	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China
+107	150	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai 200030, People's Republic of China	School of Mechanical Engineering, Shanghai Jiaotong University, Shanghai, China
+112	113	Rensselaer Polytechnic Institute, Troy, NY	Rensselaer Polytechnic Institute, Troy, NY, USA
+114	119	NEC Laboratories America, Cupertino, CA, USA	NEC Laboratories America, Inc., USA
+125	126	Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430	Department of Computer Science, University of Colorado at Boulder, Boulder, USA 80309-0430
+128	151	Sch. of Manage. & Eng., Nanjing Univ., Nanjing, China	Nanjing University, School of Management and Engineering, 210093, Nanjing, People&#x2019;s Republic of China
+137	138	Center for Visual Computing, Computer Science Department, Stony Brook University	Stony Brook University
+141	145	Zhengzhou Inf. Sci. & Technol. Inst., Zhengzhou, China	Network Eng. Dept., Zhengzhou Inf. Sci. & Technol. Inst., Zhengzhou, China

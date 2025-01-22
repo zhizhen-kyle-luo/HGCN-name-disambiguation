@@ -1,0 +1,95 @@
+5	6	CIS	CIS
+7	8	CSCWD	CSCWD
+10	138	DATE	DATE
+19	20	ICC (3)	ICC
+19	21	ICC (3)	ICC
+19	22	ICC (3)	ICC
+20	21	ICC	ICC
+20	22	ICC	ICC
+21	22	ICC	ICC
+25	26	ICIP	ICIP (1)
+25	27	ICIP	ICIP (1)
+25	28	ICIP	ICIP
+26	27	ICIP (1)	ICIP (1)
+26	28	ICIP (1)	ICIP
+27	28	ICIP (1)	ICIP
+29	30	ICME	ICME
+29	31	ICME	ICME
+29	32	ICME	ICME
+30	31	ICME	ICME
+30	32	ICME	ICME
+31	32	ICME	ICME
+33	135	ICML	ICML
+38	39	ICPR (4)	ICPR (4)
+40	41	ICRA	ICRA
+40	42	ICRA	ICRA
+40	43	ICRA	ICRA
+40	44	ICRA	ICRA
+40	45	ICRA	ICRA
+41	42	ICRA	ICRA
+41	43	ICRA	ICRA
+41	44	ICRA	ICRA
+41	45	ICRA	ICRA
+42	43	ICRA	ICRA
+42	44	ICRA	ICRA
+42	45	ICRA	ICRA
+43	44	ICRA	ICRA
+43	45	ICRA	ICRA
+44	45	ICRA	ICRA
+51	52	ISNN (2)	ISNN (2)
+54	55	ISNN (1)	ISNN (1)
+56	57	ISPA Workshops	ISPA
+58	59	SNC	SNC
+65	66	ACM Multimedia	ACM Multimedia
+76	77	SNPD (1)	SNPD (1)
+81	82	IEEE Congress on Evolutionary Computation	IEEE Congress on Evolutionary Computation
+81	83	IEEE Congress on Evolutionary Computation	IEEE Congress on Evolutionary Computation
+82	83	IEEE Congress on Evolutionary Computation	IEEE Congress on Evolutionary Computation
+89	90	ICIRA (2)	ICIRA (2)
+89	91	ICIRA (2)	ICIRA (2)
+90	91	ICIRA (2)	ICIRA (2)
+92	93	IROS	IROS
+92	94	IROS	IROS
+92	95	IROS	IROS
+92	96	IROS	IROS
+93	94	IROS	IROS
+93	95	IROS	IROS
+93	96	IROS	IROS
+94	95	IROS	IROS
+94	96	IROS	IROS
+95	96	IROS	IROS
+98	99	MMSP	MMSP
+101	102	ICARCV	ICARCV
+101	103	ICARCV	ICARCV
+101	104	ICARCV	ICARCV
+102	103	ICARCV	ICARCV
+102	104	ICARCV	ICARCV
+103	104	ICARCV	ICARCV
+107	154	BMC Bioinformatics	Bioinformatics
+112	164	Neurocomputing	Neurocomputing
+118	177	Pattern Recognition	Pattern Recognition
+119	120	Theor. Comput. Sci.	Theor. Comput. Sci.
+128	129	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+128	130	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+128	131	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+128	132	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+128	141	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+129	130	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+129	131	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+129	132	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+129	141	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+130	131	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+130	132	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+130	141	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+131	132	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+131	141	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+132	141	Science in China Series F: Information Sciences	Science in China Series F: Information Sciences
+161	178	Microelectronics Journal	Microelectronics Journal
+162	168	Proceedings of the Third International Conference on Image and Graphics	Proceedings of the Fourth International Conference on Image and Graphics
+162	169	Proceedings of the Third International Conference on Image and Graphics	Proceedings of the Fourth International Conference on Image and Graphics
+165	167	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops	Proceedings of the 2007 IFIP International Conference on Network and Parallel Computing Workshops
+166	179	Proceedings of the Third International Conference on Natural Computation - Volume 05	Proceedings of the 2008 Fourth International Conference on Natural Computation - Volume 06
+168	169	Proceedings of the Fourth International Conference on Image and Graphics	Proceedings of the Fourth International Conference on Image and Graphics
+170	173	Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing	Proceedings of the 2008 Second International Conference on Genetic and Evolutionary Computing
+171	172	Computational Intelligence and Security: International Conference, CIS 2006, Guangzhou, China, November 3-6, 2006, Revised Selected Papers	Computational Intelligence and Security: International Conference, CIS 2006, Guangzhou, China, November 3-6, 2006, Revised Selected Papers
+174	176	Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02	Proceedings of the 2009 WASE International Conference on Information Engineering - Volume 02

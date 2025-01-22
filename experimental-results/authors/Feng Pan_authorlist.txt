@@ -1,0 +1,486 @@
+0	1	Jerry R. Hobbs	Jerry R. Hobbs
+0	5	Jerry R. Hobbs	Jerry R. Hobbs
+0	44	Jerry R. Hobbs	Jerry R. Hobbs
+0	50	Jerry R. Hobbs	Jerry R. Hobbs
+1	5	Jerry R. Hobbs	Jerry R. Hobbs
+1	44	Jerry R. Hobbs	Jerry R. Hobbs
+1	50	Jerry R. Hobbs	Jerry R. Hobbs
+3	7	Wei Wang	Wei Wang
+3	8	Xiang Zhang	Xiang Zhang
+3	8	Wei Wang	Wei Wang
+3	9	Xiang Zhang	Xiang Zhang
+3	9	Wei Wang	Wei Wang
+3	11	Wei Wang	Wei Wang
+3	12	Wei Wang	Wei Wang
+3	13	Wei Wang	Wei Wang
+3	40	Xiang Zhang	Xiang Zhang
+3	40	Wei Wang	Wei Wang
+3	42	Xiang Zhang	Xiang Zhang
+3	42	Wei Wang	Wei Wang
+3	60	Xiang Zhang	Xiang Zhang
+3	60	Wei Wang	Wei Wang
+4	47	Alexander Gutfraind	Alexander Gutfraind
+4	47	Aric A. Hagberg	Aric A. Hagberg
+5	44	Jerry R. Hobbs	Jerry R. Hobbs
+5	50	Jerry R. Hobbs	Jerry R. Hobbs
+6	17	Si Wu	Si Wu
+6	18	Zengguo Li	Zengguo Li
+6	18	Ce Zhu	Ce Zhu
+6	18	Genan Feng	Genan Feng
+6	18	Xiaokang Yang	Xiaokang Yang
+6	18	Si Wu	Si Wu
+6	18	Nam Ling	Nam Ling
+6	20	Si Wu	Si Wu
+6	22	Si Wu	Si Wu
+6	30	Si Wu	Si Wu
+6	31	Xiaokang Yang	Xiaokang Yang
+6	32	Xiaokang Yang	Xiaokang Yang
+6	39	Genan Feng	Genan Feng
+6	39	Si Wu	Si Wu
+6	51	Ce Zhu	Ce Zhu
+6	51	Genan Feng	Genan Feng
+6	51	Xiaokang Yang	Xiaokang Yang
+6	51	Si Wu	Si Wu
+6	51	Nam Ling	Nam Ling
+6	52	Zengguo Li	Zengguo Li
+6	52	Genan Feng	Genan Feng
+6	53	Si Wu	Si Wu
+6	54	Si Wu	Si Wu
+7	8	Wei Wang	Wei Wang
+7	9	Wei Wang	Wei Wang
+7	11	Wei Wang	Wei Wang
+7	12	Wei Wang	Wei Wang
+7	12	Leonard McMillan	Leonard McMillan
+7	13	Wei Wang	Wei Wang
+7	13	Leonard McMillan	Leonard McMillan
+7	40	Wei Wang	Wei Wang
+7	42	Wei Wang	Wei Wang
+7	60	Wei Wang	Wei Wang
+8	9	Xiang Zhang	Xiang Zhang
+8	9	Wei Wang	Wei Wang
+8	11	Wei Wang	Wei Wang
+8	12	Wei Wang	Wei Wang
+8	13	Wei Wang	Wei Wang
+8	40	Xiang Zhang	Xiang Zhang
+8	40	Wei Wang	Wei Wang
+8	42	Xiang Zhang	Xiang Zhang
+8	42	Wei Wang	Wei Wang
+8	60	Xiang Zhang	Xiang Zhang
+8	60	Wei Wang	Wei Wang
+9	11	Wei Wang	Wei Wang
+9	12	Wei Wang	Wei Wang
+9	13	Wei Wang	Wei Wang
+9	40	Xiang Zhang	Xiang Zhang
+9	40	Wei Wang	Wei Wang
+9	42	Xiang Zhang	Xiang Zhang
+9	42	Wei Wang	Wei Wang
+9	60	Xiang Zhang	Xiang Zhang
+9	60	Wei Wang	Wei Wang
+10	11	Anthony K. H. Tung	Anthony K. H. Tung
+10	35	Gao Cong	Gao Cong
+10	35	Anthony K. H. Tung	Anthony K. H. Tung
+10	41	Gao Cong	Gao Cong
+10	41	Anthony K. H. Tung	Anthony K. H. Tung
+10	43	Gao Cong	Gao Cong
+10	43	Anthony K. H. Tung	Anthony K. H. Tung
+11	12	Wei Wang	Wei Wang
+11	13	Wei Wang	Wei Wang
+11	35	Anthony K. H. Tung	Anthony K. H. Tung
+11	35	Jiong Yang	Jiong Yang
+11	40	Wei Wang	Wei Wang
+11	41	Anthony K. H. Tung	Anthony K. H. Tung
+11	41	Jiong Yang	Jiong Yang
+11	42	Wei Wang	Wei Wang
+11	43	Anthony K. H. Tung	Anthony K. H. Tung
+11	60	Wei Wang	Wei Wang
+12	13	Leonard McMillan	Leonard McMillan
+12	13	David Threadgill	David Threadgill
+12	13	Wei Wang	Wei Wang
+12	40	Wei Wang	Wei Wang
+12	42	Wei Wang	Wei Wang
+12	60	Wei Wang	Wei Wang
+13	40	Wei Wang	Wei Wang
+13	42	Wei Wang	Wei Wang
+13	60	Wei Wang	Wei Wang
+15	17	Zhengguo Li	Zhengguo Li
+15	17	Keng Pang Lim	Keng Pang Lim
+15	17	Xiao Lin	Xiao Lin
+15	17	Susanto Rahardja	Susanto Rahardja
+15	20	Zhengguo Li	Zhengguo Li
+15	20	Keng Pang Lim	Keng Pang Lim
+15	20	Xiao Lin	Xiao Lin
+15	20	Susanto Rahardja	Susanto Rahardja
+15	21	Zhengguo Li	Zhengguo Li
+15	21	Keng Pang Lim	Keng Pang Lim
+15	21	Xiao Lin	Xiao Lin
+15	21	Susanto Rahardja	Susanto Rahardja
+15	22	Zhengguo Li	Zhengguo Li
+15	22	Keng Pang Lim	Keng Pang Lim
+15	22	Xiao Lin	Xiao Lin
+15	22	Susanto Rahardja	Susanto Rahardja
+15	23	Xiao Lin	Xiao Lin
+15	23	Susanto Rahardja	Susanto Rahardja
+15	30	Zhengguo Li	Zhengguo Li
+15	30	Keng Pang Lim	Keng Pang Lim
+15	30	Xiao Lin	Xiao Lin
+15	30	Susanto Rahardja	Susanto Rahardja
+15	31	Xiao Lin	Xiao Lin
+15	31	Susanto Rahardja	Susanto Rahardja
+15	32	Keng Pang Lim	Keng Pang Lim
+15	32	Xiao Lin	Xiao Lin
+15	32	Susanto Rahardja	Susanto Rahardja
+15	39	Zhengguo Li	Zhengguo Li
+15	39	Keng Pang Lim	Keng Pang Lim
+15	51	Zhengguo Li	Zhengguo Li
+15	52	Keng Pang Lim	Keng Pang Lim
+15	53	Keng Pang Lim	Keng Pang Lim
+15	53	Xiao Lin	Xiao Lin
+15	53	Susanto Rahardja	Susanto Rahardja
+15	54	Zhengguo Li	Zhengguo Li
+15	54	Keng Pang Lim	Keng Pang Lim
+15	54	Xiao Lin	Xiao Lin
+15	54	Susanto Rahardja	Susanto Rahardja
+15	56	Xiao Lin	Xiao Lin
+15	56	Susanto Rahardja	Susanto Rahardja
+15	57	Zhengguo Li	Zhengguo Li
+15	57	Keng Pang Lim	Keng Pang Lim
+15	57	Xiao Lin	Xiao Lin
+15	57	Susanto Rahardja	Susanto Rahardja
+17	18	Si Wu	Si Wu
+17	20	Xiao Lin	Xiao Lin
+17	20	Susanto Rahardja	Susanto Rahardja
+17	20	Keng Pang Lim	Keng Pang Lim
+17	20	Zhengguo Li	Zhengguo Li
+17	20	Dajun Wu	Dajun Wu
+17	20	Si Wu	Si Wu
+17	21	Xiao Lin	Xiao Lin
+17	21	Susanto Rahardja	Susanto Rahardja
+17	21	Keng Pang Lim	Keng Pang Lim
+17	21	Zhengguo Li	Zhengguo Li
+17	22	Xiao Lin	Xiao Lin
+17	22	Susanto Rahardja	Susanto Rahardja
+17	22	Keng Pang Lim	Keng Pang Lim
+17	22	Zhengguo Li	Zhengguo Li
+17	22	Dajun Wu	Dajun Wu
+17	22	Si Wu	Si Wu
+17	23	Xiao Lin	Xiao Lin
+17	23	Susanto Rahardja	Susanto Rahardja
+17	30	Xiao Lin	Xiao Lin
+17	30	Susanto Rahardja	Susanto Rahardja
+17	30	Keng Pang Lim	Keng Pang Lim
+17	30	Zhengguo Li	Zhengguo Li
+17	30	Dajun Wu	Dajun Wu
+17	30	Si Wu	Si Wu
+17	31	Xiao Lin	Xiao Lin
+17	31	Susanto Rahardja	Susanto Rahardja
+17	32	Xiao Lin	Xiao Lin
+17	32	Susanto Rahardja	Susanto Rahardja
+17	32	Keng Pang Lim	Keng Pang Lim
+17	39	Keng Pang Lim	Keng Pang Lim
+17	39	Zhengguo Li	Zhengguo Li
+17	39	Dajun Wu	Dajun Wu
+17	39	Si Wu	Si Wu
+17	51	Zhengguo Li	Zhengguo Li
+17	51	Si Wu	Si Wu
+17	52	Keng Pang Lim	Keng Pang Lim
+17	53	Xiao Lin	Xiao Lin
+17	53	Susanto Rahardja	Susanto Rahardja
+17	53	Keng Pang Lim	Keng Pang Lim
+17	53	Dajun Wu	Dajun Wu
+17	53	Si Wu	Si Wu
+17	54	Xiao Lin	Xiao Lin
+17	54	Susanto Rahardja	Susanto Rahardja
+17	54	Keng Pang Lim	Keng Pang Lim
+17	54	Zhengguo Li	Zhengguo Li
+17	54	Dajun Wu	Dajun Wu
+17	54	Si Wu	Si Wu
+17	56	Xiao Lin	Xiao Lin
+17	56	Susanto Rahardja	Susanto Rahardja
+17	57	Xiao Lin	Xiao Lin
+17	57	Susanto Rahardja	Susanto Rahardja
+17	57	Keng Pang Lim	Keng Pang Lim
+17	57	Zhengguo Li	Zhengguo Li
+18	20	Si Wu	Si Wu
+18	22	Si Wu	Si Wu
+18	30	Si Wu	Si Wu
+18	31	Xiaokang Yang	Xiaokang Yang
+18	32	Xiaokang Yang	Xiaokang Yang
+18	39	Genan Feng	Genan Feng
+18	39	Si Wu	Si Wu
+18	51	Xiaokang Yang	Xiaokang Yang
+18	51	Ce Zhu	Ce Zhu
+18	51	Genan Feng	Genan Feng
+18	51	Si Wu	Si Wu
+18	51	Nam Ling	Nam Ling
+18	52	Zengguo Li	Zengguo Li
+18	52	Genan Feng	Genan Feng
+18	53	Si Wu	Si Wu
+18	54	Si Wu	Si Wu
+19	24	Yin Sun	Yin Sun
+19	31	Zhongkang Lu	Zhongkang Lu
+20	21	Zhengguo Li	Zhengguo Li
+20	21	Keng Pang Lim	Keng Pang Lim
+20	21	Xiao Lin	Xiao Lin
+20	21	Susanto Rahardja	Susanto Rahardja
+20	22	Zhengguo Li	Zhengguo Li
+20	22	Keng Pang Lim	Keng Pang Lim
+20	22	Xiao Lin	Xiao Lin
+20	22	Susanto Rahardja	Susanto Rahardja
+20	22	Dajun Wu	Dajun Wu
+20	22	Si Wu	Si Wu
+20	23	Xiao Lin	Xiao Lin
+20	23	Susanto Rahardja	Susanto Rahardja
+20	30	Zhengguo Li	Zhengguo Li
+20	30	Keng Pang Lim	Keng Pang Lim
+20	30	Xiao Lin	Xiao Lin
+20	30	Susanto Rahardja	Susanto Rahardja
+20	30	Dajun Wu	Dajun Wu
+20	30	Si Wu	Si Wu
+20	31	Xiao Lin	Xiao Lin
+20	31	Susanto Rahardja	Susanto Rahardja
+20	32	Keng Pang Lim	Keng Pang Lim
+20	32	Xiao Lin	Xiao Lin
+20	32	Susanto Rahardja	Susanto Rahardja
+20	39	Zhengguo Li	Zhengguo Li
+20	39	Keng Pang Lim	Keng Pang Lim
+20	39	Dajun Wu	Dajun Wu
+20	39	Si Wu	Si Wu
+20	51	Zhengguo Li	Zhengguo Li
+20	51	Si Wu	Si Wu
+20	52	Keng Pang Lim	Keng Pang Lim
+20	53	Keng Pang Lim	Keng Pang Lim
+20	53	Xiao Lin	Xiao Lin
+20	53	Susanto Rahardja	Susanto Rahardja
+20	53	Dajun Wu	Dajun Wu
+20	53	Si Wu	Si Wu
+20	54	Zhengguo Li	Zhengguo Li
+20	54	Keng Pang Lim	Keng Pang Lim
+20	54	Xiao Lin	Xiao Lin
+20	54	Susanto Rahardja	Susanto Rahardja
+20	54	Dajun Wu	Dajun Wu
+20	54	Si Wu	Si Wu
+20	56	Xiao Lin	Xiao Lin
+20	56	Susanto Rahardja	Susanto Rahardja
+20	57	Zhengguo Li	Zhengguo Li
+20	57	Keng Pang Lim	Keng Pang Lim
+20	57	Xiao Lin	Xiao Lin
+20	57	Susanto Rahardja	Susanto Rahardja
+21	22	Xiao Lin	Xiao Lin
+21	22	Susanto Rahardja	Susanto Rahardja
+21	22	Keng Pang Lim	Keng Pang Lim
+21	22	Zhengguo Li	Zhengguo Li
+21	23	Xiao Lin	Xiao Lin
+21	23	Susanto Rahardja	Susanto Rahardja
+21	30	Xiao Lin	Xiao Lin
+21	30	Susanto Rahardja	Susanto Rahardja
+21	30	Keng Pang Lim	Keng Pang Lim
+21	30	Zhengguo Li	Zhengguo Li
+21	31	Xiao Lin	Xiao Lin
+21	31	Susanto Rahardja	Susanto Rahardja
+21	32	Xiao Lin	Xiao Lin
+21	32	Susanto Rahardja	Susanto Rahardja
+21	32	Keng Pang Lim	Keng Pang Lim
+21	39	Keng Pang Lim	Keng Pang Lim
+21	39	Zhengguo Li	Zhengguo Li
+21	51	Zhengguo Li	Zhengguo Li
+21	52	Keng Pang Lim	Keng Pang Lim
+21	53	Xiao Lin	Xiao Lin
+21	53	Susanto Rahardja	Susanto Rahardja
+21	53	Keng Pang Lim	Keng Pang Lim
+21	54	Xiao Lin	Xiao Lin
+21	54	Susanto Rahardja	Susanto Rahardja
+21	54	Keng Pang Lim	Keng Pang Lim
+21	54	Zhengguo Li	Zhengguo Li
+21	56	Xiao Lin	Xiao Lin
+21	56	Susanto Rahardja	Susanto Rahardja
+21	57	Xiao Lin	Xiao Lin
+21	57	Susanto Rahardja	Susanto Rahardja
+21	57	Keng Pang Lim	Keng Pang Lim
+21	57	Zhengguo Li	Zhengguo Li
+22	23	Xiao Lin	Xiao Lin
+22	23	Susanto Rahardja	Susanto Rahardja
+22	30	Xiao Lin	Xiao Lin
+22	30	Susanto Rahardja	Susanto Rahardja
+22	30	Keng Pang Lim	Keng Pang Lim
+22	30	Zhengguo Li	Zhengguo Li
+22	30	Dajun Wu	Dajun Wu
+22	30	Si Wu	Si Wu
+22	31	Xiao Lin	Xiao Lin
+22	31	Susanto Rahardja	Susanto Rahardja
+22	32	Xiao Lin	Xiao Lin
+22	32	Susanto Rahardja	Susanto Rahardja
+22	32	Keng Pang Lim	Keng Pang Lim
+22	39	Keng Pang Lim	Keng Pang Lim
+22	39	Zhengguo Li	Zhengguo Li
+22	39	Dajun Wu	Dajun Wu
+22	39	Si Wu	Si Wu
+22	51	Zhengguo Li	Zhengguo Li
+22	51	Si Wu	Si Wu
+22	52	Keng Pang Lim	Keng Pang Lim
+22	53	Xiao Lin	Xiao Lin
+22	53	Susanto Rahardja	Susanto Rahardja
+22	53	Keng Pang Lim	Keng Pang Lim
+22	53	Dajun Wu	Dajun Wu
+22	53	Si Wu	Si Wu
+22	54	Xiao Lin	Xiao Lin
+22	54	Susanto Rahardja	Susanto Rahardja
+22	54	Keng Pang Lim	Keng Pang Lim
+22	54	Zhengguo Li	Zhengguo Li
+22	54	Dajun Wu	Dajun Wu
+22	54	Si Wu	Si Wu
+22	56	Xiao Lin	Xiao Lin
+22	56	Susanto Rahardja	Susanto Rahardja
+22	57	Xiao Lin	Xiao Lin
+22	57	Susanto Rahardja	Susanto Rahardja
+22	57	Keng Pang Lim	Keng Pang Lim
+22	57	Zhengguo Li	Zhengguo Li
+23	30	Xiao Lin	Xiao Lin
+23	30	Susanto Rahardja	Susanto Rahardja
+23	31	Xiao Lin	Xiao Lin
+23	31	Susanto Rahardja	Susanto Rahardja
+23	31	Ee Ping Ong	Ee Ping Ong
+23	31	Weisi Lin	Weisi Lin
+23	32	Xiao Lin	Xiao Lin
+23	32	Susanto Rahardja	Susanto Rahardja
+23	53	Xiao Lin	Xiao Lin
+23	53	Susanto Rahardja	Susanto Rahardja
+23	54	Xiao Lin	Xiao Lin
+23	54	Susanto Rahardja	Susanto Rahardja
+23	56	Xiao Lin	Xiao Lin
+23	56	Susanto Rahardja	Susanto Rahardja
+23	57	Xiao Lin	Xiao Lin
+23	57	Susanto Rahardja	Susanto Rahardja
+24	33	Hongtao Yu	Hongtao Yu
+24	33	Zhiping Lin	Zhiping Lin
+24	34	Hongtao Yu	Hongtao Yu
+24	34	Zhiping Lin	Zhiping Lin
+25	26	Joseph M. Schimmels	Joseph M. Schimmels
+28	29	Vincent W. Freeh	Vincent W. Freeh
+28	55	Vincent W. Freeh	Vincent W. Freeh
+28	55	Nandini Kappiah	Nandini Kappiah
+28	55	David K. Lowenthal	David K. Lowenthal
+28	55	Robert Springer	Robert Springer
+29	55	Vincent W. Freeh	Vincent W. Freeh
+30	31	Xiao Lin	Xiao Lin
+30	31	Susanto Rahardja	Susanto Rahardja
+30	32	Keng Pang Lim	Keng Pang Lim
+30	32	Xiao Lin	Xiao Lin
+30	32	Susanto Rahardja	Susanto Rahardja
+30	39	Zhengguo Li	Zhengguo Li
+30	39	Keng Pang Lim	Keng Pang Lim
+30	39	Si Wu	Si Wu
+30	39	Dajun Wu	Dajun Wu
+30	51	Zhengguo Li	Zhengguo Li
+30	51	Si Wu	Si Wu
+30	52	Keng Pang Lim	Keng Pang Lim
+30	53	Keng Pang Lim	Keng Pang Lim
+30	53	Xiao Lin	Xiao Lin
+30	53	Susanto Rahardja	Susanto Rahardja
+30	53	Si Wu	Si Wu
+30	53	Dajun Wu	Dajun Wu
+30	54	Zhengguo Li	Zhengguo Li
+30	54	Keng Pang Lim	Keng Pang Lim
+30	54	Xiao Lin	Xiao Lin
+30	54	Susanto Rahardja	Susanto Rahardja
+30	54	Si Wu	Si Wu
+30	54	Dajun Wu	Dajun Wu
+30	56	Xiao Lin	Xiao Lin
+30	56	Susanto Rahardja	Susanto Rahardja
+30	57	Zhengguo Li	Zhengguo Li
+30	57	Keng Pang Lim	Keng Pang Lim
+30	57	Xiao Lin	Xiao Lin
+30	57	Susanto Rahardja	Susanto Rahardja
+31	32	Xiao Lin	Xiao Lin
+31	32	Susanto Rahardja	Susanto Rahardja
+31	32	Susu Yao	Susu Yao
+31	32	Xiaokang Yang	Xiaokang Yang
+31	51	Xiaokang Yang	Xiaokang Yang
+31	53	Xiao Lin	Xiao Lin
+31	53	Susanto Rahardja	Susanto Rahardja
+31	54	Xiao Lin	Xiao Lin
+31	54	Susanto Rahardja	Susanto Rahardja
+31	56	Xiao Lin	Xiao Lin
+31	56	Susanto Rahardja	Susanto Rahardja
+31	57	Xiao Lin	Xiao Lin
+31	57	Susanto Rahardja	Susanto Rahardja
+32	39	Keng Pang Lim	Keng Pang Lim
+32	51	Xiaokang Yang	Xiaokang Yang
+32	52	Keng Pang Lim	Keng Pang Lim
+32	53	Keng Pang Lim	Keng Pang Lim
+32	53	Xiao Lin	Xiao Lin
+32	53	Susanto Rahardja	Susanto Rahardja
+32	54	Keng Pang Lim	Keng Pang Lim
+32	54	Xiao Lin	Xiao Lin
+32	54	Susanto Rahardja	Susanto Rahardja
+32	56	Xiao Lin	Xiao Lin
+32	56	Susanto Rahardja	Susanto Rahardja
+32	57	Keng Pang Lim	Keng Pang Lim
+32	57	Xiao Lin	Xiao Lin
+32	57	Susanto Rahardja	Susanto Rahardja
+33	34	Hongtao Yu	Hongtao Yu
+33	34	Zhiping Lin	Zhiping Lin
+35	41	Gao Cong	Gao Cong
+35	41	Anthony K. H. Tung	Anthony K. H. Tung
+35	41	Jiong Yang	Jiong Yang
+35	43	Gao Cong	Gao Cong
+35	43	Anthony K. H. Tung	Anthony K. H. Tung
+36	37	Thinh M. Le	Thinh M. Le
+39	51	Zhengguo Li	Zhengguo Li
+39	51	Genan Feng	Genan Feng
+39	51	Si Wu	Si Wu
+39	52	Keng Pang Lim	Keng Pang Lim
+39	52	Genan Feng	Genan Feng
+39	53	Keng Pang Lim	Keng Pang Lim
+39	53	Dajun Wu	Dajun Wu
+39	53	Si Wu	Si Wu
+39	54	Keng Pang Lim	Keng Pang Lim
+39	54	Dajun Wu	Dajun Wu
+39	54	Zhengguo Li	Zhengguo Li
+39	54	Si Wu	Si Wu
+39	57	Keng Pang Lim	Keng Pang Lim
+39	57	Zhengguo Li	Zhengguo Li
+40	42	Xiang Zhang	Xiang Zhang
+40	42	Wei Wang	Wei Wang
+40	60	Xiang Zhang	Xiang Zhang
+40	60	Wei Wang	Wei Wang
+41	43	Gao Cong	Gao Cong
+41	43	Anthony K. H. Tung	Anthony K. H. Tung
+41	43	Xin Xu	Xin Xu
+42	60	Xiang Zhang	Xiang Zhang
+42	60	Wei Wang	Wei Wang
+44	50	Jerry R. Hobbs	Jerry R. Hobbs
+51	52	Genan Feng	Genan Feng
+51	53	Si Wu	Si Wu
+51	54	Zhengguo Li	Zhengguo Li
+51	54	Si Wu	Si Wu
+51	57	Zhengguo Li	Zhengguo Li
+52	53	Keng Pang Lim	Keng Pang Lim
+52	54	Keng Pang Lim	Keng Pang Lim
+52	57	Keng Pang Lim	Keng Pang Lim
+53	54	Xiao Lin	Xiao Lin
+53	54	Susanto Rahardja	Susanto Rahardja
+53	54	Keng Pang Lim	Keng Pang Lim
+53	54	Dajun Wu	Dajun Wu
+53	54	Si Wu	Si Wu
+53	56	Xiao Lin	Xiao Lin
+53	56	Susanto Rahardja	Susanto Rahardja
+53	57	Xiao Lin	Xiao Lin
+53	57	Susanto Rahardja	Susanto Rahardja
+53	57	Keng Pang Lim	Keng Pang Lim
+53	71	Z. G. Li	Z. G. Li
+54	56	Xiao Lin	Xiao Lin
+54	56	Susanto Rahardja	Susanto Rahardja
+54	57	Keng Pang Lim	Keng Pang Lim
+54	57	Zhengguo Li	Zhengguo Li
+54	57	Xiao Lin	Xiao Lin
+54	57	Susanto Rahardja	Susanto Rahardja
+56	57	Xiao Lin	Xiao Lin
+56	57	Susanto Rahardja	Susanto Rahardja
+57	71	G. N. Feng	G. N. Feng
+58	72	Xianfang Wang	Xianfang Wang
+58	72	Jindong Chen	Jindong Chen
+59	66	Jiwu Huang	Jiwu Huang
+62	67	Bin Xin	Bin Xin
+62	67	Jie Chen	Jie Chen
+65	69	Min Xia	Min Xia
+65	69	En'jian Bai	En'jian Bai

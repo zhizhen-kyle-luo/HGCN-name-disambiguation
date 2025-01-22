@@ -1,0 +1,595 @@
+0	1	null	CriticalBlue Ltd, Edinburgh, UK
+0	2	null	null
+0	3	null	Critical Blue, San Jose
+0	4	null	Critical Blue Ltd., Edinburgh, UK
+0	5	null	HP Labs., Bristol
+0	6	null	null
+0	7	null	University of California, Irvine, CA
+0	8	null	University of California, Irvine, USA
+0	9	null	Nat. Semicond. Corp., Santa Clara, CA
+0	10	null	null
+0	11	null	null
+0	12	null	null
+0	13	null	null
+0	14	null	null
+0	15	null	null
+0	16	null	null
+0	17	null	University of California, Irvine, USA
+0	18	null	null
+0	19	null	null
+0	20	null	null
+0	21	null	null
+0	22	null	null
+0	23	null	null
+0	24	null	University of California, Irvine
+0	25	null	University of California, Irvine
+0	26	null	University of California, Irvine
+0	27	null	University of California, Irvine
+0	28	null	University of California, Irvine
+0	29	null	University of California, Irvine
+0	30	null	University of California, Irvine
+0	31	null	University of California, Irvine
+0	32	null	Univ. of York, Heslington, UK
+0	33	null	null
+0	34	null	null
+1	2	CriticalBlue Ltd, Edinburgh, UK	null
+1	3	CriticalBlue Ltd, Edinburgh, UK	Critical Blue, San Jose
+1	4	CriticalBlue Ltd, Edinburgh, UK	Critical Blue Ltd., Edinburgh, UK
+1	5	CriticalBlue Ltd, Edinburgh, UK	HP Labs., Bristol
+1	6	CriticalBlue Ltd, Edinburgh, UK	null
+1	7	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine, CA
+1	8	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine, USA
+1	9	CriticalBlue Ltd, Edinburgh, UK	Nat. Semicond. Corp., Santa Clara, CA
+1	10	CriticalBlue Ltd, Edinburgh, UK	null
+1	11	CriticalBlue Ltd, Edinburgh, UK	null
+1	12	CriticalBlue Ltd, Edinburgh, UK	null
+1	13	CriticalBlue Ltd, Edinburgh, UK	null
+1	14	CriticalBlue Ltd, Edinburgh, UK	null
+1	15	CriticalBlue Ltd, Edinburgh, UK	null
+1	16	CriticalBlue Ltd, Edinburgh, UK	null
+1	17	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine, USA
+1	18	CriticalBlue Ltd, Edinburgh, UK	null
+1	19	CriticalBlue Ltd, Edinburgh, UK	null
+1	20	CriticalBlue Ltd, Edinburgh, UK	null
+1	21	CriticalBlue Ltd, Edinburgh, UK	null
+1	22	CriticalBlue Ltd, Edinburgh, UK	null
+1	23	CriticalBlue Ltd, Edinburgh, UK	null
+1	24	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	25	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	26	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	27	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	28	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	29	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	30	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	31	CriticalBlue Ltd, Edinburgh, UK	University of California, Irvine
+1	32	CriticalBlue Ltd, Edinburgh, UK	Univ. of York, Heslington, UK
+1	33	CriticalBlue Ltd, Edinburgh, UK	null
+1	34	CriticalBlue Ltd, Edinburgh, UK	null
+2	3	null	Critical Blue, San Jose
+2	4	null	Critical Blue Ltd., Edinburgh, UK
+2	5	null	HP Labs., Bristol
+2	6	null	null
+2	7	null	University of California, Irvine, CA
+2	8	null	University of California, Irvine, USA
+2	9	null	Nat. Semicond. Corp., Santa Clara, CA
+2	10	null	null
+2	11	null	null
+2	12	null	null
+2	13	null	null
+2	14	null	null
+2	15	null	null
+2	16	null	null
+2	17	null	University of California, Irvine, USA
+2	18	null	null
+2	19	null	null
+2	20	null	null
+2	21	null	null
+2	22	null	null
+2	23	null	null
+2	24	null	University of California, Irvine
+2	25	null	University of California, Irvine
+2	26	null	University of California, Irvine
+2	27	null	University of California, Irvine
+2	28	null	University of California, Irvine
+2	29	null	University of California, Irvine
+2	30	null	University of California, Irvine
+2	31	null	University of California, Irvine
+2	32	null	Univ. of York, Heslington, UK
+2	33	null	null
+2	34	null	null
+3	4	Critical Blue, San Jose	Critical Blue Ltd., Edinburgh, UK
+3	5	Critical Blue, San Jose	HP Labs., Bristol
+3	6	Critical Blue, San Jose	null
+3	7	Critical Blue, San Jose	University of California, Irvine, CA
+3	8	Critical Blue, San Jose	University of California, Irvine, USA
+3	9	Critical Blue, San Jose	Nat. Semicond. Corp., Santa Clara, CA
+3	10	Critical Blue, San Jose	null
+3	11	Critical Blue, San Jose	null
+3	12	Critical Blue, San Jose	null
+3	13	Critical Blue, San Jose	null
+3	14	Critical Blue, San Jose	null
+3	15	Critical Blue, San Jose	null
+3	16	Critical Blue, San Jose	null
+3	17	Critical Blue, San Jose	University of California, Irvine, USA
+3	18	Critical Blue, San Jose	null
+3	19	Critical Blue, San Jose	null
+3	20	Critical Blue, San Jose	null
+3	21	Critical Blue, San Jose	null
+3	22	Critical Blue, San Jose	null
+3	23	Critical Blue, San Jose	null
+3	24	Critical Blue, San Jose	University of California, Irvine
+3	25	Critical Blue, San Jose	University of California, Irvine
+3	26	Critical Blue, San Jose	University of California, Irvine
+3	27	Critical Blue, San Jose	University of California, Irvine
+3	28	Critical Blue, San Jose	University of California, Irvine
+3	29	Critical Blue, San Jose	University of California, Irvine
+3	30	Critical Blue, San Jose	University of California, Irvine
+3	31	Critical Blue, San Jose	University of California, Irvine
+3	32	Critical Blue, San Jose	Univ. of York, Heslington, UK
+3	33	Critical Blue, San Jose	null
+3	34	Critical Blue, San Jose	null
+4	5	Critical Blue Ltd., Edinburgh, UK	HP Labs., Bristol
+4	6	Critical Blue Ltd., Edinburgh, UK	null
+4	7	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine, CA
+4	8	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine, USA
+4	9	Critical Blue Ltd., Edinburgh, UK	Nat. Semicond. Corp., Santa Clara, CA
+4	10	Critical Blue Ltd., Edinburgh, UK	null
+4	11	Critical Blue Ltd., Edinburgh, UK	null
+4	12	Critical Blue Ltd., Edinburgh, UK	null
+4	13	Critical Blue Ltd., Edinburgh, UK	null
+4	14	Critical Blue Ltd., Edinburgh, UK	null
+4	15	Critical Blue Ltd., Edinburgh, UK	null
+4	16	Critical Blue Ltd., Edinburgh, UK	null
+4	17	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine, USA
+4	18	Critical Blue Ltd., Edinburgh, UK	null
+4	19	Critical Blue Ltd., Edinburgh, UK	null
+4	20	Critical Blue Ltd., Edinburgh, UK	null
+4	21	Critical Blue Ltd., Edinburgh, UK	null
+4	22	Critical Blue Ltd., Edinburgh, UK	null
+4	23	Critical Blue Ltd., Edinburgh, UK	null
+4	24	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	25	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	26	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	27	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	28	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	29	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	30	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	31	Critical Blue Ltd., Edinburgh, UK	University of California, Irvine
+4	32	Critical Blue Ltd., Edinburgh, UK	Univ. of York, Heslington, UK
+4	33	Critical Blue Ltd., Edinburgh, UK	null
+4	34	Critical Blue Ltd., Edinburgh, UK	null
+5	6	HP Labs., Bristol	null
+5	7	HP Labs., Bristol	University of California, Irvine, CA
+5	8	HP Labs., Bristol	University of California, Irvine, USA
+5	9	HP Labs., Bristol	Nat. Semicond. Corp., Santa Clara, CA
+5	10	HP Labs., Bristol	null
+5	11	HP Labs., Bristol	null
+5	12	HP Labs., Bristol	null
+5	13	HP Labs., Bristol	null
+5	14	HP Labs., Bristol	null
+5	15	HP Labs., Bristol	null
+5	16	HP Labs., Bristol	null
+5	17	HP Labs., Bristol	University of California, Irvine, USA
+5	18	HP Labs., Bristol	null
+5	19	HP Labs., Bristol	null
+5	20	HP Labs., Bristol	null
+5	21	HP Labs., Bristol	null
+5	22	HP Labs., Bristol	null
+5	23	HP Labs., Bristol	null
+5	24	HP Labs., Bristol	University of California, Irvine
+5	25	HP Labs., Bristol	University of California, Irvine
+5	26	HP Labs., Bristol	University of California, Irvine
+5	27	HP Labs., Bristol	University of California, Irvine
+5	28	HP Labs., Bristol	University of California, Irvine
+5	29	HP Labs., Bristol	University of California, Irvine
+5	30	HP Labs., Bristol	University of California, Irvine
+5	31	HP Labs., Bristol	University of California, Irvine
+5	32	HP Labs., Bristol	Univ. of York, Heslington, UK
+5	33	HP Labs., Bristol	null
+5	34	HP Labs., Bristol	null
+6	7	null	University of California, Irvine, CA
+6	8	null	University of California, Irvine, USA
+6	9	null	Nat. Semicond. Corp., Santa Clara, CA
+6	10	null	null
+6	11	null	null
+6	12	null	null
+6	13	null	null
+6	14	null	null
+6	15	null	null
+6	16	null	null
+6	17	null	University of California, Irvine, USA
+6	18	null	null
+6	19	null	null
+6	20	null	null
+6	21	null	null
+6	22	null	null
+6	23	null	null
+6	24	null	University of California, Irvine
+6	25	null	University of California, Irvine
+6	26	null	University of California, Irvine
+6	27	null	University of California, Irvine
+6	28	null	University of California, Irvine
+6	29	null	University of California, Irvine
+6	30	null	University of California, Irvine
+6	31	null	University of California, Irvine
+6	32	null	Univ. of York, Heslington, UK
+6	33	null	null
+6	34	null	null
+7	8	University of California, Irvine, CA	University of California, Irvine, USA
+7	9	University of California, Irvine, CA	Nat. Semicond. Corp., Santa Clara, CA
+7	10	University of California, Irvine, CA	null
+7	11	University of California, Irvine, CA	null
+7	12	University of California, Irvine, CA	null
+7	13	University of California, Irvine, CA	null
+7	14	University of California, Irvine, CA	null
+7	15	University of California, Irvine, CA	null
+7	16	University of California, Irvine, CA	null
+7	17	University of California, Irvine, CA	University of California, Irvine, USA
+7	18	University of California, Irvine, CA	null
+7	19	University of California, Irvine, CA	null
+7	20	University of California, Irvine, CA	null
+7	21	University of California, Irvine, CA	null
+7	22	University of California, Irvine, CA	null
+7	23	University of California, Irvine, CA	null
+7	24	University of California, Irvine, CA	University of California, Irvine
+7	25	University of California, Irvine, CA	University of California, Irvine
+7	26	University of California, Irvine, CA	University of California, Irvine
+7	27	University of California, Irvine, CA	University of California, Irvine
+7	28	University of California, Irvine, CA	University of California, Irvine
+7	29	University of California, Irvine, CA	University of California, Irvine
+7	30	University of California, Irvine, CA	University of California, Irvine
+7	31	University of California, Irvine, CA	University of California, Irvine
+7	32	University of California, Irvine, CA	Univ. of York, Heslington, UK
+7	33	University of California, Irvine, CA	null
+7	34	University of California, Irvine, CA	null
+8	9	University of California, Irvine, USA	Nat. Semicond. Corp., Santa Clara, CA
+8	10	University of California, Irvine, USA	null
+8	11	University of California, Irvine, USA	null
+8	12	University of California, Irvine, USA	null
+8	13	University of California, Irvine, USA	null
+8	14	University of California, Irvine, USA	null
+8	15	University of California, Irvine, USA	null
+8	16	University of California, Irvine, USA	null
+8	17	University of California, Irvine, USA	University of California, Irvine, USA
+8	18	University of California, Irvine, USA	null
+8	19	University of California, Irvine, USA	null
+8	20	University of California, Irvine, USA	null
+8	21	University of California, Irvine, USA	null
+8	22	University of California, Irvine, USA	null
+8	23	University of California, Irvine, USA	null
+8	24	University of California, Irvine, USA	University of California, Irvine
+8	25	University of California, Irvine, USA	University of California, Irvine
+8	26	University of California, Irvine, USA	University of California, Irvine
+8	27	University of California, Irvine, USA	University of California, Irvine
+8	28	University of California, Irvine, USA	University of California, Irvine
+8	29	University of California, Irvine, USA	University of California, Irvine
+8	30	University of California, Irvine, USA	University of California, Irvine
+8	31	University of California, Irvine, USA	University of California, Irvine
+8	32	University of California, Irvine, USA	Univ. of York, Heslington, UK
+8	33	University of California, Irvine, USA	null
+8	34	University of California, Irvine, USA	null
+9	10	Nat. Semicond. Corp., Santa Clara, CA	null
+9	11	Nat. Semicond. Corp., Santa Clara, CA	null
+9	12	Nat. Semicond. Corp., Santa Clara, CA	null
+9	13	Nat. Semicond. Corp., Santa Clara, CA	null
+9	14	Nat. Semicond. Corp., Santa Clara, CA	null
+9	15	Nat. Semicond. Corp., Santa Clara, CA	null
+9	16	Nat. Semicond. Corp., Santa Clara, CA	null
+9	17	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine, USA
+9	18	Nat. Semicond. Corp., Santa Clara, CA	null
+9	19	Nat. Semicond. Corp., Santa Clara, CA	null
+9	20	Nat. Semicond. Corp., Santa Clara, CA	null
+9	21	Nat. Semicond. Corp., Santa Clara, CA	null
+9	22	Nat. Semicond. Corp., Santa Clara, CA	null
+9	23	Nat. Semicond. Corp., Santa Clara, CA	null
+9	24	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	25	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	26	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	27	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	28	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	29	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	30	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	31	Nat. Semicond. Corp., Santa Clara, CA	University of California, Irvine
+9	32	Nat. Semicond. Corp., Santa Clara, CA	Univ. of York, Heslington, UK
+9	33	Nat. Semicond. Corp., Santa Clara, CA	null
+9	34	Nat. Semicond. Corp., Santa Clara, CA	null
+10	11	null	null
+10	12	null	null
+10	13	null	null
+10	14	null	null
+10	15	null	null
+10	16	null	null
+10	17	null	University of California, Irvine, USA
+10	18	null	null
+10	19	null	null
+10	20	null	null
+10	21	null	null
+10	22	null	null
+10	23	null	null
+10	24	null	University of California, Irvine
+10	25	null	University of California, Irvine
+10	26	null	University of California, Irvine
+10	27	null	University of California, Irvine
+10	28	null	University of California, Irvine
+10	29	null	University of California, Irvine
+10	30	null	University of California, Irvine
+10	31	null	University of California, Irvine
+10	32	null	Univ. of York, Heslington, UK
+10	33	null	null
+10	34	null	null
+11	12	null	null
+11	13	null	null
+11	14	null	null
+11	15	null	null
+11	16	null	null
+11	17	null	University of California, Irvine, USA
+11	18	null	null
+11	19	null	null
+11	20	null	null
+11	21	null	null
+11	22	null	null
+11	23	null	null
+11	24	null	University of California, Irvine
+11	25	null	University of California, Irvine
+11	26	null	University of California, Irvine
+11	27	null	University of California, Irvine
+11	28	null	University of California, Irvine
+11	29	null	University of California, Irvine
+11	30	null	University of California, Irvine
+11	31	null	University of California, Irvine
+11	32	null	Univ. of York, Heslington, UK
+11	33	null	null
+11	34	null	null
+12	13	null	null
+12	14	null	null
+12	15	null	null
+12	16	null	null
+12	17	null	University of California, Irvine, USA
+12	18	null	null
+12	19	null	null
+12	20	null	null
+12	21	null	null
+12	22	null	null
+12	23	null	null
+12	24	null	University of California, Irvine
+12	25	null	University of California, Irvine
+12	26	null	University of California, Irvine
+12	27	null	University of California, Irvine
+12	28	null	University of California, Irvine
+12	29	null	University of California, Irvine
+12	30	null	University of California, Irvine
+12	31	null	University of California, Irvine
+12	32	null	Univ. of York, Heslington, UK
+12	33	null	null
+12	34	null	null
+13	14	null	null
+13	15	null	null
+13	16	null	null
+13	17	null	University of California, Irvine, USA
+13	18	null	null
+13	19	null	null
+13	20	null	null
+13	21	null	null
+13	22	null	null
+13	23	null	null
+13	24	null	University of California, Irvine
+13	25	null	University of California, Irvine
+13	26	null	University of California, Irvine
+13	27	null	University of California, Irvine
+13	28	null	University of California, Irvine
+13	29	null	University of California, Irvine
+13	30	null	University of California, Irvine
+13	31	null	University of California, Irvine
+13	32	null	Univ. of York, Heslington, UK
+13	33	null	null
+13	34	null	null
+14	15	null	null
+14	16	null	null
+14	17	null	University of California, Irvine, USA
+14	18	null	null
+14	19	null	null
+14	20	null	null
+14	21	null	null
+14	22	null	null
+14	23	null	null
+14	24	null	University of California, Irvine
+14	25	null	University of California, Irvine
+14	26	null	University of California, Irvine
+14	27	null	University of California, Irvine
+14	28	null	University of California, Irvine
+14	29	null	University of California, Irvine
+14	30	null	University of California, Irvine
+14	31	null	University of California, Irvine
+14	32	null	Univ. of York, Heslington, UK
+14	33	null	null
+14	34	null	null
+15	16	null	null
+15	17	null	University of California, Irvine, USA
+15	18	null	null
+15	19	null	null
+15	20	null	null
+15	21	null	null
+15	22	null	null
+15	23	null	null
+15	24	null	University of California, Irvine
+15	25	null	University of California, Irvine
+15	26	null	University of California, Irvine
+15	27	null	University of California, Irvine
+15	28	null	University of California, Irvine
+15	29	null	University of California, Irvine
+15	30	null	University of California, Irvine
+15	31	null	University of California, Irvine
+15	32	null	Univ. of York, Heslington, UK
+15	33	null	null
+15	34	null	null
+16	17	null	University of California, Irvine, USA
+16	18	null	null
+16	19	null	null
+16	20	null	null
+16	21	null	null
+16	22	null	null
+16	23	null	null
+16	24	null	University of California, Irvine
+16	25	null	University of California, Irvine
+16	26	null	University of California, Irvine
+16	27	null	University of California, Irvine
+16	28	null	University of California, Irvine
+16	29	null	University of California, Irvine
+16	30	null	University of California, Irvine
+16	31	null	University of California, Irvine
+16	32	null	Univ. of York, Heslington, UK
+16	33	null	null
+16	34	null	null
+17	18	University of California, Irvine, USA	null
+17	19	University of California, Irvine, USA	null
+17	20	University of California, Irvine, USA	null
+17	21	University of California, Irvine, USA	null
+17	22	University of California, Irvine, USA	null
+17	23	University of California, Irvine, USA	null
+17	24	University of California, Irvine, USA	University of California, Irvine
+17	25	University of California, Irvine, USA	University of California, Irvine
+17	26	University of California, Irvine, USA	University of California, Irvine
+17	27	University of California, Irvine, USA	University of California, Irvine
+17	28	University of California, Irvine, USA	University of California, Irvine
+17	29	University of California, Irvine, USA	University of California, Irvine
+17	30	University of California, Irvine, USA	University of California, Irvine
+17	31	University of California, Irvine, USA	University of California, Irvine
+17	32	University of California, Irvine, USA	Univ. of York, Heslington, UK
+17	33	University of California, Irvine, USA	null
+17	34	University of California, Irvine, USA	null
+18	19	null	null
+18	20	null	null
+18	21	null	null
+18	22	null	null
+18	23	null	null
+18	24	null	University of California, Irvine
+18	25	null	University of California, Irvine
+18	26	null	University of California, Irvine
+18	27	null	University of California, Irvine
+18	28	null	University of California, Irvine
+18	29	null	University of California, Irvine
+18	30	null	University of California, Irvine
+18	31	null	University of California, Irvine
+18	32	null	Univ. of York, Heslington, UK
+18	33	null	null
+18	34	null	null
+19	20	null	null
+19	21	null	null
+19	22	null	null
+19	23	null	null
+19	24	null	University of California, Irvine
+19	25	null	University of California, Irvine
+19	26	null	University of California, Irvine
+19	27	null	University of California, Irvine
+19	28	null	University of California, Irvine
+19	29	null	University of California, Irvine
+19	30	null	University of California, Irvine
+19	31	null	University of California, Irvine
+19	32	null	Univ. of York, Heslington, UK
+19	33	null	null
+19	34	null	null
+20	21	null	null
+20	22	null	null
+20	23	null	null
+20	24	null	University of California, Irvine
+20	25	null	University of California, Irvine
+20	26	null	University of California, Irvine
+20	27	null	University of California, Irvine
+20	28	null	University of California, Irvine
+20	29	null	University of California, Irvine
+20	30	null	University of California, Irvine
+20	31	null	University of California, Irvine
+20	32	null	Univ. of York, Heslington, UK
+20	33	null	null
+20	34	null	null
+21	22	null	null
+21	23	null	null
+21	24	null	University of California, Irvine
+21	25	null	University of California, Irvine
+21	26	null	University of California, Irvine
+21	27	null	University of California, Irvine
+21	28	null	University of California, Irvine
+21	29	null	University of California, Irvine
+21	30	null	University of California, Irvine
+21	31	null	University of California, Irvine
+21	32	null	Univ. of York, Heslington, UK
+21	33	null	null
+21	34	null	null
+22	23	null	null
+22	24	null	University of California, Irvine
+22	25	null	University of California, Irvine
+22	26	null	University of California, Irvine
+22	27	null	University of California, Irvine
+22	28	null	University of California, Irvine
+22	29	null	University of California, Irvine
+22	30	null	University of California, Irvine
+22	31	null	University of California, Irvine
+22	32	null	Univ. of York, Heslington, UK
+22	33	null	null
+22	34	null	null
+23	24	null	University of California, Irvine
+23	25	null	University of California, Irvine
+23	26	null	University of California, Irvine
+23	27	null	University of California, Irvine
+23	28	null	University of California, Irvine
+23	29	null	University of California, Irvine
+23	30	null	University of California, Irvine
+23	31	null	University of California, Irvine
+23	32	null	Univ. of York, Heslington, UK
+23	33	null	null
+23	34	null	null
+24	25	University of California, Irvine	University of California, Irvine
+24	26	University of California, Irvine	University of California, Irvine
+24	27	University of California, Irvine	University of California, Irvine
+24	28	University of California, Irvine	University of California, Irvine
+24	29	University of California, Irvine	University of California, Irvine
+24	30	University of California, Irvine	University of California, Irvine
+24	31	University of California, Irvine	University of California, Irvine
+24	32	University of California, Irvine	Univ. of York, Heslington, UK
+24	33	University of California, Irvine	null
+24	34	University of California, Irvine	null
+25	26	University of California, Irvine	University of California, Irvine
+25	27	University of California, Irvine	University of California, Irvine
+25	28	University of California, Irvine	University of California, Irvine
+25	29	University of California, Irvine	University of California, Irvine
+25	30	University of California, Irvine	University of California, Irvine
+25	31	University of California, Irvine	University of California, Irvine
+25	32	University of California, Irvine	Univ. of York, Heslington, UK
+25	33	University of California, Irvine	null
+25	34	University of California, Irvine	null
+26	27	University of California, Irvine	University of California, Irvine
+26	28	University of California, Irvine	University of California, Irvine
+26	29	University of California, Irvine	University of California, Irvine
+26	30	University of California, Irvine	University of California, Irvine
+26	31	University of California, Irvine	University of California, Irvine
+26	32	University of California, Irvine	Univ. of York, Heslington, UK
+26	33	University of California, Irvine	null
+26	34	University of California, Irvine	null
+27	28	University of California, Irvine	University of California, Irvine
+27	29	University of California, Irvine	University of California, Irvine
+27	30	University of California, Irvine	University of California, Irvine
+27	31	University of California, Irvine	University of California, Irvine
+27	32	University of California, Irvine	Univ. of York, Heslington, UK
+27	33	University of California, Irvine	null
+27	34	University of California, Irvine	null
+28	29	University of California, Irvine	University of California, Irvine
+28	30	University of California, Irvine	University of California, Irvine
+28	31	University of California, Irvine	University of California, Irvine
+28	32	University of California, Irvine	Univ. of York, Heslington, UK
+28	33	University of California, Irvine	null
+28	34	University of California, Irvine	null
+29	30	University of California, Irvine	University of California, Irvine
+29	31	University of California, Irvine	University of California, Irvine
+29	32	University of California, Irvine	Univ. of York, Heslington, UK
+29	33	University of California, Irvine	null
+29	34	University of California, Irvine	null
+30	31	University of California, Irvine	University of California, Irvine
+30	32	University of California, Irvine	Univ. of York, Heslington, UK
+30	33	University of California, Irvine	null
+30	34	University of California, Irvine	null
+31	32	University of California, Irvine	Univ. of York, Heslington, UK
+31	33	University of California, Irvine	null
+31	34	University of California, Irvine	null
+32	33	Univ. of York, Heslington, UK	null
+32	34	Univ. of York, Heslington, UK	null
+33	34	null	null

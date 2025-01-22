@@ -1,0 +1,698 @@
+1	2	Wei Wang	Wei Wang
+1	2	Baile Shi	Baile Shi
+1	3	Baile Shi	Baile Shi
+1	4	Xiaoming Yang	Xiaoming Yang
+1	4	Wei Wang	Wei Wang
+1	91	Xiaoming Yang	Xiaoming Yang
+1	91	Wei Wang	Wei Wang
+1	91	Baile Shi	Baile Shi
+1	92	Wei Wang	Wei Wang
+1	92	Baile Shi	Baile Shi
+1	100	Wei Wang	Wei Wang
+1	100	Baile Shi	Baile Shi
+1	101	Wei Wang	Wei Wang
+1	101	Baile Shi	Baile Shi
+1	102	Wei Wang	Wei Wang
+1	102	Baile Shi	Baile Shi
+2	3	Baile Shi	Baile Shi
+2	4	Wei Wang	Wei Wang
+2	91	Wei Wang	Wei Wang
+2	91	Baile Shi	Baile Shi
+2	92	Wei Wang	Wei Wang
+2	92	Baile Shi	Baile Shi
+2	100	Wei Wang	Wei Wang
+2	100	Baile Shi	Baile Shi
+2	101	Wei Wang	Wei Wang
+2	101	Baile Shi	Baile Shi
+2	102	Wei Wang	Wei Wang
+2	102	Haofeng Zhou	Haofeng Zhou
+2	102	Baile Shi	Baile Shi
+3	91	Baile Shi	Baile Shi
+3	92	Baile Shi	Baile Shi
+3	100	Yuliang Shi	Yuliang Shi
+3	100	Baile Shi	Baile Shi
+3	101	Baile Shi	Baile Shi
+3	102	Baile Shi	Baile Shi
+4	91	Xiaoming Yang	Xiaoming Yang
+4	91	Wei Wang	Wei Wang
+4	92	Wei Wang	Wei Wang
+4	100	Wei Wang	Wei Wang
+4	101	Wei Wang	Wei Wang
+4	102	Wei Wang	Wei Wang
+5	6	Minqing Hu	Minqing Hu
+5	9	Minqing Hu	Minqing Hu
+5	17	Minqing Hu	Minqing Hu
+5	60	Minqing Hu	Minqing Hu
+5	64	Minqing Hu	Minqing Hu
+5	110	Minqing Hu	Minqing Hu
+6	9	Minqing Hu	Minqing Hu
+6	17	Minqing Hu	Minqing Hu
+6	60	Minqing Hu	Minqing Hu
+6	64	Minqing Hu	Minqing Hu
+6	110	Minqing Hu	Minqing Hu
+7	42	Nitin Jindal	Nitin Jindal
+7	94	Nitin Jindal	Nitin Jindal
+7	114	Nitin Jindal	Nitin Jindal
+7	118	Nitin Jindal	Nitin Jindal
+8	9	Wynne Hsu	Wynne Hsu
+8	25	Wynne Hsu	Wynne Hsu
+8	54	Wynne Hsu	Wynne Hsu
+8	61	Wynne Hsu	Wynne Hsu
+8	63	Wynne Hsu	Wynne Hsu
+8	64	Wynne Hsu	Wynne Hsu
+8	65	Wynne Hsu	Wynne Hsu
+8	66	Wynne Hsu	Wynne Hsu
+8	67	Wynne Hsu	Wynne Hsu
+8	68	Wynne Hsu	Wynne Hsu
+8	69	Wynne Hsu	Wynne Hsu
+8	70	Wynne Hsu	Wynne Hsu
+8	84	Wynne Hsu	Wynne Hsu
+8	129	Wynne Hsu	Wynne Hsu
+8	132	Wynne Hsu	Wynne Hsu
+8	146	Wynne Hsu	Wynne Hsu
+9	17	Minqing Hu	Minqing Hu
+9	25	Wynne Hsu	Wynne Hsu
+9	54	Wynne Hsu	Wynne Hsu
+9	60	Minqing Hu	Minqing Hu
+9	61	Wynne Hsu	Wynne Hsu
+9	63	Wynne Hsu	Wynne Hsu
+9	64	Minqing Hu	Minqing Hu
+9	64	Wynne Hsu	Wynne Hsu
+9	65	Wynne Hsu	Wynne Hsu
+9	66	Wynne Hsu	Wynne Hsu
+9	67	Wynne Hsu	Wynne Hsu
+9	68	Wynne Hsu	Wynne Hsu
+9	69	Wynne Hsu	Wynne Hsu
+9	70	Wynne Hsu	Wynne Hsu
+9	84	Wynne Hsu	Wynne Hsu
+9	110	Minqing Hu	Minqing Hu
+9	129	Wynne Hsu	Wynne Hsu
+9	132	Wynne Hsu	Wynne Hsu
+9	146	Wynne Hsu	Wynne Hsu
+10	82	Joxan Jaffar	Joxan Jaffar
+11	15	Philip S. Yu	Philip S. Yu
+11	17	Xiaoli Li	Xiaoli Li
+11	24	Wee Sun Lee	Wee Sun Lee
+11	30	Xiaoli Li	Xiaoli Li
+11	32	Xiaoli Li	Xiaoli Li
+11	37	Xiaoli Li	Xiaoli Li
+11	37	Wee Sun Lee	Wee Sun Lee
+11	37	Philip S. Yu	Philip S. Yu
+11	43	Philip S. Yu	Philip S. Yu
+11	44	Wee Sun Lee	Wee Sun Lee
+11	45	Xiaoli Li	Xiaoli Li
+11	45	Wee Sun Lee	Wee Sun Lee
+11	45	Philip S. Yu	Philip S. Yu
+11	52	Xiaoli Li	Xiaoli Li
+11	56	Xiaoli Li	Xiaoli Li
+11	71	Philip S. Yu	Philip S. Yu
+11	73	Philip S. Yu	Philip S. Yu
+11	76	Xiaoli Li	Xiaoli Li
+11	79	Xiaoli Li	Xiaoli Li
+11	85	Philip S. Yu	Philip S. Yu
+11	104	Philip S. Yu	Philip S. Yu
+11	108	Xiaoli Li	Xiaoli Li
+11	112	Philip S. Yu	Philip S. Yu
+11	117	Philip S. Yu	Philip S. Yu
+11	120	Philip S. Yu	Philip S. Yu
+11	138	Philip S. Yu	Philip S. Yu
+11	153	Xiaoli Li	Xiaoli Li
+11	153	Philip S. Yu	Philip S. Yu
+12	62	Yanhong Zhai	Yanhong Zhai
+12	106	Yanhong Zhai	Yanhong Zhai
+12	107	Yanhong Zhai	Yanhong Zhai
+12	113	Yanhong Zhai	Yanhong Zhai
+12	115	Yanhong Zhai	Yanhong Zhai
+12	131	Yanhong Zhai	Yanhong Zhai
+12	147	Yanhong Zhai	Yanhong Zhai
+15	25	Yiyuan Xia	Yiyuan Xia
+15	37	Philip S. Yu	Philip S. Yu
+15	43	Philip S. Yu	Philip S. Yu
+15	45	Philip S. Yu	Philip S. Yu
+15	71	Philip S. Yu	Philip S. Yu
+15	73	Philip S. Yu	Philip S. Yu
+15	85	Philip S. Yu	Philip S. Yu
+15	104	Philip S. Yu	Philip S. Yu
+15	112	Philip S. Yu	Philip S. Yu
+15	117	Philip S. Yu	Philip S. Yu
+15	120	Philip S. Yu	Philip S. Yu
+15	138	Philip S. Yu	Philip S. Yu
+15	153	Philip S. Yu	Philip S. Yu
+16	43	Xin Li	Xin Li
+16	85	Xin Li	Xin Li
+16	104	Xin Li	Xin Li
+16	112	Xin Li	Xin Li
+17	30	Xiaoli Li	Xiaoli Li
+17	32	Xiaoli Li	Xiaoli Li
+17	37	Xiaoli Li	Xiaoli Li
+17	45	Xiaoli Li	Xiaoli Li
+17	52	Xiaoli Li	Xiaoli Li
+17	56	Xiaoli Li	Xiaoli Li
+17	60	Minqing Hu	Minqing Hu
+17	64	Minqing Hu	Minqing Hu
+17	76	Xiaoli Li	Xiaoli Li
+17	76	Tong-Heng Phang	Tong-Heng Phang
+17	79	Xiaoli Li	Xiaoli Li
+17	108	Xiaoli Li	Xiaoli Li
+17	110	Minqing Hu	Minqing Hu
+17	153	Xiaoli Li	Xiaoli Li
+18	75	Ke Wang	Ke Wang
+18	84	Ke Wang	Ke Wang
+18	89	Ke Wang	Ke Wang
+18	90	Ke Wang	Ke Wang
+18	93	Ke Wang	Ke Wang
+19	39	Kaidi Zhao	Kaidi Zhao
+19	39	Thomas M. Tirpak	Thomas M. Tirpak
+19	40	Kaidi Zhao	Kaidi Zhao
+19	40	Thomas M. Tirpak	Thomas M. Tirpak
+19	40	Weimin Xiao	Weimin Xiao
+19	72	Kaidi Zhao	Kaidi Zhao
+19	72	Weimin Xiao	Weimin Xiao
+19	77	Kaidi Zhao	Kaidi Zhao
+19	77	Weimin Xiao	Weimin Xiao
+19	78	Kaidi Zhao	Kaidi Zhao
+19	78	Thomas M. Tirpak	Thomas M. Tirpak
+19	111	Kaidi Zhao	Kaidi Zhao
+21	58	Lipo Wang	Lipo Wang
+21	58	Chunru Wan	Chunru Wan
+21	59	Lipo Wang	Lipo Wang
+21	59	Chunru Wan	Chunru Wan
+21	116	Lipo Wang	Lipo Wang
+21	116	Chunru Wan	Chunru Wan
+22	38	Yiming Ma	Yiming Ma
+22	65	Yiming Ma	Yiming Ma
+22	66	Yiming Ma	Yiming Ma
+22	67	Yiming Ma	Yiming Ma
+22	68	Yiming Ma	Yiming Ma
+22	69	Yiming Ma	Yiming Ma
+22	70	Yiming Ma	Yiming Ma
+22	71	Yiming Ma	Yiming Ma
+22	73	Yiming Ma	Yiming Ma
+22	73	Ching Kian Wong	Ching Kian Wong
+22	86	Yiming Ma	Yiming Ma
+22	86	Ching Kian Wong	Ching Kian Wong
+22	120	Yiming Ma	Yiming Ma
+22	120	Ching Kian Wong	Ching Kian Wong
+22	132	Yiming Ma	Yiming Ma
+22	140	Yiming Ma	Yiming Ma
+22	140	Ching Kian Wong	Ching Kian Wong
+23	26	Robert L. Grossman	Robert L. Grossman
+23	62	Robert L. Grossman	Robert L. Grossman
+23	131	Robert L. Grossman	Robert L. Grossman
+23	136	Robert L. Grossman	Robert L. Grossman
+23	136	Pavan Kasturi	Pavan Kasturi
+23	136	Donald Hamelberg	Donald Hamelberg
+24	36	Gao Cong	Gao Cong
+24	37	Wee Sun Lee	Wee Sun Lee
+24	44	Wee Sun Lee	Wee Sun Lee
+24	45	Wee Sun Lee	Wee Sun Lee
+24	76	Haoran Wu	Haoran Wu
+24	93	Gao Cong	Gao Cong
+25	54	Wynne Hsu	Wynne Hsu
+25	61	Wynne Hsu	Wynne Hsu
+25	63	Wynne Hsu	Wynne Hsu
+25	64	Wynne Hsu	Wynne Hsu
+25	65	Wynne Hsu	Wynne Hsu
+25	66	Wynne Hsu	Wynne Hsu
+25	67	Wynne Hsu	Wynne Hsu
+25	68	Wynne Hsu	Wynne Hsu
+25	69	Wynne Hsu	Wynne Hsu
+25	70	Wynne Hsu	Wynne Hsu
+25	84	Wynne Hsu	Wynne Hsu
+25	129	Wynne Hsu	Wynne Hsu
+25	132	Wynne Hsu	Wynne Hsu
+25	146	Wynne Hsu	Wynne Hsu
+26	62	Robert L. Grossman	Robert L. Grossman
+26	131	Robert L. Grossman	Robert L. Grossman
+26	136	Robert L. Grossman	Robert L. Grossman
+27	31	Baohua Gu	Baohua Gu
+27	31	Feifang Hu	Feifang Hu
+27	31	Huan Liu	Huan Liu
+30	32	Xiaoli Li	Xiaoli Li
+30	37	Xiaoli Li	Xiaoli Li
+30	45	Xiaoli Li	Xiaoli Li
+30	52	Xiaoli Li	Xiaoli Li
+30	56	Xiaoli Li	Xiaoli Li
+30	76	Xiaoli Li	Xiaoli Li
+30	79	Xiaoli Li	Xiaoli Li
+30	108	Xiaoli Li	Xiaoli Li
+30	153	Xiaoli Li	Xiaoli Li
+32	37	Xiaoli Li	Xiaoli Li
+32	45	Xiaoli Li	Xiaoli Li
+32	52	Xiaoli Li	Xiaoli Li
+32	56	Xiaoli Li	Xiaoli Li
+32	56	See-Kiong Ng	See-Kiong Ng
+32	76	Xiaoli Li	Xiaoli Li
+32	79	Xiaoli Li	Xiaoli Li
+32	108	Xiaoli Li	Xiaoli Li
+32	153	Xiaoli Li	Xiaoli Li
+32	153	See-Kiong Ng	See-Kiong Ng
+33	180	Yaodong He	Yaodong He
+33	180	Zao Jiang	Zao Jiang
+33	180	Hong Zhao	Hong Zhao
+35	72	Jeffrey Benkler	Jeffrey Benkler
+35	77	Jeffrey Benkler	Jeffrey Benkler
+35	152	Lei Zhang	Lei Zhang
+35	163	Lei Zhang	Lei Zhang
+36	93	Gao Cong	Gao Cong
+37	43	Philip S. Yu	Philip S. Yu
+37	44	Wee Sun Lee	Wee Sun Lee
+37	45	Xiaoli Li	Xiaoli Li
+37	45	Wee Sun Lee	Wee Sun Lee
+37	45	Philip S. Yu	Philip S. Yu
+37	52	Xiaoli Li	Xiaoli Li
+37	56	Xiaoli Li	Xiaoli Li
+37	71	Philip S. Yu	Philip S. Yu
+37	73	Philip S. Yu	Philip S. Yu
+37	76	Xiaoli Li	Xiaoli Li
+37	79	Xiaoli Li	Xiaoli Li
+37	85	Philip S. Yu	Philip S. Yu
+37	104	Philip S. Yu	Philip S. Yu
+37	108	Xiaoli Li	Xiaoli Li
+37	112	Philip S. Yu	Philip S. Yu
+37	117	Philip S. Yu	Philip S. Yu
+37	120	Philip S. Yu	Philip S. Yu
+37	138	Philip S. Yu	Philip S. Yu
+37	153	Xiaoli Li	Xiaoli Li
+37	153	Philip S. Yu	Philip S. Yu
+38	65	Yiming Ma	Yiming Ma
+38	66	Yiming Ma	Yiming Ma
+38	67	Yiming Ma	Yiming Ma
+38	68	Yiming Ma	Yiming Ma
+38	69	Yiming Ma	Yiming Ma
+38	70	Yiming Ma	Yiming Ma
+38	71	Yiming Ma	Yiming Ma
+38	73	Yiming Ma	Yiming Ma
+38	86	Yiming Ma	Yiming Ma
+38	120	Yiming Ma	Yiming Ma
+38	132	Yiming Ma	Yiming Ma
+38	140	Yiming Ma	Yiming Ma
+39	40	Kaidi Zhao	Kaidi Zhao
+39	40	Thomas M. Tirpak	Thomas M. Tirpak
+39	72	Kaidi Zhao	Kaidi Zhao
+39	77	Kaidi Zhao	Kaidi Zhao
+39	78	Kaidi Zhao	Kaidi Zhao
+39	78	Thomas M. Tirpak	Thomas M. Tirpak
+39	78	Andreas Schaller	Andreas Schaller
+39	111	Kaidi Zhao	Kaidi Zhao
+40	72	Kaidi Zhao	Kaidi Zhao
+40	72	Weimin Xiao	Weimin Xiao
+40	77	Kaidi Zhao	Kaidi Zhao
+40	77	Weimin Xiao	Weimin Xiao
+40	78	Kaidi Zhao	Kaidi Zhao
+40	78	Thomas M. Tirpak	Thomas M. Tirpak
+40	111	Kaidi Zhao	Kaidi Zhao
+42	94	Nitin Jindal	Nitin Jindal
+42	114	Nitin Jindal	Nitin Jindal
+42	118	Nitin Jindal	Nitin Jindal
+43	45	Philip S. Yu	Philip S. Yu
+43	71	Philip S. Yu	Philip S. Yu
+43	73	Philip S. Yu	Philip S. Yu
+43	85	Xin Li	Xin Li
+43	85	Philip S. Yu	Philip S. Yu
+43	104	Xin Li	Xin Li
+43	104	Philip S. Yu	Philip S. Yu
+43	112	Xin Li	Xin Li
+43	112	Philip S. Yu	Philip S. Yu
+43	117	Philip S. Yu	Philip S. Yu
+43	120	Philip S. Yu	Philip S. Yu
+43	138	Philip S. Yu	Philip S. Yu
+43	153	Philip S. Yu	Philip S. Yu
+44	45	Wee Sun Lee	Wee Sun Lee
+45	52	Xiaoli Li	Xiaoli Li
+45	56	Xiaoli Li	Xiaoli Li
+45	71	Philip S. Yu	Philip S. Yu
+45	73	Philip S. Yu	Philip S. Yu
+45	76	Xiaoli Li	Xiaoli Li
+45	79	Xiaoli Li	Xiaoli Li
+45	85	Philip S. Yu	Philip S. Yu
+45	104	Philip S. Yu	Philip S. Yu
+45	108	Xiaoli Li	Xiaoli Li
+45	112	Philip S. Yu	Philip S. Yu
+45	117	Philip S. Yu	Philip S. Yu
+45	120	Philip S. Yu	Philip S. Yu
+45	138	Philip S. Yu	Philip S. Yu
+45	153	Philip S. Yu	Philip S. Yu
+45	153	Xiaoli Li	Xiaoli Li
+46	97	Lin Zhang	Lin Zhang
+46	97	Huimin Zhang	Huimin Zhang
+48	83	Sushil K. Prasad	Sushil K. Prasad
+48	83	Erdogan Dogdu	Erdogan Dogdu
+52	56	Xiaoli Li	Xiaoli Li
+52	76	Xiaoli Li	Xiaoli Li
+52	79	Xiaoli Li	Xiaoli Li
+52	108	Xiaoli Li	Xiaoli Li
+52	153	Xiaoli Li	Xiaoli Li
+54	61	Wynne Hsu	Wynne Hsu
+54	63	Wynne Hsu	Wynne Hsu
+54	64	Wynne Hsu	Wynne Hsu
+54	65	Wynne Hsu	Wynne Hsu
+54	66	Wynne Hsu	Wynne Hsu
+54	67	Wynne Hsu	Wynne Hsu
+54	68	Wynne Hsu	Wynne Hsu
+54	69	Wynne Hsu	Wynne Hsu
+54	70	Wynne Hsu	Wynne Hsu
+54	84	Wynne Hsu	Wynne Hsu
+54	129	Wynne Hsu	Wynne Hsu
+54	132	Wynne Hsu	Wynne Hsu
+54	146	Wynne Hsu	Wynne Hsu
+55	79	Lan Yi	Lan Yi
+55	93	Lan Yi	Lan Yi
+55	111	Lan Yi	Lan Yi
+56	76	Xiaoli Li	Xiaoli Li
+56	79	Xiaoli Li	Xiaoli Li
+56	108	Xiaoli Li	Xiaoli Li
+56	153	Xiaoli Li	Xiaoli Li
+56	153	See-Kiong Ng	See-Kiong Ng
+57	81	Pedro C. Diniz	Pedro C. Diniz
+57	159	Chun Chen	Chun Chen
+58	59	Lipo Wang	Lipo Wang
+58	59	Chunru Wan	Chunru Wan
+58	116	Lipo Wang	Lipo Wang
+58	116	Chunru Wan	Chunru Wan
+59	116	Lipo Wang	Lipo Wang
+59	116	Chunru Wan	Chunru Wan
+60	64	Minqing Hu	Minqing Hu
+60	110	Minqing Hu	Minqing Hu
+61	63	Wynne Hsu	Wynne Hsu
+61	64	Wynne Hsu	Wynne Hsu
+61	65	Wynne Hsu	Wynne Hsu
+61	66	Wynne Hsu	Wynne Hsu
+61	67	Wynne Hsu	Wynne Hsu
+61	68	Wynne Hsu	Wynne Hsu
+61	69	Wynne Hsu	Wynne Hsu
+61	70	Wynne Hsu	Wynne Hsu
+61	84	Wynne Hsu	Wynne Hsu
+61	129	Wynne Hsu	Wynne Hsu
+61	132	Wynne Hsu	Wynne Hsu
+61	146	Wynne Hsu	Wynne Hsu
+62	106	Yanhong Zhai	Yanhong Zhai
+62	107	Yanhong Zhai	Yanhong Zhai
+62	113	Yanhong Zhai	Yanhong Zhai
+62	115	Yanhong Zhai	Yanhong Zhai
+62	131	Robert L. Grossman	Robert L. Grossman
+62	131	Yanhong Zhai	Yanhong Zhai
+62	136	Robert L. Grossman	Robert L. Grossman
+62	147	Yanhong Zhai	Yanhong Zhai
+63	64	Wynne Hsu	Wynne Hsu
+63	65	Wynne Hsu	Wynne Hsu
+63	66	Wynne Hsu	Wynne Hsu
+63	67	Wynne Hsu	Wynne Hsu
+63	68	Wynne Hsu	Wynne Hsu
+63	69	Wynne Hsu	Wynne Hsu
+63	70	Wynne Hsu	Wynne Hsu
+63	70	Shu Chen	Shu Chen
+63	84	Wynne Hsu	Wynne Hsu
+63	84	Shu Chen	Shu Chen
+63	129	Wynne Hsu	Wynne Hsu
+63	132	Wynne Hsu	Wynne Hsu
+63	132	Shu Chen	Shu Chen
+63	146	Wynne Hsu	Wynne Hsu
+64	65	Wynne Hsu	Wynne Hsu
+64	66	Wynne Hsu	Wynne Hsu
+64	67	Wynne Hsu	Wynne Hsu
+64	68	Wynne Hsu	Wynne Hsu
+64	69	Wynne Hsu	Wynne Hsu
+64	70	Wynne Hsu	Wynne Hsu
+64	84	Wynne Hsu	Wynne Hsu
+64	110	Minqing Hu	Minqing Hu
+64	129	Wynne Hsu	Wynne Hsu
+64	132	Wynne Hsu	Wynne Hsu
+64	146	Wynne Hsu	Wynne Hsu
+65	66	Wynne Hsu	Wynne Hsu
+65	66	Yiming Ma	Yiming Ma
+65	67	Wynne Hsu	Wynne Hsu
+65	67	Yiming Ma	Yiming Ma
+65	68	Wynne Hsu	Wynne Hsu
+65	68	Yiming Ma	Yiming Ma
+65	69	Wynne Hsu	Wynne Hsu
+65	69	Yiming Ma	Yiming Ma
+65	70	Wynne Hsu	Wynne Hsu
+65	70	Yiming Ma	Yiming Ma
+65	71	Yiming Ma	Yiming Ma
+65	73	Yiming Ma	Yiming Ma
+65	84	Wynne Hsu	Wynne Hsu
+65	86	Yiming Ma	Yiming Ma
+65	120	Yiming Ma	Yiming Ma
+65	129	Wynne Hsu	Wynne Hsu
+65	132	Wynne Hsu	Wynne Hsu
+65	132	Yiming Ma	Yiming Ma
+65	140	Yiming Ma	Yiming Ma
+65	146	Wynne Hsu	Wynne Hsu
+66	67	Wynne Hsu	Wynne Hsu
+66	67	Yiming Ma	Yiming Ma
+66	68	Wynne Hsu	Wynne Hsu
+66	68	Yiming Ma	Yiming Ma
+66	69	Wynne Hsu	Wynne Hsu
+66	69	Yiming Ma	Yiming Ma
+66	70	Wynne Hsu	Wynne Hsu
+66	70	Yiming Ma	Yiming Ma
+66	71	Yiming Ma	Yiming Ma
+66	73	Yiming Ma	Yiming Ma
+66	84	Wynne Hsu	Wynne Hsu
+66	86	Yiming Ma	Yiming Ma
+66	120	Yiming Ma	Yiming Ma
+66	129	Wynne Hsu	Wynne Hsu
+66	132	Wynne Hsu	Wynne Hsu
+66	132	Yiming Ma	Yiming Ma
+66	140	Yiming Ma	Yiming Ma
+66	146	Wynne Hsu	Wynne Hsu
+67	68	Wynne Hsu	Wynne Hsu
+67	68	Yiming Ma	Yiming Ma
+67	69	Wynne Hsu	Wynne Hsu
+67	69	Yiming Ma	Yiming Ma
+67	70	Wynne Hsu	Wynne Hsu
+67	70	Yiming Ma	Yiming Ma
+67	71	Yiming Ma	Yiming Ma
+67	73	Yiming Ma	Yiming Ma
+67	84	Wynne Hsu	Wynne Hsu
+67	86	Yiming Ma	Yiming Ma
+67	120	Yiming Ma	Yiming Ma
+67	129	Wynne Hsu	Wynne Hsu
+67	132	Wynne Hsu	Wynne Hsu
+67	132	Yiming Ma	Yiming Ma
+67	140	Yiming Ma	Yiming Ma
+67	146	Wynne Hsu	Wynne Hsu
+68	69	Wynne Hsu	Wynne Hsu
+68	69	Yiming Ma	Yiming Ma
+68	70	Wynne Hsu	Wynne Hsu
+68	70	Yiming Ma	Yiming Ma
+68	71	Yiming Ma	Yiming Ma
+68	73	Yiming Ma	Yiming Ma
+68	84	Wynne Hsu	Wynne Hsu
+68	86	Yiming Ma	Yiming Ma
+68	120	Yiming Ma	Yiming Ma
+68	129	Wynne Hsu	Wynne Hsu
+68	132	Wynne Hsu	Wynne Hsu
+68	132	Yiming Ma	Yiming Ma
+68	140	Yiming Ma	Yiming Ma
+68	146	Wynne Hsu	Wynne Hsu
+69	70	Wynne Hsu	Wynne Hsu
+69	70	Yiming Ma	Yiming Ma
+69	71	Yiming Ma	Yiming Ma
+69	73	Yiming Ma	Yiming Ma
+69	84	Wynne Hsu	Wynne Hsu
+69	86	Yiming Ma	Yiming Ma
+69	120	Yiming Ma	Yiming Ma
+69	129	Wynne Hsu	Wynne Hsu
+69	132	Wynne Hsu	Wynne Hsu
+69	132	Yiming Ma	Yiming Ma
+69	140	Yiming Ma	Yiming Ma
+69	146	Wynne Hsu	Wynne Hsu
+70	71	Yiming Ma	Yiming Ma
+70	73	Yiming Ma	Yiming Ma
+70	84	Wynne Hsu	Wynne Hsu
+70	84	Shu Chen	Shu Chen
+70	86	Yiming Ma	Yiming Ma
+70	120	Yiming Ma	Yiming Ma
+70	129	Wynne Hsu	Wynne Hsu
+70	132	Wynne Hsu	Wynne Hsu
+70	132	Yiming Ma	Yiming Ma
+70	132	Shu Chen	Shu Chen
+70	140	Yiming Ma	Yiming Ma
+70	146	Wynne Hsu	Wynne Hsu
+71	73	Yiming Ma	Yiming Ma
+71	73	Philip S. Yu	Philip S. Yu
+71	85	Philip S. Yu	Philip S. Yu
+71	86	Yiming Ma	Yiming Ma
+71	104	Philip S. Yu	Philip S. Yu
+71	112	Philip S. Yu	Philip S. Yu
+71	117	Philip S. Yu	Philip S. Yu
+71	120	Yiming Ma	Yiming Ma
+71	120	Philip S. Yu	Philip S. Yu
+71	132	Yiming Ma	Yiming Ma
+71	138	Philip S. Yu	Philip S. Yu
+71	140	Yiming Ma	Yiming Ma
+71	153	Philip S. Yu	Philip S. Yu
+72	77	Kaidi Zhao	Kaidi Zhao
+72	77	Jeffrey Benkler	Jeffrey Benkler
+72	77	Weimin Xiao	Weimin Xiao
+72	78	Kaidi Zhao	Kaidi Zhao
+72	111	Kaidi Zhao	Kaidi Zhao
+73	85	Philip S. Yu	Philip S. Yu
+73	86	Yiming Ma	Yiming Ma
+73	86	Ching Kian Wong	Ching Kian Wong
+73	104	Philip S. Yu	Philip S. Yu
+73	112	Philip S. Yu	Philip S. Yu
+73	117	Philip S. Yu	Philip S. Yu
+73	120	Yiming Ma	Yiming Ma
+73	120	Ching Kian Wong	Ching Kian Wong
+73	120	Philip S. Yu	Philip S. Yu
+73	132	Yiming Ma	Yiming Ma
+73	138	Philip S. Yu	Philip S. Yu
+73	140	Yiming Ma	Yiming Ma
+73	140	Ching Kian Wong	Ching Kian Wong
+73	153	Philip S. Yu	Philip S. Yu
+74	128	Alexander Tuzhilin	Alexander Tuzhilin
+75	84	Ke Wang	Ke Wang
+75	89	Ke Wang	Ke Wang
+75	90	Ke Wang	Ke Wang
+75	93	Ke Wang	Ke Wang
+76	79	Xiaoli Li	Xiaoli Li
+76	108	Xiaoli Li	Xiaoli Li
+76	153	Xiaoli Li	Xiaoli Li
+77	78	Kaidi Zhao	Kaidi Zhao
+77	111	Kaidi Zhao	Kaidi Zhao
+78	111	Kaidi Zhao	Kaidi Zhao
+79	93	Lan Yi	Lan Yi
+79	108	Xiaoli Li	Xiaoli Li
+79	111	Lan Yi	Lan Yi
+79	153	Xiaoli Li	Xiaoli Li
+80	135	Maoyuan Yu	Maoyuan Yu
+80	135	Dennis Maier	Dennis Maier
+80	135	Reinhard Manner	Reinhard Manner
+84	89	Ke Wang	Ke Wang
+84	90	Ke Wang	Ke Wang
+84	93	Ke Wang	Ke Wang
+84	129	Wynne Hsu	Wynne Hsu
+84	132	Wynne Hsu	Wynne Hsu
+84	132	Shu Chen	Shu Chen
+84	146	Wynne Hsu	Wynne Hsu
+85	104	Xin Li	Xin Li
+85	104	Philip S. Yu	Philip S. Yu
+85	112	Xin Li	Xin Li
+85	112	Philip S. Yu	Philip S. Yu
+85	117	Philip S. Yu	Philip S. Yu
+85	120	Philip S. Yu	Philip S. Yu
+85	138	Philip S. Yu	Philip S. Yu
+85	153	Philip S. Yu	Philip S. Yu
+86	120	Yiming Ma	Yiming Ma
+86	120	Ching Kian Wong	Ching Kian Wong
+86	132	Yiming Ma	Yiming Ma
+86	140	Yiming Ma	Yiming Ma
+86	140	Ching Kian Wong	Ching Kian Wong
+87	95	Yi Zhang	Yi Zhang
+89	90	Ke Wang	Ke Wang
+89	93	Ke Wang	Ke Wang
+89	146	Lai-Fun Mun	Lai-Fun Mun
+90	93	Ke Wang	Ke Wang
+91	92	Zhihui Wang	Zhihui Wang
+91	92	Wei Wang	Wei Wang
+91	92	Baile Shi	Baile Shi
+91	100	Zhihui Wang	Zhihui Wang
+91	100	Wei Wang	Wei Wang
+91	100	Baile Shi	Baile Shi
+91	101	Zhihui Wang	Zhihui Wang
+91	101	Wei Wang	Wei Wang
+91	101	Baile Shi	Baile Shi
+91	102	Zhihui Wang	Zhihui Wang
+91	102	Wei Wang	Wei Wang
+91	102	Baile Shi	Baile Shi
+92	100	Zhihui Wang	Zhihui Wang
+92	100	Wei Wang	Wei Wang
+92	100	Baile Shi	Baile Shi
+92	101	Zhihui Wang	Zhihui Wang
+92	101	Wei Wang	Wei Wang
+92	101	Baile Shi	Baile Shi
+92	102	Zhihui Wang	Zhihui Wang
+92	102	Wei Wang	Wei Wang
+92	102	Baile Shi	Baile Shi
+93	111	Lan Yi	Lan Yi
+94	114	Nitin Jindal	Nitin Jindal
+94	118	Nitin Jindal	Nitin Jindal
+96	117	Xiaowen Ding	Xiaowen Ding
+96	152	Xiaowen Ding	Xiaowen Ding
+99	101	Jingtao Li	Jingtao Li
+100	101	Zhihui Wang	Zhihui Wang
+100	101	Wei Wang	Wei Wang
+100	101	Baile Shi	Baile Shi
+100	102	Zhihui Wang	Zhihui Wang
+100	102	Wei Wang	Wei Wang
+100	102	Baile Shi	Baile Shi
+101	102	Zhihui Wang	Zhihui Wang
+101	102	Wei Wang	Wei Wang
+101	102	Baile Shi	Baile Shi
+104	112	Philip S. Yu	Philip S. Yu
+104	112	Xin Li	Xin Li
+104	117	Philip S. Yu	Philip S. Yu
+104	120	Philip S. Yu	Philip S. Yu
+104	138	Philip S. Yu	Philip S. Yu
+104	153	Philip S. Yu	Philip S. Yu
+106	107	Yanhong Zhai	Yanhong Zhai
+106	113	Yanhong Zhai	Yanhong Zhai
+106	115	Yanhong Zhai	Yanhong Zhai
+106	131	Yanhong Zhai	Yanhong Zhai
+106	147	Yanhong Zhai	Yanhong Zhai
+107	113	Yanhong Zhai	Yanhong Zhai
+107	115	Yanhong Zhai	Yanhong Zhai
+107	131	Yanhong Zhai	Yanhong Zhai
+107	147	Yanhong Zhai	Yanhong Zhai
+108	153	Xiaoli Li	Xiaoli Li
+112	117	Philip S. Yu	Philip S. Yu
+112	120	Philip S. Yu	Philip S. Yu
+112	138	Philip S. Yu	Philip S. Yu
+112	153	Philip S. Yu	Philip S. Yu
+113	115	Yanhong Zhai	Yanhong Zhai
+113	131	Yanhong Zhai	Yanhong Zhai
+113	147	Yanhong Zhai	Yanhong Zhai
+114	118	Nitin Jindal	Nitin Jindal
+115	131	Yanhong Zhai	Yanhong Zhai
+115	147	Yanhong Zhai	Yanhong Zhai
+117	120	Philip S. Yu	Philip S. Yu
+117	138	Philip S. Yu	Philip S. Yu
+117	152	Xiaowen Ding	Xiaowen Ding
+117	153	Philip S. Yu	Philip S. Yu
+120	132	Yiming Ma	Yiming Ma
+120	138	Philip S. Yu	Philip S. Yu
+120	140	Yiming Ma	Yiming Ma
+120	140	Ching Kian Wong	Ching Kian Wong
+120	153	Philip S. Yu	Philip S. Yu
+123	176	Jian She Yu	Jianshe Yu
+124	125	Qinghua Cui	Qinghua Cui
+124	125	Tianzi Jiang	Tianzi Jiang
+124	125	Songde Ma	Songde Ma
+124	126	Qinghua Cui	Qinghua Cui
+124	126	Tianzi Jiang	Tianzi Jiang
+124	126	Songde Ma	Songde Ma
+124	133	Tianzi Jiang	Tianzi Jiang
+124	134	Tianzi Jiang	Tianzi Jiang
+125	126	Qinghua Cui	Qinghua Cui
+125	126	Tianzi Jiang	Tianzi Jiang
+125	126	Songde Ma	Songde Ma
+125	133	Tianzi Jiang	Tianzi Jiang
+125	134	Tianzi Jiang	Tianzi Jiang
+126	133	Tianzi Jiang	Tianzi Jiang
+126	134	Tianzi Jiang	Tianzi Jiang
+127	142	Padhraic Smyth	Padhraic Smyth
+129	132	Wynne Hsu	Wynne Hsu
+129	146	Wynne Hsu	Wynne Hsu
+131	136	Robert L. Grossman	Robert L. Grossman
+131	147	Yanhong Zhai	Yanhong Zhai
+132	140	Yiming Ma	Yiming Ma
+132	146	Wynne Hsu	Wynne Hsu
+133	134	Tianzi Jiang	Tianzi Jiang
+138	148	Qiang Yang	Qiang Yang
+138	153	Philip S. Yu	Philip S. Yu
+141	171	Olfa Nasraoui	Olfa Nasraoui
+141	171	Bamshad Mobasher	Bamshad Mobasher
+141	171	Brij M. Masand	Brij Masand
+143	177	Isabel F. Cruz	Isabel Cruz
+143	177	Ashfaq A. Khokhar	Ashfaq Khokhar
+143	177	A. Prasad Sistla	Prasad Sistla
+143	177	Ouri Wolfson	Ouri Wolfson
+143	177	Clement T. Yu	Clement Yu
+149	150	Lansun Chen	Lansun Chen
+149	150	Yujuan Zhang	Yujuan Zhang
+152	163	Lei Zhang	Lei Zhang
+164	173	Srinivasan Parthasarathy	Srinivasan Parthasarathy
+168	169	Bingxiang Gui	Bingxiang Gui

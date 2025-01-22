@@ -1,0 +1,53 @@
+13116	A Relational Representation for Procedural Task Knowledge
+13316	Learning Quantitative Knowledge for Multiagent Coordination
+14364	Toward a Theoretical Understanding of Why and When Decision Tree Pruning Algorithms Fail
+52293	Fast and efficient voltage scheduling by evolutionary slack distribution
+95555	Language Models for Financial News Recommendation
+96138	Representing documents with named entities for story link detection (SLD)
+137994	Leveraging relational autocorrelation with latent group models
+224990	Knowledge Discovery from Graphs (Invited Talk)
+302887	Dependency Networks for Relational Data
+302889	Leveraging Relational Autocorrelation with Latent Group Models
+302891	Simple Estimators for Relational Bayesian Classifiers
+303527	Exploiting Network Structure for Active Inference in Collective Classification
+303614	Why Stacked Models Perform Effective Collective Classification
+335033	Linkage and Autocorrelation Cause Feature Selection Bias in Relational Learning
+335034	Avoiding Bias when Aggregating Relational Data with Degree Disparity
+335330	Identifying Predictive Structures in Relational Data Using Multiple Instance Learning
+335370	The Effects of Training Set Size on Decision Tree Complexity
+336240	Graph clustering with network structure indices
+371416	Building Simple Models: A Case Study with Decision Trees
+390639	Decentralized Search in Networks Using Homophily and Degree Disparity
+395185	Autocorrelation and Linkage Cause Bias in Evaluation of Relational Learners
+395431	Bias/Variance Analysis for Relational Domains
+403625	MaxProp: Routing for Vehicle-Based Disruption-Tolerant Networks
+472710	Creating social networks to improve peer-to-peer networking
+472850	Why collective inference improves relational classification
+472851	Information awareness: a prospective technical assessment
+472852	Adjusting for Multiple Comparisons in Decision Tree Pruning
+473123	Learning relational probability trees
+473124	Using relational knowledge discovery to prevent securities fraud
+473132	Large Datasets Lead to Overly Complex Models: An Explanation and a Solution
+473213	Efficient Progressive Sampling
+473243	Using structure indices for efficient approximation of network properties
+473691	Relational data pre-processing techniques for improved securities fraud detection
+473692	Finding tribes: identifying close-knit individuals from employment patterns
+473733	Social networks: looking ahead
+539678	Privacy Vulnerabilities in Encrypted HTTP Streams
+596111	Recommending citations for academic papers
+650829	Coordinating agent activities in knowledge discovery processes
+671349	Supply chain simulation: distributed supply chain simulation using a generic job running framework
+747586	Reports on the AAAI Fall Symposia (November 1999 and November 1998)
+1009341	Introduction to the special issue on multi-relational data mining and statistical relational learning
+1010125	A bias/variance decomposition for models using collective inference
+1013453	Plant location with minimum inventory
+1046768	Optimistic pruning for multiple instance learning
+1063517	Data Snooping, Dredging and Fishing: The Dark Side of Data Mining, A SIGKDD99 Panel Report
+1063602	Exploiting relational structure to understand publication patterns in high-energy physics
+1063647	The case for anomalous link discovery
+1186073	Resisting structural re-identification in anonymized social networks
+1319448	Accurate Estimation of the Degree Distribution of Private Networks.
+1331410	Knowledge Discovery by Design.
+1410356	The case for anomalous link detection
+1583751	Relational Dependency Networks
+1606299	Statistical models and analysis techniques for learning in relational data

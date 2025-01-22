@@ -1,0 +1,101 @@
+1	2	Petri Nets	Petri Nets (2)
+4	5	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+4	6	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+4	7	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+4	8	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+4	9	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+4	13	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+4	15	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+4	19	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+4	20	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+4	21	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+5	6	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+5	7	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+5	8	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+5	9	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+5	13	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+5	15	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+5	19	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+5	20	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+5	21	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+6	7	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+6	8	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+6	9	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+6	13	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+6	15	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+6	19	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+6	20	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+6	21	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+7	8	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+7	9	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+7	13	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+7	15	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+7	19	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+7	20	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+7	21	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+8	9	Applications and Theory of Petri Nets	Applications and Theory of Petri Nets
+8	13	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+8	15	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+8	19	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+8	20	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+8	21	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+9	13	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+9	15	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+9	19	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+9	20	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+9	21	Applications and Theory of Petri Nets	Application and Theory of Petri Nets
+10	11	ICATPN	ICATPN
+10	14	ICATPN	ICATPN
+10	17	ICATPN	ICATPN
+11	14	ICATPN	ICATPN
+11	17	ICATPN	ICATPN
+13	15	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+13	19	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+13	20	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+13	21	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+14	17	ICATPN	ICATPN
+15	19	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+15	20	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+15	21	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+16	18	European Workshop on Applications and Theory of Petri Nets	European Workshop on Applications and Theory in Petri Nets
+19	20	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+19	21	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+20	21	Application and Theory of Petri Nets	Application and Theory of Petri Nets
+32	33	PNPM	PNPM
+32	34	PNPM	PNPM
+32	35	PNPM	PNPM
+32	36	PNPM	PNPM
+33	34	PNPM	PNPM
+33	35	PNPM	PNPM
+33	36	PNPM	PNPM
+34	35	PNPM	PNPM
+34	36	PNPM	PNPM
+35	36	PNPM	PNPM
+39	41	SMC (2)	SMC (2)
+42	43	Journal of Chemical Information and Modeling	Journal of Chemical Information and Modeling
+44	45	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+44	46	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+44	47	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+44	48	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+45	46	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+45	47	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+45	48	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+46	47	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+46	48	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+47	48	Journal of Chemical Information and Computer Sciences	Journal of Chemical Information and Computer Sciences
+52	53	Perform. Eval.	Perform. Eval.
+54	55	Theor. Comput. Sci.	Theor. Comput. Sci.
+54	56	Theor. Comput. Sci.	Theor. Comput. Sci.
+54	57	Theor. Comput. Sci.	Theor. Comput. Sci.
+55	56	Theor. Comput. Sci.	Theor. Comput. Sci.
+55	57	Theor. Comput. Sci.	Theor. Comput. Sci.
+56	57	Theor. Comput. Sci.	Theor. Comput. Sci.
+58	59	IEEE Trans. Software Eng.	IEEE Trans. Software Eng.
+58	60	IEEE Trans. Software Eng.	IEEE Trans. Software Eng.
+59	60	IEEE Trans. Software Eng.	IEEE Trans. Software Eng.
+62	69	Discrete Event Dynamic Systems	Discrete Event Dynamic Systems
+62	70	Discrete Event Dynamic Systems	Discrete Event Dynamic Systems
+64	65	CDC	CDC
+67	68	it+ti - Informationstechnik und Technische Informatik	it+ti - Informationstechnik und Technische Informatik
+69	70	Discrete Event Dynamic Systems	Discrete Event Dynamic Systems
+72	73	Proceedings on Advances in Petri nets 1990	Proceedings on Advances in Petri nets 1990

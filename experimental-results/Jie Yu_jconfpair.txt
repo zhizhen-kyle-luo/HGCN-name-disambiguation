@@ -1,0 +1,12 @@
+5	6	ICME	ICME
+5	7	ICME	ICME
+5	8	ICME	ICME
+6	7	ICME	ICME
+6	8	ICME	ICME
+7	8	ICME	ICME
+9	10	ICPR (4)	ICPR
+14	15	ACM Multimedia	ACM Multimedia
+14	25	ACM Multimedia	ACM Multimedia
+15	25	ACM Multimedia	ACM Multimedia
+20	21	IEEE Trans. Circuits Syst. Video Techn.	IEEE Trans. Circuits Syst. Video Techn.
+26	27	Infoscale	Infoscale

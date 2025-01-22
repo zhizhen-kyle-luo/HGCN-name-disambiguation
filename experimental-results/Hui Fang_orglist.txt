@@ -1,0 +1,26 @@
+3	8	University of Illinois at Urbana-Champaign	University of Illinois at Urbana, Champaign
+3	12	University of Illinois at Urbana-Champaign	University of Illinois at Urbana Champaign, Urbana, IL
+3	13	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+3	15	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+3	16	University of Illinois at Urbana-Champaign	University of Illinois
+3	24	University of Illinois at Urbana-Champaign	University of Illinois, Urbana-Champaign
+7	25	Google, Inc., Mountain View, CA	Google, Inc.
+8	12	University of Illinois at Urbana, Champaign	University of Illinois at Urbana Champaign, Urbana, IL
+8	13	University of Illinois at Urbana, Champaign	University of Illinois at Urbana-Champaign
+8	15	University of Illinois at Urbana, Champaign	University of Illinois at Urbana-Champaign
+8	16	University of Illinois at Urbana, Champaign	University of Illinois
+8	24	University of Illinois at Urbana, Champaign	University of Illinois, Urbana-Champaign
+12	13	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois at Urbana-Champaign
+12	15	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois at Urbana-Champaign
+12	16	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois
+12	24	University of Illinois at Urbana Champaign, Urbana, IL	University of Illinois, Urbana-Champaign
+13	15	University of Illinois at Urbana-Champaign	University of Illinois at Urbana-Champaign
+13	16	University of Illinois at Urbana-Champaign	University of Illinois
+13	24	University of Illinois at Urbana-Champaign	University of Illinois, Urbana-Champaign
+15	16	University of Illinois at Urbana-Champaign	University of Illinois
+15	24	University of Illinois at Urbana-Champaign	University of Illinois, Urbana-Champaign
+16	24	University of Illinois	University of Illinois, Urbana-Champaign
+20	32	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460
+20	33	Singapore-MIT Alliance, Nanyang Technological University, Singapore 639798	Nanyang Technological University, Singapore
+32	33	Singapore-MIT Alliance, Nanyang Technological University, Singapore 637460	Nanyang Technological University, Singapore
+39	40	Department of Computing and Mathematics, Manchester Metropolitan University, UK M1 5GD	Department of Computing and Mathematics, Manchester Metropolitan University, Manchester, U.K.

@@ -1,0 +1,47 @@
+15664	Intelligent Output Interface for Intelligent Medical Search Engine
+80421	Abnormality Detection in Automated Mass Screening System of Diabetic Retinopathy
+96518	Transaction reordering with application to synchronized scans
+96521	Real-time new event detection for video streams
+96590	Content-based filtering for efficient online materialized view maintenance
+96648	MedSearch: a specialized search engine for medical information retrieval
+159884	Transaction reordering with application to synchronized scans
+176475	Multi-query SQL Progress Indicators
+300578	A Non-Blocking Parallel Spatial Join Algorithm
+300579	A Comparison of Three Methods for Join View Maintenance in Parallel RDBMS
+300580	Increasing the Accuracy and Coverage of SQL Progress Indicators
+301566	Partial Materialized Views
+301817	SAO: A Stream Index for Answering Linear Optimization Queries
+302275	Design and Evaluation of the iMed Intelligent Medical Search Engine
+350527	Challenging issues in iterative intelligent medical search
+452590	A Novel Low-Power Clock Skew Compensation Circuit
+555297	Fault Models in Testing
+555396	Generating Tests for Control Portion of SDL Specifications
+555397	Generating Synchronizable Test Sequences Based on Finite State Machine with Distributed Ports
+596382	On iterative intelligent medical search
+599233	A scalable hash ripple join algorithm
+599239	Toward a Progress Indicator for Database Queries
+600159	Resource-adaptive real-time new event detection
+642144	Efficient Detection of Empty-Result Queries
+643214	Locking Protocols for Materialized Aggregate Join Views
+644209	Challenges and Experience in Prototyping a Multi-Modal Stream Analytic and Monitoring Application on System S
+675035	Answering relationship queries on the web
+675098	MedSearch: a specialized search engine for medical information
+696485	Dynamic Rate Assignment and Power Control in Uplink UMTSW-CDMA Systems
+701956	Transaction Reordering and Grouping for Continuous Data Loading
+716891	Research on Steganalysis for Text Steganography Based on Font Format
+716937	Detection of Hidden Information in Webpages Based on Randomness
+932704	Failure-Equivalent Transformation of Transition Systems to Avoid Internal Actions
+1075684	Toward a progress indicator for program compilation
+1113175	Locking Protocols for Materialized Aggregate Join Views
+1128897	Test Selection Based on Communicating Nondeterministic Finite-State Machines Using a Generalized WP-Method
+1128899	Software Testing Based on SDL Specifications with Save
+1257810	Tracking Telescope Aiming Point for Bioptic Driving Surveillance
+1263465	Intelligent Consumer-Centric Electronic Medical Record
+1273430	Development and Evaluation of Vision Multiplexing Devices for Vision Impairments
+1278723	Answering linear optimization queries with an approximate stream index
+1281309	Comments on 'Leading-One Prediction with Concurrent Position Correction
+1320175	Improved Method for Network Danger Evaluation Based on Immunology Principle.
+1507593	Trace-equivalent transformation of nondeterministic finite state machines to avoid internal actions
+1512645	Test generation with respect to distributed interfaces
+1585831	Challenges and experience in prototyping a multi-modal stream analytic and monitoring application on System S
+1596586	A Novel Clock Duty-Cycle Corrector of DSP Systems
