@@ -18,6 +18,7 @@ import random
 from nltk.stem.porter import PorterStemmer
 porter_stemmer = PorterStemmer()
 import copy
+import json
 
 # import tensorflow.compat.v1 as tf
 # tf.disable_v2_behavior()
@@ -129,6 +130,55 @@ def pairwise_evaluate(correct_labels,pred_labels):
         pairwise_f1 = (2 * pairwise_precision * pairwise_recall) / (pairwise_precision + pairwise_recall)
     return pairwise_precision, pairwise_recall, pairwise_f1
 
+
+def generate_author_id_clusters(fname, correct_labels, predicted_labels):
+    """
+    Creates and saves a mapping from person clusters to author IDs.
+    
+    For a given name (like "Li Shen"), this shows which person cluster
+    corresponds to which author IDs in the dataset.
+    
+    Args:
+        fname: Name being disambiguated
+        correct_labels: List of true author IDs for each paper
+        predicted_labels: List of predicted cluster labels for each paper
+    """
+    # Create a mapping from predicted clusters to author IDs
+    cluster_to_author_ids = {}
+    
+    # For each paper, map its predicted cluster to its true author ID
+    for i in range(len(predicted_labels)):
+        # Convert numpy types to native Python types to avoid JSON serialization issues
+        pred_cluster = int(predicted_labels[i])
+        true_author_id = int(correct_labels[i])
+        
+        if pred_cluster not in cluster_to_author_ids:
+            cluster_to_author_ids[pred_cluster] = set()
+        
+        cluster_to_author_ids[pred_cluster].add(true_author_id)
+    
+    # Convert sets to sorted lists for better readability
+    cluster_to_author_ids = {int(k): sorted(list(v)) for k, v in cluster_to_author_ids.items()}
+    
+    # Save the result to a JSON file
+    # Create directory if it doesn't exist
+    os.makedirs('result/author_clusters', exist_ok=True)
+    
+    with open(f'result/author_clusters/{fname}_clusters.json', 'w') as f:
+        json.dump({fname: cluster_to_author_ids}, f, indent=2)
+    
+    # Also print to console
+    print(f"\n{fname} person clusters to author IDs mapping:")
+    print(json.dumps({fname: cluster_to_author_ids}, indent=2))
+    
+    return cluster_to_author_ids
+
+# Add this function to encapsulate original output logic
+def print_original_output(fname, correct_labels, labels, pairwise_precision, pairwise_recall, pairwise_f1):
+    """Print the original output format (can be enabled/disabled as needed)"""
+    print(correct_labels, len(set(correct_labels)))
+    print(list(labels), len(set(list(labels))))
+    print(fname, pairwise_precision, pairwise_recall, pairwise_f1)
 
 if __name__ == '__main__':
     # Pre-trained word2vec model
@@ -562,9 +612,12 @@ for fname in file_names:
     labels = GHAC(embed_matrix,Glist[-1],idx_pid,len(set(correct_labels)))
     pairwise_precision, pairwise_recall, pairwise_f1 = pairwise_evaluate(correct_labels,labels)
     result.append([fname,pairwise_precision, pairwise_recall, pairwise_f1])
-    print (correct_labels,len(set(correct_labels)))
-    print (list(labels),len(set(list(labels))))
-    print (fname,pairwise_precision, pairwise_recall, pairwise_f1)
+    
+    # Comment out or replace with this to hide original output:
+    # print_original_output(fname, correct_labels, labels, pairwise_precision, pairwise_recall, pairwise_f1)
+    
+    # Only show the custom output
+    generate_author_id_clusters(fname, correct_labels, labels)
 
     # Macro-F1
     Prec = 0

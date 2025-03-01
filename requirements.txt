@@ -1,7 +1,12 @@
+numpy
+scipy
+gensim
 networkx
 scikit-learn
-Tensorflow == 2.18.0
+python-louvain
+nltk
+tensorflow
+setuptools
+wheel
 pandas
 matplotlib
-community
-nltk
