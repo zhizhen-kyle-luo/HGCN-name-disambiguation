@@ -1,0 +1,2121 @@
+{
+  "author_name": "Author Name",
+  "author_data": {
+    "A5106049718": {
+      "id": "A5106049718",
+      "name": "Author name",
+      "name_first": "",
+      "name_middle": "",
+      "name_last": "name",
+      "works_count": 1,
+      "works": [
+        "W2117970542",
+        "W2081232530",
+        "W1994460453",
+        "W2157458634",
+        "W2520646333",
+        "W2980359229",
+        "W2507454632",
+        "W1530235924",
+        "W2160425572",
+        "W2119859890",
+        "W2904965903",
+        "W2606232376",
+        "W2015094397",
+        "W2421749482",
+        "W2178301571",
+        "W2095694475",
+        "W2071908793",
+        "W2617289355",
+        "W2044946249",
+        "W2205691997",
+        "W3213357415",
+        "W4399171962",
+        "W2488376628",
+        "W2402595970",
+        "W2031328528",
+        "W3008789553",
+        "W1978496968",
+        "W2579679902",
+        "W4248076788"
+      ]
+    },
+    "A5097090733": {
+      "id": "A5097090733",
+      "name": "Author Name -",
+      "name_first": "Name",
+      "name_middle": "",
+      "name_last": "-",
+      "works_count": 1,
+      "works": [
+        "W2062326982"
+      ]
+    },
+    "A5079758167": {
+      "id": "A5079758167",
+      "name": "Author Name Affiliation E-mail WANG Xiao-fang",
+      "name_first": "Name",
+      "name_middle": "Affiliation E-mail WANG",
+      "name_last": "Xiao-fang",
+      "works_count": 1,
+      "works": [
+        "W2739227817",
+        "W3001035430",
+        "W3205542140",
+        "W4401502200",
+        "W4402900398",
+        "W3039269189",
+        "W2370951429",
+        "W2738161661"
+      ]
+    },
+    "A5053482417": {
+      "id": "A5053482417",
+      "name": "Author Name Not Available",
+      "name_first": "Name",
+      "name_middle": "Not",
+      "name_last": "Available",
+      "works_count": 12,
+      "works": [
+        "W2754735924",
+        "W2960551552",
+        "W2754700607",
+        "W2755258502",
+        "W2755420471",
+        "W2756060423",
+        "W2761534324",
+        "W2763340798",
+        "W2763787925",
+        "W2770140821",
+        "W2770958218",
+        "W2775049923"
+      ]
+    },
+    "A5062537879": {
+      "id": "A5062537879",
+      "name": "Author First Name Author Last Name",
+      "name_first": "Name",
+      "name_middle": "Author Last",
+      "name_last": "Name",
+      "works_count": 2,
+      "works": []
+    },
+    "A5098302521": {
+      "id": "A5098302521",
+      "name": "Author First Name Author Last Name",
+      "name_first": "Name",
+      "name_middle": "Author Last",
+      "name_last": "Name",
+      "works_count": 1,
+      "works": [
+        "W2760818457"
+      ]
+    },
+    "A5093002287": {
+      "id": "A5093002287",
+      "name": "Author Name Author Last Name",
+      "name_first": "Name",
+      "name_middle": "Author Last",
+      "name_last": "Name",
+      "works_count": 1,
+      "works": [
+        "W4387341592"
+      ]
+    },
+    "A5092782937": {
+      "id": "A5092782937",
+      "name": "Author Name",
+      "name_first": "",
+      "name_middle": "",
+      "name_last": "Name",
+      "works_count": 1,
+      "works": [
+        "W4385431162",
+        "W4385892817",
+        "W4385892842",
+        "W4386425482",
+        "W4210475175",
+        "W4280571421",
+        "W4281842986",
+        "W4284989238",
+        "W4295279164",
+        "W4319032185",
+        "W4385063347",
+        "W3184930349"
+      ]
+    },
+    "A5069858325": {
+      "id": "A5069858325",
+      "name": "Author Name",
+      "name_first": "",
+      "name_middle": "",
+      "name_last": "Name",
+      "works_count": 1,
+      "works": [
+        "W4244155725"
+      ]
+    },
+    "A5097130543": {
+      "id": "A5097130543",
+      "name": "Author Name",
+      "name_first": "",
+      "name_middle": "",
+      "name_last": "Name",
+      "works_count": 1,
+      "works": [
+        "W2938743847"
+      ]
+    },
+    "A5083164751": {
+      "id": "A5083164751",
+      "name": "Author Name",
+      "name_first": "",
+      "name_middle": "",
+      "name_last": "Name",
+      "works_count": 1,
+      "works": [
+        "W4318212735"
+      ]
+    },
+    "A5094340619": {
+      "id": "A5094340619",
+      "name": "Author Name",
+      "name_first": "",
+      "name_middle": "",
+      "name_last": "Name",
+      "works_count": 2,
+      "works": [
+        "W4393599513",
+        "W4393639778"
+      ]
+    },
+    "A5009815240": {
+      "id": "A5009815240",
+      "name": "Author Last name",
+      "name_first": "Last",
+      "name_middle": "",
+      "name_last": "name",
+      "works_count": 1,
+      "works": [
+        "W4244045126"
+      ]
+    },
+    "A5098788277": {
+      "id": "A5098788277",
+      "name": "AUTHOR FIRST NAMe AND LAST NAME",
+      "name_first": "NAMe AND LAST",
+      "name_middle": "",
+      "name_last": "NAME",
+      "works_count": 1,
+      "works": [
+        "W4398492645"
+      ]
+    },
+    "A5098795109": {
+      "id": "A5098795109",
+      "name": "AUTHOR FIRST NAMe AND LAST NAME",
+      "name_first": "NAMe AND LAST",
+      "name_middle": "",
+      "name_last": "NAME",
+      "works_count": 1,
+      "works": [
+        "W4398619851"
+      ]
+    },
+    "A5098788234": {
+      "id": "A5098788234",
+      "name": "AUTHOR FIRST NAMe AND LAST NAME",
+      "name_first": "NAMe AND LAST",
+      "name_middle": "",
+      "name_last": "NAME",
+      "works_count": 1,
+      "works": [
+        "W4398491109",
+        "W4398571893"
+      ]
+    },
+    "A5098796854": {
+      "id": "A5098796854",
+      "name": "AUTHOR FIRST NAMe AND LAST NAME",
+      "name_first": "NAMe AND LAST",
+      "name_middle": "",
+      "name_last": "NAME",
+      "works_count": 1,
+      "works": [
+        "W4398697579"
+      ]
+    },
+    "A5098795456": {
+      "id": "A5098795456",
+      "name": "AUTHOR FIRST NAMe AND LAST NAME",
+      "name_first": "NAMe AND LAST",
+      "name_middle": "",
+      "name_last": "NAME",
+      "works_count": 1,
+      "works": [
+        "W4398640822",
+        "W4398642670",
+        "W4398738124",
+        "W4398738411"
+      ]
+    },
+    "A5098787215": {
+      "id": "A5098787215",
+      "name": "AUTHOR FIRST NAMe AND LAST NAME",
+      "name_first": "NAMe AND LAST",
+      "name_middle": "",
+      "name_last": "NAME",
+      "works_count": 1,
+      "works": [
+        "W4398453366"
+      ]
+    }
+  },
+  "works_data": {
+    "W2117970542": {
+      "id": "W2117970542",
+      "title": "Origins of specificity during tDCS: anatomical, activity-selective, and input-bias mechanisms",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Marom Bikson",
+          "id": "A5102868737"
+        },
+        {
+          "name": "Author name",
+          "id": "A5106049718"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        }
+      ],
+      "venue": "Frontiers in Human Neuroscience"
+    },
+    "W2081232530": {
+      "id": "W2081232530",
+      "title": "Effects of weak transcranial alternating current stimulation on brain activity\u2014a review of known mechanisms from animal studies",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Davide Reato",
+          "id": "A5046587738"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5102868737"
+        },
+        {
+          "name": "Lucas C. Parra",
+          "id": "A5079902276"
+        }
+      ],
+      "venue": "Frontiers in Human Neuroscience"
+    },
+    "W1994460453": {
+      "id": "W1994460453",
+      "title": "Electrode montages for tDCS and weak transcranial electrical stimulation: Role of \u201creturn\u201d electrode\u2019s position and size",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        },
+        {
+          "name": "Abhishek Datta",
+          "id": "A5029856778"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Jen Scaturro",
+          "id": "A5060836471"
+        }
+      ],
+      "venue": "Clinical Neurophysiology"
+    },
+    "W2157458634": {
+      "id": "W2157458634",
+      "title": "Computational Models of Transcranial Direct Current Stimulation",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Abhishek Datta",
+          "id": "A5029856778"
+        }
+      ],
+      "venue": "Clinical EEG and Neuroscience"
+    },
+    "W2520646333": {
+      "id": "W2520646333",
+      "title": "Animal models of transcranial direct current stimulation: Methods and mechanisms",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Mark Jackson",
+          "id": "A5101885658"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Belen Lafon",
+          "id": "A5052875251"
+        },
+        {
+          "name": "Gregory Kronberg",
+          "id": "A5112637901"
+        },
+        {
+          "name": "Doris Ling",
+          "id": "A5091561665"
+        },
+        {
+          "name": "Lucas C. Parra",
+          "id": "A5079902276"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5102868737"
+        }
+      ],
+      "venue": "Clinical Neurophysiology"
+    },
+    "W2980359229": {
+      "id": "W2980359229",
+      "title": "Direct current stimulation boosts hebbian plasticity in vitro",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Greg Kronberg",
+          "id": "A5002024796"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Mahima Sharma",
+          "id": "A5008951959"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5102868737"
+        },
+        {
+          "name": "Lucas C. Parra",
+          "id": "A5079902276"
+        }
+      ],
+      "venue": "Brain stimulation"
+    },
+    "W2507454632": {
+      "id": "W2507454632",
+      "title": "Direct Current Stimulation Alters Neuronal Input/Output Function",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Belen Lafon",
+          "id": "A5052875251"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        },
+        {
+          "name": "Lucas C. Parra",
+          "id": "A5079902276"
+        }
+      ],
+      "venue": "Brain stimulation"
+    },
+    "W1530235924": {
+      "id": "W1530235924",
+      "title": "The reliability of repeated TMS measures in older adults and in patients with subacute and chronic stroke",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Heidi M. Schambra",
+          "id": "A5023326521"
+        },
+        {
+          "name": "R. Todd Ogden",
+          "id": "A5081965846"
+        },
+        {
+          "name": "Isis E. Mart\u00ednez-Hern\u00e1ndez",
+          "id": "A5050232935"
+        },
+        {
+          "name": "Xuejing Lin",
+          "id": "A5027263611"
+        },
+        {
+          "name": "Y. Brenda Chang",
+          "id": "A5041918091"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Dylan J. Edwards",
+          "id": "A5081308782"
+        },
+        {
+          "name": "John W. Krakauer",
+          "id": "A5000991643"
+        }
+      ],
+      "venue": "Frontiers in Cellular Neuroscience"
+    },
+    "W2160425572": {
+      "id": "W2160425572",
+      "title": "High-Resolution Modeling Assisted Design of Customized and Individualized Transcranial Direct Current Stimulation Protocols",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Abhishek Datta",
+          "id": "A5029856778"
+        },
+        {
+          "name": "Felipe Fregni",
+          "id": "A5062615661"
+        },
+        {
+          "name": "Lotfi B. Merabet",
+          "id": "A5022722680"
+        }
+      ],
+      "venue": "Neuromodulation Technology at the Neural Interface"
+    },
+    "W2119859890": {
+      "id": "W2119859890",
+      "title": "The \u201cQuasi-Uniform\u201d Assumption in Animal and Computational Models of Non-Invasive Electrical Stimulation",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        },
+        {
+          "name": "Jacek Dmochowski",
+          "id": "A5067697868"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        }
+      ],
+      "venue": "Brain stimulation"
+    },
+    "W2904965903": {
+      "id": "W2904965903",
+      "title": "Randomized Controlled Trial of Simulation vs. Standard Training for Teaching Medical Students High-quality Cardiopulmonary Resuscitation",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Eric McCoy",
+          "id": "A5084689503"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Juan Sebastian Rendon",
+          "id": "A5014491177"
+        },
+        {
+          "name": "Craig L. Anderson",
+          "id": "A5043877757"
+        },
+        {
+          "name": "Mark I. Langdorf",
+          "id": "A5054256935"
+        },
+        {
+          "name": "Shahram Lotfipour",
+          "id": "A5040633171"
+        },
+        {
+          "name": "Bharath Chakravarthy",
+          "id": "A5027721092"
+        }
+      ],
+      "venue": "Western Journal of Emergency Medicine"
+    },
+    "W2606232376": {
+      "id": "W2606232376",
+      "title": "Direct current stimulation boosts synaptic gain and cooperativity <i>in vitro</i>",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Belen Lafon",
+          "id": "A5052875251"
+        },
+        {
+          "name": "Lucas C. Parra",
+          "id": "A5079902276"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "The Journal of Physiology"
+    },
+    "W2015094397": {
+      "id": "W2015094397",
+      "title": "Methods for extra-low voltage transcranial direct current stimulation: Current and time dependent impedance decreases",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Christoph Hahn",
+          "id": "A5081888739"
+        },
+        {
+          "name": "Justin K. Rice",
+          "id": "A5091199557"
+        },
+        {
+          "name": "Shiraz Macuff",
+          "id": "A5019429400"
+        },
+        {
+          "name": "Preet Minhas",
+          "id": "A5075494904"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "Clinical Neurophysiology"
+    },
+    "W2421749482": {
+      "id": "W2421749482",
+      "title": "Modeling sequence and quasi-uniform assumption in computational neurostimulation",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        },
+        {
+          "name": "Dennis Q. Truong",
+          "id": "A5057783947"
+        },
+        {
+          "name": "Antonios P. Mourdoukoutas",
+          "id": "A5012165358"
+        },
+        {
+          "name": "Mohamed Aboseria",
+          "id": "A5009929298"
+        },
+        {
+          "name": "Niranjan Khadka",
+          "id": "A5027421242"
+        },
+        {
+          "name": "Devin Adair",
+          "id": "A5035340679"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        }
+      ],
+      "venue": "Progress in brain research"
+    },
+    "W2178301571": {
+      "id": "W2178301571",
+      "title": "Multilevel computational models for predicting the cellular effects of noninvasive brain stimulation",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Belen Lafon",
+          "id": "A5052875251"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "Progress in brain research"
+    },
+    "W2095694475": {
+      "id": "W2095694475",
+      "title": "Clinician Accessible Tools for GUI Computational Models of Transcranial Electrical Stimulation: BONSAI and SPHERES",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Dennis Q. Truong",
+          "id": "A5057783947"
+        },
+        {
+          "name": "Mathias H\u00fcber",
+          "id": "A5002680100"
+        },
+        {
+          "name": "Xihe Xie",
+          "id": "A5019988311"
+        },
+        {
+          "name": "Abhishek Datta",
+          "id": "A5029856778"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Lucas C. Parra",
+          "id": "A5079902276"
+        },
+        {
+          "name": "Jacek Dmochowski",
+          "id": "A5067697868"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "Brain stimulation"
+    },
+    "W2071908793": {
+      "id": "W2071908793",
+      "title": "Polarizing cerebellar neurons with transcranial Direct Current Stimulation",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Peter Toshev",
+          "id": "A5004367846"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "Clinical Neurophysiology"
+    },
+    "W2617289355": {
+      "id": "W2617289355",
+      "title": "Prospective Randomized Crossover Study of Telesimulation Versus Standard Simulation for Teaching Medical Students the Management of Critically Ill Patients",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Christopher Eric McCoy",
+          "id": "A5005786646"
+        },
+        {
+          "name": "Julie Sayegh",
+          "id": "A5090363588"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Mark Landgorf",
+          "id": "A5005425256"
+        },
+        {
+          "name": "Craig L. Anderson",
+          "id": "A5043877757"
+        },
+        {
+          "name": "Shahram Lotfipour",
+          "id": "A5040633171"
+        }
+      ],
+      "venue": "AEM Education and Training"
+    },
+    "W2044946249": {
+      "id": "W2044946249",
+      "title": "Axon terminal polarization induced by weak uniform DC electric fields: A modeling study",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Mattia Arlotti",
+          "id": "A5073231153"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Preet Minhas",
+          "id": "A5075494904"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society"
+    },
+    "W2205691997": {
+      "id": "W2205691997",
+      "title": "Temperature control at DBS electrodes using a heat sink: experimentally validated FEM model of DBS lead architecture",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Maged Elwassif",
+          "id": "A5048287404"
+        },
+        {
+          "name": "Abhishek Datta",
+          "id": "A5029856778"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "Journal of Neural Engineering"
+    },
+    "W3213357415": {
+      "id": "W3213357415",
+      "title": "Early prediction of hemodynamic interventions in the intensive care unit using machine learning",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Yale Chang",
+          "id": "A5079450700"
+        },
+        {
+          "name": "Junzi Dong",
+          "id": "A5032764330"
+        },
+        {
+          "name": "Bryan Conroy",
+          "id": "A5113532360"
+        },
+        {
+          "name": "Annamalai Natarajan",
+          "id": "A5074176287"
+        },
+        {
+          "name": "Takahiro Kinoshita",
+          "id": "A5004883743"
+        },
+        {
+          "name": "Francesco Vicario",
+          "id": "A5036553823"
+        },
+        {
+          "name": "Joseph Frassica",
+          "id": "A5037164097"
+        },
+        {
+          "name": "Minnan Xu-Wilson",
+          "id": "A5088639811"
+        }
+      ],
+      "venue": "Critical Care"
+    },
+    "W4399171962": {
+      "id": "W4399171962",
+      "title": "SARS-CoV-2 infection is associated with an increase in new diagnoses of schizophrenia spectrum and psychotic disorder: A study using the US national COVID cohort collaborative (N3C)",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Michael W. Russell",
+          "id": "A5048948828"
+        },
+        {
+          "name": "Wanhong Zheng",
+          "id": "A5049184934"
+        },
+        {
+          "name": "Daniel Eckrich",
+          "id": "A5011075155"
+        },
+        {
+          "name": "Imtiaz Ahmed",
+          "id": "A5035154112"
+        }
+      ],
+      "venue": "PLoS ONE"
+    },
+    "W2488376628": {
+      "id": "W2488376628",
+      "title": "Cellular and Network Effects of Transcranial Direct Current Stimulation",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        },
+        {
+          "name": "Davide Reato",
+          "id": "A5046587738"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        }
+      ],
+      "venue": "Frontiers in neuroscience"
+    },
+    "W2402595970": {
+      "id": "W2402595970",
+      "title": "Diagnostic accuracy of ultrasonography in acute appendicitis.",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Sajjad Hussain",
+          "id": "A5050895267"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Tariq Abbasi",
+          "id": "A5000904716"
+        },
+        {
+          "name": "Tariq Aziz",
+          "id": "A5043283243"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W2031328528": {
+      "id": "W2031328528",
+      "title": "Methods for Specific Electrode Resistance Measurement During Transcranial Direct Current Stimulation",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Niranjan Khadka",
+          "id": "A5027421242"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Chris Sarantos",
+          "id": "A5054413089"
+        },
+        {
+          "name": "Dennis Q. Truong",
+          "id": "A5057783947"
+        },
+        {
+          "name": "Marom Bikson",
+          "id": "A5025915090"
+        }
+      ],
+      "venue": "Brain stimulation"
+    },
+    "W3008789553": {
+      "id": "W3008789553",
+      "title": "Delivering multi-disease screening to migrants for latent TB and blood-borne viruses in an emergency department setting: A feasibility study",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Sally Hargreaves",
+          "id": "A5075807998"
+        },
+        {
+          "name": "Laura B Nellums",
+          "id": "A5089719421"
+        },
+        {
+          "name": "Catherine Johnson",
+          "id": "A5020366548"
+        },
+        {
+          "name": "Jacob A. Goldberg",
+          "id": "A5045884278"
+        },
+        {
+          "name": "Panagiotis Pantelidis",
+          "id": "A5063808747"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Jon S. Friedland FMedSci",
+          "id": "A5007478093"
+        }
+      ],
+      "venue": "Travel Medicine and Infectious Disease"
+    },
+    "W1978496968": {
+      "id": "W1978496968",
+      "title": "Dictyostelium discoideum Paxillin Regulates Actin-Based Processes",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "M. Berenice Duran",
+          "id": "A5068159267"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Max Colten",
+          "id": "A5049136664"
+        },
+        {
+          "name": "Derrick Brazill",
+          "id": "A5030304398"
+        }
+      ],
+      "venue": "Protist"
+    },
+    "W2579679902": {
+      "id": "W2579679902",
+      "title": "Evaluation of prediagnosis emergency department presentations in patients with active tuberculosis: the role of chest radiography, risk factors and symptoms",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Sasha C. Appleton",
+          "id": "A5106183669"
+        },
+        {
+          "name": "David Connell",
+          "id": "A5088660672"
+        },
+        {
+          "name": "Anika Singanayagam",
+          "id": "A5023613805"
+        },
+        {
+          "name": "Patrick Bradley",
+          "id": "A5112762449"
+        },
+        {
+          "name": "Daniel Pan",
+          "id": "A5051541843"
+        },
+        {
+          "name": "Frances Sanderson",
+          "id": "A5112384528"
+        },
+        {
+          "name": "Barbara Cleaver",
+          "id": "A5074989308"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "Onn Min Kon",
+          "id": "A5003397190"
+        }
+      ],
+      "venue": "BMJ Open Respiratory Research"
+    },
+    "W4248076788": {
+      "id": "W4248076788",
+      "title": "A Multi-Task Imputation and Classification Neural Architecture for Early Prediction of Sepsis from Multivariate Clinical Time Series",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Yale Chang",
+          "id": "A5079450700"
+        },
+        {
+          "name": "Jonathan M. Rubin",
+          "id": "A5059162243"
+        },
+        {
+          "name": "Gregory Boverman",
+          "id": "A5010512992"
+        },
+        {
+          "name": "Shruti G. Vij",
+          "id": "A5047110338"
+        },
+        {
+          "name": "Asif Rahman",
+          "id": "A5056840989"
+        },
+        {
+          "name": "A. Natarajan",
+          "id": "A5037339096"
+        },
+        {
+          "name": "Saman Parvaneh",
+          "id": "A5011253727"
+        }
+      ],
+      "venue": "Computing in cardiology"
+    },
+    "W2062326982": {
+      "id": "W2062326982",
+      "title": "Utilizing Trusted Platform Module to Mitigate Botnet Attacks",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Muththolib Sidheeq -",
+          "id": "A5045590446"
+        },
+        {
+          "name": "Ali Dehghantanha",
+          "id": "A5038019914"
+        },
+        {
+          "name": "Author Name -",
+          "id": "A5097090733"
+        },
+        {
+          "name": "Geetha Kananparan -",
+          "id": "A5030009507"
+        }
+      ],
+      "venue": "International Journal of Advancements in Computing Technology"
+    },
+    "W2739227817": {
+      "id": "W2739227817",
+      "title": "Effects of Foliar-applied Selenite and Selenate on Selenium Accumulation in Strawberry",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Author Name Affiliation E-mail WANG Xiao-fang",
+          "id": "A5079758167"
+        },
+        {
+          "name": "Zhang Luo",
+          "id": "A5102595723"
+        },
+        {
+          "name": "Wan Ya-nan",
+          "id": "A5068695036"
+        },
+        {
+          "name": "Qi Wang",
+          "id": "A5103157486"
+        },
+        {
+          "name": "Hongjie Sun",
+          "id": "A5001496905"
+        },
+        {
+          "name": "Guo Yan-bin",
+          "id": "A5102065255"
+        },
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        }
+      ],
+      "venue": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    "W3001035430": {
+      "id": "W3001035430",
+      "title": "[Absorption and Transportation of Selenium Nanoparticles in Wheat and Rice].",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Yaqi Wang",
+          "id": "A5114089918"
+        },
+        {
+          "name": "Lina Zhu",
+          "id": "A5108958092"
+        },
+        {
+          "name": "Kui Li",
+          "id": "A5100396625"
+        },
+        {
+          "name": "Qi Wang",
+          "id": "A5100341232"
+        },
+        {
+          "name": "Kang Wang",
+          "id": "A5100381643"
+        },
+        {
+          "name": "Yanbin Guo",
+          "id": "A5058612938"
+        },
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W3205542140": {
+      "id": "W3205542140",
+      "title": "Risk assessment of cadmium and arsenic in phosphate fertilizer.",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Yu Yao",
+          "id": "A5112338979"
+        },
+        {
+          "name": "Zhu Lina",
+          "id": "A5100509121"
+        },
+        {
+          "name": "Tianliang Guo",
+          "id": "A5051260151"
+        },
+        {
+          "name": "Huang Qingqing",
+          "id": "A5102692610"
+        },
+        {
+          "name": "Qi Wang",
+          "id": "A5100341342"
+        },
+        {
+          "name": "Qing Chen",
+          "id": "A5029116912"
+        },
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        }
+      ],
+      "venue": "Nongye huanjing kexue xuebao"
+    },
+    "W4401502200": {
+      "id": "W4401502200",
+      "title": "Selenate simultaneously alleviated cadmium and arsenic accumulation in rice (Oryza sativa L.) via regulating transport genes",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Siyu Huang",
+          "id": "A5103021194"
+        },
+        {
+          "name": "Qiqi Wang",
+          "id": "A5017800332"
+        },
+        {
+          "name": "Qi Hao",
+          "id": "A5033626836"
+        },
+        {
+          "name": "Zhe Liu",
+          "id": "A5100462375"
+        },
+        {
+          "name": "Yanjin Tao",
+          "id": "A5007366104"
+        },
+        {
+          "name": "Yu Fan",
+          "id": "A5110527284"
+        },
+        {
+          "name": "Qi Wang",
+          "id": "A5100772767"
+        },
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        },
+        {
+          "name": "Yanan Wan",
+          "id": "A5114117478"
+        }
+      ],
+      "venue": "Environmental Pollution"
+    },
+    "W4402900398": {
+      "id": "W4402900398",
+      "title": "[Enrichment and Nutrition/Health Risks Assessment of Mineral Elements in Apples Growing in Yunnan's High Geological Background Area].",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Yan Liu",
+          "id": "A5112200471"
+        },
+        {
+          "name": "Yu Fan",
+          "id": "A5016098560"
+        },
+        {
+          "name": "Jiang Liu",
+          "id": "A5089620764"
+        },
+        {
+          "name": "Zhiwei Jia",
+          "id": "A5033721837"
+        },
+        {
+          "name": "Yanan Wan",
+          "id": "A5114117478"
+        },
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        },
+        {
+          "name": "Fanqiao Meng",
+          "id": "A5044757042"
+        },
+        {
+          "name": "Qi Wang",
+          "id": "A5100341381"
+        },
+        {
+          "name": "Zhong Zhuang",
+          "id": "A5084527877"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W3039269189": {
+      "id": "W3039269189",
+      "title": "[Toxicity of Chromium to Root Growth of Barley as Affected by Chromium Speciation and Soil Properties].",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Ping-nan Fu",
+          "id": "A5032573120"
+        },
+        {
+          "name": "Xiaofei Gong",
+          "id": "A5112538109"
+        },
+        {
+          "name": "Li-yun Luo",
+          "id": "A5005888889"
+        },
+        {
+          "name": "Qi Wang",
+          "id": "A5100341381"
+        },
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W2370951429": {
+      "id": "W2370951429",
+      "title": "Uptake and accumulation of Se by rice in different soils supplied with selenite or selenate",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        }
+      ],
+      "venue": "Acta Scientiae Circumstantiae"
+    },
+    "W2738161661": {
+      "id": "W2738161661",
+      "title": "Effect of Se-enriched Organic Fertilizers on Selenium Accumulation in Corn and Soil",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Shengnan Li",
+          "id": "A5109371125"
+        },
+        {
+          "name": "Shizhong Yue",
+          "id": "A5003356028"
+        },
+        {
+          "name": "Huafen Li",
+          "id": "A5063608468"
+        },
+        {
+          "name": "Qiao Yuhui",
+          "id": "A5000206401"
+        }
+      ],
+      "venue": "DOAJ (DOAJ: Directory of Open Access Journals)"
+    },
+    "W2754735924": {
+      "id": "W2754735924",
+      "title": "2013 Cardiac Atlas Project Free Challenge - Participant Project",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2960551552": {
+      "id": "W2960551552",
+      "title": "ADDT AD Challenge Q1",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2754700607": {
+      "id": "W2754700607",
+      "title": "2013 Cardiac Atlas Project Standard Challenge - Participant Project",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2755258502": {
+      "id": "W2755258502",
+      "title": "2013 Canine Standard Challenge - Participant Project",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2755420471": {
+      "id": "W2755420471",
+      "title": "2013 Diencephalon Standard Challenge - Participant Project",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2756060423": {
+      "id": "W2756060423",
+      "title": "2015 - Segmentation Outside the Cranial Vault Challenge - Abdomen Participant Project - Free Competition",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2761534324": {
+      "id": "W2761534324",
+      "title": "APID 1234567 Pratico UpsTitle",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2763340798": {
+      "id": "W2763340798",
+      "title": "PDB Dream Challenge - IIIT Delhi ( Raghava )",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2763787925": {
+      "id": "W2763787925",
+      "title": "BSMN Knowledge Portal Issues",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2770140821": {
+      "id": "W2770140821",
+      "title": "Processed ADNI1 lipidomics data dictionary",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2770958218": {
+      "id": "W2770958218",
+      "title": "Processed ADNI1 lipidomics data",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2775049923": {
+      "id": "W2775049923",
+      "title": "PSON Cell Line Characterization",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Author Name Not Available",
+          "id": "A5053482417"
+        }
+      ],
+      "venue": "Synapse"
+    },
+    "W2760818457": {
+      "id": "W2760818457",
+      "title": "Development of community based rehabilitation in Thailand: A case study in Samut Sakhon Province",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Tavee Cheausuwantavee",
+          "id": "A5077164559"
+        },
+        {
+          "name": "Author First Name Author Last Name",
+          "id": "A5098302521"
+        }
+      ],
+      "venue": "Edorium Journal of Disability and Rehabilitation"
+    },
+    "W4387341592": {
+      "id": "W4387341592",
+      "title": "Correction Note",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Author Name Author Last Name",
+          "id": "A5093002287"
+        }
+      ],
+      "venue": "European Journal of Biology"
+    },
+    "W4385431162": {
+      "id": "W4385431162",
+      "title": "The wound is believed to have been caused by sharp force : A Case Report",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Author Name",
+          "id": "A5092782937"
+        },
+        {
+          "name": "Said Muzani",
+          "id": "A5092195126"
+        },
+        {
+          "name": "Adriansyah Lubis",
+          "id": "A5041984131"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        }
+      ],
+      "venue": "International Journal of Research Publications"
+    },
+    "W4385892817": {
+      "id": "W4385892817",
+      "title": "Profile of Domestic Violence Cases with Physical Violence in Dr. Pirngadi General Hospital in Medan In 2021-2022",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Juang Aprianto BP Pasaribu",
+          "id": "A5092801820"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Dessy Harianja",
+          "id": "A5090645310"
+        }
+      ],
+      "venue": "International Journal of Scientific and Research Publications"
+    },
+    "W4385892842": {
+      "id": "W4385892842",
+      "title": "Characteristics of Wound in the Visum of Life Victims on Dolok Sanggul General Hospital from January 2022 To December 2022",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Henry Thomson Jamiler Hutasoit",
+          "id": "A5092801829"
+        },
+        {
+          "name": "Agustinus Sitepu",
+          "id": "A5055084970"
+        },
+        {
+          "name": "Rahmadsyah Pasaribu",
+          "id": "A5092801830"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Adriansyah Lubis",
+          "id": "A5041984131"
+        }
+      ],
+      "venue": "International Journal of Scientific and Research Publications"
+    },
+    "W4386425482": {
+      "id": "W4386425482",
+      "title": "Perbandingan Efektivitas Fiksasi Alami Ekstrak Daun Kelor 75% dan NBF 10% pada Gambaran Makroskopis dan Mikroskopis Organ Manusia",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Eben Ezer Debora Aladin Mezbah Purba",
+          "id": "A5092739152"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Adriansyah Lubis",
+          "id": "A5041984131"
+        },
+        {
+          "name": "Dessy Harianja",
+          "id": "A5090645310"
+        },
+        {
+          "name": "Netty Herawati",
+          "id": "A5040530091"
+        },
+        {
+          "name": "Mega Sari Sitorus",
+          "id": "A5036425555"
+        }
+      ],
+      "venue": "MAHESA Malahayati Health Student Journal"
+    },
+    "W4210475175": {
+      "id": "W4210475175",
+      "title": "Profile of Domestic Violence Cases Examined At Langsa Hospital in 2019-2020",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Netty Herawati",
+          "id": "A5040530091"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Rahmadsyah",
+          "id": "A5063612219"
+        }
+      ],
+      "venue": "International Journal of Research Publications"
+    },
+    "W4280571421": {
+      "id": "W4280571421",
+      "title": "PROFILE OF SEXUAL VIOLENCE CASE AGAINST CHILDREN EXAMINED IN LANGSA GENERAL HOSPITAL IN 2019 \u2013 2020",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Netty Herawaty",
+          "id": "A5076305134"
+        },
+        {
+          "name": "Dessy Harianja",
+          "id": "A5090645310"
+        },
+        {
+          "name": "Rahmadsyah Rahmadsyah",
+          "id": "A5005020066"
+        },
+        {
+          "name": "Oktafianna Malau",
+          "id": "A5037672055"
+        }
+      ],
+      "venue": "International Journal of Research Publications"
+    },
+    "W4281842986": {
+      "id": "W4281842986",
+      "title": "DOMESTIC VIOLENCE AGAINST PARENTS BY CHILDREN",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Netty Herawaty",
+          "id": "A5076305134"
+        },
+        {
+          "name": "Dessy Darmayani Harianja",
+          "id": "A5020257704"
+        },
+        {
+          "name": "Rahmadsyah Rahmadsyah",
+          "id": "A5005020066"
+        },
+        {
+          "name": "Oktafianna Malau",
+          "id": "A5037672055"
+        }
+      ],
+      "venue": "International Journal of Research Publications"
+    },
+    "W4284989238": {
+      "id": "W4284989238",
+      "title": "Prevalence Of Mechanical Trauma And Characteristics Of Victims Of Dead Injury In RSUD dr. Pirngadi Medan City Year 2019-2021",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Said Muzania",
+          "id": "A5023719041"
+        },
+        {
+          "name": "Adriansyah Lubis",
+          "id": "A5041984131"
+        },
+        {
+          "name": "Dessy Darmayani Harianja",
+          "id": "A5020257704"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        }
+      ],
+      "venue": "International Journal of Research Publications"
+    },
+    "W4295279164": {
+      "id": "W4295279164",
+      "title": "Level Of Knowledge Of General Doctors At RSU F.L. Tobing Sibolga Concerning Visum Et Repertum Development Before and After Training",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Roland Sanggam Parlindungan Tambuna",
+          "id": "A5003250354"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Dessy Darmayani Harianja",
+          "id": "A5020257704"
+        },
+        {
+          "name": "Adriansyah Lubis",
+          "id": "A5041984131"
+        },
+        {
+          "name": "Rizki Arviandi",
+          "id": "A5086506350"
+        }
+      ],
+      "venue": "International Journal of Research Publications"
+    },
+    "W4319032185": {
+      "id": "W4319032185",
+      "title": "The Prevalence and Characteristic of Dead Victim in Dr. Pirngadi General Hospital In Medan City In 2019-2021",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Juliana pasaribu",
+          "id": "A5017375057"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Dessy D. Harianja",
+          "id": "A5071378813"
+        }
+      ],
+      "venue": "International Journal of Scientific and Research Publications"
+    },
+    "W4385063347": {
+      "id": "W4385063347",
+      "title": "Covid-19 Corpse Burial Training",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Asan Petrus",
+          "id": "A5035167946"
+        },
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Dessy Harianja",
+          "id": "A5090645310"
+        }
+      ],
+      "venue": "ABDIMAS TALENTA Jurnal Pengabdian Kepada Masyarakat"
+    },
+    "W3184930349": {
+      "id": "W3184930349",
+      "title": "Suicide with Very Close Shot Wounds, A Case Report",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Doaris Ingrid Marbun",
+          "id": "A5084491898"
+        },
+        {
+          "name": "Abdul Gafar Parinduri",
+          "id": "A5076620349"
+        },
+        {
+          "name": "Rahmadsyah Rahmadsyah",
+          "id": "A5005020066"
+        },
+        {
+          "name": "Oktafianna Malau",
+          "id": "A5037672055"
+        },
+        {
+          "name": "Jakaria Zansen",
+          "id": "A5062624349"
+        }
+      ],
+      "venue": "International Journal of Research Publications"
+    },
+    "W4244155725": {
+      "id": "W4244155725",
+      "title": "Untitled publication",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Author Name",
+          "id": "A5069858325"
+        }
+      ],
+      "venue": "Public Health Forum"
+    },
+    "W2938743847": {
+      "id": "W2938743847",
+      "title": "Under Publication Process",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Author Name",
+          "id": "A5097130543"
+        }
+      ],
+      "venue": "International Journal on Recent and Innovation Trends in Computing and Communication"
+    },
+    "W4318212735": {
+      "id": "W4318212735",
+      "title": "EFFECT OF SHOULDER POSTERIOR GLIDE AND STRETCHING EXERCISES ON BICEPS TENDINITIS: A PILOT STUDY",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Author Name",
+          "id": "A5083164751"
+        }
+      ],
+      "venue": "Journal of Multan Medical & Dental College"
+    },
+    "W4393599513": {
+      "id": "W4393599513",
+      "title": "Your Deposition Title",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Author Name",
+          "id": "A5094340619"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)"
+    },
+    "W4393639778": {
+      "id": "W4393639778",
+      "title": "Your Deposition Title",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Author Name",
+          "id": "A5094340619"
+        }
+      ],
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)"
+    },
+    "W4244045126": {
+      "id": "W4244045126",
+      "title": "Causes For the Delay of Ileostomy Closure in Rectal Cancer Surgery",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Author Last name",
+          "id": "A5009815240"
+        }
+      ],
+      "venue": "Sudan Journal of Medical Sciences"
+    },
+    "W4398492645": {
+      "id": "W4398492645",
+      "title": "FGDs guide-Eng-final.doc",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "AUTHOR FIRST NAMe AND LAST NAME",
+          "id": "A5098788277"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098788278"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398619851": {
+      "id": "W4398619851",
+      "title": "Laos (2005): Reasons for Non-Use of Condoms among Male-To-Female Transgender (Katoey)in Vientiane Capital, Lao P.D.R.",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "AUTHOR FIRST NAMe AND LAST NAME",
+          "id": "A5098795109"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098782818"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398491109": {
+      "id": "W4398491109",
+      "title": "MSM_FGD_draft_report_10Aug06.doc",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "AUTHOR FIRST NAMe AND LAST NAME",
+          "id": "A5098788234"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098791144"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398571893": {
+      "id": "W4398571893",
+      "title": "1-data cleaning.do",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Risha Hess",
+          "id": "A5098791143"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098791144"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398697579": {
+      "id": "W4398697579",
+      "title": "VIETNAM (2010): Measuring Access and Performance of Number One Condom Social Marketing Program Round 1",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "AUTHOR FIRST NAMe AND LAST NAME",
+          "id": "A5098796854"
+        },
+        {
+          "name": "Duong Le Quyen",
+          "id": "A5098796855"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398640822": {
+      "id": "W4398640822",
+      "title": "Study Design.doc",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "AUTHOR FIRST NAMe AND LAST NAME",
+          "id": "A5098795456"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098798687"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398642670": {
+      "id": "W4398642670",
+      "title": "661-india_clients_smrs.pdf",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Risha Hess",
+          "id": "A5098798686"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098798687"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398738124": {
+      "id": "W4398738124",
+      "title": "3-OTS exposure analysis.do",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Risha Hess",
+          "id": "A5098798686"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098798687"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398738411": {
+      "id": "W4398738411",
+      "title": "2-merging generating basic var and recleaning.do",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Risha Hess",
+          "id": "A5098798686"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098798687"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    },
+    "W4398453366": {
+      "id": "W4398453366",
+      "title": "DRC (2008): FoQus on TRaC Improvement",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "AUTHOR FIRST NAMe AND LAST NAME",
+          "id": "A5098787215"
+        },
+        {
+          "name": "AUTHOR",
+          "id": "A5098779362"
+        }
+      ],
+      "venue": "Harvard Dataverse"
+    }
+  },
+  "author_id_to_label": {
+    "A5106049718": "0",
+    "A5097090733": "1",
+    "A5079758167": "2",
+    "A5053482417": "3",
+    "A5062537879": "4",
+    "A5098302521": "5",
+    "A5093002287": "6",
+    "A5092782937": "7",
+    "A5069858325": "8",
+    "A5097130543": "9",
+    "A5083164751": "10",
+    "A5094340619": "11",
+    "A5009815240": "12",
+    "A5098788277": "13",
+    "A5098795109": "14",
+    "A5098788234": "15",
+    "A5098796854": "16",
+    "A5098795456": "17",
+    "A5098787215": "18"
+  }
+}

@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>1</personID>
+	<FullName>John Smith</FullName>
+	<FirstName>John</FirstName>
+	<LastName>Smith</LastName>
+	<publication>
+		<title>Evolution and the Theory of Games</title>
+		<year>1988</year>
+		<authors>John Maynard Smith</authors>
+		<jconf>Springer eBooks</jconf>
+		<id>W1960351623</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Turns in Peptides and Proteins</title>
+		<year>1985</year>
+		<authors>George D. Rose, Lila M. Glerasch, John A. Smith</authors>
+		<jconf>Advances in protein chemistry</jconf>
+		<id>W1586022877</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identification of a putative second T-cell receptor</title>
+		<year>1986</year>
+		<authors>Michael B. Brenner, Joanne McLean, Deno P. Dialynas, Jack L. Strominger, John A. Smith, Frances L. Owen, J.G. Seidman, S H Ip, Fred S. Rosen, Michael S. Krangel</authors>
+		<jconf>Nature</jconf>
+		<id>W2079588771</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Neutrophils, host defense, and inflammation: a double-edged sword</title>
+		<year>1994</year>
+		<authors>John A. Smith</authors>
+		<jconf>Journal of Leukocyte Biology</jconf>
+		<id>W2113842263</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ERS guidelines on the assessment of cough</title>
+		<year>2007</year>
+		<authors>Alyn H. Morice, Giovanni Fontana, Maria G. Belvisi, Surinder S. Birring, Kian Fan Chung, Peter V. Dicpinigaitis, Jack Kastelik, Lorcan McGarvey, John A. Smith, M Tatár, J. G. Widdicombe</authors>
+		<jconf>European Respiratory Journal</jconf>
+		<id>W2128836390</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>ERS guidelines on the diagnosis and treatment of chronic cough in adults and children</title>
+		<year>2019</year>
+		<authors>Alyn H. Morice, Eva Millqvist, Kristina Biekšienė, Surinder S. Birring, Peter V. Dicpinigaitis, Christian Domingo, Michele Hilton Boon, Ahmad Kantar, Kefang Lai, Lorcan McGarvey, David Rigau, Imran Satia, John A. Smith, Woo‐Jung Song, Thomy Tonia, Jan Willem van den Berg, Mirjam J.G. van Manen, Angela Zacharasiewicz</authors>
+		<jconf>European Respiratory Journal</jconf>
+		<id>W2973217118</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Reverse Turns in Peptides and Protein</title>
+		<year>1980</year>
+		<authors>John A. Smith, Lila G. Pease, Kenneth D. Kopple</authors>
+		<jconf>Critical Reviews in Biochemistry</jconf>
+		<id>W2012716149</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High molecular mass forms of basic fibroblast growth factor are initiated by alternative CUG codons.</title>
+		<year>1989</year>
+		<authors>Hervé Prats, Mourad Kaghad, Anne‐Catherine Prats, Michael Klagsbrun, Jean-Michel Lélias, Philippe Liauzun, Pascale Chalon, J. Tauber, F. Amalric, John A. Smith</authors>
+		<jconf>Proceedings of the National Academy of Sciences</jconf>
+		<id>W2027310148</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>P2X3 receptor antagonist (AF-219) in refractory chronic cough: a randomised, double-blind, placebo-controlled phase 2 study</title>
+		<year>2014</year>
+		<authors>Rayid Abdulqawi, Rachel Dockry, Kimberley Holt, Gary Layton, Bruce G. McCarthy, Anthony Ford, John A. Smith</authors>
+		<jconf>The Lancet</jconf>
+		<id>W2127376430</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial</title>
+		<year>2020</year>
+		<authors>Phillip Monk, Richard Marsden, Victoria Tear, Jody Brookes, Toby N. Batten, M Mańkowski, Felicity Gabbay, Donna E. Davies, Stephen T. Holgate, Ling‐Pei Ho, Tristan Clark, Ratko Djukanović, Tom Wilkinson, Michael G. Crooks, Davinder Dosanjh, Salman Siddiqui, Najib M. Rahman, John A. Smith, Alex Horsley, Timothy Harrison, Dinesh Saralaya, Lorcan McGarvey, Alastair Watson, Edmund Foster, Adam Fleet, Dave Singh, Sophie Hemmings, Sandra Aitken, Sarah Dudley, Rona Beegan, Angela Thompson, Pedro MB Rodrigues</authors>
+		<jconf>The Lancet Respiratory Medicine</jconf>
+		<id>W3103598365</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structural characteristics of an antigen required for its interaction with Ia and recognition by T cells</title>
+		<year>1987</year>
+		<authors>Alessandro Sette, Søren Buus, S M Colón, John A. Smith, C Miles, Howard M. Grey</authors>
+		<jconf>Nature</jconf>
+		<id>W2058071227</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Expert opinion on the cough hypersensitivity syndrome in respiratory medicine</title>
+		<year>2014</year>
+		<authors>Alyn H. Morice, Eva Millqvist, Maria G. Belvisi, Kristina Biekšienė, Surinder S. Birring, Kian Fan Chung, Roberto W. Dal Negro, Peter V. Dicpinigaitis, Ahmad Kantar, Lorcan McGarvey, Adalberto Pacheco, Raimundas Sakalauskas, John A. Smith</authors>
+		<jconf>European Respiratory Journal</jconf>
+		<id>W2146405625</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-performance capillary electrophoretic separation of bases, nucleosides, and oligonucleotides: retention manipulation via micellar solutions and metal additives</title>
+		<year>1987</year>
+		<authors>Aharon S. Cohen, Shigeru Terabe, John A. Smith, Barry L. Karger</authors>
+		<jconf>Analytical Chemistry</jconf>
+		<id>W2059191790</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Treatment of Unexplained Chronic Cough</title>
+		<year>2015</year>
+		<authors>Peter G. Gibson, Gang Wang, Lorcan McGarvey, Anne E. Vertigan, Kenneth W. Altman, Surinder S. Birring, Todd M. Adams, Kenneth W. Altman, Alan F. Barker, Surinder S. Birring, Fiona Blackhall, Donald C. Bolser, Louis‐Philippe Boulet, Sidney S. Braman, Christopher E. Brightling, Priscilla Callahan-Lyon, Brendan J. Canning, Anne B. Chang, Remy R Coeytaux, Terrie Cowley, Paul Davenport, Rebecca L. Diekemper, Satoru Ebihara, Ali A. El Solh, Patricio Escalante, Anthony Feinstein, Stephen K. Field, Dina Fisher, Cynthia T. French, Peter G. Gibson, Philip Gold, Michael K. Gould, Cameron Grant, Susan M. Harding, Anthony Harnden, Adam T. Hill, Richard S. Irwin, Peter J. Kahrilas, Karina A. Keogh, Andrew P. Lane, Kaiser G. Lim, Mark A. Malesker, Peter J. Mazzone, Stuart B. Mazzone, Douglas C McCrory, Lorcan McGarvey, Alex Molasiotis, M. Hassan Murad, Peter Newcombe, Huong Q. Nguyen, John Oppenheimer, David J. Prezant, Tamara Pringsheim, Marcos I. Restrepo, Mark A. Rosen, Bruce K. Rubin, Jay H. Ryu, John A. Smith, Susan M. Tarlo, Anne E. Vertigan, Gang Wang, Miles Weinberger, Kelly A. Weir, Renda Soylemez Wiener</authors>
+		<jconf>CHEST Journal</jconf>
+		<id>W2222678573</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>High-frequency Triazole Resistance Found In Nonculturable Aspergillus fumigatus from Lungs of Patients with Chronic Fungal Disease</title>
+		<year>2011</year>
+		<authors>David W. Denning, Steven Park, Cornelia Lass‐Flörl, Marcin G. Fraczek, Marie Kirwan, Robin Gore, John A. Smith, Ahmed S. Bueid, Caroline B. Moore, Paul Bowyer, David S. Perlin</authors>
+		<jconf>Clinical Infectious Diseases</jconf>
+		<id>W2120323783</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A comparative randomized trial of heparin versus streptokinase in the treatment of acute proximal venous thrombosis: An interim report of a prospective trial</title>
+		<year>1979</year>
+		<authors>M S Elliot, E J Immelman, P Jeffery, Solomon R. Benatar, M. R. Funston, John A. Smith, B. J. Shepstone, A.D. Ferguson, Peter Jacobs, W.J. Walker, J H Louw</authors>
+		<jconf>British journal of surgery</jconf>
+		<id>W2012042329</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Anatomy and Neurophysiology of Cough</title>
+		<year>2014</year>
+		<authors>Brendan J. Canning, Anne B. Chang, Donald C. Bolser, John A. Smith, Stuart B. Mazzone, Lorcan McGarvey, Todd M. Adams, Kenneth W. Altman, Alan F. Barker, Surinder S. Birring, Fiona Blackhall, Donald C. Bolser, Louis‐Philippe Boulet, Sidney S. Braman, Christopher E. Brightling, Priscilla Callahan-Lyon, Brendan J. Canning, Anne B. Chang, Remy R Coeytaux, Terrie Cowley, Paul Davenport, Rebecca L. Diekemper, Satoru Ebihara, Ali A. El Solh, Patricio Escalante, Anthony Feinstein, Stephen K. Field, Dina Fisher, Cynthia T. French, Peter G. Gibson, Philip Gold, Cameron Grant, Susan M. Harding, Anthony Harnden, Adam T. Hill, Richard S. Irwin, Peter J. Kahrilas, Karina A. Keogh, Andrew P. Lane, Sandra Zelman Lewis, Kaiser G. Lim, Mark A. Malesker, Peter J. Mazzone, Stuart B. Mazzone, Lorcan McGarvey, Alex Molasiotis, M. Hassan Murad, Peter Newcombe, Huong Q. Nguyen, John Oppenheimer, David J. Prezant, Tamara Pringsheim, Marcos I. Restrepo, Mark J. Rosen, Bruce K. Rubin, Jay H. Ryu, John A. Smith, Susan M. Tarlo, Ronald B. Turner, Anne E. Vertigan, Gang Wang, Kelly Weir</authors>
+		<jconf>CHEST Journal</jconf>
+		<id>W2006815126</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A worldwide survey of chronic cough: a manifestation of enhanced somatosensory response</title>
+		<year>2014</year>
+		<authors>Alyn H. Morice, Adam D Jakes, Shoaib Faruqi, Surinder S. Birring, Lorcan McGarvey, Brendan J. Canning, John A. Smith, Sean Parker, Kian Fan Chung, Kefang Lai, Ian Pavord, Jan van den Berg, Woo‐Jung Song, Eva Millqvist, Michael J. Farrell, Stuart B. Mazzone, Peter V. Dicpinigaitis</authors>
+		<jconf>European Respiratory Journal</jconf>
+		<id>W2146630627</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficacy and safety of gefapixant, a P2X3 receptor antagonist, in refractory chronic cough and unexplained chronic cough (COUGH-1 and COUGH-2): results from two double-blind, randomised, parallel-group, placebo-controlled, phase 3 trials</title>
+		<year>2022</year>
+		<authors>Lorcan McGarvey, Surinder S. Birring, Alyn H. Morice, Peter V. Dicpinigaitis, Ian Pavord, Jonathan Schelfhout, Allison Martin Nguyen, Qing Li, Anjela Tzontcheva, Beata Iskold, Stuart A. Green, Carmen La Rosa, David Muccino, John A. Smith</authors>
+		<jconf>The Lancet</jconf>
+		<id>W4214937922</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gefapixant, a P2X3 receptor antagonist, for the treatment of refractory or unexplained chronic cough: a randomised, double-blind, controlled, parallel-group, phase 2b trial</title>
+		<year>2020</year>
+		<authors>John A. Smith, Michael M. Kitt, Alyn H. Morice, Surinder S. Birring, Lorcan McGarvey, Mandel Sher, Yuping Li, Wen‐Chi Wu, Zhi Jin Xu, David Muccino, Anthony Ford, John A. Smith, Lorcan McGarvey, Surinder S. Birring, James H. Hull, Warner Carr, Alan B. Goldsobel, Gary N. Gross, J. Holcomb, Iftikhar Hussain, Mandel Sher, Selwyn Spangenthal, William W. Storms, Alyn H. Morice, David Elkayam, Gary C. Steven, James Krainson, Faisal Fakih, Jonathan Matz, Gregory Daniel Brooks, Thomas B. Casale, Gary Berman, John J. Condemi, Leon S. Greos, Shaila U Gogate, Ellen Sher, Jason Friesen, Eric Schenkel, David I. Bernstein, Jonathan Corren, Krishna M. Sundar, Mark H. Gotfried, Anthony Montanaro, William Lumry, Niran J. Amar, Michael Kaplan, Bruce M. Prenner, Thomas Murphy, James Good, Sean Parker, Tim Harrison, Ian Pavord, Christopher E. Brightling, Ratko Djukanović, Douglas McQuaid, Michael Denenberg, Neil Ettinger, Vivek N. Iyer</authors>
+		<jconf>The Lancet Respiratory Medicine</jconf>
+		<id>W3008838890</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chronic Cough Due to Gastroesophageal Reflux in Adults</title>
+		<year>2016</year>
+		<authors>Peter J. Kahrilas, Kenneth W. Altman, Anne B. Chang, Stephen K. Field, Susan M. Harding, Andrew P. Lane, Kaiser G. Lim, Lorcan McGarvey, John A. Smith, Richard S. Irwin, Todd M. Adams, Kenneth W. Altman, Élie Azoulay, Alan F. Barker, Fiona Blackhall, Donald C. Bolser, Louis‐Philippe Boulet, Christopher E. Brightling, Priscilla Callahan-Lyon, Brendan J. Canning, Anne B. Chang, Terrie Cowley, Satoru Ebihara, Ali A. El Solh, Patricio Escalante, Stephen K. Field, Anthony Feinstein, Dina Fisher, Cynthia T. French, Peter G. Gibson, Philip Gold, Michael K. Gould, Cameron Grant, Susan M. Harding, Anthony Harnden, Adam T. Hill, Richard S. Irwin, Peter J. Kahrilas, Karina A. Keogh, Kefang Lai, Andrew P. Lane, Kaiser G. Lim, Mark A. Malesker, Stuart B. Mazzone, Lorcan McGarvey, M. Hassan Murad, Huong Q. Nguyen, Peter Newcombe, John Oppenheimer, Mark J. Rosen, Bruce K. Rubin, Jay H. Ryu, John A. Smith, Susan M. Tarlo, Anne E. Vertigan, Gang Wang, Miles Weinberger, Kelly A. Weir</authors>
+		<jconf>CHEST Journal</jconf>
+		<id>W2515863549</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A common haplotype in the complement regulatory gene factor H ( <i>HF1/CFH</i> ) predisposes individuals to age-related macular degeneration</title>
+		<year>2005</year>
+		<authors>Gregory S. Hageman, Don H. Anderson, Lincoln V. Johnson, Lisa S. Hancox, Andrew J. Taiber, Lisa I. Hardisty, Jill L. Hageman, Heather Stockman, James D. Borchardt, Karen M. Gehrs, Richard J. Smith, Giuliana Silvestri, Stephen R. Russell, Caroline C. W. Klaver, Irene Barbazetto, Stanley Chang, Lawrence A. Yannuzzi, Gaetano R. Barile, John C. Merriam, R. Theodore Smith, Adam Olsh, Julie Bergeron, Jana Zernant, Joanna E. Merriam, Bert Gold, Michael Dean, Rando Allikmets</authors>
+		<jconf>Proceedings of the National Academy of Sciences</jconf>
+		<id>W2125236492</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sensorineural hearing loss in children</title>
+		<year>2005</year>
+		<authors>Richard J. Smith, James F. Bale, Karl R. White</authors>
+		<jconf>The Lancet</jconf>
+		<id>W2162903822</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Atypical hemolytic uremic syndrome and C3 glomerulopathy: conclusions from a “Kidney Disease: Improving Global Outcomes” (KDIGO) Controversies Conference</title>
+		<year>2016</year>
+		<authors>Timothy H.J. Goodship, H. Terence Cook, Fádi Fakhouri, Fernando C. Fervenza, Véronique Frémeaux‐Bacchi, David Kavanagh, Carla Nester, Marina Noris, Matthew C. Pickering, Santiago Rodrı́guez de Córdoba, Lubka T. Roumenina, Sanjeev Sethi, Richard J. Smith, Charlie E. Alpers, Gerald B. Appel, Gianluigi Ardissino, Gema Ariceta, Mustafa Arıcı, Arvind Bagga, Ingeborg M. Bajema, Miguel Blasco, Linda Burke, Thomas Cairns, M.C. Carratalá, Vivette D. D’Agati, Mohamed R. Daha, An S. De Vriese, Marie‐Agnès Dragon‐Durey, Agnes B. Fogo, Miriam Galbusera, Daniel P. Gale, Hermann Haller, Sally Johnson, Mihály Józsi, Diana Karpman, Lynne D. Lanning, Moglie Le Quintrec, Christoph Licht, Chantal Loirat, Francisco Monfort, B. Paul Morgan, Laure-Hélène Noël, Michelle M. O’Shaughnessy, Marion Rabant, Éric Rondeau, Piero Ruggenenti, Neil Sheerin, Jenna L.H. Smith, Fabrizio Spoleti, Joshua M. Thurman, Nicole C. A. J. van de Kar, Marina Vivarelli, Peter F. Zipfel</authors>
+		<jconf>Kidney International</jconf>
+		<id>W2565152113</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>C3 glomerulopathy: consensus report</title>
+		<year>2013</year>
+		<authors>Matthew C. Pickering, Vivette D. D’Agati, Carla Nester, Richard J. Smith, Mark Haas, Gerald B. Appel, Charles E. Alpers, Ingeborg M. Bajema, Camille L. Bedrosian, Michael Braun, Mittie K. Doyle, Fádi Fakhouri, Fernando C. Fervenza, Agnes B. Fogo, Véronique Frémeaux‐Bacchi, Daniel P. Gale, Elena Goicoechea de Jorge, Gene Griffin, Claire L. Harris, V. Michael Holers, Sally Johnson, Peter Lavin, Nicholas Medjeral‐Thomas, B. Paul Morgan, Cynthia C. Nast, Laure-Hélène Noël, D K Peters, Santiago Rodrı́guez de Córdoba, Aude Servais, Sanjeev Sethi, Wen-Chao Song, Paul P. Tamburini, Joshua M. Thurman, Michael Zavros, H. Terence Cook</authors>
+		<jconf>Kidney International</jconf>
+		<id>W2167821466</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A candidate prostate cancer susceptibility gene at chromosome 17p</title>
+		<year>2001</year>
+		<authors>Sean V. Tavtigian, Jacques Simard, David H.F. Teng, Vicki Abtin, Michelle Baumgard, Audrey Beck, Nicola J. Camp, Arlene R. Carillo, Yang Chen, Priya Dayananth, Marc Desrochers, Martine Dumont, James M. Farnham, David A. Frank, Cheryl A. Frye, Siavash Ghaffari, Jamila Gupte, Rong Hu, Diana Iliev, Teresa Janecki, Edward N. Kort, Kirsten E. Laity, Amber Leavitt, Gilles Leblanc, Jodi McArthur-Morrison, Amy Pederson, Brandon Penn, K. Peterson, Julia Reid, Samuel Richards, Marianne Schroeder, Richard J. Smith, Sarah C. Snyder, Brad Swedlund, Jeffrey Swensen, Alun Thomas, Martine Tranchant, Ann-Marie Woodland, Fernand Labrie, Mark H. Skolnick, Susan L. Neuhausen, Johanna M. Rommens, Lisa Cannon‐Albright</authors>
+		<jconf>Nature Genetics</jconf>
+		<id>W1547443377</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Usher Syndrome 1D and Nonsyndromic Autosomal Recessive Deafness DFNB12 Are Caused by Allelic Mutations of the Novel Cadherin-Like Gene CDH23</title>
+		<year>2001</year>
+		<authors>Julie M. Bork, Linda Peters, Saima Riazuddin, Steven L. Bernstein, Zubair M. Ahmed, Seth Ness, Robert C. Polomeno, Arabandi Ramesh, Melvin D. Schloss, C.R. Srikumari Srisailpathy, Sigrid Wayne, Susan Bellman, Dilip Desmukh, Zahoor Ahmed, Shaheen N. Khan, Vazken M. Der Kaloustian, X. Cindy Li, Anil K. Lalwani, Sheikh Riazuddin, Maria Bitner‐Glindzicz, Walter E. Nance, Xue Zhong Liu, Graeme Wistow, Richard J. Smith, Andrew J. Griffith, Edward R. Wilcox, Thomas B. Friedman, Robert J. Morell</authors>
+		<jconf>The American Journal of Human Genetics</jconf>
+		<id>W2038502254</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>GJB2 Mutations and Degree of Hearing Loss: A Multicenter Study</title>
+		<year>2005</year>
+		<authors>Rikkert L. Snoeckx, P.L.M. Huygen, Delphine Feldmann, Sandrine Marlin, Françoise Denoyelle, J Waligora, Małgorzata Mueller‐Malesińska, Agnieszka Pollak, Rafał Płoski, Alessandra Murgia, Eva Orzan, Pierangela Castorina, Umberto Ambrosetti, Ewa Nowakowska-Szyrwińska, Jerzy Bal, Wojciech Wiszniewski, Andreas Janecke, Doris Nekahm-Heis, Pavel Seeman, O. Bendová, Margaret A. Kenna, Anna Frangulov, Heidi L. Rehm, Mustafa Tekin, Armağan İncesulu, Hans‐Henrik M. Dahl, Desirée du Sart, Lucy Jenkins, Deirdre Lucas, Maria Bitner‐Glindzicz, Karen B. Avraham, Zippora Brownstein, Ignacio del Castillo, Felipe Moreno, Nikolaus Blin, Markus Pfister, István Sziklai, Tímea Tóth, Philip M. Kelley, Edward Cohn, Lionel Van Maldergem, Pascale Hilbert, Anne‐Françoise Roux, M. Mondain, Lies H. Hoefsloot, Cor W. R. J. Cremers, Tuija Löppönen, Heikki Löppönen, Agnete Parving, Karen Grønskov, Iris Schrijver, Joseph Roberson, Francesca Gualandi, Alessandro Martini, Geneviève Lina‐Granade, Nathalie Pallares‐Ruiz, Céu Correia, Graça Fialho, Kim Cryns, Nele Hilgert, Paul Van de Heyning, Carla Nishimura, Richard J. Smith, Guy Van Camp</authors>
+		<jconf>The American Journal of Human Genetics</jconf>
+		<id>W2163451904</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Congenital Cytomegalovirus Infection</title>
+		<year>1977</year>
+		<authors>Sergio Stagno, David W. Reynolds, Eng‐Shang Huang, Shirley D. Thames, Richard J. Smith, Charles A. Alford</authors>
+		<jconf>New England Journal of Medicine</jconf>
+		<id>W2027400408</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comprehensive genetic testing in the clinical evaluation of 1119 patients with hearing loss</title>
+		<year>2016</year>
+		<authors>Christina Sloan-Heggen, Amanda O. Bierer, A. Eliot Shearer, Diana L. Kolbe, Carla Nishimura, Kathy L. Frees, Sean S. Ephraim, Seiji B. Shibata, Kevin T. Booth, Colleen A. Campbell, Paul T. Ranum, Amy E. Weaver, E. Ann Black-Ziegelbein, Donghong Wang, Héla Azaiez, Richard J. Smith</authors>
+		<jconf>Human Genetics</jconf>
+		<id>W2293733321</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Forty-six genes causing nonsyndromic hearing impairment: Which ones should be analyzed in DNA diagnostics?</title>
+		<year>2008</year>
+		<authors>Nele Hilgert, Richard J. Smith, Guy Van Camp</authors>
+		<jconf>Mutation Research/Reviews in Mutation Research</jconf>
+		<id>W2138261854</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An international effort towards developing standards for best practices in analysis, interpretation and reporting of clinical genome sequencing results in the CLARITY Challenge</title>
+		<year>2014</year>
+		<authors>Catherine A. Brownstein, Alan H. Beggs, Nils Homer, Barry Merriman, Timothy W. Yu, Katherine C Flannery, Elizabeth T. DeChene, Meghan C. Towne, Sarah Savage, Emily Price, Ingrid A. Holm, Lovelace J. Luquette, Elaine Lyon, Joseph A. Majzoub, Peter Neupert, David P. McCallie, Peter Szolovits, Huntington F. Willard, Nancy J. Mendelsohn, Renee Temme, Richard S. Finkel, Sabrina W. Yum, Līvija Medne, Shamil Sunyaev, Ivan Adzhubey, Christopher A. Cassa, Paul IW de Bakker, Hatice Duzkale, Piotr Dworzyński, William G. Fairbrother, Laurent C. Francioli, Birgit Funke, Monica A. Giovanni, Robert E. Handsaker, Kasper Lage, Matthew S. Lebo, Monkol Lek, Ignaty Leshchiner, Daniel G. MacArthur, Heather M. McLaughlin, Michael F. Murray, Tune H. Pers, Paz Polak, Soumya Raychaudhuri, Heidi L. Rehm, Rachel Soemedi, Nathan O. Stitziel, Sara Vestecka, Jochen Supper, Claudia Gugenmus, Bernward Klocke, Alexander Hahn, Max Schubach, Mortiz Menzel, Saskia Biskup, Peter Freisinger, Mario C. Deng, Martin Braun, Sven Perner, Richard J. Smith, Janeen L Andorf, Jian Huang, Kelli K. Ryckman, Val C. Sheffield, Edwin M. Stone, Thomas Bair, E. Ann Black-Ziegelbein, Terry A. Braun, Benjamin W. Darbro, Adam P. DeLuca, Diana L. Kolbe, Todd E. Scheetz, A. Eliot Shearer, Rama Sompallae, Kai Wang, Alexander G. Bassuk, Erik Edens, Katherine D. Mathews, Steven A. Moore, Oleg A. Shchelochkov, Pamela Trapane, Aaron Bossler, Colleen A. Campbell, Jonathan W. Heusel, Anne E. Kwitek, Tara Maga, Karin Panzer, Thomas H. Wassink, Douglas J. Van Daele, Héla Azaiez, Kevin T. Booth, Nic Meyer, Michael M. Segal, Marc S. Williams, Gerard Tromp, Peter White, Donald J. Corsmeier, Sara Fitzgerald‐Butt, Gail E. Herman, Devon Lamb-Thrush</authors>
+		<jconf>Genome biology</jconf>
+		<id>W2107949418</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Congenital hearing loss</title>
+		<year>2017</year>
+		<authors>Anna M.H. Korver, Richard J. Smith, Guy Van Camp, Mark R. Schleiss, Maria Bitner‐Glindzicz, Lawrence R. Lustig, Shin‐ichi Usami, An Boudewyns</authors>
+		<jconf>Nature Reviews Disease Primers</jconf>
+		<id>W33964925</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>SIX1 mutations cause branchio-oto-renal syndrome by disruption of EYA1–SIX1–DNA complexes</title>
+		<year>2004</year>
+		<authors>Rainer Ruf, Pin‐Xian Xu, Derek Silvius, Edgar A. Otto, Frank Beekmann, Ulla Muerb, Shrawan Kumar, Thomas J. Neuhaus, Markus J. Kemper, Richard M. Raymond, Patrick D. Brophy, Jennifer Berkman, Michael Gattas, V.J. Hyland, Eva-Maria Ruf, Charles E. Schwartz, Eugene H. Chang, Richard J. Smith, Constantine A. Stratakis, Dominique Weil, Christine Petit, Friedhelm Hildebrandt</authors>
+		<jconf>Proceedings of the National Academy of Sciences</jconf>
+		<id>W2134371698</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>China: A New History.</title>
+		<year>1993</year>
+		<authors>Richard J. Smith, John Κ. Fairbank</authors>
+		<jconf>The American Historical Review</jconf>
+		<id>W2028109405</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Membranoproliferative Glomerulonephritis Type II (Dense Deposit Disease)</title>
+		<year>2005</year>
+		<authors>Gerald B. Appel, H. Terence Cook, Gregory S. Hageman, J. Charles Jennette, Michael Kashgarian, Michael Kirschfink, John D. Lambris, Lynne D. Lanning, Hans Lutz, Seppo Meri, Noel R. Rose, David J. Salant, Sanjeev Sethi, Richard J. Smith, William E. Smoyer, Hope F. Tully, Sean P. Tully, Patrick D. Walker, Michael J. Welsh, Reinhard WuCombining Diaeresisrzner, Peter F. Zipfel</authors>
+		<jconf>Journal of the American Society of Nephrology</jconf>
+		<id>W2162002618</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Eculizumab for Dense Deposit Disease and C3 Glomerulonephritis</title>
+		<year>2012</year>
+		<authors>Andrew S. Bomback, Richard J. Smith, Gaetano R. Barile, Yuzhou Zhang, Eliot Heher, Leal Herlitz, Michael B. Stokes, Glen S. Markowitz, Vivette D. D’Agati, Pietro A. Canetta, Jai Radhakrishnan, Gerald B. Appel</authors>
+		<jconf>Clinical Journal of the American Society of Nephrology</jconf>
+		<id>W2107516496</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A novel deletion involving the connexin-30 gene, del(GJB6-d13s1854), found in trans with mutations in the GJB2 gene (connexin-26) in subjects with DFNB1 non-syndromic hearing impairment</title>
+		<year>2005</year>
+		<authors>Francisco Castillo, Montserrat Rodriguez‐Ballesteros, Araceli Álvarez, Tim Hutchin, Emanuela Leonardi, Camila Andréa de Oliveira, Héla Azaiez, Zippora Brownstein, Matthew R. Avenarius, Sandrine Marlin, Arti Pandya, Hashem Shahin, Kirby Siemering, Dominique Weil, Wim Wuyts, Luis A. Aguirre, Y. Martin, Miguel A. Moreno‐Pelayo, Manuela Villamar, Karen B. Avraham, H H Dahl, Moien Kanaan, W E Nance, Christine Petit, Richard J. Smith, Guy Van Camp, Edi Lúcia Sartorato, Alessandra Murgia, Felipe Moreno, Ignacio del Castillo</authors>
+		<jconf>Journal of Medical Genetics</jconf>
+		<id>W2119744081</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comprehensive genetic testing for hereditary hearing loss using massively parallel sequencing</title>
+		<year>2010</year>
+		<authors>A. Eliot Shearer, Adam P. DeLuca, Michael S. Hildebrand, Kyle R. Taylor, José Gurrola, Stephen W. Scherer, Todd E. Scheetz, Richard J. Smith</authors>
+		<jconf>Proceedings of the National Academy of Sciences</jconf>
+		<id>W1968852642</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Impairment of SLC17A8 Encoding Vesicular Glutamate Transporter-3, VGLUT3, Underlies Nonsyndromic Deafness DFNA25 and Inner Hair Cell Dysfunction in Null Mice</title>
+		<year>2008</year>
+		<authors>Jérôme Ruel, Sarah B. Emery, Régis Nouvian, Tiphaine Bersot, Bénédicte Amilhon, Jana M. Van Rybroek, Guy Rebillard, Marc Lenoir, Michel Eybalin, Benjamin Delprat, Theru A. Sivakumaran, Bruno Giros, Salah El Mestikawy, Tobias Moser, Richard J. Smith, Marci M. Lesperance, Jean‐Luc Puel</authors>
+		<jconf>The American Journal of Human Genetics</jconf>
+		<id>W2092609060</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mutations in alternative pathway complement proteins in American patients with atypical hemolytic uremic syndrome</title>
+		<year>2010</year>
+		<authors>Tara Maga, Carla Nishimura, Amy E. Weaver, Kathy L. Frees, Richard J. Smith</authors>
+		<jconf>Human Mutation</jconf>
+		<id>W1977035416</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bulk Production of a New Form of sp<sup>2</sup> Carbon: Crystalline Graphene Nanoribbons</title>
+		<year>2008</year>
+		<authors>Jessica Campos‐Delgado, J. M. Romo-Herrera, Xiaoting Jia, David A. Cullen, Hiroyuki Muramatsu, Yoong Ahm Kim, Takuya Hayashi, Zhifeng Ren, David J. Smith, Yu Okuno, Tomonori Ohba, Hirofumi Kanoh, Katsumi Kaneko, Morinobu Endo, Humberto Terrones, M. S. Dresselhaus, Mauricio Terrones</authors>
+		<jconf>Nano Letters</jconf>
+		<id>W2038326657</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Giant magnetoresistance in antiferromagnetic Co/Cu multilayers</title>
+		<year>1991</year>
+		<authors>S. Parkin, Z. G. Li, David J. Smith</authors>
+		<jconf>Applied Physics Letters</jconf>
+		<id>W2069143815</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The role of <i>T</i>‐stress in brittle fracture for linear elastic materials under mixed‐mode loading</title>
+		<year>2001</year>
+		<authors>David J. Smith, M.R. Ayatollahi, M.J. Pavier</authors>
+		<jconf>Fatigue & Fracture of Engineering Materials & Structures</jconf>
+		<id>W2165609411</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ex-MWNTs: Graphene Sheets and Ribbons Produced by Lithium Intercalation and Exfoliation of Carbon Nanotubes</title>
+		<year>2009</year>
+		<authors>Abraham G. Cano-Márquez, Fernando J. Rodríguez-Macías, Jessica Campos‐Delgado, Claudia G. Espinosa‐González, Ferdinando Tristán, Daniel Ramírez‐González, David A. Cullen, David J. Smith, Humberto Terrones, Yadira I. Vega-Cantú</authors>
+		<jconf>Nano Letters</jconf>
+		<id>W2081977063</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Covalently bonded three-dimensional carbon nanotube solids via boron induced nanojunctions</title>
+		<year>2012</year>
+		<authors>Daniel P. Hashim, Narayanan T. Narayanan, J. M. Romo-Herrera, David A. Cullen, Myung Gwan Hahm, Peter J. Lezzi, Joseph Suttle, Doug Kelkhoff, Emilio Muñoz‐Sandoval, Sabyasachi Ganguli, Ajit K. Roy, David J. Smith, Róbert Vajtai, Bobby G. Sumpter, Vincent Meunier, Humberto Terrones, Mauricio Terrones, Pulickel M. Ajayan</authors>
+		<jconf>Scientific Reports</jconf>
+		<id>W2090000463</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Intercontinental Dispersal of Bacteria and Archaea by Transpacific Winds</title>
+		<year>2012</year>
+		<authors>David J. Smith, Hilkka Timonen, Daniel A. Jaffe, Dale W. Griffin, Michele Birmele, K. D. Perry, Peter D. Ward, Michael S. Roberts</authors>
+		<jconf>Applied and Environmental Microbiology</jconf>
+		<id>W1966402050</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A chiral aperiodic monotile</title>
+		<year>2024</year>
+		<authors>David J. Smith, Joseph Samuel Myers, Craig S. Kaplan, Chaim Goodman-Strauss</authors>
+		<jconf>Combinatorial Theory</jconf>
+		<id>W4402927841</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An aperiodic monotile</title>
+		<year>2024</year>
+		<authors>David J. Smith, Joseph Samuel Myers, Craig S. Kaplan, Chaim Goodman-Strauss</authors>
+		<jconf>Combinatorial Theory</jconf>
+		<id>W4400197544</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An investigation of the properties of cubic GaN grown on GaAs by plasma-assisted molecular-beam epitaxy</title>
+		<year>1991</year>
+		<authors>S. Strite, J. Ruan, Z. Li, Arnel Salvador, Hao Chen, David J. Smith, W. J. Choyke, H. Morkoç</authors>
+		<jconf>Journal of Vacuum Science & Technology B Microelectronics and Nanometer Structures Processing Measurement and Phenomena</jconf>
+		<id>W2064508370</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>An investigation of grain boundaries in submicrometer-grained Al-Mg solid solution alloys using high-resolution electron microscopy</title>
+		<year>1996</year>
+		<authors>Zenji Horita, David J. Smith, Minoru Furukawa, Minoru Nemoto, Р. З. Валиев, Terence G. Langdon</authors>
+		<jconf>Journal of materials research/Pratt's guide to venture capital sources</jconf>
+		<id>W2119416088</id>
+		<label>3</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Classical Complement Cascade Mediates CNS Synapse Elimination</title>
+		<year>2007</year>
+		<authors>Beth Stevens, Nicola J. Allen, Luis E Vazquez, Gareth R. Howell, Karen S. Christopherson, Navid Nouri, Kristina D. Micheva, Adrienne K. Mehalow, Andrew D. Huberman, Benjamin K. Stafford, Alexander Sher, A. M. Litke, John D. Lambris, Stephen J Smith, Simon W. M. John, Ben A. Barres</authors>
+		<jconf>Cell</jconf>
+		<id>W2096327192</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>NMDA-receptor activation increases cytoplasmic calcium concentration in cultured spinal cord neurones</title>
+		<year>1986</year>
+		<authors>Amy B. MacDermott, Mark L. Mayer, Gary L. Westbrook, Stephen J Smith, Jeffery L. Barker</authors>
+		<jconf>Nature</jconf>
+		<id>W2010926499</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Glutamate Induces Calcium Waves in Cultured Astrocytes: Long-Range Glial Signaling</title>
+		<year>1990</year>
+		<authors>Ann Cornell-Bell, Steven Finkbeiner, Mark S. Cooper, Stephen J Smith</authors>
+		<jconf>Science</jconf>
+		<id>W2090971379</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Functional cortical neurons and astrocytes from human pluripotent stem cells in 3D culture</title>
+		<year>2015</year>
+		<authors>Anca M. Pașca, Steven A. Sloan, Laura Clarke, Yuan Tian, Christopher D. Makinson, Nina Huber, Chul Hoon Kim, Jinyoung Park, Nancy O’Rourke, Khoa D. Nguyen, Stephen J Smith, John R. Huguenard, Daniel H. Geschwind, Ben A. Barres, Sergiu P. Paşca</authors>
+		<jconf>Nature Methods</jconf>
+		<id>W1553983967</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Astrocytes mediate synapse elimination through MEGF10 and MERTK pathways</title>
+		<year>2013</year>
+		<authors>Won‐Suk Chung, Laura Clarke, Gordon Wang, Benjamin K. Stafford, Alexander Sher, Chandrani Chakraborty, J. Keith Joung, Lynette C. Foo, Andrew Thompson, Chinfei Chen, Stephen J Smith, Ben A. Barres</authors>
+		<jconf>Nature</jconf>
+		<id>W2125236750</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Actions of cytochalasins on the organization of actin filaments and microtubules in a neuronal growth cone.</title>
+		<year>1988</year>
+		<authors>Paul Forscher, Stephen J Smith</authors>
+		<jconf>The Journal of Cell Biology</jconf>
+		<id>W1992835639</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evidence for a Role of Dendritic Filopodia in Synaptogenesis and Spine Formation</title>
+		<year>1996</year>
+		<authors>Noam Ziv, Stephen J Smith</authors>
+		<jconf>Neuron</jconf>
+		<id>W2106267269</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Gabapentin Receptor α2δ-1 Is a Neuronal Thrombospondin Receptor Responsible for Excitatory CNS Synaptogenesis</title>
+		<year>2009</year>
+		<authors>Çağla Eroğlu, Nicola J. Allen, Michael W. Susman, Nancy O’Rourke, Chan Young Park, Engin Özkan, Chandrani Chakraborty, Sara B. Mulinyawe, Douglas S. Annis, Andrew D. Huberman, Eric M. Green, Jack Lawler, Ricardo E. Dolmetsch, K. Christopher García, Stephen J Smith, Z. David Luo, Arnon Rosenthal, Deane F. Mosher, Ben A. Barres</authors>
+		<jconf>Cell</jconf>
+		<id>W1988452935</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Neuronal activity triggers calcium waves in hippocampal astrocyte networks</title>
+		<year>1992</year>
+		<authors>John W. Dani, Alex Chernjavsky, Stephen J Smith</authors>
+		<jconf>Neuron</jconf>
+		<id>W2087667366</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Array Tomography: A New Tool for Imaging the Molecular Architecture and Ultrastructure of Neural Circuits</title>
+		<year>2007</year>
+		<authors>Kristina D. Micheva, Stephen J Smith</authors>
+		<jconf>Neuron</jconf>
+		<id>W2145504425</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Oligomeric amyloid β associates with postsynaptic densities and correlates with excitatory synapse loss near senile plaques</title>
+		<year>2009</year>
+		<authors>Robert M. Koffie, Melanie Meyer‐Luehmann, Tadafumi Hashimoto, Kenneth W. Adams, Matthew L. Mielke, Mónica García‐Alloza, Kristina D. Micheva, Stephen J Smith, M. Leo Kim, Virginia M. Lee, Bradley T. Hyman, Tara L. Spires‐Jones</authors>
+		<jconf>Proceedings of the National Academy of Sciences</jconf>
+		<id>W2132154794</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Astrocyte glypicans 4 and 6 promote formation of excitatory synapses via GluA1 AMPA receptors</title>
+		<year>2012</year>
+		<authors>Nicola J. Allen, Mariko L. Bennett, Lynette C. Foo, Gordon Wang, Chandrani Chakraborty, Stephen J Smith, Ben A. Barres</authors>
+		<jconf>Nature</jconf>
+		<id>W2012935976</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+</person>

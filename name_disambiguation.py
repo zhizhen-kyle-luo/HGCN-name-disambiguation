@@ -136,14 +136,14 @@ def generate_author_id_clusters(fname, correct_labels, predicted_labels):
     Creates and saves a mapping from person clusters to author IDs.
     
     For a given name (like "Li Shen"), this shows which person cluster
-    corresponds to which author IDs in the dataset.
+    corresponds to which OpenAlex IDs in the dataset.
     
     Args:
         fname: Name being disambiguated
         correct_labels: List of true author IDs for each paper
         predicted_labels: List of predicted cluster labels for each paper
     """
-    # Create a mapping from predicted clusters to author IDs
+    # Create a mapping from predicted clusters to lists of OpenAlex IDs
     cluster_to_author_ids = {}
     
     # For each paper, map its predicted cluster to its true author ID
@@ -157,21 +157,24 @@ def generate_author_id_clusters(fname, correct_labels, predicted_labels):
         
         cluster_to_author_ids[pred_cluster].add(true_author_id)
     
-    # Convert sets to sorted lists for better readability
-    cluster_to_author_ids = {int(k): sorted(list(v)) for k, v in cluster_to_author_ids.items()}
+    # Create a new dictionary with sequential indices as keys
+    person_clusters = {}
+    for idx, (cluster, author_ids) in enumerate(cluster_to_author_ids.items()):
+        # Convert all IDs to strings for consistent formatting
+        person_clusters[str(idx)] = sorted([str(id) for id in author_ids])
     
     # Save the result to a JSON file
     # Create directory if it doesn't exist
     os.makedirs('result/author_clusters', exist_ok=True)
     
     with open(f'result/author_clusters/{fname}_clusters.json', 'w') as f:
-        json.dump({fname: cluster_to_author_ids}, f, indent=2)
+        json.dump({fname: person_clusters}, f, indent=2)
     
     # Also print to console
     print(f"\n{fname} person clusters to author IDs mapping:")
-    print(json.dumps({fname: cluster_to_author_ids}, indent=2))
+    print(json.dumps({fname: person_clusters}, indent=2))
     
-    return cluster_to_author_ids
+    return person_clusters
 
 # Add this function to encapsulate original output logic
 def print_original_output(fname, correct_labels, labels, pairwise_precision, pairwise_recall, pairwise_f1):
@@ -187,7 +190,7 @@ if __name__ == '__main__':
     model_w = word2vec.Word2Vec.load(save_model_name)
 
     # This line defines a regular expression pattern r that matches one or more occurrences of a variety of punctuation and special characters.
-    r = '[!“”"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~—～]+'
+    r = '[!""#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~—～]+'
     # This line defines a list of common stopwords. Stopwords are words that are often filtered out during text processing because they are considered to have little value in text analysis.
     stopword = ['at','based','in','of','for','on','and','to','an','using','with','the','method','algrithom','by','model']
     # This line stems each word in the stopword list using the Porter stemmer. Stemming is the process of reducing a word to its root form. For example, 'using' might be reduced to 'use'.
@@ -198,7 +201,7 @@ if __name__ == '__main__':
     result=[]
 
     # path is set to the directory containing the raw data files.
-    path = "raw-data/"
+    path = "raw-data-temp/"
     # file_names is a list of all filenames in the specified directory.
     file_names = os.listdir(path)
 
@@ -255,7 +258,7 @@ save_model_name = "gene/word2vec.model"
 model_w = word2vec.Word2Vec.load(save_model_name)
 
 # This line defines a regular expression pattern r that matches one or more occurrences of a variety of punctuation and special characters.
-r = '[!“”"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~—～]+'
+r = '[!""#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~—～]+'
 # This line defines a list of common stopwords. Stopwords are words that are often filtered out during text processing because they are considered to have little value in text analysis.
 stopword = ['at','based','in','of','for','on','and','to','an','using','with','the','method','algrithom','by','model']
 # This line stems each word in the stopword list using the Porter stemmer. Stemming is the process of reducing a word to its root form. For example, 'using' might be reduced to 'use'.
@@ -264,7 +267,7 @@ stopword = ['at','based','in','of','for','on','and','to','an','using','with','th
 stopword = [porter_stemmer.stem(w) for w in stopword]
 
 # path is set to the directory containing the raw data files.
-path = "raw-data/"
+path = "raw-data-temp/"
 # file_names is a list of all filenames in the specified directory.
 file_names = os.listdir(path)
 

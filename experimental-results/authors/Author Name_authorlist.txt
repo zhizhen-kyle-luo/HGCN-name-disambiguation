@@ -1,0 +1,626 @@
+0	0	Marom Bikson	Author name
+0	0	Marom Bikson	Asif Rahman
+0	0	Author name	Asif Rahman
+1	1	Davide Reato	Asif Rahman
+1	1	Davide Reato	Marom Bikson
+1	1	Davide Reato	Lucas C. Parra
+1	1	Asif Rahman	Marom Bikson
+1	1	Asif Rahman	Lucas C. Parra
+1	1	Marom Bikson	Lucas C. Parra
+2	2	Marom Bikson	Abhishek Datta
+2	2	Marom Bikson	Asif Rahman
+2	2	Marom Bikson	Jen Scaturro
+2	2	Abhishek Datta	Asif Rahman
+2	2	Abhishek Datta	Jen Scaturro
+2	2	Asif Rahman	Jen Scaturro
+3	3	Marom Bikson	Asif Rahman
+3	3	Marom Bikson	Abhishek Datta
+3	3	Asif Rahman	Abhishek Datta
+4	4	Mark Jackson	Asif Rahman
+4	4	Mark Jackson	Belen Lafon
+4	4	Mark Jackson	Gregory Kronberg
+4	4	Mark Jackson	Doris Ling
+4	4	Mark Jackson	Lucas C. Parra
+4	4	Mark Jackson	Marom Bikson
+4	4	Asif Rahman	Belen Lafon
+4	4	Asif Rahman	Gregory Kronberg
+4	4	Asif Rahman	Doris Ling
+4	4	Asif Rahman	Lucas C. Parra
+4	4	Asif Rahman	Marom Bikson
+4	4	Belen Lafon	Gregory Kronberg
+4	4	Belen Lafon	Doris Ling
+4	4	Belen Lafon	Lucas C. Parra
+4	4	Belen Lafon	Marom Bikson
+4	4	Gregory Kronberg	Doris Ling
+4	4	Gregory Kronberg	Lucas C. Parra
+4	4	Gregory Kronberg	Marom Bikson
+4	4	Doris Ling	Lucas C. Parra
+4	4	Doris Ling	Marom Bikson
+4	4	Lucas C. Parra	Marom Bikson
+5	5	Greg Kronberg	Asif Rahman
+5	5	Greg Kronberg	Mahima Sharma
+5	5	Greg Kronberg	Marom Bikson
+5	5	Greg Kronberg	Lucas C. Parra
+5	5	Asif Rahman	Mahima Sharma
+5	5	Asif Rahman	Marom Bikson
+5	5	Asif Rahman	Lucas C. Parra
+5	5	Mahima Sharma	Marom Bikson
+5	5	Mahima Sharma	Lucas C. Parra
+5	5	Marom Bikson	Lucas C. Parra
+6	6	Belen Lafon	Asif Rahman
+6	6	Belen Lafon	Marom Bikson
+6	6	Belen Lafon	Lucas C. Parra
+6	6	Asif Rahman	Marom Bikson
+6	6	Asif Rahman	Lucas C. Parra
+6	6	Marom Bikson	Lucas C. Parra
+7	7	Heidi M. Schambra	R. Todd Ogden
+7	7	Heidi M. Schambra	Isis E. Martínez-Hernández
+7	7	Heidi M. Schambra	Xuejing Lin
+7	7	Heidi M. Schambra	Y. Brenda Chang
+7	7	Heidi M. Schambra	Asif Rahman
+7	7	Heidi M. Schambra	Dylan J. Edwards
+7	7	Heidi M. Schambra	John W. Krakauer
+7	7	R. Todd Ogden	Isis E. Martínez-Hernández
+7	7	R. Todd Ogden	Xuejing Lin
+7	7	R. Todd Ogden	Y. Brenda Chang
+7	7	R. Todd Ogden	Asif Rahman
+7	7	R. Todd Ogden	Dylan J. Edwards
+7	7	R. Todd Ogden	John W. Krakauer
+7	7	Isis E. Martínez-Hernández	Xuejing Lin
+7	7	Isis E. Martínez-Hernández	Y. Brenda Chang
+7	7	Isis E. Martínez-Hernández	Asif Rahman
+7	7	Isis E. Martínez-Hernández	Dylan J. Edwards
+7	7	Isis E. Martínez-Hernández	John W. Krakauer
+7	7	Xuejing Lin	Y. Brenda Chang
+7	7	Xuejing Lin	Asif Rahman
+7	7	Xuejing Lin	Dylan J. Edwards
+7	7	Xuejing Lin	John W. Krakauer
+7	7	Y. Brenda Chang	Asif Rahman
+7	7	Y. Brenda Chang	Dylan J. Edwards
+7	7	Y. Brenda Chang	John W. Krakauer
+7	7	Asif Rahman	Dylan J. Edwards
+7	7	Asif Rahman	John W. Krakauer
+7	7	Dylan J. Edwards	John W. Krakauer
+8	8	Marom Bikson	Asif Rahman
+8	8	Marom Bikson	Abhishek Datta
+8	8	Marom Bikson	Felipe Fregni
+8	8	Marom Bikson	Lotfi B. Merabet
+8	8	Asif Rahman	Abhishek Datta
+8	8	Asif Rahman	Felipe Fregni
+8	8	Asif Rahman	Lotfi B. Merabet
+8	8	Abhishek Datta	Felipe Fregni
+8	8	Abhishek Datta	Lotfi B. Merabet
+8	8	Felipe Fregni	Lotfi B. Merabet
+9	9	Marom Bikson	Jacek Dmochowski
+9	9	Marom Bikson	Asif Rahman
+9	9	Jacek Dmochowski	Asif Rahman
+10	10	Eric McCoy	Asif Rahman
+10	10	Eric McCoy	Juan Sebastian Rendon
+10	10	Eric McCoy	Craig L. Anderson
+10	10	Eric McCoy	Mark I. Langdorf
+10	10	Eric McCoy	Shahram Lotfipour
+10	10	Eric McCoy	Bharath Chakravarthy
+10	10	Asif Rahman	Juan Sebastian Rendon
+10	10	Asif Rahman	Craig L. Anderson
+10	10	Asif Rahman	Mark I. Langdorf
+10	10	Asif Rahman	Shahram Lotfipour
+10	10	Asif Rahman	Bharath Chakravarthy
+10	10	Juan Sebastian Rendon	Craig L. Anderson
+10	10	Juan Sebastian Rendon	Mark I. Langdorf
+10	10	Juan Sebastian Rendon	Shahram Lotfipour
+10	10	Juan Sebastian Rendon	Bharath Chakravarthy
+10	10	Craig L. Anderson	Mark I. Langdorf
+10	10	Craig L. Anderson	Shahram Lotfipour
+10	10	Craig L. Anderson	Bharath Chakravarthy
+10	10	Mark I. Langdorf	Shahram Lotfipour
+10	10	Mark I. Langdorf	Bharath Chakravarthy
+10	10	Shahram Lotfipour	Bharath Chakravarthy
+11	11	Asif Rahman	Belen Lafon
+11	11	Asif Rahman	Lucas C. Parra
+11	11	Asif Rahman	Marom Bikson
+11	11	Belen Lafon	Lucas C. Parra
+11	11	Belen Lafon	Marom Bikson
+11	11	Lucas C. Parra	Marom Bikson
+12	12	Christoph Hahn	Justin K. Rice
+12	12	Christoph Hahn	Shiraz Macuff
+12	12	Christoph Hahn	Preet Minhas
+12	12	Christoph Hahn	Asif Rahman
+12	12	Christoph Hahn	Marom Bikson
+12	12	Justin K. Rice	Shiraz Macuff
+12	12	Justin K. Rice	Preet Minhas
+12	12	Justin K. Rice	Asif Rahman
+12	12	Justin K. Rice	Marom Bikson
+12	12	Shiraz Macuff	Preet Minhas
+12	12	Shiraz Macuff	Asif Rahman
+12	12	Shiraz Macuff	Marom Bikson
+12	12	Preet Minhas	Asif Rahman
+12	12	Preet Minhas	Marom Bikson
+12	12	Asif Rahman	Marom Bikson
+13	13	Marom Bikson	Dennis Q. Truong
+13	13	Marom Bikson	Antonios P. Mourdoukoutas
+13	13	Marom Bikson	Mohamed Aboseria
+13	13	Marom Bikson	Niranjan Khadka
+13	13	Marom Bikson	Devin Adair
+13	13	Marom Bikson	Asif Rahman
+13	13	Dennis Q. Truong	Antonios P. Mourdoukoutas
+13	13	Dennis Q. Truong	Mohamed Aboseria
+13	13	Dennis Q. Truong	Niranjan Khadka
+13	13	Dennis Q. Truong	Devin Adair
+13	13	Dennis Q. Truong	Asif Rahman
+13	13	Antonios P. Mourdoukoutas	Mohamed Aboseria
+13	13	Antonios P. Mourdoukoutas	Niranjan Khadka
+13	13	Antonios P. Mourdoukoutas	Devin Adair
+13	13	Antonios P. Mourdoukoutas	Asif Rahman
+13	13	Mohamed Aboseria	Niranjan Khadka
+13	13	Mohamed Aboseria	Devin Adair
+13	13	Mohamed Aboseria	Asif Rahman
+13	13	Niranjan Khadka	Devin Adair
+13	13	Niranjan Khadka	Asif Rahman
+13	13	Devin Adair	Asif Rahman
+14	14	Asif Rahman	Belen Lafon
+14	14	Asif Rahman	Marom Bikson
+14	14	Belen Lafon	Marom Bikson
+15	15	Dennis Q. Truong	Mathias Hüber
+15	15	Dennis Q. Truong	Xihe Xie
+15	15	Dennis Q. Truong	Abhishek Datta
+15	15	Dennis Q. Truong	Asif Rahman
+15	15	Dennis Q. Truong	Lucas C. Parra
+15	15	Dennis Q. Truong	Jacek Dmochowski
+15	15	Dennis Q. Truong	Marom Bikson
+15	15	Mathias Hüber	Xihe Xie
+15	15	Mathias Hüber	Abhishek Datta
+15	15	Mathias Hüber	Asif Rahman
+15	15	Mathias Hüber	Lucas C. Parra
+15	15	Mathias Hüber	Jacek Dmochowski
+15	15	Mathias Hüber	Marom Bikson
+15	15	Xihe Xie	Abhishek Datta
+15	15	Xihe Xie	Asif Rahman
+15	15	Xihe Xie	Lucas C. Parra
+15	15	Xihe Xie	Jacek Dmochowski
+15	15	Xihe Xie	Marom Bikson
+15	15	Abhishek Datta	Asif Rahman
+15	15	Abhishek Datta	Lucas C. Parra
+15	15	Abhishek Datta	Jacek Dmochowski
+15	15	Abhishek Datta	Marom Bikson
+15	15	Asif Rahman	Lucas C. Parra
+15	15	Asif Rahman	Jacek Dmochowski
+15	15	Asif Rahman	Marom Bikson
+15	15	Lucas C. Parra	Jacek Dmochowski
+15	15	Lucas C. Parra	Marom Bikson
+15	15	Jacek Dmochowski	Marom Bikson
+16	16	Asif Rahman	Peter Toshev
+16	16	Asif Rahman	Marom Bikson
+16	16	Peter Toshev	Marom Bikson
+17	17	Christopher Eric McCoy	Julie Sayegh
+17	17	Christopher Eric McCoy	Asif Rahman
+17	17	Christopher Eric McCoy	Mark Landgorf
+17	17	Christopher Eric McCoy	Craig L. Anderson
+17	17	Christopher Eric McCoy	Shahram Lotfipour
+17	17	Julie Sayegh	Asif Rahman
+17	17	Julie Sayegh	Mark Landgorf
+17	17	Julie Sayegh	Craig L. Anderson
+17	17	Julie Sayegh	Shahram Lotfipour
+17	17	Asif Rahman	Mark Landgorf
+17	17	Asif Rahman	Craig L. Anderson
+17	17	Asif Rahman	Shahram Lotfipour
+17	17	Mark Landgorf	Craig L. Anderson
+17	17	Mark Landgorf	Shahram Lotfipour
+17	17	Craig L. Anderson	Shahram Lotfipour
+18	18	Mattia Arlotti	Asif Rahman
+18	18	Mattia Arlotti	Preet Minhas
+18	18	Mattia Arlotti	Marom Bikson
+18	18	Asif Rahman	Preet Minhas
+18	18	Asif Rahman	Marom Bikson
+18	18	Preet Minhas	Marom Bikson
+19	19	Maged Elwassif	Abhishek Datta
+19	19	Maged Elwassif	Asif Rahman
+19	19	Maged Elwassif	Marom Bikson
+19	19	Abhishek Datta	Asif Rahman
+19	19	Abhishek Datta	Marom Bikson
+19	19	Asif Rahman	Marom Bikson
+20	20	Asif Rahman	Yale Chang
+20	20	Asif Rahman	Junzi Dong
+20	20	Asif Rahman	Bryan Conroy
+20	20	Asif Rahman	Annamalai Natarajan
+20	20	Asif Rahman	Takahiro Kinoshita
+20	20	Asif Rahman	Francesco Vicario
+20	20	Asif Rahman	Joseph Frassica
+20	20	Asif Rahman	Minnan Xu-Wilson
+20	20	Yale Chang	Junzi Dong
+20	20	Yale Chang	Bryan Conroy
+20	20	Yale Chang	Annamalai Natarajan
+20	20	Yale Chang	Takahiro Kinoshita
+20	20	Yale Chang	Francesco Vicario
+20	20	Yale Chang	Joseph Frassica
+20	20	Yale Chang	Minnan Xu-Wilson
+20	20	Junzi Dong	Bryan Conroy
+20	20	Junzi Dong	Annamalai Natarajan
+20	20	Junzi Dong	Takahiro Kinoshita
+20	20	Junzi Dong	Francesco Vicario
+20	20	Junzi Dong	Joseph Frassica
+20	20	Junzi Dong	Minnan Xu-Wilson
+20	20	Bryan Conroy	Annamalai Natarajan
+20	20	Bryan Conroy	Takahiro Kinoshita
+20	20	Bryan Conroy	Francesco Vicario
+20	20	Bryan Conroy	Joseph Frassica
+20	20	Bryan Conroy	Minnan Xu-Wilson
+20	20	Annamalai Natarajan	Takahiro Kinoshita
+20	20	Annamalai Natarajan	Francesco Vicario
+20	20	Annamalai Natarajan	Joseph Frassica
+20	20	Annamalai Natarajan	Minnan Xu-Wilson
+20	20	Takahiro Kinoshita	Francesco Vicario
+20	20	Takahiro Kinoshita	Joseph Frassica
+20	20	Takahiro Kinoshita	Minnan Xu-Wilson
+20	20	Francesco Vicario	Joseph Frassica
+20	20	Francesco Vicario	Minnan Xu-Wilson
+20	20	Joseph Frassica	Minnan Xu-Wilson
+21	21	Asif Rahman	Michael W. Russell
+21	21	Asif Rahman	Wanhong Zheng
+21	21	Asif Rahman	Daniel Eckrich
+21	21	Asif Rahman	Imtiaz Ahmed
+21	21	Michael W. Russell	Wanhong Zheng
+21	21	Michael W. Russell	Daniel Eckrich
+21	21	Michael W. Russell	Imtiaz Ahmed
+21	21	Wanhong Zheng	Daniel Eckrich
+21	21	Wanhong Zheng	Imtiaz Ahmed
+21	21	Daniel Eckrich	Imtiaz Ahmed
+22	22	Marom Bikson	Davide Reato
+22	22	Marom Bikson	Asif Rahman
+22	22	Davide Reato	Asif Rahman
+23	23	Sajjad Hussain	Asif Rahman
+23	23	Sajjad Hussain	Tariq Abbasi
+23	23	Sajjad Hussain	Tariq Aziz
+23	23	Asif Rahman	Tariq Abbasi
+23	23	Asif Rahman	Tariq Aziz
+23	23	Tariq Abbasi	Tariq Aziz
+24	24	Niranjan Khadka	Asif Rahman
+24	24	Niranjan Khadka	Chris Sarantos
+24	24	Niranjan Khadka	Dennis Q. Truong
+24	24	Niranjan Khadka	Marom Bikson
+24	24	Asif Rahman	Chris Sarantos
+24	24	Asif Rahman	Dennis Q. Truong
+24	24	Asif Rahman	Marom Bikson
+24	24	Chris Sarantos	Dennis Q. Truong
+24	24	Chris Sarantos	Marom Bikson
+24	24	Dennis Q. Truong	Marom Bikson
+25	25	Sally Hargreaves	Laura B Nellums
+25	25	Sally Hargreaves	Catherine Johnson
+25	25	Sally Hargreaves	Jacob A. Goldberg
+25	25	Sally Hargreaves	Panagiotis Pantelidis
+25	25	Sally Hargreaves	Asif Rahman
+25	25	Sally Hargreaves	Jon S. Friedland FMedSci
+25	25	Laura B Nellums	Catherine Johnson
+25	25	Laura B Nellums	Jacob A. Goldberg
+25	25	Laura B Nellums	Panagiotis Pantelidis
+25	25	Laura B Nellums	Asif Rahman
+25	25	Laura B Nellums	Jon S. Friedland FMedSci
+25	25	Catherine Johnson	Jacob A. Goldberg
+25	25	Catherine Johnson	Panagiotis Pantelidis
+25	25	Catherine Johnson	Asif Rahman
+25	25	Catherine Johnson	Jon S. Friedland FMedSci
+25	25	Jacob A. Goldberg	Panagiotis Pantelidis
+25	25	Jacob A. Goldberg	Asif Rahman
+25	25	Jacob A. Goldberg	Jon S. Friedland FMedSci
+25	25	Panagiotis Pantelidis	Asif Rahman
+25	25	Panagiotis Pantelidis	Jon S. Friedland FMedSci
+25	25	Asif Rahman	Jon S. Friedland FMedSci
+26	26	M. Berenice Duran	Asif Rahman
+26	26	M. Berenice Duran	Max Colten
+26	26	M. Berenice Duran	Derrick Brazill
+26	26	Asif Rahman	Max Colten
+26	26	Asif Rahman	Derrick Brazill
+26	26	Max Colten	Derrick Brazill
+27	27	Sasha C. Appleton	David Connell
+27	27	Sasha C. Appleton	Anika Singanayagam
+27	27	Sasha C. Appleton	Patrick Bradley
+27	27	Sasha C. Appleton	Daniel Pan
+27	27	Sasha C. Appleton	Frances Sanderson
+27	27	Sasha C. Appleton	Barbara Cleaver
+27	27	Sasha C. Appleton	Asif Rahman
+27	27	Sasha C. Appleton	Onn Min Kon
+27	27	David Connell	Anika Singanayagam
+27	27	David Connell	Patrick Bradley
+27	27	David Connell	Daniel Pan
+27	27	David Connell	Frances Sanderson
+27	27	David Connell	Barbara Cleaver
+27	27	David Connell	Asif Rahman
+27	27	David Connell	Onn Min Kon
+27	27	Anika Singanayagam	Patrick Bradley
+27	27	Anika Singanayagam	Daniel Pan
+27	27	Anika Singanayagam	Frances Sanderson
+27	27	Anika Singanayagam	Barbara Cleaver
+27	27	Anika Singanayagam	Asif Rahman
+27	27	Anika Singanayagam	Onn Min Kon
+27	27	Patrick Bradley	Daniel Pan
+27	27	Patrick Bradley	Frances Sanderson
+27	27	Patrick Bradley	Barbara Cleaver
+27	27	Patrick Bradley	Asif Rahman
+27	27	Patrick Bradley	Onn Min Kon
+27	27	Daniel Pan	Frances Sanderson
+27	27	Daniel Pan	Barbara Cleaver
+27	27	Daniel Pan	Asif Rahman
+27	27	Daniel Pan	Onn Min Kon
+27	27	Frances Sanderson	Barbara Cleaver
+27	27	Frances Sanderson	Asif Rahman
+27	27	Frances Sanderson	Onn Min Kon
+27	27	Barbara Cleaver	Asif Rahman
+27	27	Barbara Cleaver	Onn Min Kon
+27	27	Asif Rahman	Onn Min Kon
+28	28	Yale Chang	Jonathan M. Rubin
+28	28	Yale Chang	Gregory Boverman
+28	28	Yale Chang	Shruti G. Vij
+28	28	Yale Chang	Asif Rahman
+28	28	Yale Chang	A. Natarajan
+28	28	Yale Chang	Saman Parvaneh
+28	28	Jonathan M. Rubin	Gregory Boverman
+28	28	Jonathan M. Rubin	Shruti G. Vij
+28	28	Jonathan M. Rubin	Asif Rahman
+28	28	Jonathan M. Rubin	A. Natarajan
+28	28	Jonathan M. Rubin	Saman Parvaneh
+28	28	Gregory Boverman	Shruti G. Vij
+28	28	Gregory Boverman	Asif Rahman
+28	28	Gregory Boverman	A. Natarajan
+28	28	Gregory Boverman	Saman Parvaneh
+28	28	Shruti G. Vij	Asif Rahman
+28	28	Shruti G. Vij	A. Natarajan
+28	28	Shruti G. Vij	Saman Parvaneh
+28	28	Asif Rahman	A. Natarajan
+28	28	Asif Rahman	Saman Parvaneh
+28	28	A. Natarajan	Saman Parvaneh
+29	29	Muththolib Sidheeq -	Ali Dehghantanha
+29	29	Muththolib Sidheeq -	Author Name -
+29	29	Muththolib Sidheeq -	Geetha Kananparan -
+29	29	Ali Dehghantanha	Author Name -
+29	29	Ali Dehghantanha	Geetha Kananparan -
+29	29	Author Name -	Geetha Kananparan -
+30	30	Author Name Affiliation E-mail WANG Xiao-fang	Zhang Luo
+30	30	Author Name Affiliation E-mail WANG Xiao-fang	Wan Ya-nan
+30	30	Author Name Affiliation E-mail WANG Xiao-fang	Qi Wang
+30	30	Author Name Affiliation E-mail WANG Xiao-fang	Hongjie Sun
+30	30	Author Name Affiliation E-mail WANG Xiao-fang	Guo Yan-bin
+30	30	Author Name Affiliation E-mail WANG Xiao-fang	Huafen Li
+30	30	Zhang Luo	Wan Ya-nan
+30	30	Zhang Luo	Qi Wang
+30	30	Zhang Luo	Hongjie Sun
+30	30	Zhang Luo	Guo Yan-bin
+30	30	Zhang Luo	Huafen Li
+30	30	Wan Ya-nan	Qi Wang
+30	30	Wan Ya-nan	Hongjie Sun
+30	30	Wan Ya-nan	Guo Yan-bin
+30	30	Wan Ya-nan	Huafen Li
+30	30	Qi Wang	Hongjie Sun
+30	30	Qi Wang	Guo Yan-bin
+30	30	Qi Wang	Huafen Li
+30	30	Hongjie Sun	Guo Yan-bin
+30	30	Hongjie Sun	Huafen Li
+30	30	Guo Yan-bin	Huafen Li
+31	31	Yaqi Wang	Lina Zhu
+31	31	Yaqi Wang	Kui Li
+31	31	Yaqi Wang	Qi Wang
+31	31	Yaqi Wang	Kang Wang
+31	31	Yaqi Wang	Yanbin Guo
+31	31	Yaqi Wang	Huafen Li
+31	31	Lina Zhu	Kui Li
+31	31	Lina Zhu	Qi Wang
+31	31	Lina Zhu	Kang Wang
+31	31	Lina Zhu	Yanbin Guo
+31	31	Lina Zhu	Huafen Li
+31	31	Kui Li	Qi Wang
+31	31	Kui Li	Kang Wang
+31	31	Kui Li	Yanbin Guo
+31	31	Kui Li	Huafen Li
+31	31	Qi Wang	Kang Wang
+31	31	Qi Wang	Yanbin Guo
+31	31	Qi Wang	Huafen Li
+31	31	Kang Wang	Yanbin Guo
+31	31	Kang Wang	Huafen Li
+31	31	Yanbin Guo	Huafen Li
+32	32	Yu Yao	Zhu Lina
+32	32	Yu Yao	Tianliang Guo
+32	32	Yu Yao	Huang Qingqing
+32	32	Yu Yao	Qi Wang
+32	32	Yu Yao	Qing Chen
+32	32	Yu Yao	Huafen Li
+32	32	Zhu Lina	Tianliang Guo
+32	32	Zhu Lina	Huang Qingqing
+32	32	Zhu Lina	Qi Wang
+32	32	Zhu Lina	Qing Chen
+32	32	Zhu Lina	Huafen Li
+32	32	Tianliang Guo	Huang Qingqing
+32	32	Tianliang Guo	Qi Wang
+32	32	Tianliang Guo	Qing Chen
+32	32	Tianliang Guo	Huafen Li
+32	32	Huang Qingqing	Qi Wang
+32	32	Huang Qingqing	Qing Chen
+32	32	Huang Qingqing	Huafen Li
+32	32	Qi Wang	Qing Chen
+32	32	Qi Wang	Huafen Li
+32	32	Qing Chen	Huafen Li
+33	33	Siyu Huang	Qiqi Wang
+33	33	Siyu Huang	Qi Hao
+33	33	Siyu Huang	Zhe Liu
+33	33	Siyu Huang	Yanjin Tao
+33	33	Siyu Huang	Yu Fan
+33	33	Siyu Huang	Qi Wang
+33	33	Siyu Huang	Huafen Li
+33	33	Siyu Huang	Yanan Wan
+33	33	Qiqi Wang	Qi Hao
+33	33	Qiqi Wang	Zhe Liu
+33	33	Qiqi Wang	Yanjin Tao
+33	33	Qiqi Wang	Yu Fan
+33	33	Qiqi Wang	Qi Wang
+33	33	Qiqi Wang	Huafen Li
+33	33	Qiqi Wang	Yanan Wan
+33	33	Qi Hao	Zhe Liu
+33	33	Qi Hao	Yanjin Tao
+33	33	Qi Hao	Yu Fan
+33	33	Qi Hao	Qi Wang
+33	33	Qi Hao	Huafen Li
+33	33	Qi Hao	Yanan Wan
+33	33	Zhe Liu	Yanjin Tao
+33	33	Zhe Liu	Yu Fan
+33	33	Zhe Liu	Qi Wang
+33	33	Zhe Liu	Huafen Li
+33	33	Zhe Liu	Yanan Wan
+33	33	Yanjin Tao	Yu Fan
+33	33	Yanjin Tao	Qi Wang
+33	33	Yanjin Tao	Huafen Li
+33	33	Yanjin Tao	Yanan Wan
+33	33	Yu Fan	Qi Wang
+33	33	Yu Fan	Huafen Li
+33	33	Yu Fan	Yanan Wan
+33	33	Qi Wang	Huafen Li
+33	33	Qi Wang	Yanan Wan
+33	33	Huafen Li	Yanan Wan
+34	34	Yan Liu	Yu Fan
+34	34	Yan Liu	Jiang Liu
+34	34	Yan Liu	Zhiwei Jia
+34	34	Yan Liu	Yanan Wan
+34	34	Yan Liu	Huafen Li
+34	34	Yan Liu	Fanqiao Meng
+34	34	Yan Liu	Qi Wang
+34	34	Yan Liu	Zhong Zhuang
+34	34	Yu Fan	Jiang Liu
+34	34	Yu Fan	Zhiwei Jia
+34	34	Yu Fan	Yanan Wan
+34	34	Yu Fan	Huafen Li
+34	34	Yu Fan	Fanqiao Meng
+34	34	Yu Fan	Qi Wang
+34	34	Yu Fan	Zhong Zhuang
+34	34	Jiang Liu	Zhiwei Jia
+34	34	Jiang Liu	Yanan Wan
+34	34	Jiang Liu	Huafen Li
+34	34	Jiang Liu	Fanqiao Meng
+34	34	Jiang Liu	Qi Wang
+34	34	Jiang Liu	Zhong Zhuang
+34	34	Zhiwei Jia	Yanan Wan
+34	34	Zhiwei Jia	Huafen Li
+34	34	Zhiwei Jia	Fanqiao Meng
+34	34	Zhiwei Jia	Qi Wang
+34	34	Zhiwei Jia	Zhong Zhuang
+34	34	Yanan Wan	Huafen Li
+34	34	Yanan Wan	Fanqiao Meng
+34	34	Yanan Wan	Qi Wang
+34	34	Yanan Wan	Zhong Zhuang
+34	34	Huafen Li	Fanqiao Meng
+34	34	Huafen Li	Qi Wang
+34	34	Huafen Li	Zhong Zhuang
+34	34	Fanqiao Meng	Qi Wang
+34	34	Fanqiao Meng	Zhong Zhuang
+34	34	Qi Wang	Zhong Zhuang
+35	35	Ping-nan Fu	Xiaofei Gong
+35	35	Ping-nan Fu	Li-yun Luo
+35	35	Ping-nan Fu	Qi Wang
+35	35	Ping-nan Fu	Huafen Li
+35	35	Xiaofei Gong	Li-yun Luo
+35	35	Xiaofei Gong	Qi Wang
+35	35	Xiaofei Gong	Huafen Li
+35	35	Li-yun Luo	Qi Wang
+35	35	Li-yun Luo	Huafen Li
+35	35	Qi Wang	Huafen Li
+37	37	Shengnan Li	Shizhong Yue
+37	37	Shengnan Li	Huafen Li
+37	37	Shengnan Li	Qiao Yuhui
+37	37	Shizhong Yue	Huafen Li
+37	37	Shizhong Yue	Qiao Yuhui
+37	37	Huafen Li	Qiao Yuhui
+50	50	Tavee Cheausuwantavee	Author First Name Author Last Name
+52	52	Author Name	Said Muzani
+52	52	Author Name	Adriansyah Lubis
+52	52	Author Name	Doaris Ingrid Marbun
+52	52	Said Muzani	Adriansyah Lubis
+52	52	Said Muzani	Doaris Ingrid Marbun
+52	52	Adriansyah Lubis	Doaris Ingrid Marbun
+53	53	Juang Aprianto BP Pasaribu	Doaris Ingrid Marbun
+53	53	Juang Aprianto BP Pasaribu	Dessy Harianja
+53	53	Doaris Ingrid Marbun	Dessy Harianja
+54	54	Henry Thomson Jamiler Hutasoit	Agustinus Sitepu
+54	54	Henry Thomson Jamiler Hutasoit	Rahmadsyah Pasaribu
+54	54	Henry Thomson Jamiler Hutasoit	Doaris Ingrid Marbun
+54	54	Henry Thomson Jamiler Hutasoit	Adriansyah Lubis
+54	54	Agustinus Sitepu	Rahmadsyah Pasaribu
+54	54	Agustinus Sitepu	Doaris Ingrid Marbun
+54	54	Agustinus Sitepu	Adriansyah Lubis
+54	54	Rahmadsyah Pasaribu	Doaris Ingrid Marbun
+54	54	Rahmadsyah Pasaribu	Adriansyah Lubis
+54	54	Doaris Ingrid Marbun	Adriansyah Lubis
+55	55	Eben Ezer Debora Aladin Mezbah Purba	Doaris Ingrid Marbun
+55	55	Eben Ezer Debora Aladin Mezbah Purba	Adriansyah Lubis
+55	55	Eben Ezer Debora Aladin Mezbah Purba	Dessy Harianja
+55	55	Eben Ezer Debora Aladin Mezbah Purba	Netty Herawati
+55	55	Eben Ezer Debora Aladin Mezbah Purba	Mega Sari Sitorus
+55	55	Doaris Ingrid Marbun	Adriansyah Lubis
+55	55	Doaris Ingrid Marbun	Dessy Harianja
+55	55	Doaris Ingrid Marbun	Netty Herawati
+55	55	Doaris Ingrid Marbun	Mega Sari Sitorus
+55	55	Adriansyah Lubis	Dessy Harianja
+55	55	Adriansyah Lubis	Netty Herawati
+55	55	Adriansyah Lubis	Mega Sari Sitorus
+55	55	Dessy Harianja	Netty Herawati
+55	55	Dessy Harianja	Mega Sari Sitorus
+55	55	Netty Herawati	Mega Sari Sitorus
+56	56	Netty Herawati	Doaris Ingrid Marbun
+56	56	Netty Herawati	Rahmadsyah
+56	56	Doaris Ingrid Marbun	Rahmadsyah
+57	57	Doaris Ingrid Marbun	Netty Herawaty
+57	57	Doaris Ingrid Marbun	Dessy Harianja
+57	57	Doaris Ingrid Marbun	Rahmadsyah Rahmadsyah
+57	57	Doaris Ingrid Marbun	Oktafianna Malau
+57	57	Netty Herawaty	Dessy Harianja
+57	57	Netty Herawaty	Rahmadsyah Rahmadsyah
+57	57	Netty Herawaty	Oktafianna Malau
+57	57	Dessy Harianja	Rahmadsyah Rahmadsyah
+57	57	Dessy Harianja	Oktafianna Malau
+57	57	Rahmadsyah Rahmadsyah	Oktafianna Malau
+58	58	Doaris Ingrid Marbun	Netty Herawaty
+58	58	Doaris Ingrid Marbun	Dessy Darmayani Harianja
+58	58	Doaris Ingrid Marbun	Rahmadsyah Rahmadsyah
+58	58	Doaris Ingrid Marbun	Oktafianna Malau
+58	58	Netty Herawaty	Dessy Darmayani Harianja
+58	58	Netty Herawaty	Rahmadsyah Rahmadsyah
+58	58	Netty Herawaty	Oktafianna Malau
+58	58	Dessy Darmayani Harianja	Rahmadsyah Rahmadsyah
+58	58	Dessy Darmayani Harianja	Oktafianna Malau
+58	58	Rahmadsyah Rahmadsyah	Oktafianna Malau
+59	59	Said Muzania	Adriansyah Lubis
+59	59	Said Muzania	Dessy Darmayani Harianja
+59	59	Said Muzania	Doaris Ingrid Marbun
+59	59	Adriansyah Lubis	Dessy Darmayani Harianja
+59	59	Adriansyah Lubis	Doaris Ingrid Marbun
+59	59	Dessy Darmayani Harianja	Doaris Ingrid Marbun
+60	60	Roland Sanggam Parlindungan Tambuna	Doaris Ingrid Marbun
+60	60	Roland Sanggam Parlindungan Tambuna	Dessy Darmayani Harianja
+60	60	Roland Sanggam Parlindungan Tambuna	Adriansyah Lubis
+60	60	Roland Sanggam Parlindungan Tambuna	Rizki Arviandi
+60	60	Doaris Ingrid Marbun	Dessy Darmayani Harianja
+60	60	Doaris Ingrid Marbun	Adriansyah Lubis
+60	60	Doaris Ingrid Marbun	Rizki Arviandi
+60	60	Dessy Darmayani Harianja	Adriansyah Lubis
+60	60	Dessy Darmayani Harianja	Rizki Arviandi
+60	60	Adriansyah Lubis	Rizki Arviandi
+61	61	Juliana pasaribu	Doaris Ingrid Marbun
+61	61	Juliana pasaribu	Dessy D. Harianja
+61	61	Doaris Ingrid Marbun	Dessy D. Harianja
+62	62	Asan Petrus	Doaris Ingrid Marbun
+62	62	Asan Petrus	Dessy Harianja
+62	62	Doaris Ingrid Marbun	Dessy Harianja
+63	63	Doaris Ingrid Marbun	Abdul Gafar Parinduri
+63	63	Doaris Ingrid Marbun	Rahmadsyah Rahmadsyah
+63	63	Doaris Ingrid Marbun	Oktafianna Malau
+63	63	Doaris Ingrid Marbun	Jakaria Zansen
+63	63	Abdul Gafar Parinduri	Rahmadsyah Rahmadsyah
+63	63	Abdul Gafar Parinduri	Oktafianna Malau
+63	63	Abdul Gafar Parinduri	Jakaria Zansen
+63	63	Rahmadsyah Rahmadsyah	Oktafianna Malau
+63	63	Rahmadsyah Rahmadsyah	Jakaria Zansen
+63	63	Oktafianna Malau	Jakaria Zansen
+70	70	AUTHOR FIRST NAMe AND LAST NAME	AUTHOR
+71	71	AUTHOR FIRST NAMe AND LAST NAME	AUTHOR
+72	72	AUTHOR FIRST NAMe AND LAST NAME	AUTHOR
+73	73	Risha Hess	AUTHOR
+74	74	AUTHOR FIRST NAMe AND LAST NAME	Duong Le Quyen
+75	75	AUTHOR FIRST NAMe AND LAST NAME	AUTHOR
+76	76	Risha Hess	AUTHOR
+77	77	Risha Hess	AUTHOR
+78	78	Risha Hess	AUTHOR
+79	79	AUTHOR FIRST NAMe AND LAST NAME	AUTHOR

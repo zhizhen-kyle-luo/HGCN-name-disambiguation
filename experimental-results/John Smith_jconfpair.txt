@@ -1,0 +1,43 @@
+2	10	Nature	Nature
+2	52	Nature	Nature
+2	55	Nature	Nature
+2	62	Nature	Nature
+10	52	Nature	Nature
+10	55	Nature	Nature
+10	62	Nature	Nature
+52	55	Nature	Nature
+52	62	Nature	Nature
+55	62	Nature	Nature
+4	5	European Respiratory Journal	European Respiratory Journal
+4	11	European Respiratory Journal	European Respiratory Journal
+4	17	European Respiratory Journal	European Respiratory Journal
+5	11	European Respiratory Journal	European Respiratory Journal
+5	17	European Respiratory Journal	European Respiratory Journal
+11	17	European Respiratory Journal	European Respiratory Journal
+7	21	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+7	33	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+7	38	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+7	61	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+21	33	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+21	38	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+21	61	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+33	38	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+33	61	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+38	61	Proceedings of the National Academy of Sciences	Proceedings of the National Academy of Sciences
+8	18	The Lancet	The Lancet
+8	22	The Lancet	The Lancet
+18	22	The Lancet	The Lancet
+9	19	The Lancet Respiratory Medicine	The Lancet Respiratory Medicine
+13	16	CHEST Journal	CHEST Journal
+13	20	CHEST Journal	CHEST Journal
+16	20	CHEST Journal	CHEST Journal
+23	24	Kidney International	Kidney International
+26	27	The American Journal of Human Genetics	The American Journal of Human Genetics
+26	39	The American Journal of Human Genetics	The American Journal of Human Genetics
+27	39	The American Journal of Human Genetics	The American Journal of Human Genetics
+41	44	Nano Letters	Nano Letters
+47	48	Combinatorial Theory	Combinatorial Theory
+51	58	Cell	Cell
+57	59	Neuron	Neuron
+57	60	Neuron	Neuron
+59	60	Neuron	Neuron

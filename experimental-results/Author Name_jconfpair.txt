@@ -1,0 +1,161 @@
+0	1	Frontiers in Human Neuroscience	Frontiers in Human Neuroscience
+2	4	Clinical Neurophysiology	Clinical Neurophysiology
+2	12	Clinical Neurophysiology	Clinical Neurophysiology
+2	16	Clinical Neurophysiology	Clinical Neurophysiology
+4	12	Clinical Neurophysiology	Clinical Neurophysiology
+4	16	Clinical Neurophysiology	Clinical Neurophysiology
+12	16	Clinical Neurophysiology	Clinical Neurophysiology
+5	6	Brain stimulation	Brain stimulation
+5	9	Brain stimulation	Brain stimulation
+5	15	Brain stimulation	Brain stimulation
+5	24	Brain stimulation	Brain stimulation
+6	9	Brain stimulation	Brain stimulation
+6	15	Brain stimulation	Brain stimulation
+6	24	Brain stimulation	Brain stimulation
+9	15	Brain stimulation	Brain stimulation
+9	24	Brain stimulation	Brain stimulation
+15	24	Brain stimulation	Brain stimulation
+13	14	Progress in brain research	Progress in brain research
+23	31	PubMed	PubMed
+23	34	PubMed	PubMed
+23	35	PubMed	PubMed
+31	34	PubMed	PubMed
+31	35	PubMed	PubMed
+34	35	PubMed	PubMed
+30	37	DOAJ (DOAJ: Directory of Open Access Journals)	DOAJ (DOAJ: Directory of Open Access Journals)
+38	39	Synapse	Synapse
+38	40	Synapse	Synapse
+38	41	Synapse	Synapse
+38	42	Synapse	Synapse
+38	43	Synapse	Synapse
+38	44	Synapse	Synapse
+38	45	Synapse	Synapse
+38	46	Synapse	Synapse
+38	47	Synapse	Synapse
+38	48	Synapse	Synapse
+38	49	Synapse	Synapse
+39	40	Synapse	Synapse
+39	41	Synapse	Synapse
+39	42	Synapse	Synapse
+39	43	Synapse	Synapse
+39	44	Synapse	Synapse
+39	45	Synapse	Synapse
+39	46	Synapse	Synapse
+39	47	Synapse	Synapse
+39	48	Synapse	Synapse
+39	49	Synapse	Synapse
+40	41	Synapse	Synapse
+40	42	Synapse	Synapse
+40	43	Synapse	Synapse
+40	44	Synapse	Synapse
+40	45	Synapse	Synapse
+40	46	Synapse	Synapse
+40	47	Synapse	Synapse
+40	48	Synapse	Synapse
+40	49	Synapse	Synapse
+41	42	Synapse	Synapse
+41	43	Synapse	Synapse
+41	44	Synapse	Synapse
+41	45	Synapse	Synapse
+41	46	Synapse	Synapse
+41	47	Synapse	Synapse
+41	48	Synapse	Synapse
+41	49	Synapse	Synapse
+42	43	Synapse	Synapse
+42	44	Synapse	Synapse
+42	45	Synapse	Synapse
+42	46	Synapse	Synapse
+42	47	Synapse	Synapse
+42	48	Synapse	Synapse
+42	49	Synapse	Synapse
+43	44	Synapse	Synapse
+43	45	Synapse	Synapse
+43	46	Synapse	Synapse
+43	47	Synapse	Synapse
+43	48	Synapse	Synapse
+43	49	Synapse	Synapse
+44	45	Synapse	Synapse
+44	46	Synapse	Synapse
+44	47	Synapse	Synapse
+44	48	Synapse	Synapse
+44	49	Synapse	Synapse
+45	46	Synapse	Synapse
+45	47	Synapse	Synapse
+45	48	Synapse	Synapse
+45	49	Synapse	Synapse
+46	47	Synapse	Synapse
+46	48	Synapse	Synapse
+46	49	Synapse	Synapse
+47	48	Synapse	Synapse
+47	49	Synapse	Synapse
+48	49	Synapse	Synapse
+52	56	International Journal of Research Publications	International Journal of Research Publications
+52	57	International Journal of Research Publications	International Journal of Research Publications
+52	58	International Journal of Research Publications	International Journal of Research Publications
+52	59	International Journal of Research Publications	International Journal of Research Publications
+52	60	International Journal of Research Publications	International Journal of Research Publications
+52	63	International Journal of Research Publications	International Journal of Research Publications
+56	57	International Journal of Research Publications	International Journal of Research Publications
+56	58	International Journal of Research Publications	International Journal of Research Publications
+56	59	International Journal of Research Publications	International Journal of Research Publications
+56	60	International Journal of Research Publications	International Journal of Research Publications
+56	63	International Journal of Research Publications	International Journal of Research Publications
+57	58	International Journal of Research Publications	International Journal of Research Publications
+57	59	International Journal of Research Publications	International Journal of Research Publications
+57	60	International Journal of Research Publications	International Journal of Research Publications
+57	63	International Journal of Research Publications	International Journal of Research Publications
+58	59	International Journal of Research Publications	International Journal of Research Publications
+58	60	International Journal of Research Publications	International Journal of Research Publications
+58	63	International Journal of Research Publications	International Journal of Research Publications
+59	60	International Journal of Research Publications	International Journal of Research Publications
+59	63	International Journal of Research Publications	International Journal of Research Publications
+60	63	International Journal of Research Publications	International Journal of Research Publications
+53	54	International Journal of Scientific and Research Publications	International Journal of Scientific and Research Publications
+53	61	International Journal of Scientific and Research Publications	International Journal of Scientific and Research Publications
+54	61	International Journal of Scientific and Research Publications	International Journal of Scientific and Research Publications
+67	68	Zenodo (CERN European Organization for Nuclear Research)	Zenodo (CERN European Organization for Nuclear Research)
+70	71	Harvard Dataverse	Harvard Dataverse
+70	72	Harvard Dataverse	Harvard Dataverse
+70	73	Harvard Dataverse	Harvard Dataverse
+70	74	Harvard Dataverse	Harvard Dataverse
+70	75	Harvard Dataverse	Harvard Dataverse
+70	76	Harvard Dataverse	Harvard Dataverse
+70	77	Harvard Dataverse	Harvard Dataverse
+70	78	Harvard Dataverse	Harvard Dataverse
+70	79	Harvard Dataverse	Harvard Dataverse
+71	72	Harvard Dataverse	Harvard Dataverse
+71	73	Harvard Dataverse	Harvard Dataverse
+71	74	Harvard Dataverse	Harvard Dataverse
+71	75	Harvard Dataverse	Harvard Dataverse
+71	76	Harvard Dataverse	Harvard Dataverse
+71	77	Harvard Dataverse	Harvard Dataverse
+71	78	Harvard Dataverse	Harvard Dataverse
+71	79	Harvard Dataverse	Harvard Dataverse
+72	73	Harvard Dataverse	Harvard Dataverse
+72	74	Harvard Dataverse	Harvard Dataverse
+72	75	Harvard Dataverse	Harvard Dataverse
+72	76	Harvard Dataverse	Harvard Dataverse
+72	77	Harvard Dataverse	Harvard Dataverse
+72	78	Harvard Dataverse	Harvard Dataverse
+72	79	Harvard Dataverse	Harvard Dataverse
+73	74	Harvard Dataverse	Harvard Dataverse
+73	75	Harvard Dataverse	Harvard Dataverse
+73	76	Harvard Dataverse	Harvard Dataverse
+73	77	Harvard Dataverse	Harvard Dataverse
+73	78	Harvard Dataverse	Harvard Dataverse
+73	79	Harvard Dataverse	Harvard Dataverse
+74	75	Harvard Dataverse	Harvard Dataverse
+74	76	Harvard Dataverse	Harvard Dataverse
+74	77	Harvard Dataverse	Harvard Dataverse
+74	78	Harvard Dataverse	Harvard Dataverse
+74	79	Harvard Dataverse	Harvard Dataverse
+75	76	Harvard Dataverse	Harvard Dataverse
+75	77	Harvard Dataverse	Harvard Dataverse
+75	78	Harvard Dataverse	Harvard Dataverse
+75	79	Harvard Dataverse	Harvard Dataverse
+76	77	Harvard Dataverse	Harvard Dataverse
+76	78	Harvard Dataverse	Harvard Dataverse
+76	79	Harvard Dataverse	Harvard Dataverse
+77	78	Harvard Dataverse	Harvard Dataverse
+77	79	Harvard Dataverse	Harvard Dataverse
+78	79	Harvard Dataverse	Harvard Dataverse

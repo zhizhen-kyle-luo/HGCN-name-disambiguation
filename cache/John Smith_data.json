@@ -1,0 +1,5019 @@
+{
+  "author_name": "John Smith",
+  "author_data": {
+    "A5108453556": {
+      "id": "A5108453556",
+      "name": "John Maynard Smith",
+      "name_first": "John",
+      "name_middle": "Maynard",
+      "name_last": "Smith",
+      "works_count": 421,
+      "works": [
+        "W1960351623"
+      ]
+    },
+    "A5002524476": {
+      "id": "A5002524476",
+      "name": "John A. Smith",
+      "name_first": "John",
+      "name_middle": "A.",
+      "name_last": "Smith",
+      "works_count": 1021,
+      "works": [
+        "W1586022877",
+        "W2079588771",
+        "W2113842263",
+        "W2128836390",
+        "W2973217118",
+        "W2012716149",
+        "W2027310148",
+        "W2127376430",
+        "W3103598365",
+        "W2058071227",
+        "W2146405625",
+        "W2059191790",
+        "W2222678573",
+        "W2120323783",
+        "W2012042329",
+        "W2006815126",
+        "W2146630627",
+        "W4214937922",
+        "W3008838890",
+        "W2515863549"
+      ]
+    },
+    "A5014833790": {
+      "id": "A5014833790",
+      "name": "Richard J. Smith",
+      "name_first": "Richard",
+      "name_middle": "J.",
+      "name_last": "Smith",
+      "works_count": 1533,
+      "works": [
+        "W2125236492",
+        "W2162903822",
+        "W2565152113",
+        "W2167821466",
+        "W1547443377",
+        "W2038502254",
+        "W2163451904",
+        "W2027400408",
+        "W2293733321",
+        "W2138261854",
+        "W2107949418",
+        "W33964925",
+        "W2134371698",
+        "W2028109405",
+        "W2162002618",
+        "W2107516496",
+        "W2119744081",
+        "W1968852642",
+        "W2092609060",
+        "W1977035416"
+      ]
+    },
+    "A5013491544": {
+      "id": "A5013491544",
+      "name": "David J. Smith",
+      "name_first": "David",
+      "name_middle": "J.",
+      "name_last": "Smith",
+      "works_count": 2345,
+      "works": [
+        "W2038326657",
+        "W2069143815",
+        "W2165609411",
+        "W2081977063",
+        "W2090000463",
+        "W1966402050",
+        "W4402927841",
+        "W4400197544",
+        "W2064508370",
+        "W2119416088"
+      ]
+    },
+    "A5012609270": {
+      "id": "A5012609270",
+      "name": "Stephen J Smith",
+      "name_first": "Stephen",
+      "name_middle": "J",
+      "name_last": "Smith",
+      "works_count": 480,
+      "works": [
+        "W2096327192",
+        "W2010926499",
+        "W2090971379",
+        "W1553983967",
+        "W2125236750",
+        "W1992835639",
+        "W2106267269",
+        "W1988452935",
+        "W2087667366",
+        "W2145504425",
+        "W2132154794",
+        "W2012935976"
+      ]
+    }
+  },
+  "works_data": {
+    "W1960351623": {
+      "id": "W1960351623",
+      "title": "Evolution and the Theory of Games",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "John Maynard Smith",
+          "id": "A5108453556"
+        }
+      ],
+      "venue": "Springer eBooks"
+    },
+    "W1586022877": {
+      "id": "W1586022877",
+      "title": "Turns in Peptides and Proteins",
+      "year": 1985,
+      "authors": [
+        {
+          "name": "George D. Rose",
+          "id": "A5085464041"
+        },
+        {
+          "name": "Lila M. Glerasch",
+          "id": "A5097113500"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        }
+      ],
+      "venue": "Advances in protein chemistry"
+    },
+    "W2079588771": {
+      "id": "W2079588771",
+      "title": "Identification of a putative second T-cell receptor",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Michael B. Brenner",
+          "id": "A5000815014"
+        },
+        {
+          "name": "Joanne McLean",
+          "id": "A5066821717"
+        },
+        {
+          "name": "Deno P. Dialynas",
+          "id": "A5074459329"
+        },
+        {
+          "name": "Jack L. Strominger",
+          "id": "A5040129865"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Frances L. Owen",
+          "id": "A5084502346"
+        },
+        {
+          "name": "J.G. Seidman",
+          "id": "A5113645161"
+        },
+        {
+          "name": "S H Ip",
+          "id": "A5113617937"
+        },
+        {
+          "name": "Fred S. Rosen",
+          "id": "A5111433586"
+        },
+        {
+          "name": "Michael S. Krangel",
+          "id": "A5075092692"
+        }
+      ],
+      "venue": "Nature"
+    },
+    "W2113842263": {
+      "id": "W2113842263",
+      "title": "Neutrophils, host defense, and inflammation: a double-edged sword",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        }
+      ],
+      "venue": "Journal of Leukocyte Biology"
+    },
+    "W2128836390": {
+      "id": "W2128836390",
+      "title": "ERS guidelines on the assessment of cough",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Alyn H. Morice",
+          "id": "A5038285954"
+        },
+        {
+          "name": "Giovanni Fontana",
+          "id": "A5084813300"
+        },
+        {
+          "name": "Maria G. Belvisi",
+          "id": "A5006299446"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Kian Fan Chung",
+          "id": "A5036414874"
+        },
+        {
+          "name": "Peter V. Dicpinigaitis",
+          "id": "A5074816400"
+        },
+        {
+          "name": "Jack Kastelik",
+          "id": "A5082928027"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "M Tat\u00e1r",
+          "id": "A5113833373"
+        },
+        {
+          "name": "J. G. Widdicombe",
+          "id": "A5113838358"
+        }
+      ],
+      "venue": "European Respiratory Journal"
+    },
+    "W2973217118": {
+      "id": "W2973217118",
+      "title": "ERS guidelines on the diagnosis and treatment of chronic cough in adults and children",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Alyn H. Morice",
+          "id": "A5038285954"
+        },
+        {
+          "name": "Eva Millqvist",
+          "id": "A5035302071"
+        },
+        {
+          "name": "Kristina Biek\u0161ien\u0117",
+          "id": "A5040275305"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Peter V. Dicpinigaitis",
+          "id": "A5074816400"
+        },
+        {
+          "name": "Christian Domingo",
+          "id": "A5002590978"
+        },
+        {
+          "name": "Michele Hilton Boon",
+          "id": "A5027769489"
+        },
+        {
+          "name": "Ahmad Kantar",
+          "id": "A5058642614"
+        },
+        {
+          "name": "Kefang Lai",
+          "id": "A5054711797"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "David Rigau",
+          "id": "A5051423513"
+        },
+        {
+          "name": "Imran Satia",
+          "id": "A5048208596"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Woo\u2010Jung Song",
+          "id": "A5028665396"
+        },
+        {
+          "name": "Thomy Tonia",
+          "id": "A5009217713"
+        },
+        {
+          "name": "Jan Willem van den Berg",
+          "id": "A5102767760"
+        },
+        {
+          "name": "Mirjam J.G. van Manen",
+          "id": "A5060742621"
+        },
+        {
+          "name": "Angela Zacharasiewicz",
+          "id": "A5032623605"
+        }
+      ],
+      "venue": "European Respiratory Journal"
+    },
+    "W2012716149": {
+      "id": "W2012716149",
+      "title": "Reverse Turns in Peptides and Protein",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Lila G. Pease",
+          "id": "A5022985315"
+        },
+        {
+          "name": "Kenneth D. Kopple",
+          "id": "A5114248449"
+        }
+      ],
+      "venue": "Critical Reviews in Biochemistry"
+    },
+    "W2027310148": {
+      "id": "W2027310148",
+      "title": "High molecular mass forms of basic fibroblast growth factor are initiated by alternative CUG codons.",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Herv\u00e9 Prats",
+          "id": "A5101537276"
+        },
+        {
+          "name": "Mourad Kaghad",
+          "id": "A5108478620"
+        },
+        {
+          "name": "Anne\u2010Catherine Prats",
+          "id": "A5034994959"
+        },
+        {
+          "name": "Michael Klagsbrun",
+          "id": "A5056525940"
+        },
+        {
+          "name": "Jean-Michel L\u00e9lias",
+          "id": "A5006951605"
+        },
+        {
+          "name": "Philippe Liauzun",
+          "id": "A5006297550"
+        },
+        {
+          "name": "Pascale Chalon",
+          "id": "A5061173872"
+        },
+        {
+          "name": "J. Tauber",
+          "id": "A5111528469"
+        },
+        {
+          "name": "F. Amalric",
+          "id": "A5111699458"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    "W2127376430": {
+      "id": "W2127376430",
+      "title": "P2X3 receptor antagonist (AF-219) in refractory chronic cough: a randomised, double-blind, placebo-controlled phase 2 study",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Rayid Abdulqawi",
+          "id": "A5085325803"
+        },
+        {
+          "name": "Rachel Dockry",
+          "id": "A5070268967"
+        },
+        {
+          "name": "Kimberley Holt",
+          "id": "A5060653670"
+        },
+        {
+          "name": "Gary Layton",
+          "id": "A5060120056"
+        },
+        {
+          "name": "Bruce G. McCarthy",
+          "id": "A5070800866"
+        },
+        {
+          "name": "Anthony Ford",
+          "id": "A5065067986"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        }
+      ],
+      "venue": "The Lancet"
+    },
+    "W3103598365": {
+      "id": "W3103598365",
+      "title": "Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Phillip Monk",
+          "id": "A5112095974"
+        },
+        {
+          "name": "Richard Marsden",
+          "id": "A5077192370"
+        },
+        {
+          "name": "Victoria Tear",
+          "id": "A5038499084"
+        },
+        {
+          "name": "Jody Brookes",
+          "id": "A5078857778"
+        },
+        {
+          "name": "Toby N. Batten",
+          "id": "A5035713544"
+        },
+        {
+          "name": "M Ma\u0144kowski",
+          "id": "A5089967962"
+        },
+        {
+          "name": "Felicity Gabbay",
+          "id": "A5021092203"
+        },
+        {
+          "name": "Donna E. Davies",
+          "id": "A5032192970"
+        },
+        {
+          "name": "Stephen T. Holgate",
+          "id": "A5089020623"
+        },
+        {
+          "name": "Ling\u2010Pei Ho",
+          "id": "A5079358381"
+        },
+        {
+          "name": "Tristan Clark",
+          "id": "A5010787548"
+        },
+        {
+          "name": "Ratko Djukanovi\u0107",
+          "id": "A5043576559"
+        },
+        {
+          "name": "Tom Wilkinson",
+          "id": "A5069988933"
+        },
+        {
+          "name": "Michael G. Crooks",
+          "id": "A5037385250"
+        },
+        {
+          "name": "Davinder Dosanjh",
+          "id": "A5072021354"
+        },
+        {
+          "name": "Salman Siddiqui",
+          "id": "A5009297900"
+        },
+        {
+          "name": "Najib M. Rahman",
+          "id": "A5059272486"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Alex Horsley",
+          "id": "A5026193678"
+        },
+        {
+          "name": "Timothy Harrison",
+          "id": "A5111372313"
+        },
+        {
+          "name": "Dinesh Saralaya",
+          "id": "A5074335409"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Alastair Watson",
+          "id": "A5101767707"
+        },
+        {
+          "name": "Edmund Foster",
+          "id": "A5076383264"
+        },
+        {
+          "name": "Adam Fleet",
+          "id": "A5004486156"
+        },
+        {
+          "name": "Dave Singh",
+          "id": "A5068917661"
+        },
+        {
+          "name": "Sophie Hemmings",
+          "id": "A5033242902"
+        },
+        {
+          "name": "Sandra Aitken",
+          "id": "A5075613791"
+        },
+        {
+          "name": "Sarah Dudley",
+          "id": "A5020002494"
+        },
+        {
+          "name": "Rona Beegan",
+          "id": "A5025177333"
+        },
+        {
+          "name": "Angela Thompson",
+          "id": "A5033402700"
+        },
+        {
+          "name": "Pedro MB Rodrigues",
+          "id": "A5011650809"
+        }
+      ],
+      "venue": "The Lancet Respiratory Medicine"
+    },
+    "W2058071227": {
+      "id": "W2058071227",
+      "title": "Structural characteristics of an antigen required for its interaction with Ia and recognition by T cells",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Alessandro Sette",
+          "id": "A5010966529"
+        },
+        {
+          "name": "S\u00f8ren Buus",
+          "id": "A5004800654"
+        },
+        {
+          "name": "S M Col\u00f3n",
+          "id": "A5074126889"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "C Miles",
+          "id": "A5085124209"
+        },
+        {
+          "name": "Howard M. Grey",
+          "id": "A5110101301"
+        }
+      ],
+      "venue": "Nature"
+    },
+    "W2146405625": {
+      "id": "W2146405625",
+      "title": "Expert opinion on the cough hypersensitivity syndrome in respiratory medicine",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Alyn H. Morice",
+          "id": "A5038285954"
+        },
+        {
+          "name": "Eva Millqvist",
+          "id": "A5035302071"
+        },
+        {
+          "name": "Maria G. Belvisi",
+          "id": "A5006299446"
+        },
+        {
+          "name": "Kristina Biek\u0161ien\u0117",
+          "id": "A5040275305"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Kian Fan Chung",
+          "id": "A5036414874"
+        },
+        {
+          "name": "Roberto W. Dal Negro",
+          "id": "A5014365147"
+        },
+        {
+          "name": "Peter V. Dicpinigaitis",
+          "id": "A5074816400"
+        },
+        {
+          "name": "Ahmad Kantar",
+          "id": "A5058642614"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Adalberto Pacheco",
+          "id": "A5027142237"
+        },
+        {
+          "name": "Raimundas Sakalauskas",
+          "id": "A5061442217"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        }
+      ],
+      "venue": "European Respiratory Journal"
+    },
+    "W2059191790": {
+      "id": "W2059191790",
+      "title": "High-performance capillary electrophoretic separation of bases, nucleosides, and oligonucleotides: retention manipulation via micellar solutions and metal additives",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Aharon S. Cohen",
+          "id": "A5110247265"
+        },
+        {
+          "name": "Shigeru Terabe",
+          "id": "A5056773737"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Barry L. Karger",
+          "id": "A5020025505"
+        }
+      ],
+      "venue": "Analytical Chemistry"
+    },
+    "W2222678573": {
+      "id": "W2222678573",
+      "title": "Treatment of Unexplained Chronic Cough",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Peter G. Gibson",
+          "id": "A5038423820"
+        },
+        {
+          "name": "Gang Wang",
+          "id": "A5100367383"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Anne E. Vertigan",
+          "id": "A5077403695"
+        },
+        {
+          "name": "Kenneth W. Altman",
+          "id": "A5062190777"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Todd M. Adams",
+          "id": "A5038163522"
+        },
+        {
+          "name": "Kenneth W. Altman",
+          "id": "A5062190777"
+        },
+        {
+          "name": "Alan F. Barker",
+          "id": "A5103453019"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Fiona Blackhall",
+          "id": "A5089954905"
+        },
+        {
+          "name": "Donald C. Bolser",
+          "id": "A5053197282"
+        },
+        {
+          "name": "Louis\u2010Philippe Boulet",
+          "id": "A5087705837"
+        },
+        {
+          "name": "Sidney S. Braman",
+          "id": "A5087772994"
+        },
+        {
+          "name": "Christopher E. Brightling",
+          "id": "A5048320859"
+        },
+        {
+          "name": "Priscilla Callahan-Lyon",
+          "id": "A5017029654"
+        },
+        {
+          "name": "Brendan J. Canning",
+          "id": "A5052529245"
+        },
+        {
+          "name": "Anne B. Chang",
+          "id": "A5040334922"
+        },
+        {
+          "name": "Remy R Coeytaux",
+          "id": "A5113878321"
+        },
+        {
+          "name": "Terrie Cowley",
+          "id": "A5081919889"
+        },
+        {
+          "name": "Paul Davenport",
+          "id": "A5043953729"
+        },
+        {
+          "name": "Rebecca L. Diekemper",
+          "id": "A5042458294"
+        },
+        {
+          "name": "Satoru Ebihara",
+          "id": "A5047157330"
+        },
+        {
+          "name": "Ali A. El Solh",
+          "id": "A5113656351"
+        },
+        {
+          "name": "Patricio Escalante",
+          "id": "A5004579335"
+        },
+        {
+          "name": "Anthony Feinstein",
+          "id": "A5003023635"
+        },
+        {
+          "name": "Stephen K. Field",
+          "id": "A5027562227"
+        },
+        {
+          "name": "Dina Fisher",
+          "id": "A5111066780"
+        },
+        {
+          "name": "Cynthia T. French",
+          "id": "A5087710758"
+        },
+        {
+          "name": "Peter G. Gibson",
+          "id": "A5038423820"
+        },
+        {
+          "name": "Philip Gold",
+          "id": "A5011469670"
+        },
+        {
+          "name": "Michael K. Gould",
+          "id": "A5074898271"
+        },
+        {
+          "name": "Cameron Grant",
+          "id": "A5011444993"
+        },
+        {
+          "name": "Susan M. Harding",
+          "id": "A5002269164"
+        },
+        {
+          "name": "Anthony Harnden",
+          "id": "A5064244649"
+        },
+        {
+          "name": "Adam T. Hill",
+          "id": "A5000252949"
+        },
+        {
+          "name": "Richard S. Irwin",
+          "id": "A5014424674"
+        },
+        {
+          "name": "Peter J. Kahrilas",
+          "id": "A5075811575"
+        },
+        {
+          "name": "Karina A. Keogh",
+          "id": "A5071376179"
+        },
+        {
+          "name": "Andrew P. Lane",
+          "id": "A5050041671"
+        },
+        {
+          "name": "Kaiser G. Lim",
+          "id": "A5069029705"
+        },
+        {
+          "name": "Mark A. Malesker",
+          "id": "A5090476641"
+        },
+        {
+          "name": "Peter J. Mazzone",
+          "id": "A5091290084"
+        },
+        {
+          "name": "Stuart B. Mazzone",
+          "id": "A5032045176"
+        },
+        {
+          "name": "Douglas C McCrory",
+          "id": "A5062942636"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Alex Molasiotis",
+          "id": "A5109713126"
+        },
+        {
+          "name": "M. Hassan Murad",
+          "id": "A5054802858"
+        },
+        {
+          "name": "Peter Newcombe",
+          "id": "A5066415562"
+        },
+        {
+          "name": "Huong Q. Nguyen",
+          "id": "A5100771726"
+        },
+        {
+          "name": "John Oppenheimer",
+          "id": "A5108082642"
+        },
+        {
+          "name": "David J. Prezant",
+          "id": "A5059215776"
+        },
+        {
+          "name": "Tamara Pringsheim",
+          "id": "A5110144658"
+        },
+        {
+          "name": "Marcos I. Restrepo",
+          "id": "A5066835495"
+        },
+        {
+          "name": "Mark A. Rosen",
+          "id": "A5109033239"
+        },
+        {
+          "name": "Bruce K. Rubin",
+          "id": "A5050025826"
+        },
+        {
+          "name": "Jay H. Ryu",
+          "id": "A5066349086"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Susan M. Tarlo",
+          "id": "A5053267334"
+        },
+        {
+          "name": "Anne E. Vertigan",
+          "id": "A5077403695"
+        },
+        {
+          "name": "Gang Wang",
+          "id": "A5100367383"
+        },
+        {
+          "name": "Miles Weinberger",
+          "id": "A5015575315"
+        },
+        {
+          "name": "Kelly A. Weir",
+          "id": "A5008735550"
+        },
+        {
+          "name": "Renda Soylemez Wiener",
+          "id": "A5091604315"
+        }
+      ],
+      "venue": "CHEST Journal"
+    },
+    "W2120323783": {
+      "id": "W2120323783",
+      "title": "High-frequency Triazole Resistance Found In Nonculturable Aspergillus fumigatus from Lungs of Patients with Chronic Fungal Disease",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "David W. Denning",
+          "id": "A5083752740"
+        },
+        {
+          "name": "Steven Park",
+          "id": "A5020852034"
+        },
+        {
+          "name": "Cornelia Lass\u2010Fl\u00f6rl",
+          "id": "A5064996258"
+        },
+        {
+          "name": "Marcin G. Fraczek",
+          "id": "A5015372087"
+        },
+        {
+          "name": "Marie Kirwan",
+          "id": "A5081443069"
+        },
+        {
+          "name": "Robin Gore",
+          "id": "A5110969328"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Ahmed S. Bueid",
+          "id": "A5024535721"
+        },
+        {
+          "name": "Caroline B. Moore",
+          "id": "A5106083815"
+        },
+        {
+          "name": "Paul Bowyer",
+          "id": "A5053434965"
+        },
+        {
+          "name": "David S. Perlin",
+          "id": "A5005383633"
+        }
+      ],
+      "venue": "Clinical Infectious Diseases"
+    },
+    "W2012042329": {
+      "id": "W2012042329",
+      "title": "A comparative randomized trial of heparin versus streptokinase in the treatment of acute proximal venous thrombosis: An interim report of a prospective trial",
+      "year": 1979,
+      "authors": [
+        {
+          "name": "M S Elliot",
+          "id": "A5059112337"
+        },
+        {
+          "name": "E J Immelman",
+          "id": "A5108296031"
+        },
+        {
+          "name": "P Jeffery",
+          "id": "A5052480438"
+        },
+        {
+          "name": "Solomon R. Benatar",
+          "id": "A5025234739"
+        },
+        {
+          "name": "M. R. Funston",
+          "id": "A5053222838"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "B. J. Shepstone",
+          "id": "A5076612684"
+        },
+        {
+          "name": "A.D. Ferguson",
+          "id": "A5079870587"
+        },
+        {
+          "name": "Peter Jacobs",
+          "id": "A5113531674"
+        },
+        {
+          "name": "W.J. Walker",
+          "id": "A5112066826"
+        },
+        {
+          "name": "J H Louw",
+          "id": "A5108593866"
+        }
+      ],
+      "venue": "British journal of surgery"
+    },
+    "W2006815126": {
+      "id": "W2006815126",
+      "title": "Anatomy and Neurophysiology of Cough",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Brendan J. Canning",
+          "id": "A5052529245"
+        },
+        {
+          "name": "Anne B. Chang",
+          "id": "A5040334922"
+        },
+        {
+          "name": "Donald C. Bolser",
+          "id": "A5053197282"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Stuart B. Mazzone",
+          "id": "A5032045176"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Todd M. Adams",
+          "id": "A5038163522"
+        },
+        {
+          "name": "Kenneth W. Altman",
+          "id": "A5062190777"
+        },
+        {
+          "name": "Alan F. Barker",
+          "id": "A5103453019"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Fiona Blackhall",
+          "id": "A5089954905"
+        },
+        {
+          "name": "Donald C. Bolser",
+          "id": "A5053197282"
+        },
+        {
+          "name": "Louis\u2010Philippe Boulet",
+          "id": "A5087705837"
+        },
+        {
+          "name": "Sidney S. Braman",
+          "id": "A5087772994"
+        },
+        {
+          "name": "Christopher E. Brightling",
+          "id": "A5048320859"
+        },
+        {
+          "name": "Priscilla Callahan-Lyon",
+          "id": "A5017029654"
+        },
+        {
+          "name": "Brendan J. Canning",
+          "id": "A5052529245"
+        },
+        {
+          "name": "Anne B. Chang",
+          "id": "A5040334922"
+        },
+        {
+          "name": "Remy R Coeytaux",
+          "id": "A5113878321"
+        },
+        {
+          "name": "Terrie Cowley",
+          "id": "A5081919889"
+        },
+        {
+          "name": "Paul Davenport",
+          "id": "A5043953729"
+        },
+        {
+          "name": "Rebecca L. Diekemper",
+          "id": "A5042458294"
+        },
+        {
+          "name": "Satoru Ebihara",
+          "id": "A5047157330"
+        },
+        {
+          "name": "Ali A. El Solh",
+          "id": "A5113656351"
+        },
+        {
+          "name": "Patricio Escalante",
+          "id": "A5004579335"
+        },
+        {
+          "name": "Anthony Feinstein",
+          "id": "A5003023635"
+        },
+        {
+          "name": "Stephen K. Field",
+          "id": "A5027562227"
+        },
+        {
+          "name": "Dina Fisher",
+          "id": "A5111066780"
+        },
+        {
+          "name": "Cynthia T. French",
+          "id": "A5087710758"
+        },
+        {
+          "name": "Peter G. Gibson",
+          "id": "A5038423820"
+        },
+        {
+          "name": "Philip Gold",
+          "id": "A5011469670"
+        },
+        {
+          "name": "Cameron Grant",
+          "id": "A5011444993"
+        },
+        {
+          "name": "Susan M. Harding",
+          "id": "A5002269164"
+        },
+        {
+          "name": "Anthony Harnden",
+          "id": "A5064244649"
+        },
+        {
+          "name": "Adam T. Hill",
+          "id": "A5000252949"
+        },
+        {
+          "name": "Richard S. Irwin",
+          "id": "A5014424674"
+        },
+        {
+          "name": "Peter J. Kahrilas",
+          "id": "A5112788904"
+        },
+        {
+          "name": "Karina A. Keogh",
+          "id": "A5071376179"
+        },
+        {
+          "name": "Andrew P. Lane",
+          "id": "A5050041671"
+        },
+        {
+          "name": "Sandra Zelman Lewis",
+          "id": "A5075139920"
+        },
+        {
+          "name": "Kaiser G. Lim",
+          "id": "A5069029705"
+        },
+        {
+          "name": "Mark A. Malesker",
+          "id": "A5090476641"
+        },
+        {
+          "name": "Peter J. Mazzone",
+          "id": "A5091290084"
+        },
+        {
+          "name": "Stuart B. Mazzone",
+          "id": "A5032045176"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Alex Molasiotis",
+          "id": "A5109713126"
+        },
+        {
+          "name": "M. Hassan Murad",
+          "id": "A5054802858"
+        },
+        {
+          "name": "Peter Newcombe",
+          "id": "A5066415562"
+        },
+        {
+          "name": "Huong Q. Nguyen",
+          "id": "A5100771726"
+        },
+        {
+          "name": "John Oppenheimer",
+          "id": "A5108082642"
+        },
+        {
+          "name": "David J. Prezant",
+          "id": "A5059215776"
+        },
+        {
+          "name": "Tamara Pringsheim",
+          "id": "A5081708943"
+        },
+        {
+          "name": "Marcos I. Restrepo",
+          "id": "A5066835495"
+        },
+        {
+          "name": "Mark J. Rosen",
+          "id": "A5108507282"
+        },
+        {
+          "name": "Bruce K. Rubin",
+          "id": "A5050025826"
+        },
+        {
+          "name": "Jay H. Ryu",
+          "id": "A5066349086"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Susan M. Tarlo",
+          "id": "A5053267334"
+        },
+        {
+          "name": "Ronald B. Turner",
+          "id": "A5033174875"
+        },
+        {
+          "name": "Anne E. Vertigan",
+          "id": "A5077403695"
+        },
+        {
+          "name": "Gang Wang",
+          "id": "A5100367328"
+        },
+        {
+          "name": "Kelly Weir",
+          "id": "A5107836936"
+        }
+      ],
+      "venue": "CHEST Journal"
+    },
+    "W2146630627": {
+      "id": "W2146630627",
+      "title": "A worldwide survey of chronic cough: a manifestation of enhanced somatosensory response",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Alyn H. Morice",
+          "id": "A5038285954"
+        },
+        {
+          "name": "Adam D Jakes",
+          "id": "A5091406047"
+        },
+        {
+          "name": "Shoaib Faruqi",
+          "id": "A5050492023"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Brendan J. Canning",
+          "id": "A5052529245"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Sean Parker",
+          "id": "A5025473170"
+        },
+        {
+          "name": "Kian Fan Chung",
+          "id": "A5036414874"
+        },
+        {
+          "name": "Kefang Lai",
+          "id": "A5054711797"
+        },
+        {
+          "name": "Ian Pavord",
+          "id": "A5078489750"
+        },
+        {
+          "name": "Jan van den Berg",
+          "id": "A5102988685"
+        },
+        {
+          "name": "Woo\u2010Jung Song",
+          "id": "A5028665396"
+        },
+        {
+          "name": "Eva Millqvist",
+          "id": "A5035302071"
+        },
+        {
+          "name": "Michael J. Farrell",
+          "id": "A5077683266"
+        },
+        {
+          "name": "Stuart B. Mazzone",
+          "id": "A5032045176"
+        },
+        {
+          "name": "Peter V. Dicpinigaitis",
+          "id": "A5074816400"
+        }
+      ],
+      "venue": "European Respiratory Journal"
+    },
+    "W4214937922": {
+      "id": "W4214937922",
+      "title": "Efficacy and safety of gefapixant, a P2X3 receptor antagonist, in refractory chronic cough and unexplained chronic cough (COUGH-1 and COUGH-2): results from two double-blind, randomised, parallel-group, placebo-controlled, phase 3 trials",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Alyn H. Morice",
+          "id": "A5038285954"
+        },
+        {
+          "name": "Peter V. Dicpinigaitis",
+          "id": "A5074816400"
+        },
+        {
+          "name": "Ian Pavord",
+          "id": "A5078489750"
+        },
+        {
+          "name": "Jonathan Schelfhout",
+          "id": "A5058003112"
+        },
+        {
+          "name": "Allison Martin Nguyen",
+          "id": "A5017377631"
+        },
+        {
+          "name": "Qing Li",
+          "id": "A5100404169"
+        },
+        {
+          "name": "Anjela Tzontcheva",
+          "id": "A5057295748"
+        },
+        {
+          "name": "Beata Iskold",
+          "id": "A5084390540"
+        },
+        {
+          "name": "Stuart A. Green",
+          "id": "A5036793590"
+        },
+        {
+          "name": "Carmen La Rosa",
+          "id": "A5051189755"
+        },
+        {
+          "name": "David Muccino",
+          "id": "A5110720547"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        }
+      ],
+      "venue": "The Lancet"
+    },
+    "W3008838890": {
+      "id": "W3008838890",
+      "title": "Gefapixant, a P2X3 receptor antagonist, for the treatment of refractory or unexplained chronic cough: a randomised, double-blind, controlled, parallel-group, phase 2b trial",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Michael M. Kitt",
+          "id": "A5108409555"
+        },
+        {
+          "name": "Alyn H. Morice",
+          "id": "A5038285954"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Mandel Sher",
+          "id": "A5111280479"
+        },
+        {
+          "name": "Yuping Li",
+          "id": "A5100360816"
+        },
+        {
+          "name": "Wen\u2010Chi Wu",
+          "id": "A5102758556"
+        },
+        {
+          "name": "Zhi Jin Xu",
+          "id": "A5078708960"
+        },
+        {
+          "name": "David Muccino",
+          "id": "A5110720547"
+        },
+        {
+          "name": "Anthony Ford",
+          "id": "A5065067986"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "Surinder S. Birring",
+          "id": "A5047675533"
+        },
+        {
+          "name": "James H. Hull",
+          "id": "A5064679696"
+        },
+        {
+          "name": "Warner Carr",
+          "id": "A5107656875"
+        },
+        {
+          "name": "Alan B. Goldsobel",
+          "id": "A5080946001"
+        },
+        {
+          "name": "Gary N. Gross",
+          "id": "A5111870641"
+        },
+        {
+          "name": "J. Holcomb",
+          "id": "A5007416030"
+        },
+        {
+          "name": "Iftikhar Hussain",
+          "id": "A5051845249"
+        },
+        {
+          "name": "Mandel Sher",
+          "id": "A5111280479"
+        },
+        {
+          "name": "Selwyn Spangenthal",
+          "id": "A5090165536"
+        },
+        {
+          "name": "William W. Storms",
+          "id": "A5091820895"
+        },
+        {
+          "name": "Alyn H. Morice",
+          "id": "A5038285954"
+        },
+        {
+          "name": "David Elkayam",
+          "id": "A5011297503"
+        },
+        {
+          "name": "Gary C. Steven",
+          "id": "A5112532595"
+        },
+        {
+          "name": "James Krainson",
+          "id": "A5052250518"
+        },
+        {
+          "name": "Faisal Fakih",
+          "id": "A5027144208"
+        },
+        {
+          "name": "Jonathan Matz",
+          "id": "A5072255047"
+        },
+        {
+          "name": "Gregory Daniel Brooks",
+          "id": "A5110088797"
+        },
+        {
+          "name": "Thomas B. Casale",
+          "id": "A5069959810"
+        },
+        {
+          "name": "Gary Berman",
+          "id": "A5108483877"
+        },
+        {
+          "name": "John J. Condemi",
+          "id": "A5011317805"
+        },
+        {
+          "name": "Leon S. Greos",
+          "id": "A5041194089"
+        },
+        {
+          "name": "Shaila U Gogate",
+          "id": "A5060955419"
+        },
+        {
+          "name": "Ellen Sher",
+          "id": "A5042524053"
+        },
+        {
+          "name": "Jason Friesen",
+          "id": "A5070497300"
+        },
+        {
+          "name": "Eric Schenkel",
+          "id": "A5016873420"
+        },
+        {
+          "name": "David I. Bernstein",
+          "id": "A5090332369"
+        },
+        {
+          "name": "Jonathan Corren",
+          "id": "A5021417774"
+        },
+        {
+          "name": "Krishna M. Sundar",
+          "id": "A5084263660"
+        },
+        {
+          "name": "Mark H. Gotfried",
+          "id": "A5047066233"
+        },
+        {
+          "name": "Anthony Montanaro",
+          "id": "A5105358349"
+        },
+        {
+          "name": "William Lumry",
+          "id": "A5090720454"
+        },
+        {
+          "name": "Niran J. Amar",
+          "id": "A5113740530"
+        },
+        {
+          "name": "Michael Kaplan",
+          "id": "A5103000203"
+        },
+        {
+          "name": "Bruce M. Prenner",
+          "id": "A5005080145"
+        },
+        {
+          "name": "Thomas Murphy",
+          "id": "A5034074014"
+        },
+        {
+          "name": "James Good",
+          "id": "A5113977182"
+        },
+        {
+          "name": "Sean Parker",
+          "id": "A5025473170"
+        },
+        {
+          "name": "Tim Harrison",
+          "id": "A5108705474"
+        },
+        {
+          "name": "Ian Pavord",
+          "id": "A5078489750"
+        },
+        {
+          "name": "Christopher E. Brightling",
+          "id": "A5048320859"
+        },
+        {
+          "name": "Ratko Djukanovi\u0107",
+          "id": "A5043576559"
+        },
+        {
+          "name": "Douglas McQuaid",
+          "id": "A5058220483"
+        },
+        {
+          "name": "Michael Denenberg",
+          "id": "A5012974329"
+        },
+        {
+          "name": "Neil Ettinger",
+          "id": "A5039064134"
+        },
+        {
+          "name": "Vivek N. Iyer",
+          "id": "A5073712726"
+        }
+      ],
+      "venue": "The Lancet Respiratory Medicine"
+    },
+    "W2515863549": {
+      "id": "W2515863549",
+      "title": "Chronic Cough Due to Gastroesophageal Reflux in Adults",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Peter J. Kahrilas",
+          "id": "A5075811575"
+        },
+        {
+          "name": "Kenneth W. Altman",
+          "id": "A5062190777"
+        },
+        {
+          "name": "Anne B. Chang",
+          "id": "A5040334922"
+        },
+        {
+          "name": "Stephen K. Field",
+          "id": "A5027562227"
+        },
+        {
+          "name": "Susan M. Harding",
+          "id": "A5002269164"
+        },
+        {
+          "name": "Andrew P. Lane",
+          "id": "A5050041671"
+        },
+        {
+          "name": "Kaiser G. Lim",
+          "id": "A5069029705"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Richard S. Irwin",
+          "id": "A5014424674"
+        },
+        {
+          "name": "Todd M. Adams",
+          "id": "A5038163522"
+        },
+        {
+          "name": "Kenneth W. Altman",
+          "id": "A5062190777"
+        },
+        {
+          "name": "\u00c9lie Azoulay",
+          "id": "A5076578951"
+        },
+        {
+          "name": "Alan F. Barker",
+          "id": "A5103453019"
+        },
+        {
+          "name": "Fiona Blackhall",
+          "id": "A5089954905"
+        },
+        {
+          "name": "Donald C. Bolser",
+          "id": "A5053197282"
+        },
+        {
+          "name": "Louis\u2010Philippe Boulet",
+          "id": "A5087705837"
+        },
+        {
+          "name": "Christopher E. Brightling",
+          "id": "A5048320859"
+        },
+        {
+          "name": "Priscilla Callahan-Lyon",
+          "id": "A5017029654"
+        },
+        {
+          "name": "Brendan J. Canning",
+          "id": "A5052529245"
+        },
+        {
+          "name": "Anne B. Chang",
+          "id": "A5040334922"
+        },
+        {
+          "name": "Terrie Cowley",
+          "id": "A5081919889"
+        },
+        {
+          "name": "Satoru Ebihara",
+          "id": "A5047157330"
+        },
+        {
+          "name": "Ali A. El Solh",
+          "id": "A5113656351"
+        },
+        {
+          "name": "Patricio Escalante",
+          "id": "A5004579335"
+        },
+        {
+          "name": "Stephen K. Field",
+          "id": "A5027562227"
+        },
+        {
+          "name": "Anthony Feinstein",
+          "id": "A5003023635"
+        },
+        {
+          "name": "Dina Fisher",
+          "id": "A5111066780"
+        },
+        {
+          "name": "Cynthia T. French",
+          "id": "A5087710758"
+        },
+        {
+          "name": "Peter G. Gibson",
+          "id": "A5038423820"
+        },
+        {
+          "name": "Philip Gold",
+          "id": "A5011469670"
+        },
+        {
+          "name": "Michael K. Gould",
+          "id": "A5074898271"
+        },
+        {
+          "name": "Cameron Grant",
+          "id": "A5011444993"
+        },
+        {
+          "name": "Susan M. Harding",
+          "id": "A5002269164"
+        },
+        {
+          "name": "Anthony Harnden",
+          "id": "A5064244649"
+        },
+        {
+          "name": "Adam T. Hill",
+          "id": "A5000252949"
+        },
+        {
+          "name": "Richard S. Irwin",
+          "id": "A5014424674"
+        },
+        {
+          "name": "Peter J. Kahrilas",
+          "id": "A5075811575"
+        },
+        {
+          "name": "Karina A. Keogh",
+          "id": "A5071376179"
+        },
+        {
+          "name": "Kefang Lai",
+          "id": "A5054711797"
+        },
+        {
+          "name": "Andrew P. Lane",
+          "id": "A5050041671"
+        },
+        {
+          "name": "Kaiser G. Lim",
+          "id": "A5069029705"
+        },
+        {
+          "name": "Mark A. Malesker",
+          "id": "A5090476641"
+        },
+        {
+          "name": "Stuart B. Mazzone",
+          "id": "A5032045176"
+        },
+        {
+          "name": "Lorcan McGarvey",
+          "id": "A5025596285"
+        },
+        {
+          "name": "M. Hassan Murad",
+          "id": "A5054802858"
+        },
+        {
+          "name": "Huong Q. Nguyen",
+          "id": "A5100771726"
+        },
+        {
+          "name": "Peter Newcombe",
+          "id": "A5066415562"
+        },
+        {
+          "name": "John Oppenheimer",
+          "id": "A5108082642"
+        },
+        {
+          "name": "Mark J. Rosen",
+          "id": "A5108507282"
+        },
+        {
+          "name": "Bruce K. Rubin",
+          "id": "A5050025826"
+        },
+        {
+          "name": "Jay H. Ryu",
+          "id": "A5066349086"
+        },
+        {
+          "name": "John A. Smith",
+          "id": "A5002524476"
+        },
+        {
+          "name": "Susan M. Tarlo",
+          "id": "A5053267334"
+        },
+        {
+          "name": "Anne E. Vertigan",
+          "id": "A5077403695"
+        },
+        {
+          "name": "Gang Wang",
+          "id": "A5100367383"
+        },
+        {
+          "name": "Miles Weinberger",
+          "id": "A5015575315"
+        },
+        {
+          "name": "Kelly A. Weir",
+          "id": "A5008735550"
+        }
+      ],
+      "venue": "CHEST Journal"
+    },
+    "W2125236492": {
+      "id": "W2125236492",
+      "title": "A common haplotype in the complement regulatory gene factor H ( <i>HF1/CFH</i> ) predisposes individuals to age-related macular degeneration",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Gregory S. Hageman",
+          "id": "A5077768447"
+        },
+        {
+          "name": "Don H. Anderson",
+          "id": "A5103512361"
+        },
+        {
+          "name": "Lincoln V. Johnson",
+          "id": "A5113532151"
+        },
+        {
+          "name": "Lisa S. Hancox",
+          "id": "A5039446497"
+        },
+        {
+          "name": "Andrew J. Taiber",
+          "id": "A5060081830"
+        },
+        {
+          "name": "Lisa I. Hardisty",
+          "id": "A5044917718"
+        },
+        {
+          "name": "Jill L. Hageman",
+          "id": "A5111924031"
+        },
+        {
+          "name": "Heather Stockman",
+          "id": "A5016332258"
+        },
+        {
+          "name": "James D. Borchardt",
+          "id": "A5033440530"
+        },
+        {
+          "name": "Karen M. Gehrs",
+          "id": "A5065604790"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Giuliana Silvestri",
+          "id": "A5101469581"
+        },
+        {
+          "name": "Stephen R. Russell",
+          "id": "A5021001169"
+        },
+        {
+          "name": "Caroline C. W. Klaver",
+          "id": "A5029529953"
+        },
+        {
+          "name": "Irene Barbazetto",
+          "id": "A5083263034"
+        },
+        {
+          "name": "Stanley Chang",
+          "id": "A5036585007"
+        },
+        {
+          "name": "Lawrence A. Yannuzzi",
+          "id": "A5006444304"
+        },
+        {
+          "name": "Gaetano R. Barile",
+          "id": "A5111781018"
+        },
+        {
+          "name": "John C. Merriam",
+          "id": "A5030606988"
+        },
+        {
+          "name": "R. Theodore Smith",
+          "id": "A5064387995"
+        },
+        {
+          "name": "Adam Olsh",
+          "id": "A5032077588"
+        },
+        {
+          "name": "Julie Bergeron",
+          "id": "A5018106790"
+        },
+        {
+          "name": "Jana Zernant",
+          "id": "A5034463469"
+        },
+        {
+          "name": "Joanna E. Merriam",
+          "id": "A5017159295"
+        },
+        {
+          "name": "Bert Gold",
+          "id": "A5034167822"
+        },
+        {
+          "name": "Michael Dean",
+          "id": "A5058798835"
+        },
+        {
+          "name": "Rando Allikmets",
+          "id": "A5021548595"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    "W2162903822": {
+      "id": "W2162903822",
+      "title": "Sensorineural hearing loss in children",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "James F. Bale",
+          "id": "A5011521959"
+        },
+        {
+          "name": "Karl R. White",
+          "id": "A5113610595"
+        }
+      ],
+      "venue": "The Lancet"
+    },
+    "W2565152113": {
+      "id": "W2565152113",
+      "title": "Atypical hemolytic uremic syndrome and C3 glomerulopathy: conclusions from a \u201cKidney Disease: Improving Global Outcomes\u201d (KDIGO) Controversies Conference",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Timothy H.J. Goodship",
+          "id": "A5109434363"
+        },
+        {
+          "name": "H. Terence Cook",
+          "id": "A5102879182"
+        },
+        {
+          "name": "F\u00e1di Fakhouri",
+          "id": "A5091587971"
+        },
+        {
+          "name": "Fernando C. Fervenza",
+          "id": "A5073207965"
+        },
+        {
+          "name": "V\u00e9ronique Fr\u00e9meaux\u2010Bacchi",
+          "id": "A5025683973"
+        },
+        {
+          "name": "David Kavanagh",
+          "id": "A5030805478"
+        },
+        {
+          "name": "Carla Nester",
+          "id": "A5042194566"
+        },
+        {
+          "name": "Marina Noris",
+          "id": "A5106670144"
+        },
+        {
+          "name": "Matthew C. Pickering",
+          "id": "A5091493868"
+        },
+        {
+          "name": "Santiago Rodr\u0131\u0301guez de C\u00f3rdoba",
+          "id": "A5052276722"
+        },
+        {
+          "name": "Lubka T. Roumenina",
+          "id": "A5051276814"
+        },
+        {
+          "name": "Sanjeev Sethi",
+          "id": "A5070946918"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Charlie E. Alpers",
+          "id": "A5075817868"
+        },
+        {
+          "name": "Gerald B. Appel",
+          "id": "A5113906923"
+        },
+        {
+          "name": "Gianluigi Ardissino",
+          "id": "A5072547290"
+        },
+        {
+          "name": "Gema Ariceta",
+          "id": "A5003429051"
+        },
+        {
+          "name": "Mustafa Ar\u0131c\u0131",
+          "id": "A5074367564"
+        },
+        {
+          "name": "Arvind Bagga",
+          "id": "A5069538810"
+        },
+        {
+          "name": "Ingeborg M. Bajema",
+          "id": "A5077186159"
+        },
+        {
+          "name": "Miguel Blasco",
+          "id": "A5061394221"
+        },
+        {
+          "name": "Linda Burke",
+          "id": "A5051680306"
+        },
+        {
+          "name": "Thomas Cairns",
+          "id": "A5108790669"
+        },
+        {
+          "name": "M.C. Carratal\u00e1",
+          "id": "A5045048713"
+        },
+        {
+          "name": "Vivette D. D\u2019Agati",
+          "id": "A5108999347"
+        },
+        {
+          "name": "Mohamed R. Daha",
+          "id": "A5060480065"
+        },
+        {
+          "name": "An S. De Vriese",
+          "id": "A5019721633"
+        },
+        {
+          "name": "Marie\u2010Agn\u00e8s Dragon\u2010Durey",
+          "id": "A5076339052"
+        },
+        {
+          "name": "Agnes B. Fogo",
+          "id": "A5031318134"
+        },
+        {
+          "name": "Miriam Galbusera",
+          "id": "A5040397073"
+        },
+        {
+          "name": "Daniel P. Gale",
+          "id": "A5063320031"
+        },
+        {
+          "name": "Hermann Haller",
+          "id": "A5007174365"
+        },
+        {
+          "name": "Sally Johnson",
+          "id": "A5042769951"
+        },
+        {
+          "name": "Mih\u00e1ly J\u00f3zsi",
+          "id": "A5011905794"
+        },
+        {
+          "name": "Diana Karpman",
+          "id": "A5079696999"
+        },
+        {
+          "name": "Lynne D. Lanning",
+          "id": "A5004592436"
+        },
+        {
+          "name": "Moglie Le Quintrec",
+          "id": "A5048364347"
+        },
+        {
+          "name": "Christoph Licht",
+          "id": "A5082634620"
+        },
+        {
+          "name": "Chantal Loirat",
+          "id": "A5001037667"
+        },
+        {
+          "name": "Francisco Monfort",
+          "id": "A5035838919"
+        },
+        {
+          "name": "B. Paul Morgan",
+          "id": "A5090102833"
+        },
+        {
+          "name": "Laure-H\u00e9l\u00e8ne No\u00ebl",
+          "id": "A5113664061"
+        },
+        {
+          "name": "Michelle M. O\u2019Shaughnessy",
+          "id": "A5003276959"
+        },
+        {
+          "name": "Marion Rabant",
+          "id": "A5063151802"
+        },
+        {
+          "name": "\u00c9ric Rondeau",
+          "id": "A5010002554"
+        },
+        {
+          "name": "Piero Ruggenenti",
+          "id": "A5108377307"
+        },
+        {
+          "name": "Neil Sheerin",
+          "id": "A5020275216"
+        },
+        {
+          "name": "Jenna L.H. Smith",
+          "id": "A5110463795"
+        },
+        {
+          "name": "Fabrizio Spoleti",
+          "id": "A5020546921"
+        },
+        {
+          "name": "Joshua M. Thurman",
+          "id": "A5069245735"
+        },
+        {
+          "name": "Nicole C. A. J. van de Kar",
+          "id": "A5044473672"
+        },
+        {
+          "name": "Marina Vivarelli",
+          "id": "A5062090833"
+        },
+        {
+          "name": "Peter F. Zipfel",
+          "id": "A5067381987"
+        }
+      ],
+      "venue": "Kidney International"
+    },
+    "W2167821466": {
+      "id": "W2167821466",
+      "title": "C3 glomerulopathy: consensus report",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Matthew C. Pickering",
+          "id": "A5091493868"
+        },
+        {
+          "name": "Vivette D. D\u2019Agati",
+          "id": "A5108999347"
+        },
+        {
+          "name": "Carla Nester",
+          "id": "A5042194566"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Mark Haas",
+          "id": "A5062176433"
+        },
+        {
+          "name": "Gerald B. Appel",
+          "id": "A5113906923"
+        },
+        {
+          "name": "Charles E. Alpers",
+          "id": "A5022177889"
+        },
+        {
+          "name": "Ingeborg M. Bajema",
+          "id": "A5077186159"
+        },
+        {
+          "name": "Camille L. Bedrosian",
+          "id": "A5030996416"
+        },
+        {
+          "name": "Michael Braun",
+          "id": "A5006093295"
+        },
+        {
+          "name": "Mittie K. Doyle",
+          "id": "A5051248102"
+        },
+        {
+          "name": "F\u00e1di Fakhouri",
+          "id": "A5091587971"
+        },
+        {
+          "name": "Fernando C. Fervenza",
+          "id": "A5073207965"
+        },
+        {
+          "name": "Agnes B. Fogo",
+          "id": "A5031318134"
+        },
+        {
+          "name": "V\u00e9ronique Fr\u00e9meaux\u2010Bacchi",
+          "id": "A5025683973"
+        },
+        {
+          "name": "Daniel P. Gale",
+          "id": "A5063320031"
+        },
+        {
+          "name": "Elena Goicoechea de Jorge",
+          "id": "A5019038656"
+        },
+        {
+          "name": "Gene Griffin",
+          "id": "A5034023176"
+        },
+        {
+          "name": "Claire L. Harris",
+          "id": "A5039030101"
+        },
+        {
+          "name": "V. Michael Holers",
+          "id": "A5040063597"
+        },
+        {
+          "name": "Sally Johnson",
+          "id": "A5042769951"
+        },
+        {
+          "name": "Peter Lavin",
+          "id": "A5108510337"
+        },
+        {
+          "name": "Nicholas Medjeral\u2010Thomas",
+          "id": "A5054848003"
+        },
+        {
+          "name": "B. Paul Morgan",
+          "id": "A5090102833"
+        },
+        {
+          "name": "Cynthia C. Nast",
+          "id": "A5080390560"
+        },
+        {
+          "name": "Laure-H\u00e9l\u00e8ne No\u00ebl",
+          "id": "A5113664061"
+        },
+        {
+          "name": "D K Peters",
+          "id": "A5109394162"
+        },
+        {
+          "name": "Santiago Rodr\u0131\u0301guez de C\u00f3rdoba",
+          "id": "A5052276722"
+        },
+        {
+          "name": "Aude Servais",
+          "id": "A5043206935"
+        },
+        {
+          "name": "Sanjeev Sethi",
+          "id": "A5070946918"
+        },
+        {
+          "name": "Wen-Chao Song",
+          "id": "A5111446028"
+        },
+        {
+          "name": "Paul P. Tamburini",
+          "id": "A5066510235"
+        },
+        {
+          "name": "Joshua M. Thurman",
+          "id": "A5069245735"
+        },
+        {
+          "name": "Michael Zavros",
+          "id": "A5021359801"
+        },
+        {
+          "name": "H. Terence Cook",
+          "id": "A5102879182"
+        }
+      ],
+      "venue": "Kidney International"
+    },
+    "W1547443377": {
+      "id": "W1547443377",
+      "title": "A candidate prostate cancer susceptibility gene at chromosome 17p",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Sean V. Tavtigian",
+          "id": "A5057093670"
+        },
+        {
+          "name": "Jacques Simard",
+          "id": "A5058755438"
+        },
+        {
+          "name": "David H.F. Teng",
+          "id": "A5113493595"
+        },
+        {
+          "name": "Vicki Abtin",
+          "id": "A5004457996"
+        },
+        {
+          "name": "Michelle Baumgard",
+          "id": "A5061617602"
+        },
+        {
+          "name": "Audrey Beck",
+          "id": "A5091500421"
+        },
+        {
+          "name": "Nicola J. Camp",
+          "id": "A5070882400"
+        },
+        {
+          "name": "Arlene R. Carillo",
+          "id": "A5055633655"
+        },
+        {
+          "name": "Yang Chen",
+          "id": "A5100350371"
+        },
+        {
+          "name": "Priya Dayananth",
+          "id": "A5020374023"
+        },
+        {
+          "name": "Marc Desrochers",
+          "id": "A5110160310"
+        },
+        {
+          "name": "Martine Dumont",
+          "id": "A5058111076"
+        },
+        {
+          "name": "James M. Farnham",
+          "id": "A5043499710"
+        },
+        {
+          "name": "David A. Frank",
+          "id": "A5047880272"
+        },
+        {
+          "name": "Cheryl A. Frye",
+          "id": "A5009051197"
+        },
+        {
+          "name": "Siavash Ghaffari",
+          "id": "A5004386932"
+        },
+        {
+          "name": "Jamila Gupte",
+          "id": "A5070199717"
+        },
+        {
+          "name": "Rong Hu",
+          "id": "A5102995398"
+        },
+        {
+          "name": "Diana Iliev",
+          "id": "A5040919885"
+        },
+        {
+          "name": "Teresa Janecki",
+          "id": "A5043784386"
+        },
+        {
+          "name": "Edward N. Kort",
+          "id": "A5026771241"
+        },
+        {
+          "name": "Kirsten E. Laity",
+          "id": "A5036998833"
+        },
+        {
+          "name": "Amber Leavitt",
+          "id": "A5046313990"
+        },
+        {
+          "name": "Gilles Leblanc",
+          "id": "A5109151805"
+        },
+        {
+          "name": "Jodi McArthur-Morrison",
+          "id": "A5027589392"
+        },
+        {
+          "name": "Amy Pederson",
+          "id": "A5112157221"
+        },
+        {
+          "name": "Brandon Penn",
+          "id": "A5043451130"
+        },
+        {
+          "name": "K. Peterson",
+          "id": "A5035025373"
+        },
+        {
+          "name": "Julia Reid",
+          "id": "A5114010273"
+        },
+        {
+          "name": "Samuel Richards",
+          "id": "A5039428299"
+        },
+        {
+          "name": "Marianne Schroeder",
+          "id": "A5102056647"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Sarah C. Snyder",
+          "id": "A5029576743"
+        },
+        {
+          "name": "Brad Swedlund",
+          "id": "A5108360968"
+        },
+        {
+          "name": "Jeffrey Swensen",
+          "id": "A5051355838"
+        },
+        {
+          "name": "Alun Thomas",
+          "id": "A5070286540"
+        },
+        {
+          "name": "Martine Tranchant",
+          "id": "A5033443686"
+        },
+        {
+          "name": "Ann-Marie Woodland",
+          "id": "A5058266659"
+        },
+        {
+          "name": "Fernand Labrie",
+          "id": "A5111984456"
+        },
+        {
+          "name": "Mark H. Skolnick",
+          "id": "A5110003746"
+        },
+        {
+          "name": "Susan L. Neuhausen",
+          "id": "A5062123247"
+        },
+        {
+          "name": "Johanna M. Rommens",
+          "id": "A5008426210"
+        },
+        {
+          "name": "Lisa Cannon\u2010Albright",
+          "id": "A5053283545"
+        }
+      ],
+      "venue": "Nature Genetics"
+    },
+    "W2038502254": {
+      "id": "W2038502254",
+      "title": "Usher Syndrome 1D and Nonsyndromic Autosomal Recessive Deafness DFNB12 Are Caused by Allelic Mutations of the Novel Cadherin-Like Gene CDH23",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Julie M. Bork",
+          "id": "A5037360012"
+        },
+        {
+          "name": "Linda Peters",
+          "id": "A5017311275"
+        },
+        {
+          "name": "Saima Riazuddin",
+          "id": "A5084826407"
+        },
+        {
+          "name": "Steven L. Bernstein",
+          "id": "A5022641703"
+        },
+        {
+          "name": "Zubair M. Ahmed",
+          "id": "A5046486731"
+        },
+        {
+          "name": "Seth Ness",
+          "id": "A5063742102"
+        },
+        {
+          "name": "Robert C. Polomeno",
+          "id": "A5111523165"
+        },
+        {
+          "name": "Arabandi Ramesh",
+          "id": "A5103764231"
+        },
+        {
+          "name": "Melvin D. Schloss",
+          "id": "A5111851689"
+        },
+        {
+          "name": "C.R. Srikumari Srisailpathy",
+          "id": "A5090836799"
+        },
+        {
+          "name": "Sigrid Wayne",
+          "id": "A5056045080"
+        },
+        {
+          "name": "Susan Bellman",
+          "id": "A5113545615"
+        },
+        {
+          "name": "Dilip Desmukh",
+          "id": "A5039140546"
+        },
+        {
+          "name": "Zahoor Ahmed",
+          "id": "A5109481876"
+        },
+        {
+          "name": "Shaheen N. Khan",
+          "id": "A5108227268"
+        },
+        {
+          "name": "Vazken M. Der Kaloustian",
+          "id": "A5070186890"
+        },
+        {
+          "name": "X. Cindy Li",
+          "id": "A5047242710"
+        },
+        {
+          "name": "Anil K. Lalwani",
+          "id": "A5032381547"
+        },
+        {
+          "name": "Sheikh Riazuddin",
+          "id": "A5056512930"
+        },
+        {
+          "name": "Maria Bitner\u2010Glindzicz",
+          "id": "A5064079699"
+        },
+        {
+          "name": "Walter E. Nance",
+          "id": "A5111927320"
+        },
+        {
+          "name": "Xue Zhong Liu",
+          "id": "A5101956657"
+        },
+        {
+          "name": "Graeme Wistow",
+          "id": "A5038558401"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Andrew J. Griffith",
+          "id": "A5004522034"
+        },
+        {
+          "name": "Edward R. Wilcox",
+          "id": "A5037912824"
+        },
+        {
+          "name": "Thomas B. Friedman",
+          "id": "A5013409747"
+        },
+        {
+          "name": "Robert J. Morell",
+          "id": "A5009730551"
+        }
+      ],
+      "venue": "The American Journal of Human Genetics"
+    },
+    "W2163451904": {
+      "id": "W2163451904",
+      "title": "GJB2 Mutations and Degree of Hearing Loss: A Multicenter Study",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Rikkert L. Snoeckx",
+          "id": "A5076085585"
+        },
+        {
+          "name": "P.L.M. Huygen",
+          "id": "A5088797017"
+        },
+        {
+          "name": "Delphine Feldmann",
+          "id": "A5108443673"
+        },
+        {
+          "name": "Sandrine Marlin",
+          "id": "A5037136875"
+        },
+        {
+          "name": "Fran\u00e7oise Denoyelle",
+          "id": "A5079292430"
+        },
+        {
+          "name": "J Waligora",
+          "id": "A5112143170"
+        },
+        {
+          "name": "Ma\u0142gorzata Mueller\u2010Malesi\u0144ska",
+          "id": "A5112251875"
+        },
+        {
+          "name": "Agnieszka Pollak",
+          "id": "A5071343123"
+        },
+        {
+          "name": "Rafa\u0142 P\u0142oski",
+          "id": "A5040479770"
+        },
+        {
+          "name": "Alessandra Murgia",
+          "id": "A5078235301"
+        },
+        {
+          "name": "Eva Orzan",
+          "id": "A5054020119"
+        },
+        {
+          "name": "Pierangela Castorina",
+          "id": "A5026344312"
+        },
+        {
+          "name": "Umberto Ambrosetti",
+          "id": "A5086356170"
+        },
+        {
+          "name": "Ewa Nowakowska-Szyrwi\u0144ska",
+          "id": "A5021800558"
+        },
+        {
+          "name": "Jerzy Bal",
+          "id": "A5037575150"
+        },
+        {
+          "name": "Wojciech Wiszniewski",
+          "id": "A5022139322"
+        },
+        {
+          "name": "Andreas Janecke",
+          "id": "A5065706727"
+        },
+        {
+          "name": "Doris Nekahm-Heis",
+          "id": "A5036274899"
+        },
+        {
+          "name": "Pavel Seeman",
+          "id": "A5107369577"
+        },
+        {
+          "name": "O. Bendov\u00e1",
+          "id": "A5020378441"
+        },
+        {
+          "name": "Margaret A. Kenna",
+          "id": "A5029998515"
+        },
+        {
+          "name": "Anna Frangulov",
+          "id": "A5036217371"
+        },
+        {
+          "name": "Heidi L. Rehm",
+          "id": "A5014144046"
+        },
+        {
+          "name": "Mustafa Tekin",
+          "id": "A5075112348"
+        },
+        {
+          "name": "Arma\u011fan \u0130ncesulu",
+          "id": "A5065675612"
+        },
+        {
+          "name": "Hans\u2010Henrik M. Dahl",
+          "id": "A5111966882"
+        },
+        {
+          "name": "Desir\u00e9e du Sart",
+          "id": "A5060421217"
+        },
+        {
+          "name": "Lucy Jenkins",
+          "id": "A5113834578"
+        },
+        {
+          "name": "Deirdre Lucas",
+          "id": "A5051016228"
+        },
+        {
+          "name": "Maria Bitner\u2010Glindzicz",
+          "id": "A5064079699"
+        },
+        {
+          "name": "Karen B. Avraham",
+          "id": "A5003471479"
+        },
+        {
+          "name": "Zippora Brownstein",
+          "id": "A5029849248"
+        },
+        {
+          "name": "Ignacio del Castillo",
+          "id": "A5067573711"
+        },
+        {
+          "name": "Felipe Moreno",
+          "id": "A5108511090"
+        },
+        {
+          "name": "Nikolaus Blin",
+          "id": "A5079519045"
+        },
+        {
+          "name": "Markus Pfister",
+          "id": "A5111986717"
+        },
+        {
+          "name": "Istv\u00e1n Sziklai",
+          "id": "A5113688706"
+        },
+        {
+          "name": "T\u00edmea T\u00f3th",
+          "id": "A5054868376"
+        },
+        {
+          "name": "Philip M. Kelley",
+          "id": "A5110106926"
+        },
+        {
+          "name": "Edward Cohn",
+          "id": "A5111488474"
+        },
+        {
+          "name": "Lionel Van Maldergem",
+          "id": "A5051203135"
+        },
+        {
+          "name": "Pascale Hilbert",
+          "id": "A5016348712"
+        },
+        {
+          "name": "Anne\u2010Fran\u00e7oise Roux",
+          "id": "A5023597827"
+        },
+        {
+          "name": "M. Mondain",
+          "id": "A5070000596"
+        },
+        {
+          "name": "Lies H. Hoefsloot",
+          "id": "A5105919968"
+        },
+        {
+          "name": "Cor W. R. J. Cremers",
+          "id": "A5109275573"
+        },
+        {
+          "name": "Tuija L\u00f6pp\u00f6nen",
+          "id": "A5032238031"
+        },
+        {
+          "name": "Heikki L\u00f6pp\u00f6nen",
+          "id": "A5053982660"
+        },
+        {
+          "name": "Agnete Parving",
+          "id": "A5008739304"
+        },
+        {
+          "name": "Karen Gr\u00f8nskov",
+          "id": "A5065901998"
+        },
+        {
+          "name": "Iris Schrijver",
+          "id": "A5113785588"
+        },
+        {
+          "name": "Joseph Roberson",
+          "id": "A5109228500"
+        },
+        {
+          "name": "Francesca Gualandi",
+          "id": "A5039883684"
+        },
+        {
+          "name": "Alessandro Martini",
+          "id": "A5049237082"
+        },
+        {
+          "name": "Genevi\u00e8ve Lina\u2010Granade",
+          "id": "A5056697150"
+        },
+        {
+          "name": "Nathalie Pallares\u2010Ruiz",
+          "id": "A5109932961"
+        },
+        {
+          "name": "C\u00e9u Correia",
+          "id": "A5033944595"
+        },
+        {
+          "name": "Gra\u00e7a Fialho",
+          "id": "A5025499371"
+        },
+        {
+          "name": "Kim Cryns",
+          "id": "A5044341691"
+        },
+        {
+          "name": "Nele Hilgert",
+          "id": "A5069545375"
+        },
+        {
+          "name": "Paul Van de Heyning",
+          "id": "A5028552495"
+        },
+        {
+          "name": "Carla Nishimura",
+          "id": "A5108808846"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Guy Van Camp",
+          "id": "A5000137807"
+        }
+      ],
+      "venue": "The American Journal of Human Genetics"
+    },
+    "W2027400408": {
+      "id": "W2027400408",
+      "title": "Congenital Cytomegalovirus Infection",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Sergio Stagno",
+          "id": "A5011317137"
+        },
+        {
+          "name": "David W. Reynolds",
+          "id": "A5103060743"
+        },
+        {
+          "name": "Eng\u2010Shang Huang",
+          "id": "A5107521325"
+        },
+        {
+          "name": "Shirley D. Thames",
+          "id": "A5024538849"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Charles A. Alford",
+          "id": "A5111649814"
+        }
+      ],
+      "venue": "New England Journal of Medicine"
+    },
+    "W2293733321": {
+      "id": "W2293733321",
+      "title": "Comprehensive genetic testing in the clinical evaluation of 1119 patients with hearing loss",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Christina Sloan-Heggen",
+          "id": "A5091059541"
+        },
+        {
+          "name": "Amanda O. Bierer",
+          "id": "A5058661385"
+        },
+        {
+          "name": "A. Eliot Shearer",
+          "id": "A5003881844"
+        },
+        {
+          "name": "Diana L. Kolbe",
+          "id": "A5103097941"
+        },
+        {
+          "name": "Carla Nishimura",
+          "id": "A5108808846"
+        },
+        {
+          "name": "Kathy L. Frees",
+          "id": "A5111887357"
+        },
+        {
+          "name": "Sean S. Ephraim",
+          "id": "A5071643719"
+        },
+        {
+          "name": "Seiji B. Shibata",
+          "id": "A5051492153"
+        },
+        {
+          "name": "Kevin T. Booth",
+          "id": "A5069908905"
+        },
+        {
+          "name": "Colleen A. Campbell",
+          "id": "A5058256064"
+        },
+        {
+          "name": "Paul T. Ranum",
+          "id": "A5080370325"
+        },
+        {
+          "name": "Amy E. Weaver",
+          "id": "A5111784338"
+        },
+        {
+          "name": "E. Ann Black-Ziegelbein",
+          "id": "A5044862445"
+        },
+        {
+          "name": "Donghong Wang",
+          "id": "A5101449497"
+        },
+        {
+          "name": "H\u00e9la Azaiez",
+          "id": "A5070408444"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        }
+      ],
+      "venue": "Human Genetics"
+    },
+    "W2138261854": {
+      "id": "W2138261854",
+      "title": "Forty-six genes causing nonsyndromic hearing impairment: Which ones should be analyzed in DNA diagnostics?",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Nele Hilgert",
+          "id": "A5069545375"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Guy Van Camp",
+          "id": "A5000137807"
+        }
+      ],
+      "venue": "Mutation Research/Reviews in Mutation Research"
+    },
+    "W2107949418": {
+      "id": "W2107949418",
+      "title": "An international effort towards developing standards for best practices in analysis, interpretation and reporting of clinical genome sequencing results in the CLARITY Challenge",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Catherine A. Brownstein",
+          "id": "A5046590447"
+        },
+        {
+          "name": "Alan H. Beggs",
+          "id": "A5056568766"
+        },
+        {
+          "name": "Nils Homer",
+          "id": "A5090073148"
+        },
+        {
+          "name": "Barry Merriman",
+          "id": "A5069489430"
+        },
+        {
+          "name": "Timothy W. Yu",
+          "id": "A5067147799"
+        },
+        {
+          "name": "Katherine C Flannery",
+          "id": "A5013967139"
+        },
+        {
+          "name": "Elizabeth T. DeChene",
+          "id": "A5075946829"
+        },
+        {
+          "name": "Meghan C. Towne",
+          "id": "A5074881951"
+        },
+        {
+          "name": "Sarah Savage",
+          "id": "A5058883349"
+        },
+        {
+          "name": "Emily Price",
+          "id": "A5061041576"
+        },
+        {
+          "name": "Ingrid A. Holm",
+          "id": "A5002943479"
+        },
+        {
+          "name": "Lovelace J. Luquette",
+          "id": "A5075646428"
+        },
+        {
+          "name": "Elaine Lyon",
+          "id": "A5108794005"
+        },
+        {
+          "name": "Joseph A. Majzoub",
+          "id": "A5078650087"
+        },
+        {
+          "name": "Peter Neupert",
+          "id": "A5063632745"
+        },
+        {
+          "name": "David P. McCallie",
+          "id": "A5108556687"
+        },
+        {
+          "name": "Peter Szolovits",
+          "id": "A5006650843"
+        },
+        {
+          "name": "Huntington F. Willard",
+          "id": "A5109872049"
+        },
+        {
+          "name": "Nancy J. Mendelsohn",
+          "id": "A5031505605"
+        },
+        {
+          "name": "Renee Temme",
+          "id": "A5007681707"
+        },
+        {
+          "name": "Richard S. Finkel",
+          "id": "A5084459237"
+        },
+        {
+          "name": "Sabrina W. Yum",
+          "id": "A5022558831"
+        },
+        {
+          "name": "L\u012bvija Medne",
+          "id": "A5021259419"
+        },
+        {
+          "name": "Shamil Sunyaev",
+          "id": "A5068462201"
+        },
+        {
+          "name": "Ivan Adzhubey",
+          "id": "A5013412457"
+        },
+        {
+          "name": "Christopher A. Cassa",
+          "id": "A5005609497"
+        },
+        {
+          "name": "Paul IW de Bakker",
+          "id": "A5100923018"
+        },
+        {
+          "name": "Hatice Duzkale",
+          "id": "A5061687379"
+        },
+        {
+          "name": "Piotr Dworzy\u0144ski",
+          "id": "A5070049667"
+        },
+        {
+          "name": "William G. Fairbrother",
+          "id": "A5040598548"
+        },
+        {
+          "name": "Laurent C. Francioli",
+          "id": "A5050209066"
+        },
+        {
+          "name": "Birgit Funke",
+          "id": "A5082601374"
+        },
+        {
+          "name": "Monica A. Giovanni",
+          "id": "A5052909633"
+        },
+        {
+          "name": "Robert E. Handsaker",
+          "id": "A5054867399"
+        },
+        {
+          "name": "Kasper Lage",
+          "id": "A5054564806"
+        },
+        {
+          "name": "Matthew S. Lebo",
+          "id": "A5080516152"
+        },
+        {
+          "name": "Monkol Lek",
+          "id": "A5021736013"
+        },
+        {
+          "name": "Ignaty Leshchiner",
+          "id": "A5061172218"
+        },
+        {
+          "name": "Daniel G. MacArthur",
+          "id": "A5003038390"
+        },
+        {
+          "name": "Heather M. McLaughlin",
+          "id": "A5038545410"
+        },
+        {
+          "name": "Michael F. Murray",
+          "id": "A5057563096"
+        },
+        {
+          "name": "Tune H. Pers",
+          "id": "A5069069657"
+        },
+        {
+          "name": "Paz Polak",
+          "id": "A5025870661"
+        },
+        {
+          "name": "Soumya Raychaudhuri",
+          "id": "A5081489856"
+        },
+        {
+          "name": "Heidi L. Rehm",
+          "id": "A5014144046"
+        },
+        {
+          "name": "Rachel Soemedi",
+          "id": "A5078260116"
+        },
+        {
+          "name": "Nathan O. Stitziel",
+          "id": "A5068755630"
+        },
+        {
+          "name": "Sara Vestecka",
+          "id": "A5006686570"
+        },
+        {
+          "name": "Jochen Supper",
+          "id": "A5110029974"
+        },
+        {
+          "name": "Claudia Gugenmus",
+          "id": "A5016419106"
+        },
+        {
+          "name": "Bernward Klocke",
+          "id": "A5089818830"
+        },
+        {
+          "name": "Alexander Hahn",
+          "id": "A5023166699"
+        },
+        {
+          "name": "Max Schubach",
+          "id": "A5060365341"
+        },
+        {
+          "name": "Mortiz Menzel",
+          "id": "A5020205379"
+        },
+        {
+          "name": "Saskia Biskup",
+          "id": "A5052522766"
+        },
+        {
+          "name": "Peter Freisinger",
+          "id": "A5059837276"
+        },
+        {
+          "name": "Mario C. Deng",
+          "id": "A5039675166"
+        },
+        {
+          "name": "Martin Braun",
+          "id": "A5113603244"
+        },
+        {
+          "name": "Sven Perner",
+          "id": "A5068738028"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Janeen L Andorf",
+          "id": "A5075526981"
+        },
+        {
+          "name": "Jian Huang",
+          "id": "A5012067697"
+        },
+        {
+          "name": "Kelli K. Ryckman",
+          "id": "A5067881298"
+        },
+        {
+          "name": "Val C. Sheffield",
+          "id": "A5048989892"
+        },
+        {
+          "name": "Edwin M. Stone",
+          "id": "A5080924048"
+        },
+        {
+          "name": "Thomas Bair",
+          "id": "A5073016612"
+        },
+        {
+          "name": "E. Ann Black-Ziegelbein",
+          "id": "A5044862445"
+        },
+        {
+          "name": "Terry A. Braun",
+          "id": "A5064945246"
+        },
+        {
+          "name": "Benjamin W. Darbro",
+          "id": "A5061379662"
+        },
+        {
+          "name": "Adam P. DeLuca",
+          "id": "A5087777920"
+        },
+        {
+          "name": "Diana L. Kolbe",
+          "id": "A5108095671"
+        },
+        {
+          "name": "Todd E. Scheetz",
+          "id": "A5029284998"
+        },
+        {
+          "name": "A. Eliot Shearer",
+          "id": "A5111508710"
+        },
+        {
+          "name": "Rama Sompallae",
+          "id": "A5017961636"
+        },
+        {
+          "name": "Kai Wang",
+          "id": "A5100437036"
+        },
+        {
+          "name": "Alexander G. Bassuk",
+          "id": "A5033502887"
+        },
+        {
+          "name": "Erik Edens",
+          "id": "A5006428993"
+        },
+        {
+          "name": "Katherine D. Mathews",
+          "id": "A5055105180"
+        },
+        {
+          "name": "Steven A. Moore",
+          "id": "A5047931002"
+        },
+        {
+          "name": "Oleg A. Shchelochkov",
+          "id": "A5110229750"
+        },
+        {
+          "name": "Pamela Trapane",
+          "id": "A5067658607"
+        },
+        {
+          "name": "Aaron Bossler",
+          "id": "A5083829432"
+        },
+        {
+          "name": "Colleen A. Campbell",
+          "id": "A5058256064"
+        },
+        {
+          "name": "Jonathan W. Heusel",
+          "id": "A5062040310"
+        },
+        {
+          "name": "Anne E. Kwitek",
+          "id": "A5080101531"
+        },
+        {
+          "name": "Tara Maga",
+          "id": "A5023776733"
+        },
+        {
+          "name": "Karin Panzer",
+          "id": "A5112397333"
+        },
+        {
+          "name": "Thomas H. Wassink",
+          "id": "A5059047636"
+        },
+        {
+          "name": "Douglas J. Van Daele",
+          "id": "A5011961927"
+        },
+        {
+          "name": "H\u00e9la Azaiez",
+          "id": "A5070408444"
+        },
+        {
+          "name": "Kevin T. Booth",
+          "id": "A5069908905"
+        },
+        {
+          "name": "Nic Meyer",
+          "id": "A5068937777"
+        },
+        {
+          "name": "Michael M. Segal",
+          "id": "A5000859866"
+        },
+        {
+          "name": "Marc S. Williams",
+          "id": "A5009326615"
+        },
+        {
+          "name": "Gerard Tromp",
+          "id": "A5062230681"
+        },
+        {
+          "name": "Peter White",
+          "id": "A5090966761"
+        },
+        {
+          "name": "Donald J. Corsmeier",
+          "id": "A5081538148"
+        },
+        {
+          "name": "Sara Fitzgerald\u2010Butt",
+          "id": "A5046179146"
+        },
+        {
+          "name": "Gail E. Herman",
+          "id": "A5108794761"
+        },
+        {
+          "name": "Devon Lamb-Thrush",
+          "id": "A5043303962"
+        }
+      ],
+      "venue": "Genome biology"
+    },
+    "W33964925": {
+      "id": "W33964925",
+      "title": "Congenital hearing loss",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Anna M.H. Korver",
+          "id": "A5065038958"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Guy Van Camp",
+          "id": "A5000137807"
+        },
+        {
+          "name": "Mark R. Schleiss",
+          "id": "A5079669354"
+        },
+        {
+          "name": "Maria Bitner\u2010Glindzicz",
+          "id": "A5064079699"
+        },
+        {
+          "name": "Lawrence R. Lustig",
+          "id": "A5025343069"
+        },
+        {
+          "name": "Shin\u2010ichi Usami",
+          "id": "A5071986751"
+        },
+        {
+          "name": "An Boudewyns",
+          "id": "A5107115814"
+        }
+      ],
+      "venue": "Nature Reviews Disease Primers"
+    },
+    "W2134371698": {
+      "id": "W2134371698",
+      "title": "SIX1 mutations cause branchio-oto-renal syndrome by disruption of EYA1\u2013SIX1\u2013DNA complexes",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Rainer Ruf",
+          "id": "A5047620695"
+        },
+        {
+          "name": "Pin\u2010Xian Xu",
+          "id": "A5065789452"
+        },
+        {
+          "name": "Derek Silvius",
+          "id": "A5019247983"
+        },
+        {
+          "name": "Edgar A. Otto",
+          "id": "A5064586974"
+        },
+        {
+          "name": "Frank Beekmann",
+          "id": "A5089024986"
+        },
+        {
+          "name": "Ulla Muerb",
+          "id": "A5030066924"
+        },
+        {
+          "name": "Shrawan Kumar",
+          "id": "A5018733955"
+        },
+        {
+          "name": "Thomas J. Neuhaus",
+          "id": "A5113839168"
+        },
+        {
+          "name": "Markus J. Kemper",
+          "id": "A5110194722"
+        },
+        {
+          "name": "Richard M. Raymond",
+          "id": "A5010888737"
+        },
+        {
+          "name": "Patrick D. Brophy",
+          "id": "A5078259028"
+        },
+        {
+          "name": "Jennifer Berkman",
+          "id": "A5111710078"
+        },
+        {
+          "name": "Michael Gattas",
+          "id": "A5066619883"
+        },
+        {
+          "name": "V.J. Hyland",
+          "id": "A5057812226"
+        },
+        {
+          "name": "Eva-Maria Ruf",
+          "id": "A5001950428"
+        },
+        {
+          "name": "Charles E. Schwartz",
+          "id": "A5072815495"
+        },
+        {
+          "name": "Eugene H. Chang",
+          "id": "A5047622778"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Constantine A. Stratakis",
+          "id": "A5031897654"
+        },
+        {
+          "name": "Dominique Weil",
+          "id": "A5067521296"
+        },
+        {
+          "name": "Christine Petit",
+          "id": "A5072048458"
+        },
+        {
+          "name": "Friedhelm Hildebrandt",
+          "id": "A5079173500"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    "W2028109405": {
+      "id": "W2028109405",
+      "title": "China: A New History.",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "John \u039a. Fairbank",
+          "id": "A5017046873"
+        }
+      ],
+      "venue": "The American Historical Review"
+    },
+    "W2162002618": {
+      "id": "W2162002618",
+      "title": "Membranoproliferative Glomerulonephritis Type II (Dense Deposit Disease)",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Gerald B. Appel",
+          "id": "A5113906923"
+        },
+        {
+          "name": "H. Terence Cook",
+          "id": "A5102879182"
+        },
+        {
+          "name": "Gregory S. Hageman",
+          "id": "A5077768447"
+        },
+        {
+          "name": "J. Charles Jennette",
+          "id": "A5066638505"
+        },
+        {
+          "name": "Michael Kashgarian",
+          "id": "A5082597667"
+        },
+        {
+          "name": "Michael Kirschfink",
+          "id": "A5067373544"
+        },
+        {
+          "name": "John D. Lambris",
+          "id": "A5074301183"
+        },
+        {
+          "name": "Lynne D. Lanning",
+          "id": "A5004592436"
+        },
+        {
+          "name": "Hans Lutz",
+          "id": "A5111616691"
+        },
+        {
+          "name": "Seppo Meri",
+          "id": "A5025820462"
+        },
+        {
+          "name": "Noel R. Rose",
+          "id": "A5111434805"
+        },
+        {
+          "name": "David J. Salant",
+          "id": "A5062211530"
+        },
+        {
+          "name": "Sanjeev Sethi",
+          "id": "A5070946918"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "William E. Smoyer",
+          "id": "A5107929684"
+        },
+        {
+          "name": "Hope F. Tully",
+          "id": "A5012165208"
+        },
+        {
+          "name": "Sean P. Tully",
+          "id": "A5064420025"
+        },
+        {
+          "name": "Patrick D. Walker",
+          "id": "A5112014471"
+        },
+        {
+          "name": "Michael J. Welsh",
+          "id": "A5037321572"
+        },
+        {
+          "name": "Reinhard WuCombining Diaeresisrzner",
+          "id": "A5091534386"
+        },
+        {
+          "name": "Peter F. Zipfel",
+          "id": "A5067381987"
+        }
+      ],
+      "venue": "Journal of the American Society of Nephrology"
+    },
+    "W2107516496": {
+      "id": "W2107516496",
+      "title": "Eculizumab for Dense Deposit Disease and C3 Glomerulonephritis",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Andrew S. Bomback",
+          "id": "A5020881383"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Gaetano R. Barile",
+          "id": "A5111781018"
+        },
+        {
+          "name": "Yuzhou Zhang",
+          "id": "A5039619801"
+        },
+        {
+          "name": "Eliot Heher",
+          "id": "A5002032643"
+        },
+        {
+          "name": "Leal Herlitz",
+          "id": "A5078972851"
+        },
+        {
+          "name": "Michael B. Stokes",
+          "id": "A5030709399"
+        },
+        {
+          "name": "Glen S. Markowitz",
+          "id": "A5113502924"
+        },
+        {
+          "name": "Vivette D. D\u2019Agati",
+          "id": "A5108999347"
+        },
+        {
+          "name": "Pietro A. Canetta",
+          "id": "A5014244661"
+        },
+        {
+          "name": "Jai Radhakrishnan",
+          "id": "A5088037254"
+        },
+        {
+          "name": "Gerald B. Appel",
+          "id": "A5113906923"
+        }
+      ],
+      "venue": "Clinical Journal of the American Society of Nephrology"
+    },
+    "W2119744081": {
+      "id": "W2119744081",
+      "title": "A novel deletion involving the connexin-30 gene, del(GJB6-d13s1854), found in trans with mutations in the GJB2 gene (connexin-26) in subjects with DFNB1 non-syndromic hearing impairment",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Francisco Castillo",
+          "id": "A5101763838"
+        },
+        {
+          "name": "Montserrat Rodriguez\u2010Ballesteros",
+          "id": "A5110206487"
+        },
+        {
+          "name": "Araceli \u00c1lvarez",
+          "id": "A5113649833"
+        },
+        {
+          "name": "Tim Hutchin",
+          "id": "A5111597034"
+        },
+        {
+          "name": "Emanuela Leonardi",
+          "id": "A5030997708"
+        },
+        {
+          "name": "Camila Andr\u00e9a de Oliveira",
+          "id": "A5102803174"
+        },
+        {
+          "name": "H\u00e9la Azaiez",
+          "id": "A5070408444"
+        },
+        {
+          "name": "Zippora Brownstein",
+          "id": "A5029849248"
+        },
+        {
+          "name": "Matthew R. Avenarius",
+          "id": "A5052548628"
+        },
+        {
+          "name": "Sandrine Marlin",
+          "id": "A5037136875"
+        },
+        {
+          "name": "Arti Pandya",
+          "id": "A5010370816"
+        },
+        {
+          "name": "Hashem Shahin",
+          "id": "A5001035421"
+        },
+        {
+          "name": "Kirby Siemering",
+          "id": "A5076315512"
+        },
+        {
+          "name": "Dominique Weil",
+          "id": "A5067521296"
+        },
+        {
+          "name": "Wim Wuyts",
+          "id": "A5019374336"
+        },
+        {
+          "name": "Luis A. Aguirre",
+          "id": "A5038576534"
+        },
+        {
+          "name": "Y. Martin",
+          "id": "A5110144650"
+        },
+        {
+          "name": "Miguel A. Moreno\u2010Pelayo",
+          "id": "A5045732989"
+        },
+        {
+          "name": "Manuela Villamar",
+          "id": "A5036571057"
+        },
+        {
+          "name": "Karen B. Avraham",
+          "id": "A5003471479"
+        },
+        {
+          "name": "H H Dahl",
+          "id": "A5111490270"
+        },
+        {
+          "name": "Moien Kanaan",
+          "id": "A5063658778"
+        },
+        {
+          "name": "W E Nance",
+          "id": "A5111450614"
+        },
+        {
+          "name": "Christine Petit",
+          "id": "A5072048458"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Guy Van Camp",
+          "id": "A5000137807"
+        },
+        {
+          "name": "Edi L\u00facia Sartorato",
+          "id": "A5112790085"
+        },
+        {
+          "name": "Alessandra Murgia",
+          "id": "A5078235301"
+        },
+        {
+          "name": "Felipe Moreno",
+          "id": "A5108511090"
+        },
+        {
+          "name": "Ignacio del Castillo",
+          "id": "A5067573711"
+        }
+      ],
+      "venue": "Journal of Medical Genetics"
+    },
+    "W1968852642": {
+      "id": "W1968852642",
+      "title": "Comprehensive genetic testing for hereditary hearing loss using massively parallel sequencing",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "A. Eliot Shearer",
+          "id": "A5111508710"
+        },
+        {
+          "name": "Adam P. DeLuca",
+          "id": "A5087777920"
+        },
+        {
+          "name": "Michael S. Hildebrand",
+          "id": "A5042789080"
+        },
+        {
+          "name": "Kyle R. Taylor",
+          "id": "A5068124259"
+        },
+        {
+          "name": "Jos\u00e9 Gurrola",
+          "id": "A5052117661"
+        },
+        {
+          "name": "Stephen W. Scherer",
+          "id": "A5049296994"
+        },
+        {
+          "name": "Todd E. Scheetz",
+          "id": "A5029284998"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    "W2092609060": {
+      "id": "W2092609060",
+      "title": "Impairment of SLC17A8 Encoding Vesicular Glutamate Transporter-3, VGLUT3, Underlies Nonsyndromic Deafness DFNA25 and Inner Hair Cell Dysfunction in Null Mice",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "J\u00e9r\u00f4me Ruel",
+          "id": "A5009488770"
+        },
+        {
+          "name": "Sarah B. Emery",
+          "id": "A5108082995"
+        },
+        {
+          "name": "R\u00e9gis Nouvian",
+          "id": "A5055498615"
+        },
+        {
+          "name": "Tiphaine Bersot",
+          "id": "A5000972554"
+        },
+        {
+          "name": "B\u00e9n\u00e9dicte Amilhon",
+          "id": "A5021145306"
+        },
+        {
+          "name": "Jana M. Van Rybroek",
+          "id": "A5071232693"
+        },
+        {
+          "name": "Guy Rebillard",
+          "id": "A5113479743"
+        },
+        {
+          "name": "Marc Lenoir",
+          "id": "A5103224770"
+        },
+        {
+          "name": "Michel Eybalin",
+          "id": "A5083601425"
+        },
+        {
+          "name": "Benjamin Delprat",
+          "id": "A5087401613"
+        },
+        {
+          "name": "Theru A. Sivakumaran",
+          "id": "A5103198112"
+        },
+        {
+          "name": "Bruno Giros",
+          "id": "A5006041048"
+        },
+        {
+          "name": "Salah El Mestikawy",
+          "id": "A5018244219"
+        },
+        {
+          "name": "Tobias Moser",
+          "id": "A5063731202"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        },
+        {
+          "name": "Marci M. Lesperance",
+          "id": "A5071843040"
+        },
+        {
+          "name": "Jean\u2010Luc Puel",
+          "id": "A5008800869"
+        }
+      ],
+      "venue": "The American Journal of Human Genetics"
+    },
+    "W1977035416": {
+      "id": "W1977035416",
+      "title": "Mutations in alternative pathway complement proteins in American patients with atypical hemolytic uremic syndrome",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Tara Maga",
+          "id": "A5023776733"
+        },
+        {
+          "name": "Carla Nishimura",
+          "id": "A5108808846"
+        },
+        {
+          "name": "Amy E. Weaver",
+          "id": "A5111784338"
+        },
+        {
+          "name": "Kathy L. Frees",
+          "id": "A5111887357"
+        },
+        {
+          "name": "Richard J. Smith",
+          "id": "A5014833790"
+        }
+      ],
+      "venue": "Human Mutation"
+    },
+    "W2038326657": {
+      "id": "W2038326657",
+      "title": "Bulk Production of a New Form of sp<sup>2</sup> Carbon: Crystalline Graphene Nanoribbons",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Jessica Campos\u2010Delgado",
+          "id": "A5083980779"
+        },
+        {
+          "name": "J. M. Romo-Herrera",
+          "id": "A5061581191"
+        },
+        {
+          "name": "Xiaoting Jia",
+          "id": "A5031487602"
+        },
+        {
+          "name": "David A. Cullen",
+          "id": "A5078427681"
+        },
+        {
+          "name": "Hiroyuki Muramatsu",
+          "id": "A5042119645"
+        },
+        {
+          "name": "Yoong Ahm Kim",
+          "id": "A5005760245"
+        },
+        {
+          "name": "Takuya Hayashi",
+          "id": "A5101169121"
+        },
+        {
+          "name": "Zhifeng Ren",
+          "id": "A5101108574"
+        },
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "Yu Okuno",
+          "id": "A5090292620"
+        },
+        {
+          "name": "Tomonori Ohba",
+          "id": "A5008454124"
+        },
+        {
+          "name": "Hirofumi Kanoh",
+          "id": "A5009911148"
+        },
+        {
+          "name": "Katsumi Kaneko",
+          "id": "A5028006288"
+        },
+        {
+          "name": "Morinobu Endo",
+          "id": "A5002777558"
+        },
+        {
+          "name": "Humberto Terrones",
+          "id": "A5055072817"
+        },
+        {
+          "name": "M. S. Dresselhaus",
+          "id": "A5000793722"
+        },
+        {
+          "name": "Mauricio Terrones",
+          "id": "A5069865883"
+        }
+      ],
+      "venue": "Nano Letters"
+    },
+    "W2069143815": {
+      "id": "W2069143815",
+      "title": "Giant magnetoresistance in antiferromagnetic Co/Cu multilayers",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "S. Parkin",
+          "id": "A5035053678"
+        },
+        {
+          "name": "Z. G. Li",
+          "id": "A5053137407"
+        },
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        }
+      ],
+      "venue": "Applied Physics Letters"
+    },
+    "W2165609411": {
+      "id": "W2165609411",
+      "title": "The role of <i>T</i>\u2010stress in brittle fracture for linear elastic materials under mixed\u2010mode loading",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "M.R. Ayatollahi",
+          "id": "A5068242915"
+        },
+        {
+          "name": "M.J. Pavier",
+          "id": "A5045207963"
+        }
+      ],
+      "venue": "Fatigue & Fracture of Engineering Materials & Structures"
+    },
+    "W2081977063": {
+      "id": "W2081977063",
+      "title": "Ex-MWNTs: Graphene Sheets and Ribbons Produced by Lithium Intercalation and Exfoliation of Carbon Nanotubes",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Abraham G. Cano-M\u00e1rquez",
+          "id": "A5008850637"
+        },
+        {
+          "name": "Fernando J. Rodr\u00edguez-Mac\u00edas",
+          "id": "A5043494581"
+        },
+        {
+          "name": "Jessica Campos\u2010Delgado",
+          "id": "A5083980779"
+        },
+        {
+          "name": "Claudia G. Espinosa\u2010Gonz\u00e1lez",
+          "id": "A5010452123"
+        },
+        {
+          "name": "Ferdinando Trist\u00e1n",
+          "id": "A5063351589"
+        },
+        {
+          "name": "Daniel Ram\u00edrez\u2010Gonz\u00e1lez",
+          "id": "A5018806166"
+        },
+        {
+          "name": "David A. Cullen",
+          "id": "A5078427681"
+        },
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "Humberto Terrones",
+          "id": "A5055072817"
+        },
+        {
+          "name": "Yadira I. Vega-Cant\u00fa",
+          "id": "A5081903941"
+        }
+      ],
+      "venue": "Nano Letters"
+    },
+    "W2090000463": {
+      "id": "W2090000463",
+      "title": "Covalently bonded three-dimensional carbon nanotube solids via boron induced nanojunctions",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Daniel P. Hashim",
+          "id": "A5045396205"
+        },
+        {
+          "name": "Narayanan T. Narayanan",
+          "id": "A5048266371"
+        },
+        {
+          "name": "J. M. Romo-Herrera",
+          "id": "A5061581191"
+        },
+        {
+          "name": "David A. Cullen",
+          "id": "A5078427681"
+        },
+        {
+          "name": "Myung Gwan Hahm",
+          "id": "A5003580684"
+        },
+        {
+          "name": "Peter J. Lezzi",
+          "id": "A5030617398"
+        },
+        {
+          "name": "Joseph Suttle",
+          "id": "A5025795003"
+        },
+        {
+          "name": "Doug Kelkhoff",
+          "id": "A5080389195"
+        },
+        {
+          "name": "Emilio Mu\u00f1oz\u2010Sandoval",
+          "id": "A5048955548"
+        },
+        {
+          "name": "Sabyasachi Ganguli",
+          "id": "A5091516038"
+        },
+        {
+          "name": "Ajit K. Roy",
+          "id": "A5008990793"
+        },
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "R\u00f3bert Vajtai",
+          "id": "A5049030830"
+        },
+        {
+          "name": "Bobby G. Sumpter",
+          "id": "A5042083426"
+        },
+        {
+          "name": "Vincent Meunier",
+          "id": "A5045190286"
+        },
+        {
+          "name": "Humberto Terrones",
+          "id": "A5055072817"
+        },
+        {
+          "name": "Mauricio Terrones",
+          "id": "A5069865883"
+        },
+        {
+          "name": "Pulickel M. Ajayan",
+          "id": "A5032348918"
+        }
+      ],
+      "venue": "Scientific Reports"
+    },
+    "W1966402050": {
+      "id": "W1966402050",
+      "title": "Intercontinental Dispersal of Bacteria and Archaea by Transpacific Winds",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "Hilkka Timonen",
+          "id": "A5052541245"
+        },
+        {
+          "name": "Daniel A. Jaffe",
+          "id": "A5049067186"
+        },
+        {
+          "name": "Dale W. Griffin",
+          "id": "A5031159945"
+        },
+        {
+          "name": "Michele Birmele",
+          "id": "A5081236938"
+        },
+        {
+          "name": "K. D. Perry",
+          "id": "A5043126236"
+        },
+        {
+          "name": "Peter D. Ward",
+          "id": "A5110311834"
+        },
+        {
+          "name": "Michael S. Roberts",
+          "id": "A5064284123"
+        }
+      ],
+      "venue": "Applied and Environmental Microbiology"
+    },
+    "W4402927841": {
+      "id": "W4402927841",
+      "title": "A chiral aperiodic monotile",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "Joseph Samuel Myers",
+          "id": "A5036551729"
+        },
+        {
+          "name": "Craig S. Kaplan",
+          "id": "A5082892265"
+        },
+        {
+          "name": "Chaim Goodman-Strauss",
+          "id": "A5079268173"
+        }
+      ],
+      "venue": "Combinatorial Theory"
+    },
+    "W4400197544": {
+      "id": "W4400197544",
+      "title": "An aperiodic monotile",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "Joseph Samuel Myers",
+          "id": "A5036551729"
+        },
+        {
+          "name": "Craig S. Kaplan",
+          "id": "A5082892265"
+        },
+        {
+          "name": "Chaim Goodman-Strauss",
+          "id": "A5079268173"
+        }
+      ],
+      "venue": "Combinatorial Theory"
+    },
+    "W2064508370": {
+      "id": "W2064508370",
+      "title": "An investigation of the properties of cubic GaN grown on GaAs by plasma-assisted molecular-beam epitaxy",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "S. Strite",
+          "id": "A5113970223"
+        },
+        {
+          "name": "J. Ruan",
+          "id": "A5060263700"
+        },
+        {
+          "name": "Z. Li",
+          "id": "A5004042737"
+        },
+        {
+          "name": "Arnel Salvador",
+          "id": "A5108534723"
+        },
+        {
+          "name": "Hao Chen",
+          "id": "A5100353476"
+        },
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "W. J. Choyke",
+          "id": "A5074125139"
+        },
+        {
+          "name": "H. Morko\u00e7",
+          "id": "A5078375525"
+        }
+      ],
+      "venue": "Journal of Vacuum Science & Technology B Microelectronics and Nanometer Structures Processing Measurement and Phenomena"
+    },
+    "W2119416088": {
+      "id": "W2119416088",
+      "title": "An investigation of grain boundaries in submicrometer-grained Al-Mg solid solution alloys using high-resolution electron microscopy",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "Zenji Horita",
+          "id": "A5027593036"
+        },
+        {
+          "name": "David J. Smith",
+          "id": "A5013491544"
+        },
+        {
+          "name": "Minoru Furukawa",
+          "id": "A5109935909"
+        },
+        {
+          "name": "Minoru Nemoto",
+          "id": "A5113938874"
+        },
+        {
+          "name": "\u0420. \u0417. \u0412\u0430\u043b\u0438\u0435\u0432",
+          "id": "A5044445973"
+        },
+        {
+          "name": "Terence G. Langdon",
+          "id": "A5064551487"
+        }
+      ],
+      "venue": "Journal of materials research/Pratt's guide to venture capital sources"
+    },
+    "W2096327192": {
+      "id": "W2096327192",
+      "title": "The Classical Complement Cascade Mediates CNS Synapse Elimination",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Beth Stevens",
+          "id": "A5019182420"
+        },
+        {
+          "name": "Nicola J. Allen",
+          "id": "A5036232769"
+        },
+        {
+          "name": "Luis E Vazquez",
+          "id": "A5112214851"
+        },
+        {
+          "name": "Gareth R. Howell",
+          "id": "A5018525513"
+        },
+        {
+          "name": "Karen S. Christopherson",
+          "id": "A5037784266"
+        },
+        {
+          "name": "Navid Nouri",
+          "id": "A5051094403"
+        },
+        {
+          "name": "Kristina D. Micheva",
+          "id": "A5063151170"
+        },
+        {
+          "name": "Adrienne K. Mehalow",
+          "id": "A5004073625"
+        },
+        {
+          "name": "Andrew D. Huberman",
+          "id": "A5052893931"
+        },
+        {
+          "name": "Benjamin K. Stafford",
+          "id": "A5001992438"
+        },
+        {
+          "name": "Alexander Sher",
+          "id": "A5066869784"
+        },
+        {
+          "name": "A. M. Litke",
+          "id": "A5050976622"
+        },
+        {
+          "name": "John D. Lambris",
+          "id": "A5074301183"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        },
+        {
+          "name": "Simon W. M. John",
+          "id": "A5028088162"
+        },
+        {
+          "name": "Ben A. Barres",
+          "id": "A5027970945"
+        }
+      ],
+      "venue": "Cell"
+    },
+    "W2010926499": {
+      "id": "W2010926499",
+      "title": "NMDA-receptor activation increases cytoplasmic calcium concentration in cultured spinal cord neurones",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Amy B. MacDermott",
+          "id": "A5064133563"
+        },
+        {
+          "name": "Mark L. Mayer",
+          "id": "A5042692406"
+        },
+        {
+          "name": "Gary L. Westbrook",
+          "id": "A5033661333"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        },
+        {
+          "name": "Jeffery L. Barker",
+          "id": "A5111516608"
+        }
+      ],
+      "venue": "Nature"
+    },
+    "W2090971379": {
+      "id": "W2090971379",
+      "title": "Glutamate Induces Calcium Waves in Cultured Astrocytes: Long-Range Glial Signaling",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Ann Cornell-Bell",
+          "id": "A5110526406"
+        },
+        {
+          "name": "Steven Finkbeiner",
+          "id": "A5064983402"
+        },
+        {
+          "name": "Mark S. Cooper",
+          "id": "A5103381935"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        }
+      ],
+      "venue": "Science"
+    },
+    "W1553983967": {
+      "id": "W1553983967",
+      "title": "Functional cortical neurons and astrocytes from human pluripotent stem cells in 3D culture",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Anca M. Pa\u0219ca",
+          "id": "A5059113285"
+        },
+        {
+          "name": "Steven A. Sloan",
+          "id": "A5008594669"
+        },
+        {
+          "name": "Laura Clarke",
+          "id": "A5082531083"
+        },
+        {
+          "name": "Yuan Tian",
+          "id": "A5100716458"
+        },
+        {
+          "name": "Christopher D. Makinson",
+          "id": "A5011216805"
+        },
+        {
+          "name": "Nina Huber",
+          "id": "A5080203489"
+        },
+        {
+          "name": "Chul Hoon Kim",
+          "id": "A5089504310"
+        },
+        {
+          "name": "Jinyoung Park",
+          "id": "A5100428898"
+        },
+        {
+          "name": "Nancy O\u2019Rourke",
+          "id": "A5089534176"
+        },
+        {
+          "name": "Khoa D. Nguyen",
+          "id": "A5020643866"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        },
+        {
+          "name": "John R. Huguenard",
+          "id": "A5033400284"
+        },
+        {
+          "name": "Daniel H. Geschwind",
+          "id": "A5018481303"
+        },
+        {
+          "name": "Ben A. Barres",
+          "id": "A5027970945"
+        },
+        {
+          "name": "Sergiu P. Pa\u015fca",
+          "id": "A5088379859"
+        }
+      ],
+      "venue": "Nature Methods"
+    },
+    "W2125236750": {
+      "id": "W2125236750",
+      "title": "Astrocytes mediate synapse elimination through MEGF10 and MERTK pathways",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Won\u2010Suk Chung",
+          "id": "A5072366749"
+        },
+        {
+          "name": "Laura Clarke",
+          "id": "A5082531083"
+        },
+        {
+          "name": "Gordon Wang",
+          "id": "A5011448916"
+        },
+        {
+          "name": "Benjamin K. Stafford",
+          "id": "A5001992438"
+        },
+        {
+          "name": "Alexander Sher",
+          "id": "A5066869784"
+        },
+        {
+          "name": "Chandrani Chakraborty",
+          "id": "A5020390062"
+        },
+        {
+          "name": "J. Keith Joung",
+          "id": "A5005370545"
+        },
+        {
+          "name": "Lynette C. Foo",
+          "id": "A5032199063"
+        },
+        {
+          "name": "Andrew Thompson",
+          "id": "A5029902696"
+        },
+        {
+          "name": "Chinfei Chen",
+          "id": "A5076469919"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        },
+        {
+          "name": "Ben A. Barres",
+          "id": "A5027970945"
+        }
+      ],
+      "venue": "Nature"
+    },
+    "W1992835639": {
+      "id": "W1992835639",
+      "title": "Actions of cytochalasins on the organization of actin filaments and microtubules in a neuronal growth cone.",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Paul Forscher",
+          "id": "A5048708442"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        }
+      ],
+      "venue": "The Journal of Cell Biology"
+    },
+    "W2106267269": {
+      "id": "W2106267269",
+      "title": "Evidence for a Role of Dendritic Filopodia in Synaptogenesis and Spine Formation",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "Noam Ziv",
+          "id": "A5086447180"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        }
+      ],
+      "venue": "Neuron"
+    },
+    "W1988452935": {
+      "id": "W1988452935",
+      "title": "Gabapentin Receptor \u03b12\u03b4-1 Is a Neuronal Thrombospondin Receptor Responsible for Excitatory CNS Synaptogenesis",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "\u00c7a\u011fla Ero\u011flu",
+          "id": "A5017962710"
+        },
+        {
+          "name": "Nicola J. Allen",
+          "id": "A5036232769"
+        },
+        {
+          "name": "Michael W. Susman",
+          "id": "A5048750418"
+        },
+        {
+          "name": "Nancy O\u2019Rourke",
+          "id": "A5089534176"
+        },
+        {
+          "name": "Chan Young Park",
+          "id": "A5100608518"
+        },
+        {
+          "name": "Engin \u00d6zkan",
+          "id": "A5011933357"
+        },
+        {
+          "name": "Chandrani Chakraborty",
+          "id": "A5020390062"
+        },
+        {
+          "name": "Sara B. Mulinyawe",
+          "id": "A5019064760"
+        },
+        {
+          "name": "Douglas S. Annis",
+          "id": "A5070007580"
+        },
+        {
+          "name": "Andrew D. Huberman",
+          "id": "A5052893931"
+        },
+        {
+          "name": "Eric M. Green",
+          "id": "A5022150928"
+        },
+        {
+          "name": "Jack Lawler",
+          "id": "A5083192393"
+        },
+        {
+          "name": "Ricardo E. Dolmetsch",
+          "id": "A5044107758"
+        },
+        {
+          "name": "K. Christopher Garc\u00eda",
+          "id": "A5017426114"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        },
+        {
+          "name": "Z. David Luo",
+          "id": "A5005876680"
+        },
+        {
+          "name": "Arnon Rosenthal",
+          "id": "A5102909555"
+        },
+        {
+          "name": "Deane F. Mosher",
+          "id": "A5037893640"
+        },
+        {
+          "name": "Ben A. Barres",
+          "id": "A5027970945"
+        }
+      ],
+      "venue": "Cell"
+    },
+    "W2087667366": {
+      "id": "W2087667366",
+      "title": "Neuronal activity triggers calcium waves in hippocampal astrocyte networks",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "John W. Dani",
+          "id": "A5028985622"
+        },
+        {
+          "name": "Alex Chernjavsky",
+          "id": "A5053874591"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        }
+      ],
+      "venue": "Neuron"
+    },
+    "W2145504425": {
+      "id": "W2145504425",
+      "title": "Array Tomography: A New Tool for Imaging the Molecular Architecture and Ultrastructure of Neural Circuits",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Kristina D. Micheva",
+          "id": "A5063151170"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        }
+      ],
+      "venue": "Neuron"
+    },
+    "W2132154794": {
+      "id": "W2132154794",
+      "title": "Oligomeric amyloid \u03b2 associates with postsynaptic densities and correlates with excitatory synapse loss near senile plaques",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Robert M. Koffie",
+          "id": "A5065584218"
+        },
+        {
+          "name": "Melanie Meyer\u2010Luehmann",
+          "id": "A5049953895"
+        },
+        {
+          "name": "Tadafumi Hashimoto",
+          "id": "A5062034966"
+        },
+        {
+          "name": "Kenneth W. Adams",
+          "id": "A5088567236"
+        },
+        {
+          "name": "Matthew L. Mielke",
+          "id": "A5049520797"
+        },
+        {
+          "name": "M\u00f3nica Garc\u00eda\u2010Alloza",
+          "id": "A5084526781"
+        },
+        {
+          "name": "Kristina D. Micheva",
+          "id": "A5063151170"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        },
+        {
+          "name": "M. Leo Kim",
+          "id": "A5111935442"
+        },
+        {
+          "name": "Virginia M. Lee",
+          "id": "A5028794766"
+        },
+        {
+          "name": "Bradley T. Hyman",
+          "id": "A5068688487"
+        },
+        {
+          "name": "Tara L. Spires\u2010Jones",
+          "id": "A5088747780"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    "W2012935976": {
+      "id": "W2012935976",
+      "title": "Astrocyte glypicans 4 and 6 promote formation of excitatory synapses via GluA1 AMPA receptors",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Nicola J. Allen",
+          "id": "A5036232769"
+        },
+        {
+          "name": "Mariko L. Bennett",
+          "id": "A5036651616"
+        },
+        {
+          "name": "Lynette C. Foo",
+          "id": "A5032199063"
+        },
+        {
+          "name": "Gordon Wang",
+          "id": "A5011448916"
+        },
+        {
+          "name": "Chandrani Chakraborty",
+          "id": "A5020390062"
+        },
+        {
+          "name": "Stephen J Smith",
+          "id": "A5012609270"
+        },
+        {
+          "name": "Ben A. Barres",
+          "id": "A5027970945"
+        }
+      ],
+      "venue": "Nature"
+    }
+  },
+  "author_id_to_label": {
+    "A5108453556": "0",
+    "A5002524476": "1",
+    "A5014833790": "2",
+    "A5013491544": "3",
+    "A5012609270": "4"
+  }
+}
