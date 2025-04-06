@@ -166,14 +166,33 @@ def create_xml_file(author_name, author_data, works_data, author_id_to_label=Non
         for i, author_id in enumerate(author_data.keys()):
             author_id_to_label[author_id] = str(i)
     
+    # Helper function to escape XML special characters
+    def escape_xml(text):
+        if text is None:
+            return ""
+        # Replace XML special characters
+        text = str(text)
+        text = text.replace("&", "&amp;")
+        text = text.replace("<", "&lt;")
+        text = text.replace(">", "&gt;")
+        text = text.replace("\"", "&quot;")
+        text = text.replace("'", "&apos;")
+        # Remove any control characters that would break XML
+        text = ''.join(char for char in text if ord(char) >= 32 or char in '\t\n\r')
+        return text
+    
     # Format the XML with proper indentation to match existing files
     # Create the XML content as a string with manual formatting
     xml_str = '<?xml version="1.0" encoding="utf-8"?>\n'
     xml_str += '<person>\n'
-    xml_str += f'\t<personID>1</personID>\n'
-    xml_str += f'\t<FullName>{author_name}</FullName>\n'
-    xml_str += f'\t<FirstName>{author_name.split()[0]}</FirstName>\n'
-    xml_str += f'\t<LastName>{author_name.split()[-1]}</LastName>\n'
+    
+    # Use the first author ID as the personID
+    first_author_id = next(iter(author_data.keys()))
+    xml_str += f'\t<personID>{escape_xml(first_author_id)}</personID>\n'
+    
+    xml_str += f'\t<FullName>{escape_xml(author_name)}</FullName>\n'
+    xml_str += f'\t<FirstName>{escape_xml(author_name.split()[0])}</FirstName>\n'
+    xml_str += f'\t<LastName>{escape_xml(author_name.split()[-1])}</LastName>\n'
     
     # Track unique works to avoid duplicates
     unique_works = {}
@@ -190,26 +209,26 @@ def create_xml_file(author_name, author_data, works_data, author_id_to_label=Non
                 
                 # Add publication element
                 xml_str += '\t<publication>\n'
-                xml_str += f'\t\t<title>{title_text}</title>\n'
-                xml_str += f'\t\t<year>{work["year"]}</year>\n'
+                xml_str += f'\t\t<title>{escape_xml(title_text)}</title>\n'
+                xml_str += f'\t\t<year>{escape_xml(work["year"])}</year>\n'
                 
                 # Join authors
                 authors_text = ", ".join([a["name"] for a in work["authors"]])
-                xml_str += f'\t\t<authors>{authors_text}</authors>\n'
+                xml_str += f'\t\t<authors>{escape_xml(authors_text)}</authors>\n'
                 
                 # Add venue
                 venue_text = work["venue"] if work["venue"] else "Unknown"
-                xml_str += f'\t\t<jconf>{venue_text}</jconf>\n'
+                xml_str += f'\t\t<jconf>{escape_xml(venue_text)}</jconf>\n'
                 
                 # Add ID
-                xml_str += f'\t\t<id>{work_id}</id>\n'
+                xml_str += f'\t\t<id>{escape_xml(work_id)}</id>\n'
                 
                 # Add label (which author ID this publication belongs to)
                 # We'll map each unique author ID to a unique integer for the label
-                xml_str += f'\t\t<label>{author_id_to_label.get(author_id, "0")}</label>\n'
+                xml_str += f'\t\t<label>{escape_xml(author_id_to_label.get(author_id, "0"))}</label>\n'
                 
                 # Add organization (use OpenAlex author institution if available, otherwise "null")
-                xml_str += f'\t\t<organization>null</organization>\n'
+                xml_str += f'\t\t<organization>{escape_xml("null")}</organization>\n'
                 
                 xml_str += '\t</publication>\n'
     

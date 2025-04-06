@@ -143,6 +143,48 @@ def generate_author_id_clusters(fname, correct_labels, predicted_labels):
         correct_labels: List of true author IDs for each paper
         predicted_labels: List of predicted cluster labels for each paper
     """
+    # Load the mapping from numeric labels to actual OpenAlex IDs
+    author_id_mapping = {}
+    
+    # Open the XML file to get the ID mapping
+    xml_path = os.path.join("raw-data-temp", f"{fname}.xml")
+    try:
+        # Parse the XML file to get the author ID mapping
+        with open(xml_path, 'r', encoding='utf-8') as f:
+            xml_content = f.read()
+        
+        # Clean the XML content
+        xml_content = re.sub(u"&", u" ", xml_content)
+        root = ET.fromstring(xml_content)
+        
+        # Get the actual OpenAlex ID from personID element
+        person_id = root.find('personID').text
+        
+        # Get all the author IDs and their labels from publications
+        for pub in root.findall('publication'):
+            # The numeric label used in correct_labels
+            label = pub.find('label').text
+            if label not in author_id_mapping:
+                # Load the ID from the cache file
+                cache_path = os.path.join("cache", f"{fname}_data.json")
+                if os.path.exists(cache_path):
+                    with open(cache_path, 'r', encoding='utf-8') as f:
+                        cache_data = json.load(f)
+                    
+                    # Get the reverse mapping from label to author ID
+                    label_to_author = {v: k for k, v in cache_data["author_id_to_label"].items()}
+                    # For each label, get the corresponding author ID
+                    for numeric_label, author_id in label_to_author.items():
+                        author_id_mapping[numeric_label] = author_id
+                else:
+                    # Fallback to using the first personID from XML if cache not available
+                    author_id_mapping[label] = person_id
+    except Exception as e:
+        print(f"Error loading ID mapping: {e}")
+        # Use the labels as-is if we can't get the real IDs
+        for label in set(correct_labels):
+            author_id_mapping[str(label)] = f"A{label}"
+    
     # Create a mapping from predicted clusters to lists of OpenAlex IDs
     cluster_to_author_ids = {}
     
@@ -150,7 +192,10 @@ def generate_author_id_clusters(fname, correct_labels, predicted_labels):
     for i in range(len(predicted_labels)):
         # Convert numpy types to native Python types to avoid JSON serialization issues
         pred_cluster = int(predicted_labels[i])
-        true_author_id = int(correct_labels[i])
+        true_author_label = str(int(correct_labels[i]))
+        
+        # Get the actual OpenAlex ID if available
+        true_author_id = author_id_mapping.get(true_author_label, true_author_label)
         
         if pred_cluster not in cluster_to_author_ids:
             cluster_to_author_ids[pred_cluster] = set()

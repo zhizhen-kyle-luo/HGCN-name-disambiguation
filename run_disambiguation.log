@@ -1,0 +1,3 @@
+2025-04-06 14:37:50,557 - INFO - Running disambiguation for John Smith
+2025-04-06 14:37:50,559 - ERROR - XML file not found: raw-data-temp\John Smith.xml
+2025-04-06 14:37:50,559 - ERROR - Disambiguation failed
