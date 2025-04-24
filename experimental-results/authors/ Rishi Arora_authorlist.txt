@@ -1,0 +1,3309 @@
+0	0	Augustine Njoku	Munish Kumar Kannabhiran
+0	0	Augustine Njoku	Rishi Arora
+0	0	Augustine Njoku	Pratap Reddy
+0	0	Augustine Njoku	Rakesh Gopinathannair
+0	0	Augustine Njoku	Dhanunjaya Lakkireddy
+0	0	Augustine Njoku	Paari Dominic
+0	0	Munish Kumar Kannabhiran	Rishi Arora
+0	0	Munish Kumar Kannabhiran	Pratap Reddy
+0	0	Munish Kumar Kannabhiran	Rakesh Gopinathannair
+0	0	Munish Kumar Kannabhiran	Dhanunjaya Lakkireddy
+0	0	Munish Kumar Kannabhiran	Paari Dominic
+0	0	Rishi Arora	Pratap Reddy
+0	0	Rishi Arora	Rakesh Gopinathannair
+0	0	Rishi Arora	Dhanunjaya Lakkireddy
+0	0	Rishi Arora	Paari Dominic
+0	0	Pratap Reddy	Rakesh Gopinathannair
+0	0	Pratap Reddy	Dhanunjaya Lakkireddy
+0	0	Pratap Reddy	Paari Dominic
+0	0	Rakesh Gopinathannair	Dhanunjaya Lakkireddy
+0	0	Rakesh Gopinathannair	Paari Dominic
+0	0	Dhanunjaya Lakkireddy	Paari Dominic
+1	1	Yeon Sik Choi	Rose T. Yin
+1	1	Yeon Sik Choi	Anna Pfenniger
+1	1	Yeon Sik Choi	Jahyun Koo
+1	1	Yeon Sik Choi	Raudel Avila
+1	1	Yeon Sik Choi	Kyongjune B. Lee
+1	1	Yeon Sik Choi	Sheena W. Chen
+1	1	Yeon Sik Choi	Geumbee Lee
+1	1	Yeon Sik Choi	Gang Li
+1	1	Yeon Sik Choi	Yun Qiao
+1	1	Yeon Sik Choi	Alejandro Murillo
+1	1	Yeon Sik Choi	Alexi Kiss
+1	1	Yeon Sik Choi	Shuling Han
+1	1	Yeon Sik Choi	Seung Min Lee
+1	1	Yeon Sik Choi	Chenhang Li
+1	1	Yeon Sik Choi	Zhaoqian Xie
+1	1	Yeon Sik Choi	Yu-Yu Chen
+1	1	Yeon Sik Choi	Amy Burrell
+1	1	Yeon Sik Choi	Beth Geist
+1	1	Yeon Sik Choi	Hyoyoung Jeong
+1	1	Yeon Sik Choi	Joohee Kim
+1	1	Yeon Sik Choi	Hong‐Joon Yoon
+1	1	Yeon Sik Choi	Anthony Banks
+1	1	Yeon Sik Choi	Seung‐Kyun Kang
+1	1	Yeon Sik Choi	Zheng Jenny Zhang
+1	1	Yeon Sik Choi	Chad R. Haney
+1	1	Yeon Sik Choi	Alan V. Sahakian
+1	1	Yeon Sik Choi	David A. Johnson
+1	1	Yeon Sik Choi	Tatiana Efimova
+1	1	Yeon Sik Choi	Yonggang Huang
+1	1	Yeon Sik Choi	Gregory D. Trachiotis
+1	1	Yeon Sik Choi	Bradley P. Knight
+1	1	Yeon Sik Choi	Rishi Arora
+1	1	Yeon Sik Choi	Igor R. Efimov
+1	1	Yeon Sik Choi	John A. Rogers
+1	1	Rose T. Yin	Anna Pfenniger
+1	1	Rose T. Yin	Jahyun Koo
+1	1	Rose T. Yin	Raudel Avila
+1	1	Rose T. Yin	Kyongjune B. Lee
+1	1	Rose T. Yin	Sheena W. Chen
+1	1	Rose T. Yin	Geumbee Lee
+1	1	Rose T. Yin	Gang Li
+1	1	Rose T. Yin	Yun Qiao
+1	1	Rose T. Yin	Alejandro Murillo
+1	1	Rose T. Yin	Alexi Kiss
+1	1	Rose T. Yin	Shuling Han
+1	1	Rose T. Yin	Seung Min Lee
+1	1	Rose T. Yin	Chenhang Li
+1	1	Rose T. Yin	Zhaoqian Xie
+1	1	Rose T. Yin	Yu-Yu Chen
+1	1	Rose T. Yin	Amy Burrell
+1	1	Rose T. Yin	Beth Geist
+1	1	Rose T. Yin	Hyoyoung Jeong
+1	1	Rose T. Yin	Joohee Kim
+1	1	Rose T. Yin	Hong‐Joon Yoon
+1	1	Rose T. Yin	Anthony Banks
+1	1	Rose T. Yin	Seung‐Kyun Kang
+1	1	Rose T. Yin	Zheng Jenny Zhang
+1	1	Rose T. Yin	Chad R. Haney
+1	1	Rose T. Yin	Alan V. Sahakian
+1	1	Rose T. Yin	David A. Johnson
+1	1	Rose T. Yin	Tatiana Efimova
+1	1	Rose T. Yin	Yonggang Huang
+1	1	Rose T. Yin	Gregory D. Trachiotis
+1	1	Rose T. Yin	Bradley P. Knight
+1	1	Rose T. Yin	Rishi Arora
+1	1	Rose T. Yin	Igor R. Efimov
+1	1	Rose T. Yin	John A. Rogers
+1	1	Anna Pfenniger	Jahyun Koo
+1	1	Anna Pfenniger	Raudel Avila
+1	1	Anna Pfenniger	Kyongjune B. Lee
+1	1	Anna Pfenniger	Sheena W. Chen
+1	1	Anna Pfenniger	Geumbee Lee
+1	1	Anna Pfenniger	Gang Li
+1	1	Anna Pfenniger	Yun Qiao
+1	1	Anna Pfenniger	Alejandro Murillo
+1	1	Anna Pfenniger	Alexi Kiss
+1	1	Anna Pfenniger	Shuling Han
+1	1	Anna Pfenniger	Seung Min Lee
+1	1	Anna Pfenniger	Chenhang Li
+1	1	Anna Pfenniger	Zhaoqian Xie
+1	1	Anna Pfenniger	Yu-Yu Chen
+1	1	Anna Pfenniger	Amy Burrell
+1	1	Anna Pfenniger	Beth Geist
+1	1	Anna Pfenniger	Hyoyoung Jeong
+1	1	Anna Pfenniger	Joohee Kim
+1	1	Anna Pfenniger	Hong‐Joon Yoon
+1	1	Anna Pfenniger	Anthony Banks
+1	1	Anna Pfenniger	Seung‐Kyun Kang
+1	1	Anna Pfenniger	Zheng Jenny Zhang
+1	1	Anna Pfenniger	Chad R. Haney
+1	1	Anna Pfenniger	Alan V. Sahakian
+1	1	Anna Pfenniger	David A. Johnson
+1	1	Anna Pfenniger	Tatiana Efimova
+1	1	Anna Pfenniger	Yonggang Huang
+1	1	Anna Pfenniger	Gregory D. Trachiotis
+1	1	Anna Pfenniger	Bradley P. Knight
+1	1	Anna Pfenniger	Rishi Arora
+1	1	Anna Pfenniger	Igor R. Efimov
+1	1	Anna Pfenniger	John A. Rogers
+1	1	Jahyun Koo	Raudel Avila
+1	1	Jahyun Koo	Kyongjune B. Lee
+1	1	Jahyun Koo	Sheena W. Chen
+1	1	Jahyun Koo	Geumbee Lee
+1	1	Jahyun Koo	Gang Li
+1	1	Jahyun Koo	Yun Qiao
+1	1	Jahyun Koo	Alejandro Murillo
+1	1	Jahyun Koo	Alexi Kiss
+1	1	Jahyun Koo	Shuling Han
+1	1	Jahyun Koo	Seung Min Lee
+1	1	Jahyun Koo	Chenhang Li
+1	1	Jahyun Koo	Zhaoqian Xie
+1	1	Jahyun Koo	Yu-Yu Chen
+1	1	Jahyun Koo	Amy Burrell
+1	1	Jahyun Koo	Beth Geist
+1	1	Jahyun Koo	Hyoyoung Jeong
+1	1	Jahyun Koo	Joohee Kim
+1	1	Jahyun Koo	Hong‐Joon Yoon
+1	1	Jahyun Koo	Anthony Banks
+1	1	Jahyun Koo	Seung‐Kyun Kang
+1	1	Jahyun Koo	Zheng Jenny Zhang
+1	1	Jahyun Koo	Chad R. Haney
+1	1	Jahyun Koo	Alan V. Sahakian
+1	1	Jahyun Koo	David A. Johnson
+1	1	Jahyun Koo	Tatiana Efimova
+1	1	Jahyun Koo	Yonggang Huang
+1	1	Jahyun Koo	Gregory D. Trachiotis
+1	1	Jahyun Koo	Bradley P. Knight
+1	1	Jahyun Koo	Rishi Arora
+1	1	Jahyun Koo	Igor R. Efimov
+1	1	Jahyun Koo	John A. Rogers
+1	1	Raudel Avila	Kyongjune B. Lee
+1	1	Raudel Avila	Sheena W. Chen
+1	1	Raudel Avila	Geumbee Lee
+1	1	Raudel Avila	Gang Li
+1	1	Raudel Avila	Yun Qiao
+1	1	Raudel Avila	Alejandro Murillo
+1	1	Raudel Avila	Alexi Kiss
+1	1	Raudel Avila	Shuling Han
+1	1	Raudel Avila	Seung Min Lee
+1	1	Raudel Avila	Chenhang Li
+1	1	Raudel Avila	Zhaoqian Xie
+1	1	Raudel Avila	Yu-Yu Chen
+1	1	Raudel Avila	Amy Burrell
+1	1	Raudel Avila	Beth Geist
+1	1	Raudel Avila	Hyoyoung Jeong
+1	1	Raudel Avila	Joohee Kim
+1	1	Raudel Avila	Hong‐Joon Yoon
+1	1	Raudel Avila	Anthony Banks
+1	1	Raudel Avila	Seung‐Kyun Kang
+1	1	Raudel Avila	Zheng Jenny Zhang
+1	1	Raudel Avila	Chad R. Haney
+1	1	Raudel Avila	Alan V. Sahakian
+1	1	Raudel Avila	David A. Johnson
+1	1	Raudel Avila	Tatiana Efimova
+1	1	Raudel Avila	Yonggang Huang
+1	1	Raudel Avila	Gregory D. Trachiotis
+1	1	Raudel Avila	Bradley P. Knight
+1	1	Raudel Avila	Rishi Arora
+1	1	Raudel Avila	Igor R. Efimov
+1	1	Raudel Avila	John A. Rogers
+1	1	Kyongjune B. Lee	Sheena W. Chen
+1	1	Kyongjune B. Lee	Geumbee Lee
+1	1	Kyongjune B. Lee	Gang Li
+1	1	Kyongjune B. Lee	Yun Qiao
+1	1	Kyongjune B. Lee	Alejandro Murillo
+1	1	Kyongjune B. Lee	Alexi Kiss
+1	1	Kyongjune B. Lee	Shuling Han
+1	1	Kyongjune B. Lee	Seung Min Lee
+1	1	Kyongjune B. Lee	Chenhang Li
+1	1	Kyongjune B. Lee	Zhaoqian Xie
+1	1	Kyongjune B. Lee	Yu-Yu Chen
+1	1	Kyongjune B. Lee	Amy Burrell
+1	1	Kyongjune B. Lee	Beth Geist
+1	1	Kyongjune B. Lee	Hyoyoung Jeong
+1	1	Kyongjune B. Lee	Joohee Kim
+1	1	Kyongjune B. Lee	Hong‐Joon Yoon
+1	1	Kyongjune B. Lee	Anthony Banks
+1	1	Kyongjune B. Lee	Seung‐Kyun Kang
+1	1	Kyongjune B. Lee	Zheng Jenny Zhang
+1	1	Kyongjune B. Lee	Chad R. Haney
+1	1	Kyongjune B. Lee	Alan V. Sahakian
+1	1	Kyongjune B. Lee	David A. Johnson
+1	1	Kyongjune B. Lee	Tatiana Efimova
+1	1	Kyongjune B. Lee	Yonggang Huang
+1	1	Kyongjune B. Lee	Gregory D. Trachiotis
+1	1	Kyongjune B. Lee	Bradley P. Knight
+1	1	Kyongjune B. Lee	Rishi Arora
+1	1	Kyongjune B. Lee	Igor R. Efimov
+1	1	Kyongjune B. Lee	John A. Rogers
+1	1	Sheena W. Chen	Geumbee Lee
+1	1	Sheena W. Chen	Gang Li
+1	1	Sheena W. Chen	Yun Qiao
+1	1	Sheena W. Chen	Alejandro Murillo
+1	1	Sheena W. Chen	Alexi Kiss
+1	1	Sheena W. Chen	Shuling Han
+1	1	Sheena W. Chen	Seung Min Lee
+1	1	Sheena W. Chen	Chenhang Li
+1	1	Sheena W. Chen	Zhaoqian Xie
+1	1	Sheena W. Chen	Yu-Yu Chen
+1	1	Sheena W. Chen	Amy Burrell
+1	1	Sheena W. Chen	Beth Geist
+1	1	Sheena W. Chen	Hyoyoung Jeong
+1	1	Sheena W. Chen	Joohee Kim
+1	1	Sheena W. Chen	Hong‐Joon Yoon
+1	1	Sheena W. Chen	Anthony Banks
+1	1	Sheena W. Chen	Seung‐Kyun Kang
+1	1	Sheena W. Chen	Zheng Jenny Zhang
+1	1	Sheena W. Chen	Chad R. Haney
+1	1	Sheena W. Chen	Alan V. Sahakian
+1	1	Sheena W. Chen	David A. Johnson
+1	1	Sheena W. Chen	Tatiana Efimova
+1	1	Sheena W. Chen	Yonggang Huang
+1	1	Sheena W. Chen	Gregory D. Trachiotis
+1	1	Sheena W. Chen	Bradley P. Knight
+1	1	Sheena W. Chen	Rishi Arora
+1	1	Sheena W. Chen	Igor R. Efimov
+1	1	Sheena W. Chen	John A. Rogers
+1	1	Geumbee Lee	Gang Li
+1	1	Geumbee Lee	Yun Qiao
+1	1	Geumbee Lee	Alejandro Murillo
+1	1	Geumbee Lee	Alexi Kiss
+1	1	Geumbee Lee	Shuling Han
+1	1	Geumbee Lee	Seung Min Lee
+1	1	Geumbee Lee	Chenhang Li
+1	1	Geumbee Lee	Zhaoqian Xie
+1	1	Geumbee Lee	Yu-Yu Chen
+1	1	Geumbee Lee	Amy Burrell
+1	1	Geumbee Lee	Beth Geist
+1	1	Geumbee Lee	Hyoyoung Jeong
+1	1	Geumbee Lee	Joohee Kim
+1	1	Geumbee Lee	Hong‐Joon Yoon
+1	1	Geumbee Lee	Anthony Banks
+1	1	Geumbee Lee	Seung‐Kyun Kang
+1	1	Geumbee Lee	Zheng Jenny Zhang
+1	1	Geumbee Lee	Chad R. Haney
+1	1	Geumbee Lee	Alan V. Sahakian
+1	1	Geumbee Lee	David A. Johnson
+1	1	Geumbee Lee	Tatiana Efimova
+1	1	Geumbee Lee	Yonggang Huang
+1	1	Geumbee Lee	Gregory D. Trachiotis
+1	1	Geumbee Lee	Bradley P. Knight
+1	1	Geumbee Lee	Rishi Arora
+1	1	Geumbee Lee	Igor R. Efimov
+1	1	Geumbee Lee	John A. Rogers
+1	1	Gang Li	Yun Qiao
+1	1	Gang Li	Alejandro Murillo
+1	1	Gang Li	Alexi Kiss
+1	1	Gang Li	Shuling Han
+1	1	Gang Li	Seung Min Lee
+1	1	Gang Li	Chenhang Li
+1	1	Gang Li	Zhaoqian Xie
+1	1	Gang Li	Yu-Yu Chen
+1	1	Gang Li	Amy Burrell
+1	1	Gang Li	Beth Geist
+1	1	Gang Li	Hyoyoung Jeong
+1	1	Gang Li	Joohee Kim
+1	1	Gang Li	Hong‐Joon Yoon
+1	1	Gang Li	Anthony Banks
+1	1	Gang Li	Seung‐Kyun Kang
+1	1	Gang Li	Zheng Jenny Zhang
+1	1	Gang Li	Chad R. Haney
+1	1	Gang Li	Alan V. Sahakian
+1	1	Gang Li	David A. Johnson
+1	1	Gang Li	Tatiana Efimova
+1	1	Gang Li	Yonggang Huang
+1	1	Gang Li	Gregory D. Trachiotis
+1	1	Gang Li	Bradley P. Knight
+1	1	Gang Li	Rishi Arora
+1	1	Gang Li	Igor R. Efimov
+1	1	Gang Li	John A. Rogers
+1	1	Yun Qiao	Alejandro Murillo
+1	1	Yun Qiao	Alexi Kiss
+1	1	Yun Qiao	Shuling Han
+1	1	Yun Qiao	Seung Min Lee
+1	1	Yun Qiao	Chenhang Li
+1	1	Yun Qiao	Zhaoqian Xie
+1	1	Yun Qiao	Yu-Yu Chen
+1	1	Yun Qiao	Amy Burrell
+1	1	Yun Qiao	Beth Geist
+1	1	Yun Qiao	Hyoyoung Jeong
+1	1	Yun Qiao	Joohee Kim
+1	1	Yun Qiao	Hong‐Joon Yoon
+1	1	Yun Qiao	Anthony Banks
+1	1	Yun Qiao	Seung‐Kyun Kang
+1	1	Yun Qiao	Zheng Jenny Zhang
+1	1	Yun Qiao	Chad R. Haney
+1	1	Yun Qiao	Alan V. Sahakian
+1	1	Yun Qiao	David A. Johnson
+1	1	Yun Qiao	Tatiana Efimova
+1	1	Yun Qiao	Yonggang Huang
+1	1	Yun Qiao	Gregory D. Trachiotis
+1	1	Yun Qiao	Bradley P. Knight
+1	1	Yun Qiao	Rishi Arora
+1	1	Yun Qiao	Igor R. Efimov
+1	1	Yun Qiao	John A. Rogers
+1	1	Alejandro Murillo	Alexi Kiss
+1	1	Alejandro Murillo	Shuling Han
+1	1	Alejandro Murillo	Seung Min Lee
+1	1	Alejandro Murillo	Chenhang Li
+1	1	Alejandro Murillo	Zhaoqian Xie
+1	1	Alejandro Murillo	Yu-Yu Chen
+1	1	Alejandro Murillo	Amy Burrell
+1	1	Alejandro Murillo	Beth Geist
+1	1	Alejandro Murillo	Hyoyoung Jeong
+1	1	Alejandro Murillo	Joohee Kim
+1	1	Alejandro Murillo	Hong‐Joon Yoon
+1	1	Alejandro Murillo	Anthony Banks
+1	1	Alejandro Murillo	Seung‐Kyun Kang
+1	1	Alejandro Murillo	Zheng Jenny Zhang
+1	1	Alejandro Murillo	Chad R. Haney
+1	1	Alejandro Murillo	Alan V. Sahakian
+1	1	Alejandro Murillo	David A. Johnson
+1	1	Alejandro Murillo	Tatiana Efimova
+1	1	Alejandro Murillo	Yonggang Huang
+1	1	Alejandro Murillo	Gregory D. Trachiotis
+1	1	Alejandro Murillo	Bradley P. Knight
+1	1	Alejandro Murillo	Rishi Arora
+1	1	Alejandro Murillo	Igor R. Efimov
+1	1	Alejandro Murillo	John A. Rogers
+1	1	Alexi Kiss	Shuling Han
+1	1	Alexi Kiss	Seung Min Lee
+1	1	Alexi Kiss	Chenhang Li
+1	1	Alexi Kiss	Zhaoqian Xie
+1	1	Alexi Kiss	Yu-Yu Chen
+1	1	Alexi Kiss	Amy Burrell
+1	1	Alexi Kiss	Beth Geist
+1	1	Alexi Kiss	Hyoyoung Jeong
+1	1	Alexi Kiss	Joohee Kim
+1	1	Alexi Kiss	Hong‐Joon Yoon
+1	1	Alexi Kiss	Anthony Banks
+1	1	Alexi Kiss	Seung‐Kyun Kang
+1	1	Alexi Kiss	Zheng Jenny Zhang
+1	1	Alexi Kiss	Chad R. Haney
+1	1	Alexi Kiss	Alan V. Sahakian
+1	1	Alexi Kiss	David A. Johnson
+1	1	Alexi Kiss	Tatiana Efimova
+1	1	Alexi Kiss	Yonggang Huang
+1	1	Alexi Kiss	Gregory D. Trachiotis
+1	1	Alexi Kiss	Bradley P. Knight
+1	1	Alexi Kiss	Rishi Arora
+1	1	Alexi Kiss	Igor R. Efimov
+1	1	Alexi Kiss	John A. Rogers
+1	1	Shuling Han	Seung Min Lee
+1	1	Shuling Han	Chenhang Li
+1	1	Shuling Han	Zhaoqian Xie
+1	1	Shuling Han	Yu-Yu Chen
+1	1	Shuling Han	Amy Burrell
+1	1	Shuling Han	Beth Geist
+1	1	Shuling Han	Hyoyoung Jeong
+1	1	Shuling Han	Joohee Kim
+1	1	Shuling Han	Hong‐Joon Yoon
+1	1	Shuling Han	Anthony Banks
+1	1	Shuling Han	Seung‐Kyun Kang
+1	1	Shuling Han	Zheng Jenny Zhang
+1	1	Shuling Han	Chad R. Haney
+1	1	Shuling Han	Alan V. Sahakian
+1	1	Shuling Han	David A. Johnson
+1	1	Shuling Han	Tatiana Efimova
+1	1	Shuling Han	Yonggang Huang
+1	1	Shuling Han	Gregory D. Trachiotis
+1	1	Shuling Han	Bradley P. Knight
+1	1	Shuling Han	Rishi Arora
+1	1	Shuling Han	Igor R. Efimov
+1	1	Shuling Han	John A. Rogers
+1	1	Seung Min Lee	Chenhang Li
+1	1	Seung Min Lee	Zhaoqian Xie
+1	1	Seung Min Lee	Yu-Yu Chen
+1	1	Seung Min Lee	Amy Burrell
+1	1	Seung Min Lee	Beth Geist
+1	1	Seung Min Lee	Hyoyoung Jeong
+1	1	Seung Min Lee	Joohee Kim
+1	1	Seung Min Lee	Hong‐Joon Yoon
+1	1	Seung Min Lee	Anthony Banks
+1	1	Seung Min Lee	Seung‐Kyun Kang
+1	1	Seung Min Lee	Zheng Jenny Zhang
+1	1	Seung Min Lee	Chad R. Haney
+1	1	Seung Min Lee	Alan V. Sahakian
+1	1	Seung Min Lee	David A. Johnson
+1	1	Seung Min Lee	Tatiana Efimova
+1	1	Seung Min Lee	Yonggang Huang
+1	1	Seung Min Lee	Gregory D. Trachiotis
+1	1	Seung Min Lee	Bradley P. Knight
+1	1	Seung Min Lee	Rishi Arora
+1	1	Seung Min Lee	Igor R. Efimov
+1	1	Seung Min Lee	John A. Rogers
+1	1	Chenhang Li	Zhaoqian Xie
+1	1	Chenhang Li	Yu-Yu Chen
+1	1	Chenhang Li	Amy Burrell
+1	1	Chenhang Li	Beth Geist
+1	1	Chenhang Li	Hyoyoung Jeong
+1	1	Chenhang Li	Joohee Kim
+1	1	Chenhang Li	Hong‐Joon Yoon
+1	1	Chenhang Li	Anthony Banks
+1	1	Chenhang Li	Seung‐Kyun Kang
+1	1	Chenhang Li	Zheng Jenny Zhang
+1	1	Chenhang Li	Chad R. Haney
+1	1	Chenhang Li	Alan V. Sahakian
+1	1	Chenhang Li	David A. Johnson
+1	1	Chenhang Li	Tatiana Efimova
+1	1	Chenhang Li	Yonggang Huang
+1	1	Chenhang Li	Gregory D. Trachiotis
+1	1	Chenhang Li	Bradley P. Knight
+1	1	Chenhang Li	Rishi Arora
+1	1	Chenhang Li	Igor R. Efimov
+1	1	Chenhang Li	John A. Rogers
+1	1	Zhaoqian Xie	Yu-Yu Chen
+1	1	Zhaoqian Xie	Amy Burrell
+1	1	Zhaoqian Xie	Beth Geist
+1	1	Zhaoqian Xie	Hyoyoung Jeong
+1	1	Zhaoqian Xie	Joohee Kim
+1	1	Zhaoqian Xie	Hong‐Joon Yoon
+1	1	Zhaoqian Xie	Anthony Banks
+1	1	Zhaoqian Xie	Seung‐Kyun Kang
+1	1	Zhaoqian Xie	Zheng Jenny Zhang
+1	1	Zhaoqian Xie	Chad R. Haney
+1	1	Zhaoqian Xie	Alan V. Sahakian
+1	1	Zhaoqian Xie	David A. Johnson
+1	1	Zhaoqian Xie	Tatiana Efimova
+1	1	Zhaoqian Xie	Yonggang Huang
+1	1	Zhaoqian Xie	Gregory D. Trachiotis
+1	1	Zhaoqian Xie	Bradley P. Knight
+1	1	Zhaoqian Xie	Rishi Arora
+1	1	Zhaoqian Xie	Igor R. Efimov
+1	1	Zhaoqian Xie	John A. Rogers
+1	1	Yu-Yu Chen	Amy Burrell
+1	1	Yu-Yu Chen	Beth Geist
+1	1	Yu-Yu Chen	Hyoyoung Jeong
+1	1	Yu-Yu Chen	Joohee Kim
+1	1	Yu-Yu Chen	Hong‐Joon Yoon
+1	1	Yu-Yu Chen	Anthony Banks
+1	1	Yu-Yu Chen	Seung‐Kyun Kang
+1	1	Yu-Yu Chen	Zheng Jenny Zhang
+1	1	Yu-Yu Chen	Chad R. Haney
+1	1	Yu-Yu Chen	Alan V. Sahakian
+1	1	Yu-Yu Chen	David A. Johnson
+1	1	Yu-Yu Chen	Tatiana Efimova
+1	1	Yu-Yu Chen	Yonggang Huang
+1	1	Yu-Yu Chen	Gregory D. Trachiotis
+1	1	Yu-Yu Chen	Bradley P. Knight
+1	1	Yu-Yu Chen	Rishi Arora
+1	1	Yu-Yu Chen	Igor R. Efimov
+1	1	Yu-Yu Chen	John A. Rogers
+1	1	Amy Burrell	Beth Geist
+1	1	Amy Burrell	Hyoyoung Jeong
+1	1	Amy Burrell	Joohee Kim
+1	1	Amy Burrell	Hong‐Joon Yoon
+1	1	Amy Burrell	Anthony Banks
+1	1	Amy Burrell	Seung‐Kyun Kang
+1	1	Amy Burrell	Zheng Jenny Zhang
+1	1	Amy Burrell	Chad R. Haney
+1	1	Amy Burrell	Alan V. Sahakian
+1	1	Amy Burrell	David A. Johnson
+1	1	Amy Burrell	Tatiana Efimova
+1	1	Amy Burrell	Yonggang Huang
+1	1	Amy Burrell	Gregory D. Trachiotis
+1	1	Amy Burrell	Bradley P. Knight
+1	1	Amy Burrell	Rishi Arora
+1	1	Amy Burrell	Igor R. Efimov
+1	1	Amy Burrell	John A. Rogers
+1	1	Beth Geist	Hyoyoung Jeong
+1	1	Beth Geist	Joohee Kim
+1	1	Beth Geist	Hong‐Joon Yoon
+1	1	Beth Geist	Anthony Banks
+1	1	Beth Geist	Seung‐Kyun Kang
+1	1	Beth Geist	Zheng Jenny Zhang
+1	1	Beth Geist	Chad R. Haney
+1	1	Beth Geist	Alan V. Sahakian
+1	1	Beth Geist	David A. Johnson
+1	1	Beth Geist	Tatiana Efimova
+1	1	Beth Geist	Yonggang Huang
+1	1	Beth Geist	Gregory D. Trachiotis
+1	1	Beth Geist	Bradley P. Knight
+1	1	Beth Geist	Rishi Arora
+1	1	Beth Geist	Igor R. Efimov
+1	1	Beth Geist	John A. Rogers
+1	1	Hyoyoung Jeong	Joohee Kim
+1	1	Hyoyoung Jeong	Hong‐Joon Yoon
+1	1	Hyoyoung Jeong	Anthony Banks
+1	1	Hyoyoung Jeong	Seung‐Kyun Kang
+1	1	Hyoyoung Jeong	Zheng Jenny Zhang
+1	1	Hyoyoung Jeong	Chad R. Haney
+1	1	Hyoyoung Jeong	Alan V. Sahakian
+1	1	Hyoyoung Jeong	David A. Johnson
+1	1	Hyoyoung Jeong	Tatiana Efimova
+1	1	Hyoyoung Jeong	Yonggang Huang
+1	1	Hyoyoung Jeong	Gregory D. Trachiotis
+1	1	Hyoyoung Jeong	Bradley P. Knight
+1	1	Hyoyoung Jeong	Rishi Arora
+1	1	Hyoyoung Jeong	Igor R. Efimov
+1	1	Hyoyoung Jeong	John A. Rogers
+1	1	Joohee Kim	Hong‐Joon Yoon
+1	1	Joohee Kim	Anthony Banks
+1	1	Joohee Kim	Seung‐Kyun Kang
+1	1	Joohee Kim	Zheng Jenny Zhang
+1	1	Joohee Kim	Chad R. Haney
+1	1	Joohee Kim	Alan V. Sahakian
+1	1	Joohee Kim	David A. Johnson
+1	1	Joohee Kim	Tatiana Efimova
+1	1	Joohee Kim	Yonggang Huang
+1	1	Joohee Kim	Gregory D. Trachiotis
+1	1	Joohee Kim	Bradley P. Knight
+1	1	Joohee Kim	Rishi Arora
+1	1	Joohee Kim	Igor R. Efimov
+1	1	Joohee Kim	John A. Rogers
+1	1	Hong‐Joon Yoon	Anthony Banks
+1	1	Hong‐Joon Yoon	Seung‐Kyun Kang
+1	1	Hong‐Joon Yoon	Zheng Jenny Zhang
+1	1	Hong‐Joon Yoon	Chad R. Haney
+1	1	Hong‐Joon Yoon	Alan V. Sahakian
+1	1	Hong‐Joon Yoon	David A. Johnson
+1	1	Hong‐Joon Yoon	Tatiana Efimova
+1	1	Hong‐Joon Yoon	Yonggang Huang
+1	1	Hong‐Joon Yoon	Gregory D. Trachiotis
+1	1	Hong‐Joon Yoon	Bradley P. Knight
+1	1	Hong‐Joon Yoon	Rishi Arora
+1	1	Hong‐Joon Yoon	Igor R. Efimov
+1	1	Hong‐Joon Yoon	John A. Rogers
+1	1	Anthony Banks	Seung‐Kyun Kang
+1	1	Anthony Banks	Zheng Jenny Zhang
+1	1	Anthony Banks	Chad R. Haney
+1	1	Anthony Banks	Alan V. Sahakian
+1	1	Anthony Banks	David A. Johnson
+1	1	Anthony Banks	Tatiana Efimova
+1	1	Anthony Banks	Yonggang Huang
+1	1	Anthony Banks	Gregory D. Trachiotis
+1	1	Anthony Banks	Bradley P. Knight
+1	1	Anthony Banks	Rishi Arora
+1	1	Anthony Banks	Igor R. Efimov
+1	1	Anthony Banks	John A. Rogers
+1	1	Seung‐Kyun Kang	Zheng Jenny Zhang
+1	1	Seung‐Kyun Kang	Chad R. Haney
+1	1	Seung‐Kyun Kang	Alan V. Sahakian
+1	1	Seung‐Kyun Kang	David A. Johnson
+1	1	Seung‐Kyun Kang	Tatiana Efimova
+1	1	Seung‐Kyun Kang	Yonggang Huang
+1	1	Seung‐Kyun Kang	Gregory D. Trachiotis
+1	1	Seung‐Kyun Kang	Bradley P. Knight
+1	1	Seung‐Kyun Kang	Rishi Arora
+1	1	Seung‐Kyun Kang	Igor R. Efimov
+1	1	Seung‐Kyun Kang	John A. Rogers
+1	1	Zheng Jenny Zhang	Chad R. Haney
+1	1	Zheng Jenny Zhang	Alan V. Sahakian
+1	1	Zheng Jenny Zhang	David A. Johnson
+1	1	Zheng Jenny Zhang	Tatiana Efimova
+1	1	Zheng Jenny Zhang	Yonggang Huang
+1	1	Zheng Jenny Zhang	Gregory D. Trachiotis
+1	1	Zheng Jenny Zhang	Bradley P. Knight
+1	1	Zheng Jenny Zhang	Rishi Arora
+1	1	Zheng Jenny Zhang	Igor R. Efimov
+1	1	Zheng Jenny Zhang	John A. Rogers
+1	1	Chad R. Haney	Alan V. Sahakian
+1	1	Chad R. Haney	David A. Johnson
+1	1	Chad R. Haney	Tatiana Efimova
+1	1	Chad R. Haney	Yonggang Huang
+1	1	Chad R. Haney	Gregory D. Trachiotis
+1	1	Chad R. Haney	Bradley P. Knight
+1	1	Chad R. Haney	Rishi Arora
+1	1	Chad R. Haney	Igor R. Efimov
+1	1	Chad R. Haney	John A. Rogers
+1	1	Alan V. Sahakian	David A. Johnson
+1	1	Alan V. Sahakian	Tatiana Efimova
+1	1	Alan V. Sahakian	Yonggang Huang
+1	1	Alan V. Sahakian	Gregory D. Trachiotis
+1	1	Alan V. Sahakian	Bradley P. Knight
+1	1	Alan V. Sahakian	Rishi Arora
+1	1	Alan V. Sahakian	Igor R. Efimov
+1	1	Alan V. Sahakian	John A. Rogers
+1	1	David A. Johnson	Tatiana Efimova
+1	1	David A. Johnson	Yonggang Huang
+1	1	David A. Johnson	Gregory D. Trachiotis
+1	1	David A. Johnson	Bradley P. Knight
+1	1	David A. Johnson	Rishi Arora
+1	1	David A. Johnson	Igor R. Efimov
+1	1	David A. Johnson	John A. Rogers
+1	1	Tatiana Efimova	Yonggang Huang
+1	1	Tatiana Efimova	Gregory D. Trachiotis
+1	1	Tatiana Efimova	Bradley P. Knight
+1	1	Tatiana Efimova	Rishi Arora
+1	1	Tatiana Efimova	Igor R. Efimov
+1	1	Tatiana Efimova	John A. Rogers
+1	1	Yonggang Huang	Gregory D. Trachiotis
+1	1	Yonggang Huang	Bradley P. Knight
+1	1	Yonggang Huang	Rishi Arora
+1	1	Yonggang Huang	Igor R. Efimov
+1	1	Yonggang Huang	John A. Rogers
+1	1	Gregory D. Trachiotis	Bradley P. Knight
+1	1	Gregory D. Trachiotis	Rishi Arora
+1	1	Gregory D. Trachiotis	Igor R. Efimov
+1	1	Gregory D. Trachiotis	John A. Rogers
+1	1	Bradley P. Knight	Rishi Arora
+1	1	Bradley P. Knight	Igor R. Efimov
+1	1	Bradley P. Knight	John A. Rogers
+1	1	Rishi Arora	Igor R. Efimov
+1	1	Rishi Arora	John A. Rogers
+1	1	Igor R. Efimov	John A. Rogers
+2	2	Jeffrey J. Goldberger	Rishi Arora
+2	2	Jeffrey J. Goldberger	Una Buckley
+2	2	Jeffrey J. Goldberger	Kalyanam Shivkumar
+2	2	Rishi Arora	Una Buckley
+2	2	Rishi Arora	Kalyanam Shivkumar
+2	2	Una Buckley	Kalyanam Shivkumar
+3	3	Jeffrey J. Goldberger	Rishi Arora
+3	3	Jeffrey J. Goldberger	David Green
+3	3	Jeffrey J. Goldberger	Philip Greenland
+3	3	Jeffrey J. Goldberger	Daniel Lee
+3	3	Jeffrey J. Goldberger	Donald M. Lloyd‐Jones
+3	3	Jeffrey J. Goldberger	Michael Markl
+3	3	Jeffrey J. Goldberger	Jason Ng
+3	3	Jeffrey J. Goldberger	Sanjiv J. Shah
+3	3	Rishi Arora	David Green
+3	3	Rishi Arora	Philip Greenland
+3	3	Rishi Arora	Daniel Lee
+3	3	Rishi Arora	Donald M. Lloyd‐Jones
+3	3	Rishi Arora	Michael Markl
+3	3	Rishi Arora	Jason Ng
+3	3	Rishi Arora	Sanjiv J. Shah
+3	3	David Green	Philip Greenland
+3	3	David Green	Daniel Lee
+3	3	David Green	Donald M. Lloyd‐Jones
+3	3	David Green	Michael Markl
+3	3	David Green	Jason Ng
+3	3	David Green	Sanjiv J. Shah
+3	3	Philip Greenland	Daniel Lee
+3	3	Philip Greenland	Donald M. Lloyd‐Jones
+3	3	Philip Greenland	Michael Markl
+3	3	Philip Greenland	Jason Ng
+3	3	Philip Greenland	Sanjiv J. Shah
+3	3	Daniel Lee	Donald M. Lloyd‐Jones
+3	3	Daniel Lee	Michael Markl
+3	3	Daniel Lee	Jason Ng
+3	3	Daniel Lee	Sanjiv J. Shah
+3	3	Donald M. Lloyd‐Jones	Michael Markl
+3	3	Donald M. Lloyd‐Jones	Jason Ng
+3	3	Donald M. Lloyd‐Jones	Sanjiv J. Shah
+3	3	Michael Markl	Jason Ng
+3	3	Michael Markl	Sanjiv J. Shah
+3	3	Jason Ng	Sanjiv J. Shah
+4	4	Mark J. Shen	Rishi Arora
+4	4	Mark J. Shen	José Jalife
+4	4	Rishi Arora	José Jalife
+5	5	Yeon Sik Choi	Hyoyoung Jeong
+5	5	Yeon Sik Choi	Rose T. Yin
+5	5	Yeon Sik Choi	Raudel Avila
+5	5	Yeon Sik Choi	Anna Pfenniger
+5	5	Yeon Sik Choi	Jae‐Young Yoo
+5	5	Yeon Sik Choi	Jong Yoon Lee
+5	5	Yeon Sik Choi	Andreas Tzavelis
+5	5	Yeon Sik Choi	Young Joong Lee
+5	5	Yeon Sik Choi	Sheena W. Chen
+5	5	Yeon Sik Choi	Helen S. Knight
+5	5	Yeon Sik Choi	Seungyeob Kim
+5	5	Yeon Sik Choi	Hak-Young Ahn
+5	5	Yeon Sik Choi	Grace Wickerson
+5	5	Yeon Sik Choi	Abraham Vázquez‐Guardado
+5	5	Yeon Sik Choi	Elizabeth Higbee‐Dempsey
+5	5	Yeon Sik Choi	B Russo
+5	5	Yeon Sik Choi	Michael A. Napolitano
+5	5	Yeon Sik Choi	Timothy J. Holleran
+5	5	Yeon Sik Choi	Leen Abdul Razzak
+5	5	Yeon Sik Choi	Alana N. Miniovich
+5	5	Yeon Sik Choi	Geumbee Lee
+5	5	Yeon Sik Choi	Beth Geist
+5	5	Yeon Sik Choi	Brandon Kim
+5	5	Yeon Sik Choi	Shuling Han
+5	5	Yeon Sik Choi	Jaclyn A. Brennan
+5	5	Yeon Sik Choi	Kedar Aras
+5	5	Yeon Sik Choi	Sung Soo Kwak
+5	5	Yeon Sik Choi	Joohee Kim
+5	5	Yeon Sik Choi	Emily A. Waters
+5	5	Yeon Sik Choi	Xiangxing Yang
+5	5	Yeon Sik Choi	Amy Burrell
+5	5	Yeon Sik Choi	Keum San Chun
+5	5	Yeon Sik Choi	Claire Liu
+5	5	Yeon Sik Choi	Changsheng Wu
+5	5	Yeon Sik Choi	Alina Y. Rwei
+5	5	Yeon Sik Choi	Alisha N. Spann
+5	5	Yeon Sik Choi	Anthony Banks
+5	5	Yeon Sik Choi	David A. Johnson
+5	5	Yeon Sik Choi	Zheng Jenny Zhang
+5	5	Yeon Sik Choi	Chad R. Haney
+5	5	Yeon Sik Choi	Sung Hun Jin
+5	5	Yeon Sik Choi	Alan V. Sahakian
+5	5	Yeon Sik Choi	Yonggang Huang
+5	5	Yeon Sik Choi	Gregory D. Trachiotis
+5	5	Yeon Sik Choi	Bradley P. Knight
+5	5	Yeon Sik Choi	Rishi Arora
+5	5	Yeon Sik Choi	Igor R. Efimov
+5	5	Yeon Sik Choi	John A. Rogers
+5	5	Hyoyoung Jeong	Rose T. Yin
+5	5	Hyoyoung Jeong	Raudel Avila
+5	5	Hyoyoung Jeong	Anna Pfenniger
+5	5	Hyoyoung Jeong	Jae‐Young Yoo
+5	5	Hyoyoung Jeong	Jong Yoon Lee
+5	5	Hyoyoung Jeong	Andreas Tzavelis
+5	5	Hyoyoung Jeong	Young Joong Lee
+5	5	Hyoyoung Jeong	Sheena W. Chen
+5	5	Hyoyoung Jeong	Helen S. Knight
+5	5	Hyoyoung Jeong	Seungyeob Kim
+5	5	Hyoyoung Jeong	Hak-Young Ahn
+5	5	Hyoyoung Jeong	Grace Wickerson
+5	5	Hyoyoung Jeong	Abraham Vázquez‐Guardado
+5	5	Hyoyoung Jeong	Elizabeth Higbee‐Dempsey
+5	5	Hyoyoung Jeong	B Russo
+5	5	Hyoyoung Jeong	Michael A. Napolitano
+5	5	Hyoyoung Jeong	Timothy J. Holleran
+5	5	Hyoyoung Jeong	Leen Abdul Razzak
+5	5	Hyoyoung Jeong	Alana N. Miniovich
+5	5	Hyoyoung Jeong	Geumbee Lee
+5	5	Hyoyoung Jeong	Beth Geist
+5	5	Hyoyoung Jeong	Brandon Kim
+5	5	Hyoyoung Jeong	Shuling Han
+5	5	Hyoyoung Jeong	Jaclyn A. Brennan
+5	5	Hyoyoung Jeong	Kedar Aras
+5	5	Hyoyoung Jeong	Sung Soo Kwak
+5	5	Hyoyoung Jeong	Joohee Kim
+5	5	Hyoyoung Jeong	Emily A. Waters
+5	5	Hyoyoung Jeong	Xiangxing Yang
+5	5	Hyoyoung Jeong	Amy Burrell
+5	5	Hyoyoung Jeong	Keum San Chun
+5	5	Hyoyoung Jeong	Claire Liu
+5	5	Hyoyoung Jeong	Changsheng Wu
+5	5	Hyoyoung Jeong	Alina Y. Rwei
+5	5	Hyoyoung Jeong	Alisha N. Spann
+5	5	Hyoyoung Jeong	Anthony Banks
+5	5	Hyoyoung Jeong	David A. Johnson
+5	5	Hyoyoung Jeong	Zheng Jenny Zhang
+5	5	Hyoyoung Jeong	Chad R. Haney
+5	5	Hyoyoung Jeong	Sung Hun Jin
+5	5	Hyoyoung Jeong	Alan V. Sahakian
+5	5	Hyoyoung Jeong	Yonggang Huang
+5	5	Hyoyoung Jeong	Gregory D. Trachiotis
+5	5	Hyoyoung Jeong	Bradley P. Knight
+5	5	Hyoyoung Jeong	Rishi Arora
+5	5	Hyoyoung Jeong	Igor R. Efimov
+5	5	Hyoyoung Jeong	John A. Rogers
+5	5	Rose T. Yin	Raudel Avila
+5	5	Rose T. Yin	Anna Pfenniger
+5	5	Rose T. Yin	Jae‐Young Yoo
+5	5	Rose T. Yin	Jong Yoon Lee
+5	5	Rose T. Yin	Andreas Tzavelis
+5	5	Rose T. Yin	Young Joong Lee
+5	5	Rose T. Yin	Sheena W. Chen
+5	5	Rose T. Yin	Helen S. Knight
+5	5	Rose T. Yin	Seungyeob Kim
+5	5	Rose T. Yin	Hak-Young Ahn
+5	5	Rose T. Yin	Grace Wickerson
+5	5	Rose T. Yin	Abraham Vázquez‐Guardado
+5	5	Rose T. Yin	Elizabeth Higbee‐Dempsey
+5	5	Rose T. Yin	B Russo
+5	5	Rose T. Yin	Michael A. Napolitano
+5	5	Rose T. Yin	Timothy J. Holleran
+5	5	Rose T. Yin	Leen Abdul Razzak
+5	5	Rose T. Yin	Alana N. Miniovich
+5	5	Rose T. Yin	Geumbee Lee
+5	5	Rose T. Yin	Beth Geist
+5	5	Rose T. Yin	Brandon Kim
+5	5	Rose T. Yin	Shuling Han
+5	5	Rose T. Yin	Jaclyn A. Brennan
+5	5	Rose T. Yin	Kedar Aras
+5	5	Rose T. Yin	Sung Soo Kwak
+5	5	Rose T. Yin	Joohee Kim
+5	5	Rose T. Yin	Emily A. Waters
+5	5	Rose T. Yin	Xiangxing Yang
+5	5	Rose T. Yin	Amy Burrell
+5	5	Rose T. Yin	Keum San Chun
+5	5	Rose T. Yin	Claire Liu
+5	5	Rose T. Yin	Changsheng Wu
+5	5	Rose T. Yin	Alina Y. Rwei
+5	5	Rose T. Yin	Alisha N. Spann
+5	5	Rose T. Yin	Anthony Banks
+5	5	Rose T. Yin	David A. Johnson
+5	5	Rose T. Yin	Zheng Jenny Zhang
+5	5	Rose T. Yin	Chad R. Haney
+5	5	Rose T. Yin	Sung Hun Jin
+5	5	Rose T. Yin	Alan V. Sahakian
+5	5	Rose T. Yin	Yonggang Huang
+5	5	Rose T. Yin	Gregory D. Trachiotis
+5	5	Rose T. Yin	Bradley P. Knight
+5	5	Rose T. Yin	Rishi Arora
+5	5	Rose T. Yin	Igor R. Efimov
+5	5	Rose T. Yin	John A. Rogers
+5	5	Raudel Avila	Anna Pfenniger
+5	5	Raudel Avila	Jae‐Young Yoo
+5	5	Raudel Avila	Jong Yoon Lee
+5	5	Raudel Avila	Andreas Tzavelis
+5	5	Raudel Avila	Young Joong Lee
+5	5	Raudel Avila	Sheena W. Chen
+5	5	Raudel Avila	Helen S. Knight
+5	5	Raudel Avila	Seungyeob Kim
+5	5	Raudel Avila	Hak-Young Ahn
+5	5	Raudel Avila	Grace Wickerson
+5	5	Raudel Avila	Abraham Vázquez‐Guardado
+5	5	Raudel Avila	Elizabeth Higbee‐Dempsey
+5	5	Raudel Avila	B Russo
+5	5	Raudel Avila	Michael A. Napolitano
+5	5	Raudel Avila	Timothy J. Holleran
+5	5	Raudel Avila	Leen Abdul Razzak
+5	5	Raudel Avila	Alana N. Miniovich
+5	5	Raudel Avila	Geumbee Lee
+5	5	Raudel Avila	Beth Geist
+5	5	Raudel Avila	Brandon Kim
+5	5	Raudel Avila	Shuling Han
+5	5	Raudel Avila	Jaclyn A. Brennan
+5	5	Raudel Avila	Kedar Aras
+5	5	Raudel Avila	Sung Soo Kwak
+5	5	Raudel Avila	Joohee Kim
+5	5	Raudel Avila	Emily A. Waters
+5	5	Raudel Avila	Xiangxing Yang
+5	5	Raudel Avila	Amy Burrell
+5	5	Raudel Avila	Keum San Chun
+5	5	Raudel Avila	Claire Liu
+5	5	Raudel Avila	Changsheng Wu
+5	5	Raudel Avila	Alina Y. Rwei
+5	5	Raudel Avila	Alisha N. Spann
+5	5	Raudel Avila	Anthony Banks
+5	5	Raudel Avila	David A. Johnson
+5	5	Raudel Avila	Zheng Jenny Zhang
+5	5	Raudel Avila	Chad R. Haney
+5	5	Raudel Avila	Sung Hun Jin
+5	5	Raudel Avila	Alan V. Sahakian
+5	5	Raudel Avila	Yonggang Huang
+5	5	Raudel Avila	Gregory D. Trachiotis
+5	5	Raudel Avila	Bradley P. Knight
+5	5	Raudel Avila	Rishi Arora
+5	5	Raudel Avila	Igor R. Efimov
+5	5	Raudel Avila	John A. Rogers
+5	5	Anna Pfenniger	Jae‐Young Yoo
+5	5	Anna Pfenniger	Jong Yoon Lee
+5	5	Anna Pfenniger	Andreas Tzavelis
+5	5	Anna Pfenniger	Young Joong Lee
+5	5	Anna Pfenniger	Sheena W. Chen
+5	5	Anna Pfenniger	Helen S. Knight
+5	5	Anna Pfenniger	Seungyeob Kim
+5	5	Anna Pfenniger	Hak-Young Ahn
+5	5	Anna Pfenniger	Grace Wickerson
+5	5	Anna Pfenniger	Abraham Vázquez‐Guardado
+5	5	Anna Pfenniger	Elizabeth Higbee‐Dempsey
+5	5	Anna Pfenniger	B Russo
+5	5	Anna Pfenniger	Michael A. Napolitano
+5	5	Anna Pfenniger	Timothy J. Holleran
+5	5	Anna Pfenniger	Leen Abdul Razzak
+5	5	Anna Pfenniger	Alana N. Miniovich
+5	5	Anna Pfenniger	Geumbee Lee
+5	5	Anna Pfenniger	Beth Geist
+5	5	Anna Pfenniger	Brandon Kim
+5	5	Anna Pfenniger	Shuling Han
+5	5	Anna Pfenniger	Jaclyn A. Brennan
+5	5	Anna Pfenniger	Kedar Aras
+5	5	Anna Pfenniger	Sung Soo Kwak
+5	5	Anna Pfenniger	Joohee Kim
+5	5	Anna Pfenniger	Emily A. Waters
+5	5	Anna Pfenniger	Xiangxing Yang
+5	5	Anna Pfenniger	Amy Burrell
+5	5	Anna Pfenniger	Keum San Chun
+5	5	Anna Pfenniger	Claire Liu
+5	5	Anna Pfenniger	Changsheng Wu
+5	5	Anna Pfenniger	Alina Y. Rwei
+5	5	Anna Pfenniger	Alisha N. Spann
+5	5	Anna Pfenniger	Anthony Banks
+5	5	Anna Pfenniger	David A. Johnson
+5	5	Anna Pfenniger	Zheng Jenny Zhang
+5	5	Anna Pfenniger	Chad R. Haney
+5	5	Anna Pfenniger	Sung Hun Jin
+5	5	Anna Pfenniger	Alan V. Sahakian
+5	5	Anna Pfenniger	Yonggang Huang
+5	5	Anna Pfenniger	Gregory D. Trachiotis
+5	5	Anna Pfenniger	Bradley P. Knight
+5	5	Anna Pfenniger	Rishi Arora
+5	5	Anna Pfenniger	Igor R. Efimov
+5	5	Anna Pfenniger	John A. Rogers
+5	5	Jae‐Young Yoo	Jong Yoon Lee
+5	5	Jae‐Young Yoo	Andreas Tzavelis
+5	5	Jae‐Young Yoo	Young Joong Lee
+5	5	Jae‐Young Yoo	Sheena W. Chen
+5	5	Jae‐Young Yoo	Helen S. Knight
+5	5	Jae‐Young Yoo	Seungyeob Kim
+5	5	Jae‐Young Yoo	Hak-Young Ahn
+5	5	Jae‐Young Yoo	Grace Wickerson
+5	5	Jae‐Young Yoo	Abraham Vázquez‐Guardado
+5	5	Jae‐Young Yoo	Elizabeth Higbee‐Dempsey
+5	5	Jae‐Young Yoo	B Russo
+5	5	Jae‐Young Yoo	Michael A. Napolitano
+5	5	Jae‐Young Yoo	Timothy J. Holleran
+5	5	Jae‐Young Yoo	Leen Abdul Razzak
+5	5	Jae‐Young Yoo	Alana N. Miniovich
+5	5	Jae‐Young Yoo	Geumbee Lee
+5	5	Jae‐Young Yoo	Beth Geist
+5	5	Jae‐Young Yoo	Brandon Kim
+5	5	Jae‐Young Yoo	Shuling Han
+5	5	Jae‐Young Yoo	Jaclyn A. Brennan
+5	5	Jae‐Young Yoo	Kedar Aras
+5	5	Jae‐Young Yoo	Sung Soo Kwak
+5	5	Jae‐Young Yoo	Joohee Kim
+5	5	Jae‐Young Yoo	Emily A. Waters
+5	5	Jae‐Young Yoo	Xiangxing Yang
+5	5	Jae‐Young Yoo	Amy Burrell
+5	5	Jae‐Young Yoo	Keum San Chun
+5	5	Jae‐Young Yoo	Claire Liu
+5	5	Jae‐Young Yoo	Changsheng Wu
+5	5	Jae‐Young Yoo	Alina Y. Rwei
+5	5	Jae‐Young Yoo	Alisha N. Spann
+5	5	Jae‐Young Yoo	Anthony Banks
+5	5	Jae‐Young Yoo	David A. Johnson
+5	5	Jae‐Young Yoo	Zheng Jenny Zhang
+5	5	Jae‐Young Yoo	Chad R. Haney
+5	5	Jae‐Young Yoo	Sung Hun Jin
+5	5	Jae‐Young Yoo	Alan V. Sahakian
+5	5	Jae‐Young Yoo	Yonggang Huang
+5	5	Jae‐Young Yoo	Gregory D. Trachiotis
+5	5	Jae‐Young Yoo	Bradley P. Knight
+5	5	Jae‐Young Yoo	Rishi Arora
+5	5	Jae‐Young Yoo	Igor R. Efimov
+5	5	Jae‐Young Yoo	John A. Rogers
+5	5	Jong Yoon Lee	Andreas Tzavelis
+5	5	Jong Yoon Lee	Young Joong Lee
+5	5	Jong Yoon Lee	Sheena W. Chen
+5	5	Jong Yoon Lee	Helen S. Knight
+5	5	Jong Yoon Lee	Seungyeob Kim
+5	5	Jong Yoon Lee	Hak-Young Ahn
+5	5	Jong Yoon Lee	Grace Wickerson
+5	5	Jong Yoon Lee	Abraham Vázquez‐Guardado
+5	5	Jong Yoon Lee	Elizabeth Higbee‐Dempsey
+5	5	Jong Yoon Lee	B Russo
+5	5	Jong Yoon Lee	Michael A. Napolitano
+5	5	Jong Yoon Lee	Timothy J. Holleran
+5	5	Jong Yoon Lee	Leen Abdul Razzak
+5	5	Jong Yoon Lee	Alana N. Miniovich
+5	5	Jong Yoon Lee	Geumbee Lee
+5	5	Jong Yoon Lee	Beth Geist
+5	5	Jong Yoon Lee	Brandon Kim
+5	5	Jong Yoon Lee	Shuling Han
+5	5	Jong Yoon Lee	Jaclyn A. Brennan
+5	5	Jong Yoon Lee	Kedar Aras
+5	5	Jong Yoon Lee	Sung Soo Kwak
+5	5	Jong Yoon Lee	Joohee Kim
+5	5	Jong Yoon Lee	Emily A. Waters
+5	5	Jong Yoon Lee	Xiangxing Yang
+5	5	Jong Yoon Lee	Amy Burrell
+5	5	Jong Yoon Lee	Keum San Chun
+5	5	Jong Yoon Lee	Claire Liu
+5	5	Jong Yoon Lee	Changsheng Wu
+5	5	Jong Yoon Lee	Alina Y. Rwei
+5	5	Jong Yoon Lee	Alisha N. Spann
+5	5	Jong Yoon Lee	Anthony Banks
+5	5	Jong Yoon Lee	David A. Johnson
+5	5	Jong Yoon Lee	Zheng Jenny Zhang
+5	5	Jong Yoon Lee	Chad R. Haney
+5	5	Jong Yoon Lee	Sung Hun Jin
+5	5	Jong Yoon Lee	Alan V. Sahakian
+5	5	Jong Yoon Lee	Yonggang Huang
+5	5	Jong Yoon Lee	Gregory D. Trachiotis
+5	5	Jong Yoon Lee	Bradley P. Knight
+5	5	Jong Yoon Lee	Rishi Arora
+5	5	Jong Yoon Lee	Igor R. Efimov
+5	5	Jong Yoon Lee	John A. Rogers
+5	5	Andreas Tzavelis	Young Joong Lee
+5	5	Andreas Tzavelis	Sheena W. Chen
+5	5	Andreas Tzavelis	Helen S. Knight
+5	5	Andreas Tzavelis	Seungyeob Kim
+5	5	Andreas Tzavelis	Hak-Young Ahn
+5	5	Andreas Tzavelis	Grace Wickerson
+5	5	Andreas Tzavelis	Abraham Vázquez‐Guardado
+5	5	Andreas Tzavelis	Elizabeth Higbee‐Dempsey
+5	5	Andreas Tzavelis	B Russo
+5	5	Andreas Tzavelis	Michael A. Napolitano
+5	5	Andreas Tzavelis	Timothy J. Holleran
+5	5	Andreas Tzavelis	Leen Abdul Razzak
+5	5	Andreas Tzavelis	Alana N. Miniovich
+5	5	Andreas Tzavelis	Geumbee Lee
+5	5	Andreas Tzavelis	Beth Geist
+5	5	Andreas Tzavelis	Brandon Kim
+5	5	Andreas Tzavelis	Shuling Han
+5	5	Andreas Tzavelis	Jaclyn A. Brennan
+5	5	Andreas Tzavelis	Kedar Aras
+5	5	Andreas Tzavelis	Sung Soo Kwak
+5	5	Andreas Tzavelis	Joohee Kim
+5	5	Andreas Tzavelis	Emily A. Waters
+5	5	Andreas Tzavelis	Xiangxing Yang
+5	5	Andreas Tzavelis	Amy Burrell
+5	5	Andreas Tzavelis	Keum San Chun
+5	5	Andreas Tzavelis	Claire Liu
+5	5	Andreas Tzavelis	Changsheng Wu
+5	5	Andreas Tzavelis	Alina Y. Rwei
+5	5	Andreas Tzavelis	Alisha N. Spann
+5	5	Andreas Tzavelis	Anthony Banks
+5	5	Andreas Tzavelis	David A. Johnson
+5	5	Andreas Tzavelis	Zheng Jenny Zhang
+5	5	Andreas Tzavelis	Chad R. Haney
+5	5	Andreas Tzavelis	Sung Hun Jin
+5	5	Andreas Tzavelis	Alan V. Sahakian
+5	5	Andreas Tzavelis	Yonggang Huang
+5	5	Andreas Tzavelis	Gregory D. Trachiotis
+5	5	Andreas Tzavelis	Bradley P. Knight
+5	5	Andreas Tzavelis	Rishi Arora
+5	5	Andreas Tzavelis	Igor R. Efimov
+5	5	Andreas Tzavelis	John A. Rogers
+5	5	Young Joong Lee	Sheena W. Chen
+5	5	Young Joong Lee	Helen S. Knight
+5	5	Young Joong Lee	Seungyeob Kim
+5	5	Young Joong Lee	Hak-Young Ahn
+5	5	Young Joong Lee	Grace Wickerson
+5	5	Young Joong Lee	Abraham Vázquez‐Guardado
+5	5	Young Joong Lee	Elizabeth Higbee‐Dempsey
+5	5	Young Joong Lee	B Russo
+5	5	Young Joong Lee	Michael A. Napolitano
+5	5	Young Joong Lee	Timothy J. Holleran
+5	5	Young Joong Lee	Leen Abdul Razzak
+5	5	Young Joong Lee	Alana N. Miniovich
+5	5	Young Joong Lee	Geumbee Lee
+5	5	Young Joong Lee	Beth Geist
+5	5	Young Joong Lee	Brandon Kim
+5	5	Young Joong Lee	Shuling Han
+5	5	Young Joong Lee	Jaclyn A. Brennan
+5	5	Young Joong Lee	Kedar Aras
+5	5	Young Joong Lee	Sung Soo Kwak
+5	5	Young Joong Lee	Joohee Kim
+5	5	Young Joong Lee	Emily A. Waters
+5	5	Young Joong Lee	Xiangxing Yang
+5	5	Young Joong Lee	Amy Burrell
+5	5	Young Joong Lee	Keum San Chun
+5	5	Young Joong Lee	Claire Liu
+5	5	Young Joong Lee	Changsheng Wu
+5	5	Young Joong Lee	Alina Y. Rwei
+5	5	Young Joong Lee	Alisha N. Spann
+5	5	Young Joong Lee	Anthony Banks
+5	5	Young Joong Lee	David A. Johnson
+5	5	Young Joong Lee	Zheng Jenny Zhang
+5	5	Young Joong Lee	Chad R. Haney
+5	5	Young Joong Lee	Sung Hun Jin
+5	5	Young Joong Lee	Alan V. Sahakian
+5	5	Young Joong Lee	Yonggang Huang
+5	5	Young Joong Lee	Gregory D. Trachiotis
+5	5	Young Joong Lee	Bradley P. Knight
+5	5	Young Joong Lee	Rishi Arora
+5	5	Young Joong Lee	Igor R. Efimov
+5	5	Young Joong Lee	John A. Rogers
+5	5	Sheena W. Chen	Helen S. Knight
+5	5	Sheena W. Chen	Seungyeob Kim
+5	5	Sheena W. Chen	Hak-Young Ahn
+5	5	Sheena W. Chen	Grace Wickerson
+5	5	Sheena W. Chen	Abraham Vázquez‐Guardado
+5	5	Sheena W. Chen	Elizabeth Higbee‐Dempsey
+5	5	Sheena W. Chen	B Russo
+5	5	Sheena W. Chen	Michael A. Napolitano
+5	5	Sheena W. Chen	Timothy J. Holleran
+5	5	Sheena W. Chen	Leen Abdul Razzak
+5	5	Sheena W. Chen	Alana N. Miniovich
+5	5	Sheena W. Chen	Geumbee Lee
+5	5	Sheena W. Chen	Beth Geist
+5	5	Sheena W. Chen	Brandon Kim
+5	5	Sheena W. Chen	Shuling Han
+5	5	Sheena W. Chen	Jaclyn A. Brennan
+5	5	Sheena W. Chen	Kedar Aras
+5	5	Sheena W. Chen	Sung Soo Kwak
+5	5	Sheena W. Chen	Joohee Kim
+5	5	Sheena W. Chen	Emily A. Waters
+5	5	Sheena W. Chen	Xiangxing Yang
+5	5	Sheena W. Chen	Amy Burrell
+5	5	Sheena W. Chen	Keum San Chun
+5	5	Sheena W. Chen	Claire Liu
+5	5	Sheena W. Chen	Changsheng Wu
+5	5	Sheena W. Chen	Alina Y. Rwei
+5	5	Sheena W. Chen	Alisha N. Spann
+5	5	Sheena W. Chen	Anthony Banks
+5	5	Sheena W. Chen	David A. Johnson
+5	5	Sheena W. Chen	Zheng Jenny Zhang
+5	5	Sheena W. Chen	Chad R. Haney
+5	5	Sheena W. Chen	Sung Hun Jin
+5	5	Sheena W. Chen	Alan V. Sahakian
+5	5	Sheena W. Chen	Yonggang Huang
+5	5	Sheena W. Chen	Gregory D. Trachiotis
+5	5	Sheena W. Chen	Bradley P. Knight
+5	5	Sheena W. Chen	Rishi Arora
+5	5	Sheena W. Chen	Igor R. Efimov
+5	5	Sheena W. Chen	John A. Rogers
+5	5	Helen S. Knight	Seungyeob Kim
+5	5	Helen S. Knight	Hak-Young Ahn
+5	5	Helen S. Knight	Grace Wickerson
+5	5	Helen S. Knight	Abraham Vázquez‐Guardado
+5	5	Helen S. Knight	Elizabeth Higbee‐Dempsey
+5	5	Helen S. Knight	B Russo
+5	5	Helen S. Knight	Michael A. Napolitano
+5	5	Helen S. Knight	Timothy J. Holleran
+5	5	Helen S. Knight	Leen Abdul Razzak
+5	5	Helen S. Knight	Alana N. Miniovich
+5	5	Helen S. Knight	Geumbee Lee
+5	5	Helen S. Knight	Beth Geist
+5	5	Helen S. Knight	Brandon Kim
+5	5	Helen S. Knight	Shuling Han
+5	5	Helen S. Knight	Jaclyn A. Brennan
+5	5	Helen S. Knight	Kedar Aras
+5	5	Helen S. Knight	Sung Soo Kwak
+5	5	Helen S. Knight	Joohee Kim
+5	5	Helen S. Knight	Emily A. Waters
+5	5	Helen S. Knight	Xiangxing Yang
+5	5	Helen S. Knight	Amy Burrell
+5	5	Helen S. Knight	Keum San Chun
+5	5	Helen S. Knight	Claire Liu
+5	5	Helen S. Knight	Changsheng Wu
+5	5	Helen S. Knight	Alina Y. Rwei
+5	5	Helen S. Knight	Alisha N. Spann
+5	5	Helen S. Knight	Anthony Banks
+5	5	Helen S. Knight	David A. Johnson
+5	5	Helen S. Knight	Zheng Jenny Zhang
+5	5	Helen S. Knight	Chad R. Haney
+5	5	Helen S. Knight	Sung Hun Jin
+5	5	Helen S. Knight	Alan V. Sahakian
+5	5	Helen S. Knight	Yonggang Huang
+5	5	Helen S. Knight	Gregory D. Trachiotis
+5	5	Helen S. Knight	Bradley P. Knight
+5	5	Helen S. Knight	Rishi Arora
+5	5	Helen S. Knight	Igor R. Efimov
+5	5	Helen S. Knight	John A. Rogers
+5	5	Seungyeob Kim	Hak-Young Ahn
+5	5	Seungyeob Kim	Grace Wickerson
+5	5	Seungyeob Kim	Abraham Vázquez‐Guardado
+5	5	Seungyeob Kim	Elizabeth Higbee‐Dempsey
+5	5	Seungyeob Kim	B Russo
+5	5	Seungyeob Kim	Michael A. Napolitano
+5	5	Seungyeob Kim	Timothy J. Holleran
+5	5	Seungyeob Kim	Leen Abdul Razzak
+5	5	Seungyeob Kim	Alana N. Miniovich
+5	5	Seungyeob Kim	Geumbee Lee
+5	5	Seungyeob Kim	Beth Geist
+5	5	Seungyeob Kim	Brandon Kim
+5	5	Seungyeob Kim	Shuling Han
+5	5	Seungyeob Kim	Jaclyn A. Brennan
+5	5	Seungyeob Kim	Kedar Aras
+5	5	Seungyeob Kim	Sung Soo Kwak
+5	5	Seungyeob Kim	Joohee Kim
+5	5	Seungyeob Kim	Emily A. Waters
+5	5	Seungyeob Kim	Xiangxing Yang
+5	5	Seungyeob Kim	Amy Burrell
+5	5	Seungyeob Kim	Keum San Chun
+5	5	Seungyeob Kim	Claire Liu
+5	5	Seungyeob Kim	Changsheng Wu
+5	5	Seungyeob Kim	Alina Y. Rwei
+5	5	Seungyeob Kim	Alisha N. Spann
+5	5	Seungyeob Kim	Anthony Banks
+5	5	Seungyeob Kim	David A. Johnson
+5	5	Seungyeob Kim	Zheng Jenny Zhang
+5	5	Seungyeob Kim	Chad R. Haney
+5	5	Seungyeob Kim	Sung Hun Jin
+5	5	Seungyeob Kim	Alan V. Sahakian
+5	5	Seungyeob Kim	Yonggang Huang
+5	5	Seungyeob Kim	Gregory D. Trachiotis
+5	5	Seungyeob Kim	Bradley P. Knight
+5	5	Seungyeob Kim	Rishi Arora
+5	5	Seungyeob Kim	Igor R. Efimov
+5	5	Seungyeob Kim	John A. Rogers
+5	5	Hak-Young Ahn	Grace Wickerson
+5	5	Hak-Young Ahn	Abraham Vázquez‐Guardado
+5	5	Hak-Young Ahn	Elizabeth Higbee‐Dempsey
+5	5	Hak-Young Ahn	B Russo
+5	5	Hak-Young Ahn	Michael A. Napolitano
+5	5	Hak-Young Ahn	Timothy J. Holleran
+5	5	Hak-Young Ahn	Leen Abdul Razzak
+5	5	Hak-Young Ahn	Alana N. Miniovich
+5	5	Hak-Young Ahn	Geumbee Lee
+5	5	Hak-Young Ahn	Beth Geist
+5	5	Hak-Young Ahn	Brandon Kim
+5	5	Hak-Young Ahn	Shuling Han
+5	5	Hak-Young Ahn	Jaclyn A. Brennan
+5	5	Hak-Young Ahn	Kedar Aras
+5	5	Hak-Young Ahn	Sung Soo Kwak
+5	5	Hak-Young Ahn	Joohee Kim
+5	5	Hak-Young Ahn	Emily A. Waters
+5	5	Hak-Young Ahn	Xiangxing Yang
+5	5	Hak-Young Ahn	Amy Burrell
+5	5	Hak-Young Ahn	Keum San Chun
+5	5	Hak-Young Ahn	Claire Liu
+5	5	Hak-Young Ahn	Changsheng Wu
+5	5	Hak-Young Ahn	Alina Y. Rwei
+5	5	Hak-Young Ahn	Alisha N. Spann
+5	5	Hak-Young Ahn	Anthony Banks
+5	5	Hak-Young Ahn	David A. Johnson
+5	5	Hak-Young Ahn	Zheng Jenny Zhang
+5	5	Hak-Young Ahn	Chad R. Haney
+5	5	Hak-Young Ahn	Sung Hun Jin
+5	5	Hak-Young Ahn	Alan V. Sahakian
+5	5	Hak-Young Ahn	Yonggang Huang
+5	5	Hak-Young Ahn	Gregory D. Trachiotis
+5	5	Hak-Young Ahn	Bradley P. Knight
+5	5	Hak-Young Ahn	Rishi Arora
+5	5	Hak-Young Ahn	Igor R. Efimov
+5	5	Hak-Young Ahn	John A. Rogers
+5	5	Grace Wickerson	Abraham Vázquez‐Guardado
+5	5	Grace Wickerson	Elizabeth Higbee‐Dempsey
+5	5	Grace Wickerson	B Russo
+5	5	Grace Wickerson	Michael A. Napolitano
+5	5	Grace Wickerson	Timothy J. Holleran
+5	5	Grace Wickerson	Leen Abdul Razzak
+5	5	Grace Wickerson	Alana N. Miniovich
+5	5	Grace Wickerson	Geumbee Lee
+5	5	Grace Wickerson	Beth Geist
+5	5	Grace Wickerson	Brandon Kim
+5	5	Grace Wickerson	Shuling Han
+5	5	Grace Wickerson	Jaclyn A. Brennan
+5	5	Grace Wickerson	Kedar Aras
+5	5	Grace Wickerson	Sung Soo Kwak
+5	5	Grace Wickerson	Joohee Kim
+5	5	Grace Wickerson	Emily A. Waters
+5	5	Grace Wickerson	Xiangxing Yang
+5	5	Grace Wickerson	Amy Burrell
+5	5	Grace Wickerson	Keum San Chun
+5	5	Grace Wickerson	Claire Liu
+5	5	Grace Wickerson	Changsheng Wu
+5	5	Grace Wickerson	Alina Y. Rwei
+5	5	Grace Wickerson	Alisha N. Spann
+5	5	Grace Wickerson	Anthony Banks
+5	5	Grace Wickerson	David A. Johnson
+5	5	Grace Wickerson	Zheng Jenny Zhang
+5	5	Grace Wickerson	Chad R. Haney
+5	5	Grace Wickerson	Sung Hun Jin
+5	5	Grace Wickerson	Alan V. Sahakian
+5	5	Grace Wickerson	Yonggang Huang
+5	5	Grace Wickerson	Gregory D. Trachiotis
+5	5	Grace Wickerson	Bradley P. Knight
+5	5	Grace Wickerson	Rishi Arora
+5	5	Grace Wickerson	Igor R. Efimov
+5	5	Grace Wickerson	John A. Rogers
+5	5	Abraham Vázquez‐Guardado	Elizabeth Higbee‐Dempsey
+5	5	Abraham Vázquez‐Guardado	B Russo
+5	5	Abraham Vázquez‐Guardado	Michael A. Napolitano
+5	5	Abraham Vázquez‐Guardado	Timothy J. Holleran
+5	5	Abraham Vázquez‐Guardado	Leen Abdul Razzak
+5	5	Abraham Vázquez‐Guardado	Alana N. Miniovich
+5	5	Abraham Vázquez‐Guardado	Geumbee Lee
+5	5	Abraham Vázquez‐Guardado	Beth Geist
+5	5	Abraham Vázquez‐Guardado	Brandon Kim
+5	5	Abraham Vázquez‐Guardado	Shuling Han
+5	5	Abraham Vázquez‐Guardado	Jaclyn A. Brennan
+5	5	Abraham Vázquez‐Guardado	Kedar Aras
+5	5	Abraham Vázquez‐Guardado	Sung Soo Kwak
+5	5	Abraham Vázquez‐Guardado	Joohee Kim
+5	5	Abraham Vázquez‐Guardado	Emily A. Waters
+5	5	Abraham Vázquez‐Guardado	Xiangxing Yang
+5	5	Abraham Vázquez‐Guardado	Amy Burrell
+5	5	Abraham Vázquez‐Guardado	Keum San Chun
+5	5	Abraham Vázquez‐Guardado	Claire Liu
+5	5	Abraham Vázquez‐Guardado	Changsheng Wu
+5	5	Abraham Vázquez‐Guardado	Alina Y. Rwei
+5	5	Abraham Vázquez‐Guardado	Alisha N. Spann
+5	5	Abraham Vázquez‐Guardado	Anthony Banks
+5	5	Abraham Vázquez‐Guardado	David A. Johnson
+5	5	Abraham Vázquez‐Guardado	Zheng Jenny Zhang
+5	5	Abraham Vázquez‐Guardado	Chad R. Haney
+5	5	Abraham Vázquez‐Guardado	Sung Hun Jin
+5	5	Abraham Vázquez‐Guardado	Alan V. Sahakian
+5	5	Abraham Vázquez‐Guardado	Yonggang Huang
+5	5	Abraham Vázquez‐Guardado	Gregory D. Trachiotis
+5	5	Abraham Vázquez‐Guardado	Bradley P. Knight
+5	5	Abraham Vázquez‐Guardado	Rishi Arora
+5	5	Abraham Vázquez‐Guardado	Igor R. Efimov
+5	5	Abraham Vázquez‐Guardado	John A. Rogers
+5	5	Elizabeth Higbee‐Dempsey	B Russo
+5	5	Elizabeth Higbee‐Dempsey	Michael A. Napolitano
+5	5	Elizabeth Higbee‐Dempsey	Timothy J. Holleran
+5	5	Elizabeth Higbee‐Dempsey	Leen Abdul Razzak
+5	5	Elizabeth Higbee‐Dempsey	Alana N. Miniovich
+5	5	Elizabeth Higbee‐Dempsey	Geumbee Lee
+5	5	Elizabeth Higbee‐Dempsey	Beth Geist
+5	5	Elizabeth Higbee‐Dempsey	Brandon Kim
+5	5	Elizabeth Higbee‐Dempsey	Shuling Han
+5	5	Elizabeth Higbee‐Dempsey	Jaclyn A. Brennan
+5	5	Elizabeth Higbee‐Dempsey	Kedar Aras
+5	5	Elizabeth Higbee‐Dempsey	Sung Soo Kwak
+5	5	Elizabeth Higbee‐Dempsey	Joohee Kim
+5	5	Elizabeth Higbee‐Dempsey	Emily A. Waters
+5	5	Elizabeth Higbee‐Dempsey	Xiangxing Yang
+5	5	Elizabeth Higbee‐Dempsey	Amy Burrell
+5	5	Elizabeth Higbee‐Dempsey	Keum San Chun
+5	5	Elizabeth Higbee‐Dempsey	Claire Liu
+5	5	Elizabeth Higbee‐Dempsey	Changsheng Wu
+5	5	Elizabeth Higbee‐Dempsey	Alina Y. Rwei
+5	5	Elizabeth Higbee‐Dempsey	Alisha N. Spann
+5	5	Elizabeth Higbee‐Dempsey	Anthony Banks
+5	5	Elizabeth Higbee‐Dempsey	David A. Johnson
+5	5	Elizabeth Higbee‐Dempsey	Zheng Jenny Zhang
+5	5	Elizabeth Higbee‐Dempsey	Chad R. Haney
+5	5	Elizabeth Higbee‐Dempsey	Sung Hun Jin
+5	5	Elizabeth Higbee‐Dempsey	Alan V. Sahakian
+5	5	Elizabeth Higbee‐Dempsey	Yonggang Huang
+5	5	Elizabeth Higbee‐Dempsey	Gregory D. Trachiotis
+5	5	Elizabeth Higbee‐Dempsey	Bradley P. Knight
+5	5	Elizabeth Higbee‐Dempsey	Rishi Arora
+5	5	Elizabeth Higbee‐Dempsey	Igor R. Efimov
+5	5	Elizabeth Higbee‐Dempsey	John A. Rogers
+5	5	B Russo	Michael A. Napolitano
+5	5	B Russo	Timothy J. Holleran
+5	5	B Russo	Leen Abdul Razzak
+5	5	B Russo	Alana N. Miniovich
+5	5	B Russo	Geumbee Lee
+5	5	B Russo	Beth Geist
+5	5	B Russo	Brandon Kim
+5	5	B Russo	Shuling Han
+5	5	B Russo	Jaclyn A. Brennan
+5	5	B Russo	Kedar Aras
+5	5	B Russo	Sung Soo Kwak
+5	5	B Russo	Joohee Kim
+5	5	B Russo	Emily A. Waters
+5	5	B Russo	Xiangxing Yang
+5	5	B Russo	Amy Burrell
+5	5	B Russo	Keum San Chun
+5	5	B Russo	Claire Liu
+5	5	B Russo	Changsheng Wu
+5	5	B Russo	Alina Y. Rwei
+5	5	B Russo	Alisha N. Spann
+5	5	B Russo	Anthony Banks
+5	5	B Russo	David A. Johnson
+5	5	B Russo	Zheng Jenny Zhang
+5	5	B Russo	Chad R. Haney
+5	5	B Russo	Sung Hun Jin
+5	5	B Russo	Alan V. Sahakian
+5	5	B Russo	Yonggang Huang
+5	5	B Russo	Gregory D. Trachiotis
+5	5	B Russo	Bradley P. Knight
+5	5	B Russo	Rishi Arora
+5	5	B Russo	Igor R. Efimov
+5	5	B Russo	John A. Rogers
+5	5	Michael A. Napolitano	Timothy J. Holleran
+5	5	Michael A. Napolitano	Leen Abdul Razzak
+5	5	Michael A. Napolitano	Alana N. Miniovich
+5	5	Michael A. Napolitano	Geumbee Lee
+5	5	Michael A. Napolitano	Beth Geist
+5	5	Michael A. Napolitano	Brandon Kim
+5	5	Michael A. Napolitano	Shuling Han
+5	5	Michael A. Napolitano	Jaclyn A. Brennan
+5	5	Michael A. Napolitano	Kedar Aras
+5	5	Michael A. Napolitano	Sung Soo Kwak
+5	5	Michael A. Napolitano	Joohee Kim
+5	5	Michael A. Napolitano	Emily A. Waters
+5	5	Michael A. Napolitano	Xiangxing Yang
+5	5	Michael A. Napolitano	Amy Burrell
+5	5	Michael A. Napolitano	Keum San Chun
+5	5	Michael A. Napolitano	Claire Liu
+5	5	Michael A. Napolitano	Changsheng Wu
+5	5	Michael A. Napolitano	Alina Y. Rwei
+5	5	Michael A. Napolitano	Alisha N. Spann
+5	5	Michael A. Napolitano	Anthony Banks
+5	5	Michael A. Napolitano	David A. Johnson
+5	5	Michael A. Napolitano	Zheng Jenny Zhang
+5	5	Michael A. Napolitano	Chad R. Haney
+5	5	Michael A. Napolitano	Sung Hun Jin
+5	5	Michael A. Napolitano	Alan V. Sahakian
+5	5	Michael A. Napolitano	Yonggang Huang
+5	5	Michael A. Napolitano	Gregory D. Trachiotis
+5	5	Michael A. Napolitano	Bradley P. Knight
+5	5	Michael A. Napolitano	Rishi Arora
+5	5	Michael A. Napolitano	Igor R. Efimov
+5	5	Michael A. Napolitano	John A. Rogers
+5	5	Timothy J. Holleran	Leen Abdul Razzak
+5	5	Timothy J. Holleran	Alana N. Miniovich
+5	5	Timothy J. Holleran	Geumbee Lee
+5	5	Timothy J. Holleran	Beth Geist
+5	5	Timothy J. Holleran	Brandon Kim
+5	5	Timothy J. Holleran	Shuling Han
+5	5	Timothy J. Holleran	Jaclyn A. Brennan
+5	5	Timothy J. Holleran	Kedar Aras
+5	5	Timothy J. Holleran	Sung Soo Kwak
+5	5	Timothy J. Holleran	Joohee Kim
+5	5	Timothy J. Holleran	Emily A. Waters
+5	5	Timothy J. Holleran	Xiangxing Yang
+5	5	Timothy J. Holleran	Amy Burrell
+5	5	Timothy J. Holleran	Keum San Chun
+5	5	Timothy J. Holleran	Claire Liu
+5	5	Timothy J. Holleran	Changsheng Wu
+5	5	Timothy J. Holleran	Alina Y. Rwei
+5	5	Timothy J. Holleran	Alisha N. Spann
+5	5	Timothy J. Holleran	Anthony Banks
+5	5	Timothy J. Holleran	David A. Johnson
+5	5	Timothy J. Holleran	Zheng Jenny Zhang
+5	5	Timothy J. Holleran	Chad R. Haney
+5	5	Timothy J. Holleran	Sung Hun Jin
+5	5	Timothy J. Holleran	Alan V. Sahakian
+5	5	Timothy J. Holleran	Yonggang Huang
+5	5	Timothy J. Holleran	Gregory D. Trachiotis
+5	5	Timothy J. Holleran	Bradley P. Knight
+5	5	Timothy J. Holleran	Rishi Arora
+5	5	Timothy J. Holleran	Igor R. Efimov
+5	5	Timothy J. Holleran	John A. Rogers
+5	5	Leen Abdul Razzak	Alana N. Miniovich
+5	5	Leen Abdul Razzak	Geumbee Lee
+5	5	Leen Abdul Razzak	Beth Geist
+5	5	Leen Abdul Razzak	Brandon Kim
+5	5	Leen Abdul Razzak	Shuling Han
+5	5	Leen Abdul Razzak	Jaclyn A. Brennan
+5	5	Leen Abdul Razzak	Kedar Aras
+5	5	Leen Abdul Razzak	Sung Soo Kwak
+5	5	Leen Abdul Razzak	Joohee Kim
+5	5	Leen Abdul Razzak	Emily A. Waters
+5	5	Leen Abdul Razzak	Xiangxing Yang
+5	5	Leen Abdul Razzak	Amy Burrell
+5	5	Leen Abdul Razzak	Keum San Chun
+5	5	Leen Abdul Razzak	Claire Liu
+5	5	Leen Abdul Razzak	Changsheng Wu
+5	5	Leen Abdul Razzak	Alina Y. Rwei
+5	5	Leen Abdul Razzak	Alisha N. Spann
+5	5	Leen Abdul Razzak	Anthony Banks
+5	5	Leen Abdul Razzak	David A. Johnson
+5	5	Leen Abdul Razzak	Zheng Jenny Zhang
+5	5	Leen Abdul Razzak	Chad R. Haney
+5	5	Leen Abdul Razzak	Sung Hun Jin
+5	5	Leen Abdul Razzak	Alan V. Sahakian
+5	5	Leen Abdul Razzak	Yonggang Huang
+5	5	Leen Abdul Razzak	Gregory D. Trachiotis
+5	5	Leen Abdul Razzak	Bradley P. Knight
+5	5	Leen Abdul Razzak	Rishi Arora
+5	5	Leen Abdul Razzak	Igor R. Efimov
+5	5	Leen Abdul Razzak	John A. Rogers
+5	5	Alana N. Miniovich	Geumbee Lee
+5	5	Alana N. Miniovich	Beth Geist
+5	5	Alana N. Miniovich	Brandon Kim
+5	5	Alana N. Miniovich	Shuling Han
+5	5	Alana N. Miniovich	Jaclyn A. Brennan
+5	5	Alana N. Miniovich	Kedar Aras
+5	5	Alana N. Miniovich	Sung Soo Kwak
+5	5	Alana N. Miniovich	Joohee Kim
+5	5	Alana N. Miniovich	Emily A. Waters
+5	5	Alana N. Miniovich	Xiangxing Yang
+5	5	Alana N. Miniovich	Amy Burrell
+5	5	Alana N. Miniovich	Keum San Chun
+5	5	Alana N. Miniovich	Claire Liu
+5	5	Alana N. Miniovich	Changsheng Wu
+5	5	Alana N. Miniovich	Alina Y. Rwei
+5	5	Alana N. Miniovich	Alisha N. Spann
+5	5	Alana N. Miniovich	Anthony Banks
+5	5	Alana N. Miniovich	David A. Johnson
+5	5	Alana N. Miniovich	Zheng Jenny Zhang
+5	5	Alana N. Miniovich	Chad R. Haney
+5	5	Alana N. Miniovich	Sung Hun Jin
+5	5	Alana N. Miniovich	Alan V. Sahakian
+5	5	Alana N. Miniovich	Yonggang Huang
+5	5	Alana N. Miniovich	Gregory D. Trachiotis
+5	5	Alana N. Miniovich	Bradley P. Knight
+5	5	Alana N. Miniovich	Rishi Arora
+5	5	Alana N. Miniovich	Igor R. Efimov
+5	5	Alana N. Miniovich	John A. Rogers
+5	5	Geumbee Lee	Beth Geist
+5	5	Geumbee Lee	Brandon Kim
+5	5	Geumbee Lee	Shuling Han
+5	5	Geumbee Lee	Jaclyn A. Brennan
+5	5	Geumbee Lee	Kedar Aras
+5	5	Geumbee Lee	Sung Soo Kwak
+5	5	Geumbee Lee	Joohee Kim
+5	5	Geumbee Lee	Emily A. Waters
+5	5	Geumbee Lee	Xiangxing Yang
+5	5	Geumbee Lee	Amy Burrell
+5	5	Geumbee Lee	Keum San Chun
+5	5	Geumbee Lee	Claire Liu
+5	5	Geumbee Lee	Changsheng Wu
+5	5	Geumbee Lee	Alina Y. Rwei
+5	5	Geumbee Lee	Alisha N. Spann
+5	5	Geumbee Lee	Anthony Banks
+5	5	Geumbee Lee	David A. Johnson
+5	5	Geumbee Lee	Zheng Jenny Zhang
+5	5	Geumbee Lee	Chad R. Haney
+5	5	Geumbee Lee	Sung Hun Jin
+5	5	Geumbee Lee	Alan V. Sahakian
+5	5	Geumbee Lee	Yonggang Huang
+5	5	Geumbee Lee	Gregory D. Trachiotis
+5	5	Geumbee Lee	Bradley P. Knight
+5	5	Geumbee Lee	Rishi Arora
+5	5	Geumbee Lee	Igor R. Efimov
+5	5	Geumbee Lee	John A. Rogers
+5	5	Beth Geist	Brandon Kim
+5	5	Beth Geist	Shuling Han
+5	5	Beth Geist	Jaclyn A. Brennan
+5	5	Beth Geist	Kedar Aras
+5	5	Beth Geist	Sung Soo Kwak
+5	5	Beth Geist	Joohee Kim
+5	5	Beth Geist	Emily A. Waters
+5	5	Beth Geist	Xiangxing Yang
+5	5	Beth Geist	Amy Burrell
+5	5	Beth Geist	Keum San Chun
+5	5	Beth Geist	Claire Liu
+5	5	Beth Geist	Changsheng Wu
+5	5	Beth Geist	Alina Y. Rwei
+5	5	Beth Geist	Alisha N. Spann
+5	5	Beth Geist	Anthony Banks
+5	5	Beth Geist	David A. Johnson
+5	5	Beth Geist	Zheng Jenny Zhang
+5	5	Beth Geist	Chad R. Haney
+5	5	Beth Geist	Sung Hun Jin
+5	5	Beth Geist	Alan V. Sahakian
+5	5	Beth Geist	Yonggang Huang
+5	5	Beth Geist	Gregory D. Trachiotis
+5	5	Beth Geist	Bradley P. Knight
+5	5	Beth Geist	Rishi Arora
+5	5	Beth Geist	Igor R. Efimov
+5	5	Beth Geist	John A. Rogers
+5	5	Brandon Kim	Shuling Han
+5	5	Brandon Kim	Jaclyn A. Brennan
+5	5	Brandon Kim	Kedar Aras
+5	5	Brandon Kim	Sung Soo Kwak
+5	5	Brandon Kim	Joohee Kim
+5	5	Brandon Kim	Emily A. Waters
+5	5	Brandon Kim	Xiangxing Yang
+5	5	Brandon Kim	Amy Burrell
+5	5	Brandon Kim	Keum San Chun
+5	5	Brandon Kim	Claire Liu
+5	5	Brandon Kim	Changsheng Wu
+5	5	Brandon Kim	Alina Y. Rwei
+5	5	Brandon Kim	Alisha N. Spann
+5	5	Brandon Kim	Anthony Banks
+5	5	Brandon Kim	David A. Johnson
+5	5	Brandon Kim	Zheng Jenny Zhang
+5	5	Brandon Kim	Chad R. Haney
+5	5	Brandon Kim	Sung Hun Jin
+5	5	Brandon Kim	Alan V. Sahakian
+5	5	Brandon Kim	Yonggang Huang
+5	5	Brandon Kim	Gregory D. Trachiotis
+5	5	Brandon Kim	Bradley P. Knight
+5	5	Brandon Kim	Rishi Arora
+5	5	Brandon Kim	Igor R. Efimov
+5	5	Brandon Kim	John A. Rogers
+5	5	Shuling Han	Jaclyn A. Brennan
+5	5	Shuling Han	Kedar Aras
+5	5	Shuling Han	Sung Soo Kwak
+5	5	Shuling Han	Joohee Kim
+5	5	Shuling Han	Emily A. Waters
+5	5	Shuling Han	Xiangxing Yang
+5	5	Shuling Han	Amy Burrell
+5	5	Shuling Han	Keum San Chun
+5	5	Shuling Han	Claire Liu
+5	5	Shuling Han	Changsheng Wu
+5	5	Shuling Han	Alina Y. Rwei
+5	5	Shuling Han	Alisha N. Spann
+5	5	Shuling Han	Anthony Banks
+5	5	Shuling Han	David A. Johnson
+5	5	Shuling Han	Zheng Jenny Zhang
+5	5	Shuling Han	Chad R. Haney
+5	5	Shuling Han	Sung Hun Jin
+5	5	Shuling Han	Alan V. Sahakian
+5	5	Shuling Han	Yonggang Huang
+5	5	Shuling Han	Gregory D. Trachiotis
+5	5	Shuling Han	Bradley P. Knight
+5	5	Shuling Han	Rishi Arora
+5	5	Shuling Han	Igor R. Efimov
+5	5	Shuling Han	John A. Rogers
+5	5	Jaclyn A. Brennan	Kedar Aras
+5	5	Jaclyn A. Brennan	Sung Soo Kwak
+5	5	Jaclyn A. Brennan	Joohee Kim
+5	5	Jaclyn A. Brennan	Emily A. Waters
+5	5	Jaclyn A. Brennan	Xiangxing Yang
+5	5	Jaclyn A. Brennan	Amy Burrell
+5	5	Jaclyn A. Brennan	Keum San Chun
+5	5	Jaclyn A. Brennan	Claire Liu
+5	5	Jaclyn A. Brennan	Changsheng Wu
+5	5	Jaclyn A. Brennan	Alina Y. Rwei
+5	5	Jaclyn A. Brennan	Alisha N. Spann
+5	5	Jaclyn A. Brennan	Anthony Banks
+5	5	Jaclyn A. Brennan	David A. Johnson
+5	5	Jaclyn A. Brennan	Zheng Jenny Zhang
+5	5	Jaclyn A. Brennan	Chad R. Haney
+5	5	Jaclyn A. Brennan	Sung Hun Jin
+5	5	Jaclyn A. Brennan	Alan V. Sahakian
+5	5	Jaclyn A. Brennan	Yonggang Huang
+5	5	Jaclyn A. Brennan	Gregory D. Trachiotis
+5	5	Jaclyn A. Brennan	Bradley P. Knight
+5	5	Jaclyn A. Brennan	Rishi Arora
+5	5	Jaclyn A. Brennan	Igor R. Efimov
+5	5	Jaclyn A. Brennan	John A. Rogers
+5	5	Kedar Aras	Sung Soo Kwak
+5	5	Kedar Aras	Joohee Kim
+5	5	Kedar Aras	Emily A. Waters
+5	5	Kedar Aras	Xiangxing Yang
+5	5	Kedar Aras	Amy Burrell
+5	5	Kedar Aras	Keum San Chun
+5	5	Kedar Aras	Claire Liu
+5	5	Kedar Aras	Changsheng Wu
+5	5	Kedar Aras	Alina Y. Rwei
+5	5	Kedar Aras	Alisha N. Spann
+5	5	Kedar Aras	Anthony Banks
+5	5	Kedar Aras	David A. Johnson
+5	5	Kedar Aras	Zheng Jenny Zhang
+5	5	Kedar Aras	Chad R. Haney
+5	5	Kedar Aras	Sung Hun Jin
+5	5	Kedar Aras	Alan V. Sahakian
+5	5	Kedar Aras	Yonggang Huang
+5	5	Kedar Aras	Gregory D. Trachiotis
+5	5	Kedar Aras	Bradley P. Knight
+5	5	Kedar Aras	Rishi Arora
+5	5	Kedar Aras	Igor R. Efimov
+5	5	Kedar Aras	John A. Rogers
+5	5	Sung Soo Kwak	Joohee Kim
+5	5	Sung Soo Kwak	Emily A. Waters
+5	5	Sung Soo Kwak	Xiangxing Yang
+5	5	Sung Soo Kwak	Amy Burrell
+5	5	Sung Soo Kwak	Keum San Chun
+5	5	Sung Soo Kwak	Claire Liu
+5	5	Sung Soo Kwak	Changsheng Wu
+5	5	Sung Soo Kwak	Alina Y. Rwei
+5	5	Sung Soo Kwak	Alisha N. Spann
+5	5	Sung Soo Kwak	Anthony Banks
+5	5	Sung Soo Kwak	David A. Johnson
+5	5	Sung Soo Kwak	Zheng Jenny Zhang
+5	5	Sung Soo Kwak	Chad R. Haney
+5	5	Sung Soo Kwak	Sung Hun Jin
+5	5	Sung Soo Kwak	Alan V. Sahakian
+5	5	Sung Soo Kwak	Yonggang Huang
+5	5	Sung Soo Kwak	Gregory D. Trachiotis
+5	5	Sung Soo Kwak	Bradley P. Knight
+5	5	Sung Soo Kwak	Rishi Arora
+5	5	Sung Soo Kwak	Igor R. Efimov
+5	5	Sung Soo Kwak	John A. Rogers
+5	5	Joohee Kim	Emily A. Waters
+5	5	Joohee Kim	Xiangxing Yang
+5	5	Joohee Kim	Amy Burrell
+5	5	Joohee Kim	Keum San Chun
+5	5	Joohee Kim	Claire Liu
+5	5	Joohee Kim	Changsheng Wu
+5	5	Joohee Kim	Alina Y. Rwei
+5	5	Joohee Kim	Alisha N. Spann
+5	5	Joohee Kim	Anthony Banks
+5	5	Joohee Kim	David A. Johnson
+5	5	Joohee Kim	Zheng Jenny Zhang
+5	5	Joohee Kim	Chad R. Haney
+5	5	Joohee Kim	Sung Hun Jin
+5	5	Joohee Kim	Alan V. Sahakian
+5	5	Joohee Kim	Yonggang Huang
+5	5	Joohee Kim	Gregory D. Trachiotis
+5	5	Joohee Kim	Bradley P. Knight
+5	5	Joohee Kim	Rishi Arora
+5	5	Joohee Kim	Igor R. Efimov
+5	5	Joohee Kim	John A. Rogers
+5	5	Emily A. Waters	Xiangxing Yang
+5	5	Emily A. Waters	Amy Burrell
+5	5	Emily A. Waters	Keum San Chun
+5	5	Emily A. Waters	Claire Liu
+5	5	Emily A. Waters	Changsheng Wu
+5	5	Emily A. Waters	Alina Y. Rwei
+5	5	Emily A. Waters	Alisha N. Spann
+5	5	Emily A. Waters	Anthony Banks
+5	5	Emily A. Waters	David A. Johnson
+5	5	Emily A. Waters	Zheng Jenny Zhang
+5	5	Emily A. Waters	Chad R. Haney
+5	5	Emily A. Waters	Sung Hun Jin
+5	5	Emily A. Waters	Alan V. Sahakian
+5	5	Emily A. Waters	Yonggang Huang
+5	5	Emily A. Waters	Gregory D. Trachiotis
+5	5	Emily A. Waters	Bradley P. Knight
+5	5	Emily A. Waters	Rishi Arora
+5	5	Emily A. Waters	Igor R. Efimov
+5	5	Emily A. Waters	John A. Rogers
+5	5	Xiangxing Yang	Amy Burrell
+5	5	Xiangxing Yang	Keum San Chun
+5	5	Xiangxing Yang	Claire Liu
+5	5	Xiangxing Yang	Changsheng Wu
+5	5	Xiangxing Yang	Alina Y. Rwei
+5	5	Xiangxing Yang	Alisha N. Spann
+5	5	Xiangxing Yang	Anthony Banks
+5	5	Xiangxing Yang	David A. Johnson
+5	5	Xiangxing Yang	Zheng Jenny Zhang
+5	5	Xiangxing Yang	Chad R. Haney
+5	5	Xiangxing Yang	Sung Hun Jin
+5	5	Xiangxing Yang	Alan V. Sahakian
+5	5	Xiangxing Yang	Yonggang Huang
+5	5	Xiangxing Yang	Gregory D. Trachiotis
+5	5	Xiangxing Yang	Bradley P. Knight
+5	5	Xiangxing Yang	Rishi Arora
+5	5	Xiangxing Yang	Igor R. Efimov
+5	5	Xiangxing Yang	John A. Rogers
+5	5	Amy Burrell	Keum San Chun
+5	5	Amy Burrell	Claire Liu
+5	5	Amy Burrell	Changsheng Wu
+5	5	Amy Burrell	Alina Y. Rwei
+5	5	Amy Burrell	Alisha N. Spann
+5	5	Amy Burrell	Anthony Banks
+5	5	Amy Burrell	David A. Johnson
+5	5	Amy Burrell	Zheng Jenny Zhang
+5	5	Amy Burrell	Chad R. Haney
+5	5	Amy Burrell	Sung Hun Jin
+5	5	Amy Burrell	Alan V. Sahakian
+5	5	Amy Burrell	Yonggang Huang
+5	5	Amy Burrell	Gregory D. Trachiotis
+5	5	Amy Burrell	Bradley P. Knight
+5	5	Amy Burrell	Rishi Arora
+5	5	Amy Burrell	Igor R. Efimov
+5	5	Amy Burrell	John A. Rogers
+5	5	Keum San Chun	Claire Liu
+5	5	Keum San Chun	Changsheng Wu
+5	5	Keum San Chun	Alina Y. Rwei
+5	5	Keum San Chun	Alisha N. Spann
+5	5	Keum San Chun	Anthony Banks
+5	5	Keum San Chun	David A. Johnson
+5	5	Keum San Chun	Zheng Jenny Zhang
+5	5	Keum San Chun	Chad R. Haney
+5	5	Keum San Chun	Sung Hun Jin
+5	5	Keum San Chun	Alan V. Sahakian
+5	5	Keum San Chun	Yonggang Huang
+5	5	Keum San Chun	Gregory D. Trachiotis
+5	5	Keum San Chun	Bradley P. Knight
+5	5	Keum San Chun	Rishi Arora
+5	5	Keum San Chun	Igor R. Efimov
+5	5	Keum San Chun	John A. Rogers
+5	5	Claire Liu	Changsheng Wu
+5	5	Claire Liu	Alina Y. Rwei
+5	5	Claire Liu	Alisha N. Spann
+5	5	Claire Liu	Anthony Banks
+5	5	Claire Liu	David A. Johnson
+5	5	Claire Liu	Zheng Jenny Zhang
+5	5	Claire Liu	Chad R. Haney
+5	5	Claire Liu	Sung Hun Jin
+5	5	Claire Liu	Alan V. Sahakian
+5	5	Claire Liu	Yonggang Huang
+5	5	Claire Liu	Gregory D. Trachiotis
+5	5	Claire Liu	Bradley P. Knight
+5	5	Claire Liu	Rishi Arora
+5	5	Claire Liu	Igor R. Efimov
+5	5	Claire Liu	John A. Rogers
+5	5	Changsheng Wu	Alina Y. Rwei
+5	5	Changsheng Wu	Alisha N. Spann
+5	5	Changsheng Wu	Anthony Banks
+5	5	Changsheng Wu	David A. Johnson
+5	5	Changsheng Wu	Zheng Jenny Zhang
+5	5	Changsheng Wu	Chad R. Haney
+5	5	Changsheng Wu	Sung Hun Jin
+5	5	Changsheng Wu	Alan V. Sahakian
+5	5	Changsheng Wu	Yonggang Huang
+5	5	Changsheng Wu	Gregory D. Trachiotis
+5	5	Changsheng Wu	Bradley P. Knight
+5	5	Changsheng Wu	Rishi Arora
+5	5	Changsheng Wu	Igor R. Efimov
+5	5	Changsheng Wu	John A. Rogers
+5	5	Alina Y. Rwei	Alisha N. Spann
+5	5	Alina Y. Rwei	Anthony Banks
+5	5	Alina Y. Rwei	David A. Johnson
+5	5	Alina Y. Rwei	Zheng Jenny Zhang
+5	5	Alina Y. Rwei	Chad R. Haney
+5	5	Alina Y. Rwei	Sung Hun Jin
+5	5	Alina Y. Rwei	Alan V. Sahakian
+5	5	Alina Y. Rwei	Yonggang Huang
+5	5	Alina Y. Rwei	Gregory D. Trachiotis
+5	5	Alina Y. Rwei	Bradley P. Knight
+5	5	Alina Y. Rwei	Rishi Arora
+5	5	Alina Y. Rwei	Igor R. Efimov
+5	5	Alina Y. Rwei	John A. Rogers
+5	5	Alisha N. Spann	Anthony Banks
+5	5	Alisha N. Spann	David A. Johnson
+5	5	Alisha N. Spann	Zheng Jenny Zhang
+5	5	Alisha N. Spann	Chad R. Haney
+5	5	Alisha N. Spann	Sung Hun Jin
+5	5	Alisha N. Spann	Alan V. Sahakian
+5	5	Alisha N. Spann	Yonggang Huang
+5	5	Alisha N. Spann	Gregory D. Trachiotis
+5	5	Alisha N. Spann	Bradley P. Knight
+5	5	Alisha N. Spann	Rishi Arora
+5	5	Alisha N. Spann	Igor R. Efimov
+5	5	Alisha N. Spann	John A. Rogers
+5	5	Anthony Banks	David A. Johnson
+5	5	Anthony Banks	Zheng Jenny Zhang
+5	5	Anthony Banks	Chad R. Haney
+5	5	Anthony Banks	Sung Hun Jin
+5	5	Anthony Banks	Alan V. Sahakian
+5	5	Anthony Banks	Yonggang Huang
+5	5	Anthony Banks	Gregory D. Trachiotis
+5	5	Anthony Banks	Bradley P. Knight
+5	5	Anthony Banks	Rishi Arora
+5	5	Anthony Banks	Igor R. Efimov
+5	5	Anthony Banks	John A. Rogers
+5	5	David A. Johnson	Zheng Jenny Zhang
+5	5	David A. Johnson	Chad R. Haney
+5	5	David A. Johnson	Sung Hun Jin
+5	5	David A. Johnson	Alan V. Sahakian
+5	5	David A. Johnson	Yonggang Huang
+5	5	David A. Johnson	Gregory D. Trachiotis
+5	5	David A. Johnson	Bradley P. Knight
+5	5	David A. Johnson	Rishi Arora
+5	5	David A. Johnson	Igor R. Efimov
+5	5	David A. Johnson	John A. Rogers
+5	5	Zheng Jenny Zhang	Chad R. Haney
+5	5	Zheng Jenny Zhang	Sung Hun Jin
+5	5	Zheng Jenny Zhang	Alan V. Sahakian
+5	5	Zheng Jenny Zhang	Yonggang Huang
+5	5	Zheng Jenny Zhang	Gregory D. Trachiotis
+5	5	Zheng Jenny Zhang	Bradley P. Knight
+5	5	Zheng Jenny Zhang	Rishi Arora
+5	5	Zheng Jenny Zhang	Igor R. Efimov
+5	5	Zheng Jenny Zhang	John A. Rogers
+5	5	Chad R. Haney	Sung Hun Jin
+5	5	Chad R. Haney	Alan V. Sahakian
+5	5	Chad R. Haney	Yonggang Huang
+5	5	Chad R. Haney	Gregory D. Trachiotis
+5	5	Chad R. Haney	Bradley P. Knight
+5	5	Chad R. Haney	Rishi Arora
+5	5	Chad R. Haney	Igor R. Efimov
+5	5	Chad R. Haney	John A. Rogers
+5	5	Sung Hun Jin	Alan V. Sahakian
+5	5	Sung Hun Jin	Yonggang Huang
+5	5	Sung Hun Jin	Gregory D. Trachiotis
+5	5	Sung Hun Jin	Bradley P. Knight
+5	5	Sung Hun Jin	Rishi Arora
+5	5	Sung Hun Jin	Igor R. Efimov
+5	5	Sung Hun Jin	John A. Rogers
+5	5	Alan V. Sahakian	Yonggang Huang
+5	5	Alan V. Sahakian	Gregory D. Trachiotis
+5	5	Alan V. Sahakian	Bradley P. Knight
+5	5	Alan V. Sahakian	Rishi Arora
+5	5	Alan V. Sahakian	Igor R. Efimov
+5	5	Alan V. Sahakian	John A. Rogers
+5	5	Yonggang Huang	Gregory D. Trachiotis
+5	5	Yonggang Huang	Bradley P. Knight
+5	5	Yonggang Huang	Rishi Arora
+5	5	Yonggang Huang	Igor R. Efimov
+5	5	Yonggang Huang	John A. Rogers
+5	5	Gregory D. Trachiotis	Bradley P. Knight
+5	5	Gregory D. Trachiotis	Rishi Arora
+5	5	Gregory D. Trachiotis	Igor R. Efimov
+5	5	Gregory D. Trachiotis	John A. Rogers
+5	5	Bradley P. Knight	Rishi Arora
+5	5	Bradley P. Knight	Igor R. Efimov
+5	5	Bradley P. Knight	John A. Rogers
+5	5	Rishi Arora	Igor R. Efimov
+5	5	Rishi Arora	John A. Rogers
+5	5	Igor R. Efimov	John A. Rogers
+6	6	Olujimi A. Ajijola	Tolga Aksu
+6	6	Olujimi A. Ajijola	Rishi Arora
+6	6	Olujimi A. Ajijola	Italo Biaggioni
+6	6	Olujimi A. Ajijola	Peng‐Sheng Chen
+6	6	Olujimi A. Ajijola	Gaetano Maria De Ferrari
+6	6	Olujimi A. Ajijola	Veronica Dusi
+6	6	Olujimi A. Ajijola	Marat Fudim
+6	6	Olujimi A. Ajijola	Jeffrey J. Goldberger
+6	6	Olujimi A. Ajijola	Alexander L. Green
+6	6	Olujimi A. Ajijola	Neil Herring
+6	6	Olujimi A. Ajijola	Sahib S. Khalsa
+6	6	Olujimi A. Ajijola	Rajesh Kumar
+6	6	Olujimi A. Ajijola	Edward G. Lakatta
+6	6	Olujimi A. Ajijola	Reena Mehra
+6	6	Olujimi A. Ajijola	Christian Meyer
+6	6	Olujimi A. Ajijola	Sunny S. Po
+6	6	Olujimi A. Ajijola	Stavros Stavrakis
+6	6	Olujimi A. Ajijola	Virend K. Somers
+6	6	Olujimi A. Ajijola	Alex Y. Tan
+6	6	Olujimi A. Ajijola	Miguel Valderrábano
+6	6	Olujimi A. Ajijola	Kalyanam Shivkumar
+6	6	Tolga Aksu	Rishi Arora
+6	6	Tolga Aksu	Italo Biaggioni
+6	6	Tolga Aksu	Peng‐Sheng Chen
+6	6	Tolga Aksu	Gaetano Maria De Ferrari
+6	6	Tolga Aksu	Veronica Dusi
+6	6	Tolga Aksu	Marat Fudim
+6	6	Tolga Aksu	Jeffrey J. Goldberger
+6	6	Tolga Aksu	Alexander L. Green
+6	6	Tolga Aksu	Neil Herring
+6	6	Tolga Aksu	Sahib S. Khalsa
+6	6	Tolga Aksu	Rajesh Kumar
+6	6	Tolga Aksu	Edward G. Lakatta
+6	6	Tolga Aksu	Reena Mehra
+6	6	Tolga Aksu	Christian Meyer
+6	6	Tolga Aksu	Sunny S. Po
+6	6	Tolga Aksu	Stavros Stavrakis
+6	6	Tolga Aksu	Virend K. Somers
+6	6	Tolga Aksu	Alex Y. Tan
+6	6	Tolga Aksu	Miguel Valderrábano
+6	6	Tolga Aksu	Kalyanam Shivkumar
+6	6	Rishi Arora	Italo Biaggioni
+6	6	Rishi Arora	Peng‐Sheng Chen
+6	6	Rishi Arora	Gaetano Maria De Ferrari
+6	6	Rishi Arora	Veronica Dusi
+6	6	Rishi Arora	Marat Fudim
+6	6	Rishi Arora	Jeffrey J. Goldberger
+6	6	Rishi Arora	Alexander L. Green
+6	6	Rishi Arora	Neil Herring
+6	6	Rishi Arora	Sahib S. Khalsa
+6	6	Rishi Arora	Rajesh Kumar
+6	6	Rishi Arora	Edward G. Lakatta
+6	6	Rishi Arora	Reena Mehra
+6	6	Rishi Arora	Christian Meyer
+6	6	Rishi Arora	Sunny S. Po
+6	6	Rishi Arora	Stavros Stavrakis
+6	6	Rishi Arora	Virend K. Somers
+6	6	Rishi Arora	Alex Y. Tan
+6	6	Rishi Arora	Miguel Valderrábano
+6	6	Rishi Arora	Kalyanam Shivkumar
+6	6	Italo Biaggioni	Peng‐Sheng Chen
+6	6	Italo Biaggioni	Gaetano Maria De Ferrari
+6	6	Italo Biaggioni	Veronica Dusi
+6	6	Italo Biaggioni	Marat Fudim
+6	6	Italo Biaggioni	Jeffrey J. Goldberger
+6	6	Italo Biaggioni	Alexander L. Green
+6	6	Italo Biaggioni	Neil Herring
+6	6	Italo Biaggioni	Sahib S. Khalsa
+6	6	Italo Biaggioni	Rajesh Kumar
+6	6	Italo Biaggioni	Edward G. Lakatta
+6	6	Italo Biaggioni	Reena Mehra
+6	6	Italo Biaggioni	Christian Meyer
+6	6	Italo Biaggioni	Sunny S. Po
+6	6	Italo Biaggioni	Stavros Stavrakis
+6	6	Italo Biaggioni	Virend K. Somers
+6	6	Italo Biaggioni	Alex Y. Tan
+6	6	Italo Biaggioni	Miguel Valderrábano
+6	6	Italo Biaggioni	Kalyanam Shivkumar
+6	6	Peng‐Sheng Chen	Gaetano Maria De Ferrari
+6	6	Peng‐Sheng Chen	Veronica Dusi
+6	6	Peng‐Sheng Chen	Marat Fudim
+6	6	Peng‐Sheng Chen	Jeffrey J. Goldberger
+6	6	Peng‐Sheng Chen	Alexander L. Green
+6	6	Peng‐Sheng Chen	Neil Herring
+6	6	Peng‐Sheng Chen	Sahib S. Khalsa
+6	6	Peng‐Sheng Chen	Rajesh Kumar
+6	6	Peng‐Sheng Chen	Edward G. Lakatta
+6	6	Peng‐Sheng Chen	Reena Mehra
+6	6	Peng‐Sheng Chen	Christian Meyer
+6	6	Peng‐Sheng Chen	Sunny S. Po
+6	6	Peng‐Sheng Chen	Stavros Stavrakis
+6	6	Peng‐Sheng Chen	Virend K. Somers
+6	6	Peng‐Sheng Chen	Alex Y. Tan
+6	6	Peng‐Sheng Chen	Miguel Valderrábano
+6	6	Peng‐Sheng Chen	Kalyanam Shivkumar
+6	6	Gaetano Maria De Ferrari	Veronica Dusi
+6	6	Gaetano Maria De Ferrari	Marat Fudim
+6	6	Gaetano Maria De Ferrari	Jeffrey J. Goldberger
+6	6	Gaetano Maria De Ferrari	Alexander L. Green
+6	6	Gaetano Maria De Ferrari	Neil Herring
+6	6	Gaetano Maria De Ferrari	Sahib S. Khalsa
+6	6	Gaetano Maria De Ferrari	Rajesh Kumar
+6	6	Gaetano Maria De Ferrari	Edward G. Lakatta
+6	6	Gaetano Maria De Ferrari	Reena Mehra
+6	6	Gaetano Maria De Ferrari	Christian Meyer
+6	6	Gaetano Maria De Ferrari	Sunny S. Po
+6	6	Gaetano Maria De Ferrari	Stavros Stavrakis
+6	6	Gaetano Maria De Ferrari	Virend K. Somers
+6	6	Gaetano Maria De Ferrari	Alex Y. Tan
+6	6	Gaetano Maria De Ferrari	Miguel Valderrábano
+6	6	Gaetano Maria De Ferrari	Kalyanam Shivkumar
+6	6	Veronica Dusi	Marat Fudim
+6	6	Veronica Dusi	Jeffrey J. Goldberger
+6	6	Veronica Dusi	Alexander L. Green
+6	6	Veronica Dusi	Neil Herring
+6	6	Veronica Dusi	Sahib S. Khalsa
+6	6	Veronica Dusi	Rajesh Kumar
+6	6	Veronica Dusi	Edward G. Lakatta
+6	6	Veronica Dusi	Reena Mehra
+6	6	Veronica Dusi	Christian Meyer
+6	6	Veronica Dusi	Sunny S. Po
+6	6	Veronica Dusi	Stavros Stavrakis
+6	6	Veronica Dusi	Virend K. Somers
+6	6	Veronica Dusi	Alex Y. Tan
+6	6	Veronica Dusi	Miguel Valderrábano
+6	6	Veronica Dusi	Kalyanam Shivkumar
+6	6	Marat Fudim	Jeffrey J. Goldberger
+6	6	Marat Fudim	Alexander L. Green
+6	6	Marat Fudim	Neil Herring
+6	6	Marat Fudim	Sahib S. Khalsa
+6	6	Marat Fudim	Rajesh Kumar
+6	6	Marat Fudim	Edward G. Lakatta
+6	6	Marat Fudim	Reena Mehra
+6	6	Marat Fudim	Christian Meyer
+6	6	Marat Fudim	Sunny S. Po
+6	6	Marat Fudim	Stavros Stavrakis
+6	6	Marat Fudim	Virend K. Somers
+6	6	Marat Fudim	Alex Y. Tan
+6	6	Marat Fudim	Miguel Valderrábano
+6	6	Marat Fudim	Kalyanam Shivkumar
+6	6	Jeffrey J. Goldberger	Alexander L. Green
+6	6	Jeffrey J. Goldberger	Neil Herring
+6	6	Jeffrey J. Goldberger	Sahib S. Khalsa
+6	6	Jeffrey J. Goldberger	Rajesh Kumar
+6	6	Jeffrey J. Goldberger	Edward G. Lakatta
+6	6	Jeffrey J. Goldberger	Reena Mehra
+6	6	Jeffrey J. Goldberger	Christian Meyer
+6	6	Jeffrey J. Goldberger	Sunny S. Po
+6	6	Jeffrey J. Goldberger	Stavros Stavrakis
+6	6	Jeffrey J. Goldberger	Virend K. Somers
+6	6	Jeffrey J. Goldberger	Alex Y. Tan
+6	6	Jeffrey J. Goldberger	Miguel Valderrábano
+6	6	Jeffrey J. Goldberger	Kalyanam Shivkumar
+6	6	Alexander L. Green	Neil Herring
+6	6	Alexander L. Green	Sahib S. Khalsa
+6	6	Alexander L. Green	Rajesh Kumar
+6	6	Alexander L. Green	Edward G. Lakatta
+6	6	Alexander L. Green	Reena Mehra
+6	6	Alexander L. Green	Christian Meyer
+6	6	Alexander L. Green	Sunny S. Po
+6	6	Alexander L. Green	Stavros Stavrakis
+6	6	Alexander L. Green	Virend K. Somers
+6	6	Alexander L. Green	Alex Y. Tan
+6	6	Alexander L. Green	Miguel Valderrábano
+6	6	Alexander L. Green	Kalyanam Shivkumar
+6	6	Neil Herring	Sahib S. Khalsa
+6	6	Neil Herring	Rajesh Kumar
+6	6	Neil Herring	Edward G. Lakatta
+6	6	Neil Herring	Reena Mehra
+6	6	Neil Herring	Christian Meyer
+6	6	Neil Herring	Sunny S. Po
+6	6	Neil Herring	Stavros Stavrakis
+6	6	Neil Herring	Virend K. Somers
+6	6	Neil Herring	Alex Y. Tan
+6	6	Neil Herring	Miguel Valderrábano
+6	6	Neil Herring	Kalyanam Shivkumar
+6	6	Sahib S. Khalsa	Rajesh Kumar
+6	6	Sahib S. Khalsa	Edward G. Lakatta
+6	6	Sahib S. Khalsa	Reena Mehra
+6	6	Sahib S. Khalsa	Christian Meyer
+6	6	Sahib S. Khalsa	Sunny S. Po
+6	6	Sahib S. Khalsa	Stavros Stavrakis
+6	6	Sahib S. Khalsa	Virend K. Somers
+6	6	Sahib S. Khalsa	Alex Y. Tan
+6	6	Sahib S. Khalsa	Miguel Valderrábano
+6	6	Sahib S. Khalsa	Kalyanam Shivkumar
+6	6	Rajesh Kumar	Edward G. Lakatta
+6	6	Rajesh Kumar	Reena Mehra
+6	6	Rajesh Kumar	Christian Meyer
+6	6	Rajesh Kumar	Sunny S. Po
+6	6	Rajesh Kumar	Stavros Stavrakis
+6	6	Rajesh Kumar	Virend K. Somers
+6	6	Rajesh Kumar	Alex Y. Tan
+6	6	Rajesh Kumar	Miguel Valderrábano
+6	6	Rajesh Kumar	Kalyanam Shivkumar
+6	6	Edward G. Lakatta	Reena Mehra
+6	6	Edward G. Lakatta	Christian Meyer
+6	6	Edward G. Lakatta	Sunny S. Po
+6	6	Edward G. Lakatta	Stavros Stavrakis
+6	6	Edward G. Lakatta	Virend K. Somers
+6	6	Edward G. Lakatta	Alex Y. Tan
+6	6	Edward G. Lakatta	Miguel Valderrábano
+6	6	Edward G. Lakatta	Kalyanam Shivkumar
+6	6	Reena Mehra	Christian Meyer
+6	6	Reena Mehra	Sunny S. Po
+6	6	Reena Mehra	Stavros Stavrakis
+6	6	Reena Mehra	Virend K. Somers
+6	6	Reena Mehra	Alex Y. Tan
+6	6	Reena Mehra	Miguel Valderrábano
+6	6	Reena Mehra	Kalyanam Shivkumar
+6	6	Christian Meyer	Sunny S. Po
+6	6	Christian Meyer	Stavros Stavrakis
+6	6	Christian Meyer	Virend K. Somers
+6	6	Christian Meyer	Alex Y. Tan
+6	6	Christian Meyer	Miguel Valderrábano
+6	6	Christian Meyer	Kalyanam Shivkumar
+6	6	Sunny S. Po	Stavros Stavrakis
+6	6	Sunny S. Po	Virend K. Somers
+6	6	Sunny S. Po	Alex Y. Tan
+6	6	Sunny S. Po	Miguel Valderrábano
+6	6	Sunny S. Po	Kalyanam Shivkumar
+6	6	Stavros Stavrakis	Virend K. Somers
+6	6	Stavros Stavrakis	Alex Y. Tan
+6	6	Stavros Stavrakis	Miguel Valderrábano
+6	6	Stavros Stavrakis	Kalyanam Shivkumar
+6	6	Virend K. Somers	Alex Y. Tan
+6	6	Virend K. Somers	Miguel Valderrábano
+6	6	Virend K. Somers	Kalyanam Shivkumar
+6	6	Alex Y. Tan	Miguel Valderrábano
+6	6	Alex Y. Tan	Kalyanam Shivkumar
+6	6	Miguel Valderrábano	Kalyanam Shivkumar
+7	7	Rishi Arora	Sander Verheule
+7	7	Rishi Arora	Luis R. Scott
+7	7	Rishi Arora	ANTONIO NAVARRETE
+7	7	Rishi Arora	Vikram Katari
+7	7	Rishi Arora	Emily Wilson
+7	7	Rishi Arora	Dev Vaz
+7	7	Rishi Arora	Jeffrey E. Olgin
+7	7	Sander Verheule	Luis R. Scott
+7	7	Sander Verheule	ANTONIO NAVARRETE
+7	7	Sander Verheule	Vikram Katari
+7	7	Sander Verheule	Emily Wilson
+7	7	Sander Verheule	Dev Vaz
+7	7	Sander Verheule	Jeffrey E. Olgin
+7	7	Luis R. Scott	ANTONIO NAVARRETE
+7	7	Luis R. Scott	Vikram Katari
+7	7	Luis R. Scott	Emily Wilson
+7	7	Luis R. Scott	Dev Vaz
+7	7	Luis R. Scott	Jeffrey E. Olgin
+7	7	ANTONIO NAVARRETE	Vikram Katari
+7	7	ANTONIO NAVARRETE	Emily Wilson
+7	7	ANTONIO NAVARRETE	Dev Vaz
+7	7	ANTONIO NAVARRETE	Jeffrey E. Olgin
+7	7	Vikram Katari	Emily Wilson
+7	7	Vikram Katari	Dev Vaz
+7	7	Vikram Katari	Jeffrey E. Olgin
+7	7	Emily Wilson	Dev Vaz
+7	7	Emily Wilson	Jeffrey E. Olgin
+7	7	Dev Vaz	Jeffrey E. Olgin
+8	8	Siew Pheng Lim	Christian G. Noble
+8	8	Siew Pheng Lim	Cheah C. Seh
+8	8	Siew Pheng Lim	Tingjin Sherryl Soh
+8	8	Siew Pheng Lim	Abbas El Sahili
+8	8	Siew Pheng Lim	Grace Kar Yarn Chan
+8	8	Siew Pheng Lim	Julien Lescar
+8	8	Siew Pheng Lim	Rishi Arora
+8	8	Siew Pheng Lim	Timothy E. Benson
+8	8	Siew Pheng Lim	Shahul Nilar
+8	8	Siew Pheng Lim	Ujjini H. Manjunatha
+8	8	Siew Pheng Lim	Kah Fei Wan
+8	8	Siew Pheng Lim	Hongping Dong
+8	8	Siew Pheng Lim	Xuping Xie
+8	8	Siew Pheng Lim	Pei‐Yong Shi
+8	8	Siew Pheng Lim	Fumiaki Yokokawa
+8	8	Christian G. Noble	Cheah C. Seh
+8	8	Christian G. Noble	Tingjin Sherryl Soh
+8	8	Christian G. Noble	Abbas El Sahili
+8	8	Christian G. Noble	Grace Kar Yarn Chan
+8	8	Christian G. Noble	Julien Lescar
+8	8	Christian G. Noble	Rishi Arora
+8	8	Christian G. Noble	Timothy E. Benson
+8	8	Christian G. Noble	Shahul Nilar
+8	8	Christian G. Noble	Ujjini H. Manjunatha
+8	8	Christian G. Noble	Kah Fei Wan
+8	8	Christian G. Noble	Hongping Dong
+8	8	Christian G. Noble	Xuping Xie
+8	8	Christian G. Noble	Pei‐Yong Shi
+8	8	Christian G. Noble	Fumiaki Yokokawa
+8	8	Cheah C. Seh	Tingjin Sherryl Soh
+8	8	Cheah C. Seh	Abbas El Sahili
+8	8	Cheah C. Seh	Grace Kar Yarn Chan
+8	8	Cheah C. Seh	Julien Lescar
+8	8	Cheah C. Seh	Rishi Arora
+8	8	Cheah C. Seh	Timothy E. Benson
+8	8	Cheah C. Seh	Shahul Nilar
+8	8	Cheah C. Seh	Ujjini H. Manjunatha
+8	8	Cheah C. Seh	Kah Fei Wan
+8	8	Cheah C. Seh	Hongping Dong
+8	8	Cheah C. Seh	Xuping Xie
+8	8	Cheah C. Seh	Pei‐Yong Shi
+8	8	Cheah C. Seh	Fumiaki Yokokawa
+8	8	Tingjin Sherryl Soh	Abbas El Sahili
+8	8	Tingjin Sherryl Soh	Grace Kar Yarn Chan
+8	8	Tingjin Sherryl Soh	Julien Lescar
+8	8	Tingjin Sherryl Soh	Rishi Arora
+8	8	Tingjin Sherryl Soh	Timothy E. Benson
+8	8	Tingjin Sherryl Soh	Shahul Nilar
+8	8	Tingjin Sherryl Soh	Ujjini H. Manjunatha
+8	8	Tingjin Sherryl Soh	Kah Fei Wan
+8	8	Tingjin Sherryl Soh	Hongping Dong
+8	8	Tingjin Sherryl Soh	Xuping Xie
+8	8	Tingjin Sherryl Soh	Pei‐Yong Shi
+8	8	Tingjin Sherryl Soh	Fumiaki Yokokawa
+8	8	Abbas El Sahili	Grace Kar Yarn Chan
+8	8	Abbas El Sahili	Julien Lescar
+8	8	Abbas El Sahili	Rishi Arora
+8	8	Abbas El Sahili	Timothy E. Benson
+8	8	Abbas El Sahili	Shahul Nilar
+8	8	Abbas El Sahili	Ujjini H. Manjunatha
+8	8	Abbas El Sahili	Kah Fei Wan
+8	8	Abbas El Sahili	Hongping Dong
+8	8	Abbas El Sahili	Xuping Xie
+8	8	Abbas El Sahili	Pei‐Yong Shi
+8	8	Abbas El Sahili	Fumiaki Yokokawa
+8	8	Grace Kar Yarn Chan	Julien Lescar
+8	8	Grace Kar Yarn Chan	Rishi Arora
+8	8	Grace Kar Yarn Chan	Timothy E. Benson
+8	8	Grace Kar Yarn Chan	Shahul Nilar
+8	8	Grace Kar Yarn Chan	Ujjini H. Manjunatha
+8	8	Grace Kar Yarn Chan	Kah Fei Wan
+8	8	Grace Kar Yarn Chan	Hongping Dong
+8	8	Grace Kar Yarn Chan	Xuping Xie
+8	8	Grace Kar Yarn Chan	Pei‐Yong Shi
+8	8	Grace Kar Yarn Chan	Fumiaki Yokokawa
+8	8	Julien Lescar	Rishi Arora
+8	8	Julien Lescar	Timothy E. Benson
+8	8	Julien Lescar	Shahul Nilar
+8	8	Julien Lescar	Ujjini H. Manjunatha
+8	8	Julien Lescar	Kah Fei Wan
+8	8	Julien Lescar	Hongping Dong
+8	8	Julien Lescar	Xuping Xie
+8	8	Julien Lescar	Pei‐Yong Shi
+8	8	Julien Lescar	Fumiaki Yokokawa
+8	8	Rishi Arora	Timothy E. Benson
+8	8	Rishi Arora	Shahul Nilar
+8	8	Rishi Arora	Ujjini H. Manjunatha
+8	8	Rishi Arora	Kah Fei Wan
+8	8	Rishi Arora	Hongping Dong
+8	8	Rishi Arora	Xuping Xie
+8	8	Rishi Arora	Pei‐Yong Shi
+8	8	Rishi Arora	Fumiaki Yokokawa
+8	8	Timothy E. Benson	Shahul Nilar
+8	8	Timothy E. Benson	Ujjini H. Manjunatha
+8	8	Timothy E. Benson	Kah Fei Wan
+8	8	Timothy E. Benson	Hongping Dong
+8	8	Timothy E. Benson	Xuping Xie
+8	8	Timothy E. Benson	Pei‐Yong Shi
+8	8	Timothy E. Benson	Fumiaki Yokokawa
+8	8	Shahul Nilar	Ujjini H. Manjunatha
+8	8	Shahul Nilar	Kah Fei Wan
+8	8	Shahul Nilar	Hongping Dong
+8	8	Shahul Nilar	Xuping Xie
+8	8	Shahul Nilar	Pei‐Yong Shi
+8	8	Shahul Nilar	Fumiaki Yokokawa
+8	8	Ujjini H. Manjunatha	Kah Fei Wan
+8	8	Ujjini H. Manjunatha	Hongping Dong
+8	8	Ujjini H. Manjunatha	Xuping Xie
+8	8	Ujjini H. Manjunatha	Pei‐Yong Shi
+8	8	Ujjini H. Manjunatha	Fumiaki Yokokawa
+8	8	Kah Fei Wan	Hongping Dong
+8	8	Kah Fei Wan	Xuping Xie
+8	8	Kah Fei Wan	Pei‐Yong Shi
+8	8	Kah Fei Wan	Fumiaki Yokokawa
+8	8	Hongping Dong	Xuping Xie
+8	8	Hongping Dong	Pei‐Yong Shi
+8	8	Hongping Dong	Fumiaki Yokokawa
+8	8	Xuping Xie	Pei‐Yong Shi
+8	8	Xuping Xie	Fumiaki Yokokawa
+8	8	Pei‐Yong Shi	Fumiaki Yokokawa
+9	9	Christopher A. Groh	Shishir Sharma
+9	9	Christopher A. Groh	Daniel J. Pelchovitz
+9	9	Christopher A. Groh	Prashant D. Bhave
+9	9	Christopher A. Groh	John Rhyner
+9	9	Christopher A. Groh	Nishant Verma
+9	9	Christopher A. Groh	Rishi Arora
+9	9	Christopher A. Groh	Alexandru B. Chicos
+9	9	Christopher A. Groh	Susan S. Kim
+9	9	Christopher A. Groh	Albert Lin
+9	9	Christopher A. Groh	Rod Passman
+9	9	Christopher A. Groh	Bradley P. Knight
+9	9	Shishir Sharma	Daniel J. Pelchovitz
+9	9	Shishir Sharma	Prashant D. Bhave
+9	9	Shishir Sharma	John Rhyner
+9	9	Shishir Sharma	Nishant Verma
+9	9	Shishir Sharma	Rishi Arora
+9	9	Shishir Sharma	Alexandru B. Chicos
+9	9	Shishir Sharma	Susan S. Kim
+9	9	Shishir Sharma	Albert Lin
+9	9	Shishir Sharma	Rod Passman
+9	9	Shishir Sharma	Bradley P. Knight
+9	9	Daniel J. Pelchovitz	Prashant D. Bhave
+9	9	Daniel J. Pelchovitz	John Rhyner
+9	9	Daniel J. Pelchovitz	Nishant Verma
+9	9	Daniel J. Pelchovitz	Rishi Arora
+9	9	Daniel J. Pelchovitz	Alexandru B. Chicos
+9	9	Daniel J. Pelchovitz	Susan S. Kim
+9	9	Daniel J. Pelchovitz	Albert Lin
+9	9	Daniel J. Pelchovitz	Rod Passman
+9	9	Daniel J. Pelchovitz	Bradley P. Knight
+9	9	Prashant D. Bhave	John Rhyner
+9	9	Prashant D. Bhave	Nishant Verma
+9	9	Prashant D. Bhave	Rishi Arora
+9	9	Prashant D. Bhave	Alexandru B. Chicos
+9	9	Prashant D. Bhave	Susan S. Kim
+9	9	Prashant D. Bhave	Albert Lin
+9	9	Prashant D. Bhave	Rod Passman
+9	9	Prashant D. Bhave	Bradley P. Knight
+9	9	John Rhyner	Nishant Verma
+9	9	John Rhyner	Rishi Arora
+9	9	John Rhyner	Alexandru B. Chicos
+9	9	John Rhyner	Susan S. Kim
+9	9	John Rhyner	Albert Lin
+9	9	John Rhyner	Rod Passman
+9	9	John Rhyner	Bradley P. Knight
+9	9	Nishant Verma	Rishi Arora
+9	9	Nishant Verma	Alexandru B. Chicos
+9	9	Nishant Verma	Susan S. Kim
+9	9	Nishant Verma	Albert Lin
+9	9	Nishant Verma	Rod Passman
+9	9	Nishant Verma	Bradley P. Knight
+9	9	Rishi Arora	Alexandru B. Chicos
+9	9	Rishi Arora	Susan S. Kim
+9	9	Rishi Arora	Albert Lin
+9	9	Rishi Arora	Rod Passman
+9	9	Rishi Arora	Bradley P. Knight
+9	9	Alexandru B. Chicos	Susan S. Kim
+9	9	Alexandru B. Chicos	Albert Lin
+9	9	Alexandru B. Chicos	Rod Passman
+9	9	Alexandru B. Chicos	Bradley P. Knight
+9	9	Susan S. Kim	Albert Lin
+9	9	Susan S. Kim	Rod Passman
+9	9	Susan S. Kim	Bradley P. Knight
+9	9	Albert Lin	Rod Passman
+9	9	Albert Lin	Bradley P. Knight
+9	9	Rod Passman	Bradley P. Knight
+10	10	Ramesh Arora	Herbert Y. Meltzer
+11	11	Robert C. Smith	Herbert Y. Meltzer
+11	11	Robert C. Smith	Ramesh Arora
+11	11	Robert C. Smith	John M. Davis
+11	11	Herbert Y. Meltzer	Ramesh Arora
+11	11	Herbert Y. Meltzer	John M. Davis
+11	11	Ramesh Arora	John M. Davis
+12	12	Ramesh Arora	Herbert Y. Meltzer
+13	13	Herbert Y. Meltzer	Michael A. Young
+13	13	Herbert Y. Meltzer	John Metz
+13	13	Herbert Y. Meltzer	V. S. Fang
+13	13	Herbert Y. Meltzer	Paul M. Schyve
+13	13	Herbert Y. Meltzer	Ramesh Arora
+13	13	Michael A. Young	John Metz
+13	13	Michael A. Young	V. S. Fang
+13	13	Michael A. Young	Paul M. Schyve
+13	13	Michael A. Young	Ramesh Arora
+13	13	John Metz	V. S. Fang
+13	13	John Metz	Paul M. Schyve
+13	13	John Metz	Ramesh Arora
+13	13	V. S. Fang	Paul M. Schyve
+13	13	V. S. Fang	Ramesh Arora
+13	13	Paul M. Schyve	Ramesh Arora
+14	14	Ramesh Arora	Mohan Nair
+14	14	Ramesh Arora	D. Kalra
+14	14	Ramesh Arora	M Nigam
+14	14	Ramesh Arora	M Khalilullah
+14	14	Mohan Nair	D. Kalra
+14	14	Mohan Nair	M Nigam
+14	14	Mohan Nair	M Khalilullah
+14	14	D. Kalra	M Nigam
+14	14	D. Kalra	M Khalilullah
+14	14	M Nigam	M Khalilullah
+15	15	Edwin H. Cook	Ramesh Arora
+15	15	Edwin H. Cook	George M. Anderson
+15	15	Edwin H. Cook	Elizabeth Berry‐Kravis
+15	15	Edwin H. Cook	Shuya Yan
+15	15	Edwin H. Cook	H.C. Yeoh
+15	15	Edwin H. Cook	Paul J. Sklena
+15	15	Edwin H. Cook	David Charak
+15	15	Edwin H. Cook	Bennett Leventhal
+15	15	Ramesh Arora	George M. Anderson
+15	15	Ramesh Arora	Elizabeth Berry‐Kravis
+15	15	Ramesh Arora	Shuya Yan
+15	15	Ramesh Arora	H.C. Yeoh
+15	15	Ramesh Arora	Paul J. Sklena
+15	15	Ramesh Arora	David Charak
+15	15	Ramesh Arora	Bennett Leventhal
+15	15	George M. Anderson	Elizabeth Berry‐Kravis
+15	15	George M. Anderson	Shuya Yan
+15	15	George M. Anderson	H.C. Yeoh
+15	15	George M. Anderson	Paul J. Sklena
+15	15	George M. Anderson	David Charak
+15	15	George M. Anderson	Bennett Leventhal
+15	15	Elizabeth Berry‐Kravis	Shuya Yan
+15	15	Elizabeth Berry‐Kravis	H.C. Yeoh
+15	15	Elizabeth Berry‐Kravis	Paul J. Sklena
+15	15	Elizabeth Berry‐Kravis	David Charak
+15	15	Elizabeth Berry‐Kravis	Bennett Leventhal
+15	15	Shuya Yan	H.C. Yeoh
+15	15	Shuya Yan	Paul J. Sklena
+15	15	Shuya Yan	David Charak
+15	15	Shuya Yan	Bennett Leventhal
+15	15	H.C. Yeoh	Paul J. Sklena
+15	15	H.C. Yeoh	David Charak
+15	15	H.C. Yeoh	Bennett Leventhal
+15	15	Paul J. Sklena	David Charak
+15	15	Paul J. Sklena	Bennett Leventhal
+15	15	David Charak	Bennett Leventhal
+16	16	John L. Bass	D. Kalra
+16	16	John L. Bass	Ramesh Arora
+16	16	John L. Bass	Jozef Mašura
+16	16	John L. Bass	Pavlo Gavora
+16	16	John L. Bass	Basil D. Thanopoulos
+16	16	John L. Bass	William Torres
+16	16	John L. Bass	Horst Sievert
+16	16	John L. Bass	Mário Carminati
+16	16	John L. Bass	Günther Fischer
+16	16	John L. Bass	Peter Ewert
+16	16	D. Kalra	Ramesh Arora
+16	16	D. Kalra	Jozef Mašura
+16	16	D. Kalra	Pavlo Gavora
+16	16	D. Kalra	Basil D. Thanopoulos
+16	16	D. Kalra	William Torres
+16	16	D. Kalra	Horst Sievert
+16	16	D. Kalra	Mário Carminati
+16	16	D. Kalra	Günther Fischer
+16	16	D. Kalra	Peter Ewert
+16	16	Ramesh Arora	Jozef Mašura
+16	16	Ramesh Arora	Pavlo Gavora
+16	16	Ramesh Arora	Basil D. Thanopoulos
+16	16	Ramesh Arora	William Torres
+16	16	Ramesh Arora	Horst Sievert
+16	16	Ramesh Arora	Mário Carminati
+16	16	Ramesh Arora	Günther Fischer
+16	16	Ramesh Arora	Peter Ewert
+16	16	Jozef Mašura	Pavlo Gavora
+16	16	Jozef Mašura	Basil D. Thanopoulos
+16	16	Jozef Mašura	William Torres
+16	16	Jozef Mašura	Horst Sievert
+16	16	Jozef Mašura	Mário Carminati
+16	16	Jozef Mašura	Günther Fischer
+16	16	Jozef Mašura	Peter Ewert
+16	16	Pavlo Gavora	Basil D. Thanopoulos
+16	16	Pavlo Gavora	William Torres
+16	16	Pavlo Gavora	Horst Sievert
+16	16	Pavlo Gavora	Mário Carminati
+16	16	Pavlo Gavora	Günther Fischer
+16	16	Pavlo Gavora	Peter Ewert
+16	16	Basil D. Thanopoulos	William Torres
+16	16	Basil D. Thanopoulos	Horst Sievert
+16	16	Basil D. Thanopoulos	Mário Carminati
+16	16	Basil D. Thanopoulos	Günther Fischer
+16	16	Basil D. Thanopoulos	Peter Ewert
+16	16	William Torres	Horst Sievert
+16	16	William Torres	Mário Carminati
+16	16	William Torres	Günther Fischer
+16	16	William Torres	Peter Ewert
+16	16	Horst Sievert	Mário Carminati
+16	16	Horst Sievert	Günther Fischer
+16	16	Horst Sievert	Peter Ewert
+16	16	Mário Carminati	Günther Fischer
+16	16	Mário Carminati	Peter Ewert
+16	16	Günther Fischer	Peter Ewert
+17	17	Ramesh Arora	Herbert Y. Meltzer
+18	18	Shin Matsubara	Ramesh Arora
+18	18	Shin Matsubara	Herbert Y. Meltzer
+18	18	Ramesh Arora	Herbert Y. Meltzer
+19	19	Ramesh Arora	Vijay Trehan
+19	19	Ramesh Arora	Ashish Kumar
+19	19	Ramesh Arora	D. Kalra
+19	19	Ramesh Arora	Madhuri Nigam
+19	19	Vijay Trehan	Ashish Kumar
+19	19	Vijay Trehan	D. Kalra
+19	19	Vijay Trehan	Madhuri Nigam
+19	19	Ashish Kumar	D. Kalra
+19	19	Ashish Kumar	Madhuri Nigam
+19	19	D. Kalra	Madhuri Nigam
+20	20	Sanjay Tyagi	U Kaul
+20	20	Sanjay Tyagi	Deepak Kumar Satsangi
+20	20	Sanjay Tyagi	Ramesh Arora
+20	20	U Kaul	Deepak Kumar Satsangi
+20	20	U Kaul	Ramesh Arora
+20	20	Deepak Kumar Satsangi	Ramesh Arora
+21	21	Veena Raizada	Ralph C. Williams
+21	21	Veena Raizada	Prem Chopra
+21	21	Veena Raizada	N Gopinath
+21	21	Veena Raizada	Kunti Prakash
+21	21	Veena Raizada	K. B. Sharma
+21	21	Veena Raizada	Keziah Cherian
+21	21	Veena Raizada	S Panday
+21	21	Veena Raizada	Ramesh Arora
+21	21	Veena Raizada	Madhuri Nigam
+21	21	Veena Raizada	John B. Zabriskie
+21	21	Veena Raizada	Gunnar Husby
+21	21	Ralph C. Williams	Prem Chopra
+21	21	Ralph C. Williams	N Gopinath
+21	21	Ralph C. Williams	Kunti Prakash
+21	21	Ralph C. Williams	K. B. Sharma
+21	21	Ralph C. Williams	Keziah Cherian
+21	21	Ralph C. Williams	S Panday
+21	21	Ralph C. Williams	Ramesh Arora
+21	21	Ralph C. Williams	Madhuri Nigam
+21	21	Ralph C. Williams	John B. Zabriskie
+21	21	Ralph C. Williams	Gunnar Husby
+21	21	Prem Chopra	N Gopinath
+21	21	Prem Chopra	Kunti Prakash
+21	21	Prem Chopra	K. B. Sharma
+21	21	Prem Chopra	Keziah Cherian
+21	21	Prem Chopra	S Panday
+21	21	Prem Chopra	Ramesh Arora
+21	21	Prem Chopra	Madhuri Nigam
+21	21	Prem Chopra	John B. Zabriskie
+21	21	Prem Chopra	Gunnar Husby
+21	21	N Gopinath	Kunti Prakash
+21	21	N Gopinath	K. B. Sharma
+21	21	N Gopinath	Keziah Cherian
+21	21	N Gopinath	S Panday
+21	21	N Gopinath	Ramesh Arora
+21	21	N Gopinath	Madhuri Nigam
+21	21	N Gopinath	John B. Zabriskie
+21	21	N Gopinath	Gunnar Husby
+21	21	Kunti Prakash	K. B. Sharma
+21	21	Kunti Prakash	Keziah Cherian
+21	21	Kunti Prakash	S Panday
+21	21	Kunti Prakash	Ramesh Arora
+21	21	Kunti Prakash	Madhuri Nigam
+21	21	Kunti Prakash	John B. Zabriskie
+21	21	Kunti Prakash	Gunnar Husby
+21	21	K. B. Sharma	Keziah Cherian
+21	21	K. B. Sharma	S Panday
+21	21	K. B. Sharma	Ramesh Arora
+21	21	K. B. Sharma	Madhuri Nigam
+21	21	K. B. Sharma	John B. Zabriskie
+21	21	K. B. Sharma	Gunnar Husby
+21	21	Keziah Cherian	S Panday
+21	21	Keziah Cherian	Ramesh Arora
+21	21	Keziah Cherian	Madhuri Nigam
+21	21	Keziah Cherian	John B. Zabriskie
+21	21	Keziah Cherian	Gunnar Husby
+21	21	S Panday	Ramesh Arora
+21	21	S Panday	Madhuri Nigam
+21	21	S Panday	John B. Zabriskie
+21	21	S Panday	Gunnar Husby
+21	21	Ramesh Arora	Madhuri Nigam
+21	21	Ramesh Arora	John B. Zabriskie
+21	21	Ramesh Arora	Gunnar Husby
+21	21	Madhuri Nigam	John B. Zabriskie
+21	21	Madhuri Nigam	Gunnar Husby
+21	21	John B. Zabriskie	Gunnar Husby
+22	22	Sanjay Tyagi	Puneet K. Verma
+22	22	Sanjay Tyagi	D S Gambhir
+22	22	Sanjay Tyagi	U Kaul
+22	22	Sanjay Tyagi	Renuka Saha
+22	22	Sanjay Tyagi	Ramesh Arora
+22	22	Puneet K. Verma	D S Gambhir
+22	22	Puneet K. Verma	U Kaul
+22	22	Puneet K. Verma	Renuka Saha
+22	22	Puneet K. Verma	Ramesh Arora
+22	22	D S Gambhir	U Kaul
+22	22	D S Gambhir	Renuka Saha
+22	22	D S Gambhir	Ramesh Arora
+22	22	U Kaul	Renuka Saha
+22	22	U Kaul	Ramesh Arora
+22	22	Renuka Saha	Ramesh Arora
+23	23	Ramesh Arora	Gurcharan S. Kalra
+23	23	Ramesh Arora	G.S.R. Murty
+23	23	Ramesh Arora	Vijay Trehan
+23	23	Ramesh Arora	Neeraj Jolly
+23	23	Ramesh Arora	Jagdish C. Mohan
+23	23	Ramesh Arora	Kamal Kumar Sethi
+23	23	Ramesh Arora	Madhuri Nigam
+23	23	Ramesh Arora	Mohammad Khalilullah
+23	23	Gurcharan S. Kalra	G.S.R. Murty
+23	23	Gurcharan S. Kalra	Vijay Trehan
+23	23	Gurcharan S. Kalra	Neeraj Jolly
+23	23	Gurcharan S. Kalra	Jagdish C. Mohan
+23	23	Gurcharan S. Kalra	Kamal Kumar Sethi
+23	23	Gurcharan S. Kalra	Madhuri Nigam
+23	23	Gurcharan S. Kalra	Mohammad Khalilullah
+23	23	G.S.R. Murty	Vijay Trehan
+23	23	G.S.R. Murty	Neeraj Jolly
+23	23	G.S.R. Murty	Jagdish C. Mohan
+23	23	G.S.R. Murty	Kamal Kumar Sethi
+23	23	G.S.R. Murty	Madhuri Nigam
+23	23	G.S.R. Murty	Mohammad Khalilullah
+23	23	Vijay Trehan	Neeraj Jolly
+23	23	Vijay Trehan	Jagdish C. Mohan
+23	23	Vijay Trehan	Kamal Kumar Sethi
+23	23	Vijay Trehan	Madhuri Nigam
+23	23	Vijay Trehan	Mohammad Khalilullah
+23	23	Neeraj Jolly	Jagdish C. Mohan
+23	23	Neeraj Jolly	Kamal Kumar Sethi
+23	23	Neeraj Jolly	Madhuri Nigam
+23	23	Neeraj Jolly	Mohammad Khalilullah
+23	23	Jagdish C. Mohan	Kamal Kumar Sethi
+23	23	Jagdish C. Mohan	Madhuri Nigam
+23	23	Jagdish C. Mohan	Mohammad Khalilullah
+23	23	Kamal Kumar Sethi	Madhuri Nigam
+23	23	Kamal Kumar Sethi	Mohammad Khalilullah
+23	23	Madhuri Nigam	Mohammad Khalilullah
+24	24	Gurcharan S. Kalra	Puneet K. Verma
+24	24	Gurcharan S. Kalra	Anil Dhall
+24	24	Gurcharan S. Kalra	Sandeep Singh
+24	24	Gurcharan S. Kalra	Ramesh Arora
+24	24	Puneet K. Verma	Anil Dhall
+24	24	Puneet K. Verma	Sandeep Singh
+24	24	Puneet K. Verma	Ramesh Arora
+24	24	Anil Dhall	Sandeep Singh
+24	24	Anil Dhall	Ramesh Arora
+24	24	Sandeep Singh	Ramesh Arora
+25	25	Sanjay Tyagi	Balbir Singh
+25	25	Sanjay Tyagi	U Kaul
+25	25	Sanjay Tyagi	Kamal Kumar Sethi
+25	25	Sanjay Tyagi	Ramesh Arora
+25	25	Sanjay Tyagi	Mohammad Khalilullah
+25	25	Balbir Singh	U Kaul
+25	25	Balbir Singh	Kamal Kumar Sethi
+25	25	Balbir Singh	Ramesh Arora
+25	25	Balbir Singh	Mohammad Khalilullah
+25	25	U Kaul	Kamal Kumar Sethi
+25	25	U Kaul	Ramesh Arora
+25	25	U Kaul	Mohammad Khalilullah
+25	25	Kamal Kumar Sethi	Ramesh Arora
+25	25	Kamal Kumar Sethi	Mohammad Khalilullah
+25	25	Ramesh Arora	Mohammad Khalilullah
+26	26	Ramesh Arora	Vijay Trehan
+26	26	Ramesh Arora	UMA MAHESH C. RANGASETTY
+26	26	Ramesh Arora	Saibal Mukhopadhyay
+26	26	Ramesh Arora	Ashish Thakur
+26	26	Ramesh Arora	D. Kalra
+26	26	Vijay Trehan	UMA MAHESH C. RANGASETTY
+26	26	Vijay Trehan	Saibal Mukhopadhyay
+26	26	Vijay Trehan	Ashish Thakur
+26	26	Vijay Trehan	D. Kalra
+26	26	UMA MAHESH C. RANGASETTY	Saibal Mukhopadhyay
+26	26	UMA MAHESH C. RANGASETTY	Ashish Thakur
+26	26	UMA MAHESH C. RANGASETTY	D. Kalra
+26	26	Saibal Mukhopadhyay	Ashish Thakur
+26	26	Saibal Mukhopadhyay	D. Kalra
+26	26	Ashish Thakur	D. Kalra
+27	27	Norman S. Radin	Antoinette Brenkert
+27	27	Norman S. Radin	Ramesh Arora
+27	27	Norman S. Radin	Otto Z. Sellinger
+27	27	Norman S. Radin	A. L. Flangas
+27	27	Antoinette Brenkert	Ramesh Arora
+27	27	Antoinette Brenkert	Otto Z. Sellinger
+27	27	Antoinette Brenkert	A. L. Flangas
+27	27	Ramesh Arora	Otto Z. Sellinger
+27	27	Ramesh Arora	A. L. Flangas
+27	27	Otto Z. Sellinger	A. L. Flangas
+28	28	Vicente Garcia Tomas	Vinayak Rohan
+28	28	Vicente Garcia Tomas	Akansha Agrawal
+28	28	Vicente Garcia Tomas	T. Liu
+28	28	Vicente Garcia Tomas	Ramesh Arora
+28	28	Vicente Garcia Tomas	Alexandria Tran
+28	28	Vicente Garcia Tomas	Matthew Harris
+28	28	Vicente Garcia Tomas	Satish N. Nadig
+28	28	Vinayak Rohan	Akansha Agrawal
+28	28	Vinayak Rohan	T. Liu
+28	28	Vinayak Rohan	Ramesh Arora
+28	28	Vinayak Rohan	Alexandria Tran
+28	28	Vinayak Rohan	Matthew Harris
+28	28	Vinayak Rohan	Satish N. Nadig
+28	28	Akansha Agrawal	T. Liu
+28	28	Akansha Agrawal	Ramesh Arora
+28	28	Akansha Agrawal	Alexandria Tran
+28	28	Akansha Agrawal	Matthew Harris
+28	28	Akansha Agrawal	Satish N. Nadig
+28	28	T. Liu	Ramesh Arora
+28	28	T. Liu	Alexandria Tran
+28	28	T. Liu	Matthew Harris
+28	28	T. Liu	Satish N. Nadig
+28	28	Ramesh Arora	Alexandria Tran
+28	28	Ramesh Arora	Matthew Harris
+28	28	Ramesh Arora	Satish N. Nadig
+28	28	Alexandria Tran	Matthew Harris
+28	28	Alexandria Tran	Satish N. Nadig
+28	28	Matthew Harris	Satish N. Nadig
+29	29	Sanjay Tyagi	Ramesh Arora
+29	29	Sanjay Tyagi	U Kaul
+29	29	Sanjay Tyagi	Kamal Kumar Sethi
+29	29	Sanjay Tyagi	D S Gambhir
+29	29	Sanjay Tyagi	M Khalilullah
+29	29	Ramesh Arora	U Kaul
+29	29	Ramesh Arora	Kamal Kumar Sethi
+29	29	Ramesh Arora	D S Gambhir
+29	29	Ramesh Arora	M Khalilullah
+29	29	U Kaul	Kamal Kumar Sethi
+29	29	U Kaul	D S Gambhir
+29	29	U Kaul	M Khalilullah
+29	29	Kamal Kumar Sethi	D S Gambhir
+29	29	Kamal Kumar Sethi	M Khalilullah
+29	29	D S Gambhir	M Khalilullah
+30	30	Partho P. Sengupta	Jagdish C. Mohan
+30	30	Partho P. Sengupta	Vimal Mehta
+30	30	Partho P. Sengupta	Vineet Jain
+30	30	Partho P. Sengupta	Ramesh Arora
+30	30	Partho P. Sengupta	Natesa G. Pandian
+30	30	Partho P. Sengupta	Bijoy K. Khandheria
+30	30	Jagdish C. Mohan	Vimal Mehta
+30	30	Jagdish C. Mohan	Vineet Jain
+30	30	Jagdish C. Mohan	Ramesh Arora
+30	30	Jagdish C. Mohan	Natesa G. Pandian
+30	30	Jagdish C. Mohan	Bijoy K. Khandheria
+30	30	Vimal Mehta	Vineet Jain
+30	30	Vimal Mehta	Ramesh Arora
+30	30	Vimal Mehta	Natesa G. Pandian
+30	30	Vimal Mehta	Bijoy K. Khandheria
+30	30	Vineet Jain	Ramesh Arora
+30	30	Vineet Jain	Natesa G. Pandian
+30	30	Vineet Jain	Bijoy K. Khandheria
+30	30	Ramesh Arora	Natesa G. Pandian
+30	30	Ramesh Arora	Bijoy K. Khandheria
+30	30	Natesa G. Pandian	Bijoy K. Khandheria
+31	31	Alain Cribier	Hélène Eltchaninoff
+31	31	Alain Cribier	René Köning
+31	31	Alain Cribier	Pratap Chandra Rath
+31	31	Alain Cribier	Ramesh Arora
+31	31	Alain Cribier	Adel Imam
+31	31	Alain Cribier	Mustapha El-Sayed
+31	31	Alain Cribier	Sameer Dani
+31	31	Alain Cribier	Geneviève Dérumeaux
+31	31	Alain Cribier	Jacques Bénichou
+31	31	Alain Cribier	Christophe Tron
+31	31	Alain Cribier	Satej Janorkar
+31	31	Alain Cribier	Gérard Pontier
+31	31	Alain Cribier	B Letac
+31	31	Hélène Eltchaninoff	René Köning
+31	31	Hélène Eltchaninoff	Pratap Chandra Rath
+31	31	Hélène Eltchaninoff	Ramesh Arora
+31	31	Hélène Eltchaninoff	Adel Imam
+31	31	Hélène Eltchaninoff	Mustapha El-Sayed
+31	31	Hélène Eltchaninoff	Sameer Dani
+31	31	Hélène Eltchaninoff	Geneviève Dérumeaux
+31	31	Hélène Eltchaninoff	Jacques Bénichou
+31	31	Hélène Eltchaninoff	Christophe Tron
+31	31	Hélène Eltchaninoff	Satej Janorkar
+31	31	Hélène Eltchaninoff	Gérard Pontier
+31	31	Hélène Eltchaninoff	B Letac
+31	31	René Köning	Pratap Chandra Rath
+31	31	René Köning	Ramesh Arora
+31	31	René Köning	Adel Imam
+31	31	René Köning	Mustapha El-Sayed
+31	31	René Köning	Sameer Dani
+31	31	René Köning	Geneviève Dérumeaux
+31	31	René Köning	Jacques Bénichou
+31	31	René Köning	Christophe Tron
+31	31	René Köning	Satej Janorkar
+31	31	René Köning	Gérard Pontier
+31	31	René Köning	B Letac
+31	31	Pratap Chandra Rath	Ramesh Arora
+31	31	Pratap Chandra Rath	Adel Imam
+31	31	Pratap Chandra Rath	Mustapha El-Sayed
+31	31	Pratap Chandra Rath	Sameer Dani
+31	31	Pratap Chandra Rath	Geneviève Dérumeaux
+31	31	Pratap Chandra Rath	Jacques Bénichou
+31	31	Pratap Chandra Rath	Christophe Tron
+31	31	Pratap Chandra Rath	Satej Janorkar
+31	31	Pratap Chandra Rath	Gérard Pontier
+31	31	Pratap Chandra Rath	B Letac
+31	31	Ramesh Arora	Adel Imam
+31	31	Ramesh Arora	Mustapha El-Sayed
+31	31	Ramesh Arora	Sameer Dani
+31	31	Ramesh Arora	Geneviève Dérumeaux
+31	31	Ramesh Arora	Jacques Bénichou
+31	31	Ramesh Arora	Christophe Tron
+31	31	Ramesh Arora	Satej Janorkar
+31	31	Ramesh Arora	Gérard Pontier
+31	31	Ramesh Arora	B Letac
+31	31	Adel Imam	Mustapha El-Sayed
+31	31	Adel Imam	Sameer Dani
+31	31	Adel Imam	Geneviève Dérumeaux
+31	31	Adel Imam	Jacques Bénichou
+31	31	Adel Imam	Christophe Tron
+31	31	Adel Imam	Satej Janorkar
+31	31	Adel Imam	Gérard Pontier
+31	31	Adel Imam	B Letac
+31	31	Mustapha El-Sayed	Sameer Dani
+31	31	Mustapha El-Sayed	Geneviève Dérumeaux
+31	31	Mustapha El-Sayed	Jacques Bénichou
+31	31	Mustapha El-Sayed	Christophe Tron
+31	31	Mustapha El-Sayed	Satej Janorkar
+31	31	Mustapha El-Sayed	Gérard Pontier
+31	31	Mustapha El-Sayed	B Letac
+31	31	Sameer Dani	Geneviève Dérumeaux
+31	31	Sameer Dani	Jacques Bénichou
+31	31	Sameer Dani	Christophe Tron
+31	31	Sameer Dani	Satej Janorkar
+31	31	Sameer Dani	Gérard Pontier
+31	31	Sameer Dani	B Letac
+31	31	Geneviève Dérumeaux	Jacques Bénichou
+31	31	Geneviève Dérumeaux	Christophe Tron
+31	31	Geneviève Dérumeaux	Satej Janorkar
+31	31	Geneviève Dérumeaux	Gérard Pontier
+31	31	Geneviève Dérumeaux	B Letac
+31	31	Jacques Bénichou	Christophe Tron
+31	31	Jacques Bénichou	Satej Janorkar
+31	31	Jacques Bénichou	Gérard Pontier
+31	31	Jacques Bénichou	B Letac
+31	31	Christophe Tron	Satej Janorkar
+31	31	Christophe Tron	Gérard Pontier
+31	31	Christophe Tron	B Letac
+31	31	Satej Janorkar	Gérard Pontier
+31	31	Satej Janorkar	B Letac
+31	31	Gérard Pontier	B Letac
+32	32	Ramesh Arora	Vijay Trehan
+32	32	Ramesh Arora	Ashish Thakur
+32	32	Ramesh Arora	Vimal Mehta
+32	32	Ramesh Arora	Partho P. Sengupta
+32	32	Ramesh Arora	M Nigam
+32	32	Vijay Trehan	Ashish Thakur
+32	32	Vijay Trehan	Vimal Mehta
+32	32	Vijay Trehan	Partho P. Sengupta
+32	32	Vijay Trehan	M Nigam
+32	32	Ashish Thakur	Vimal Mehta
+32	32	Ashish Thakur	Partho P. Sengupta
+32	32	Ashish Thakur	M Nigam
+32	32	Vimal Mehta	Partho P. Sengupta
+32	32	Vimal Mehta	M Nigam
+32	32	Partho P. Sengupta	M Nigam
+33	33	Ramesh Arora	Ching Tong
+33	33	Ramesh Arora	Herbert L. Jackman
+33	33	Ramesh Arora	David M. Stoff
+33	33	Ramesh Arora	Herbert Y. Meltzer
+33	33	Ching Tong	Herbert L. Jackman
+33	33	Ching Tong	David M. Stoff
+33	33	Ching Tong	Herbert Y. Meltzer
+33	33	Herbert L. Jackman	David M. Stoff
+33	33	Herbert L. Jackman	Herbert Y. Meltzer
+33	33	David M. Stoff	Herbert Y. Meltzer
+34	34	Herbert Y. Meltzer	Ramesh Arora
+35	35	Herbert Y. Meltzer	Ramesh Arora
+36	36	Ramesh Arora	Herbert Y. Meltzer
+37	37	Ramesh Arora	Herbert Y. Meltzer
+38	38	Gupta Sk	R. C. Sawhney
+38	38	Gupta Sk	Lajpat Rai
+38	38	Gupta Sk	Vishwas Chavan
+38	38	Gupta Sk	Sameer Dani
+38	38	Gupta Sk	Ramesh Arora
+38	38	Gupta Sk	W. Selvamurthy
+38	38	Gupta Sk	Harivansh Chopra
+38	38	Gupta Sk	Navin C. Nanda
+38	38	R. C. Sawhney	Lajpat Rai
+38	38	R. C. Sawhney	Vishwas Chavan
+38	38	R. C. Sawhney	Sameer Dani
+38	38	R. C. Sawhney	Ramesh Arora
+38	38	R. C. Sawhney	W. Selvamurthy
+38	38	R. C. Sawhney	Harivansh Chopra
+38	38	R. C. Sawhney	Navin C. Nanda
+38	38	Lajpat Rai	Vishwas Chavan
+38	38	Lajpat Rai	Sameer Dani
+38	38	Lajpat Rai	Ramesh Arora
+38	38	Lajpat Rai	W. Selvamurthy
+38	38	Lajpat Rai	Harivansh Chopra
+38	38	Lajpat Rai	Navin C. Nanda
+38	38	Vishwas Chavan	Sameer Dani
+38	38	Vishwas Chavan	Ramesh Arora
+38	38	Vishwas Chavan	W. Selvamurthy
+38	38	Vishwas Chavan	Harivansh Chopra
+38	38	Vishwas Chavan	Navin C. Nanda
+38	38	Sameer Dani	Ramesh Arora
+38	38	Sameer Dani	W. Selvamurthy
+38	38	Sameer Dani	Harivansh Chopra
+38	38	Sameer Dani	Navin C. Nanda
+38	38	Ramesh Arora	W. Selvamurthy
+38	38	Ramesh Arora	Harivansh Chopra
+38	38	Ramesh Arora	Navin C. Nanda
+38	38	W. Selvamurthy	Harivansh Chopra
+38	38	W. Selvamurthy	Navin C. Nanda
+38	38	Harivansh Chopra	Navin C. Nanda
+39	39	Ramesh Arora	Vijay K. Stokes
+40	40	Shobha Lata Sinha	Ramesh Arora
+40	40	Shobha Lata Sinha	Subhransu Roy
+40	40	Ramesh Arora	Subhransu Roy
+41	41	Partho P. Sengupta	Jagdish C. Mohan
+41	41	Partho P. Sengupta	Vimal Mehta
+41	41	Partho P. Sengupta	Ramesh Arora
+41	41	Partho P. Sengupta	Natesa G. Pandian
+41	41	Partho P. Sengupta	Bijoy K. Khandheria
+41	41	Jagdish C. Mohan	Vimal Mehta
+41	41	Jagdish C. Mohan	Ramesh Arora
+41	41	Jagdish C. Mohan	Natesa G. Pandian
+41	41	Jagdish C. Mohan	Bijoy K. Khandheria
+41	41	Vimal Mehta	Ramesh Arora
+41	41	Vimal Mehta	Natesa G. Pandian
+41	41	Vimal Mehta	Bijoy K. Khandheria
+41	41	Ramesh Arora	Natesa G. Pandian
+41	41	Ramesh Arora	Bijoy K. Khandheria
+41	41	Natesa G. Pandian	Bijoy K. Khandheria
+42	42	Ramesh Arora	Gurcharan S. Kalra
+42	42	Ramesh Arora	Sandeep Singh
+42	42	Ramesh Arora	Saibal Mukhopadhyay
+42	42	Ramesh Arora	Ashish Kumar
+42	42	Ramesh Arora	Jagdish C. Mohan
+42	42	Ramesh Arora	Madhuri Nigam
+42	42	Gurcharan S. Kalra	Sandeep Singh
+42	42	Gurcharan S. Kalra	Saibal Mukhopadhyay
+42	42	Gurcharan S. Kalra	Ashish Kumar
+42	42	Gurcharan S. Kalra	Jagdish C. Mohan
+42	42	Gurcharan S. Kalra	Madhuri Nigam
+42	42	Sandeep Singh	Saibal Mukhopadhyay
+42	42	Sandeep Singh	Ashish Kumar
+42	42	Sandeep Singh	Jagdish C. Mohan
+42	42	Sandeep Singh	Madhuri Nigam
+42	42	Saibal Mukhopadhyay	Ashish Kumar
+42	42	Saibal Mukhopadhyay	Jagdish C. Mohan
+42	42	Saibal Mukhopadhyay	Madhuri Nigam
+42	42	Ashish Kumar	Jagdish C. Mohan
+42	42	Ashish Kumar	Madhuri Nigam
+42	42	Jagdish C. Mohan	Madhuri Nigam
+43	43	Ramesh Arora	Christopher G. Fichtner
+43	43	Ramesh Arora	Francine L. O'Connor
+43	43	Ramesh Arora	John W. Crayton
+43	43	Christopher G. Fichtner	Francine L. O'Connor
+43	43	Christopher G. Fichtner	John W. Crayton
+43	43	Francine L. O'Connor	John W. Crayton
+44	44	U Kaul	Balbir Singh
+44	44	U Kaul	Sanjay Tyagi
+44	44	U Kaul	Mohan Bhargava
+44	44	U Kaul	Ramesh Arora
+44	44	U Kaul	M Khalilullah
+44	44	Balbir Singh	Sanjay Tyagi
+44	44	Balbir Singh	Mohan Bhargava
+44	44	Balbir Singh	Ramesh Arora
+44	44	Balbir Singh	M Khalilullah
+44	44	Sanjay Tyagi	Mohan Bhargava
+44	44	Sanjay Tyagi	Ramesh Arora
+44	44	Sanjay Tyagi	M Khalilullah
+44	44	Mohan Bhargava	Ramesh Arora
+44	44	Mohan Bhargava	M Khalilullah
+44	44	Ramesh Arora	M Khalilullah
+45	45	Bijan Bastani	Ramesh Arora
+45	45	Bijan Bastani	Herbert Y. Meltzer
+45	45	Ramesh Arora	Herbert Y. Meltzer
+46	46	Anna Lee Tonkovich	Kai Jarosch
+46	46	Anna Lee Tonkovich	Ramesh Arora
+46	46	Anna Lee Tonkovich	Leonardo Florêncio da Silva
+46	46	Anna Lee Tonkovich	Steven T. Perry
+46	46	Anna Lee Tonkovich	John McDaniel
+46	46	Anna Lee Tonkovich	Francis P. Daly
+46	46	Anna Lee Tonkovich	Barbara Litt
+46	46	Kai Jarosch	Ramesh Arora
+46	46	Kai Jarosch	Leonardo Florêncio da Silva
+46	46	Kai Jarosch	Steven T. Perry
+46	46	Kai Jarosch	John McDaniel
+46	46	Kai Jarosch	Francis P. Daly
+46	46	Kai Jarosch	Barbara Litt
+46	46	Ramesh Arora	Leonardo Florêncio da Silva
+46	46	Ramesh Arora	Steven T. Perry
+46	46	Ramesh Arora	John McDaniel
+46	46	Ramesh Arora	Francis P. Daly
+46	46	Ramesh Arora	Barbara Litt
+46	46	Leonardo Florêncio da Silva	Steven T. Perry
+46	46	Leonardo Florêncio da Silva	John McDaniel
+46	46	Leonardo Florêncio da Silva	Francis P. Daly
+46	46	Leonardo Florêncio da Silva	Barbara Litt
+46	46	Steven T. Perry	John McDaniel
+46	46	Steven T. Perry	Francis P. Daly
+46	46	Steven T. Perry	Barbara Litt
+46	46	John McDaniel	Francis P. Daly
+46	46	John McDaniel	Barbara Litt
+46	46	Francis P. Daly	Barbara Litt
+47	47	Jagdish C. Mohan	Mohammed Khalilullah
+47	47	Jagdish C. Mohan	Ramesh Arora
+47	47	Mohammed Khalilullah	Ramesh Arora
+48	48	Herbert Y. Meltzer	Ramesh Arora
+48	48	Herbert Y. Meltzer	Paul J. Goodnick
+48	48	Ramesh Arora	Paul J. Goodnick
+49	49	Ramesh Arora	Sunita Arora
+50	50	Herbert Y. Meltzer	Ramesh Arora
+50	50	Herbert Y. Meltzer	Herbert L. Jackman
+50	50	Herbert Y. Meltzer	G.R. Pscheidt
+50	50	Herbert Y. Meltzer	M. D. Smith
+50	50	Ramesh Arora	Herbert L. Jackman
+50	50	Ramesh Arora	G.R. Pscheidt
+50	50	Ramesh Arora	M. D. Smith
+50	50	Herbert L. Jackman	G.R. Pscheidt
+50	50	Herbert L. Jackman	M. D. Smith
+50	50	G.R. Pscheidt	M. D. Smith
+51	51	Herbert L. Jackman	Ramesh Arora
+51	51	Herbert L. Jackman	Herbert Y. Meltzer
+51	51	Ramesh Arora	Herbert Y. Meltzer
+52	52	Partho P. Sengupta	Jagdish C. Mohan
+52	52	Partho P. Sengupta	Vimal Mehta
+52	52	Partho P. Sengupta	U Kaul
+52	52	Partho P. Sengupta	Vijay Trehan
+52	52	Partho P. Sengupta	Ramesh Arora
+52	52	Partho P. Sengupta	Bijoy K. Khandheria
+52	52	Jagdish C. Mohan	Vimal Mehta
+52	52	Jagdish C. Mohan	U Kaul
+52	52	Jagdish C. Mohan	Vijay Trehan
+52	52	Jagdish C. Mohan	Ramesh Arora
+52	52	Jagdish C. Mohan	Bijoy K. Khandheria
+52	52	Vimal Mehta	U Kaul
+52	52	Vimal Mehta	Vijay Trehan
+52	52	Vimal Mehta	Ramesh Arora
+52	52	Vimal Mehta	Bijoy K. Khandheria
+52	52	U Kaul	Vijay Trehan
+52	52	U Kaul	Ramesh Arora
+52	52	U Kaul	Bijoy K. Khandheria
+52	52	Vijay Trehan	Ramesh Arora
+52	52	Vijay Trehan	Bijoy K. Khandheria
+52	52	Ramesh Arora	Bijoy K. Khandheria
+53	53	Ramesh Arora	Sunita Arora
+53	53	Ramesh Arora	Raj K. Gupta
+53	53	Sunita Arora	Raj K. Gupta
+54	54	Mohan Nair	Prasad Shah
+54	54	Mohan Nair	Ravinder Batra
+54	54	Mohan Nair	Manoj Kumar
+54	54	Mohan Nair	Jagdish C. Mohan
+54	54	Mohan Nair	U Kaul
+54	54	Mohan Nair	Ramesh Arora
+54	54	Prasad Shah	Ravinder Batra
+54	54	Prasad Shah	Manoj Kumar
+54	54	Prasad Shah	Jagdish C. Mohan
+54	54	Prasad Shah	U Kaul
+54	54	Prasad Shah	Ramesh Arora
+54	54	Ravinder Batra	Manoj Kumar
+54	54	Ravinder Batra	Jagdish C. Mohan
+54	54	Ravinder Batra	U Kaul
+54	54	Ravinder Batra	Ramesh Arora
+54	54	Manoj Kumar	Jagdish C. Mohan
+54	54	Manoj Kumar	U Kaul
+54	54	Manoj Kumar	Ramesh Arora
+54	54	Jagdish C. Mohan	U Kaul
+54	54	Jagdish C. Mohan	Ramesh Arora
+54	54	U Kaul	Ramesh Arora
+55	55	Christopher G. Fichtner	Ramesh Arora
+55	55	Christopher G. Fichtner	Francine L. O'Connor
+55	55	Christopher G. Fichtner	John W. Crayton
+55	55	Ramesh Arora	Francine L. O'Connor
+55	55	Ramesh Arora	John W. Crayton
+55	55	Francine L. O'Connor	John W. Crayton
+56	56	Gurcharan S. Kalra	Ramesh Arora
+56	56	Gurcharan S. Kalra	Javed Akhtar Khan
+56	56	Gurcharan S. Kalra	Madhuri Nigam
+56	56	Gurcharan S. Kalra	M. Khalillulah
+56	56	Ramesh Arora	Javed Akhtar Khan
+56	56	Ramesh Arora	Madhuri Nigam
+56	56	Ramesh Arora	M. Khalillulah
+56	56	Javed Akhtar Khan	Madhuri Nigam
+56	56	Javed Akhtar Khan	M. Khalillulah
+56	56	Madhuri Nigam	M. Khalillulah
+57	57	T. Ohmori	Ramesh Arora
+57	57	T. Ohmori	Herbert Y. Meltzer
+57	57	Ramesh Arora	Herbert Y. Meltzer
+58	58	Ramesh Arora	Herbert Y. Meltzer
+59	59	Ramesh Arora	H.Y. Meltzer
+60	60	Kenneth R. Warren	R.S. Misra
+60	60	Kenneth R. Warren	Ramesh Arora
+60	60	Kenneth R. Warren	Norman S. Radin
+60	60	R.S. Misra	Ramesh Arora
+60	60	R.S. Misra	Norman S. Radin
+60	60	Ramesh Arora	Norman S. Radin
+61	61	Ramesh Arora	Norman S. Radin
+62	62	Sanjay Tyagi	U Kaul
+62	62	Sanjay Tyagi	Ramesh Arora
+62	62	U Kaul	Ramesh Arora
+63	63	Ramesh Arora	Herbert Y. Meltzer
+64	64	Partho P. Sengupta	J C Mohan
+64	64	Partho P. Sengupta	Vimal Mehta
+64	64	Partho P. Sengupta	Ramesh Arora
+64	64	Partho P. Sengupta	Bijoy K. Khandheria
+64	64	Partho P. Sengupta	Natesa G. Pandian
+64	64	J C Mohan	Vimal Mehta
+64	64	J C Mohan	Ramesh Arora
+64	64	J C Mohan	Bijoy K. Khandheria
+64	64	J C Mohan	Natesa G. Pandian
+64	64	Vimal Mehta	Ramesh Arora
+64	64	Vimal Mehta	Bijoy K. Khandheria
+64	64	Vimal Mehta	Natesa G. Pandian
+64	64	Ramesh Arora	Bijoy K. Khandheria
+64	64	Ramesh Arora	Natesa G. Pandian
+64	64	Bijoy K. Khandheria	Natesa G. Pandian
+65	65	Herbert Y. Meltzer	Ramesh Arora
+66	66	Ramesh Arora	Herbert Y. Meltzer
+67	67	Norman S. Radin	Ramesh Arora
+68	68	Jagdish C. Mohan	Partho P. Sengupta
+68	68	Jagdish C. Mohan	Ramesh Arora
+68	68	Partho P. Sengupta	Ramesh Arora
+69	69	Sanjay Tyagi	Asaad Khan
+69	69	Sanjay Tyagi	Upendra Kaul
+69	69	Sanjay Tyagi	Ramesh Arora
+69	69	Asaad Khan	Upendra Kaul
+69	69	Asaad Khan	Ramesh Arora
+69	69	Upendra Kaul	Ramesh Arora
+70	70	D. Kalra	P. Verma
+70	70	D. Kalra	Sandeep Singh
+70	70	D. Kalra	Ramesh Arora
+70	70	P. Verma	Sandeep Singh
+70	70	P. Verma	Ramesh Arora
+70	70	Sandeep Singh	Ramesh Arora
+71	71	Jagdish C. Mohan	Ayan R. Patel
+71	71	Jagdish C. Mohan	Rajiv Passey
+71	71	Jagdish C. Mohan	Dinesh Gupta
+71	71	Jagdish C. Mohan	Manoj Kumar
+71	71	Jagdish C. Mohan	Ramesh Arora
+71	71	Jagdish C. Mohan	Natesa G. Pandian
+71	71	Ayan R. Patel	Rajiv Passey
+71	71	Ayan R. Patel	Dinesh Gupta
+71	71	Ayan R. Patel	Manoj Kumar
+71	71	Ayan R. Patel	Ramesh Arora
+71	71	Ayan R. Patel	Natesa G. Pandian
+71	71	Rajiv Passey	Dinesh Gupta
+71	71	Rajiv Passey	Manoj Kumar
+71	71	Rajiv Passey	Ramesh Arora
+71	71	Rajiv Passey	Natesa G. Pandian
+71	71	Dinesh Gupta	Manoj Kumar
+71	71	Dinesh Gupta	Ramesh Arora
+71	71	Dinesh Gupta	Natesa G. Pandian
+71	71	Manoj Kumar	Ramesh Arora
+71	71	Manoj Kumar	Natesa G. Pandian
+71	71	Ramesh Arora	Natesa G. Pandian
+72	72	Ramesh Arora	Mohan Nair
+72	72	Ramesh Arora	S Rajagopal
+72	72	Ramesh Arora	Kamal Kumar Sethi
+72	72	Ramesh Arora	J C Mohan
+72	72	Ramesh Arora	M Nigam
+72	72	Ramesh Arora	M Khalilullah
+72	72	Mohan Nair	S Rajagopal
+72	72	Mohan Nair	Kamal Kumar Sethi
+72	72	Mohan Nair	J C Mohan
+72	72	Mohan Nair	M Nigam
+72	72	Mohan Nair	M Khalilullah
+72	72	S Rajagopal	Kamal Kumar Sethi
+72	72	S Rajagopal	J C Mohan
+72	72	S Rajagopal	M Nigam
+72	72	S Rajagopal	M Khalilullah
+72	72	Kamal Kumar Sethi	J C Mohan
+72	72	Kamal Kumar Sethi	M Nigam
+72	72	Kamal Kumar Sethi	M Khalilullah
+72	72	J C Mohan	M Nigam
+72	72	J C Mohan	M Khalilullah
+72	72	M Nigam	M Khalilullah
+73	73	Partho P. Sengupta	Vimal Mehta
+73	73	Partho P. Sengupta	Ramesh Arora
+73	73	Partho P. Sengupta	Jagdish C. Mohan
+73	73	Partho P. Sengupta	Bijoy K. Khandheria
+73	73	Vimal Mehta	Ramesh Arora
+73	73	Vimal Mehta	Jagdish C. Mohan
+73	73	Vimal Mehta	Bijoy K. Khandheria
+73	73	Ramesh Arora	Jagdish C. Mohan
+73	73	Ramesh Arora	Bijoy K. Khandheria
+73	73	Jagdish C. Mohan	Bijoy K. Khandheria
+74	74	Herbert Y. Meltzer	Ramesh Arora
+74	74	Herbert Y. Meltzer	Betty Jo Tricou
+74	74	Herbert Y. Meltzer	Victor S. Fang
+74	74	Ramesh Arora	Betty Jo Tricou
+74	74	Ramesh Arora	Victor S. Fang
+74	74	Betty Jo Tricou	Victor S. Fang
+75	75	Herbert Y. Meltzer	Ramesh Arora
+75	75	Herbert Y. Meltzer	Alan Robertson
+75	75	Herbert Y. Meltzer	M T Lowy
+75	75	Ramesh Arora	Alan Robertson
+75	75	Ramesh Arora	M T Lowy
+75	75	Alan Robertson	M T Lowy
+76	76	Ramesh Arora	Herbert Y. Meltzer
+77	77	Herbert Y. Meltzer	Ramesh Arora
+77	77	Herbert Y. Meltzer	John Metz
+77	77	Ramesh Arora	John Metz
+78	78	Ramesh Arora	G Subramanyam
+78	78	Ramesh Arora	M Khalilullah
+78	78	Ramesh Arora	M.P. Gupta
+78	78	G Subramanyam	M Khalilullah
+78	78	G Subramanyam	M.P. Gupta
+78	78	M Khalilullah	M.P. Gupta
+79	79	Surendra S. Parmar	Ramesh Arora
+80	80	Prasanta Kumar Satapathy	M. Gopal
+80	80	Prasanta Kumar Satapathy	Ramesh Arora
+80	80	M. Gopal	Ramesh Arora
+81	81	Subash Sad	Kanury V. S. Rao
+81	81	Subash Sad	Ramesh Arora
+81	81	Subash Sad	G.P. Talwar
+81	81	Subash Sad	Raj Raghupathy
+81	81	Kanury V. S. Rao	Ramesh Arora
+81	81	Kanury V. S. Rao	G.P. Talwar
+81	81	Kanury V. S. Rao	Raj Raghupathy
+81	81	Ramesh Arora	G.P. Talwar
+81	81	Ramesh Arora	Raj Raghupathy
+81	81	G.P. Talwar	Raj Raghupathy
+82	82	Ramesh Arora	Herbert Y. Meltzer
+83	83	Vijay Trehan	Jamal Yusuf
+83	83	Vijay Trehan	Saibal Mukhopadhyay
+83	83	Vijay Trehan	Umamahesh C. Rangasetty
+83	83	Vijay Trehan	Vimal Mehta
+83	83	Vijay Trehan	Mohit Gupta
+83	83	Vijay Trehan	D S Gambhir
+83	83	Vijay Trehan	Ramesh Arora
+83	83	Jamal Yusuf	Saibal Mukhopadhyay
+83	83	Jamal Yusuf	Umamahesh C. Rangasetty
+83	83	Jamal Yusuf	Vimal Mehta
+83	83	Jamal Yusuf	Mohit Gupta
+83	83	Jamal Yusuf	D S Gambhir
+83	83	Jamal Yusuf	Ramesh Arora
+83	83	Saibal Mukhopadhyay	Umamahesh C. Rangasetty
+83	83	Saibal Mukhopadhyay	Vimal Mehta
+83	83	Saibal Mukhopadhyay	Mohit Gupta
+83	83	Saibal Mukhopadhyay	D S Gambhir
+83	83	Saibal Mukhopadhyay	Ramesh Arora
+83	83	Umamahesh C. Rangasetty	Vimal Mehta
+83	83	Umamahesh C. Rangasetty	Mohit Gupta
+83	83	Umamahesh C. Rangasetty	D S Gambhir
+83	83	Umamahesh C. Rangasetty	Ramesh Arora
+83	83	Vimal Mehta	Mohit Gupta
+83	83	Vimal Mehta	D S Gambhir
+83	83	Vimal Mehta	Ramesh Arora
+83	83	Mohit Gupta	D S Gambhir
+83	83	Mohit Gupta	Ramesh Arora
+83	83	D S Gambhir	Ramesh Arora
+84	84	Surendra S. Parmar	K Kishor
+84	84	Surendra S. Parmar	P.K. Seth
+84	84	Surendra S. Parmar	Ramesh Arora
+84	84	K Kishor	P.K. Seth
+84	84	K Kishor	Ramesh Arora
+84	84	P.K. Seth	Ramesh Arora
+85	85	Surendra S. Parmar	Ramesh Arora
+86	86	John W. Crayton	Ira Joshi
+86	86	John W. Crayton	Anil Gulati
+86	86	John W. Crayton	Ramesh Arora
+86	86	John W. Crayton	William A. Wolf
+86	86	Ira Joshi	Anil Gulati
+86	86	Ira Joshi	Ramesh Arora
+86	86	Ira Joshi	William A. Wolf
+86	86	Anil Gulati	Ramesh Arora
+86	86	Anil Gulati	William A. Wolf
+86	86	Ramesh Arora	William A. Wolf
+87	87	Christopher G. Fichtner	Francine L. O'Connor
+87	87	Christopher G. Fichtner	H.C. Yeoh
+87	87	Christopher G. Fichtner	Ramesh Arora
+87	87	Christopher G. Fichtner	John W. Crayton
+87	87	Francine L. O'Connor	H.C. Yeoh
+87	87	Francine L. O'Connor	Ramesh Arora
+87	87	Francine L. O'Connor	John W. Crayton
+87	87	H.C. Yeoh	Ramesh Arora
+87	87	H.C. Yeoh	John W. Crayton
+87	87	Ramesh Arora	John W. Crayton
+88	88	Jagdish C. Mohan	Rajiv Passey
+88	88	Jagdish C. Mohan	Ramesh Arora
+88	88	Rajiv Passey	Ramesh Arora
+89	89	Paul J. Ambrosini	Claudia Metz
+89	89	Paul J. Ambrosini	Ramesh Arora
+89	89	Paul J. Ambrosini	Jar-Chi Lee
+89	89	Paul J. Ambrosini	L Kregel
+89	89	Paul J. Ambrosini	Herbert Y. Meltzer
+89	89	Claudia Metz	Ramesh Arora
+89	89	Claudia Metz	Jar-Chi Lee
+89	89	Claudia Metz	L Kregel
+89	89	Claudia Metz	Herbert Y. Meltzer
+89	89	Ramesh Arora	Jar-Chi Lee
+89	89	Ramesh Arora	L Kregel
+89	89	Ramesh Arora	Herbert Y. Meltzer
+89	89	Jar-Chi Lee	L Kregel
+89	89	Jar-Chi Lee	Herbert Y. Meltzer
+89	89	L Kregel	Herbert Y. Meltzer
+90	90	Vijay Trehan	Saibal Mukhopadhyay
+90	90	Vijay Trehan	Jamal Yusuf
+90	90	Vijay Trehan	Umamahesh C. Ramgasetty
+90	90	Vijay Trehan	Samanjoy Mukherjee
+90	90	Vijay Trehan	Ramesh Arora
+90	90	Saibal Mukhopadhyay	Jamal Yusuf
+90	90	Saibal Mukhopadhyay	Umamahesh C. Ramgasetty
+90	90	Saibal Mukhopadhyay	Samanjoy Mukherjee
+90	90	Saibal Mukhopadhyay	Ramesh Arora
+90	90	Jamal Yusuf	Umamahesh C. Ramgasetty
+90	90	Jamal Yusuf	Samanjoy Mukherjee
+90	90	Jamal Yusuf	Ramesh Arora
+90	90	Umamahesh C. Ramgasetty	Samanjoy Mukherjee
+90	90	Umamahesh C. Ramgasetty	Ramesh Arora
+90	90	Samanjoy Mukherjee	Ramesh Arora
+91	91	Ramesh Arora	Herbert Y. Meltzer
+92	92	Ramesh Arora	Vala Wunnicke
+92	92	Ramesh Arora	Herbert Y. Meltzer
+92	92	Vala Wunnicke	Herbert Y. Meltzer
+93	93	Jagdish C. Mohan	Samanjoy Mukherjee
+93	93	Jagdish C. Mohan	Ashish Kumar
+93	93	Jagdish C. Mohan	Ramesh Arora
+93	93	Jagdish C. Mohan	Ayan R. Patel
+93	93	Jagdish C. Mohan	Natesa G. Pandian
+93	93	Samanjoy Mukherjee	Ashish Kumar
+93	93	Samanjoy Mukherjee	Ramesh Arora
+93	93	Samanjoy Mukherjee	Ayan R. Patel
+93	93	Samanjoy Mukherjee	Natesa G. Pandian
+93	93	Ashish Kumar	Ramesh Arora
+93	93	Ashish Kumar	Ayan R. Patel
+93	93	Ashish Kumar	Natesa G. Pandian
+93	93	Ramesh Arora	Ayan R. Patel
+93	93	Ramesh Arora	Natesa G. Pandian
+93	93	Ayan R. Patel	Natesa G. Pandian
+94	94	Ramesh Arora	Yuh-Nan Lin
+94	94	Ramesh Arora	Norman S. Radin
+94	94	Yuh-Nan Lin	Norman S. Radin
+95	95	Antoinette Brenkert	Ramesh Arora
+95	95	Antoinette Brenkert	Norman S. Radin
+95	95	Antoinette Brenkert	Hans Meier
+95	95	Antoinette Brenkert	ANN D. MACPIKE
+95	95	Ramesh Arora	Norman S. Radin
+95	95	Ramesh Arora	Hans Meier
+95	95	Ramesh Arora	ANN D. MACPIKE
+95	95	Norman S. Radin	Hans Meier
+95	95	Norman S. Radin	ANN D. MACPIKE
+95	95	Hans Meier	ANN D. MACPIKE
+96	96	Ramesh Arora	D. Kalra
+96	96	Ramesh Arora	M Nigam
+96	96	Ramesh Arora	M. Khalillulah
+96	96	D. Kalra	M Nigam
+96	96	D. Kalra	M. Khalillulah
+96	96	M Nigam	M. Khalillulah
+97	97	Ramesh Arora	Anil Gulati
+97	97	Ramesh Arora	John W. Crayton
+97	97	Anil Gulati	John W. Crayton
+98	98	Ramesh Arora	Olga B. Emery
+98	98	Ramesh Arora	Herbert Y. Meltzer
+98	98	Olga B. Emery	Herbert Y. Meltzer
+99	99	J. Frank Nash	Ramesh Arora
+99	99	J. Frank Nash	Matthew Schreiber
+99	99	J. Frank Nash	Herbert Y. Meltzer
+99	99	Ramesh Arora	Matthew Schreiber
+99	99	Ramesh Arora	Herbert Y. Meltzer
+99	99	Matthew Schreiber	Herbert Y. Meltzer
+100	100	Ramesh Arora	Norman S. Radin
+101	101	R. K. Brahma	Omar Faruque
+101	101	R. K. Brahma	Ramesh Arora
+101	101	Omar Faruque	Ramesh Arora
+102	102	Ramesh Arora	Partho P. Sengupta
+102	102	Ramesh Arora	Ashish Thakur
+102	102	Ramesh Arora	Vimal Mehta
+102	102	Ramesh Arora	Vijay Trehan
+102	102	Partho P. Sengupta	Ashish Thakur
+102	102	Partho P. Sengupta	Vimal Mehta
+102	102	Partho P. Sengupta	Vijay Trehan
+102	102	Ashish Thakur	Vimal Mehta
+102	102	Ashish Thakur	Vijay Trehan
+102	102	Vimal Mehta	Vijay Trehan
+103	103	Vijay Trehan	Saibal Mukhopadhyay
+103	103	Vijay Trehan	C. R. Umamahesh
+103	103	Vijay Trehan	Jamal Yusuf
+103	103	Vijay Trehan	Ramesh Arora
+103	103	Saibal Mukhopadhyay	C. R. Umamahesh
+103	103	Saibal Mukhopadhyay	Jamal Yusuf
+103	103	Saibal Mukhopadhyay	Ramesh Arora
+103	103	C. R. Umamahesh	Jamal Yusuf
+103	103	C. R. Umamahesh	Ramesh Arora
+103	103	Jamal Yusuf	Ramesh Arora
+104	104	Gunnar Husby	Ramesh Arora
+104	104	Gunnar Husby	Ralph C. Williams
+104	104	Gunnar Husby	Ban An Khaw
+104	104	Gunnar Husby	Edgar Haber
+104	104	Gunnar Husby	Cooley Butler
+104	104	Ramesh Arora	Ralph C. Williams
+104	104	Ramesh Arora	Ban An Khaw
+104	104	Ramesh Arora	Edgar Haber
+104	104	Ramesh Arora	Cooley Butler
+104	104	Ralph C. Williams	Ban An Khaw
+104	104	Ralph C. Williams	Edgar Haber
+104	104	Ralph C. Williams	Cooley Butler
+104	104	Ban An Khaw	Edgar Haber
+104	104	Ban An Khaw	Cooley Butler
+104	104	Edgar Haber	Cooley Butler
+105	105	Upendra Kaul	Ramesh Arora
+105	105	Upendra Kaul	Sudha Rani
+105	105	Ramesh Arora	Sudha Rani
+107	107	Ramesh Arora	Herbert Y. Meltzer
+108	108	Surendra S. Parmar	Ramesh Arora
+109	109	Jagdish C. Mohan	Rajiv Passey
+109	109	Jagdish C. Mohan	Ramesh Arora
+109	109	Rajiv Passey	Ramesh Arora

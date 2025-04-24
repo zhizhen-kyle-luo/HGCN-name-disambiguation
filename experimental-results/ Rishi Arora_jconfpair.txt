@@ -1,0 +1,145 @@
+2	23	Journal of the American College of Cardiology	Journal of the American College of Cardiology
+2	71	Journal of the American College of Cardiology	Journal of the American College of Cardiology
+23	71	Journal of the American College of Cardiology	Journal of the American College of Cardiology
+3	7	Circulation	Circulation
+3	31	Circulation	Circulation
+3	54	Circulation	Circulation
+7	31	Circulation	Circulation
+7	54	Circulation	Circulation
+31	54	Circulation	Circulation
+11	99	Biochemical Pharmacology	Biochemical Pharmacology
+12	15	Life Sciences	Life Sciences
+12	33	Life Sciences	Life Sciences
+12	43	Life Sciences	Life Sciences
+12	55	Life Sciences	Life Sciences
+12	87	Life Sciences	Life Sciences
+12	97	Life Sciences	Life Sciences
+12	107	Life Sciences	Life Sciences
+15	33	Life Sciences	Life Sciences
+15	43	Life Sciences	Life Sciences
+15	55	Life Sciences	Life Sciences
+15	87	Life Sciences	Life Sciences
+15	97	Life Sciences	Life Sciences
+15	107	Life Sciences	Life Sciences
+33	43	Life Sciences	Life Sciences
+33	55	Life Sciences	Life Sciences
+33	87	Life Sciences	Life Sciences
+33	97	Life Sciences	Life Sciences
+33	107	Life Sciences	Life Sciences
+43	55	Life Sciences	Life Sciences
+43	87	Life Sciences	Life Sciences
+43	97	Life Sciences	Life Sciences
+43	107	Life Sciences	Life Sciences
+55	87	Life Sciences	Life Sciences
+55	97	Life Sciences	Life Sciences
+55	107	Life Sciences	Life Sciences
+87	97	Life Sciences	Life Sciences
+87	107	Life Sciences	Life Sciences
+97	107	Life Sciences	Life Sciences
+13	17	Journal of Neural Transmission	Journal of Neural Transmission
+13	18	Journal of Neural Transmission	Journal of Neural Transmission
+17	18	Journal of Neural Transmission	Journal of Neural Transmission
+14	24	American Heart Journal	American Heart Journal
+14	25	American Heart Journal	American Heart Journal
+14	29	American Heart Journal	American Heart Journal
+14	44	American Heart Journal	American Heart Journal
+14	72	American Heart Journal	American Heart Journal
+14	93	American Heart Journal	American Heart Journal
+14	96	American Heart Journal	American Heart Journal
+14	105	American Heart Journal	American Heart Journal
+24	25	American Heart Journal	American Heart Journal
+24	29	American Heart Journal	American Heart Journal
+24	44	American Heart Journal	American Heart Journal
+24	72	American Heart Journal	American Heart Journal
+24	93	American Heart Journal	American Heart Journal
+24	96	American Heart Journal	American Heart Journal
+24	105	American Heart Journal	American Heart Journal
+25	29	American Heart Journal	American Heart Journal
+25	44	American Heart Journal	American Heart Journal
+25	72	American Heart Journal	American Heart Journal
+25	93	American Heart Journal	American Heart Journal
+25	96	American Heart Journal	American Heart Journal
+25	105	American Heart Journal	American Heart Journal
+29	44	American Heart Journal	American Heart Journal
+29	72	American Heart Journal	American Heart Journal
+29	93	American Heart Journal	American Heart Journal
+29	96	American Heart Journal	American Heart Journal
+29	105	American Heart Journal	American Heart Journal
+44	72	American Heart Journal	American Heart Journal
+44	93	American Heart Journal	American Heart Journal
+44	96	American Heart Journal	American Heart Journal
+44	105	American Heart Journal	American Heart Journal
+72	93	American Heart Journal	American Heart Journal
+72	96	American Heart Journal	American Heart Journal
+72	105	American Heart Journal	American Heart Journal
+93	96	American Heart Journal	American Heart Journal
+93	105	American Heart Journal	American Heart Journal
+96	105	American Heart Journal	American Heart Journal
+16	42	Catheterization and Cardiovascular Interventions	Catheterization and Cardiovascular Interventions
+16	90	Catheterization and Cardiovascular Interventions	Catheterization and Cardiovascular Interventions
+42	90	Catheterization and Cardiovascular Interventions	Catheterization and Cardiovascular Interventions
+19	26	Journal of Interventional Cardiology	Journal of Interventional Cardiology
+19	32	Journal of Interventional Cardiology	Journal of Interventional Cardiology
+19	102	Journal of Interventional Cardiology	Journal of Interventional Cardiology
+26	32	Journal of Interventional Cardiology	Journal of Interventional Cardiology
+26	102	Journal of Interventional Cardiology	Journal of Interventional Cardiology
+32	102	Journal of Interventional Cardiology	Journal of Interventional Cardiology
+22	62	CardioVascular and Interventional Radiology	CardioVascular and Interventional Radiology
+27	86	Brain Research	Brain Research
+27	95	Brain Research	Brain Research
+86	95	Brain Research	Brain Research
+30	41	The American Journal of Cardiology	The American Journal of Cardiology
+30	47	The American Journal of Cardiology	The American Journal of Cardiology
+41	47	The American Journal of Cardiology	The American Journal of Cardiology
+34	36	Psychiatry Research	Psychiatry Research
+34	63	Psychiatry Research	Psychiatry Research
+34	66	Psychiatry Research	Psychiatry Research
+34	74	Psychiatry Research	Psychiatry Research
+36	63	Psychiatry Research	Psychiatry Research
+36	66	Psychiatry Research	Psychiatry Research
+36	74	Psychiatry Research	Psychiatry Research
+63	66	Psychiatry Research	Psychiatry Research
+63	74	Psychiatry Research	Psychiatry Research
+66	74	Psychiatry Research	Psychiatry Research
+37	51	Clinica Chimica Acta	Clinica Chimica Acta
+38	59	PubMed	PubMed
+38	78	PubMed	PubMed
+38	81	PubMed	PubMed
+38	83	PubMed	PubMed
+38	103	PubMed	PubMed
+59	78	PubMed	PubMed
+59	81	PubMed	PubMed
+59	83	PubMed	PubMed
+59	103	PubMed	PubMed
+78	81	PubMed	PubMed
+78	83	PubMed	PubMed
+78	103	PubMed	PubMed
+81	83	PubMed	PubMed
+81	103	PubMed	PubMed
+83	103	PubMed	PubMed
+45	57	Biological Psychiatry	Biological Psychiatry
+45	58	Biological Psychiatry	Biological Psychiatry
+45	82	Biological Psychiatry	Biological Psychiatry
+45	91	Biological Psychiatry	Biological Psychiatry
+45	92	Biological Psychiatry	Biological Psychiatry
+57	58	Biological Psychiatry	Biological Psychiatry
+57	82	Biological Psychiatry	Biological Psychiatry
+57	91	Biological Psychiatry	Biological Psychiatry
+57	92	Biological Psychiatry	Biological Psychiatry
+58	82	Biological Psychiatry	Biological Psychiatry
+58	91	Biological Psychiatry	Biological Psychiatry
+58	92	Biological Psychiatry	Biological Psychiatry
+82	91	Biological Psychiatry	Biological Psychiatry
+82	92	Biological Psychiatry	Biological Psychiatry
+91	92	Biological Psychiatry	Biological Psychiatry
+49	53	Atherosclerosis	Atherosclerosis
+50	77	Schizophrenia Bulletin	Schizophrenia Bulletin
+52	64	Journal of the American Society of Echocardiography	Journal of the American Society of Echocardiography
+52	73	Journal of the American Society of Echocardiography	Journal of the American Society of Echocardiography
+64	73	Journal of the American Society of Echocardiography	Journal of the American Society of Echocardiography
+61	67	Journal of Lipid Research	Journal of Lipid Research
+68	88	International Journal of Cardiology	International Journal of Cardiology
+68	109	International Journal of Cardiology	International Journal of Cardiology
+88	109	International Journal of Cardiology	International Journal of Cardiology
+79	108	Canadian Journal of Chemistry	Canadian Journal of Chemistry
+84	85	Journal of Medicinal Chemistry	Journal of Medicinal Chemistry

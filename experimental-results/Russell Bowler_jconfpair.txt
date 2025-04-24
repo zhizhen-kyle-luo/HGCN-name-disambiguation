@@ -1,0 +1,362 @@
+2	14	Radiology	Radiology
+2	98	Radiology	Radiology
+14	98	Radiology	Radiology
+3	83	Journal of Allergy and Clinical Immunology	Journal of Allergy and Clinical Immunology
+6	7	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	11	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	13	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	23	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	24	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	28	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	32	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+6	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	11	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	13	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	23	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	24	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	28	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	32	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+7	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	13	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	23	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	24	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	28	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	32	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+11	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	23	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	24	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	28	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	32	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+13	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	24	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	28	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	32	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+23	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	28	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	32	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+24	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	32	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+28	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	33	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+32	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	39	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+33	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	41	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+39	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	43	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+41	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	46	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+43	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	47	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+46	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	52	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+47	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	61	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+52	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+61	62	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+61	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+61	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+61	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+61	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+61	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+61	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+62	73	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+62	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+62	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+62	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+62	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+62	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+73	74	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+73	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+73	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+73	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+73	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+74	78	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+74	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+74	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+74	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+78	82	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+78	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+78	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+82	96	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+82	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+96	99	American Journal of Respiratory and Critical Care Medicine	American Journal of Respiratory and Critical Care Medicine
+8	9	The Lancet Respiratory Medicine	The Lancet Respiratory Medicine
+8	10	The Lancet Respiratory Medicine	The Lancet Respiratory Medicine
+9	10	The Lancet Respiratory Medicine	The Lancet Respiratory Medicine
+12	17	Nature Genetics	Nature Genetics
+12	79	Nature Genetics	Nature Genetics
+17	79	Nature Genetics	Nature Genetics
+15	36	Nature Communications	Nature Communications
+15	49	Nature Communications	Nature Communications
+15	77	Nature Communications	Nature Communications
+15	100	Nature Communications	Nature Communications
+15	105	Nature Communications	Nature Communications
+36	49	Nature Communications	Nature Communications
+36	77	Nature Communications	Nature Communications
+36	100	Nature Communications	Nature Communications
+36	105	Nature Communications	Nature Communications
+49	77	Nature Communications	Nature Communications
+49	100	Nature Communications	Nature Communications
+49	105	Nature Communications	Nature Communications
+77	100	Nature Communications	Nature Communications
+77	105	Nature Communications	Nature Communications
+100	105	Nature Communications	Nature Communications
+16	44	Chronic Obstructive Pulmonary Diseases Journal of the COPD Foundation	Chronic Obstructive Pulmonary Diseases Journal of the COPD Foundation
+16	95	Chronic Obstructive Pulmonary Diseases Journal of the COPD Foundation	Chronic Obstructive Pulmonary Diseases Journal of the COPD Foundation
+44	95	Chronic Obstructive Pulmonary Diseases Journal of the COPD Foundation	Chronic Obstructive Pulmonary Diseases Journal of the COPD Foundation
+20	58	The Journal of Immunology	The Journal of Immunology
+22	54	COPD Journal of Chronic Obstructive Pulmonary Disease	COPD Journal of Chronic Obstructive Pulmonary Disease
+22	57	COPD Journal of Chronic Obstructive Pulmonary Disease	COPD Journal of Chronic Obstructive Pulmonary Disease
+54	57	COPD Journal of Chronic Obstructive Pulmonary Disease	COPD Journal of Chronic Obstructive Pulmonary Disease
+27	34	Respiratory Research	Respiratory Research
+27	69	Respiratory Research	Respiratory Research
+27	90	Respiratory Research	Respiratory Research
+27	94	Respiratory Research	Respiratory Research
+34	69	Respiratory Research	Respiratory Research
+34	90	Respiratory Research	Respiratory Research
+34	94	Respiratory Research	Respiratory Research
+69	90	Respiratory Research	Respiratory Research
+69	94	Respiratory Research	Respiratory Research
+90	94	Respiratory Research	Respiratory Research
+29	51	The American Journal of Human Genetics	The American Journal of Human Genetics
+30	70	American Journal of Respiratory Cell and Molecular Biology	American Journal of Respiratory Cell and Molecular Biology
+30	85	American Journal of Respiratory Cell and Molecular Biology	American Journal of Respiratory Cell and Molecular Biology
+30	93	American Journal of Respiratory Cell and Molecular Biology	American Journal of Respiratory Cell and Molecular Biology
+70	85	American Journal of Respiratory Cell and Molecular Biology	American Journal of Respiratory Cell and Molecular Biology
+70	93	American Journal of Respiratory Cell and Molecular Biology	American Journal of Respiratory Cell and Molecular Biology
+85	93	American Journal of Respiratory Cell and Molecular Biology	American Journal of Respiratory Cell and Molecular Biology
+31	91	Annals of the American Thoracic Society	Annals of the American Thoracic Society
+35	40	CHEST Journal	CHEST Journal
+35	42	CHEST Journal	CHEST Journal
+35	65	CHEST Journal	CHEST Journal
+35	66	CHEST Journal	CHEST Journal
+35	71	CHEST Journal	CHEST Journal
+35	75	CHEST Journal	CHEST Journal
+35	81	CHEST Journal	CHEST Journal
+35	84	CHEST Journal	CHEST Journal
+35	109	CHEST Journal	CHEST Journal
+35	110	CHEST Journal	CHEST Journal
+40	42	CHEST Journal	CHEST Journal
+40	65	CHEST Journal	CHEST Journal
+40	66	CHEST Journal	CHEST Journal
+40	71	CHEST Journal	CHEST Journal
+40	75	CHEST Journal	CHEST Journal
+40	81	CHEST Journal	CHEST Journal
+40	84	CHEST Journal	CHEST Journal
+40	109	CHEST Journal	CHEST Journal
+40	110	CHEST Journal	CHEST Journal
+42	65	CHEST Journal	CHEST Journal
+42	66	CHEST Journal	CHEST Journal
+42	71	CHEST Journal	CHEST Journal
+42	75	CHEST Journal	CHEST Journal
+42	81	CHEST Journal	CHEST Journal
+42	84	CHEST Journal	CHEST Journal
+42	109	CHEST Journal	CHEST Journal
+42	110	CHEST Journal	CHEST Journal
+65	66	CHEST Journal	CHEST Journal
+65	71	CHEST Journal	CHEST Journal
+65	75	CHEST Journal	CHEST Journal
+65	81	CHEST Journal	CHEST Journal
+65	84	CHEST Journal	CHEST Journal
+65	109	CHEST Journal	CHEST Journal
+65	110	CHEST Journal	CHEST Journal
+66	71	CHEST Journal	CHEST Journal
+66	75	CHEST Journal	CHEST Journal
+66	81	CHEST Journal	CHEST Journal
+66	84	CHEST Journal	CHEST Journal
+66	109	CHEST Journal	CHEST Journal
+66	110	CHEST Journal	CHEST Journal
+71	75	CHEST Journal	CHEST Journal
+71	81	CHEST Journal	CHEST Journal
+71	84	CHEST Journal	CHEST Journal
+71	109	CHEST Journal	CHEST Journal
+71	110	CHEST Journal	CHEST Journal
+75	81	CHEST Journal	CHEST Journal
+75	84	CHEST Journal	CHEST Journal
+75	109	CHEST Journal	CHEST Journal
+75	110	CHEST Journal	CHEST Journal
+81	84	CHEST Journal	CHEST Journal
+81	109	CHEST Journal	CHEST Journal
+81	110	CHEST Journal	CHEST Journal
+84	109	CHEST Journal	CHEST Journal
+84	110	CHEST Journal	CHEST Journal
+109	110	CHEST Journal	CHEST Journal
+55	87	AJP Lung Cellular and Molecular Physiology	AJP Lung Cellular and Molecular Physiology
+63	97	European Journal of Radiology	European Journal of Radiology
+64	80	Thorax	Thorax
+101	103	Circulation	Circulation

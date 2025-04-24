@@ -1,0 +1,3447 @@
+{
+  "author_name": " Rishi Arora",
+  "author_data": {
+    "A5053931115": {
+      "id": "A5053931115",
+      "name": "Rishi Arora",
+      "name_first": "Rishi",
+      "name_middle": "",
+      "name_last": "Arora",
+      "works_count": 245,
+      "works": [
+        "W2605788521",
+        "W3175547357",
+        "W2922383807",
+        "W1962579529",
+        "W4211030234",
+        "W4281553981",
+        "W4408300996",
+        "W2131011893",
+        "W2485464167",
+        "W1995650989"
+      ]
+    },
+    "A5112169752": {
+      "id": "A5112169752",
+      "name": "Ramesh Arora",
+      "name_first": "Ramesh",
+      "name_middle": "",
+      "name_last": "Arora",
+      "works_count": 250,
+      "works": [
+        "W2302121233",
+        "W2051664368",
+        "W2058472215",
+        "W2015229506",
+        "W1974529915",
+        "W2086075088",
+        "W2086040841",
+        "W2091806102",
+        "W2040223618",
+        "W2005852074",
+        "W1985433817",
+        "W2079016503",
+        "W2020506581",
+        "W2067235141",
+        "W2068772267",
+        "W2009089124",
+        "W2058524718",
+        "W1965546409",
+        "W4409067007",
+        "W1996430442",
+        "W2037612393",
+        "W2096300041",
+        "W1973551889",
+        "W2019072942",
+        "W2012398116",
+        "W2092827594",
+        "W1984695385",
+        "W2067781694",
+        "W196823286",
+        "W2072307683",
+        "W2043145585",
+        "W1968686529",
+        "W1980893583",
+        "W2091162487",
+        "W2089619537",
+        "W2092790880",
+        "W2120993087",
+        "W2155638958",
+        "W1976191014",
+        "W2031261976",
+        "W2113303905",
+        "W2063572278",
+        "W2074472123",
+        "W2146232278",
+        "W2152413000",
+        "W2055855727",
+        "W1994245216",
+        "W1985385602",
+        "W2011669582",
+        "W6813983",
+        "W2107599016",
+        "W2470954488",
+        "W2144034371",
+        "W1975404651",
+        "W2020744430",
+        "W2499483419",
+        "W2081184499",
+        "W2183180282",
+        "W1964736177",
+        "W2019133233",
+        "W2161509153",
+        "W2166685743",
+        "W1978039061",
+        "W2074802550",
+        "W2038572877",
+        "W2040543055",
+        "W2088607685",
+        "W2145754286",
+        "W2417686190",
+        "W2079082608",
+        "W2053425025",
+        "W207529083",
+        "W2107909866",
+        "W2410760545",
+        "W1993339903",
+        "W2327128553",
+        "W2006388213",
+        "W2017303505",
+        "W2019271958",
+        "W1994173371",
+        "W2088162507",
+        "W2083470526",
+        "W2070875143",
+        "W2106191754",
+        "W1964463682",
+        "W2082299668",
+        "W2001172360",
+        "W2081989764",
+        "W2023135993",
+        "W2066316290",
+        "W2069518602",
+        "W1511906690",
+        "W2062202975",
+        "W2418796042",
+        "W2059905029",
+        "W2046345392",
+        "W2108860027",
+        "W1972161600",
+        "W2023366042",
+        "W2008636200"
+      ]
+    },
+    "A5114067392": {
+      "id": "A5114067392",
+      "name": "Rishi Rishi Arora",
+      "name_first": "Rishi",
+      "name_middle": "Rishi",
+      "name_last": "Arora",
+      "works_count": 1,
+      "works": []
+    }
+  },
+  "works_data": {
+    "W2605788521": {
+      "id": "W2605788521",
+      "title": "Left atrial volume predicts atrial fibrillation recurrence after radiofrequency ablation: a meta-analysis",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Augustine Njoku",
+          "id": "A5019217121"
+        },
+        {
+          "name": "Munish Kumar Kannabhiran",
+          "id": "A5031640058"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Pratap Reddy",
+          "id": "A5108208930"
+        },
+        {
+          "name": "Rakesh Gopinathannair",
+          "id": "A5075528598"
+        },
+        {
+          "name": "Dhanunjaya Lakkireddy",
+          "id": "A5024164661"
+        },
+        {
+          "name": "Paari Dominic",
+          "id": "A5012681244"
+        }
+      ],
+      "venue": "EP Europace"
+    },
+    "W3175547357": {
+      "id": "W3175547357",
+      "title": "Fully implantable and bioresorbable cardiac pacemakers without leads or batteries",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Yeon Sik Choi",
+          "id": "A5058205187"
+        },
+        {
+          "name": "Rose T. Yin",
+          "id": "A5005999921"
+        },
+        {
+          "name": "Anna Pfenniger",
+          "id": "A5084756693"
+        },
+        {
+          "name": "Jahyun Koo",
+          "id": "A5069674162"
+        },
+        {
+          "name": "Raudel Avila",
+          "id": "A5040172114"
+        },
+        {
+          "name": "Kyongjune B. Lee",
+          "id": "A5042427002"
+        },
+        {
+          "name": "Sheena W. Chen",
+          "id": "A5041147381"
+        },
+        {
+          "name": "Geumbee Lee",
+          "id": "A5027281014"
+        },
+        {
+          "name": "Gang Li",
+          "id": "A5101528104"
+        },
+        {
+          "name": "Yun Qiao",
+          "id": "A5103053116"
+        },
+        {
+          "name": "Alejandro Murillo",
+          "id": "A5003023993"
+        },
+        {
+          "name": "Alexi Kiss",
+          "id": "A5027643455"
+        },
+        {
+          "name": "Shuling Han",
+          "id": "A5110367953"
+        },
+        {
+          "name": "Seung Min Lee",
+          "id": "A5100437546"
+        },
+        {
+          "name": "Chenhang Li",
+          "id": "A5031482588"
+        },
+        {
+          "name": "Zhaoqian Xie",
+          "id": "A5081472387"
+        },
+        {
+          "name": "Yu-Yu Chen",
+          "id": "A5110737812"
+        },
+        {
+          "name": "Amy Burrell",
+          "id": "A5028593117"
+        },
+        {
+          "name": "Beth Geist",
+          "id": "A5048202122"
+        },
+        {
+          "name": "Hyoyoung Jeong",
+          "id": "A5079541479"
+        },
+        {
+          "name": "Joohee Kim",
+          "id": "A5101923707"
+        },
+        {
+          "name": "Hong\u2010Joon Yoon",
+          "id": "A5003314572"
+        },
+        {
+          "name": "Anthony Banks",
+          "id": "A5064300968"
+        },
+        {
+          "name": "Seung\u2010Kyun Kang",
+          "id": "A5082059052"
+        },
+        {
+          "name": "Zheng Jenny Zhang",
+          "id": "A5084385132"
+        },
+        {
+          "name": "Chad R. Haney",
+          "id": "A5045523582"
+        },
+        {
+          "name": "Alan V. Sahakian",
+          "id": "A5036593593"
+        },
+        {
+          "name": "David A. Johnson",
+          "id": "A5060357627"
+        },
+        {
+          "name": "Tatiana Efimova",
+          "id": "A5030710989"
+        },
+        {
+          "name": "Yonggang Huang",
+          "id": "A5011255000"
+        },
+        {
+          "name": "Gregory D. Trachiotis",
+          "id": "A5005285838"
+        },
+        {
+          "name": "Bradley P. Knight",
+          "id": "A5016979167"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Igor R. Efimov",
+          "id": "A5001025616"
+        },
+        {
+          "name": "John A. Rogers",
+          "id": "A5045551635"
+        }
+      ],
+      "venue": "Nature Biotechnology"
+    },
+    "W2922383807": {
+      "id": "W2922383807",
+      "title": "Autonomic Nervous System Dysfunction",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Jeffrey J. Goldberger",
+          "id": "A5028093733"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Una Buckley",
+          "id": "A5087550619"
+        },
+        {
+          "name": "Kalyanam Shivkumar",
+          "id": "A5062469678"
+        }
+      ],
+      "venue": "Journal of the American College of Cardiology"
+    },
+    "W1962579529": {
+      "id": "W1962579529",
+      "title": "Evaluating the Atrial Myopathy Underlying Atrial Fibrillation",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Jeffrey J. Goldberger",
+          "id": "A5028093733"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "David Green",
+          "id": "A5100340827"
+        },
+        {
+          "name": "Philip Greenland",
+          "id": "A5005650203"
+        },
+        {
+          "name": "Daniel Lee",
+          "id": "A5100392980"
+        },
+        {
+          "name": "Donald M. Lloyd\u2010Jones",
+          "id": "A5017418373"
+        },
+        {
+          "name": "Michael Markl",
+          "id": "A5044152080"
+        },
+        {
+          "name": "Jason Ng",
+          "id": "A5065189006"
+        },
+        {
+          "name": "Sanjiv J. Shah",
+          "id": "A5005215114"
+        }
+      ],
+      "venue": "Circulation"
+    },
+    "W4211030234": {
+      "id": "W4211030234",
+      "title": "Atrial Myopathy",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Mark J. Shen",
+          "id": "A5084826170"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Jos\u00e9 Jalife",
+          "id": "A5055910478"
+        }
+      ],
+      "venue": "JACC Basic to Translational Science"
+    },
+    "W4281553981": {
+      "id": "W4281553981",
+      "title": "A transient, closed-loop network of wireless, body-integrated devices for autonomous electrotherapy",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Yeon Sik Choi",
+          "id": "A5058205187"
+        },
+        {
+          "name": "Hyoyoung Jeong",
+          "id": "A5079541479"
+        },
+        {
+          "name": "Rose T. Yin",
+          "id": "A5005999921"
+        },
+        {
+          "name": "Raudel Avila",
+          "id": "A5040172114"
+        },
+        {
+          "name": "Anna Pfenniger",
+          "id": "A5084756693"
+        },
+        {
+          "name": "Jae\u2010Young Yoo",
+          "id": "A5071986213"
+        },
+        {
+          "name": "Jong Yoon Lee",
+          "id": "A5013547507"
+        },
+        {
+          "name": "Andreas Tzavelis",
+          "id": "A5038415901"
+        },
+        {
+          "name": "Young Joong Lee",
+          "id": "A5043507847"
+        },
+        {
+          "name": "Sheena W. Chen",
+          "id": "A5041147381"
+        },
+        {
+          "name": "Helen S. Knight",
+          "id": "A5085234044"
+        },
+        {
+          "name": "Seungyeob Kim",
+          "id": "A5058211610"
+        },
+        {
+          "name": "Hak-Young Ahn",
+          "id": "A5012727431"
+        },
+        {
+          "name": "Grace Wickerson",
+          "id": "A5048857199"
+        },
+        {
+          "name": "Abraham V\u00e1zquez\u2010Guardado",
+          "id": "A5091731986"
+        },
+        {
+          "name": "Elizabeth Higbee\u2010Dempsey",
+          "id": "A5015408199"
+        },
+        {
+          "name": "B Russo",
+          "id": "A5018171233"
+        },
+        {
+          "name": "Michael A. Napolitano",
+          "id": "A5025211730"
+        },
+        {
+          "name": "Timothy J. Holleran",
+          "id": "A5077641375"
+        },
+        {
+          "name": "Leen Abdul Razzak",
+          "id": "A5049355883"
+        },
+        {
+          "name": "Alana N. Miniovich",
+          "id": "A5030818449"
+        },
+        {
+          "name": "Geumbee Lee",
+          "id": "A5027281014"
+        },
+        {
+          "name": "Beth Geist",
+          "id": "A5048202122"
+        },
+        {
+          "name": "Brandon Kim",
+          "id": "A5112899281"
+        },
+        {
+          "name": "Shuling Han",
+          "id": "A5110367953"
+        },
+        {
+          "name": "Jaclyn A. Brennan",
+          "id": "A5111423691"
+        },
+        {
+          "name": "Kedar Aras",
+          "id": "A5004277144"
+        },
+        {
+          "name": "Sung Soo Kwak",
+          "id": "A5026910402"
+        },
+        {
+          "name": "Joohee Kim",
+          "id": "A5101923707"
+        },
+        {
+          "name": "Emily A. Waters",
+          "id": "A5040362768"
+        },
+        {
+          "name": "Xiangxing Yang",
+          "id": "A5036207628"
+        },
+        {
+          "name": "Amy Burrell",
+          "id": "A5028593117"
+        },
+        {
+          "name": "Keum San Chun",
+          "id": "A5010350636"
+        },
+        {
+          "name": "Claire Liu",
+          "id": "A5018682132"
+        },
+        {
+          "name": "Changsheng Wu",
+          "id": "A5049325703"
+        },
+        {
+          "name": "Alina Y. Rwei",
+          "id": "A5087265688"
+        },
+        {
+          "name": "Alisha N. Spann",
+          "id": "A5086452985"
+        },
+        {
+          "name": "Anthony Banks",
+          "id": "A5064300968"
+        },
+        {
+          "name": "David A. Johnson",
+          "id": "A5060357627"
+        },
+        {
+          "name": "Zheng Jenny Zhang",
+          "id": "A5084385132"
+        },
+        {
+          "name": "Chad R. Haney",
+          "id": "A5045523582"
+        },
+        {
+          "name": "Sung Hun Jin",
+          "id": "A5007888977"
+        },
+        {
+          "name": "Alan V. Sahakian",
+          "id": "A5036593593"
+        },
+        {
+          "name": "Yonggang Huang",
+          "id": "A5011255000"
+        },
+        {
+          "name": "Gregory D. Trachiotis",
+          "id": "A5005285838"
+        },
+        {
+          "name": "Bradley P. Knight",
+          "id": "A5016979167"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Igor R. Efimov",
+          "id": "A5001025616"
+        },
+        {
+          "name": "John A. Rogers",
+          "id": "A5000988147"
+        }
+      ],
+      "venue": "Science"
+    },
+    "W4408300996": {
+      "id": "W4408300996",
+      "title": "Clinical neurocardiology: defining the value of neuroscience\u2010based cardiovascular therapeutics \u2013 2024 update",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Olujimi A. Ajijola",
+          "id": "A5080860497"
+        },
+        {
+          "name": "Tolga Aksu",
+          "id": "A5027713180"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Italo Biaggioni",
+          "id": "A5032394611"
+        },
+        {
+          "name": "Peng\u2010Sheng Chen",
+          "id": "A5032091908"
+        },
+        {
+          "name": "Gaetano Maria De Ferrari",
+          "id": "A5055478790"
+        },
+        {
+          "name": "Veronica Dusi",
+          "id": "A5035275903"
+        },
+        {
+          "name": "Marat Fudim",
+          "id": "A5062149714"
+        },
+        {
+          "name": "Jeffrey J. Goldberger",
+          "id": "A5028093733"
+        },
+        {
+          "name": "Alexander L. Green",
+          "id": "A5018134307"
+        },
+        {
+          "name": "Neil Herring",
+          "id": "A5084312738"
+        },
+        {
+          "name": "Sahib S. Khalsa",
+          "id": "A5028332100"
+        },
+        {
+          "name": "Rajesh Kumar",
+          "id": "A5052848876"
+        },
+        {
+          "name": "Edward G. Lakatta",
+          "id": "A5060742163"
+        },
+        {
+          "name": "Reena Mehra",
+          "id": "A5091775732"
+        },
+        {
+          "name": "Christian Meyer",
+          "id": "A5028903791"
+        },
+        {
+          "name": "Sunny S. Po",
+          "id": "A5004208322"
+        },
+        {
+          "name": "Stavros Stavrakis",
+          "id": "A5076287769"
+        },
+        {
+          "name": "Virend K. Somers",
+          "id": "A5003320993"
+        },
+        {
+          "name": "Alex Y. Tan",
+          "id": "A5070517660"
+        },
+        {
+          "name": "Miguel Valderr\u00e1bano",
+          "id": "A5088347449"
+        },
+        {
+          "name": "Kalyanam Shivkumar",
+          "id": "A5062469678"
+        }
+      ],
+      "venue": "The Journal of Physiology"
+    },
+    "W2131011893": {
+      "id": "W2131011893",
+      "title": "Arrhythmogenic Substrate of the Pulmonary Veins Assessed by High-Resolution Optical Mapping",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Sander Verheule",
+          "id": "A5057251822"
+        },
+        {
+          "name": "Luis R. Scott",
+          "id": "A5050542180"
+        },
+        {
+          "name": "ANTONIO NAVARRETE",
+          "id": "A5102189145"
+        },
+        {
+          "name": "Vikram Katari",
+          "id": "A5029213810"
+        },
+        {
+          "name": "Emily Wilson",
+          "id": "A5101696528"
+        },
+        {
+          "name": "Dev Vaz",
+          "id": "A5108783613"
+        },
+        {
+          "name": "Jeffrey E. Olgin",
+          "id": "A5073159182"
+        }
+      ],
+      "venue": "Circulation"
+    },
+    "W2485464167": {
+      "id": "W2485464167",
+      "title": "Potent Allosteric Dengue Virus NS5 Polymerase Inhibitors: Mechanism of Action and Resistance Profiling",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Siew Pheng Lim",
+          "id": "A5022429604"
+        },
+        {
+          "name": "Christian G. Noble",
+          "id": "A5028680656"
+        },
+        {
+          "name": "Cheah C. Seh",
+          "id": "A5020366410"
+        },
+        {
+          "name": "Tingjin Sherryl Soh",
+          "id": "A5002737747"
+        },
+        {
+          "name": "Abbas El Sahili",
+          "id": "A5064341297"
+        },
+        {
+          "name": "Grace Kar Yarn Chan",
+          "id": "A5074599494"
+        },
+        {
+          "name": "Julien Lescar",
+          "id": "A5034479823"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Timothy E. Benson",
+          "id": "A5057885169"
+        },
+        {
+          "name": "Shahul Nilar",
+          "id": "A5056054126"
+        },
+        {
+          "name": "Ujjini H. Manjunatha",
+          "id": "A5031740302"
+        },
+        {
+          "name": "Kah Fei Wan",
+          "id": "A5029354259"
+        },
+        {
+          "name": "Hongping Dong",
+          "id": "A5101877751"
+        },
+        {
+          "name": "Xuping Xie",
+          "id": "A5014815375"
+        },
+        {
+          "name": "Pei\u2010Yong Shi",
+          "id": "A5057764651"
+        },
+        {
+          "name": "Fumiaki Yokokawa",
+          "id": "A5026845080"
+        }
+      ],
+      "venue": "PLoS Pathogens"
+    },
+    "W1995650989": {
+      "id": "W1995650989",
+      "title": "Use of an electrocardiographic screening tool to determine candidacy for a subcutaneous implantable cardioverter-defibrillator",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Christopher A. Groh",
+          "id": "A5002424349"
+        },
+        {
+          "name": "Shishir Sharma",
+          "id": "A5079838580"
+        },
+        {
+          "name": "Daniel J. Pelchovitz",
+          "id": "A5016877776"
+        },
+        {
+          "name": "Prashant D. Bhave",
+          "id": "A5012833305"
+        },
+        {
+          "name": "John Rhyner",
+          "id": "A5063532748"
+        },
+        {
+          "name": "Nishant Verma",
+          "id": "A5084151681"
+        },
+        {
+          "name": "Rishi Arora",
+          "id": "A5053931115"
+        },
+        {
+          "name": "Alexandru B. Chicos",
+          "id": "A5085837387"
+        },
+        {
+          "name": "Susan S. Kim",
+          "id": "A5028550700"
+        },
+        {
+          "name": "Albert Lin",
+          "id": "A5103273749"
+        },
+        {
+          "name": "Rod Passman",
+          "id": "A5021503891"
+        },
+        {
+          "name": "Bradley P. Knight",
+          "id": "A5016979167"
+        }
+      ],
+      "venue": "Heart Rhythm"
+    },
+    "W2302121233": {
+      "id": "W2302121233",
+      "title": "Serotonergic measures in the brains of suicide victims: 5-HT2 binding sites in the frontal cortex of suicide victims and control subjects",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "American Journal of Psychiatry"
+    },
+    "W2051664368": {
+      "id": "W2051664368",
+      "title": "Effects of phencyclidine on [3H]catecholamine and [3H]serotonin uptake in synaptosomal preparations from rat brain",
+      "year": 1977,
+      "authors": [
+        {
+          "name": "Robert C. Smith",
+          "id": "A5100782718"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "John M. Davis",
+          "id": "A5052344963"
+        }
+      ],
+      "venue": "Biochemical Pharmacology"
+    },
+    "W2058472215": {
+      "id": "W2058472215",
+      "title": "Increased serotonin2 (5-HT2) receptor binding as measured by 3H-lysergic acid diethylamide (3H-LSD) in the blood platelets of depressed patients",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W2015229506": {
+      "id": "W2015229506",
+      "title": "Extrapyramidal side effects and increased serum prolactin following fluoxetine, a new antidepressant",
+      "year": 1979,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        },
+        {
+          "name": "Michael A. Young",
+          "id": "A5053985978"
+        },
+        {
+          "name": "John Metz",
+          "id": "A5110863850"
+        },
+        {
+          "name": "V. S. Fang",
+          "id": "A5106182665"
+        },
+        {
+          "name": "Paul M. Schyve",
+          "id": "A5113733940"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Journal of Neural Transmission"
+    },
+    "W1974529915": {
+      "id": "W1974529915",
+      "title": "Immediate and long-term results of balloon and surgical closed mitral valvotomy: A randomized comparative study",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Mohan Nair",
+          "id": "A5111455221"
+        },
+        {
+          "name": "D. Kalra",
+          "id": "A5036236950"
+        },
+        {
+          "name": "M Nigam",
+          "id": "A5004518011"
+        },
+        {
+          "name": "M Khalilullah",
+          "id": "A5110245418"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2086075088": {
+      "id": "W2086075088",
+      "title": "Platelet serotonin studies in hyperserotonemic relatives of children with autistic disorder",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Edwin H. Cook",
+          "id": "A5002090056"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "George M. Anderson",
+          "id": "A5103190205"
+        },
+        {
+          "name": "Elizabeth Berry\u2010Kravis",
+          "id": "A5016953572"
+        },
+        {
+          "name": "Shuya Yan",
+          "id": "A5113280371"
+        },
+        {
+          "name": "H.C. Yeoh",
+          "id": "A5048882467"
+        },
+        {
+          "name": "Paul J. Sklena",
+          "id": "A5019787955"
+        },
+        {
+          "name": "David Charak",
+          "id": "A5062279651"
+        },
+        {
+          "name": "Bennett Leventhal",
+          "id": "A5063159746"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W2086040841": {
+      "id": "W2086040841",
+      "title": "Initial human experience with the Amplatzer perimembranous ventricular septal occluder device",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "John L. Bass",
+          "id": "A5004591536"
+        },
+        {
+          "name": "D. Kalra",
+          "id": "A5036236950"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Jozef Ma\u0161ura",
+          "id": "A5050937700"
+        },
+        {
+          "name": "Pavlo Gavora",
+          "id": "A5016790616"
+        },
+        {
+          "name": "Basil D. Thanopoulos",
+          "id": "A5020436828"
+        },
+        {
+          "name": "William Torres",
+          "id": "A5018167240"
+        },
+        {
+          "name": "Horst Sievert",
+          "id": "A5109054931"
+        },
+        {
+          "name": "M\u00e1rio Carminati",
+          "id": "A5024899641"
+        },
+        {
+          "name": "G\u00fcnther Fischer",
+          "id": "A5111637334"
+        },
+        {
+          "name": "Peter Ewert",
+          "id": "A5045403639"
+        }
+      ],
+      "venue": "Catheterization and Cardiovascular Interventions"
+    },
+    "W2091806102": {
+      "id": "W2091806102",
+      "title": "Serotonin2 (5-HT2) receptor binding in the frontal cortex of schizophrenic patients",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Journal of Neural Transmission"
+    },
+    "W2040223618": {
+      "id": "W2040223618",
+      "title": "Serotonergic measures in suicide brain: 5-HT1A binding sites in frontal cortex of suicide victims",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Shin Matsubara",
+          "id": "A5069321417"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5108104383"
+        }
+      ],
+      "venue": "Journal of Neural Transmission"
+    },
+    "W2005852074": {
+      "id": "W2005852074",
+      "title": "Transcatheter Closure of Congenital Ventricular Septal Defects: Experience with Various Devices",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "Ashish Kumar",
+          "id": "A5101742132"
+        },
+        {
+          "name": "D. Kalra",
+          "id": "A5036236950"
+        },
+        {
+          "name": "Madhuri Nigam",
+          "id": "A5111799190"
+        }
+      ],
+      "venue": "Journal of Interventional Cardiology"
+    },
+    "W1985433817": {
+      "id": "W1985433817",
+      "title": "Percutaneous Transluminal Angioplasty for Renovascular Hypertension in Children: Initial and Long-term Results",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Sanjay Tyagi",
+          "id": "A5101466980"
+        },
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Deepak Kumar Satsangi",
+          "id": "A5109243716"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "PEDIATRICS"
+    },
+    "W2079016503": {
+      "id": "W2079016503",
+      "title": "Tissue distribution of lymphocytes in rheumatic heart valves as defined by monoclonal anti-T cell Antibodies",
+      "year": 1983,
+      "authors": [
+        {
+          "name": "Veena Raizada",
+          "id": "A5001472656"
+        },
+        {
+          "name": "Ralph C. Williams",
+          "id": "A5008244311"
+        },
+        {
+          "name": "Prem Chopra",
+          "id": "A5007321026"
+        },
+        {
+          "name": "N Gopinath",
+          "id": "A5053267317"
+        },
+        {
+          "name": "Kunti Prakash",
+          "id": "A5103405268"
+        },
+        {
+          "name": "K. B. Sharma",
+          "id": "A5102225403"
+        },
+        {
+          "name": "Keziah Cherian",
+          "id": "A5012572759"
+        },
+        {
+          "name": "S Panday",
+          "id": "A5111708115"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Madhuri Nigam",
+          "id": "A5111799190"
+        },
+        {
+          "name": "John B. Zabriskie",
+          "id": "A5056594805"
+        },
+        {
+          "name": "Gunnar Husby",
+          "id": "A5084205694"
+        }
+      ],
+      "venue": "The American Journal of Medicine"
+    },
+    "W2020506581": {
+      "id": "W2020506581",
+      "title": "Early and long-term results of subclavian angioplasty in aortoarteritis (takayasu disease): Comparison with atherosclerosis",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Sanjay Tyagi",
+          "id": "A5101466980"
+        },
+        {
+          "name": "Puneet K. Verma",
+          "id": "A5109253999"
+        },
+        {
+          "name": "D S Gambhir",
+          "id": "A5027822329"
+        },
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Renuka Saha",
+          "id": "A5113518923"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "CardioVascular and Interventional Radiology"
+    },
+    "W2067235141": {
+      "id": "W2067235141",
+      "title": "Percutaneous transatrial mitral commissurotomy: Immediate and intermediate results",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Gurcharan S. Kalra",
+          "id": "A5102089388"
+        },
+        {
+          "name": "G.S.R. Murty",
+          "id": "A5009071272"
+        },
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "Neeraj Jolly",
+          "id": "A5113765613"
+        },
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Kamal Kumar Sethi",
+          "id": "A5088112425"
+        },
+        {
+          "name": "Madhuri Nigam",
+          "id": "A5111799190"
+        },
+        {
+          "name": "Mohammad Khalilullah",
+          "id": "A5110973789"
+        }
+      ],
+      "venue": "Journal of the American College of Cardiology"
+    },
+    "W2068772267": {
+      "id": "W2068772267",
+      "title": "Transcatheter device closure of ventricular septal defects: Immediate results and intermediate-term follow-up",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Gurcharan S. Kalra",
+          "id": "A5102089388"
+        },
+        {
+          "name": "Puneet K. Verma",
+          "id": "A5109253999"
+        },
+        {
+          "name": "Anil Dhall",
+          "id": "A5081611487"
+        },
+        {
+          "name": "Sandeep Singh",
+          "id": "A5100613622"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2009089124": {
+      "id": "W2009089124",
+      "title": "Balloon angioplasty for renovascular hypertension in Takayasu's arteritis",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Sanjay Tyagi",
+          "id": "A5101466980"
+        },
+        {
+          "name": "Balbir Singh",
+          "id": "A5008209492"
+        },
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Kamal Kumar Sethi",
+          "id": "A5088112425"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Mohammad Khalilullah",
+          "id": "A5110973789"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2058524718": {
+      "id": "W2058524718",
+      "title": "Transcatheter Closure of Ruptured Sinus of Valsalva Aneurysm",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "UMA MAHESH C. RANGASETTY",
+          "id": "A5073133985"
+        },
+        {
+          "name": "Saibal Mukhopadhyay",
+          "id": "A5067601048"
+        },
+        {
+          "name": "Ashish Thakur",
+          "id": "A5033743247"
+        },
+        {
+          "name": "D. Kalra",
+          "id": "A5036236950"
+        }
+      ],
+      "venue": "Journal of Interventional Cardiology"
+    },
+    "W1965546409": {
+      "id": "W1965546409",
+      "title": "Glial and neuronal localization of cerebroside-metabolizing enzymes",
+      "year": 1972,
+      "authors": [
+        {
+          "name": "Norman S. Radin",
+          "id": "A5112583202"
+        },
+        {
+          "name": "Antoinette Brenkert",
+          "id": "A5084843450"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Otto Z. Sellinger",
+          "id": "A5066366869"
+        },
+        {
+          "name": "A. L. Flangas",
+          "id": "A5001518560"
+        }
+      ],
+      "venue": "Brain Research"
+    },
+    "W4409067007": {
+      "id": "W4409067007",
+      "title": "Moving towards outpatient kidney transplantation: a case report",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Vicente Garcia Tomas",
+          "id": "A5046383025"
+        },
+        {
+          "name": "Vinayak Rohan",
+          "id": "A5035397812"
+        },
+        {
+          "name": "Akansha Agrawal",
+          "id": "A5082358771"
+        },
+        {
+          "name": "T. Liu",
+          "id": "A5015118148"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Alexandria Tran",
+          "id": "A5086723107"
+        },
+        {
+          "name": "Matthew Harris",
+          "id": "A5103217971"
+        },
+        {
+          "name": "Satish N. Nadig",
+          "id": "A5080126533"
+        }
+      ],
+      "venue": "American Journal of Transplantation"
+    },
+    "W1996430442": {
+      "id": "W1996430442",
+      "title": "Balloon angioplasty of native coarctation of the aorta in adolescents and young adults",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Sanjay Tyagi",
+          "id": "A5101466980"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Kamal Kumar Sethi",
+          "id": "A5088112425"
+        },
+        {
+          "name": "D S Gambhir",
+          "id": "A5027822329"
+        },
+        {
+          "name": "M Khalilullah",
+          "id": "A5033898491"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2037612393": {
+      "id": "W2037612393",
+      "title": "Comparison of echocardiographic features of noncompaction of the left ventricle in adults versus idiopathic dilated cardiomyopathy in adults",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "Vineet Jain",
+          "id": "A5069268006"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Natesa G. Pandian",
+          "id": "A5108075030"
+        },
+        {
+          "name": "Bijoy K. Khandheria",
+          "id": "A5034588600"
+        }
+      ],
+      "venue": "The American Journal of Cardiology"
+    },
+    "W2096300041": {
+      "id": "W2096300041",
+      "title": "Percutaneous Mechanical Mitral Commissurotomy With a Newly Designed Metallic Valvulotome",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Alain Cribier",
+          "id": "A5083483338"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Eltchaninoff",
+          "id": "A5113611394"
+        },
+        {
+          "name": "Ren\u00e9 K\u00f6ning",
+          "id": "A5059088370"
+        },
+        {
+          "name": "Pratap Chandra Rath",
+          "id": "A5011530015"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Adel Imam",
+          "id": "A5113739431"
+        },
+        {
+          "name": "Mustapha El-Sayed",
+          "id": "A5083855281"
+        },
+        {
+          "name": "Sameer Dani",
+          "id": "A5111705083"
+        },
+        {
+          "name": "Genevi\u00e8ve D\u00e9rumeaux",
+          "id": "A5086655631"
+        },
+        {
+          "name": "Jacques B\u00e9nichou",
+          "id": "A5052144370"
+        },
+        {
+          "name": "Christophe Tron",
+          "id": "A5017722452"
+        },
+        {
+          "name": "Satej Janorkar",
+          "id": "A5031330380"
+        },
+        {
+          "name": "G\u00e9rard Pontier",
+          "id": "A5011112648"
+        },
+        {
+          "name": "B Letac",
+          "id": "A5012912060"
+        }
+      ],
+      "venue": "Circulation"
+    },
+    "W1973551889": {
+      "id": "W1973551889",
+      "title": "Transcatheter Closure of Congenital Muscular Ventricular Septal Defect",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "Ashish Thakur",
+          "id": "A5033743247"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "M Nigam",
+          "id": "A5004518011"
+        }
+      ],
+      "venue": "Journal of Interventional Cardiology"
+    },
+    "W2019072942": {
+      "id": "W2019072942",
+      "title": "Serotonin uptake and imipramine binding in blood platelets and brain of Fawn-hooded and Sprague Dawley rats",
+      "year": 1983,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Ching Tong",
+          "id": "A5038095172"
+        },
+        {
+          "name": "Herbert L. Jackman",
+          "id": "A5004417573"
+        },
+        {
+          "name": "David M. Stoff",
+          "id": "A5005842356"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W2012398116": {
+      "id": "W2012398116",
+      "title": "Genetic control of serotonin uptake in blood platelets: A twin study",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5108104383"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Psychiatry Research"
+    },
+    "W2092827594": {
+      "id": "W2092827594",
+      "title": "Platelet Markers of Suicidalitya",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5108104383"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Annals of the New York Academy of Sciences"
+    },
+    "W1984695385": {
+      "id": "W1984695385",
+      "title": "3H-imipramine binding in the frontal cortex of suicides",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5108104383"
+        }
+      ],
+      "venue": "Psychiatry Research"
+    },
+    "W2067781694": {
+      "id": "W2067781694",
+      "title": "A modified assay method for determining serotonin uptake in human platelets",
+      "year": 1981,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Clinica Chimica Acta"
+    },
+    "W196823286": {
+      "id": "W196823286",
+      "title": "Regression of coronary atherosclerosis through healthy lifestyle in coronary artery disease patients--Mount Abu Open Heart Trial.",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Gupta Sk",
+          "id": "A5077996251"
+        },
+        {
+          "name": "R. C. Sawhney",
+          "id": "A5108355690"
+        },
+        {
+          "name": "Lajpat Rai",
+          "id": "A5054630855"
+        },
+        {
+          "name": "Vishwas Chavan",
+          "id": "A5111527812"
+        },
+        {
+          "name": "Sameer Dani",
+          "id": "A5111705083"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "W. Selvamurthy",
+          "id": "A5040863279"
+        },
+        {
+          "name": "Harivansh Chopra",
+          "id": "A5049466453"
+        },
+        {
+          "name": "Navin C. Nanda",
+          "id": "A5084489488"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W2072307683": {
+      "id": "W2072307683",
+      "title": "On the heat transfer between two rotating disks",
+      "year": 1972,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Vijay K. Stokes",
+          "id": "A5051264660"
+        }
+      ],
+      "venue": "International Journal of Heat and Mass Transfer"
+    },
+    "W2043145585": {
+      "id": "W2043145585",
+      "title": "Numerical simulation of two-dimensional room air flow with and without buoyancy",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Shobha Lata Sinha",
+          "id": "A5001753953"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Subhransu Roy",
+          "id": "A5103843788"
+        }
+      ],
+      "venue": "Energy and Buildings"
+    },
+    "W1968686529": {
+      "id": "W1968686529",
+      "title": "Accuracy and pitfalls of early diastolic motion of the mitral annulus for diagnosing constrictive pericarditis by tissue Doppler imaging",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Natesa G. Pandian",
+          "id": "A5108075030"
+        },
+        {
+          "name": "Bijoy K. Khandheria",
+          "id": "A5034588600"
+        }
+      ],
+      "venue": "The American Journal of Cardiology"
+    },
+    "W1980893583": {
+      "id": "W1980893583",
+      "title": "Percutaneous transvenous mitral commissurotomy: Immediate and long\u2010term follow\u2010up results",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Gurcharan S. Kalra",
+          "id": "A5102089388"
+        },
+        {
+          "name": "Sandeep Singh",
+          "id": "A5100613622"
+        },
+        {
+          "name": "Saibal Mukhopadhyay",
+          "id": "A5067601048"
+        },
+        {
+          "name": "Ashish Kumar",
+          "id": "A5101742132"
+        },
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Madhuri Nigam",
+          "id": "A5111799190"
+        }
+      ],
+      "venue": "Catheterization and Cardiovascular Interventions"
+    },
+    "W2091162487": {
+      "id": "W2091162487",
+      "title": "Paroxetine binding in the blood platelets of post-traumatic stress disorder patients",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Christopher G. Fichtner",
+          "id": "A5111878645"
+        },
+        {
+          "name": "Francine L. O'Connor",
+          "id": "A5031630279"
+        },
+        {
+          "name": "John W. Crayton",
+          "id": "A5109322074"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W2089619537": {
+      "id": "W2089619537",
+      "title": "Long-term results after balloon pulmonary valvuloplasty in adults",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Balbir Singh",
+          "id": "A5008209492"
+        },
+        {
+          "name": "Sanjay Tyagi",
+          "id": "A5101466980"
+        },
+        {
+          "name": "Mohan Bhargava",
+          "id": "A5109378324"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "M Khalilullah",
+          "id": "A5110245418"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2092790880": {
+      "id": "W2092790880",
+      "title": "Serotonin uptake and imipramine binding in the blood platelets of obsessive-compulsive disorder patients",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Bijan Bastani",
+          "id": "A5103401163"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Biological Psychiatry"
+    },
+    "W2120993087": {
+      "id": "W2120993087",
+      "title": "Methanol production FPSO plant concept using multiple microchannel unit operations",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Anna Lee Tonkovich",
+          "id": "A5014610899"
+        },
+        {
+          "name": "Kai Jarosch",
+          "id": "A5061233314"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Leonardo Flor\u00eancio da Silva",
+          "id": "A5110926957"
+        },
+        {
+          "name": "Steven T. Perry",
+          "id": "A5004739145"
+        },
+        {
+          "name": "John McDaniel",
+          "id": "A5056621522"
+        },
+        {
+          "name": "Francis P. Daly",
+          "id": "A5013647902"
+        },
+        {
+          "name": "Barbara Litt",
+          "id": "A5037900278"
+        }
+      ],
+      "venue": "Chemical Engineering Journal"
+    },
+    "W2155638958": {
+      "id": "W2155638958",
+      "title": "Left ventricular intrinsic contractility in pure rheumatic mitral stenosis",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Mohammed Khalilullah",
+          "id": "A5110183773"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "The American Journal of Cardiology"
+    },
+    "W1976191014": {
+      "id": "W1976191014",
+      "title": "Effect of lithium carbonate on serotonin uptake in blood platelets of patients with affective disorders",
+      "year": 1983,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Paul J. Goodnick",
+          "id": "A5023535126"
+        }
+      ],
+      "venue": "Journal of Affective Disorders"
+    },
+    "W2031261976": {
+      "id": "W2031261976",
+      "title": "Comparative effect of clofibrate, garlic and onion on alimentary hyperlipemia",
+      "year": 1981,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Sunita Arora",
+          "id": "A5102482205"
+        }
+      ],
+      "venue": "Atherosclerosis"
+    },
+    "W2113303905": {
+      "id": "W2113303905",
+      "title": "Platelet Monoamine Oxidase and Plasma Amine Oxidase in Psychiatric Patients",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5108104383"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert L. Jackman",
+          "id": "A5004417573"
+        },
+        {
+          "name": "G.R. Pscheidt",
+          "id": "A5110003869"
+        },
+        {
+          "name": "M. D. Smith",
+          "id": "A5111833007"
+        }
+      ],
+      "venue": "Schizophrenia Bulletin"
+    },
+    "W2063572278": {
+      "id": "W2063572278",
+      "title": "Comparison of platelet count and platelet protein methods for determination of platelet mao activity",
+      "year": 1979,
+      "authors": [
+        {
+          "name": "Herbert L. Jackman",
+          "id": "A5004417573"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Clinica Chimica Acta"
+    },
+    "W2074472123": {
+      "id": "W2074472123",
+      "title": "Effects of percutaneous mitral commissurotomy on longitudinal left ventricular dynamics in mitral stenosis: Quantitative assessment by tissue velocity imaging",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Bijoy K. Khandheria",
+          "id": "A5034588600"
+        }
+      ],
+      "venue": "Journal of the American Society of Echocardiography"
+    },
+    "W2146232278": {
+      "id": "W2146232278",
+      "title": "The long-term use of garlic in ischemic heart disease An appraisal",
+      "year": 1981,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Sunita Arora",
+          "id": "A5102482205"
+        },
+        {
+          "name": "Raj K. Gupta",
+          "id": "A5103202107"
+        }
+      ],
+      "venue": "Atherosclerosis"
+    },
+    "W2152413000": {
+      "id": "W2152413000",
+      "title": "Chronic Atrial Fibrillation in Patients With Rheumatic Heart Disease",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Mohan Nair",
+          "id": "A5111455221"
+        },
+        {
+          "name": "Prasad Shah",
+          "id": "A5033410708"
+        },
+        {
+          "name": "Ravinder Batra",
+          "id": "A5111854042"
+        },
+        {
+          "name": "Manoj Kumar",
+          "id": "A5100670057"
+        },
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Circulation"
+    },
+    "W2055855727": {
+      "id": "W2055855727",
+      "title": "Platelet paroxetine binding and fluoxetine pharmacotherapy in posttraumatic stress disorder: Preliminary observations on a possible predictor of clinical treatment response",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Christopher G. Fichtner",
+          "id": "A5111878645"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Francine L. O'Connor",
+          "id": "A5031630279"
+        },
+        {
+          "name": "John W. Crayton",
+          "id": "A5109322074"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W1994245216": {
+      "id": "W1994245216",
+      "title": "Percutaneous mitral commissurotomy for severe mitral stenosis during pregnancy",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Gurcharan S. Kalra",
+          "id": "A5102089388"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Javed Akhtar Khan",
+          "id": "A5103744514"
+        },
+        {
+          "name": "Madhuri Nigam",
+          "id": "A5111799190"
+        },
+        {
+          "name": "M. Khalillulah",
+          "id": "A5058567775"
+        }
+      ],
+      "venue": "Catheterization and Cardiovascular Diagnosis"
+    },
+    "W1985385602": {
+      "id": "W1985385602",
+      "title": "Serotonergic measures in suicide brain: The concentration of 5-HIAA, HVA, and tryptophan in frontal cortex of suicide victims",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "T. Ohmori",
+          "id": "A5109095259"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Biological Psychiatry"
+    },
+    "W2011669582": {
+      "id": "W2011669582",
+      "title": "Laterality and 3H-imipramine binding: Studies in the frontal cortex of normal controls and suicide victims",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Biological Psychiatry"
+    },
+    "W6813983": {
+      "id": "W6813983",
+      "title": "Imipramine binding in subpopulations of normal human blood platelets.",
+      "year": 1984,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "H.Y. Meltzer",
+          "id": "A5110095669"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W2107599016": {
+      "id": "W2107599016",
+      "title": "GLYCOSYLTRANSFERASES OF RAT BRAIN THAT MAKE CEREBROSIDES: SUBSTRATE SPECIFICITY, INHIBITORS, AND ABNORMAL PRODUCTS<sup>1</sup>",
+      "year": 1976,
+      "authors": [
+        {
+          "name": "Kenneth R. Warren",
+          "id": "A5103439604"
+        },
+        {
+          "name": "R.S. Misra",
+          "id": "A5111598147"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Norman S. Radin",
+          "id": "A5112583202"
+        }
+      ],
+      "venue": "Journal of Neurochemistry"
+    },
+    "W2470954488": {
+      "id": "W2470954488",
+      "title": "Ceramide-like synthetic amides that inhibit cerebroside galactosidase",
+      "year": 1972,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Norman S. Radin",
+          "id": "A5112583202"
+        }
+      ],
+      "venue": "Journal of Lipid Research"
+    },
+    "W2144034371": {
+      "id": "W2144034371",
+      "title": "Endovascular stenting for unsuccessful angioplasty of the aorta in aortoarteritis",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Sanjay Tyagi",
+          "id": "A5113856832"
+        },
+        {
+          "name": "U Kaul",
+          "id": "A5047364519"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "CardioVascular and Interventional Radiology"
+    },
+    "W1975404651": {
+      "id": "W1975404651",
+      "title": "Serotonin2 receptor binding in blood platelets of schizophrenic patients",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5108104383"
+        }
+      ],
+      "venue": "Psychiatry Research"
+    },
+    "W2020744430": {
+      "id": "W2020744430",
+      "title": "Doppler tissue imaging improves assessment of abnormal interventricular septal and posterior wall motion in constrictive pericarditis",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "J C Mohan",
+          "id": "A5110035688"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Bijoy K. Khandheria",
+          "id": "A5034588600"
+        },
+        {
+          "name": "Natesa G. Pandian",
+          "id": "A5108075030"
+        }
+      ],
+      "venue": "Journal of the American Society of Echocardiography"
+    },
+    "W2499483419": {
+      "id": "W2499483419",
+      "title": "Platelet serotonin studies in affective disorders: evidence for a serotonergic abnormality?",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Oxford University Press eBooks"
+    },
+    "W2081184499": {
+      "id": "W2081184499",
+      "title": "Serotonin uptake by blood platelets of schizophrenic patients",
+      "year": 1982,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Psychiatry Research"
+    },
+    "W2183180282": {
+      "id": "W2183180282",
+      "title": "A simplified assay method for galactosyl ceramide \u03b2-galactosidase",
+      "year": 1971,
+      "authors": [
+        {
+          "name": "Norman S. Radin",
+          "id": "A5112583202"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Journal of Lipid Research"
+    },
+    "W1964736177": {
+      "id": "W1964736177",
+      "title": "Immediate and delayed effects of successful percutaneous transvenous mitral commissurotomy on global right ventricular function in patients with isolated mitral stenosis",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "International Journal of Cardiology"
+    },
+    "W2019133233": {
+      "id": "W2019133233",
+      "title": "Percutaneous Transluminal Angioplasty for Stenosis of the Aorta Due to Aortic Arteritis in Children",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Sanjay Tyagi",
+          "id": "A5101466980"
+        },
+        {
+          "name": "Asaad Khan",
+          "id": "A5019400914"
+        },
+        {
+          "name": "Upendra Kaul",
+          "id": "A5053721496"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Pediatric Cardiology"
+    },
+    "W2161509153": {
+      "id": "W2161509153",
+      "title": "Transcatheter closure of ventricular septal defect using detachable steel coil",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "D. Kalra",
+          "id": "A5036236950"
+        },
+        {
+          "name": "P. Verma",
+          "id": "A5033021366"
+        },
+        {
+          "name": "Sandeep Singh",
+          "id": "A5100613622"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Heart"
+    },
+    "W2166685743": {
+      "id": "W2166685743",
+      "title": "Is the mitral valve area flow-dependent in mitral stenosis?",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Ayan R. Patel",
+          "id": "A5063381907"
+        },
+        {
+          "name": "Rajiv Passey",
+          "id": "A5108834218"
+        },
+        {
+          "name": "Dinesh Gupta",
+          "id": "A5045441583"
+        },
+        {
+          "name": "Manoj Kumar",
+          "id": "A5100743434"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Natesa G. Pandian",
+          "id": "A5108075030"
+        }
+      ],
+      "venue": "Journal of the American College of Cardiology"
+    },
+    "W1978039061": {
+      "id": "W1978039061",
+      "title": "Percutaneous balloon mitral valvuloplasty in children and young adults with rheumatic mitral stenosis",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Mohan Nair",
+          "id": "A5111455221"
+        },
+        {
+          "name": "S Rajagopal",
+          "id": "A5111475534"
+        },
+        {
+          "name": "Kamal Kumar Sethi",
+          "id": "A5088112425"
+        },
+        {
+          "name": "J C Mohan",
+          "id": "A5110035688"
+        },
+        {
+          "name": "M Nigam",
+          "id": "A5004518011"
+        },
+        {
+          "name": "M Khalilullah",
+          "id": "A5110245418"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2074802550": {
+      "id": "W2074802550",
+      "title": "Quantification of Regional Nonuniformity and Paradoxical Intramural Mechanics in Hypertrophic Cardiomyopathy by High Frame Rate Ultrasound Myocardial Strain Mapping",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Bijoy K. Khandheria",
+          "id": "A5034588600"
+        }
+      ],
+      "venue": "Journal of the American Society of Echocardiography"
+    },
+    "W2038572877": {
+      "id": "W2038572877",
+      "title": "Serotonin uptake in blood platelets and the dexamethasone suppression test in depressed patients",
+      "year": 1983,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Betty Jo Tricou",
+          "id": "A5087869700"
+        },
+        {
+          "name": "Victor S. Fang",
+          "id": "A5105142919"
+        }
+      ],
+      "venue": "Psychiatry Research"
+    },
+    "W2040543055": {
+      "id": "W2040543055",
+      "title": "PLATELET 3H-IMIPRAMINE BINDING AND PLATELET 5-HT UPTAKE IN AFFECTIVE DISORDERS AND SCHIZOPHRENIA",
+      "year": 1984,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Alan Robertson",
+          "id": "A5001432440"
+        },
+        {
+          "name": "M T Lowy",
+          "id": "A5109354691"
+        }
+      ],
+      "venue": "Clinical Neuropharmacology"
+    },
+    "W2088607685": {
+      "id": "W2088607685",
+      "title": "Effect of adrenalectomy and corticosterone on [3H]imipramine binding in rat blood platelets and brain",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "European Journal of Pharmacology"
+    },
+    "W2145754286": {
+      "id": "W2145754286",
+      "title": "Biological Studies of Schizoaffective Disorders",
+      "year": 1984,
+      "authors": [
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "John Metz",
+          "id": "A5110863850"
+        }
+      ],
+      "venue": "Schizophrenia Bulletin"
+    },
+    "W2417686190": {
+      "id": "W2417686190",
+      "title": "Clinical profile of rheumatic fever and rheumatic heart disease: a study of 2,500 cases.",
+      "year": 1981,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "G Subramanyam",
+          "id": "A5009907858"
+        },
+        {
+          "name": "M Khalilullah",
+          "id": "A5033898491"
+        },
+        {
+          "name": "M.P. Gupta",
+          "id": "A5101918556"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W2079082608": {
+      "id": "W2079082608",
+      "title": "SYNTHESIS OF QUINAZOLONE HYDRAZIDES AS MONOAMINE OXIDASE INHIBITORS",
+      "year": 1966,
+      "authors": [
+        {
+          "name": "Surendra S. Parmar",
+          "id": "A5111703897"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Canadian Journal of Chemistry"
+    },
+    "W2053425025": {
+      "id": "W2053425025",
+      "title": "Studies on a compression-absorption heat pump for simultaneous cooling and heating",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Prasanta Kumar Satapathy",
+          "id": "A5048388330"
+        },
+        {
+          "name": "M. Gopal",
+          "id": "A5015795749"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "International Journal of Energy Research"
+    },
+    "W207529083": {
+      "id": "W207529083",
+      "title": "Bypass of carrier-induced epitope-specific suppression using a T-helper epitope.",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Subash Sad",
+          "id": "A5029004886"
+        },
+        {
+          "name": "Kanury V. S. Rao",
+          "id": "A5027945117"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "G.P. Talwar",
+          "id": "A5110121073"
+        },
+        {
+          "name": "Raj Raghupathy",
+          "id": "A5035202034"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W2107909866": {
+      "id": "W2107909866",
+      "title": "Seasonal variation of imipramine binding in the blood platelets of normal controls and depressed patients",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Biological Psychiatry"
+    },
+    "W2410760545": {
+      "id": "W2410760545",
+      "title": "Transcatheter closure of coronary artery fistulas.",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "Jamal Yusuf",
+          "id": "A5035635483"
+        },
+        {
+          "name": "Saibal Mukhopadhyay",
+          "id": "A5067601048"
+        },
+        {
+          "name": "Umamahesh C. Rangasetty",
+          "id": "A5054868860"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "Mohit Gupta",
+          "id": "A5039982850"
+        },
+        {
+          "name": "D S Gambhir",
+          "id": "A5027822329"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W1993339903": {
+      "id": "W1993339903",
+      "title": "Role of alkyl substitution in 2,3-disubstituted and 3-substituted 4-quinazolones on the inhibition of pyruvic acid oxidation",
+      "year": 1969,
+      "authors": [
+        {
+          "name": "Surendra S. Parmar",
+          "id": "A5111703897"
+        },
+        {
+          "name": "K Kishor",
+          "id": "A5080341648"
+        },
+        {
+          "name": "P.K. Seth",
+          "id": "A5112167366"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Journal of Medicinal Chemistry"
+    },
+    "W2327128553": {
+      "id": "W2327128553",
+      "title": "Some 2,3,6,8-Tetrasubstituted Quinazolone Hydrazides as Monoamine Oxidase Inhibitors",
+      "year": 1967,
+      "authors": [
+        {
+          "name": "Surendra S. Parmar",
+          "id": "A5111703897"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Journal of Medicinal Chemistry"
+    },
+    "W2006388213": {
+      "id": "W2006388213",
+      "title": "Effect of corticosterone on serotonin and catecholamine receptors and uptake sites in rat frontal cortex",
+      "year": 1996,
+      "authors": [
+        {
+          "name": "John W. Crayton",
+          "id": "A5109322074"
+        },
+        {
+          "name": "Ira Joshi",
+          "id": "A5056462485"
+        },
+        {
+          "name": "Anil Gulati",
+          "id": "A5039522776"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "William A. Wolf",
+          "id": "A5049304652"
+        }
+      ],
+      "venue": "Brain Research"
+    },
+    "W2017303505": {
+      "id": "W2017303505",
+      "title": "Hypodensity of platelet serotonin uptake sites in posttraumatic stress disorder: Associated clinical features",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Christopher G. Fichtner",
+          "id": "A5111878645"
+        },
+        {
+          "name": "Francine L. O'Connor",
+          "id": "A5031630279"
+        },
+        {
+          "name": "H.C. Yeoh",
+          "id": "A5048882467"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "John W. Crayton",
+          "id": "A5109322074"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W2019271958": {
+      "id": "W2019271958",
+      "title": "Echocardiographic spectrum of congenitally unguarded tricuspid valve orifice and patent right ventricular outflow tract",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Rajiv Passey",
+          "id": "A5108834218"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "International Journal of Cardiology"
+    },
+    "W1994173371": {
+      "id": "W1994173371",
+      "title": "Platelet Imipramine Binding in Depressed Children and Adolescents",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Paul J. Ambrosini",
+          "id": "A5111740164"
+        },
+        {
+          "name": "Claudia Metz",
+          "id": "A5030147588"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Jar-Chi Lee",
+          "id": "A5016225745"
+        },
+        {
+          "name": "L Kregel",
+          "id": "A5070117252"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Journal of the American Academy of Child & Adolescent Psychiatry"
+    },
+    "W2088162507": {
+      "id": "W2088162507",
+      "title": "Intracoronary fracture and embolization of a coronary angioplasty balloon catheter: Retrieval by a simple technique",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "Saibal Mukhopadhyay",
+          "id": "A5067601048"
+        },
+        {
+          "name": "Jamal Yusuf",
+          "id": "A5035635483"
+        },
+        {
+          "name": "Umamahesh C. Ramgasetty",
+          "id": "A5033980084"
+        },
+        {
+          "name": "Samanjoy Mukherjee",
+          "id": "A5083234145"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Catheterization and Cardiovascular Interventions"
+    },
+    "W2083470526": {
+      "id": "W2083470526",
+      "title": "Effect of desipramine treatment on 3H-imipramine binding in the blood platelets of depressed patients",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Biological Psychiatry"
+    },
+    "W2070875143": {
+      "id": "W2070875143",
+      "title": "Effect of protein concentration on kinetic constants (Kd and Bmax) of 3H-Imipramine binding in blood platelets",
+      "year": 1985,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Vala Wunnicke",
+          "id": "A5013790736"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Biological Psychiatry"
+    },
+    "W2106191754": {
+      "id": "W2106191754",
+      "title": "Does chronic mitral regurgitation influence Doppler pressure half-time\u2013derived calculation of the mitral valve area in patients with mitral stenosis?",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Samanjoy Mukherjee",
+          "id": "A5083234145"
+        },
+        {
+          "name": "Ashish Kumar",
+          "id": "A5101742132"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Ayan R. Patel",
+          "id": "A5063381907"
+        },
+        {
+          "name": "Natesa G. Pandian",
+          "id": "A5108075030"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W1964463682": {
+      "id": "W1964463682",
+      "title": "The inhibitor-sensitive sites of galactosyl ceramide galactosidase",
+      "year": 1973,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Yuh-Nan Lin",
+          "id": "A5033517842"
+        },
+        {
+          "name": "Norman S. Radin",
+          "id": "A5112583202"
+        }
+      ],
+      "venue": "Archives of Biochemistry and Biophysics"
+    },
+    "W2082299668": {
+      "id": "W2082299668",
+      "title": "Cerebroside synthesis and hydrolysis in a neurological mutant mouse (MSD)",
+      "year": 1972,
+      "authors": [
+        {
+          "name": "Antoinette Brenkert",
+          "id": "A5084843450"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Norman S. Radin",
+          "id": "A5112583202"
+        },
+        {
+          "name": "Hans Meier",
+          "id": "A5068298630"
+        },
+        {
+          "name": "ANN D. MACPIKE",
+          "id": "A5046598855"
+        }
+      ],
+      "venue": "Brain Research"
+    },
+    "W2001172360": {
+      "id": "W2001172360",
+      "title": "Transcatheter occlusion of patent ductus arteriosus by Rashkind umbrella device: Follow-up results",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "D. Kalra",
+          "id": "A5036236950"
+        },
+        {
+          "name": "M Nigam",
+          "id": "A5004518011"
+        },
+        {
+          "name": "M. Khalillulah",
+          "id": "A5058567775"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2081989764": {
+      "id": "W2081989764",
+      "title": "Aging and 3H-paroxetine binding in rat brain: Effect of imipramine and tetrahydroacridine",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Anil Gulati",
+          "id": "A5039522776"
+        },
+        {
+          "name": "John W. Crayton",
+          "id": "A5109322074"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W2023135993": {
+      "id": "W2023135993",
+      "title": "Serotonin uptake in the blood platelets of Alzheimer's disease patients",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Olga B. Emery",
+          "id": "A5018509289"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Neurology"
+    },
+    "W2066316290": {
+      "id": "W2066316290",
+      "title": "Effect of 3,4-methylenedioxymethamphetamine on [3H]paroxetine binding in the frontal cortex and blood platelets of rats",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "J. Frank Nash",
+          "id": "A5048838123"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Matthew Schreiber",
+          "id": "A5027351697"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Biochemical Pharmacology"
+    },
+    "W2069518602": {
+      "id": "W2069518602",
+      "title": "Stimulation in vitro of galactocerebroside galactosidase by N\u2010decanoyl 2\u2010amino\u20102\u2010methylpropanol",
+      "year": 1972,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Norman S. Radin",
+          "id": "A5112583202"
+        }
+      ],
+      "venue": "Lipids"
+    },
+    "W1511906690": {
+      "id": "W1511906690",
+      "title": "Experimental investigation of mean flow characteristics of slot jet impingement on a cylinder",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "R. K. Brahma",
+          "id": "A5028669486"
+        },
+        {
+          "name": "Omar Faruque",
+          "id": "A5042246074"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "W\u00e4rme- und Stoff\u00fcbertragung"
+    },
+    "W2062202975": {
+      "id": "W2062202975",
+      "title": "Device Closure of Patent Ductus Arteriosus",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Partho P. Sengupta",
+          "id": "A5086934416"
+        },
+        {
+          "name": "Ashish Thakur",
+          "id": "A5033743247"
+        },
+        {
+          "name": "Vimal Mehta",
+          "id": "A5103235199"
+        },
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        }
+      ],
+      "venue": "Journal of Interventional Cardiology"
+    },
+    "W2418796042": {
+      "id": "W2418796042",
+      "title": "Successful transcatheter closure of ruptured sinus of Valsalva aneurysm.",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Vijay Trehan",
+          "id": "A5112058214"
+        },
+        {
+          "name": "Saibal Mukhopadhyay",
+          "id": "A5067601048"
+        },
+        {
+          "name": "C. R. Umamahesh",
+          "id": "A5062988649"
+        },
+        {
+          "name": "Jamal Yusuf",
+          "id": "A5035635483"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W2059905029": {
+      "id": "W2059905029",
+      "title": "Immunofluorescence studies of florid rheumatic Aschoff lesions",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Gunnar Husby",
+          "id": "A5084205694"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Ralph C. Williams",
+          "id": "A5008244311"
+        },
+        {
+          "name": "Ban An Khaw",
+          "id": "A5108553098"
+        },
+        {
+          "name": "Edgar Haber",
+          "id": "A5111774641"
+        },
+        {
+          "name": "Cooley Butler",
+          "id": "A5111600942"
+        }
+      ],
+      "venue": "Arthritis & Rheumatism"
+    },
+    "W2046345392": {
+      "id": "W2046345392",
+      "title": "Uhl's anomaly with rudimentary pulmonary valve leaflets: A clinical, hemodynamic, angiographic, and pathologic study",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "Upendra Kaul",
+          "id": "A5053721496"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Sudha Rani",
+          "id": "A5107772620"
+        }
+      ],
+      "venue": "American Heart Journal"
+    },
+    "W2108860027": {
+      "id": "W2108860027",
+      "title": "Transcatheter closure of patent ductus arteriosus",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Expert Review of Cardiovascular Therapy"
+    },
+    "W1972161600": {
+      "id": "W1972161600",
+      "title": "effect of phencyclidine and other psychomotor stimulants in serotonin uptake in human platelets",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        },
+        {
+          "name": "Herbert Y. Meltzer",
+          "id": "A5060728653"
+        }
+      ],
+      "venue": "Life Sciences"
+    },
+    "W2023366042": {
+      "id": "W2023366042",
+      "title": "Synthesis of substituted quinazolone hydrazides: the relationship between chemical structure and monoamine oxidase inhibitory activity",
+      "year": 1968,
+      "authors": [
+        {
+          "name": "Surendra S. Parmar",
+          "id": "A5111703897"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "Canadian Journal of Chemistry"
+    },
+    "W2008636200": {
+      "id": "W2008636200",
+      "title": "Unguarded tricuspid orifice and patent right ventricular outflow tract presenting with long-standing severe right heart failure in an adult",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Jagdish C. Mohan",
+          "id": "A5066153946"
+        },
+        {
+          "name": "Rajiv Passey",
+          "id": "A5108834218"
+        },
+        {
+          "name": "Ramesh Arora",
+          "id": "A5112169752"
+        }
+      ],
+      "venue": "International Journal of Cardiology"
+    }
+  },
+  "author_id_to_label": {
+    "A5053931115": "0",
+    "A5112169752": "1",
+    "A5114067392": "2"
+  }
+}
