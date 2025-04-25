@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>A5047332247</personID>
+	<FullName>David Engman</FullName>
+	<FirstName>David</FirstName>
+	<LastName>Engman</LastName>
+	<publication>
+		<title>The life cycle of Trypanosoma cruzi revisited</title>
+		<year>2001</year>
+		<authors>Kevin M. Tyler, David M. Engman</authors>
+		<jconf>International Journal for Parasitology</jconf>
+		<id>W2149024161</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Enhanced Efferocytosis of Apoptotic Cardiomyocytes Through Myeloid-Epithelial-Reproductive Tyrosine Kinase Links Acute Inflammation Resolution to Cardiac Repair After Infarction</title>
+		<year>2013</year>
+		<authors>Elaine Y. Wan, Xin Yi Yeap, Shirley Dehn, Rachael Terry, Margaret L. Novak, Shuang Zhang, Shinichi Iwata, Xiaoqiang Han, Shunichi Homma, Konstantinos Drosatos, Jon W. Lomasney, David M. Engman, Stephen D. Miller, Douglas E. Vaughan, John Morrow, Raj Kishore, Edward B. Thorp</authors>
+		<jconf>Circulation Research</jconf>
+		<id>W2111035891</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pathology and Pathogenesis of Chagas Heart Disease</title>
+		<year>2018</year>
+		<authors>Kevin M. Bonney, Daniel Luthringer, Stacey A. Kim, Nisha Garg, David M. Engman</authors>
+		<jconf>Annual Review of Pathology Mechanisms of Disease</jconf>
+		<id>W2898556213</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Are MD–PhD Programs Meeting Their Goals? An Analysis of Career Choices Made by Graduates of 24 MD–PhD Programs</title>
+		<year>2010</year>
+		<authors>Lawrence F. Brass, Myles H. Akabas, Linda D. Burnley, David M. Engman, Clayton A. Wiley, Olaf S. Andersen</authors>
+		<jconf>Academic Medicine</jconf>
+		<id>W1982201557</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chagas Heart Disease Pathogenesis: One Mechanism or Many?</title>
+		<year>2008</year>
+		<authors>Kevin M. Bonney, David M. Engman</authors>
+		<jconf>Current Molecular Medicine</jconf>
+		<id>W2064328571</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The 35-Nucleotide Spliced Leader Sequence Is Common to All Trypanosome Messenger RNA&apos;s</title>
+		<year>1986</year>
+		<authors>Joseph A. Walder, Paul S. Eder, David M. Engman, Steven T. Brentano, Roxanne Y. Walder, Deborah S. Knutzon, David M. Dorfman, John E. Donelson</authors>
+		<jconf>Science</jconf>
+		<id>W1972450546</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Protein Composition Reflects Extracellular Vesicle Heterogeneity</title>
+		<year>2019</year>
+		<authors>Tatyana Vagner, Andrew R. Chin, Javier Mariscal, Serguei Bannykh, David M. Engman, Dolores Di Vizio</authors>
+		<jconf>PROTEOMICS</jconf>
+		<id>W2917235586</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autoimmune Pathogenesis of Chagas Heart Disease</title>
+		<year>2015</year>
+		<authors>Kevin M. Bonney, David M. Engman</authors>
+		<jconf>American Journal Of Pathology</jconf>
+		<id>W307879936</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Induction of cardiac autoimmunity in Chagas heart disease: A case for molecular mimicry</title>
+		<year>2006</year>
+		<authors>Edécio Cunha‐Neto, Angelina M. Bilate, Kenneth V. Hyland, Simone Gonçalves Fonseca, Jorge Kalil, David M. Engman, Edécio Cunha‐Neto, Angelina M. Bilate, Kenneth V. Hyland, Simone Gonçalves Fonseca, Jorge Kalil, David M. Engman</authors>
+		<jconf>Autoimmunity</jconf>
+		<id>W2167271715</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flagellar membrane localization via association with lipid rafts</title>
+		<year>2009</year>
+		<authors>Kevin M. Tyler, Alina Fridberg, Krista M. Toriello, Cheryl L. Olson, John A. Cieslak, Theodore L. Hazlett, David M. Engman</authors>
+		<jconf>Journal of Cell Science</jconf>
+		<id>W1974077996</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular mechanisms of protein and lipid targeting to ciliary membranes</title>
+		<year>2010</year>
+		<authors>Brian T. Emmer, Danijela Maric, David M. Engman</authors>
+		<jconf>Journal of Cell Science</jconf>
+		<id>W1995745301</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular mechanisms of host cell invasion by Trypanosoma cruzi</title>
+		<year>2010</year>
+		<authors>Conrad L. Epting, Bria M. Coates, David M. Engman</authors>
+		<jconf>Experimental Parasitology</jconf>
+		<id>W2025502902</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Migration through the Extracellular Matrix by the Parasitic Protozoan&lt;i&gt;Leishmania&lt;/i&gt;Is Enhanced by Surface Metalloprotease gp63</title>
+		<year>2003</year>
+		<authors>Bradford S. McGwire, Kwang‐Poo Chang, David M. Engman</authors>
+		<jconf>Infection and Immunity</jconf>
+		<id>W2114413554</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Pathogenesis of Chagas heart disease: role of autoimmunity</title>
+		<year>2002</year>
+		<authors>David M. Engman, Juan S. León</authors>
+		<jconf>Acta Tropica</jconf>
+		<id>W2016325370</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Killing of African Trypanosomes by Antimicrobial Peptides</title>
+		<year>2003</year>
+		<authors>Bradford S. McGwire, Cheryl L. Olson, Brian F. Tack, David M. Engman</authors>
+		<jconf>The Journal of Infectious Diseases</jconf>
+		<id>W2114983395</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Extracellular Release of the Glycosylphosphatidylinositol (GPI)-linked Leishmania Surface Metalloprotease, gp63, Is Independent of GPI Phospholipolysis</title>
+		<year>2002</year>
+		<authors>Bradford S. McGwire, William O&apos;Connell, Kwang‐Poo Chang, David M. Engman</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W2027128053</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The major surface‐metalloprotease of the parasitic protozoan, &lt;i&gt;Leishmania&lt;/i&gt;, protects against antimicrobial peptide‐induced apoptotic killing</title>
+		<year>2006</year>
+		<authors>Manjusha Kulkarni, W. Robert McMaster, Elżbieta Kamysz, Wojciech Kamysz, David M. Engman, Bradford S. McGwire</authors>
+		<jconf>Molecular Microbiology</jconf>
+		<id>W2143299403</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A novel flagellar Ca2+-binding Protein in Trypanosomes</title>
+		<year>1989</year>
+		<authors>David M. Engman, Kathleen H. Krause, J H Blumin, K S Kim, Louis V. Kirchhoff, J E Donelson</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W1487851548</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular cloning of mtp70, a mitochondrial member of the hsp70 family.</title>
+		<year>1989</year>
+		<authors>David M. Engman, Louis V. Kirchhoff, J E Donelson</authors>
+		<jconf>Molecular and Cellular Biology</jconf>
+		<id>W2345866656</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trypanosoma cruzi exhibits inter- and intra-strain heterogeneity in molecular karyotype and chromosomal gene location</title>
+		<year>1987</year>
+		<authors>David M. Engman, Lekkala V. Reddy, John E. Donelson, Louis V. Kirchhoff</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W1971679977</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Global Analysis of Protein Palmitoylation in African Trypanosomes</title>
+		<year>2010</year>
+		<authors>Brian T. Emmer, Ernesto Nakayasu, Christina Souther, Hyungwon Choi, Tiago J. P. Sobreira, Conrad L. Epting, Alexey I. Nesvizhskii, Igor C. Almeida, David M. Engman</authors>
+		<jconf>Eukaryotic Cell</jconf>
+		<id>W2122547807</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cardiac Myosin Autoimmunity in Acute Chagas&apos; Heart Disease</title>
+		<year>2001</year>
+		<authors>Juan S. León, Lisa M. Godsel, Kegiang Wang, David M. Engman</authors>
+		<jconf>Infection and Immunity</jconf>
+		<id>W2115084644</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autoimmunity in Chagas heart disease</title>
+		<year>2001</year>
+		<authors>Juan S. León, David M. Engman</authors>
+		<jconf>International Journal for Parasitology</jconf>
+		<id>W2108818445</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Human humoral immunity to hsp70 during Trypanosoma cruzi infection.</title>
+		<year>1990</year>
+		<authors>David M. Engman, Elizabeth A. Dragon, J E Donelson</authors>
+		<jconf>The Journal of Immunology</jconf>
+		<id>W1942122996</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identification of a palmitoyl acyltransferase required for protein sorting to the flagellar membrane</title>
+		<year>2009</year>
+		<authors>Brian T. Emmer, Christina Souther, Krista M. Toriello, Cheryl L. Olson, Conrad L. Epting, David M. Engman</authors>
+		<jconf>Journal of Cell Science</jconf>
+		<id>W2017518477</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>&lt;i&gt;Trypanosoma cruzi&lt;/i&gt;GP63 Proteins Undergo Stage-Specific Differential Posttranslational Modification and Are Important for Host Cell Infection</title>
+		<year>2009</year>
+		<authors>Manjusha Kulkarni, Cheryl L. Olson, David M. Engman, Bradford S. McGwire</authors>
+		<jconf>Infection and Immunity</jconf>
+		<id>W2122205545</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sphingolipid synthesis is necessary for kinetoplast segregation and cytokinesis in &lt;i&gt;Trypanosoma brucei&lt;/i&gt;</title>
+		<year>2008</year>
+		<authors>Alina Fridberg, Cheryl L. Olson, Ernesto Nakayasu, Kevin M. Tyler, Igor C. Almeida, David M. Engman</authors>
+		<jconf>Journal of Cell Science</jconf>
+		<id>W2110173319</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bioluminescent imaging of Trypanosoma cruzi infection</title>
+		<year>2008</year>
+		<authors>Kenneth V. Hyland, Sofya H. Asfaw, Cheryl L. Olson, Melvin D. Daniels, David M. Engman</authors>
+		<jconf>International Journal for Parasitology</jconf>
+		<id>W2137739397</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficacy of Benznidazole Delivery During Chagas Disease Nanotherapy is Dependent on the Nanocarrier Morphology</title>
+		<year>2025</year>
+		<authors>Débora B. Scariot, Austeja Staneviciute, Rayanne Regina Beltrame Machado, Simseok A. Yuk, Yugang Liu, Swagat Sharma, Sultan Almunif, Elhadji Malick Mbaye, Celso Vataru Nakamura, David M. Engman, Evan A. Scott</authors>
+		<jconf>Biomaterials</jconf>
+		<id>W4409687395</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The significance of autoimmunity in the pathogenesis of chagas heart disease</title>
+		<year>2003</year>
+		<authors>David M. Engman</authors>
+		<jconf>Frontiers in bioscience</jconf>
+		<id>W2111154515</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Captopril Prevents Experimental Autoimmune Myocarditis</title>
+		<year>2003</year>
+		<authors>Lisa M. Godsel, Juan S. León, Kegiang Wang, Jamie L. Fornek, Agostino Molteni, David M. Engman</authors>
+		<jconf>The Journal of Immunology</jconf>
+		<id>W2145450205</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cardiac antigen-specific autoantibody production is associated with cardiomyopathy in Trypanosoma cruzi-infected mice.</title>
+		<year>1994</year>
+		<authors>Randal S. Tibbetts, Thomas S. McCormick, Edwin C. Rowland, Stephen D. Miller, David M. Engman</authors>
+		<jconf>The Journal of Immunology</jconf>
+		<id>W1591530312</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Ubiquitin genes in trypanosomatidae.</title>
+		<year>1988</year>
+		<authors>Louis V. Kirchhoff, K S Kim, David M. Engman, J E Donelson</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W1518789549</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modulation of Autoimmunity by Treatment of an Infectious Disease</title>
+		<year>2007</year>
+		<authors>Kenneth V. Hyland, Juan S. León, Melvin D. Daniels, Nick Giafis, LaKitta M. Woods, Thomas J. Bahk, Kegiang Wang, David M. Engman</authors>
+		<jconf>Infection and Immunity</jconf>
+		<id>W2121573278</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Calflagin Inhibition Prolongs Host Survival and Suppresses Parasitemia in Trypanosoma brucei Infection</title>
+		<year>2010</year>
+		<authors>Brian T. Emmer, Melvin D. Daniels, Joann M. Taylor, Conrad L. Epting, David M. Engman</authors>
+		<jconf>Eukaryotic Cell</jconf>
+		<id>W2101232391</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular Determinants of Ciliary Membrane Localization of Trypanosoma cruzi Flagellar Calcium-binding Protein</title>
+		<year>2011</year>
+		<authors>Danijela Maric, Bradford S. McGwire, Kathryn T. Buchanan, Cheryl L. Olson, Brian T. Emmer, Conrad L. Epting, David M. Engman</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W2010208991</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Precision Health for Chagas Disease: Integrating Parasite and Host Factors to Predict Outcome of Infection and Response to Therapy</title>
+		<year>2020</year>
+		<authors>Santiago Martínez, Patricia Silvia Romano, David M. Engman</authors>
+		<jconf>Frontiers in Cellular and Infection Microbiology</jconf>
+		<id>W3022674989</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TMPRSS2 activity may mediate sex differences in COVID-19 severity</title>
+		<year>2021</year>
+		<authors>Derick Okwan‐Duodu, Eun-Cheon Lim, Sungyong You, David M. Engman</authors>
+		<jconf>Signal Transduction and Targeted Therapy</jconf>
+		<id>W3135769363</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular and biochemical comparison of the 70-kDa heat shock proteins of Trypanosoma cruzi.</title>
+		<year>1994</year>
+		<authors>Cheryl L. Olson, Kari C. Nadeau, Mary Anne Sullivan, Andrea Winquist, J E Donelson, C T Walsh, David M. Engman</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W1547753251</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recombinant cardiac myosin fragment induces experimental autoimmune myocarditis via activation of Th1 and Th17 immunity</title>
+		<year>2008</year>
+		<authors>Melvin D. Daniels, Kenneth V. Hyland, Kegiang Wang, David M. Engman</authors>
+		<jconf>Autoimmunity</jconf>
+		<id>W2114192257</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparison of angiotensin converting enzyme inhibition and angiotensin II receptor blockade for the prevention of experimental autoimmune myocarditis</title>
+		<year>2007</year>
+		<authors>Thomas J. Bahk, Melvin D. Daniels, Juan S. León, Kegiang Wang, David M. Engman</authors>
+		<jconf>International Journal of Cardiology</jconf>
+		<id>W2123524472</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Acylation-dependent Export of Trypanosoma cruzi Phosphoinositide-specific Phospholipase C to the Outer Surface of Amastigotes</title>
+		<year>2010</year>
+		<authors>Vicente de Paulo Martins, Michael Okura, Danijela Maric, David M. Engman, Maurício Vieira, Roberto Docampo, Silvia N.J. Moreno</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W2023847294</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Heat-Killed Trypanosoma cruzi Induces Acute Cardiac Damage and Polyantigenic Autoimmunity</title>
+		<year>2011</year>
+		<authors>Kevin M. Bonney, Joann M. Taylor, Melvin D. Daniels, Conrad L. Epting, David M. Engman</authors>
+		<jconf>PLoS ONE</jconf>
+		<id>W1979937549</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Acylation in trypanosomatids: an essential process and potential drug target</title>
+		<year>2014</year>
+		<authors>Amanda M. Goldston, Aabha Sharma, Kimberly S. Paul, David M. Engman</authors>
+		<jconf>Trends in Parasitology</jconf>
+		<id>W2033549129</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Leishmaniasis and Chagas disease: Is there hope in nanotechnology to fight neglected tropical diseases?</title>
+		<year>2022</year>
+		<authors>Débora B. Scariot, Austeja Staneviciute, Jennifer Zhu, Xiaomo Li, Evan A. Scott, David M. Engman</authors>
+		<jconf>Frontiers in Cellular and Infection Microbiology</jconf>
+		<id>W4296169250</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Captopril Ameliorates Myocarditis in Acute Experimental Chagas Disease</title>
+		<year>2003</year>
+		<authors>Juan S. León, Kegiang Wang, David M. Engman</authors>
+		<jconf>Circulation</jconf>
+		<id>W1970184330</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Cardiac Myosin-Specific Autoimmune Response Is Induced by Immunization with&lt;i&gt;Trypanosoma cruzi&lt;/i&gt;Proteins</title>
+		<year>2004</year>
+		<authors>Juan S. León, Melvin D. Daniels, Krista M. Toriello, Kegiang Wang, David M. Engman</authors>
+		<jconf>Infection and Immunity</jconf>
+		<id>W2171359504</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Antagonists in Experimental Myocarditis</title>
+		<year>2003</year>
+		<authors>Lisa M. Godsel, Juan S. León, David M. Engman</authors>
+		<jconf>Current Pharmaceutical Design</jconf>
+		<id>W2155132999</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparison of HSP70 genes from two strains of Trypanosoma cruzi</title>
+		<year>1989</year>
+		<authors>David M. Engman, S R Sias, Jeffrey D. Gabe, John E. Donelson, Elizabeth A. Dragon</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W1973970074</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Composition and sensory function of the trypanosome flagellar membrane</title>
+		<year>2010</year>
+		<authors>Danijela Maric, Conrad L. Epting, David M. Engman</authors>
+		<jconf>Current Opinion in Microbiology</jconf>
+		<id>W2022658325</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dynamic protein&lt;i&gt;S&lt;/i&gt;-palmitoylation mediates parasite life cycle progression and diverse mechanisms of virulence</title>
+		<year>2017</year>
+		<authors>R.W. Brown, Aabha Sharma, David M. Engman</authors>
+		<jconf>Critical Reviews in Biochemistry and Molecular Biology</jconf>
+		<id>W2591227622</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Utility of recombinant flagellar calcium-binding protein for serodiagnosis of Trypanosoma cruzi infection</title>
+		<year>1995</year>
+		<authors>Lisa M. Godsel, Randal S. Tibbetts, Cheryl L. Olson, Bernard M. Chaudoir, David M. Engman</authors>
+		<jconf>Journal of Clinical Microbiology</jconf>
+		<id>W2117772797</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Human antibody responses to Trypanosoma cruzi 70-kD heat-shock proteins.</title>
+		<year>1998</year>
+		<authors>Greice M. Krautz, Jeffrey D. Peterson, Lisa M. Godsel, Antoniana U. Krettli, David M. Engman</authors>
+		<jconf>American Journal of Tropical Medicine and Hygiene</jconf>
+		<id>W2407493707</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A mitochondrial heat shock protein from Crithidia fasciculata</title>
+		<year>1993</year>
+		<authors>Philip N. Effron, Al F. Torri, David M. Engman, John E. Donelson, Paul T. Englund</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W2035073748</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>83‐Kilodalton heat shock proteins of trypanosomes are potent peptide‐stimulated ATPases</title>
+		<year>1992</year>
+		<authors>Kari C. Nadeau, Christopher T. Walsh, Mark Bradley, Mary Anne Sullivan, David M. Engman</authors>
+		<jconf>Protein Science</jconf>
+		<id>W2082370402</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Flagellum-specific Calcium Sensor</title>
+		<year>2005</year>
+		<authors>Kathryn T. Buchanan, James B. Ames, Sofya H. Asfaw, Jennifer N. Wingard, Cheryl L. Olson, Patrícia T. Campana, Ana Paula Ulian de Araújo, David M. Engman</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W2078581083</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Myosin Autoimmunity Is Not Essential for Cardiac Inflammation in Acute Chagas’ Disease</title>
+		<year>2003</year>
+		<authors>Juan S. León, Kegiang Wang, David M. Engman</authors>
+		<jconf>The Journal of Immunology</jconf>
+		<id>W2124557384</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Structural Insights into Membrane Targeting by the Flagellar Calcium-binding Protein (FCaBP), a Myristoylated and Palmitoylated Calcium Sensor in Trypanosoma cruzi</title>
+		<year>2008</year>
+		<authors>Jennifer N. Wingard, Jane E. Ladner, Murugendra Vanarotti, Andrew J. Fisher, Howard Robinson, Kathryn T. Buchanan, David M. Engman, James B. Ames</authors>
+		<jconf>Journal of Biological Chemistry</jconf>
+		<id>W2098928403</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Depletion of regulatory T cells decreases cardiac parasitosis and inflammation in experimental Chagas disease</title>
+		<year>2015</year>
+		<authors>Kevin M. Bonney, Joann M. Taylor, Edward B. Thorp, Conrad L. Epting, David M. Engman</authors>
+		<jconf>Parasitology Research</jconf>
+		<id>W2053593320</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular cloning and characterization of the 78-kilodalton glucose-regulated protein of Trypanosoma cruzi</title>
+		<year>1994</year>
+		<authors>Randal S. Tibbetts, I Y Kim, Cheryl L. Olson, Lennart Barthel, Mary Anne Sullivan, Andrea Winquist, Shane Miller, David M. Engman</authors>
+		<jconf>Infection and Immunity</jconf>
+		<id>W2240752242</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Responsive microtubule dynamics promote cell invasion by Trypanosoma cruzi</title>
+		<year>2005</year>
+		<authors>Kevin M. Tyler, G.W. Gant Luxton, Derek A. Applewhite, Sean C. Murphy, David M. Engman</authors>
+		<jconf>Cellular Microbiology</jconf>
+		<id>W2164608711</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Endothelial Transmigration by Trypanosoma cruzi</title>
+		<year>2013</year>
+		<authors>Bria M. Coates, David P. Sullivan, Ming Y. Makanji, Nga Du, Cheryl L. Olson, William A. Müller, David M. Engman, Conrad L. Epting</authors>
+		<jconf>PLoS ONE</jconf>
+		<id>W2071927077</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flagellar elongation induced by glucose limitation is preadaptive forTrypanosoma cruzi differentiation</title>
+		<year>2000</year>
+		<authors>Kevin M. Tyler, David M. Engman</authors>
+		<jconf>Cell Motility and the Cytoskeleton</jconf>
+		<id>W2160351250</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prevention of Autoimmune Myocarditis Through the Induction of Antigen-Specific Peripheral Immune Tolerance</title>
+		<year>2001</year>
+		<authors>Lisa M. Godsel, Kegiang Wang, Beth A. Schodin, Juan S. León, Stephen D. Miller, David M. Engman</authors>
+		<jconf>Circulation</jconf>
+		<id>W1989374170</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Life Cycle Of Trypanosoma Cruzi</title>
+		<year>2003</year>
+		<authors>Kevin M. Tyler, Cheryl L. Olson, David M. Engman</authors>
+		<jconf>World class parasites</jconf>
+		<id>W1482227222</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular Cloning of mtp70, a Mitochondrial Member of the hsp70 Family</title>
+		<year>1989</year>
+		<authors>David M. Engman, Louis V. Kirchhoff, John E. Donelson</authors>
+		<jconf>Molecular and Cellular Biology</jconf>
+		<id>W4248739998</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Further thoughts on where we stand on the autoimmunity hypothesis of Chagas disease</title>
+		<year>2006</year>
+		<authors>Kenneth V. Hyland, David M. Engman</authors>
+		<jconf>Trends in Parasitology</jconf>
+		<id>W1985722151</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Emerging Chagas Disease</title>
+		<year>2009</year>
+		<authors>Antonio Teixeira, Marina Clare Vinaud, Ana María Castro, João Carlos Pinto Dias, Christopher J. Schofield, Rubens J Nascimento, Nancy R. Sturm, Marina Claude Vinaud, Liléia Diotaiuti, Wanderley de Souza, Kildare Miranda, Narcisa L. Cunha‐e‐Silva, Thaïs Souto-Padrón, David A. Campbell, David M. Engman, Conrad L. Epting, Kevin M. Bonney, Maurício M. Rodrigues, Bruna Cunha de Alencar, José Ronnie Vasconcelos, Fernando Pimentel-Santos, Ciro Cordeiro, Nadjar Nitz, Mariana Hecht, Liana Lauria‐Pires, Ana de Cássia Rosa, Cleudson Castro, Izabela Marques Dourado Bastos, David Neves, Meire M. Lima, Jaime M. Santana, Cléver Gomes Cardoso, Silene P. Lozzi, Pedro Sadi Monteiro, Ana Bussacos, Concepta McManus, Alessandro O. Sousa</authors>
+		<jconf>BENTHAM SCIENCE PUBLISHERS eBooks</jconf>
+		<id>W1780854908</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sphingosine Kinase Regulates Microtubule Dynamics and Organelle Positioning Necessary for Proper G &lt;sub&gt;1&lt;/sub&gt; /S Cell Cycle Transition in Trypanosoma brucei</title>
+		<year>2015</year>
+		<authors>Deborah A. Pasternack, Aabha Sharma, Cheryl L. Olson, Conrad L. Epting, David M. Engman</authors>
+		<jconf>mBio</jconf>
+		<id>W2095951936</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The gene family encoding eggshell proteins of Schistosoma japonicum</title>
+		<year>1990</year>
+		<authors>Kimberly J. Henkle, George A. Cook, Lewis A. Foster, David M. Engman, Libuse A. Bobek, George D. Cain, John E. Donelson</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W2007851663</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effects of cannabinoid treatment on Chagas disease pathogenesis: balancing inhibition of parasite invasion and immunosuppression</title>
+		<year>2005</year>
+		<authors>J. Ludovic Croxford, Kegiang Wang, Stephen D. Miller, David M. Engman, Kevin M. Tyler</authors>
+		<jconf>Cellular Microbiology</jconf>
+		<id>W2138207184</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sterol targeting drugs reveal life cycle stage-specific differences in trypanosome lipid rafts</title>
+		<year>2017</year>
+		<authors>Aabha Sharma, Cheryl L. Olson, João I. Mamede, Felipe Gazos‐Lopes, Conrad L. Epting, Igor C. Almeida, David M. Engman</authors>
+		<jconf>Scientific Reports</jconf>
+		<id>W2749958405</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Expression and localization of Trypanosoma cruzi hsp60</title>
+		<year>1994</year>
+		<authors>Mary Anne Sullivan, Cheryl L. Olson, Andrea Winquist, David M. Engman</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W2061734033</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cardiac damage induced by immunization with heat‐killed &lt;i&gt;&lt;scp&gt;T&lt;/scp&gt;rypanosoma cruzi&lt;/i&gt; is not antibody mediated</title>
+		<year>2012</year>
+		<authors>Kevin M. Bonney, Kathleen M. Gifford, Joshua Taylor, C.‐I. Chen, David M. Engman</authors>
+		<jconf>Parasite Immunology</jconf>
+		<id>W2026272592</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparison of Large, Medium, and Small Solid Tumor Gene Panels for Detection of Clinically Actionable Mutations in Cancer</title>
+		<year>2020</year>
+		<authors>Eric Vail, Jianbo Song, Jing Xu, Joseph S. Frye, Jong Taek Kim, Andy Pao, Rhona Schreck, Angela Aguiluz, Wenjuan Zhang, Serhan Alkan, Alain C. Mita, Monica Mita, Robert A. Figlin, David M. Engman, Jean Lopategui</authors>
+		<jconf>Targeted Oncology</jconf>
+		<id>W3048249416</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trypanosoma cruzi heat-shock protein 90 can functionally complement yeast</title>
+		<year>1995</year>
+		<authors>Gaby Palmer, Jean-François Louvion, Randal S. Tibbetts, David M. Engman, Didier Picard</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W1983323106</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Specific functional domains of mitochondrial hsp70s suggested by sequence comparison of the trypanosome and yeast proteins</title>
+		<year>1992</year>
+		<authors>David M. Engman, Stephen C. Fehr, John E. Donelson</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W2062688139</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Lipid Raft Proteome of African Trypanosomes Contains Many Flagellar Proteins</title>
+		<year>2017</year>
+		<authors>Aabha Sharma, Cheryl L. Olson, David M. Engman</authors>
+		<jconf>Pathogens</jconf>
+		<id>W2746628736</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Homologues of the 24-kDa Flagellar Ca2+-Binding Protein Gene ofTrypanosoma cruziAre Present in Other Members of the Trypanosomatidae Family</title>
+		<year>1997</year>
+		<authors>Rosa A. Maldonado, Jutta Linss, Neide Thomaz, Cheryl L. Olson, David M. Engman, Samuel Goldenberg</authors>
+		<jconf>Experimental Parasitology</jconf>
+		<id>W1976131495</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The DnaJ family of protein chaperones in Trypanosoma cruzi1Note: Nucleotide sequence data reported in this paper have been submitted to the GenBank™ data base with the following accession numbers: tcj1, L42541; tcj2, L42549; tcj3, L46818; tcj4, L46819.1</title>
+		<year>1998</year>
+		<authors>Randal S. Tibbetts, Jennifer Jensen, Cheryl L. Olson, Fred D. Wang, David M. Engman</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W1553886681</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Repurposing Carvedilol as a Novel Inhibitor of the Trypanosoma cruzi Autophagy Flux That Affects Parasite Replication and Survival</title>
+		<year>2021</year>
+		<authors>Cynthia Vanesa Rivero, Santiago Martínez, Paul Novick, Juan Agustín Cueto, Betiana Nebaí Salassa, María Cristina Vanrell, Xiaomo Li, Carlos A. Labriola, Luis Mariano Polo, David M. Engman, Joachim Clos, Patricia Silvia Romano</authors>
+		<jconf>Frontiers in Cellular and Infection Microbiology</jconf>
+		<id>W3190015463</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Identification of calcium binding sites in the trypanosome flagellar calcium-acyl switch protein</title>
+		<year>1999</year>
+		<authors>Rosa A. Maldonado, Salida Mirzoeva, Lisa M. Godsel, Thomas J. Lukas, Samuel Goldenberg, D. Martin Watterson, David M. Engman</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W2113422555</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Rapid Method for Protein Localization in Trypanosomes</title>
+		<year>1995</year>
+		<authors>Randal S. Tibbetts, Kathy Klein, David M. Engman</authors>
+		<jconf>Experimental Parasitology</jconf>
+		<id>W1979245092</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mitochondrial heat shock protein 70 is distributed throughout the mitochondrion in a dyskinetoplastic mutant of Trypanosoma brucei</title>
+		<year>1995</year>
+		<authors>Karin Klein, Cheryl L. Olson, David M. Engman</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W2000667938</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flagellar membrane trafficking in kinetoplastids</title>
+		<year>2006</year>
+		<authors>Alina Fridberg, Kathryn T. Buchanan, David M. Engman</authors>
+		<jconf>Parasitology Research</jconf>
+		<id>W2045859626</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Corrigendum to “Molecular mechanisms of host cell invasion by Trypanosoma cruzi” [Exp. Parasitol. 126 (2010) 283–291]</title>
+		<year>2011</year>
+		<authors>Conrad L. Epting, Bria M. Coates, David M. Engman</authors>
+		<jconf>Experimental Parasitology</jconf>
+		<id>W2078187003</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>NMR structure of the calflagin Tb24 flagellar calcium binding protein of &lt;i&gt;Trypanosoma brucei&lt;/i&gt;</title>
+		<year>2012</year>
+		<authors>Xianzhong Xu, Cheryl L. Olson, David M. Engman, James B. Ames</authors>
+		<jconf>Protein Science</jconf>
+		<id>W2164508115</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Carcinoid tumors of the thymus and Cushing&apos;s syndrome: Clinicopathologic features and current best evidence regarding the cell of origin of these unusual neoplasms</title>
+		<year>2018</year>
+		<authors>Ann E. Walts, Joseph S. Frye, David M. Engman, Alberto M. Marchevsky</authors>
+		<jconf>Annals of Diagnostic Pathology</jconf>
+		<id>W2901902445</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Nanocarrier-enhanced intracellular delivery of benznidazole for treatment of Trypanosoma cruzi infection</title>
+		<year>2021</year>
+		<authors>Xiaomo Li, Sijia Yi, Débora B. Scariot, Santiago Martínez, Ben Falk, Cheryl L. Olson, Patricia Silvia Romano, Evan A. Scott, David M. Engman</authors>
+		<jconf>JCI Insight</jconf>
+		<id>W3161491831</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Molecular Comparison of the Mitochondrial and Cytoplasmic hsp 70 of &lt;i&gt;Trypanosoma cruzi, Trypanosoma brucei&lt;/i&gt; and &lt;i&gt;Leishmania major&lt;/i&gt;</title>
+		<year>1995</year>
+		<authors>Karin Klein, Cheryl L. Olson, John E. Donelson, David M. Engman</authors>
+		<jconf>Journal of Eukaryotic Microbiology</jconf>
+		<id>W1991971973</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Treatment of Experimental Myocarditis via Modulation of the Renin-Angiotensin System</title>
+		<year>2007</year>
+		<authors>Melvin D. Daniels, Kenneth V. Hyland, David M. Engman</authors>
+		<jconf>Current Pharmaceutical Design</jconf>
+		<id>W2134265215</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>1H, 15N, and 13C chemical shift assignments of the calflagin Tb24 flagellar calcium binding protein of Trypanosoma brucei</title>
+		<year>2012</year>
+		<authors>Xianzhong Xu, Cheryl L. Olson, David M. Engman, James B. Ames</authors>
+		<jconf>Biomolecular NMR Assignments</jconf>
+		<id>W2028796021</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Calcium-dependent membrane association of a flagellar calcium sensor does not require calcium binding</title>
+		<year>2015</year>
+		<authors>Danijela Maric, Cheryl L. Olson, Xianzhong Xu, James B. Ames, David M. Engman</authors>
+		<jconf>Molecular and Biochemical Parasitology</jconf>
+		<id>W2251620070</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparison of the 24 kDa Flagellar Calcium‐Binding Protein cDNA of Two Strains of &lt;i&gt;Trypanosoma cruzi&lt;/i&gt;</title>
+		<year>1995</year>
+		<authors>Lisa M. Godsel, Cheryl L. Olson, Z.G.M. Lacava, David M. Engman</authors>
+		<jconf>Journal of Eukaryotic Microbiology</jconf>
+		<id>W1972639520</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TcDJ1, a putative mitochondrial DnaJ protein in Trypanosoma cruzi1</title>
+		<year>1998</year>
+		<authors>MÃ ́nica A.C Carreira, Randal S. Tibbetts, Cheryl L. Olson, Cristoph Schuster, Manfred Renz, David M. Engman, Samuel Goldenberg</authors>
+		<jconf>FEMS Microbiology Letters</jconf>
+		<id>W2118051539</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Contribution of Autoimmunity to Chagas Heart Disease</title>
+		<year>2003</year>
+		<authors>Juan S. León, David M. Engman</authors>
+		<jconf>World class parasites</jconf>
+		<id>W67559892</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>B-040 Direct Aspiration of Cryogenic Matrix Tubes on the Siemens Atellica System With Epic-Beaker Integration of External Barcode IDs for Analysis Small Volume Biobanked Specimens</title>
+		<year>2024</year>
+		<authors>Steven W. Cotten, David M. Engman, Peter A. Thomas</authors>
+		<jconf>Clinical Chemistry</jconf>
+		<id>W4403071495</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cell Cycle Inhibition To Treat Sleeping Sickness</title>
+		<year>2017</year>
+		<authors>Conrad L. Epting, Brian T. Emmer, Nga Du, Joann M. Taylor, Ming Y. Makanji, Cheryl L. Olson, David M. Engman</authors>
+		<jconf>mBio</jconf>
+		<id>W2754077401</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trypanosoma brucei Acyl-Protein Thioesterase-like (TbAPT-L) Is a Lipase with Esterase Activity for Short and Medium-Chain Fatty Acids but Has No Depalmitoylation Activity</title>
+		<year>2022</year>
+		<authors>R.W. Brown, Aabha Sharma, Miguel Rey Villanueva, Xiaomo Li, Ouma Onguka, Leeor Zilbermintz, Helen Nguyen, Ben Falk, Cheryl L. Olson, Joann M. Taylor, Conrad L. Epting, Rahul S. Kathayat, Neri Amara, Bryan C. Dickinson, Matthew Bogyo, David M. Engman</authors>
+		<jconf>Pathogens</jconf>
+		<id>W4307704584</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Trypanosoma cruzi: Accumulation of Polycistronic hsp70 RNAs during Severe Heat Shock</title>
+		<year>1995</year>
+		<authors>David M. Engman, Kimberly Henkle‐Dührsen, Louis V. Kirchhoff, J E Donelson</authors>
+		<jconf>Experimental Parasitology</jconf>
+		<id>W1976208094</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+</person>

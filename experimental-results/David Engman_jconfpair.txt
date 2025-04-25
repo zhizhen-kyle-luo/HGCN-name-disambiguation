@@ -1,0 +1,140 @@
+0	22	International Journal for Parasitology	International Journal for Parasitology
+0	27	International Journal for Parasitology	International Journal for Parasitology
+22	27	International Journal for Parasitology	International Journal for Parasitology
+8	39	Autoimmunity	Autoimmunity
+9	10	Journal of Cell Science	Journal of Cell Science
+9	24	Journal of Cell Science	Journal of Cell Science
+9	26	Journal of Cell Science	Journal of Cell Science
+10	24	Journal of Cell Science	Journal of Cell Science
+10	26	Journal of Cell Science	Journal of Cell Science
+24	26	Journal of Cell Science	Journal of Cell Science
+11	78	Experimental Parasitology	Experimental Parasitology
+11	82	Experimental Parasitology	Experimental Parasitology
+11	85	Experimental Parasitology	Experimental Parasitology
+11	99	Experimental Parasitology	Experimental Parasitology
+78	82	Experimental Parasitology	Experimental Parasitology
+78	85	Experimental Parasitology	Experimental Parasitology
+78	99	Experimental Parasitology	Experimental Parasitology
+82	85	Experimental Parasitology	Experimental Parasitology
+82	99	Experimental Parasitology	Experimental Parasitology
+85	99	Experimental Parasitology	Experimental Parasitology
+12	21	Infection and Immunity	Infection and Immunity
+12	25	Infection and Immunity	Infection and Immunity
+12	33	Infection and Immunity	Infection and Immunity
+12	46	Infection and Immunity	Infection and Immunity
+12	59	Infection and Immunity	Infection and Immunity
+21	25	Infection and Immunity	Infection and Immunity
+21	33	Infection and Immunity	Infection and Immunity
+21	46	Infection and Immunity	Infection and Immunity
+21	59	Infection and Immunity	Infection and Immunity
+25	33	Infection and Immunity	Infection and Immunity
+25	46	Infection and Immunity	Infection and Immunity
+25	59	Infection and Immunity	Infection and Immunity
+33	46	Infection and Immunity	Infection and Immunity
+33	59	Infection and Immunity	Infection and Immunity
+46	59	Infection and Immunity	Infection and Immunity
+15	17	Journal of Biological Chemistry	Journal of Biological Chemistry
+15	32	Journal of Biological Chemistry	Journal of Biological Chemistry
+15	35	Journal of Biological Chemistry	Journal of Biological Chemistry
+15	38	Journal of Biological Chemistry	Journal of Biological Chemistry
+15	41	Journal of Biological Chemistry	Journal of Biological Chemistry
+15	55	Journal of Biological Chemistry	Journal of Biological Chemistry
+15	57	Journal of Biological Chemistry	Journal of Biological Chemistry
+17	32	Journal of Biological Chemistry	Journal of Biological Chemistry
+17	35	Journal of Biological Chemistry	Journal of Biological Chemistry
+17	38	Journal of Biological Chemistry	Journal of Biological Chemistry
+17	41	Journal of Biological Chemistry	Journal of Biological Chemistry
+17	55	Journal of Biological Chemistry	Journal of Biological Chemistry
+17	57	Journal of Biological Chemistry	Journal of Biological Chemistry
+32	35	Journal of Biological Chemistry	Journal of Biological Chemistry
+32	38	Journal of Biological Chemistry	Journal of Biological Chemistry
+32	41	Journal of Biological Chemistry	Journal of Biological Chemistry
+32	55	Journal of Biological Chemistry	Journal of Biological Chemistry
+32	57	Journal of Biological Chemistry	Journal of Biological Chemistry
+35	38	Journal of Biological Chemistry	Journal of Biological Chemistry
+35	41	Journal of Biological Chemistry	Journal of Biological Chemistry
+35	55	Journal of Biological Chemistry	Journal of Biological Chemistry
+35	57	Journal of Biological Chemistry	Journal of Biological Chemistry
+38	41	Journal of Biological Chemistry	Journal of Biological Chemistry
+38	55	Journal of Biological Chemistry	Journal of Biological Chemistry
+38	57	Journal of Biological Chemistry	Journal of Biological Chemistry
+41	55	Journal of Biological Chemistry	Journal of Biological Chemistry
+41	57	Journal of Biological Chemistry	Journal of Biological Chemistry
+55	57	Journal of Biological Chemistry	Journal of Biological Chemistry
+18	65	Molecular and Cellular Biology	Molecular and Cellular Biology
+19	48	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	53	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	69	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	72	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	75	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	76	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	79	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+19	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	53	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	69	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	72	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	75	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	76	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	79	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+48	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	69	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	72	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	75	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	76	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	79	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+53	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+69	72	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+69	75	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+69	76	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+69	79	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+69	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+69	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+69	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+72	75	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+72	76	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+72	79	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+72	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+72	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+72	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+75	76	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+75	79	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+75	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+75	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+75	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+76	79	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+76	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+76	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+76	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+79	81	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+79	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+79	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+81	83	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+81	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+83	92	Molecular and Biochemical Parasitology	Molecular and Biochemical Parasitology
+20	34	Eukaryotic Cell	Eukaryotic Cell
+23	30	The Journal of Immunology	The Journal of Immunology
+23	31	The Journal of Immunology	The Journal of Immunology
+23	56	The Journal of Immunology	The Journal of Immunology
+30	31	The Journal of Immunology	The Journal of Immunology
+30	56	The Journal of Immunology	The Journal of Immunology
+31	56	The Journal of Immunology	The Journal of Immunology
+36	44	Frontiers in Cellular and Infection Microbiology	Frontiers in Cellular and Infection Microbiology
+36	80	Frontiers in Cellular and Infection Microbiology	Frontiers in Cellular and Infection Microbiology
+44	80	Frontiers in Cellular and Infection Microbiology	Frontiers in Cellular and Infection Microbiology
+42	61	PLoS ONE	PLoS ONE
+43	66	Trends in Parasitology	Trends in Parasitology
+45	63	Circulation	Circulation
+47	90	Current Pharmaceutical Design	Current Pharmaceutical Design
+54	86	Protein Science	Protein Science
+58	84	Parasitology Research	Parasitology Research
+60	70	Cellular Microbiology	Cellular Microbiology
+64	95	World class parasites	World class parasites
+68	97	mBio	mBio
+77	98	Pathogens	Pathogens
+89	93	Journal of Eukaryotic Microbiology	Journal of Eukaryotic Microbiology

@@ -651,7 +651,6 @@ if __name__ == '__main__':
         sys.exit(0)
 
     # Pre-trained word2vec model
-    # word2vec converts
     save_model_name = "gene/word2vec.model"
     model_w = word2vec.Word2Vec.load(save_model_name)
 
@@ -664,438 +663,289 @@ if __name__ == '__main__':
     # The list comprehension [porter_stemmer.stem(w) for w in stopword] creates a new list where each stopword has been stemmed.
     stopword = [porter_stemmer.stem(w) for w in stopword]
 
-    result=[]
-
-    # path is set to the directory containing the raw data files.
+    result = []
     path = "raw-data-temp/"
-    # file_names is a list of all filenames in the specified directory.
     file_names = os.listdir(path)
-
-    # Initialize p_t here to fix the global scope issue
-    p_t = {}
-    p_to = {}
     
-    # Starts a loop to process each file in file_names.
+    # Process each file individually
     for fname in file_names:
-        # Removes the last four characters from the filename, which is assumed to be the file extension (e.g., .xml).
-        fname = fname[:-4]
-        # Opens the file with the .xml extension in read mode with UTF-8 encoding and reads its content into the variable f.
-        f = open(path + fname + ".xml",'r',encoding = 'utf-8').read()
-        # Replaces all occurrences of the & character in the file content with a space to clean the text.
-        text=re.sub(u"&",u" ",f)
-        # Parses the cleaned XML text and gets the root element of the XML structure using the ElementTree (ET) module.
+        if not fname.endswith('.xml'):
+            continue
+            
+        # Extract name without extension
+        author_name = fname[:-4]
+        print(f"\nProcessing {author_name}...")
+        
+        # Initialize variables for this author
+        p_t = {}
+        p_to = {}
+        correct_labels = []
+        
+        # Read and process XML file
+        f = open(path + fname, 'r', encoding = 'utf-8').read()
+        text = re.sub(u"&", u" ", f)
         root = ET.fromstring(text)
 
-        correct_labels=[] # Initializes correct_labels as an empty list to store publication labels.
-        p_to={} # Initializes p_to as empty dictionaries to store the original words in the title of each publication.
-        p_t={}  # Initlizeis p_t as empty dictionaries to store stemmed words in the title of each publication, respectively.
-
-        # Loops through each <publication> element in the XML root.
+        # Process publications
         for i in root.findall('publication'):
-            # Extracts the text content of the <id> child element of the current <publication> element and assigns it to pid.
             pid = i.find('id').text
-
-            # Checks if pid is already in p_t dictionary. If it is, appends '1' to pid to ensure a unique identifier.
+            
             if pid in p_t:
-                pid = pid+'1'
-
-            # Extracts the text content of the <label> child element, converts it to an integer, and appends it to correct_labels.
+                pid = pid + '1'
+                
             correct_labels.append(int(i.find('label').text))
-
-            line = i.find('title').text # Extracts the text content of the <title> child element.
-            line = re.sub(r, ' ', line) # Replaces all characters matching the regular expression r (punctuation and special characters) with a space.
-            line = line.replace('\t',' ') # Replaces all tab characters with a space.
-            line = line.lower() # Converts the title to lowercase.
-            split_cut = line.split(' ') # Splits the title into a list of words using spaces as delimiters.
-
-            p_t[pid]=[] # Initializes empty lists in p_t for the current pid.
-            p_to[pid]=[] # Initializes empty lists in p_to for the current pid.
-
-            # Iterates over each word j in the split title (split_cut)
+            
+            line = i.find('title').text
+            line = re.sub(r, ' ', line)
+            line = line.replace('\t', ' ')
+            line = line.lower()
+            split_cut = line.split(' ')
+            
+            p_t[pid] = []
+            p_to[pid] = []
+            
             for j in split_cut:
-                # If the length of the word is greater than 1, it is appended to the list in p_to.
-                if len(j)>1:
+                if len(j) > 1:
                     p_to[pid].append(j)
-                    # If the stemmed version of the word is not in the stopword list, it is appended to the list in p_t.
                     if porter_stemmer.stem(j) not in stopword:
                         p_t[pid].append(porter_stemmer.stem(j))
-
-    # --------------------------Stemming Publication Titles-----------------------------
-
-    # path is set to the directory containing the raw data files.
-    path = "raw-data-temp/"
-    # file_names is a list of all filenames in the specified directory.
-    file_names = os.listdir(path)
-
-    # Starts a loop to process each file in file_names.
-    for fname in file_names:
-        # Removes the last four characters from the filename, which is assumed to be the file extension (e.g., .xml).
-        fname = fname[:-4]
-        # Opens the file with the .xml extension in read mode with UTF-8 encoding and reads its content into the variable f.
-        f = open(path + fname + ".xml",'r',encoding = 'utf-8').read()
-        # Replaces all occurrences of the & character in the file content with a space to clean the text.
-        text=re.sub(u"&",u" ",f)
-        # Parses the cleaned XML text and gets the root element of the XML structure using the ElementTree (ET) module.
-        root = ET.fromstring(text)
-
-        correct_labels=[] # Initializes correct_labels as an empty list to store publication labels.
-        p_to={} # Initializes p_to as empty dictionaries to store the original words in the title of each publication.
-        p_t={}  # Initlizeis p_t as empty dictionaries to store stemmed words in the title of each publication, respectively.
-
-        # Loops through each <publication> element in the XML root.
-        for i in root.findall('publication'):
-            # Extracts the text content of the <id> child element of the current <publication> element and assigns it to pid.
-            pid = i.find('id').text
-
-            # Checks if pid is already in p_t dictionary. If it is, appends '1' to pid to ensure a unique identifier.
-            if pid in p_t:
-                pid = pid+'1'
-
-            # Extracts the text content of the <label> child element, converts it to an integer, and appends it to correct_labels.
-            correct_labels.append(int(i.find('label').text))
-
-            line = i.find('title').text # Extracts the text content of the <title> child element.
-            line = re.sub(r, ' ', line) # Replaces all characters matching the regular expression r (punctuation and special characters) with a space.
-            line = line.replace('\t',' ') # Replaces all tab characters with a space.
-            line = line.lower() # Converts the title to lowercase.
-            split_cut = line.split(' ') # Splits the title into a list of words using spaces as delimiters.
-
-            p_t[pid]=[] # Initializes empty lists in p_t for the current pid.
-            p_to[pid]=[] # Initializes empty lists in p_to for the current pid.
-
-            # Iterates over each word j in the split title (split_cut)
-            for j in split_cut:
-                # If the length of the word is greater than 1, it is appended to the list in p_to.
-                if len(j)>1:
-                    p_to[pid].append(j)
-                    # If the stemmed version of the word is not in the stopword list, it is appended to the list in p_t.
-                    if porter_stemmer.stem(j) not in stopword:
-                        p_t[pid].append(porter_stemmer.stem(j))
-
-    # --------------------------Construct PHNet-----------------------------
-    pid_idx={} # Initializes an empty dictionary pid_idx to map publication IDs (pid) to unique indices.
-    idx_pid={} # Initializes an empty dictionary idx_pid to map unique indices back to publication IDs (pid).
-    idx=0 # Initializes a variable idx to keep track of the unique index for each publication.
-
-    # Creates an empty graph G using NetworkX, which will be used to construct the PHNet (Publication Heterogeneous Network).
-    G = nx.Graph()
-
-    # Starts a loop to iterate over each publication ID (pid) in the p_t dictionary. The p_t dictionary contains the processed and stemmed words for each publication ID.
-    for pid in p_t:
-        G.add_node(pid) # Adds the current publication ID (pid) as a node in the graph G.
-        pid_idx[pid]=idx # Maps the current publication ID (pid) to the current index (idx) in the pid_idx dictionary.
-        idx_pid[idx]=pid # Maps the current index (idx) back to the publication ID (pid) in the idx_pid dictionary.
-        idx=idx+1 # Increments the index idx by 1 to ensure the next publication ID gets a unique index.
-
-    # --------------------------Construct PHNet (CoAuthor Subgraph)-----------------------------
-
-    # This line initializes an empty undirected graph Ga using the NetworkX library. This graph will be used to represent the co-author relationships.
-    Ga = nx.Graph()
-    # This loop iterates over each publication ID (pid) in the dictionary p_t.
-    for pid in p_t:
-        # For each pid, it adds a node to the graph Ga. This ensures that every publication ID is represented as a node in the graph, even if it does not end up having any edges (co-author relationships).
-        Ga.add_node(pid)
-
-    # This line opens a text file containing author pairs and reads all its lines into the list fa. Each line in the file is expected to represent a pair of authors who have co-authored a paper together.
-    fa = open("experimental-results/authors/" + fname + "_authorlist.txt",'r',encoding = 'utf-8').readlines()
-
-    # This loop iterates over each line in the list fa.
-    for line in fa:
-        # line.strip() removes any leading and trailing whitespace from the current line.
-        line.strip()
-
-        # line.split('\t') splits the stripped line into components based on tab characters (\t). The resulting list, split_cut, contains the different parts of the line.
-        split_cut = line.split('\t')
-
-        # This line processes the first component of split_cut, which represents the index of the publication first author.
-        keyi = idx_pid[int(split_cut[0].strip())]
-        # It strips any whitespace from this component, converts it to an integer, and then uses this integer to look up the corresponding publication ID (keyi) in the idx_pid dictionary.
-        keyj = idx_pid[int(split_cut[1].strip())]
-
-        # Initializes a variable weights to 1, representing the initial weight of the edge between the two publications that share an author.
-        weights = 1
-        if Ga.has_edge(keyi,keyj):
-            # If the edge exists, increments the weight of the edge by 1.
-            Ga[keyi][keyj]['weight'] = Ga[keyi][keyj]['weight'] + weights
-        else:
-            # If the edge does not exist, adds a new edge between keyi and keyj with an initial weight of 1.
-            # Ga.add_edge(keyi,keyj,{'weight': weights})
-            Ga.add_edge(keyi, keyj, weight=weights)
-
-    # --------------------------Construct PHNet (CoVenue Subgraph)-----------------------------
-
-    # Initializes an empty graph Gv using NetworkX. This graph will be used to represent co-venue relationships between publications.
-    Gv = nx.Graph()
-
-    # Loops through each publication ID (pid) in the p_t dictionary.
-    for pid in p_t:
-        # Adds each pid as a node in the graph Gv. This ensures that every publication ID is represented as a node in the graph.
-        Gv.add_node(pid)
-
-    # Opens a file that contains pairs of publication IDs that occurred in the same conference or journal, reads all lines from this file, and stores them in the list fv.
-    fv = open("experimental-results/" + fname + "_jconfpair.txt",'r',encoding = 'utf-8').readlines()
-
-    # Starts a loop to iterate over each line in the list fv.
-    for line in fv:
-        # Strips leading and trailing whitespace characters from the current line using line.strip(). This ensures clean data processing.
-        line.strip()
-        # Splits the current line into components using the tab character (\t) as the delimiter, resulting in a list split_cut.
-        split_cut = line.split('\t')
-
-        # Processes the first component of split_cut, which represents the index of the first publication ID. Strips any whitespace, converts it to an integer, and uses this integer to look up the corresponding publication ID (keyi) in the idx_pid dictionary.
-        keyi = idx_pid[int(split_cut[0].strip())]
-        # Processes the second component of split_cut, which represents the index of the second publication ID. Strips any whitespace, converts it to an integer, and uses this integer to look up the corresponding publication ID (keyj) in the idx_pid dictionary.
-        keyj = idx_pid[int(split_cut[1].strip())]
-        weights = 1
-        # Gv.add_edge(keyi,keyj,{'weight': weights})
-        # Adds an edge between keyi and keyj with an initial weight of 1 in the graph Gv.
-        Gv.add_edge(keyi, keyj, weight=weights)
-
-    # --------------------------Construct PHNet (CoTitle Subgraph)-----------------------------
-
-    # Initializes an empty graph Gt using NetworkX. This graph will be used to represent the co-title relationships between publications.
-    Gt = nx.Graph()
-    # Loops through each publication ID (pid) in the p_t dictionary.
-    for pid in p_t:
-        # Adds each pid as a node in the graph Gt. This ensures that every publication ID is represented as a node in the graph.
-        Gt.add_node(pid)
-
-    # These nested loops iterate over each pair of publication IDs (keyi and keyj) in the p_t dictionary.
-    for i, keyi in enumerate(p_t):
-        for j, keyj in enumerate(p_t):
-            # Converts the list of stemmed words for each publication (p_t[keyi] and p_t[keyj]) into sets.
-            # Computes the intersection of these two sets, which gives the common stemmed words between the two publications.
-            # The length of this intersection is assigned to the variable weights, representing the number of shared stemmed words in the titles of the two publications.
-            weights=len(set(p_t[keyi]).intersection(set(p_t[keyj])))
-            # Checks if the current index j is greater than the current index i to avoid duplicate edges and self-loops.
-            # Also checks if the weights (number of shared words) is greater than or equal to 2. This ensures that edges are only added for pairs of publications with at least two common words in their titles.
-            if (j>i and weights>=2):
-                # Gt.add_edge(keyi,keyj,{'weight': weights})
-                # Adds an edge between keyi and keyj in the graph Gt with the computed weight.
-                Gt.add_edge(keyi, keyj, weight=weights)
-
-
-    Glist=[]
-    Glist.append(Ga)
-    Glist.append(Gt)
-    Glist.append(Gv)
-
-    # Combine edges and weights from all graphs into the final graph G
-    for i in range(len(Glist)):
-        # For each graph Glist[i], iterates over its edges. The edges(data='weight') method returns tuples of the form (u, v, d), where u and v are the nodes connected by the edge, and d is the weight of the edge.
-        for u, v, d in Glist[i].edges(data='weight'):
-            if G.has_edge(u, v):
-                G[u][v]['weight'] += d  # If the edge already exists, it increments the weight of the edge in G by d, the weight from the current graph.
-            else:
-                G.add_edge(u, v, weight=d)  # If the edge does not exist in G, it adds a new edge between u and v with the weight d.
-    # Append the final combined graph G to the list Glist.
-    Glist.append(G)
-
-    # --------------------------Sampling Paths via Meta-path and Relation Weight Guided Random Walks:-----------------------------
-
-    all_neighbor_samplings=[] # Store sampling distributions for neighbor nodes
-    all_neg_sampling=[] # Store negative samples
-
-
-    # Starts a loop that iterates over each graph Gi in the list Glist. The variable i is the index of the graph.
-    for i,Gi in enumerate(Glist):
-        # Converts the graph Gi to a NumPy array representing its adjacency matrix. This matrix contains the edge weights between nodes.
-        adj_matrix = nx.to_numpy_array(Gi)
-        # Creates a deep copy of the graph Gi and stores it in Gtmp.
-        Gtmp= copy.deepcopy(Gi)
-        # Loops through each edge (u, v, d) in Gtmp, where u and v are nodes and d is the edge weight. Sets the weight of each edge to 1.
-        for u,v,d in Gtmp.edges(data = 'weight'):
-            Gtmp[u][v]['weight'] = 1
-        # Uses Dijkstra's algorithm to calculate the shortest path lengths between all pairs of nodes in Gtmp. The result is stored in the dictionary length.
-        length = dict(nx.all_pairs_dijkstra_path_length(Gtmp))
-
-        # Loops through each pair of nodes (u, v) in the length dictionary.
-        for u in length:
-            for v in length[u]:
-                # If there is no direct edge between u and v in Gtmp and the shortest path length between them is greater than 0, adds an edge with the shortest path length as the weight.
-                if Gtmp.has_edge(u,v) is False and length[u][v]>0:
-                    Gtmp.add_edge(u, v, weight=length[u][v])
-        # Converts the updated graph Gtmp to a NumPy array representing its adjacency matrix, where the weights represent shortest path lengths.
-        pathl_matrix = nx.to_numpy_array(Gtmp)
-
-        # Store sampling distributions for the current graph.
-        neighbor_samplings = []
-        neg_samplings=[]
-        # Loops through each node i in the graph
-        for i in range(G.number_of_nodes()):
-            # Gets the edge weights for node i from adj_matrix.
-            node_weights = adj_matrix[i]
-            # If the sum of weights is 0, appends 0 to neighbor_samplings.
-            if np.sum(node_weights)==0:
-                neighbor_samplings.append(0)
-            # Otherwise, normalizes the weights to create a probability distribution and appends an AliasSampling object initialized with this distribution to neighbor_samplings.
-            else :
-                weight_distribution = node_weights / np.sum(node_weights)
-                neighbor_samplings.append(AliasSampling(weight_distribution))
-
-            # Gets the shortest path lengths for node i from pathl_matrix.
-            node_i_degrees = pathl_matrix[i]
-            # Sets zero weights to 6, the weight for the node itself to 0, and any weights less than or equal to 1 to 0.
-            node_i_degrees[node_i_degrees==0] = 6
-            node_i_degrees[i]=0
-            node_i_degrees[node_i_degrees<=1] = 0
-
-            # If the sum of the adjusted weights is 0, appends 0 to neg_samplings.
-            if np.sum(node_i_degrees)==0:
-                neg_samplings.append(0)
-            # Otherwise, normalizes the weights to create a probability distribution and appends an AliasSampling object initialized with this distribution to neg_samplings.
-            else:
-                node_distribution = node_i_degrees / np.sum(node_i_degrees)
-                neg_samplings.append(AliasSampling(node_distribution))
-        # Appends the neighbor_samplings and neg_samplings lists to all_neighbor_samplings and all_neg_sampling, respectively.
-        all_neighbor_samplings.append(neighbor_samplings)
-        all_neg_sampling.append(neg_samplings)
-
-    numwalks=4 # Number of random walks to start from each node.
-    walklength=10 # Length of each random walk.
-    negative_num=3 # Number of negative samples to generate per positive sample.
-
-    # Initializes empty lists u_i, u_j, and label to store the node pairs and labels for training data.
-    u_i=[]
-    u_j=[]
-    label=[]
-    # Defines a metapath for the walks, specifying the sequence of graphs to use in the walks.
-    metapath=[0,1,0,2]
-
-    # Perform Random Walks
-
-    # Loops through each node node_index in the graph:
-    for node_index in range(G.number_of_nodes()):
-        # Starts numwalks random walks from the current node.
-        # For each walk, initializes the starting node and sets the graph index based on the metapath.
-        for j in range(0, numwalks):
-            node_start=node_index
-            g_index=j
-            gi=metapath[g_index]
-            # For each step in the walk
-            for i in range(0, walklength):
-                if all_neighbor_samplings[gi][node_start] != 0:
-                    # Samples a neighbor node from the current graph using the sampling distribution.
-                    node_p = all_neighbor_samplings[gi][node_start].sampling()
-                    u_i.append(node_start)
-                    u_j.append(node_p)
-                    # Records the pair (node_start, node_p) with a positive label (1).
-                    label.append(1)
-
-                    # Negative Sampling
-
-                    # Samples negative_num negative nodes and records the pairs (node_start, node_n) with negative labels (-1).
-                    if all_neg_sampling[-1][node_start] != 0:
-                        for k in range(negative_num):
-                            node_n = all_neg_sampling[-1][node_start].sampling()
-                            u_i.append(node_start)
-                            u_j.append(node_n)
-                            label.append(-1)
-
-                    # Updates the graph index and graph for the next step.
-                    g_index=(g_index+1)%len(metapath)
-                    gi=metapath[g_index]
-
-                    # Samples the next node and records the pair with a positive label (1).
-                    if all_neighbor_samplings[gi][node_p] != 0:
-
-                        node_p1 = all_neighbor_samplings[gi][node_p].sampling()
+        
+        # Construct PHNet
+        pid_idx = {}
+        idx_pid = {}
+        idx = 0
+        
+        G = nx.Graph()
+        
+        for pid in p_t:
+            G.add_node(pid)
+            pid_idx[pid] = idx
+            idx_pid[idx] = pid
+            idx = idx + 1
+        
+        # Construct co-author graph
+        Ga = nx.Graph()
+        for pid in p_t:
+            Ga.add_node(pid)
+        
+        author_file_path = f"experimental-results/authors/{author_name}_authorlist.txt"
+        if os.path.exists(author_file_path):
+            fa = open(author_file_path, 'r', encoding='utf-8').readlines()
+            
+            for line in fa:
+                line = line.strip()
+                split_cut = line.split('\t')
+                
+                keyi = idx_pid[int(split_cut[0].strip())]
+                keyj = idx_pid[int(split_cut[1].strip())]
+                
+                weights = 1
+                if Ga.has_edge(keyi, keyj):
+                    Ga[keyi][keyj]['weight'] = Ga[keyi][keyj]['weight'] + weights
+                else:
+                    Ga.add_edge(keyi, keyj, weight=weights)
+        
+        # Construct co-venue graph
+        Gv = nx.Graph()
+        for pid in p_t:
+            Gv.add_node(pid)
+        
+        venue_file_path = f"experimental-results/{author_name}_jconfpair.txt"
+        if os.path.exists(venue_file_path):
+            fv = open(venue_file_path, 'r', encoding='utf-8').readlines()
+            
+            for line in fv:
+                line = line.strip()
+                split_cut = line.split('\t')
+                
+                keyi = idx_pid[int(split_cut[0].strip())]
+                keyj = idx_pid[int(split_cut[1].strip())]
+                weights = 1
+                Gv.add_edge(keyi, keyj, weight=weights)
+        
+        # Construct co-title graph
+        Gt = nx.Graph()
+        for pid in p_t:
+            Gt.add_node(pid)
+        
+        for i, keyi in enumerate(p_t):
+            for j, keyj in enumerate(p_t):
+                weights = len(set(p_t[keyi]).intersection(set(p_t[keyj])))
+                if j > i and weights >= 2:
+                    Gt.add_edge(keyi, keyj, weight=weights)
+        
+        # Combine graphs
+        Glist = [Ga, Gt, Gv]
+        
+        for i in range(len(Glist)):
+            for u, v, d in Glist[i].edges(data='weight'):
+                if G.has_edge(u, v):
+                    G[u][v]['weight'] += d
+                else:
+                    G.add_edge(u, v, weight=d)
+        
+        Glist.append(G)
+        
+        # Sampling paths
+        all_neighbor_samplings = []
+        all_neg_sampling = []
+        
+        for i, Gi in enumerate(Glist):
+            adj_matrix = nx.to_numpy_array(Gi)
+            Gtmp = copy.deepcopy(Gi)
+            for u, v, d in Gtmp.edges(data='weight'):
+                Gtmp[u][v]['weight'] = 1
+            length = dict(nx.all_pairs_dijkstra_path_length(Gtmp))
+            
+            for u in length:
+                for v in length[u]:
+                    if Gtmp.has_edge(u, v) is False and length[u][v] > 0:
+                        Gtmp.add_edge(u, v, weight=length[u][v])
+            pathl_matrix = nx.to_numpy_array(Gtmp)
+            
+            neighbor_samplings = []
+            neg_samplings = []
+            for i in range(G.number_of_nodes()):
+                node_weights = adj_matrix[i]
+                if np.sum(node_weights) == 0:
+                    neighbor_samplings.append(0)
+                else:
+                    weight_distribution = node_weights / np.sum(node_weights)
+                    neighbor_samplings.append(AliasSampling(weight_distribution))
+                
+                node_i_degrees = pathl_matrix[i]
+                node_i_degrees[node_i_degrees == 0] = 6
+                node_i_degrees[i] = 0
+                node_i_degrees[node_i_degrees <= 1] = 0
+                
+                if np.sum(node_i_degrees) == 0:
+                    neg_samplings.append(0)
+                else:
+                    node_distribution = node_i_degrees / np.sum(node_i_degrees)
+                    neg_samplings.append(AliasSampling(node_distribution))
+            all_neighbor_samplings.append(neighbor_samplings)
+            all_neg_sampling.append(neg_samplings)
+        
+        numwalks = 4
+        walklength = 10
+        negative_num = 3
+        
+        u_i = []
+        u_j = []
+        label = []
+        metapath = [0, 1, 0, 2]
+        
+        # Perform Random Walks
+        for node_index in range(G.number_of_nodes()):
+            for j in range(0, numwalks):
+                node_start = node_index
+                g_index = j
+                gi = metapath[g_index]
+                for i in range(0, walklength):
+                    if all_neighbor_samplings[gi][node_start] != 0:
+                        node_p = all_neighbor_samplings[gi][node_start].sampling()
                         u_i.append(node_start)
-                        u_j.append(node_p1)
+                        u_j.append(node_p)
                         label.append(1)
-
-                        # Performs negative sampling as before.
+                        
                         if all_neg_sampling[-1][node_start] != 0:
                             for k in range(negative_num):
                                 node_n = all_neg_sampling[-1][node_start].sampling()
                                 u_i.append(node_start)
                                 u_j.append(node_n)
                                 label.append(-1)
-
-                    # Updates the starting node for the next step.
-                    node_start = node_p
-                # If no neighbors are available, performs negative sampling directly.
-                else:
-                    for k in range(negative_num):
-                        node_n = all_neg_sampling[-1][node_start].sampling()
-                        u_i.append(node_start)
-                        u_j.append(node_n)
-                        label.append(-1)
-                    # Updates the graph index and graph for the next step.
-                    g_index=(g_index+1)%len(metapath)
-                    gi=metapath[g_index]
-
-    # Training
-    node_attr = []
-    for pid in p_to:
-        words_vec=[]
-        for word in p_to[pid]:
-            # if (word in model_w):
-            if word in model_w.wv:
-                # words_vec.append(model_w[word])
-                 words_vec.append(model_w.wv[word])
-        if len(words_vec)==0:
-            words_vec.append(2*np.random.random(100)-1)
-        node_attr.append(np.mean(words_vec,0))
-    node_attr=np.array(node_attr)
-
-    batch_size = 64
-    total_batch = 3*int(len(u_i)/batch_size)
-    display_batch = 100
-
-    model = GCN(Glist, node_attr, batch_size=batch_size)
-
-    avg_loss = 0.
-    for i in range(total_batch):
-        sdx=(i*batch_size)%len(u_i)
-        edx=((i+1)*batch_size)%len(u_i)
-        #print (sdx,edx)
-        if edx>sdx:
-            u_ii = u_i[sdx:edx]
-            u_jj = u_j[sdx:edx]
-            labeli = label[sdx:edx]
-        else:
-            u_ii = u_i[sdx:]+u_i[0:edx]
-            u_jj = u_j[sdx:]+u_j[0:edx]
-            labeli = label[sdx:]+label[0:edx]
-        loss= model.train_line(u_ii, u_jj, labeli)
-        avg_loss += loss / display_batch
-        if i % display_batch == 0 and i > 0:
-            print ('%d/%d loss %8.6f' %(i,total_batch,avg_loss))
-            avg_loss = 0.
-
-
-
-    # Evaluating
-    embed_matrix = model.cal_embed()
-    labels = GHAC(embed_matrix,Glist[-1],idx_pid,len(set(correct_labels)))
-    pairwise_precision, pairwise_recall, pairwise_f1 = pairwise_evaluate(correct_labels,labels)
-    result.append([fname,pairwise_precision, pairwise_recall, pairwise_f1])
+                        
+                        g_index = (g_index + 1) % len(metapath)
+                        gi = metapath[g_index]
+                        
+                        if all_neighbor_samplings[gi][node_p] != 0:
+                            node_p1 = all_neighbor_samplings[gi][node_p].sampling()
+                            u_i.append(node_start)
+                            u_j.append(node_p1)
+                            label.append(1)
+                            
+                            if all_neg_sampling[-1][node_start] != 0:
+                                for k in range(negative_num):
+                                    node_n = all_neg_sampling[-1][node_start].sampling()
+                                    u_i.append(node_start)
+                                    u_j.append(node_n)
+                                    label.append(-1)
+                        
+                        node_start = node_p
+                    else:
+                        for k in range(negative_num):
+                            node_n = all_neg_sampling[-1][node_start].sampling()
+                            u_i.append(node_start)
+                            u_j.append(node_n)
+                            label.append(-1)
+                        g_index = (g_index + 1) % len(metapath)
+                        gi = metapath[g_index]
+        
+        # Training
+        node_attr = []
+        for pid in p_to:
+            words_vec = []
+            for word in p_to[pid]:
+                if word in model_w.wv:
+                    words_vec.append(model_w.wv[word])
+            if len(words_vec) == 0:
+                words_vec.append(2 * np.random.random(100) - 1)
+            node_attr.append(np.mean(words_vec, 0))
+        node_attr = np.array(node_attr)
+        
+        batch_size = 64
+        total_batch = 3 * int(len(u_i) / batch_size)
+        display_batch = 100
+        
+        model = GCN(Glist, node_attr, batch_size=batch_size)
+        
+        avg_loss = 0.
+        for i in range(total_batch):
+            sdx = (i * batch_size) % len(u_i)
+            edx = ((i + 1) * batch_size) % len(u_i)
+            
+            if edx > sdx:
+                u_ii = u_i[sdx:edx]
+                u_jj = u_j[sdx:edx]
+                labeli = label[sdx:edx]
+            else:
+                u_ii = u_i[sdx:] + u_i[0:edx]
+                u_jj = u_j[sdx:] + u_j[0:edx]
+                labeli = label[sdx:] + label[0:edx]
+            loss = model.train_line(u_ii, u_jj, labeli)
+            avg_loss += loss / display_batch
+            if i % display_batch == 0 and i > 0:
+                print('%d/%d loss %8.6f' % (i, total_batch, avg_loss))
+                avg_loss = 0.
+        
+        # Evaluating
+        embed_matrix = model.cal_embed()
+        labels = GHAC(embed_matrix, Glist[-1], idx_pid, len(set(correct_labels)))
+        pairwise_precision, pairwise_recall, pairwise_f1 = pairwise_evaluate(correct_labels, labels)
+        result.append([author_name, pairwise_precision, pairwise_recall, pairwise_f1])
+        
+        # Generate and output the clusters for this author
+        generate_author_id_clusters(author_name, correct_labels, labels)
     
-    # Comment out or replace with this to hide original output:
-    # print_original_output(fname, correct_labels, labels, pairwise_precision, pairwise_recall, pairwise_f1)
-    
-    # Only show the custom output
-    generate_author_id_clusters(fname, correct_labels, labels)
-
-    # Macro-F1
-    Prec = 0
-    Rec = 0
-    F1 = 0
-    save_csvpath = 'result/'
-    with open(save_csvpath+'AM_nok.csv','w',newline='',encoding = 'utf-8') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(["name","Prec","Rec","F1"])
-        for i in result:
-            Prec = Prec + i[1]
-            Rec = Rec + i[2]
-            F1 = F1 + i[3]
-        Prec = Prec/len(result)
-        Rec = Rec/len(result)
-        F1 = F1/len(result)
-        writer.writerow(["Avg",Prec,Rec,F1])
-        for i in range(len(result)):
-            tmp = result[i]
-            writer.writerow(tmp[0:4])
-
-    print ("Avg",Prec,Rec,F1)
+    # Output overall results
+    if result:
+        Prec = 0
+        Rec = 0
+        F1 = 0
+        save_csvpath = 'result/'
+        with open(save_csvpath + 'AM_nok.csv', 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(["name", "Prec", "Rec", "F1"])
+            for i in result:
+                Prec = Prec + i[1]
+                Rec = Rec + i[2]
+                F1 = F1 + i[3]
+            Prec = Prec / len(result)
+            Rec = Rec / len(result)
+            F1 = F1 / len(result)
+            writer.writerow(["Avg", Prec, Rec, F1])
+            for i in range(len(result)):
+                tmp = result[i]
+                writer.writerow(tmp[0:4])
+        
+        print("Avg", Prec, Rec, F1)

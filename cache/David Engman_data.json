@@ -1,0 +1,3142 @@
+{
+  "author_name": "David Engman",
+  "author_data": {
+    "A5047332247": {
+      "id": "A5047332247",
+      "name": "David M. Engman",
+      "name_first": "David",
+      "name_middle": "M.",
+      "name_last": "Engman",
+      "works_count": 443,
+      "works": [
+        "W2149024161",
+        "W2111035891",
+        "W2898556213",
+        "W1982201557",
+        "W2064328571",
+        "W1972450546",
+        "W2917235586",
+        "W307879936",
+        "W2167271715",
+        "W1974077996",
+        "W1995745301",
+        "W2025502902",
+        "W2114413554",
+        "W2016325370",
+        "W2114983395",
+        "W2027128053",
+        "W2143299403",
+        "W1487851548",
+        "W2345866656",
+        "W1971679977",
+        "W2122547807",
+        "W2115084644",
+        "W2108818445",
+        "W1942122996",
+        "W2017518477",
+        "W2122205545",
+        "W2110173319",
+        "W2137739397",
+        "W4409687395",
+        "W2111154515",
+        "W2145450205",
+        "W1591530312",
+        "W1518789549",
+        "W2121573278",
+        "W2101232391",
+        "W2010208991",
+        "W3022674989",
+        "W3135769363",
+        "W1547753251",
+        "W2114192257",
+        "W2123524472",
+        "W2023847294",
+        "W1979937549",
+        "W2033549129",
+        "W4296169250",
+        "W1970184330",
+        "W2171359504",
+        "W2155132999",
+        "W1973970074",
+        "W2022658325",
+        "W2591227622",
+        "W2117772797",
+        "W2407493707",
+        "W2035073748",
+        "W2082370402",
+        "W2078581083",
+        "W2124557384",
+        "W2098928403",
+        "W2053593320",
+        "W2240752242",
+        "W2164608711",
+        "W2071927077",
+        "W2160351250",
+        "W1989374170",
+        "W1482227222",
+        "W4248739998",
+        "W1985722151",
+        "W1780854908",
+        "W2095951936",
+        "W2007851663",
+        "W2138207184",
+        "W2749958405",
+        "W2061734033",
+        "W2026272592",
+        "W3048249416",
+        "W1983323106",
+        "W2062688139",
+        "W2746628736",
+        "W1976131495",
+        "W1553886681",
+        "W3190015463",
+        "W2113422555",
+        "W1979245092",
+        "W2000667938",
+        "W2045859626",
+        "W2078187003",
+        "W2164508115",
+        "W2901902445",
+        "W3161491831",
+        "W1991971973",
+        "W2134265215",
+        "W2028796021",
+        "W2251620070",
+        "W1972639520",
+        "W2118051539",
+        "W67559892",
+        "W4403071495",
+        "W2754077401",
+        "W4307704584",
+        "W1976208094"
+      ]
+    },
+    "A5009418494": {
+      "id": "A5009418494",
+      "name": "John David Engman",
+      "name_first": "John",
+      "name_middle": "David",
+      "name_last": "Engman",
+      "works_count": 1,
+      "works": []
+    }
+  },
+  "works_data": {
+    "W2149024161": {
+      "id": "W2149024161",
+      "title": "The life cycle of Trypanosoma cruzi revisited",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Kevin M. Tyler",
+          "id": "A5025730534"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "International Journal for Parasitology"
+    },
+    "W2111035891": {
+      "id": "W2111035891",
+      "title": "Enhanced Efferocytosis of Apoptotic Cardiomyocytes Through Myeloid-Epithelial-Reproductive Tyrosine Kinase Links Acute Inflammation Resolution to Cardiac Repair After Infarction",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Elaine Y. Wan",
+          "id": "A5015846564"
+        },
+        {
+          "name": "Xin Yi Yeap",
+          "id": "A5113823332"
+        },
+        {
+          "name": "Shirley Dehn",
+          "id": "A5039383728"
+        },
+        {
+          "name": "Rachael Terry",
+          "id": "A5050455996"
+        },
+        {
+          "name": "Margaret L. Novak",
+          "id": "A5079316251"
+        },
+        {
+          "name": "Shuang Zhang",
+          "id": "A5100321546"
+        },
+        {
+          "name": "Shinichi Iwata",
+          "id": "A5068153858"
+        },
+        {
+          "name": "Xiaoqiang Han",
+          "id": "A5101863080"
+        },
+        {
+          "name": "Shunichi Homma",
+          "id": "A5105938598"
+        },
+        {
+          "name": "Konstantinos Drosatos",
+          "id": "A5045940033"
+        },
+        {
+          "name": "Jon W. Lomasney",
+          "id": "A5029462329"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Stephen D. Miller",
+          "id": "A5101629302"
+        },
+        {
+          "name": "Douglas E. Vaughan",
+          "id": "A5039275729"
+        },
+        {
+          "name": "John Morrow",
+          "id": "A5010861934"
+        },
+        {
+          "name": "Raj Kishore",
+          "id": "A5112405044"
+        },
+        {
+          "name": "Edward B. Thorp",
+          "id": "A5027947816"
+        }
+      ],
+      "venue": "Circulation Research"
+    },
+    "W2898556213": {
+      "id": "W2898556213",
+      "title": "Pathology and Pathogenesis of Chagas Heart Disease",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Kevin M. Bonney",
+          "id": "A5017766791"
+        },
+        {
+          "name": "Daniel Luthringer",
+          "id": "A5091674327"
+        },
+        {
+          "name": "Stacey A. Kim",
+          "id": "A5091042972"
+        },
+        {
+          "name": "Nisha Garg",
+          "id": "A5065183058"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Annual Review of Pathology Mechanisms of Disease"
+    },
+    "W1982201557": {
+      "id": "W1982201557",
+      "title": "Are MD\u2013PhD Programs Meeting Their Goals? An Analysis of Career Choices Made by Graduates of 24 MD\u2013PhD Programs",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Lawrence F. Brass",
+          "id": "A5066987101"
+        },
+        {
+          "name": "Myles H. Akabas",
+          "id": "A5050960288"
+        },
+        {
+          "name": "Linda D. Burnley",
+          "id": "A5080666542"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Clayton A. Wiley",
+          "id": "A5074276009"
+        },
+        {
+          "name": "Olaf S. Andersen",
+          "id": "A5031193521"
+        }
+      ],
+      "venue": "Academic Medicine"
+    },
+    "W2064328571": {
+      "id": "W2064328571",
+      "title": "Chagas Heart Disease Pathogenesis: One Mechanism or Many?",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Kevin M. Bonney",
+          "id": "A5017766791"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Current Molecular Medicine"
+    },
+    "W1972450546": {
+      "id": "W1972450546",
+      "title": "The 35-Nucleotide Spliced Leader Sequence Is Common to All Trypanosome Messenger RNA's",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Joseph A. Walder",
+          "id": "A5110011040"
+        },
+        {
+          "name": "Paul S. Eder",
+          "id": "A5072282624"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Steven T. Brentano",
+          "id": "A5048265180"
+        },
+        {
+          "name": "Roxanne Y. Walder",
+          "id": "A5112713636"
+        },
+        {
+          "name": "Deborah S. Knutzon",
+          "id": "A5046173894"
+        },
+        {
+          "name": "David M. Dorfman",
+          "id": "A5103612977"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        }
+      ],
+      "venue": "Science"
+    },
+    "W2917235586": {
+      "id": "W2917235586",
+      "title": "Protein Composition Reflects Extracellular Vesicle Heterogeneity",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Tatyana Vagner",
+          "id": "A5064854194"
+        },
+        {
+          "name": "Andrew R. Chin",
+          "id": "A5108833389"
+        },
+        {
+          "name": "Javier Mariscal",
+          "id": "A5059389092"
+        },
+        {
+          "name": "Serguei Bannykh",
+          "id": "A5073387528"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Dolores Di Vizio",
+          "id": "A5059046046"
+        }
+      ],
+      "venue": "PROTEOMICS"
+    },
+    "W307879936": {
+      "id": "W307879936",
+      "title": "Autoimmune Pathogenesis of Chagas Heart Disease",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Kevin M. Bonney",
+          "id": "A5017766791"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "American Journal Of Pathology"
+    },
+    "W2167271715": {
+      "id": "W2167271715",
+      "title": "Induction of cardiac autoimmunity in Chagas heart disease: A case for molecular mimicry",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Ed\u00e9cio Cunha\u2010Neto",
+          "id": "A5087639158"
+        },
+        {
+          "name": "Angelina M. Bilate",
+          "id": "A5067216235"
+        },
+        {
+          "name": "Kenneth V. Hyland",
+          "id": "A5050431119"
+        },
+        {
+          "name": "Simone Gon\u00e7alves Fonseca",
+          "id": "A5071213434"
+        },
+        {
+          "name": "Jorge Kalil",
+          "id": "A5033255349"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Ed\u00e9cio Cunha\u2010Neto",
+          "id": "A5087639158"
+        },
+        {
+          "name": "Angelina M. Bilate",
+          "id": "A5067216235"
+        },
+        {
+          "name": "Kenneth V. Hyland",
+          "id": "A5050431119"
+        },
+        {
+          "name": "Simone Gon\u00e7alves Fonseca",
+          "id": "A5071213434"
+        },
+        {
+          "name": "Jorge Kalil",
+          "id": "A5033255349"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Autoimmunity"
+    },
+    "W1974077996": {
+      "id": "W1974077996",
+      "title": "Flagellar membrane localization via association with lipid rafts",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Kevin M. Tyler",
+          "id": "A5025730534"
+        },
+        {
+          "name": "Alina Fridberg",
+          "id": "A5050509989"
+        },
+        {
+          "name": "Krista M. Toriello",
+          "id": "A5055117529"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "John A. Cieslak",
+          "id": "A5024617607"
+        },
+        {
+          "name": "Theodore L. Hazlett",
+          "id": "A5111939983"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Cell Science"
+    },
+    "W1995745301": {
+      "id": "W1995745301",
+      "title": "Molecular mechanisms of protein and lipid targeting to ciliary membranes",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Brian T. Emmer",
+          "id": "A5020724887"
+        },
+        {
+          "name": "Danijela Maric",
+          "id": "A5031614986"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Cell Science"
+    },
+    "W2025502902": {
+      "id": "W2025502902",
+      "title": "Molecular mechanisms of host cell invasion by Trypanosoma cruzi",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "Bria M. Coates",
+          "id": "A5011813076"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Experimental Parasitology"
+    },
+    "W2114413554": {
+      "id": "W2114413554",
+      "title": "Migration through the Extracellular Matrix by the Parasitic Protozoan<i>Leishmania</i>Is Enhanced by Surface Metalloprotease gp63",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Bradford S. McGwire",
+          "id": "A5021827693"
+        },
+        {
+          "name": "Kwang\u2010Poo Chang",
+          "id": "A5043685250"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Infection and Immunity"
+    },
+    "W2016325370": {
+      "id": "W2016325370",
+      "title": "Pathogenesis of Chagas heart disease: role of autoimmunity",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        }
+      ],
+      "venue": "Acta Tropica"
+    },
+    "W2114983395": {
+      "id": "W2114983395",
+      "title": "Killing of African Trypanosomes by Antimicrobial Peptides",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Bradford S. McGwire",
+          "id": "A5021827693"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Brian F. Tack",
+          "id": "A5050473740"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "The Journal of Infectious Diseases"
+    },
+    "W2027128053": {
+      "id": "W2027128053",
+      "title": "Extracellular Release of the Glycosylphosphatidylinositol (GPI)-linked Leishmania Surface Metalloprotease, gp63, Is Independent of GPI Phospholipolysis",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Bradford S. McGwire",
+          "id": "A5021827693"
+        },
+        {
+          "name": "William O'Connell",
+          "id": "A5010763384"
+        },
+        {
+          "name": "Kwang\u2010Poo Chang",
+          "id": "A5043685250"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W2143299403": {
+      "id": "W2143299403",
+      "title": "The major surface\u2010metalloprotease of the parasitic protozoan, <i>Leishmania</i>, protects against antimicrobial peptide\u2010induced apoptotic killing",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Manjusha Kulkarni",
+          "id": "A5041754597"
+        },
+        {
+          "name": "W. Robert McMaster",
+          "id": "A5069711282"
+        },
+        {
+          "name": "El\u017cbieta Kamysz",
+          "id": "A5023786346"
+        },
+        {
+          "name": "Wojciech Kamysz",
+          "id": "A5080038571"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Bradford S. McGwire",
+          "id": "A5021827693"
+        }
+      ],
+      "venue": "Molecular Microbiology"
+    },
+    "W1487851548": {
+      "id": "W1487851548",
+      "title": "A novel flagellar Ca2+-binding Protein in Trypanosomes",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Kathleen H. Krause",
+          "id": "A5051985484"
+        },
+        {
+          "name": "J H Blumin",
+          "id": "A5011648152"
+        },
+        {
+          "name": "K S Kim",
+          "id": "A5004630678"
+        },
+        {
+          "name": "Louis V. Kirchhoff",
+          "id": "A5084639477"
+        },
+        {
+          "name": "J E Donelson",
+          "id": "A5110171103"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W2345866656": {
+      "id": "W2345866656",
+      "title": "Molecular cloning of mtp70, a mitochondrial member of the hsp70 family.",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Louis V. Kirchhoff",
+          "id": "A5084639477"
+        },
+        {
+          "name": "J E Donelson",
+          "id": "A5110171103"
+        }
+      ],
+      "venue": "Molecular and Cellular Biology"
+    },
+    "W1971679977": {
+      "id": "W1971679977",
+      "title": "Trypanosoma cruzi exhibits inter- and intra-strain heterogeneity in molecular karyotype and chromosomal gene location",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Lekkala V. Reddy",
+          "id": "A5103873251"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        },
+        {
+          "name": "Louis V. Kirchhoff",
+          "id": "A5084639477"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2122547807": {
+      "id": "W2122547807",
+      "title": "Global Analysis of Protein Palmitoylation in African Trypanosomes",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Brian T. Emmer",
+          "id": "A5020724887"
+        },
+        {
+          "name": "Ernesto Nakayasu",
+          "id": "A5037253743"
+        },
+        {
+          "name": "Christina Souther",
+          "id": "A5080530153"
+        },
+        {
+          "name": "Hyungwon Choi",
+          "id": "A5081303849"
+        },
+        {
+          "name": "Tiago J. P. Sobreira",
+          "id": "A5072224258"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "Alexey I. Nesvizhskii",
+          "id": "A5085497637"
+        },
+        {
+          "name": "Igor C. Almeida",
+          "id": "A5054601444"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Eukaryotic Cell"
+    },
+    "W2115084644": {
+      "id": "W2115084644",
+      "title": "Cardiac Myosin Autoimmunity in Acute Chagas' Heart Disease",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Infection and Immunity"
+    },
+    "W2108818445": {
+      "id": "W2108818445",
+      "title": "Autoimmunity in Chagas heart disease",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "International Journal for Parasitology"
+    },
+    "W1942122996": {
+      "id": "W1942122996",
+      "title": "Human humoral immunity to hsp70 during Trypanosoma cruzi infection.",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Elizabeth A. Dragon",
+          "id": "A5033154294"
+        },
+        {
+          "name": "J E Donelson",
+          "id": "A5110171103"
+        }
+      ],
+      "venue": "The Journal of Immunology"
+    },
+    "W2017518477": {
+      "id": "W2017518477",
+      "title": "Identification of a palmitoyl acyltransferase required for protein sorting to the flagellar membrane",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Brian T. Emmer",
+          "id": "A5020724887"
+        },
+        {
+          "name": "Christina Souther",
+          "id": "A5080530153"
+        },
+        {
+          "name": "Krista M. Toriello",
+          "id": "A5055117529"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Cell Science"
+    },
+    "W2122205545": {
+      "id": "W2122205545",
+      "title": "<i>Trypanosoma cruzi</i>GP63 Proteins Undergo Stage-Specific Differential Posttranslational Modification and Are Important for Host Cell Infection",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Manjusha Kulkarni",
+          "id": "A5041754597"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Bradford S. McGwire",
+          "id": "A5021827693"
+        }
+      ],
+      "venue": "Infection and Immunity"
+    },
+    "W2110173319": {
+      "id": "W2110173319",
+      "title": "Sphingolipid synthesis is necessary for kinetoplast segregation and cytokinesis in <i>Trypanosoma brucei</i>",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Alina Fridberg",
+          "id": "A5050509989"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Ernesto Nakayasu",
+          "id": "A5037253743"
+        },
+        {
+          "name": "Kevin M. Tyler",
+          "id": "A5025730534"
+        },
+        {
+          "name": "Igor C. Almeida",
+          "id": "A5054601444"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Cell Science"
+    },
+    "W2137739397": {
+      "id": "W2137739397",
+      "title": "Bioluminescent imaging of Trypanosoma cruzi infection",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Kenneth V. Hyland",
+          "id": "A5050431119"
+        },
+        {
+          "name": "Sofya H. Asfaw",
+          "id": "A5044576573"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "International Journal for Parasitology"
+    },
+    "W4409687395": {
+      "id": "W4409687395",
+      "title": "Efficacy of Benznidazole Delivery During Chagas Disease Nanotherapy is Dependent on the Nanocarrier Morphology",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "D\u00e9bora B. Scariot",
+          "id": "A5083878959"
+        },
+        {
+          "name": "Austeja Staneviciute",
+          "id": "A5041445557"
+        },
+        {
+          "name": "Rayanne Regina Beltrame Machado",
+          "id": "A5058381300"
+        },
+        {
+          "name": "Simseok A. Yuk",
+          "id": "A5020869016"
+        },
+        {
+          "name": "Yugang Liu",
+          "id": "A5101747101"
+        },
+        {
+          "name": "Swagat Sharma",
+          "id": "A5031247828"
+        },
+        {
+          "name": "Sultan Almunif",
+          "id": "A5024518185"
+        },
+        {
+          "name": "Elhadji Malick Mbaye",
+          "id": "A5090561245"
+        },
+        {
+          "name": "Celso Vataru Nakamura",
+          "id": "A5015862647"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Evan A. Scott",
+          "id": "A5037038581"
+        }
+      ],
+      "venue": "Biomaterials"
+    },
+    "W2111154515": {
+      "id": "W2111154515",
+      "title": "The significance of autoimmunity in the pathogenesis of chagas heart disease",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Frontiers in bioscience"
+    },
+    "W2145450205": {
+      "id": "W2145450205",
+      "title": "Captopril Prevents Experimental Autoimmune Myocarditis",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "Jamie L. Fornek",
+          "id": "A5084478313"
+        },
+        {
+          "name": "Agostino Molteni",
+          "id": "A5111433592"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "The Journal of Immunology"
+    },
+    "W1591530312": {
+      "id": "W1591530312",
+      "title": "Cardiac antigen-specific autoantibody production is associated with cardiomyopathy in Trypanosoma cruzi-infected mice.",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Randal S. Tibbetts",
+          "id": "A5084757072"
+        },
+        {
+          "name": "Thomas S. McCormick",
+          "id": "A5081014269"
+        },
+        {
+          "name": "Edwin C. Rowland",
+          "id": "A5049675231"
+        },
+        {
+          "name": "Stephen D. Miller",
+          "id": "A5101629302"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "The Journal of Immunology"
+    },
+    "W1518789549": {
+      "id": "W1518789549",
+      "title": "Ubiquitin genes in trypanosomatidae.",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Louis V. Kirchhoff",
+          "id": "A5084639477"
+        },
+        {
+          "name": "K S Kim",
+          "id": "A5078344550"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "J E Donelson",
+          "id": "A5110171103"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W2121573278": {
+      "id": "W2121573278",
+      "title": "Modulation of Autoimmunity by Treatment of an Infectious Disease",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Kenneth V. Hyland",
+          "id": "A5050431119"
+        },
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "Nick Giafis",
+          "id": "A5065247226"
+        },
+        {
+          "name": "LaKitta M. Woods",
+          "id": "A5001757646"
+        },
+        {
+          "name": "Thomas J. Bahk",
+          "id": "A5070077231"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Infection and Immunity"
+    },
+    "W2101232391": {
+      "id": "W2101232391",
+      "title": "Calflagin Inhibition Prolongs Host Survival and Suppresses Parasitemia in Trypanosoma brucei Infection",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Brian T. Emmer",
+          "id": "A5020724887"
+        },
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "Joann M. Taylor",
+          "id": "A5113681666"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Eukaryotic Cell"
+    },
+    "W2010208991": {
+      "id": "W2010208991",
+      "title": "Molecular Determinants of Ciliary Membrane Localization of Trypanosoma cruzi Flagellar Calcium-binding Protein",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Danijela Maric",
+          "id": "A5031614986"
+        },
+        {
+          "name": "Bradford S. McGwire",
+          "id": "A5021827693"
+        },
+        {
+          "name": "Kathryn T. Buchanan",
+          "id": "A5013058257"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Brian T. Emmer",
+          "id": "A5020724887"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W3022674989": {
+      "id": "W3022674989",
+      "title": "Precision Health for Chagas Disease: Integrating Parasite and Host Factors to Predict Outcome of Infection and Response to Therapy",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Santiago Mart\u00ednez",
+          "id": "A5070972621"
+        },
+        {
+          "name": "Patricia Silvia Romano",
+          "id": "A5055997876"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Frontiers in Cellular and Infection Microbiology"
+    },
+    "W3135769363": {
+      "id": "W3135769363",
+      "title": "TMPRSS2 activity may mediate sex differences in COVID-19 severity",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Derick Okwan\u2010Duodu",
+          "id": "A5076247044"
+        },
+        {
+          "name": "Eun-Cheon Lim",
+          "id": "A5090355402"
+        },
+        {
+          "name": "Sungyong You",
+          "id": "A5057065367"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Signal Transduction and Targeted Therapy"
+    },
+    "W1547753251": {
+      "id": "W1547753251",
+      "title": "Molecular and biochemical comparison of the 70-kDa heat shock proteins of Trypanosoma cruzi.",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Kari C. Nadeau",
+          "id": "A5028760615"
+        },
+        {
+          "name": "Mary Anne Sullivan",
+          "id": "A5063153741"
+        },
+        {
+          "name": "Andrea Winquist",
+          "id": "A5029565846"
+        },
+        {
+          "name": "J E Donelson",
+          "id": "A5110171103"
+        },
+        {
+          "name": "C T Walsh",
+          "id": "A5109135850"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W2114192257": {
+      "id": "W2114192257",
+      "title": "Recombinant cardiac myosin fragment induces experimental autoimmune myocarditis via activation of Th1 and Th17 immunity",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "Kenneth V. Hyland",
+          "id": "A5050431119"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Autoimmunity"
+    },
+    "W2123524472": {
+      "id": "W2123524472",
+      "title": "Comparison of angiotensin converting enzyme inhibition and angiotensin II receptor blockade for the prevention of experimental autoimmune myocarditis",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Thomas J. Bahk",
+          "id": "A5070077231"
+        },
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "International Journal of Cardiology"
+    },
+    "W2023847294": {
+      "id": "W2023847294",
+      "title": "Acylation-dependent Export of Trypanosoma cruzi Phosphoinositide-specific Phospholipase C to the Outer Surface of Amastigotes",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Vicente de Paulo Martins",
+          "id": "A5032394490"
+        },
+        {
+          "name": "Michael Okura",
+          "id": "A5043864014"
+        },
+        {
+          "name": "Danijela Maric",
+          "id": "A5031614986"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Maur\u00edcio Vieira",
+          "id": "A5101048468"
+        },
+        {
+          "name": "Roberto Docampo",
+          "id": "A5000842323"
+        },
+        {
+          "name": "Silvia N.J. Moreno",
+          "id": "A5103343731"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W1979937549": {
+      "id": "W1979937549",
+      "title": "Heat-Killed Trypanosoma cruzi Induces Acute Cardiac Damage and Polyantigenic Autoimmunity",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Kevin M. Bonney",
+          "id": "A5017766791"
+        },
+        {
+          "name": "Joann M. Taylor",
+          "id": "A5113681666"
+        },
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "PLoS ONE"
+    },
+    "W2033549129": {
+      "id": "W2033549129",
+      "title": "Acylation in trypanosomatids: an essential process and potential drug target",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Amanda M. Goldston",
+          "id": "A5089099435"
+        },
+        {
+          "name": "Aabha Sharma",
+          "id": "A5002029548"
+        },
+        {
+          "name": "Kimberly S. Paul",
+          "id": "A5000336321"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Trends in Parasitology"
+    },
+    "W4296169250": {
+      "id": "W4296169250",
+      "title": "Leishmaniasis and Chagas disease: Is there hope in nanotechnology to fight neglected tropical diseases?",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "D\u00e9bora B. Scariot",
+          "id": "A5083878959"
+        },
+        {
+          "name": "Austeja Staneviciute",
+          "id": "A5041445557"
+        },
+        {
+          "name": "Jennifer Zhu",
+          "id": "A5045774873"
+        },
+        {
+          "name": "Xiaomo Li",
+          "id": "A5053050802"
+        },
+        {
+          "name": "Evan A. Scott",
+          "id": "A5037038581"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Frontiers in Cellular and Infection Microbiology"
+    },
+    "W1970184330": {
+      "id": "W1970184330",
+      "title": "Captopril Ameliorates Myocarditis in Acute Experimental Chagas Disease",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Circulation"
+    },
+    "W2171359504": {
+      "id": "W2171359504",
+      "title": "A Cardiac Myosin-Specific Autoimmune Response Is Induced by Immunization with<i>Trypanosoma cruzi</i>Proteins",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "Krista M. Toriello",
+          "id": "A5055117529"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Infection and Immunity"
+    },
+    "W2155132999": {
+      "id": "W2155132999",
+      "title": "Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Antagonists in Experimental Myocarditis",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Current Pharmaceutical Design"
+    },
+    "W1973970074": {
+      "id": "W1973970074",
+      "title": "Comparison of HSP70 genes from two strains of Trypanosoma cruzi",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "S R Sias",
+          "id": "A5088097801"
+        },
+        {
+          "name": "Jeffrey D. Gabe",
+          "id": "A5076468571"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        },
+        {
+          "name": "Elizabeth A. Dragon",
+          "id": "A5033154294"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2022658325": {
+      "id": "W2022658325",
+      "title": "Composition and sensory function of the trypanosome flagellar membrane",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Danijela Maric",
+          "id": "A5031614986"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Current Opinion in Microbiology"
+    },
+    "W2591227622": {
+      "id": "W2591227622",
+      "title": "Dynamic protein<i>S</i>-palmitoylation mediates parasite life cycle progression and diverse mechanisms of virulence",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "R.W. Brown",
+          "id": "A5052168315"
+        },
+        {
+          "name": "Aabha Sharma",
+          "id": "A5002029548"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Critical Reviews in Biochemistry and Molecular Biology"
+    },
+    "W2117772797": {
+      "id": "W2117772797",
+      "title": "Utility of recombinant flagellar calcium-binding protein for serodiagnosis of Trypanosoma cruzi infection",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Randal S. Tibbetts",
+          "id": "A5084757072"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Bernard M. Chaudoir",
+          "id": "A5051168399"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Clinical Microbiology"
+    },
+    "W2407493707": {
+      "id": "W2407493707",
+      "title": "Human antibody responses to Trypanosoma cruzi 70-kD heat-shock proteins.",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Greice M. Krautz",
+          "id": "A5066358353"
+        },
+        {
+          "name": "Jeffrey D. Peterson",
+          "id": "A5017239432"
+        },
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Antoniana U. Krettli",
+          "id": "A5035925245"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "American Journal of Tropical Medicine and Hygiene"
+    },
+    "W2035073748": {
+      "id": "W2035073748",
+      "title": "A mitochondrial heat shock protein from Crithidia fasciculata",
+      "year": 1993,
+      "authors": [
+        {
+          "name": "Philip N. Effron",
+          "id": "A5083381777"
+        },
+        {
+          "name": "Al F. Torri",
+          "id": "A5046127029"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        },
+        {
+          "name": "Paul T. Englund",
+          "id": "A5072571167"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2082370402": {
+      "id": "W2082370402",
+      "title": "83\u2010Kilodalton heat shock proteins of trypanosomes are potent peptide\u2010stimulated ATPases",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "Kari C. Nadeau",
+          "id": "A5028760615"
+        },
+        {
+          "name": "Christopher T. Walsh",
+          "id": "A5060579310"
+        },
+        {
+          "name": "Mark Bradley",
+          "id": "A5017198334"
+        },
+        {
+          "name": "Mary Anne Sullivan",
+          "id": "A5063153741"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Protein Science"
+    },
+    "W2078581083": {
+      "id": "W2078581083",
+      "title": "A Flagellum-specific Calcium Sensor",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Kathryn T. Buchanan",
+          "id": "A5013058257"
+        },
+        {
+          "name": "James B. Ames",
+          "id": "A5057047177"
+        },
+        {
+          "name": "Sofya H. Asfaw",
+          "id": "A5044576573"
+        },
+        {
+          "name": "Jennifer N. Wingard",
+          "id": "A5111966202"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Patr\u00edcia T. Campana",
+          "id": "A5065721595"
+        },
+        {
+          "name": "Ana Paula Ulian de Ara\u00fajo",
+          "id": "A5033752129"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W2124557384": {
+      "id": "W2124557384",
+      "title": "Myosin Autoimmunity Is Not Essential for Cardiac Inflammation in Acute Chagas\u2019 Disease",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "The Journal of Immunology"
+    },
+    "W2098928403": {
+      "id": "W2098928403",
+      "title": "Structural Insights into Membrane Targeting by the Flagellar Calcium-binding Protein (FCaBP), a Myristoylated and Palmitoylated Calcium Sensor in Trypanosoma cruzi",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Jennifer N. Wingard",
+          "id": "A5111966202"
+        },
+        {
+          "name": "Jane E. Ladner",
+          "id": "A5033280701"
+        },
+        {
+          "name": "Murugendra Vanarotti",
+          "id": "A5034919787"
+        },
+        {
+          "name": "Andrew J. Fisher",
+          "id": "A5072463678"
+        },
+        {
+          "name": "Howard Robinson",
+          "id": "A5078223433"
+        },
+        {
+          "name": "Kathryn T. Buchanan",
+          "id": "A5013058257"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "James B. Ames",
+          "id": "A5057047177"
+        }
+      ],
+      "venue": "Journal of Biological Chemistry"
+    },
+    "W2053593320": {
+      "id": "W2053593320",
+      "title": "Depletion of regulatory T cells decreases cardiac parasitosis and inflammation in experimental Chagas disease",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Kevin M. Bonney",
+          "id": "A5017766791"
+        },
+        {
+          "name": "Joann M. Taylor",
+          "id": "A5113681666"
+        },
+        {
+          "name": "Edward B. Thorp",
+          "id": "A5027947816"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Parasitology Research"
+    },
+    "W2240752242": {
+      "id": "W2240752242",
+      "title": "Molecular cloning and characterization of the 78-kilodalton glucose-regulated protein of Trypanosoma cruzi",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Randal S. Tibbetts",
+          "id": "A5084757072"
+        },
+        {
+          "name": "I Y Kim",
+          "id": "A5010484377"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Lennart Barthel",
+          "id": "A5089069618"
+        },
+        {
+          "name": "Mary Anne Sullivan",
+          "id": "A5063153741"
+        },
+        {
+          "name": "Andrea Winquist",
+          "id": "A5029565846"
+        },
+        {
+          "name": "Shane Miller",
+          "id": "A5109312478"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Infection and Immunity"
+    },
+    "W2164608711": {
+      "id": "W2164608711",
+      "title": "Responsive microtubule dynamics promote cell invasion by Trypanosoma cruzi",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Kevin M. Tyler",
+          "id": "A5025730534"
+        },
+        {
+          "name": "G.W. Gant Luxton",
+          "id": "A5042822136"
+        },
+        {
+          "name": "Derek A. Applewhite",
+          "id": "A5048373307"
+        },
+        {
+          "name": "Sean C. Murphy",
+          "id": "A5054620494"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Cellular Microbiology"
+    },
+    "W2071927077": {
+      "id": "W2071927077",
+      "title": "Endothelial Transmigration by Trypanosoma cruzi",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Bria M. Coates",
+          "id": "A5011813076"
+        },
+        {
+          "name": "David P. Sullivan",
+          "id": "A5024718512"
+        },
+        {
+          "name": "Ming Y. Makanji",
+          "id": "A5085019303"
+        },
+        {
+          "name": "Nga Du",
+          "id": "A5102311931"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "William A. M\u00fcller",
+          "id": "A5043301854"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        }
+      ],
+      "venue": "PLoS ONE"
+    },
+    "W2160351250": {
+      "id": "W2160351250",
+      "title": "Flagellar elongation induced by glucose limitation is preadaptive forTrypanosoma cruzi differentiation",
+      "year": 2000,
+      "authors": [
+        {
+          "name": "Kevin M. Tyler",
+          "id": "A5025730534"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Cell Motility and the Cytoskeleton"
+    },
+    "W1989374170": {
+      "id": "W1989374170",
+      "title": "Prevention of Autoimmune Myocarditis Through the Induction of Antigen-Specific Peripheral Immune Tolerance",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "Beth A. Schodin",
+          "id": "A5040656659"
+        },
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "Stephen D. Miller",
+          "id": "A5101629302"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Circulation"
+    },
+    "W1482227222": {
+      "id": "W1482227222",
+      "title": "The Life Cycle Of Trypanosoma Cruzi",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Kevin M. Tyler",
+          "id": "A5025730534"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "World class parasites"
+    },
+    "W4248739998": {
+      "id": "W4248739998",
+      "title": "Molecular Cloning of mtp70, a Mitochondrial Member of the hsp70 Family",
+      "year": 1989,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Louis V. Kirchhoff",
+          "id": "A5084639477"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        }
+      ],
+      "venue": "Molecular and Cellular Biology"
+    },
+    "W1985722151": {
+      "id": "W1985722151",
+      "title": "Further thoughts on where we stand on the autoimmunity hypothesis of Chagas disease",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Kenneth V. Hyland",
+          "id": "A5050431119"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Trends in Parasitology"
+    },
+    "W1780854908": {
+      "id": "W1780854908",
+      "title": "Emerging Chagas Disease",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Antonio Teixeira",
+          "id": "A5102589164"
+        },
+        {
+          "name": "Marina Clare Vinaud",
+          "id": "A5065064900"
+        },
+        {
+          "name": "Ana Mar\u00eda Castro",
+          "id": "A5106034766"
+        },
+        {
+          "name": "Jo\u00e3o Carlos Pinto Dias",
+          "id": "A5101690762"
+        },
+        {
+          "name": "Christopher J. Schofield",
+          "id": "A5042398293"
+        },
+        {
+          "name": "Rubens J Nascimento",
+          "id": "A5006570259"
+        },
+        {
+          "name": "Nancy R. Sturm",
+          "id": "A5037875924"
+        },
+        {
+          "name": "Marina Claude Vinaud",
+          "id": "A5111487395"
+        },
+        {
+          "name": "Lil\u00e9ia Diotaiuti",
+          "id": "A5042441858"
+        },
+        {
+          "name": "Wanderley de Souza",
+          "id": "A5014123016"
+        },
+        {
+          "name": "Kildare Miranda",
+          "id": "A5014536558"
+        },
+        {
+          "name": "Narcisa L. Cunha\u2010e\u2010Silva",
+          "id": "A5007100734"
+        },
+        {
+          "name": "Tha\u00efs Souto-Padr\u00f3n",
+          "id": "A5088739089"
+        },
+        {
+          "name": "David A. Campbell",
+          "id": "A5022135015"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "Kevin M. Bonney",
+          "id": "A5017766791"
+        },
+        {
+          "name": "Maur\u00edcio M. Rodrigues",
+          "id": "A5103434899"
+        },
+        {
+          "name": "Bruna Cunha de Alencar",
+          "id": "A5083200574"
+        },
+        {
+          "name": "Jos\u00e9 Ronnie Vasconcelos",
+          "id": "A5068358425"
+        },
+        {
+          "name": "Fernando Pimentel-Santos",
+          "id": "A5043668531"
+        },
+        {
+          "name": "Ciro Cordeiro",
+          "id": "A5047824510"
+        },
+        {
+          "name": "Nadjar Nitz",
+          "id": "A5071691409"
+        },
+        {
+          "name": "Mariana Hecht",
+          "id": "A5040865925"
+        },
+        {
+          "name": "Liana Lauria\u2010Pires",
+          "id": "A5066560833"
+        },
+        {
+          "name": "Ana de C\u00e1ssia Rosa",
+          "id": "A5025812288"
+        },
+        {
+          "name": "Cleudson Castro",
+          "id": "A5049105107"
+        },
+        {
+          "name": "Izabela Marques Dourado Bastos",
+          "id": "A5083256606"
+        },
+        {
+          "name": "David Neves",
+          "id": "A5109467316"
+        },
+        {
+          "name": "Meire M. Lima",
+          "id": "A5075211230"
+        },
+        {
+          "name": "Jaime M. Santana",
+          "id": "A5024929522"
+        },
+        {
+          "name": "Cl\u00e9ver Gomes Cardoso",
+          "id": "A5050297977"
+        },
+        {
+          "name": "Silene P. Lozzi",
+          "id": "A5029338728"
+        },
+        {
+          "name": "Pedro Sadi Monteiro",
+          "id": "A5103127605"
+        },
+        {
+          "name": "Ana Bussacos",
+          "id": "A5079244788"
+        },
+        {
+          "name": "Concepta McManus",
+          "id": "A5110796250"
+        },
+        {
+          "name": "Alessandro O. Sousa",
+          "id": "A5111974797"
+        }
+      ],
+      "venue": "BENTHAM SCIENCE PUBLISHERS eBooks"
+    },
+    "W2095951936": {
+      "id": "W2095951936",
+      "title": "Sphingosine Kinase Regulates Microtubule Dynamics and Organelle Positioning Necessary for Proper G <sub>1</sub> /S Cell Cycle Transition in Trypanosoma brucei",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Deborah A. Pasternack",
+          "id": "A5050031349"
+        },
+        {
+          "name": "Aabha Sharma",
+          "id": "A5002029548"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "mBio"
+    },
+    "W2007851663": {
+      "id": "W2007851663",
+      "title": "The gene family encoding eggshell proteins of Schistosoma japonicum",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "Kimberly J. Henkle",
+          "id": "A5043285511"
+        },
+        {
+          "name": "George A. Cook",
+          "id": "A5109191921"
+        },
+        {
+          "name": "Lewis A. Foster",
+          "id": "A5032376945"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Libuse A. Bobek",
+          "id": "A5029624363"
+        },
+        {
+          "name": "George D. Cain",
+          "id": "A5044983218"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2138207184": {
+      "id": "W2138207184",
+      "title": "Effects of cannabinoid treatment on Chagas disease pathogenesis: balancing inhibition of parasite invasion and immunosuppression",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "J. Ludovic Croxford",
+          "id": "A5103127225"
+        },
+        {
+          "name": "Kegiang Wang",
+          "id": "A5041185222"
+        },
+        {
+          "name": "Stephen D. Miller",
+          "id": "A5101629302"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Kevin M. Tyler",
+          "id": "A5025730534"
+        }
+      ],
+      "venue": "Cellular Microbiology"
+    },
+    "W2749958405": {
+      "id": "W2749958405",
+      "title": "Sterol targeting drugs reveal life cycle stage-specific differences in trypanosome lipid rafts",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Aabha Sharma",
+          "id": "A5002029548"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Jo\u00e3o I. Mamede",
+          "id": "A5054537957"
+        },
+        {
+          "name": "Felipe Gazos\u2010Lopes",
+          "id": "A5005691190"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "Igor C. Almeida",
+          "id": "A5054601444"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Scientific Reports"
+    },
+    "W2061734033": {
+      "id": "W2061734033",
+      "title": "Expression and localization of Trypanosoma cruzi hsp60",
+      "year": 1994,
+      "authors": [
+        {
+          "name": "Mary Anne Sullivan",
+          "id": "A5063153741"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Andrea Winquist",
+          "id": "A5029565846"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2026272592": {
+      "id": "W2026272592",
+      "title": "Cardiac damage induced by immunization with heat\u2010killed <i><scp>T</scp>rypanosoma cruzi</i> is not antibody mediated",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Kevin M. Bonney",
+          "id": "A5017766791"
+        },
+        {
+          "name": "Kathleen M. Gifford",
+          "id": "A5054293961"
+        },
+        {
+          "name": "Joshua Taylor",
+          "id": "A5113977226"
+        },
+        {
+          "name": "C.\u2010I. Chen",
+          "id": "A5056235579"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Parasite Immunology"
+    },
+    "W3048249416": {
+      "id": "W3048249416",
+      "title": "Comparison of Large, Medium, and Small Solid Tumor Gene Panels for Detection of Clinically Actionable Mutations in Cancer",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Eric Vail",
+          "id": "A5008136455"
+        },
+        {
+          "name": "Jianbo Song",
+          "id": "A5053509566"
+        },
+        {
+          "name": "Jing Xu",
+          "id": "A5100380898"
+        },
+        {
+          "name": "Joseph S. Frye",
+          "id": "A5044180224"
+        },
+        {
+          "name": "Jong Taek Kim",
+          "id": "A5027119917"
+        },
+        {
+          "name": "Andy Pao",
+          "id": "A5005807879"
+        },
+        {
+          "name": "Rhona Schreck",
+          "id": "A5047491009"
+        },
+        {
+          "name": "Angela Aguiluz",
+          "id": "A5030729742"
+        },
+        {
+          "name": "Wenjuan Zhang",
+          "id": "A5048078914"
+        },
+        {
+          "name": "Serhan Alkan",
+          "id": "A5061424361"
+        },
+        {
+          "name": "Alain C. Mita",
+          "id": "A5000961519"
+        },
+        {
+          "name": "Monica Mita",
+          "id": "A5109341340"
+        },
+        {
+          "name": "Robert A. Figlin",
+          "id": "A5050649350"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Jean Lopategui",
+          "id": "A5112067418"
+        }
+      ],
+      "venue": "Targeted Oncology"
+    },
+    "W1983323106": {
+      "id": "W1983323106",
+      "title": "Trypanosoma cruzi heat-shock protein 90 can functionally complement yeast",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Gaby Palmer",
+          "id": "A5043061105"
+        },
+        {
+          "name": "Jean-Fran\u00e7ois Louvion",
+          "id": "A5089332774"
+        },
+        {
+          "name": "Randal S. Tibbetts",
+          "id": "A5084757072"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Didier Picard",
+          "id": "A5045503547"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2062688139": {
+      "id": "W2062688139",
+      "title": "Specific functional domains of mitochondrial hsp70s suggested by sequence comparison of the trypanosome and yeast proteins",
+      "year": 1992,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Stephen C. Fehr",
+          "id": "A5079523356"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2746628736": {
+      "id": "W2746628736",
+      "title": "The Lipid Raft Proteome of African Trypanosomes Contains Many Flagellar Proteins",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Aabha Sharma",
+          "id": "A5002029548"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Pathogens"
+    },
+    "W1976131495": {
+      "id": "W1976131495",
+      "title": "Homologues of the 24-kDa Flagellar Ca2+-Binding Protein Gene ofTrypanosoma cruziAre Present in Other Members of the Trypanosomatidae Family",
+      "year": 1997,
+      "authors": [
+        {
+          "name": "Rosa A. Maldonado",
+          "id": "A5074005980"
+        },
+        {
+          "name": "Jutta Linss",
+          "id": "A5108502198"
+        },
+        {
+          "name": "Neide Thomaz",
+          "id": "A5111597767"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Samuel Goldenberg",
+          "id": "A5031222519"
+        }
+      ],
+      "venue": "Experimental Parasitology"
+    },
+    "W1553886681": {
+      "id": "W1553886681",
+      "title": "The DnaJ family of protein chaperones in Trypanosoma cruzi1Note: Nucleotide sequence data reported in this paper have been submitted to the GenBank\u2122 data base with the following accession numbers: tcj1, L42541; tcj2, L42549; tcj3, L46818; tcj4, L46819.1",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "Randal S. Tibbetts",
+          "id": "A5084757072"
+        },
+        {
+          "name": "Jennifer Jensen",
+          "id": "A5002480046"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Fred D. Wang",
+          "id": "A5089752450"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W3190015463": {
+      "id": "W3190015463",
+      "title": "Repurposing Carvedilol as a Novel Inhibitor of the Trypanosoma cruzi Autophagy Flux That Affects Parasite Replication and Survival",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Cynthia Vanesa Rivero",
+          "id": "A5026364553"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "id": "A5070972621"
+        },
+        {
+          "name": "Paul Novick",
+          "id": "A5006544890"
+        },
+        {
+          "name": "Juan Agust\u00edn Cueto",
+          "id": "A5103833682"
+        },
+        {
+          "name": "Betiana Neba\u00ed Salassa",
+          "id": "A5034772424"
+        },
+        {
+          "name": "Mar\u00eda Cristina Vanrell",
+          "id": "A5106733469"
+        },
+        {
+          "name": "Xiaomo Li",
+          "id": "A5053050802"
+        },
+        {
+          "name": "Carlos A. Labriola",
+          "id": "A5079753469"
+        },
+        {
+          "name": "Luis Mariano Polo",
+          "id": "A5036851293"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Joachim Clos",
+          "id": "A5017715882"
+        },
+        {
+          "name": "Patricia Silvia Romano",
+          "id": "A5055997876"
+        }
+      ],
+      "venue": "Frontiers in Cellular and Infection Microbiology"
+    },
+    "W2113422555": {
+      "id": "W2113422555",
+      "title": "Identification of calcium binding sites in the trypanosome flagellar calcium-acyl switch protein",
+      "year": 1999,
+      "authors": [
+        {
+          "name": "Rosa A. Maldonado",
+          "id": "A5074005980"
+        },
+        {
+          "name": "Salida Mirzoeva",
+          "id": "A5007683324"
+        },
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Thomas J. Lukas",
+          "id": "A5113801954"
+        },
+        {
+          "name": "Samuel Goldenberg",
+          "id": "A5031222519"
+        },
+        {
+          "name": "D. Martin Watterson",
+          "id": "A5102889646"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W1979245092": {
+      "id": "W1979245092",
+      "title": "A Rapid Method for Protein Localization in Trypanosomes",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Randal S. Tibbetts",
+          "id": "A5084757072"
+        },
+        {
+          "name": "Kathy Klein",
+          "id": "A5048700633"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Experimental Parasitology"
+    },
+    "W2000667938": {
+      "id": "W2000667938",
+      "title": "Mitochondrial heat shock protein 70 is distributed throughout the mitochondrion in a dyskinetoplastic mutant of Trypanosoma brucei",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Karin Klein",
+          "id": "A5076468927"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W2045859626": {
+      "id": "W2045859626",
+      "title": "Flagellar membrane trafficking in kinetoplastids",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Alina Fridberg",
+          "id": "A5050509989"
+        },
+        {
+          "name": "Kathryn T. Buchanan",
+          "id": "A5013058257"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Parasitology Research"
+    },
+    "W2078187003": {
+      "id": "W2078187003",
+      "title": "Corrigendum to \u201cMolecular mechanisms of host cell invasion by Trypanosoma cruzi\u201d [Exp. Parasitol. 126 (2010) 283\u2013291]",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "Bria M. Coates",
+          "id": "A5011813076"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Experimental Parasitology"
+    },
+    "W2164508115": {
+      "id": "W2164508115",
+      "title": "NMR structure of the calflagin Tb24 flagellar calcium binding protein of <i>Trypanosoma brucei</i>",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Xianzhong Xu",
+          "id": "A5102098648"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "James B. Ames",
+          "id": "A5057047177"
+        }
+      ],
+      "venue": "Protein Science"
+    },
+    "W2901902445": {
+      "id": "W2901902445",
+      "title": "Carcinoid tumors of the thymus and Cushing's syndrome: Clinicopathologic features and current best evidence regarding the cell of origin of these unusual neoplasms",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Ann E. Walts",
+          "id": "A5017705483"
+        },
+        {
+          "name": "Joseph S. Frye",
+          "id": "A5044180224"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Alberto M. Marchevsky",
+          "id": "A5017851059"
+        }
+      ],
+      "venue": "Annals of Diagnostic Pathology"
+    },
+    "W3161491831": {
+      "id": "W3161491831",
+      "title": "Nanocarrier-enhanced intracellular delivery of benznidazole for treatment of Trypanosoma cruzi infection",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Xiaomo Li",
+          "id": "A5053050802"
+        },
+        {
+          "name": "Sijia Yi",
+          "id": "A5001914054"
+        },
+        {
+          "name": "D\u00e9bora B. Scariot",
+          "id": "A5083878959"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "id": "A5070972621"
+        },
+        {
+          "name": "Ben Falk",
+          "id": "A5016012968"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Patricia Silvia Romano",
+          "id": "A5055997876"
+        },
+        {
+          "name": "Evan A. Scott",
+          "id": "A5037038581"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "JCI Insight"
+    },
+    "W1991971973": {
+      "id": "W1991971973",
+      "title": "Molecular Comparison of the Mitochondrial and Cytoplasmic hsp 70 of <i>Trypanosoma cruzi, Trypanosoma brucei</i> and <i>Leishmania major</i>",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Karin Klein",
+          "id": "A5076468927"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "John E. Donelson",
+          "id": "A5105359901"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Eukaryotic Microbiology"
+    },
+    "W2134265215": {
+      "id": "W2134265215",
+      "title": "Treatment of Experimental Myocarditis via Modulation of the Renin-Angiotensin System",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Melvin D. Daniels",
+          "id": "A5048456055"
+        },
+        {
+          "name": "Kenneth V. Hyland",
+          "id": "A5050431119"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Current Pharmaceutical Design"
+    },
+    "W2028796021": {
+      "id": "W2028796021",
+      "title": "1H, 15N, and 13C chemical shift assignments of the calflagin Tb24 flagellar calcium binding protein of Trypanosoma brucei",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Xianzhong Xu",
+          "id": "A5102098648"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "James B. Ames",
+          "id": "A5057047177"
+        }
+      ],
+      "venue": "Biomolecular NMR Assignments"
+    },
+    "W2251620070": {
+      "id": "W2251620070",
+      "title": "Calcium-dependent membrane association of a flagellar calcium sensor does not require calcium binding",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Danijela Maric",
+          "id": "A5031614986"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Xianzhong Xu",
+          "id": "A5102098648"
+        },
+        {
+          "name": "James B. Ames",
+          "id": "A5057047177"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Molecular and Biochemical Parasitology"
+    },
+    "W1972639520": {
+      "id": "W1972639520",
+      "title": "Comparison of the 24 kDa Flagellar Calcium\u2010Binding Protein cDNA of Two Strains of <i>Trypanosoma cruzi</i>",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "Lisa M. Godsel",
+          "id": "A5011847077"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Z.G.M. Lacava",
+          "id": "A5081743565"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Journal of Eukaryotic Microbiology"
+    },
+    "W2118051539": {
+      "id": "W2118051539",
+      "title": "TcDJ1, a putative mitochondrial DnaJ protein in Trypanosoma cruzi1",
+      "year": 1998,
+      "authors": [
+        {
+          "name": "M\u00c3 \u0301nica A.C Carreira",
+          "id": "A5039620691"
+        },
+        {
+          "name": "Randal S. Tibbetts",
+          "id": "A5084757072"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Cristoph Schuster",
+          "id": "A5004823333"
+        },
+        {
+          "name": "Manfred Renz",
+          "id": "A5110420417"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Samuel Goldenberg",
+          "id": "A5031222519"
+        }
+      ],
+      "venue": "FEMS Microbiology Letters"
+    },
+    "W67559892": {
+      "id": "W67559892",
+      "title": "The Contribution of Autoimmunity to Chagas Heart Disease",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Juan S. Le\u00f3n",
+          "id": "A5034907212"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "World class parasites"
+    },
+    "W4403071495": {
+      "id": "W4403071495",
+      "title": "B-040 Direct Aspiration of Cryogenic Matrix Tubes on the Siemens Atellica System With Epic-Beaker Integration of External Barcode IDs for Analysis Small Volume Biobanked Specimens",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Steven W. Cotten",
+          "id": "A5044283170"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Peter A. Thomas",
+          "id": "A5029521413"
+        }
+      ],
+      "venue": "Clinical Chemistry"
+    },
+    "W2754077401": {
+      "id": "W2754077401",
+      "title": "Cell Cycle Inhibition To Treat Sleeping Sickness",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "Brian T. Emmer",
+          "id": "A5020724887"
+        },
+        {
+          "name": "Nga Du",
+          "id": "A5102311931"
+        },
+        {
+          "name": "Joann M. Taylor",
+          "id": "A5113681666"
+        },
+        {
+          "name": "Ming Y. Makanji",
+          "id": "A5085019303"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "mBio"
+    },
+    "W4307704584": {
+      "id": "W4307704584",
+      "title": "Trypanosoma brucei Acyl-Protein Thioesterase-like (TbAPT-L) Is a Lipase with Esterase Activity for Short and Medium-Chain Fatty Acids but Has No Depalmitoylation Activity",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "R.W. Brown",
+          "id": "A5052168315"
+        },
+        {
+          "name": "Aabha Sharma",
+          "id": "A5002029548"
+        },
+        {
+          "name": "Miguel Rey Villanueva",
+          "id": "A5069671414"
+        },
+        {
+          "name": "Xiaomo Li",
+          "id": "A5053050802"
+        },
+        {
+          "name": "Ouma Onguka",
+          "id": "A5056654256"
+        },
+        {
+          "name": "Leeor Zilbermintz",
+          "id": "A5059043348"
+        },
+        {
+          "name": "Helen Nguyen",
+          "id": "A5037128263"
+        },
+        {
+          "name": "Ben Falk",
+          "id": "A5016012968"
+        },
+        {
+          "name": "Cheryl L. Olson",
+          "id": "A5076383644"
+        },
+        {
+          "name": "Joann M. Taylor",
+          "id": "A5113681666"
+        },
+        {
+          "name": "Conrad L. Epting",
+          "id": "A5085824079"
+        },
+        {
+          "name": "Rahul S. Kathayat",
+          "id": "A5058410778"
+        },
+        {
+          "name": "Neri Amara",
+          "id": "A5061451532"
+        },
+        {
+          "name": "Bryan C. Dickinson",
+          "id": "A5003388702"
+        },
+        {
+          "name": "Matthew Bogyo",
+          "id": "A5005853846"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Pathogens"
+    },
+    "W1976208094": {
+      "id": "W1976208094",
+      "title": "Trypanosoma cruzi: Accumulation of Polycistronic hsp70 RNAs during Severe Heat Shock",
+      "year": 1995,
+      "authors": [
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Kimberly Henkle\u2010D\u00fchrsen",
+          "id": "A5080768886"
+        },
+        {
+          "name": "Louis V. Kirchhoff",
+          "id": "A5084639477"
+        },
+        {
+          "name": "J E Donelson",
+          "id": "A5110171103"
+        }
+      ],
+      "venue": "Experimental Parasitology"
+    }
+  },
+  "author_id_to_label": {
+    "A5047332247": "0",
+    "A5009418494": "1"
+  }
+}
