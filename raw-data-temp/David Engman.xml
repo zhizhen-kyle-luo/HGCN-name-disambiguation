@@ -257,11 +257,29 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
+		<title>Precision Health for Chagas Disease: Integrating Parasite and Host Factors to Predict Outcome of Infection and Response to Therapy</title>
+		<year>2020</year>
+		<authors>Santiago Martínez, Patricia Silvia Romano, David M. Engman</authors>
+		<jconf>Frontiers in Cellular and Infection Microbiology</jconf>
+		<id>W3022674989</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
 		<title>Efficacy of Benznidazole Delivery During Chagas Disease Nanotherapy is Dependent on the Nanocarrier Morphology</title>
 		<year>2025</year>
-		<authors>Débora B. Scariot, Austeja Staneviciute, Rayanne Regina Beltrame Machado, Simseok A. Yuk, Yugang Liu, Swagat Sharma, Sultan Almunif, Elhadji Malick Mbaye, Celso Vataru Nakamura, David M. Engman, Evan A. Scott</authors>
+		<authors>Débora B. Scariot, Austeja Staneviciute, Rayanne Regina Beltrame Machado, Simseok A. Yuk, Yugang Liu, Swagat Sharma, Sultan Almunif, El Hadji Arona Mbaye, Celso Vataru Nakamura, David M. Engman, Evan A. Scott</authors>
 		<jconf>Biomaterials</jconf>
 		<id>W4409687395</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Dual Treatment of Chronic Chagasic Cardiomyopathy and Parasitic Burden via Combination Nanotherapy</title>
+		<year>2025</year>
+		<authors>Austeja Staneviciute, Débora B. Scariot, Yugang Liu, Qian Yuan, Swagat Sharma, El Hadji Arona Mbaye, Sultan Almunif, David M. Engman, Evan A. Scott</authors>
+		<jconf>ACS Nano</jconf>
+		<id>W4409784546</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>
@@ -329,20 +347,20 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
-		<title>Precision Health for Chagas Disease: Integrating Parasite and Host Factors to Predict Outcome of Infection and Response to Therapy</title>
-		<year>2020</year>
-		<authors>Santiago Martínez, Patricia Silvia Romano, David M. Engman</authors>
-		<jconf>Frontiers in Cellular and Infection Microbiology</jconf>
-		<id>W3022674989</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
 		<title>TMPRSS2 activity may mediate sex differences in COVID-19 severity</title>
 		<year>2021</year>
 		<authors>Derick Okwan‐Duodu, Eun-Cheon Lim, Sungyong You, David M. Engman</authors>
 		<jconf>Signal Transduction and Targeted Therapy</jconf>
 		<id>W3135769363</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Leishmaniasis and Chagas disease: Is there hope in nanotechnology to fight neglected tropical diseases?</title>
+		<year>2022</year>
+		<authors>Débora B. Scariot, Austeja Staneviciute, Jennifer Zhu, Xiaomo Li, Evan A. Scott, David M. Engman</authors>
+		<jconf>Frontiers in Cellular and Infection Microbiology</jconf>
+		<id>W4296169250</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>
@@ -397,15 +415,6 @@
 		<authors>Amanda M. Goldston, Aabha Sharma, Kimberly S. Paul, David M. Engman</authors>
 		<jconf>Trends in Parasitology</jconf>
 		<id>W2033549129</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Leishmaniasis and Chagas disease: Is there hope in nanotechnology to fight neglected tropical diseases?</title>
-		<year>2022</year>
-		<authors>Débora B. Scariot, Austeja Staneviciute, Jennifer Zhu, Xiaomo Li, Evan A. Scott, David M. Engman</authors>
-		<jconf>Frontiers in Cellular and Infection Microbiology</jconf>
-		<id>W4296169250</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>
@@ -869,15 +878,6 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
-		<title>B-040 Direct Aspiration of Cryogenic Matrix Tubes on the Siemens Atellica System With Epic-Beaker Integration of External Barcode IDs for Analysis Small Volume Biobanked Specimens</title>
-		<year>2024</year>
-		<authors>Steven W. Cotten, David M. Engman, Peter A. Thomas</authors>
-		<jconf>Clinical Chemistry</jconf>
-		<id>W4403071495</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
 		<title>Cell Cycle Inhibition To Treat Sleeping Sickness</title>
 		<year>2017</year>
 		<authors>Conrad L. Epting, Brian T. Emmer, Nga Du, Joann M. Taylor, Ming Y. Makanji, Cheryl L. Olson, David M. Engman</authors>
@@ -887,20 +887,20 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
+		<title>B-040 Direct Aspiration of Cryogenic Matrix Tubes on the Siemens Atellica System With Epic-Beaker Integration of External Barcode IDs for Analysis Small Volume Biobanked Specimens</title>
+		<year>2024</year>
+		<authors>Steven W. Cotten, David M. Engman, Peter A. Thomas</authors>
+		<jconf>Clinical Chemistry</jconf>
+		<id>W4403071495</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
 		<title>Trypanosoma brucei Acyl-Protein Thioesterase-like (TbAPT-L) Is a Lipase with Esterase Activity for Short and Medium-Chain Fatty Acids but Has No Depalmitoylation Activity</title>
 		<year>2022</year>
 		<authors>R.W. Brown, Aabha Sharma, Miguel Rey Villanueva, Xiaomo Li, Ouma Onguka, Leeor Zilbermintz, Helen Nguyen, Ben Falk, Cheryl L. Olson, Joann M. Taylor, Conrad L. Epting, Rahul S. Kathayat, Neri Amara, Bryan C. Dickinson, Matthew Bogyo, David M. Engman</authors>
 		<jconf>Pathogens</jconf>
 		<id>W4307704584</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Trypanosoma cruzi: Accumulation of Polycistronic hsp70 RNAs during Severe Heat Shock</title>
-		<year>1995</year>
-		<authors>David M. Engman, Kimberly Henkle‐Dührsen, Louis V. Kirchhoff, J E Donelson</authors>
-		<jconf>Experimental Parasitology</jconf>
-		<id>W1976208094</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>

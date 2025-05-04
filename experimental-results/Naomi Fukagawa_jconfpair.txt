@@ -1,0 +1,134 @@
+0	6	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+0	24	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+0	50	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+0	52	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+0	53	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+0	67	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+6	24	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+6	50	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+6	52	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+6	53	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+6	67	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+24	50	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+24	52	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+24	53	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+24	67	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+50	52	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+50	53	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+50	67	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+52	53	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+52	67	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+53	67	The Journals of Gerontology Series A	The Journals of Gerontology Series A
+4	14	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	21	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	28	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	30	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	38	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	39	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	43	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+4	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	21	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	28	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	30	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	38	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	39	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	43	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+14	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+21	28	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+21	30	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+21	38	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+21	39	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+21	43	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+21	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+21	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+28	30	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+28	38	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+28	39	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+28	43	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+28	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+28	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+30	38	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+30	39	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+30	43	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+30	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+30	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+38	39	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+38	43	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+38	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+38	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+39	43	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+39	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+39	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+43	57	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+43	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+57	76	American Journal of Clinical Nutrition	American Journal of Clinical Nutrition
+8	17	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	25	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	31	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	41	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	42	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	54	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	73	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+8	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	25	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	31	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	41	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	42	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	54	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	73	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+17	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+25	31	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+25	41	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+25	42	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+25	54	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+25	73	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+25	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+25	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+31	41	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+31	42	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+31	54	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+31	73	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+31	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+31	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+41	42	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+41	54	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+41	73	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+41	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+41	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+42	54	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+42	73	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+42	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+42	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+54	73	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+54	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+54	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+73	95	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+73	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+95	99	AJP Endocrinology and Metabolism	AJP Endocrinology and Metabolism
+11	49	Diabetes	Diabetes
+20	66	PLoS ONE	PLoS ONE
+22	23	Advances in Nutrition	Advances in Nutrition
+22	70	Advances in Nutrition	Advances in Nutrition
+23	70	Advances in Nutrition	Advances in Nutrition
+27	36	Diabetes Care	Diabetes Care
+27	47	Diabetes Care	Diabetes Care
+36	47	Diabetes Care	Diabetes Care
+29	94	Analytical Chemistry	Analytical Chemistry
+44	75	Journal of Cellular Physiology	Journal of Cellular Physiology
+44	84	Journal of Cellular Physiology	Journal of Cellular Physiology
+75	84	Journal of Cellular Physiology	Journal of Cellular Physiology
+51	82	Free Radical Biology and Medicine	Free Radical Biology and Medicine
+55	90	Metabolism	Metabolism
+55	96	Metabolism	Metabolism
+90	96	Metabolism	Metabolism
+56	62	Journal of Nutrition	Journal of Nutrition
+56	85	Journal of Nutrition	Journal of Nutrition
+62	85	Journal of Nutrition	Journal of Nutrition
+58	80	Current Developments in Nutrition	Current Developments in Nutrition
+58	93	Current Developments in Nutrition	Current Developments in Nutrition
+80	93	Current Developments in Nutrition	Current Developments in Nutrition
+97	98	International Journal of Molecular Sciences	International Journal of Molecular Sciences

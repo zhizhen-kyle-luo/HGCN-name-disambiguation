@@ -445,1572 +445,1605 @@
 27	27	Cheryl L. Olson	Melvin D. Daniels
 27	27	Cheryl L. Olson	David M. Engman
 27	27	Melvin D. Daniels	David M. Engman
-28	28	Débora B. Scariot	Austeja Staneviciute
-28	28	Débora B. Scariot	Rayanne Regina Beltrame Machado
-28	28	Débora B. Scariot	Simseok A. Yuk
-28	28	Débora B. Scariot	Yugang Liu
-28	28	Débora B. Scariot	Swagat Sharma
-28	28	Débora B. Scariot	Sultan Almunif
-28	28	Débora B. Scariot	Elhadji Malick Mbaye
-28	28	Débora B. Scariot	Celso Vataru Nakamura
-28	28	Débora B. Scariot	David M. Engman
-28	28	Débora B. Scariot	Evan A. Scott
-28	28	Austeja Staneviciute	Rayanne Regina Beltrame Machado
-28	28	Austeja Staneviciute	Simseok A. Yuk
-28	28	Austeja Staneviciute	Yugang Liu
-28	28	Austeja Staneviciute	Swagat Sharma
-28	28	Austeja Staneviciute	Sultan Almunif
-28	28	Austeja Staneviciute	Elhadji Malick Mbaye
-28	28	Austeja Staneviciute	Celso Vataru Nakamura
-28	28	Austeja Staneviciute	David M. Engman
-28	28	Austeja Staneviciute	Evan A. Scott
-28	28	Rayanne Regina Beltrame Machado	Simseok A. Yuk
-28	28	Rayanne Regina Beltrame Machado	Yugang Liu
-28	28	Rayanne Regina Beltrame Machado	Swagat Sharma
-28	28	Rayanne Regina Beltrame Machado	Sultan Almunif
-28	28	Rayanne Regina Beltrame Machado	Elhadji Malick Mbaye
-28	28	Rayanne Regina Beltrame Machado	Celso Vataru Nakamura
-28	28	Rayanne Regina Beltrame Machado	David M. Engman
-28	28	Rayanne Regina Beltrame Machado	Evan A. Scott
-28	28	Simseok A. Yuk	Yugang Liu
-28	28	Simseok A. Yuk	Swagat Sharma
-28	28	Simseok A. Yuk	Sultan Almunif
-28	28	Simseok A. Yuk	Elhadji Malick Mbaye
-28	28	Simseok A. Yuk	Celso Vataru Nakamura
-28	28	Simseok A. Yuk	David M. Engman
-28	28	Simseok A. Yuk	Evan A. Scott
-28	28	Yugang Liu	Swagat Sharma
-28	28	Yugang Liu	Sultan Almunif
-28	28	Yugang Liu	Elhadji Malick Mbaye
-28	28	Yugang Liu	Celso Vataru Nakamura
-28	28	Yugang Liu	David M. Engman
-28	28	Yugang Liu	Evan A. Scott
-28	28	Swagat Sharma	Sultan Almunif
-28	28	Swagat Sharma	Elhadji Malick Mbaye
-28	28	Swagat Sharma	Celso Vataru Nakamura
-28	28	Swagat Sharma	David M. Engman
-28	28	Swagat Sharma	Evan A. Scott
-28	28	Sultan Almunif	Elhadji Malick Mbaye
-28	28	Sultan Almunif	Celso Vataru Nakamura
-28	28	Sultan Almunif	David M. Engman
-28	28	Sultan Almunif	Evan A. Scott
-28	28	Elhadji Malick Mbaye	Celso Vataru Nakamura
-28	28	Elhadji Malick Mbaye	David M. Engman
-28	28	Elhadji Malick Mbaye	Evan A. Scott
-28	28	Celso Vataru Nakamura	David M. Engman
-28	28	Celso Vataru Nakamura	Evan A. Scott
-28	28	David M. Engman	Evan A. Scott
-30	30	Lisa M. Godsel	Juan S. León
-30	30	Lisa M. Godsel	Kegiang Wang
-30	30	Lisa M. Godsel	Jamie L. Fornek
-30	30	Lisa M. Godsel	Agostino Molteni
-30	30	Lisa M. Godsel	David M. Engman
-30	30	Juan S. León	Kegiang Wang
-30	30	Juan S. León	Jamie L. Fornek
-30	30	Juan S. León	Agostino Molteni
-30	30	Juan S. León	David M. Engman
-30	30	Kegiang Wang	Jamie L. Fornek
-30	30	Kegiang Wang	Agostino Molteni
-30	30	Kegiang Wang	David M. Engman
-30	30	Jamie L. Fornek	Agostino Molteni
-30	30	Jamie L. Fornek	David M. Engman
-30	30	Agostino Molteni	David M. Engman
-31	31	Randal S. Tibbetts	Thomas S. McCormick
-31	31	Randal S. Tibbetts	Edwin C. Rowland
-31	31	Randal S. Tibbetts	Stephen D. Miller
-31	31	Randal S. Tibbetts	David M. Engman
-31	31	Thomas S. McCormick	Edwin C. Rowland
-31	31	Thomas S. McCormick	Stephen D. Miller
-31	31	Thomas S. McCormick	David M. Engman
-31	31	Edwin C. Rowland	Stephen D. Miller
-31	31	Edwin C. Rowland	David M. Engman
-31	31	Stephen D. Miller	David M. Engman
-32	32	Louis V. Kirchhoff	K S Kim
-32	32	Louis V. Kirchhoff	David M. Engman
-32	32	Louis V. Kirchhoff	J E Donelson
-32	32	K S Kim	David M. Engman
-32	32	K S Kim	J E Donelson
-32	32	David M. Engman	J E Donelson
-33	33	Kenneth V. Hyland	Juan S. León
-33	33	Kenneth V. Hyland	Melvin D. Daniels
-33	33	Kenneth V. Hyland	Nick Giafis
-33	33	Kenneth V. Hyland	LaKitta M. Woods
-33	33	Kenneth V. Hyland	Thomas J. Bahk
-33	33	Kenneth V. Hyland	Kegiang Wang
-33	33	Kenneth V. Hyland	David M. Engman
-33	33	Juan S. León	Melvin D. Daniels
-33	33	Juan S. León	Nick Giafis
-33	33	Juan S. León	LaKitta M. Woods
-33	33	Juan S. León	Thomas J. Bahk
-33	33	Juan S. León	Kegiang Wang
-33	33	Juan S. León	David M. Engman
-33	33	Melvin D. Daniels	Nick Giafis
-33	33	Melvin D. Daniels	LaKitta M. Woods
-33	33	Melvin D. Daniels	Thomas J. Bahk
-33	33	Melvin D. Daniels	Kegiang Wang
-33	33	Melvin D. Daniels	David M. Engman
-33	33	Nick Giafis	LaKitta M. Woods
-33	33	Nick Giafis	Thomas J. Bahk
-33	33	Nick Giafis	Kegiang Wang
-33	33	Nick Giafis	David M. Engman
-33	33	LaKitta M. Woods	Thomas J. Bahk
-33	33	LaKitta M. Woods	Kegiang Wang
-33	33	LaKitta M. Woods	David M. Engman
-33	33	Thomas J. Bahk	Kegiang Wang
-33	33	Thomas J. Bahk	David M. Engman
-33	33	Kegiang Wang	David M. Engman
-34	34	Brian T. Emmer	Melvin D. Daniels
-34	34	Brian T. Emmer	Joann M. Taylor
-34	34	Brian T. Emmer	Conrad L. Epting
-34	34	Brian T. Emmer	David M. Engman
-34	34	Melvin D. Daniels	Joann M. Taylor
-34	34	Melvin D. Daniels	Conrad L. Epting
-34	34	Melvin D. Daniels	David M. Engman
-34	34	Joann M. Taylor	Conrad L. Epting
-34	34	Joann M. Taylor	David M. Engman
-34	34	Conrad L. Epting	David M. Engman
-35	35	Danijela Maric	Bradford S. McGwire
-35	35	Danijela Maric	Kathryn T. Buchanan
-35	35	Danijela Maric	Cheryl L. Olson
-35	35	Danijela Maric	Brian T. Emmer
-35	35	Danijela Maric	Conrad L. Epting
-35	35	Danijela Maric	David M. Engman
-35	35	Bradford S. McGwire	Kathryn T. Buchanan
-35	35	Bradford S. McGwire	Cheryl L. Olson
-35	35	Bradford S. McGwire	Brian T. Emmer
-35	35	Bradford S. McGwire	Conrad L. Epting
-35	35	Bradford S. McGwire	David M. Engman
-35	35	Kathryn T. Buchanan	Cheryl L. Olson
-35	35	Kathryn T. Buchanan	Brian T. Emmer
-35	35	Kathryn T. Buchanan	Conrad L. Epting
-35	35	Kathryn T. Buchanan	David M. Engman
-35	35	Cheryl L. Olson	Brian T. Emmer
-35	35	Cheryl L. Olson	Conrad L. Epting
-35	35	Cheryl L. Olson	David M. Engman
-35	35	Brian T. Emmer	Conrad L. Epting
-35	35	Brian T. Emmer	David M. Engman
-35	35	Conrad L. Epting	David M. Engman
-36	36	Santiago Martínez	Patricia Silvia Romano
-36	36	Santiago Martínez	David M. Engman
-36	36	Patricia Silvia Romano	David M. Engman
-37	37	Derick Okwan‐Duodu	Eun-Cheon Lim
-37	37	Derick Okwan‐Duodu	Sungyong You
-37	37	Derick Okwan‐Duodu	David M. Engman
-37	37	Eun-Cheon Lim	Sungyong You
-37	37	Eun-Cheon Lim	David M. Engman
-37	37	Sungyong You	David M. Engman
-38	38	Cheryl L. Olson	Kari C. Nadeau
-38	38	Cheryl L. Olson	Mary Anne Sullivan
-38	38	Cheryl L. Olson	Andrea Winquist
-38	38	Cheryl L. Olson	J E Donelson
-38	38	Cheryl L. Olson	C T Walsh
-38	38	Cheryl L. Olson	David M. Engman
-38	38	Kari C. Nadeau	Mary Anne Sullivan
-38	38	Kari C. Nadeau	Andrea Winquist
-38	38	Kari C. Nadeau	J E Donelson
-38	38	Kari C. Nadeau	C T Walsh
-38	38	Kari C. Nadeau	David M. Engman
-38	38	Mary Anne Sullivan	Andrea Winquist
-38	38	Mary Anne Sullivan	J E Donelson
-38	38	Mary Anne Sullivan	C T Walsh
-38	38	Mary Anne Sullivan	David M. Engman
-38	38	Andrea Winquist	J E Donelson
-38	38	Andrea Winquist	C T Walsh
-38	38	Andrea Winquist	David M. Engman
-38	38	J E Donelson	C T Walsh
-38	38	J E Donelson	David M. Engman
-38	38	C T Walsh	David M. Engman
-39	39	Melvin D. Daniels	Kenneth V. Hyland
-39	39	Melvin D. Daniels	Kegiang Wang
-39	39	Melvin D. Daniels	David M. Engman
-39	39	Kenneth V. Hyland	Kegiang Wang
-39	39	Kenneth V. Hyland	David M. Engman
-39	39	Kegiang Wang	David M. Engman
-40	40	Thomas J. Bahk	Melvin D. Daniels
-40	40	Thomas J. Bahk	Juan S. León
-40	40	Thomas J. Bahk	Kegiang Wang
-40	40	Thomas J. Bahk	David M. Engman
-40	40	Melvin D. Daniels	Juan S. León
-40	40	Melvin D. Daniels	Kegiang Wang
-40	40	Melvin D. Daniels	David M. Engman
-40	40	Juan S. León	Kegiang Wang
-40	40	Juan S. León	David M. Engman
-40	40	Kegiang Wang	David M. Engman
-41	41	Vicente de Paulo Martins	Michael Okura
-41	41	Vicente de Paulo Martins	Danijela Maric
-41	41	Vicente de Paulo Martins	David M. Engman
-41	41	Vicente de Paulo Martins	Maurício Vieira
-41	41	Vicente de Paulo Martins	Roberto Docampo
-41	41	Vicente de Paulo Martins	Silvia N.J. Moreno
-41	41	Michael Okura	Danijela Maric
-41	41	Michael Okura	David M. Engman
-41	41	Michael Okura	Maurício Vieira
-41	41	Michael Okura	Roberto Docampo
-41	41	Michael Okura	Silvia N.J. Moreno
-41	41	Danijela Maric	David M. Engman
-41	41	Danijela Maric	Maurício Vieira
-41	41	Danijela Maric	Roberto Docampo
-41	41	Danijela Maric	Silvia N.J. Moreno
-41	41	David M. Engman	Maurício Vieira
-41	41	David M. Engman	Roberto Docampo
-41	41	David M. Engman	Silvia N.J. Moreno
-41	41	Maurício Vieira	Roberto Docampo
-41	41	Maurício Vieira	Silvia N.J. Moreno
-41	41	Roberto Docampo	Silvia N.J. Moreno
-42	42	Kevin M. Bonney	Joann M. Taylor
-42	42	Kevin M. Bonney	Melvin D. Daniels
-42	42	Kevin M. Bonney	Conrad L. Epting
-42	42	Kevin M. Bonney	David M. Engman
-42	42	Joann M. Taylor	Melvin D. Daniels
-42	42	Joann M. Taylor	Conrad L. Epting
-42	42	Joann M. Taylor	David M. Engman
-42	42	Melvin D. Daniels	Conrad L. Epting
+28	28	Santiago Martínez	Patricia Silvia Romano
+28	28	Santiago Martínez	David M. Engman
+28	28	Patricia Silvia Romano	David M. Engman
+29	29	Débora B. Scariot	Austeja Staneviciute
+29	29	Débora B. Scariot	Rayanne Regina Beltrame Machado
+29	29	Débora B. Scariot	Simseok A. Yuk
+29	29	Débora B. Scariot	Yugang Liu
+29	29	Débora B. Scariot	Swagat Sharma
+29	29	Débora B. Scariot	Sultan Almunif
+29	29	Débora B. Scariot	El Hadji Arona Mbaye
+29	29	Débora B. Scariot	Celso Vataru Nakamura
+29	29	Débora B. Scariot	David M. Engman
+29	29	Débora B. Scariot	Evan A. Scott
+29	29	Austeja Staneviciute	Rayanne Regina Beltrame Machado
+29	29	Austeja Staneviciute	Simseok A. Yuk
+29	29	Austeja Staneviciute	Yugang Liu
+29	29	Austeja Staneviciute	Swagat Sharma
+29	29	Austeja Staneviciute	Sultan Almunif
+29	29	Austeja Staneviciute	El Hadji Arona Mbaye
+29	29	Austeja Staneviciute	Celso Vataru Nakamura
+29	29	Austeja Staneviciute	David M. Engman
+29	29	Austeja Staneviciute	Evan A. Scott
+29	29	Rayanne Regina Beltrame Machado	Simseok A. Yuk
+29	29	Rayanne Regina Beltrame Machado	Yugang Liu
+29	29	Rayanne Regina Beltrame Machado	Swagat Sharma
+29	29	Rayanne Regina Beltrame Machado	Sultan Almunif
+29	29	Rayanne Regina Beltrame Machado	El Hadji Arona Mbaye
+29	29	Rayanne Regina Beltrame Machado	Celso Vataru Nakamura
+29	29	Rayanne Regina Beltrame Machado	David M. Engman
+29	29	Rayanne Regina Beltrame Machado	Evan A. Scott
+29	29	Simseok A. Yuk	Yugang Liu
+29	29	Simseok A. Yuk	Swagat Sharma
+29	29	Simseok A. Yuk	Sultan Almunif
+29	29	Simseok A. Yuk	El Hadji Arona Mbaye
+29	29	Simseok A. Yuk	Celso Vataru Nakamura
+29	29	Simseok A. Yuk	David M. Engman
+29	29	Simseok A. Yuk	Evan A. Scott
+29	29	Yugang Liu	Swagat Sharma
+29	29	Yugang Liu	Sultan Almunif
+29	29	Yugang Liu	El Hadji Arona Mbaye
+29	29	Yugang Liu	Celso Vataru Nakamura
+29	29	Yugang Liu	David M. Engman
+29	29	Yugang Liu	Evan A. Scott
+29	29	Swagat Sharma	Sultan Almunif
+29	29	Swagat Sharma	El Hadji Arona Mbaye
+29	29	Swagat Sharma	Celso Vataru Nakamura
+29	29	Swagat Sharma	David M. Engman
+29	29	Swagat Sharma	Evan A. Scott
+29	29	Sultan Almunif	El Hadji Arona Mbaye
+29	29	Sultan Almunif	Celso Vataru Nakamura
+29	29	Sultan Almunif	David M. Engman
+29	29	Sultan Almunif	Evan A. Scott
+29	29	El Hadji Arona Mbaye	Celso Vataru Nakamura
+29	29	El Hadji Arona Mbaye	David M. Engman
+29	29	El Hadji Arona Mbaye	Evan A. Scott
+29	29	Celso Vataru Nakamura	David M. Engman
+29	29	Celso Vataru Nakamura	Evan A. Scott
+29	29	David M. Engman	Evan A. Scott
+30	30	Austeja Staneviciute	Débora B. Scariot
+30	30	Austeja Staneviciute	Yugang Liu
+30	30	Austeja Staneviciute	Qian Yuan
+30	30	Austeja Staneviciute	Swagat Sharma
+30	30	Austeja Staneviciute	El Hadji Arona Mbaye
+30	30	Austeja Staneviciute	Sultan Almunif
+30	30	Austeja Staneviciute	David M. Engman
+30	30	Austeja Staneviciute	Evan A. Scott
+30	30	Débora B. Scariot	Yugang Liu
+30	30	Débora B. Scariot	Qian Yuan
+30	30	Débora B. Scariot	Swagat Sharma
+30	30	Débora B. Scariot	El Hadji Arona Mbaye
+30	30	Débora B. Scariot	Sultan Almunif
+30	30	Débora B. Scariot	David M. Engman
+30	30	Débora B. Scariot	Evan A. Scott
+30	30	Yugang Liu	Qian Yuan
+30	30	Yugang Liu	Swagat Sharma
+30	30	Yugang Liu	El Hadji Arona Mbaye
+30	30	Yugang Liu	Sultan Almunif
+30	30	Yugang Liu	David M. Engman
+30	30	Yugang Liu	Evan A. Scott
+30	30	Qian Yuan	Swagat Sharma
+30	30	Qian Yuan	El Hadji Arona Mbaye
+30	30	Qian Yuan	Sultan Almunif
+30	30	Qian Yuan	David M. Engman
+30	30	Qian Yuan	Evan A. Scott
+30	30	Swagat Sharma	El Hadji Arona Mbaye
+30	30	Swagat Sharma	Sultan Almunif
+30	30	Swagat Sharma	David M. Engman
+30	30	Swagat Sharma	Evan A. Scott
+30	30	El Hadji Arona Mbaye	Sultan Almunif
+30	30	El Hadji Arona Mbaye	David M. Engman
+30	30	El Hadji Arona Mbaye	Evan A. Scott
+30	30	Sultan Almunif	David M. Engman
+30	30	Sultan Almunif	Evan A. Scott
+30	30	David M. Engman	Evan A. Scott
+32	32	Lisa M. Godsel	Juan S. León
+32	32	Lisa M. Godsel	Kegiang Wang
+32	32	Lisa M. Godsel	Jamie L. Fornek
+32	32	Lisa M. Godsel	Agostino Molteni
+32	32	Lisa M. Godsel	David M. Engman
+32	32	Juan S. León	Kegiang Wang
+32	32	Juan S. León	Jamie L. Fornek
+32	32	Juan S. León	Agostino Molteni
+32	32	Juan S. León	David M. Engman
+32	32	Kegiang Wang	Jamie L. Fornek
+32	32	Kegiang Wang	Agostino Molteni
+32	32	Kegiang Wang	David M. Engman
+32	32	Jamie L. Fornek	Agostino Molteni
+32	32	Jamie L. Fornek	David M. Engman
+32	32	Agostino Molteni	David M. Engman
+33	33	Randal S. Tibbetts	Thomas S. McCormick
+33	33	Randal S. Tibbetts	Edwin C. Rowland
+33	33	Randal S. Tibbetts	Stephen D. Miller
+33	33	Randal S. Tibbetts	David M. Engman
+33	33	Thomas S. McCormick	Edwin C. Rowland
+33	33	Thomas S. McCormick	Stephen D. Miller
+33	33	Thomas S. McCormick	David M. Engman
+33	33	Edwin C. Rowland	Stephen D. Miller
+33	33	Edwin C. Rowland	David M. Engman
+33	33	Stephen D. Miller	David M. Engman
+34	34	Louis V. Kirchhoff	K S Kim
+34	34	Louis V. Kirchhoff	David M. Engman
+34	34	Louis V. Kirchhoff	J E Donelson
+34	34	K S Kim	David M. Engman
+34	34	K S Kim	J E Donelson
+34	34	David M. Engman	J E Donelson
+35	35	Kenneth V. Hyland	Juan S. León
+35	35	Kenneth V. Hyland	Melvin D. Daniels
+35	35	Kenneth V. Hyland	Nick Giafis
+35	35	Kenneth V. Hyland	LaKitta M. Woods
+35	35	Kenneth V. Hyland	Thomas J. Bahk
+35	35	Kenneth V. Hyland	Kegiang Wang
+35	35	Kenneth V. Hyland	David M. Engman
+35	35	Juan S. León	Melvin D. Daniels
+35	35	Juan S. León	Nick Giafis
+35	35	Juan S. León	LaKitta M. Woods
+35	35	Juan S. León	Thomas J. Bahk
+35	35	Juan S. León	Kegiang Wang
+35	35	Juan S. León	David M. Engman
+35	35	Melvin D. Daniels	Nick Giafis
+35	35	Melvin D. Daniels	LaKitta M. Woods
+35	35	Melvin D. Daniels	Thomas J. Bahk
+35	35	Melvin D. Daniels	Kegiang Wang
+35	35	Melvin D. Daniels	David M. Engman
+35	35	Nick Giafis	LaKitta M. Woods
+35	35	Nick Giafis	Thomas J. Bahk
+35	35	Nick Giafis	Kegiang Wang
+35	35	Nick Giafis	David M. Engman
+35	35	LaKitta M. Woods	Thomas J. Bahk
+35	35	LaKitta M. Woods	Kegiang Wang
+35	35	LaKitta M. Woods	David M. Engman
+35	35	Thomas J. Bahk	Kegiang Wang
+35	35	Thomas J. Bahk	David M. Engman
+35	35	Kegiang Wang	David M. Engman
+36	36	Brian T. Emmer	Melvin D. Daniels
+36	36	Brian T. Emmer	Joann M. Taylor
+36	36	Brian T. Emmer	Conrad L. Epting
+36	36	Brian T. Emmer	David M. Engman
+36	36	Melvin D. Daniels	Joann M. Taylor
+36	36	Melvin D. Daniels	Conrad L. Epting
+36	36	Melvin D. Daniels	David M. Engman
+36	36	Joann M. Taylor	Conrad L. Epting
+36	36	Joann M. Taylor	David M. Engman
+36	36	Conrad L. Epting	David M. Engman
+37	37	Danijela Maric	Bradford S. McGwire
+37	37	Danijela Maric	Kathryn T. Buchanan
+37	37	Danijela Maric	Cheryl L. Olson
+37	37	Danijela Maric	Brian T. Emmer
+37	37	Danijela Maric	Conrad L. Epting
+37	37	Danijela Maric	David M. Engman
+37	37	Bradford S. McGwire	Kathryn T. Buchanan
+37	37	Bradford S. McGwire	Cheryl L. Olson
+37	37	Bradford S. McGwire	Brian T. Emmer
+37	37	Bradford S. McGwire	Conrad L. Epting
+37	37	Bradford S. McGwire	David M. Engman
+37	37	Kathryn T. Buchanan	Cheryl L. Olson
+37	37	Kathryn T. Buchanan	Brian T. Emmer
+37	37	Kathryn T. Buchanan	Conrad L. Epting
+37	37	Kathryn T. Buchanan	David M. Engman
+37	37	Cheryl L. Olson	Brian T. Emmer
+37	37	Cheryl L. Olson	Conrad L. Epting
+37	37	Cheryl L. Olson	David M. Engman
+37	37	Brian T. Emmer	Conrad L. Epting
+37	37	Brian T. Emmer	David M. Engman
+37	37	Conrad L. Epting	David M. Engman
+38	38	Derick Okwan‐Duodu	Eun-Cheon Lim
+38	38	Derick Okwan‐Duodu	Sungyong You
+38	38	Derick Okwan‐Duodu	David M. Engman
+38	38	Eun-Cheon Lim	Sungyong You
+38	38	Eun-Cheon Lim	David M. Engman
+38	38	Sungyong You	David M. Engman
+39	39	Débora B. Scariot	Austeja Staneviciute
+39	39	Débora B. Scariot	Jennifer Zhu
+39	39	Débora B. Scariot	Xiaomo Li
+39	39	Débora B. Scariot	Evan A. Scott
+39	39	Débora B. Scariot	David M. Engman
+39	39	Austeja Staneviciute	Jennifer Zhu
+39	39	Austeja Staneviciute	Xiaomo Li
+39	39	Austeja Staneviciute	Evan A. Scott
+39	39	Austeja Staneviciute	David M. Engman
+39	39	Jennifer Zhu	Xiaomo Li
+39	39	Jennifer Zhu	Evan A. Scott
+39	39	Jennifer Zhu	David M. Engman
+39	39	Xiaomo Li	Evan A. Scott
+39	39	Xiaomo Li	David M. Engman
+39	39	Evan A. Scott	David M. Engman
+40	40	Cheryl L. Olson	Kari C. Nadeau
+40	40	Cheryl L. Olson	Mary Anne Sullivan
+40	40	Cheryl L. Olson	Andrea Winquist
+40	40	Cheryl L. Olson	J E Donelson
+40	40	Cheryl L. Olson	C T Walsh
+40	40	Cheryl L. Olson	David M. Engman
+40	40	Kari C. Nadeau	Mary Anne Sullivan
+40	40	Kari C. Nadeau	Andrea Winquist
+40	40	Kari C. Nadeau	J E Donelson
+40	40	Kari C. Nadeau	C T Walsh
+40	40	Kari C. Nadeau	David M. Engman
+40	40	Mary Anne Sullivan	Andrea Winquist
+40	40	Mary Anne Sullivan	J E Donelson
+40	40	Mary Anne Sullivan	C T Walsh
+40	40	Mary Anne Sullivan	David M. Engman
+40	40	Andrea Winquist	J E Donelson
+40	40	Andrea Winquist	C T Walsh
+40	40	Andrea Winquist	David M. Engman
+40	40	J E Donelson	C T Walsh
+40	40	J E Donelson	David M. Engman
+40	40	C T Walsh	David M. Engman
+41	41	Melvin D. Daniels	Kenneth V. Hyland
+41	41	Melvin D. Daniels	Kegiang Wang
+41	41	Melvin D. Daniels	David M. Engman
+41	41	Kenneth V. Hyland	Kegiang Wang
+41	41	Kenneth V. Hyland	David M. Engman
+41	41	Kegiang Wang	David M. Engman
+42	42	Thomas J. Bahk	Melvin D. Daniels
+42	42	Thomas J. Bahk	Juan S. León
+42	42	Thomas J. Bahk	Kegiang Wang
+42	42	Thomas J. Bahk	David M. Engman
+42	42	Melvin D. Daniels	Juan S. León
+42	42	Melvin D. Daniels	Kegiang Wang
 42	42	Melvin D. Daniels	David M. Engman
-42	42	Conrad L. Epting	David M. Engman
-43	43	Amanda M. Goldston	Aabha Sharma
-43	43	Amanda M. Goldston	Kimberly S. Paul
-43	43	Amanda M. Goldston	David M. Engman
-43	43	Aabha Sharma	Kimberly S. Paul
-43	43	Aabha Sharma	David M. Engman
-43	43	Kimberly S. Paul	David M. Engman
-44	44	Débora B. Scariot	Austeja Staneviciute
-44	44	Débora B. Scariot	Jennifer Zhu
-44	44	Débora B. Scariot	Xiaomo Li
-44	44	Débora B. Scariot	Evan A. Scott
-44	44	Débora B. Scariot	David M. Engman
-44	44	Austeja Staneviciute	Jennifer Zhu
-44	44	Austeja Staneviciute	Xiaomo Li
-44	44	Austeja Staneviciute	Evan A. Scott
-44	44	Austeja Staneviciute	David M. Engman
-44	44	Jennifer Zhu	Xiaomo Li
-44	44	Jennifer Zhu	Evan A. Scott
-44	44	Jennifer Zhu	David M. Engman
-44	44	Xiaomo Li	Evan A. Scott
-44	44	Xiaomo Li	David M. Engman
-44	44	Evan A. Scott	David M. Engman
-45	45	Juan S. León	Kegiang Wang
-45	45	Juan S. León	David M. Engman
-45	45	Kegiang Wang	David M. Engman
-46	46	Juan S. León	Melvin D. Daniels
-46	46	Juan S. León	Krista M. Toriello
+42	42	Juan S. León	Kegiang Wang
+42	42	Juan S. León	David M. Engman
+42	42	Kegiang Wang	David M. Engman
+43	43	Vicente de Paulo Martins	Michael Okura
+43	43	Vicente de Paulo Martins	Danijela Maric
+43	43	Vicente de Paulo Martins	David M. Engman
+43	43	Vicente de Paulo Martins	Maurício Vieira
+43	43	Vicente de Paulo Martins	Roberto Docampo
+43	43	Vicente de Paulo Martins	Silvia N.J. Moreno
+43	43	Michael Okura	Danijela Maric
+43	43	Michael Okura	David M. Engman
+43	43	Michael Okura	Maurício Vieira
+43	43	Michael Okura	Roberto Docampo
+43	43	Michael Okura	Silvia N.J. Moreno
+43	43	Danijela Maric	David M. Engman
+43	43	Danijela Maric	Maurício Vieira
+43	43	Danijela Maric	Roberto Docampo
+43	43	Danijela Maric	Silvia N.J. Moreno
+43	43	David M. Engman	Maurício Vieira
+43	43	David M. Engman	Roberto Docampo
+43	43	David M. Engman	Silvia N.J. Moreno
+43	43	Maurício Vieira	Roberto Docampo
+43	43	Maurício Vieira	Silvia N.J. Moreno
+43	43	Roberto Docampo	Silvia N.J. Moreno
+44	44	Kevin M. Bonney	Joann M. Taylor
+44	44	Kevin M. Bonney	Melvin D. Daniels
+44	44	Kevin M. Bonney	Conrad L. Epting
+44	44	Kevin M. Bonney	David M. Engman
+44	44	Joann M. Taylor	Melvin D. Daniels
+44	44	Joann M. Taylor	Conrad L. Epting
+44	44	Joann M. Taylor	David M. Engman
+44	44	Melvin D. Daniels	Conrad L. Epting
+44	44	Melvin D. Daniels	David M. Engman
+44	44	Conrad L. Epting	David M. Engman
+45	45	Amanda M. Goldston	Aabha Sharma
+45	45	Amanda M. Goldston	Kimberly S. Paul
+45	45	Amanda M. Goldston	David M. Engman
+45	45	Aabha Sharma	Kimberly S. Paul
+45	45	Aabha Sharma	David M. Engman
+45	45	Kimberly S. Paul	David M. Engman
 46	46	Juan S. León	Kegiang Wang
 46	46	Juan S. León	David M. Engman
-46	46	Melvin D. Daniels	Krista M. Toriello
-46	46	Melvin D. Daniels	Kegiang Wang
-46	46	Melvin D. Daniels	David M. Engman
-46	46	Krista M. Toriello	Kegiang Wang
-46	46	Krista M. Toriello	David M. Engman
 46	46	Kegiang Wang	David M. Engman
-47	47	Lisa M. Godsel	Juan S. León
-47	47	Lisa M. Godsel	David M. Engman
+47	47	Juan S. León	Melvin D. Daniels
+47	47	Juan S. León	Krista M. Toriello
+47	47	Juan S. León	Kegiang Wang
 47	47	Juan S. León	David M. Engman
-48	48	David M. Engman	S R Sias
-48	48	David M. Engman	Jeffrey D. Gabe
-48	48	David M. Engman	John E. Donelson
-48	48	David M. Engman	Elizabeth A. Dragon
-48	48	S R Sias	Jeffrey D. Gabe
-48	48	S R Sias	John E. Donelson
-48	48	S R Sias	Elizabeth A. Dragon
-48	48	Jeffrey D. Gabe	John E. Donelson
-48	48	Jeffrey D. Gabe	Elizabeth A. Dragon
-48	48	John E. Donelson	Elizabeth A. Dragon
-49	49	Danijela Maric	Conrad L. Epting
-49	49	Danijela Maric	David M. Engman
-49	49	Conrad L. Epting	David M. Engman
-50	50	R.W. Brown	Aabha Sharma
-50	50	R.W. Brown	David M. Engman
-50	50	Aabha Sharma	David M. Engman
-51	51	Lisa M. Godsel	Randal S. Tibbetts
-51	51	Lisa M. Godsel	Cheryl L. Olson
-51	51	Lisa M. Godsel	Bernard M. Chaudoir
-51	51	Lisa M. Godsel	David M. Engman
-51	51	Randal S. Tibbetts	Cheryl L. Olson
-51	51	Randal S. Tibbetts	Bernard M. Chaudoir
-51	51	Randal S. Tibbetts	David M. Engman
-51	51	Cheryl L. Olson	Bernard M. Chaudoir
-51	51	Cheryl L. Olson	David M. Engman
-51	51	Bernard M. Chaudoir	David M. Engman
-52	52	Greice M. Krautz	Jeffrey D. Peterson
-52	52	Greice M. Krautz	Lisa M. Godsel
-52	52	Greice M. Krautz	Antoniana U. Krettli
-52	52	Greice M. Krautz	David M. Engman
-52	52	Jeffrey D. Peterson	Lisa M. Godsel
-52	52	Jeffrey D. Peterson	Antoniana U. Krettli
-52	52	Jeffrey D. Peterson	David M. Engman
-52	52	Lisa M. Godsel	Antoniana U. Krettli
+47	47	Melvin D. Daniels	Krista M. Toriello
+47	47	Melvin D. Daniels	Kegiang Wang
+47	47	Melvin D. Daniels	David M. Engman
+47	47	Krista M. Toriello	Kegiang Wang
+47	47	Krista M. Toriello	David M. Engman
+47	47	Kegiang Wang	David M. Engman
+48	48	Lisa M. Godsel	Juan S. León
+48	48	Lisa M. Godsel	David M. Engman
+48	48	Juan S. León	David M. Engman
+49	49	David M. Engman	S R Sias
+49	49	David M. Engman	Jeffrey D. Gabe
+49	49	David M. Engman	John E. Donelson
+49	49	David M. Engman	Elizabeth A. Dragon
+49	49	S R Sias	Jeffrey D. Gabe
+49	49	S R Sias	John E. Donelson
+49	49	S R Sias	Elizabeth A. Dragon
+49	49	Jeffrey D. Gabe	John E. Donelson
+49	49	Jeffrey D. Gabe	Elizabeth A. Dragon
+49	49	John E. Donelson	Elizabeth A. Dragon
+50	50	Danijela Maric	Conrad L. Epting
+50	50	Danijela Maric	David M. Engman
+50	50	Conrad L. Epting	David M. Engman
+51	51	R.W. Brown	Aabha Sharma
+51	51	R.W. Brown	David M. Engman
+51	51	Aabha Sharma	David M. Engman
+52	52	Lisa M. Godsel	Randal S. Tibbetts
+52	52	Lisa M. Godsel	Cheryl L. Olson
+52	52	Lisa M. Godsel	Bernard M. Chaudoir
 52	52	Lisa M. Godsel	David M. Engman
-52	52	Antoniana U. Krettli	David M. Engman
-53	53	Philip N. Effron	Al F. Torri
-53	53	Philip N. Effron	David M. Engman
-53	53	Philip N. Effron	John E. Donelson
-53	53	Philip N. Effron	Paul T. Englund
-53	53	Al F. Torri	David M. Engman
-53	53	Al F. Torri	John E. Donelson
-53	53	Al F. Torri	Paul T. Englund
-53	53	David M. Engman	John E. Donelson
-53	53	David M. Engman	Paul T. Englund
-53	53	John E. Donelson	Paul T. Englund
-54	54	Kari C. Nadeau	Christopher T. Walsh
-54	54	Kari C. Nadeau	Mark Bradley
-54	54	Kari C. Nadeau	Mary Anne Sullivan
-54	54	Kari C. Nadeau	David M. Engman
-54	54	Christopher T. Walsh	Mark Bradley
-54	54	Christopher T. Walsh	Mary Anne Sullivan
-54	54	Christopher T. Walsh	David M. Engman
-54	54	Mark Bradley	Mary Anne Sullivan
-54	54	Mark Bradley	David M. Engman
-54	54	Mary Anne Sullivan	David M. Engman
-55	55	Kathryn T. Buchanan	James B. Ames
-55	55	Kathryn T. Buchanan	Sofya H. Asfaw
-55	55	Kathryn T. Buchanan	Jennifer N. Wingard
-55	55	Kathryn T. Buchanan	Cheryl L. Olson
-55	55	Kathryn T. Buchanan	Patrícia T. Campana
-55	55	Kathryn T. Buchanan	Ana Paula Ulian de Araújo
-55	55	Kathryn T. Buchanan	David M. Engman
-55	55	James B. Ames	Sofya H. Asfaw
-55	55	James B. Ames	Jennifer N. Wingard
-55	55	James B. Ames	Cheryl L. Olson
-55	55	James B. Ames	Patrícia T. Campana
-55	55	James B. Ames	Ana Paula Ulian de Araújo
-55	55	James B. Ames	David M. Engman
-55	55	Sofya H. Asfaw	Jennifer N. Wingard
-55	55	Sofya H. Asfaw	Cheryl L. Olson
-55	55	Sofya H. Asfaw	Patrícia T. Campana
-55	55	Sofya H. Asfaw	Ana Paula Ulian de Araújo
-55	55	Sofya H. Asfaw	David M. Engman
-55	55	Jennifer N. Wingard	Cheryl L. Olson
-55	55	Jennifer N. Wingard	Patrícia T. Campana
-55	55	Jennifer N. Wingard	Ana Paula Ulian de Araújo
-55	55	Jennifer N. Wingard	David M. Engman
-55	55	Cheryl L. Olson	Patrícia T. Campana
-55	55	Cheryl L. Olson	Ana Paula Ulian de Araújo
-55	55	Cheryl L. Olson	David M. Engman
-55	55	Patrícia T. Campana	Ana Paula Ulian de Araújo
-55	55	Patrícia T. Campana	David M. Engman
-55	55	Ana Paula Ulian de Araújo	David M. Engman
-56	56	Juan S. León	Kegiang Wang
-56	56	Juan S. León	David M. Engman
-56	56	Kegiang Wang	David M. Engman
-57	57	Jennifer N. Wingard	Jane E. Ladner
-57	57	Jennifer N. Wingard	Murugendra Vanarotti
-57	57	Jennifer N. Wingard	Andrew J. Fisher
-57	57	Jennifer N. Wingard	Howard Robinson
-57	57	Jennifer N. Wingard	Kathryn T. Buchanan
-57	57	Jennifer N. Wingard	David M. Engman
-57	57	Jennifer N. Wingard	James B. Ames
-57	57	Jane E. Ladner	Murugendra Vanarotti
-57	57	Jane E. Ladner	Andrew J. Fisher
-57	57	Jane E. Ladner	Howard Robinson
-57	57	Jane E. Ladner	Kathryn T. Buchanan
-57	57	Jane E. Ladner	David M. Engman
-57	57	Jane E. Ladner	James B. Ames
-57	57	Murugendra Vanarotti	Andrew J. Fisher
-57	57	Murugendra Vanarotti	Howard Robinson
-57	57	Murugendra Vanarotti	Kathryn T. Buchanan
-57	57	Murugendra Vanarotti	David M. Engman
-57	57	Murugendra Vanarotti	James B. Ames
-57	57	Andrew J. Fisher	Howard Robinson
-57	57	Andrew J. Fisher	Kathryn T. Buchanan
-57	57	Andrew J. Fisher	David M. Engman
-57	57	Andrew J. Fisher	James B. Ames
-57	57	Howard Robinson	Kathryn T. Buchanan
-57	57	Howard Robinson	David M. Engman
-57	57	Howard Robinson	James B. Ames
-57	57	Kathryn T. Buchanan	David M. Engman
-57	57	Kathryn T. Buchanan	James B. Ames
-57	57	David M. Engman	James B. Ames
-58	58	Kevin M. Bonney	Joann M. Taylor
-58	58	Kevin M. Bonney	Edward B. Thorp
-58	58	Kevin M. Bonney	Conrad L. Epting
-58	58	Kevin M. Bonney	David M. Engman
-58	58	Joann M. Taylor	Edward B. Thorp
-58	58	Joann M. Taylor	Conrad L. Epting
-58	58	Joann M. Taylor	David M. Engman
-58	58	Edward B. Thorp	Conrad L. Epting
-58	58	Edward B. Thorp	David M. Engman
-58	58	Conrad L. Epting	David M. Engman
-59	59	Randal S. Tibbetts	I Y Kim
-59	59	Randal S. Tibbetts	Cheryl L. Olson
-59	59	Randal S. Tibbetts	Lennart Barthel
-59	59	Randal S. Tibbetts	Mary Anne Sullivan
-59	59	Randal S. Tibbetts	Andrea Winquist
-59	59	Randal S. Tibbetts	Shane Miller
-59	59	Randal S. Tibbetts	David M. Engman
-59	59	I Y Kim	Cheryl L. Olson
-59	59	I Y Kim	Lennart Barthel
-59	59	I Y Kim	Mary Anne Sullivan
-59	59	I Y Kim	Andrea Winquist
-59	59	I Y Kim	Shane Miller
-59	59	I Y Kim	David M. Engman
-59	59	Cheryl L. Olson	Lennart Barthel
-59	59	Cheryl L. Olson	Mary Anne Sullivan
-59	59	Cheryl L. Olson	Andrea Winquist
-59	59	Cheryl L. Olson	Shane Miller
-59	59	Cheryl L. Olson	David M. Engman
-59	59	Lennart Barthel	Mary Anne Sullivan
-59	59	Lennart Barthel	Andrea Winquist
-59	59	Lennart Barthel	Shane Miller
-59	59	Lennart Barthel	David M. Engman
-59	59	Mary Anne Sullivan	Andrea Winquist
-59	59	Mary Anne Sullivan	Shane Miller
-59	59	Mary Anne Sullivan	David M. Engman
-59	59	Andrea Winquist	Shane Miller
-59	59	Andrea Winquist	David M. Engman
-59	59	Shane Miller	David M. Engman
-60	60	Kevin M. Tyler	G.W. Gant Luxton
-60	60	Kevin M. Tyler	Derek A. Applewhite
-60	60	Kevin M. Tyler	Sean C. Murphy
-60	60	Kevin M. Tyler	David M. Engman
-60	60	G.W. Gant Luxton	Derek A. Applewhite
-60	60	G.W. Gant Luxton	Sean C. Murphy
-60	60	G.W. Gant Luxton	David M. Engman
-60	60	Derek A. Applewhite	Sean C. Murphy
-60	60	Derek A. Applewhite	David M. Engman
-60	60	Sean C. Murphy	David M. Engman
-61	61	Bria M. Coates	David P. Sullivan
-61	61	Bria M. Coates	Ming Y. Makanji
-61	61	Bria M. Coates	Nga Du
-61	61	Bria M. Coates	Cheryl L. Olson
-61	61	Bria M. Coates	William A. Müller
-61	61	Bria M. Coates	David M. Engman
-61	61	Bria M. Coates	Conrad L. Epting
-61	61	David P. Sullivan	Ming Y. Makanji
-61	61	David P. Sullivan	Nga Du
-61	61	David P. Sullivan	Cheryl L. Olson
-61	61	David P. Sullivan	William A. Müller
-61	61	David P. Sullivan	David M. Engman
-61	61	David P. Sullivan	Conrad L. Epting
-61	61	Ming Y. Makanji	Nga Du
-61	61	Ming Y. Makanji	Cheryl L. Olson
-61	61	Ming Y. Makanji	William A. Müller
-61	61	Ming Y. Makanji	David M. Engman
-61	61	Ming Y. Makanji	Conrad L. Epting
-61	61	Nga Du	Cheryl L. Olson
-61	61	Nga Du	William A. Müller
-61	61	Nga Du	David M. Engman
-61	61	Nga Du	Conrad L. Epting
-61	61	Cheryl L. Olson	William A. Müller
-61	61	Cheryl L. Olson	David M. Engman
-61	61	Cheryl L. Olson	Conrad L. Epting
-61	61	William A. Müller	David M. Engman
-61	61	William A. Müller	Conrad L. Epting
-61	61	David M. Engman	Conrad L. Epting
-62	62	Kevin M. Tyler	David M. Engman
-63	63	Lisa M. Godsel	Kegiang Wang
-63	63	Lisa M. Godsel	Beth A. Schodin
-63	63	Lisa M. Godsel	Juan S. León
-63	63	Lisa M. Godsel	Stephen D. Miller
-63	63	Lisa M. Godsel	David M. Engman
-63	63	Kegiang Wang	Beth A. Schodin
-63	63	Kegiang Wang	Juan S. León
-63	63	Kegiang Wang	Stephen D. Miller
-63	63	Kegiang Wang	David M. Engman
-63	63	Beth A. Schodin	Juan S. León
-63	63	Beth A. Schodin	Stephen D. Miller
-63	63	Beth A. Schodin	David M. Engman
-63	63	Juan S. León	Stephen D. Miller
-63	63	Juan S. León	David M. Engman
-63	63	Stephen D. Miller	David M. Engman
-64	64	Kevin M. Tyler	Cheryl L. Olson
-64	64	Kevin M. Tyler	David M. Engman
-64	64	Cheryl L. Olson	David M. Engman
-65	65	David M. Engman	Louis V. Kirchhoff
-65	65	David M. Engman	John E. Donelson
-65	65	Louis V. Kirchhoff	John E. Donelson
-66	66	Kenneth V. Hyland	David M. Engman
-67	67	Antonio Teixeira	Marina Clare Vinaud
-67	67	Antonio Teixeira	Ana María Castro
-67	67	Antonio Teixeira	João Carlos Pinto Dias
-67	67	Antonio Teixeira	Christopher J. Schofield
-67	67	Antonio Teixeira	Rubens J Nascimento
-67	67	Antonio Teixeira	Nancy R. Sturm
-67	67	Antonio Teixeira	Marina Claude Vinaud
-67	67	Antonio Teixeira	Liléia Diotaiuti
-67	67	Antonio Teixeira	Wanderley de Souza
-67	67	Antonio Teixeira	Kildare Miranda
-67	67	Antonio Teixeira	Narcisa L. Cunha‐e‐Silva
-67	67	Antonio Teixeira	Thaïs Souto-Padrón
-67	67	Antonio Teixeira	David A. Campbell
-67	67	Antonio Teixeira	David M. Engman
-67	67	Antonio Teixeira	Conrad L. Epting
-67	67	Antonio Teixeira	Kevin M. Bonney
-67	67	Antonio Teixeira	Maurício M. Rodrigues
-67	67	Antonio Teixeira	Bruna Cunha de Alencar
-67	67	Antonio Teixeira	José Ronnie Vasconcelos
-67	67	Antonio Teixeira	Fernando Pimentel-Santos
-67	67	Antonio Teixeira	Ciro Cordeiro
-67	67	Antonio Teixeira	Nadjar Nitz
-67	67	Antonio Teixeira	Mariana Hecht
-67	67	Antonio Teixeira	Liana Lauria‐Pires
-67	67	Antonio Teixeira	Ana de Cássia Rosa
-67	67	Antonio Teixeira	Cleudson Castro
-67	67	Antonio Teixeira	Izabela Marques Dourado Bastos
-67	67	Antonio Teixeira	David Neves
-67	67	Antonio Teixeira	Meire M. Lima
-67	67	Antonio Teixeira	Jaime M. Santana
-67	67	Antonio Teixeira	Cléver Gomes Cardoso
-67	67	Antonio Teixeira	Silene P. Lozzi
-67	67	Antonio Teixeira	Pedro Sadi Monteiro
-67	67	Antonio Teixeira	Ana Bussacos
-67	67	Antonio Teixeira	Concepta McManus
-67	67	Antonio Teixeira	Alessandro O. Sousa
-67	67	Marina Clare Vinaud	Ana María Castro
-67	67	Marina Clare Vinaud	João Carlos Pinto Dias
-67	67	Marina Clare Vinaud	Christopher J. Schofield
-67	67	Marina Clare Vinaud	Rubens J Nascimento
-67	67	Marina Clare Vinaud	Nancy R. Sturm
-67	67	Marina Clare Vinaud	Marina Claude Vinaud
-67	67	Marina Clare Vinaud	Liléia Diotaiuti
-67	67	Marina Clare Vinaud	Wanderley de Souza
-67	67	Marina Clare Vinaud	Kildare Miranda
-67	67	Marina Clare Vinaud	Narcisa L. Cunha‐e‐Silva
-67	67	Marina Clare Vinaud	Thaïs Souto-Padrón
-67	67	Marina Clare Vinaud	David A. Campbell
-67	67	Marina Clare Vinaud	David M. Engman
-67	67	Marina Clare Vinaud	Conrad L. Epting
-67	67	Marina Clare Vinaud	Kevin M. Bonney
-67	67	Marina Clare Vinaud	Maurício M. Rodrigues
-67	67	Marina Clare Vinaud	Bruna Cunha de Alencar
-67	67	Marina Clare Vinaud	José Ronnie Vasconcelos
-67	67	Marina Clare Vinaud	Fernando Pimentel-Santos
-67	67	Marina Clare Vinaud	Ciro Cordeiro
-67	67	Marina Clare Vinaud	Nadjar Nitz
-67	67	Marina Clare Vinaud	Mariana Hecht
-67	67	Marina Clare Vinaud	Liana Lauria‐Pires
-67	67	Marina Clare Vinaud	Ana de Cássia Rosa
-67	67	Marina Clare Vinaud	Cleudson Castro
-67	67	Marina Clare Vinaud	Izabela Marques Dourado Bastos
-67	67	Marina Clare Vinaud	David Neves
-67	67	Marina Clare Vinaud	Meire M. Lima
-67	67	Marina Clare Vinaud	Jaime M. Santana
-67	67	Marina Clare Vinaud	Cléver Gomes Cardoso
-67	67	Marina Clare Vinaud	Silene P. Lozzi
-67	67	Marina Clare Vinaud	Pedro Sadi Monteiro
-67	67	Marina Clare Vinaud	Ana Bussacos
-67	67	Marina Clare Vinaud	Concepta McManus
-67	67	Marina Clare Vinaud	Alessandro O. Sousa
-67	67	Ana María Castro	João Carlos Pinto Dias
-67	67	Ana María Castro	Christopher J. Schofield
-67	67	Ana María Castro	Rubens J Nascimento
-67	67	Ana María Castro	Nancy R. Sturm
-67	67	Ana María Castro	Marina Claude Vinaud
-67	67	Ana María Castro	Liléia Diotaiuti
-67	67	Ana María Castro	Wanderley de Souza
-67	67	Ana María Castro	Kildare Miranda
-67	67	Ana María Castro	Narcisa L. Cunha‐e‐Silva
-67	67	Ana María Castro	Thaïs Souto-Padrón
-67	67	Ana María Castro	David A. Campbell
-67	67	Ana María Castro	David M. Engman
-67	67	Ana María Castro	Conrad L. Epting
-67	67	Ana María Castro	Kevin M. Bonney
-67	67	Ana María Castro	Maurício M. Rodrigues
-67	67	Ana María Castro	Bruna Cunha de Alencar
-67	67	Ana María Castro	José Ronnie Vasconcelos
-67	67	Ana María Castro	Fernando Pimentel-Santos
-67	67	Ana María Castro	Ciro Cordeiro
-67	67	Ana María Castro	Nadjar Nitz
-67	67	Ana María Castro	Mariana Hecht
-67	67	Ana María Castro	Liana Lauria‐Pires
-67	67	Ana María Castro	Ana de Cássia Rosa
-67	67	Ana María Castro	Cleudson Castro
-67	67	Ana María Castro	Izabela Marques Dourado Bastos
-67	67	Ana María Castro	David Neves
-67	67	Ana María Castro	Meire M. Lima
-67	67	Ana María Castro	Jaime M. Santana
-67	67	Ana María Castro	Cléver Gomes Cardoso
-67	67	Ana María Castro	Silene P. Lozzi
-67	67	Ana María Castro	Pedro Sadi Monteiro
-67	67	Ana María Castro	Ana Bussacos
-67	67	Ana María Castro	Concepta McManus
-67	67	Ana María Castro	Alessandro O. Sousa
-67	67	João Carlos Pinto Dias	Christopher J. Schofield
-67	67	João Carlos Pinto Dias	Rubens J Nascimento
-67	67	João Carlos Pinto Dias	Nancy R. Sturm
-67	67	João Carlos Pinto Dias	Marina Claude Vinaud
-67	67	João Carlos Pinto Dias	Liléia Diotaiuti
-67	67	João Carlos Pinto Dias	Wanderley de Souza
-67	67	João Carlos Pinto Dias	Kildare Miranda
-67	67	João Carlos Pinto Dias	Narcisa L. Cunha‐e‐Silva
-67	67	João Carlos Pinto Dias	Thaïs Souto-Padrón
-67	67	João Carlos Pinto Dias	David A. Campbell
-67	67	João Carlos Pinto Dias	David M. Engman
-67	67	João Carlos Pinto Dias	Conrad L. Epting
-67	67	João Carlos Pinto Dias	Kevin M. Bonney
-67	67	João Carlos Pinto Dias	Maurício M. Rodrigues
-67	67	João Carlos Pinto Dias	Bruna Cunha de Alencar
-67	67	João Carlos Pinto Dias	José Ronnie Vasconcelos
-67	67	João Carlos Pinto Dias	Fernando Pimentel-Santos
-67	67	João Carlos Pinto Dias	Ciro Cordeiro
-67	67	João Carlos Pinto Dias	Nadjar Nitz
-67	67	João Carlos Pinto Dias	Mariana Hecht
-67	67	João Carlos Pinto Dias	Liana Lauria‐Pires
-67	67	João Carlos Pinto Dias	Ana de Cássia Rosa
-67	67	João Carlos Pinto Dias	Cleudson Castro
-67	67	João Carlos Pinto Dias	Izabela Marques Dourado Bastos
-67	67	João Carlos Pinto Dias	David Neves
-67	67	João Carlos Pinto Dias	Meire M. Lima
-67	67	João Carlos Pinto Dias	Jaime M. Santana
-67	67	João Carlos Pinto Dias	Cléver Gomes Cardoso
-67	67	João Carlos Pinto Dias	Silene P. Lozzi
-67	67	João Carlos Pinto Dias	Pedro Sadi Monteiro
-67	67	João Carlos Pinto Dias	Ana Bussacos
-67	67	João Carlos Pinto Dias	Concepta McManus
-67	67	João Carlos Pinto Dias	Alessandro O. Sousa
-67	67	Christopher J. Schofield	Rubens J Nascimento
-67	67	Christopher J. Schofield	Nancy R. Sturm
-67	67	Christopher J. Schofield	Marina Claude Vinaud
-67	67	Christopher J. Schofield	Liléia Diotaiuti
-67	67	Christopher J. Schofield	Wanderley de Souza
-67	67	Christopher J. Schofield	Kildare Miranda
-67	67	Christopher J. Schofield	Narcisa L. Cunha‐e‐Silva
-67	67	Christopher J. Schofield	Thaïs Souto-Padrón
-67	67	Christopher J. Schofield	David A. Campbell
-67	67	Christopher J. Schofield	David M. Engman
-67	67	Christopher J. Schofield	Conrad L. Epting
-67	67	Christopher J. Schofield	Kevin M. Bonney
-67	67	Christopher J. Schofield	Maurício M. Rodrigues
-67	67	Christopher J. Schofield	Bruna Cunha de Alencar
-67	67	Christopher J. Schofield	José Ronnie Vasconcelos
-67	67	Christopher J. Schofield	Fernando Pimentel-Santos
-67	67	Christopher J. Schofield	Ciro Cordeiro
-67	67	Christopher J. Schofield	Nadjar Nitz
-67	67	Christopher J. Schofield	Mariana Hecht
-67	67	Christopher J. Schofield	Liana Lauria‐Pires
-67	67	Christopher J. Schofield	Ana de Cássia Rosa
-67	67	Christopher J. Schofield	Cleudson Castro
-67	67	Christopher J. Schofield	Izabela Marques Dourado Bastos
-67	67	Christopher J. Schofield	David Neves
-67	67	Christopher J. Schofield	Meire M. Lima
-67	67	Christopher J. Schofield	Jaime M. Santana
-67	67	Christopher J. Schofield	Cléver Gomes Cardoso
-67	67	Christopher J. Schofield	Silene P. Lozzi
-67	67	Christopher J. Schofield	Pedro Sadi Monteiro
-67	67	Christopher J. Schofield	Ana Bussacos
-67	67	Christopher J. Schofield	Concepta McManus
-67	67	Christopher J. Schofield	Alessandro O. Sousa
-67	67	Rubens J Nascimento	Nancy R. Sturm
-67	67	Rubens J Nascimento	Marina Claude Vinaud
-67	67	Rubens J Nascimento	Liléia Diotaiuti
-67	67	Rubens J Nascimento	Wanderley de Souza
-67	67	Rubens J Nascimento	Kildare Miranda
-67	67	Rubens J Nascimento	Narcisa L. Cunha‐e‐Silva
-67	67	Rubens J Nascimento	Thaïs Souto-Padrón
-67	67	Rubens J Nascimento	David A. Campbell
-67	67	Rubens J Nascimento	David M. Engman
-67	67	Rubens J Nascimento	Conrad L. Epting
-67	67	Rubens J Nascimento	Kevin M. Bonney
-67	67	Rubens J Nascimento	Maurício M. Rodrigues
-67	67	Rubens J Nascimento	Bruna Cunha de Alencar
-67	67	Rubens J Nascimento	José Ronnie Vasconcelos
-67	67	Rubens J Nascimento	Fernando Pimentel-Santos
-67	67	Rubens J Nascimento	Ciro Cordeiro
-67	67	Rubens J Nascimento	Nadjar Nitz
-67	67	Rubens J Nascimento	Mariana Hecht
-67	67	Rubens J Nascimento	Liana Lauria‐Pires
-67	67	Rubens J Nascimento	Ana de Cássia Rosa
-67	67	Rubens J Nascimento	Cleudson Castro
-67	67	Rubens J Nascimento	Izabela Marques Dourado Bastos
-67	67	Rubens J Nascimento	David Neves
-67	67	Rubens J Nascimento	Meire M. Lima
-67	67	Rubens J Nascimento	Jaime M. Santana
-67	67	Rubens J Nascimento	Cléver Gomes Cardoso
-67	67	Rubens J Nascimento	Silene P. Lozzi
-67	67	Rubens J Nascimento	Pedro Sadi Monteiro
-67	67	Rubens J Nascimento	Ana Bussacos
-67	67	Rubens J Nascimento	Concepta McManus
-67	67	Rubens J Nascimento	Alessandro O. Sousa
-67	67	Nancy R. Sturm	Marina Claude Vinaud
-67	67	Nancy R. Sturm	Liléia Diotaiuti
-67	67	Nancy R. Sturm	Wanderley de Souza
-67	67	Nancy R. Sturm	Kildare Miranda
-67	67	Nancy R. Sturm	Narcisa L. Cunha‐e‐Silva
-67	67	Nancy R. Sturm	Thaïs Souto-Padrón
-67	67	Nancy R. Sturm	David A. Campbell
-67	67	Nancy R. Sturm	David M. Engman
-67	67	Nancy R. Sturm	Conrad L. Epting
-67	67	Nancy R. Sturm	Kevin M. Bonney
-67	67	Nancy R. Sturm	Maurício M. Rodrigues
-67	67	Nancy R. Sturm	Bruna Cunha de Alencar
-67	67	Nancy R. Sturm	José Ronnie Vasconcelos
-67	67	Nancy R. Sturm	Fernando Pimentel-Santos
-67	67	Nancy R. Sturm	Ciro Cordeiro
-67	67	Nancy R. Sturm	Nadjar Nitz
-67	67	Nancy R. Sturm	Mariana Hecht
-67	67	Nancy R. Sturm	Liana Lauria‐Pires
-67	67	Nancy R. Sturm	Ana de Cássia Rosa
-67	67	Nancy R. Sturm	Cleudson Castro
-67	67	Nancy R. Sturm	Izabela Marques Dourado Bastos
-67	67	Nancy R. Sturm	David Neves
-67	67	Nancy R. Sturm	Meire M. Lima
-67	67	Nancy R. Sturm	Jaime M. Santana
-67	67	Nancy R. Sturm	Cléver Gomes Cardoso
-67	67	Nancy R. Sturm	Silene P. Lozzi
-67	67	Nancy R. Sturm	Pedro Sadi Monteiro
-67	67	Nancy R. Sturm	Ana Bussacos
-67	67	Nancy R. Sturm	Concepta McManus
-67	67	Nancy R. Sturm	Alessandro O. Sousa
-67	67	Marina Claude Vinaud	Liléia Diotaiuti
-67	67	Marina Claude Vinaud	Wanderley de Souza
-67	67	Marina Claude Vinaud	Kildare Miranda
-67	67	Marina Claude Vinaud	Narcisa L. Cunha‐e‐Silva
-67	67	Marina Claude Vinaud	Thaïs Souto-Padrón
-67	67	Marina Claude Vinaud	David A. Campbell
-67	67	Marina Claude Vinaud	David M. Engman
-67	67	Marina Claude Vinaud	Conrad L. Epting
-67	67	Marina Claude Vinaud	Kevin M. Bonney
-67	67	Marina Claude Vinaud	Maurício M. Rodrigues
-67	67	Marina Claude Vinaud	Bruna Cunha de Alencar
-67	67	Marina Claude Vinaud	José Ronnie Vasconcelos
-67	67	Marina Claude Vinaud	Fernando Pimentel-Santos
-67	67	Marina Claude Vinaud	Ciro Cordeiro
-67	67	Marina Claude Vinaud	Nadjar Nitz
-67	67	Marina Claude Vinaud	Mariana Hecht
-67	67	Marina Claude Vinaud	Liana Lauria‐Pires
-67	67	Marina Claude Vinaud	Ana de Cássia Rosa
-67	67	Marina Claude Vinaud	Cleudson Castro
-67	67	Marina Claude Vinaud	Izabela Marques Dourado Bastos
-67	67	Marina Claude Vinaud	David Neves
-67	67	Marina Claude Vinaud	Meire M. Lima
-67	67	Marina Claude Vinaud	Jaime M. Santana
-67	67	Marina Claude Vinaud	Cléver Gomes Cardoso
-67	67	Marina Claude Vinaud	Silene P. Lozzi
-67	67	Marina Claude Vinaud	Pedro Sadi Monteiro
-67	67	Marina Claude Vinaud	Ana Bussacos
-67	67	Marina Claude Vinaud	Concepta McManus
-67	67	Marina Claude Vinaud	Alessandro O. Sousa
-67	67	Liléia Diotaiuti	Wanderley de Souza
-67	67	Liléia Diotaiuti	Kildare Miranda
-67	67	Liléia Diotaiuti	Narcisa L. Cunha‐e‐Silva
-67	67	Liléia Diotaiuti	Thaïs Souto-Padrón
-67	67	Liléia Diotaiuti	David A. Campbell
-67	67	Liléia Diotaiuti	David M. Engman
-67	67	Liléia Diotaiuti	Conrad L. Epting
-67	67	Liléia Diotaiuti	Kevin M. Bonney
-67	67	Liléia Diotaiuti	Maurício M. Rodrigues
-67	67	Liléia Diotaiuti	Bruna Cunha de Alencar
-67	67	Liléia Diotaiuti	José Ronnie Vasconcelos
-67	67	Liléia Diotaiuti	Fernando Pimentel-Santos
-67	67	Liléia Diotaiuti	Ciro Cordeiro
-67	67	Liléia Diotaiuti	Nadjar Nitz
-67	67	Liléia Diotaiuti	Mariana Hecht
-67	67	Liléia Diotaiuti	Liana Lauria‐Pires
-67	67	Liléia Diotaiuti	Ana de Cássia Rosa
-67	67	Liléia Diotaiuti	Cleudson Castro
-67	67	Liléia Diotaiuti	Izabela Marques Dourado Bastos
-67	67	Liléia Diotaiuti	David Neves
-67	67	Liléia Diotaiuti	Meire M. Lima
-67	67	Liléia Diotaiuti	Jaime M. Santana
-67	67	Liléia Diotaiuti	Cléver Gomes Cardoso
-67	67	Liléia Diotaiuti	Silene P. Lozzi
-67	67	Liléia Diotaiuti	Pedro Sadi Monteiro
-67	67	Liléia Diotaiuti	Ana Bussacos
-67	67	Liléia Diotaiuti	Concepta McManus
-67	67	Liléia Diotaiuti	Alessandro O. Sousa
-67	67	Wanderley de Souza	Kildare Miranda
-67	67	Wanderley de Souza	Narcisa L. Cunha‐e‐Silva
-67	67	Wanderley de Souza	Thaïs Souto-Padrón
-67	67	Wanderley de Souza	David A. Campbell
-67	67	Wanderley de Souza	David M. Engman
-67	67	Wanderley de Souza	Conrad L. Epting
-67	67	Wanderley de Souza	Kevin M. Bonney
-67	67	Wanderley de Souza	Maurício M. Rodrigues
-67	67	Wanderley de Souza	Bruna Cunha de Alencar
-67	67	Wanderley de Souza	José Ronnie Vasconcelos
-67	67	Wanderley de Souza	Fernando Pimentel-Santos
-67	67	Wanderley de Souza	Ciro Cordeiro
-67	67	Wanderley de Souza	Nadjar Nitz
-67	67	Wanderley de Souza	Mariana Hecht
-67	67	Wanderley de Souza	Liana Lauria‐Pires
-67	67	Wanderley de Souza	Ana de Cássia Rosa
-67	67	Wanderley de Souza	Cleudson Castro
-67	67	Wanderley de Souza	Izabela Marques Dourado Bastos
-67	67	Wanderley de Souza	David Neves
-67	67	Wanderley de Souza	Meire M. Lima
-67	67	Wanderley de Souza	Jaime M. Santana
-67	67	Wanderley de Souza	Cléver Gomes Cardoso
-67	67	Wanderley de Souza	Silene P. Lozzi
-67	67	Wanderley de Souza	Pedro Sadi Monteiro
-67	67	Wanderley de Souza	Ana Bussacos
-67	67	Wanderley de Souza	Concepta McManus
-67	67	Wanderley de Souza	Alessandro O. Sousa
-67	67	Kildare Miranda	Narcisa L. Cunha‐e‐Silva
-67	67	Kildare Miranda	Thaïs Souto-Padrón
-67	67	Kildare Miranda	David A. Campbell
-67	67	Kildare Miranda	David M. Engman
-67	67	Kildare Miranda	Conrad L. Epting
-67	67	Kildare Miranda	Kevin M. Bonney
-67	67	Kildare Miranda	Maurício M. Rodrigues
-67	67	Kildare Miranda	Bruna Cunha de Alencar
-67	67	Kildare Miranda	José Ronnie Vasconcelos
-67	67	Kildare Miranda	Fernando Pimentel-Santos
-67	67	Kildare Miranda	Ciro Cordeiro
-67	67	Kildare Miranda	Nadjar Nitz
-67	67	Kildare Miranda	Mariana Hecht
-67	67	Kildare Miranda	Liana Lauria‐Pires
-67	67	Kildare Miranda	Ana de Cássia Rosa
-67	67	Kildare Miranda	Cleudson Castro
-67	67	Kildare Miranda	Izabela Marques Dourado Bastos
-67	67	Kildare Miranda	David Neves
-67	67	Kildare Miranda	Meire M. Lima
-67	67	Kildare Miranda	Jaime M. Santana
-67	67	Kildare Miranda	Cléver Gomes Cardoso
-67	67	Kildare Miranda	Silene P. Lozzi
-67	67	Kildare Miranda	Pedro Sadi Monteiro
-67	67	Kildare Miranda	Ana Bussacos
-67	67	Kildare Miranda	Concepta McManus
-67	67	Kildare Miranda	Alessandro O. Sousa
-67	67	Narcisa L. Cunha‐e‐Silva	Thaïs Souto-Padrón
-67	67	Narcisa L. Cunha‐e‐Silva	David A. Campbell
-67	67	Narcisa L. Cunha‐e‐Silva	David M. Engman
-67	67	Narcisa L. Cunha‐e‐Silva	Conrad L. Epting
-67	67	Narcisa L. Cunha‐e‐Silva	Kevin M. Bonney
-67	67	Narcisa L. Cunha‐e‐Silva	Maurício M. Rodrigues
-67	67	Narcisa L. Cunha‐e‐Silva	Bruna Cunha de Alencar
-67	67	Narcisa L. Cunha‐e‐Silva	José Ronnie Vasconcelos
-67	67	Narcisa L. Cunha‐e‐Silva	Fernando Pimentel-Santos
-67	67	Narcisa L. Cunha‐e‐Silva	Ciro Cordeiro
-67	67	Narcisa L. Cunha‐e‐Silva	Nadjar Nitz
-67	67	Narcisa L. Cunha‐e‐Silva	Mariana Hecht
-67	67	Narcisa L. Cunha‐e‐Silva	Liana Lauria‐Pires
-67	67	Narcisa L. Cunha‐e‐Silva	Ana de Cássia Rosa
-67	67	Narcisa L. Cunha‐e‐Silva	Cleudson Castro
-67	67	Narcisa L. Cunha‐e‐Silva	Izabela Marques Dourado Bastos
-67	67	Narcisa L. Cunha‐e‐Silva	David Neves
-67	67	Narcisa L. Cunha‐e‐Silva	Meire M. Lima
-67	67	Narcisa L. Cunha‐e‐Silva	Jaime M. Santana
-67	67	Narcisa L. Cunha‐e‐Silva	Cléver Gomes Cardoso
-67	67	Narcisa L. Cunha‐e‐Silva	Silene P. Lozzi
-67	67	Narcisa L. Cunha‐e‐Silva	Pedro Sadi Monteiro
-67	67	Narcisa L. Cunha‐e‐Silva	Ana Bussacos
-67	67	Narcisa L. Cunha‐e‐Silva	Concepta McManus
-67	67	Narcisa L. Cunha‐e‐Silva	Alessandro O. Sousa
-67	67	Thaïs Souto-Padrón	David A. Campbell
-67	67	Thaïs Souto-Padrón	David M. Engman
-67	67	Thaïs Souto-Padrón	Conrad L. Epting
-67	67	Thaïs Souto-Padrón	Kevin M. Bonney
-67	67	Thaïs Souto-Padrón	Maurício M. Rodrigues
-67	67	Thaïs Souto-Padrón	Bruna Cunha de Alencar
-67	67	Thaïs Souto-Padrón	José Ronnie Vasconcelos
-67	67	Thaïs Souto-Padrón	Fernando Pimentel-Santos
-67	67	Thaïs Souto-Padrón	Ciro Cordeiro
-67	67	Thaïs Souto-Padrón	Nadjar Nitz
-67	67	Thaïs Souto-Padrón	Mariana Hecht
-67	67	Thaïs Souto-Padrón	Liana Lauria‐Pires
-67	67	Thaïs Souto-Padrón	Ana de Cássia Rosa
-67	67	Thaïs Souto-Padrón	Cleudson Castro
-67	67	Thaïs Souto-Padrón	Izabela Marques Dourado Bastos
-67	67	Thaïs Souto-Padrón	David Neves
-67	67	Thaïs Souto-Padrón	Meire M. Lima
-67	67	Thaïs Souto-Padrón	Jaime M. Santana
-67	67	Thaïs Souto-Padrón	Cléver Gomes Cardoso
-67	67	Thaïs Souto-Padrón	Silene P. Lozzi
-67	67	Thaïs Souto-Padrón	Pedro Sadi Monteiro
-67	67	Thaïs Souto-Padrón	Ana Bussacos
-67	67	Thaïs Souto-Padrón	Concepta McManus
-67	67	Thaïs Souto-Padrón	Alessandro O. Sousa
-67	67	David A. Campbell	David M. Engman
-67	67	David A. Campbell	Conrad L. Epting
-67	67	David A. Campbell	Kevin M. Bonney
-67	67	David A. Campbell	Maurício M. Rodrigues
-67	67	David A. Campbell	Bruna Cunha de Alencar
-67	67	David A. Campbell	José Ronnie Vasconcelos
-67	67	David A. Campbell	Fernando Pimentel-Santos
-67	67	David A. Campbell	Ciro Cordeiro
-67	67	David A. Campbell	Nadjar Nitz
-67	67	David A. Campbell	Mariana Hecht
-67	67	David A. Campbell	Liana Lauria‐Pires
-67	67	David A. Campbell	Ana de Cássia Rosa
-67	67	David A. Campbell	Cleudson Castro
-67	67	David A. Campbell	Izabela Marques Dourado Bastos
-67	67	David A. Campbell	David Neves
-67	67	David A. Campbell	Meire M. Lima
-67	67	David A. Campbell	Jaime M. Santana
-67	67	David A. Campbell	Cléver Gomes Cardoso
-67	67	David A. Campbell	Silene P. Lozzi
-67	67	David A. Campbell	Pedro Sadi Monteiro
-67	67	David A. Campbell	Ana Bussacos
-67	67	David A. Campbell	Concepta McManus
-67	67	David A. Campbell	Alessandro O. Sousa
-67	67	David M. Engman	Conrad L. Epting
-67	67	David M. Engman	Kevin M. Bonney
-67	67	David M. Engman	Maurício M. Rodrigues
-67	67	David M. Engman	Bruna Cunha de Alencar
-67	67	David M. Engman	José Ronnie Vasconcelos
-67	67	David M. Engman	Fernando Pimentel-Santos
-67	67	David M. Engman	Ciro Cordeiro
-67	67	David M. Engman	Nadjar Nitz
-67	67	David M. Engman	Mariana Hecht
-67	67	David M. Engman	Liana Lauria‐Pires
-67	67	David M. Engman	Ana de Cássia Rosa
-67	67	David M. Engman	Cleudson Castro
-67	67	David M. Engman	Izabela Marques Dourado Bastos
-67	67	David M. Engman	David Neves
-67	67	David M. Engman	Meire M. Lima
-67	67	David M. Engman	Jaime M. Santana
-67	67	David M. Engman	Cléver Gomes Cardoso
-67	67	David M. Engman	Silene P. Lozzi
-67	67	David M. Engman	Pedro Sadi Monteiro
-67	67	David M. Engman	Ana Bussacos
-67	67	David M. Engman	Concepta McManus
-67	67	David M. Engman	Alessandro O. Sousa
-67	67	Conrad L. Epting	Kevin M. Bonney
-67	67	Conrad L. Epting	Maurício M. Rodrigues
-67	67	Conrad L. Epting	Bruna Cunha de Alencar
-67	67	Conrad L. Epting	José Ronnie Vasconcelos
-67	67	Conrad L. Epting	Fernando Pimentel-Santos
-67	67	Conrad L. Epting	Ciro Cordeiro
-67	67	Conrad L. Epting	Nadjar Nitz
-67	67	Conrad L. Epting	Mariana Hecht
-67	67	Conrad L. Epting	Liana Lauria‐Pires
-67	67	Conrad L. Epting	Ana de Cássia Rosa
-67	67	Conrad L. Epting	Cleudson Castro
-67	67	Conrad L. Epting	Izabela Marques Dourado Bastos
-67	67	Conrad L. Epting	David Neves
-67	67	Conrad L. Epting	Meire M. Lima
-67	67	Conrad L. Epting	Jaime M. Santana
-67	67	Conrad L. Epting	Cléver Gomes Cardoso
-67	67	Conrad L. Epting	Silene P. Lozzi
-67	67	Conrad L. Epting	Pedro Sadi Monteiro
-67	67	Conrad L. Epting	Ana Bussacos
-67	67	Conrad L. Epting	Concepta McManus
-67	67	Conrad L. Epting	Alessandro O. Sousa
-67	67	Kevin M. Bonney	Maurício M. Rodrigues
-67	67	Kevin M. Bonney	Bruna Cunha de Alencar
-67	67	Kevin M. Bonney	José Ronnie Vasconcelos
-67	67	Kevin M. Bonney	Fernando Pimentel-Santos
-67	67	Kevin M. Bonney	Ciro Cordeiro
-67	67	Kevin M. Bonney	Nadjar Nitz
-67	67	Kevin M. Bonney	Mariana Hecht
-67	67	Kevin M. Bonney	Liana Lauria‐Pires
-67	67	Kevin M. Bonney	Ana de Cássia Rosa
-67	67	Kevin M. Bonney	Cleudson Castro
-67	67	Kevin M. Bonney	Izabela Marques Dourado Bastos
-67	67	Kevin M. Bonney	David Neves
-67	67	Kevin M. Bonney	Meire M. Lima
-67	67	Kevin M. Bonney	Jaime M. Santana
-67	67	Kevin M. Bonney	Cléver Gomes Cardoso
-67	67	Kevin M. Bonney	Silene P. Lozzi
-67	67	Kevin M. Bonney	Pedro Sadi Monteiro
-67	67	Kevin M. Bonney	Ana Bussacos
-67	67	Kevin M. Bonney	Concepta McManus
-67	67	Kevin M. Bonney	Alessandro O. Sousa
-67	67	Maurício M. Rodrigues	Bruna Cunha de Alencar
-67	67	Maurício M. Rodrigues	José Ronnie Vasconcelos
-67	67	Maurício M. Rodrigues	Fernando Pimentel-Santos
-67	67	Maurício M. Rodrigues	Ciro Cordeiro
-67	67	Maurício M. Rodrigues	Nadjar Nitz
-67	67	Maurício M. Rodrigues	Mariana Hecht
-67	67	Maurício M. Rodrigues	Liana Lauria‐Pires
-67	67	Maurício M. Rodrigues	Ana de Cássia Rosa
-67	67	Maurício M. Rodrigues	Cleudson Castro
-67	67	Maurício M. Rodrigues	Izabela Marques Dourado Bastos
-67	67	Maurício M. Rodrigues	David Neves
-67	67	Maurício M. Rodrigues	Meire M. Lima
-67	67	Maurício M. Rodrigues	Jaime M. Santana
-67	67	Maurício M. Rodrigues	Cléver Gomes Cardoso
-67	67	Maurício M. Rodrigues	Silene P. Lozzi
-67	67	Maurício M. Rodrigues	Pedro Sadi Monteiro
-67	67	Maurício M. Rodrigues	Ana Bussacos
-67	67	Maurício M. Rodrigues	Concepta McManus
-67	67	Maurício M. Rodrigues	Alessandro O. Sousa
-67	67	Bruna Cunha de Alencar	José Ronnie Vasconcelos
-67	67	Bruna Cunha de Alencar	Fernando Pimentel-Santos
-67	67	Bruna Cunha de Alencar	Ciro Cordeiro
-67	67	Bruna Cunha de Alencar	Nadjar Nitz
-67	67	Bruna Cunha de Alencar	Mariana Hecht
-67	67	Bruna Cunha de Alencar	Liana Lauria‐Pires
-67	67	Bruna Cunha de Alencar	Ana de Cássia Rosa
-67	67	Bruna Cunha de Alencar	Cleudson Castro
-67	67	Bruna Cunha de Alencar	Izabela Marques Dourado Bastos
-67	67	Bruna Cunha de Alencar	David Neves
-67	67	Bruna Cunha de Alencar	Meire M. Lima
-67	67	Bruna Cunha de Alencar	Jaime M. Santana
-67	67	Bruna Cunha de Alencar	Cléver Gomes Cardoso
-67	67	Bruna Cunha de Alencar	Silene P. Lozzi
-67	67	Bruna Cunha de Alencar	Pedro Sadi Monteiro
-67	67	Bruna Cunha de Alencar	Ana Bussacos
-67	67	Bruna Cunha de Alencar	Concepta McManus
-67	67	Bruna Cunha de Alencar	Alessandro O. Sousa
-67	67	José Ronnie Vasconcelos	Fernando Pimentel-Santos
-67	67	José Ronnie Vasconcelos	Ciro Cordeiro
-67	67	José Ronnie Vasconcelos	Nadjar Nitz
-67	67	José Ronnie Vasconcelos	Mariana Hecht
-67	67	José Ronnie Vasconcelos	Liana Lauria‐Pires
-67	67	José Ronnie Vasconcelos	Ana de Cássia Rosa
-67	67	José Ronnie Vasconcelos	Cleudson Castro
-67	67	José Ronnie Vasconcelos	Izabela Marques Dourado Bastos
-67	67	José Ronnie Vasconcelos	David Neves
-67	67	José Ronnie Vasconcelos	Meire M. Lima
-67	67	José Ronnie Vasconcelos	Jaime M. Santana
-67	67	José Ronnie Vasconcelos	Cléver Gomes Cardoso
-67	67	José Ronnie Vasconcelos	Silene P. Lozzi
-67	67	José Ronnie Vasconcelos	Pedro Sadi Monteiro
-67	67	José Ronnie Vasconcelos	Ana Bussacos
-67	67	José Ronnie Vasconcelos	Concepta McManus
-67	67	José Ronnie Vasconcelos	Alessandro O. Sousa
-67	67	Fernando Pimentel-Santos	Ciro Cordeiro
-67	67	Fernando Pimentel-Santos	Nadjar Nitz
-67	67	Fernando Pimentel-Santos	Mariana Hecht
-67	67	Fernando Pimentel-Santos	Liana Lauria‐Pires
-67	67	Fernando Pimentel-Santos	Ana de Cássia Rosa
-67	67	Fernando Pimentel-Santos	Cleudson Castro
-67	67	Fernando Pimentel-Santos	Izabela Marques Dourado Bastos
-67	67	Fernando Pimentel-Santos	David Neves
-67	67	Fernando Pimentel-Santos	Meire M. Lima
-67	67	Fernando Pimentel-Santos	Jaime M. Santana
-67	67	Fernando Pimentel-Santos	Cléver Gomes Cardoso
-67	67	Fernando Pimentel-Santos	Silene P. Lozzi
-67	67	Fernando Pimentel-Santos	Pedro Sadi Monteiro
-67	67	Fernando Pimentel-Santos	Ana Bussacos
-67	67	Fernando Pimentel-Santos	Concepta McManus
-67	67	Fernando Pimentel-Santos	Alessandro O. Sousa
-67	67	Ciro Cordeiro	Nadjar Nitz
-67	67	Ciro Cordeiro	Mariana Hecht
-67	67	Ciro Cordeiro	Liana Lauria‐Pires
-67	67	Ciro Cordeiro	Ana de Cássia Rosa
-67	67	Ciro Cordeiro	Cleudson Castro
-67	67	Ciro Cordeiro	Izabela Marques Dourado Bastos
-67	67	Ciro Cordeiro	David Neves
-67	67	Ciro Cordeiro	Meire M. Lima
-67	67	Ciro Cordeiro	Jaime M. Santana
-67	67	Ciro Cordeiro	Cléver Gomes Cardoso
-67	67	Ciro Cordeiro	Silene P. Lozzi
-67	67	Ciro Cordeiro	Pedro Sadi Monteiro
-67	67	Ciro Cordeiro	Ana Bussacos
-67	67	Ciro Cordeiro	Concepta McManus
-67	67	Ciro Cordeiro	Alessandro O. Sousa
-67	67	Nadjar Nitz	Mariana Hecht
-67	67	Nadjar Nitz	Liana Lauria‐Pires
-67	67	Nadjar Nitz	Ana de Cássia Rosa
-67	67	Nadjar Nitz	Cleudson Castro
-67	67	Nadjar Nitz	Izabela Marques Dourado Bastos
-67	67	Nadjar Nitz	David Neves
-67	67	Nadjar Nitz	Meire M. Lima
-67	67	Nadjar Nitz	Jaime M. Santana
-67	67	Nadjar Nitz	Cléver Gomes Cardoso
-67	67	Nadjar Nitz	Silene P. Lozzi
-67	67	Nadjar Nitz	Pedro Sadi Monteiro
-67	67	Nadjar Nitz	Ana Bussacos
-67	67	Nadjar Nitz	Concepta McManus
-67	67	Nadjar Nitz	Alessandro O. Sousa
-67	67	Mariana Hecht	Liana Lauria‐Pires
-67	67	Mariana Hecht	Ana de Cássia Rosa
-67	67	Mariana Hecht	Cleudson Castro
-67	67	Mariana Hecht	Izabela Marques Dourado Bastos
-67	67	Mariana Hecht	David Neves
-67	67	Mariana Hecht	Meire M. Lima
-67	67	Mariana Hecht	Jaime M. Santana
-67	67	Mariana Hecht	Cléver Gomes Cardoso
-67	67	Mariana Hecht	Silene P. Lozzi
-67	67	Mariana Hecht	Pedro Sadi Monteiro
-67	67	Mariana Hecht	Ana Bussacos
-67	67	Mariana Hecht	Concepta McManus
-67	67	Mariana Hecht	Alessandro O. Sousa
-67	67	Liana Lauria‐Pires	Ana de Cássia Rosa
-67	67	Liana Lauria‐Pires	Cleudson Castro
-67	67	Liana Lauria‐Pires	Izabela Marques Dourado Bastos
-67	67	Liana Lauria‐Pires	David Neves
-67	67	Liana Lauria‐Pires	Meire M. Lima
-67	67	Liana Lauria‐Pires	Jaime M. Santana
-67	67	Liana Lauria‐Pires	Cléver Gomes Cardoso
-67	67	Liana Lauria‐Pires	Silene P. Lozzi
-67	67	Liana Lauria‐Pires	Pedro Sadi Monteiro
-67	67	Liana Lauria‐Pires	Ana Bussacos
-67	67	Liana Lauria‐Pires	Concepta McManus
-67	67	Liana Lauria‐Pires	Alessandro O. Sousa
-67	67	Ana de Cássia Rosa	Cleudson Castro
-67	67	Ana de Cássia Rosa	Izabela Marques Dourado Bastos
-67	67	Ana de Cássia Rosa	David Neves
-67	67	Ana de Cássia Rosa	Meire M. Lima
-67	67	Ana de Cássia Rosa	Jaime M. Santana
-67	67	Ana de Cássia Rosa	Cléver Gomes Cardoso
-67	67	Ana de Cássia Rosa	Silene P. Lozzi
-67	67	Ana de Cássia Rosa	Pedro Sadi Monteiro
-67	67	Ana de Cássia Rosa	Ana Bussacos
-67	67	Ana de Cássia Rosa	Concepta McManus
-67	67	Ana de Cássia Rosa	Alessandro O. Sousa
-67	67	Cleudson Castro	Izabela Marques Dourado Bastos
-67	67	Cleudson Castro	David Neves
-67	67	Cleudson Castro	Meire M. Lima
-67	67	Cleudson Castro	Jaime M. Santana
-67	67	Cleudson Castro	Cléver Gomes Cardoso
-67	67	Cleudson Castro	Silene P. Lozzi
-67	67	Cleudson Castro	Pedro Sadi Monteiro
-67	67	Cleudson Castro	Ana Bussacos
-67	67	Cleudson Castro	Concepta McManus
-67	67	Cleudson Castro	Alessandro O. Sousa
-67	67	Izabela Marques Dourado Bastos	David Neves
-67	67	Izabela Marques Dourado Bastos	Meire M. Lima
-67	67	Izabela Marques Dourado Bastos	Jaime M. Santana
-67	67	Izabela Marques Dourado Bastos	Cléver Gomes Cardoso
-67	67	Izabela Marques Dourado Bastos	Silene P. Lozzi
-67	67	Izabela Marques Dourado Bastos	Pedro Sadi Monteiro
-67	67	Izabela Marques Dourado Bastos	Ana Bussacos
-67	67	Izabela Marques Dourado Bastos	Concepta McManus
-67	67	Izabela Marques Dourado Bastos	Alessandro O. Sousa
-67	67	David Neves	Meire M. Lima
-67	67	David Neves	Jaime M. Santana
-67	67	David Neves	Cléver Gomes Cardoso
-67	67	David Neves	Silene P. Lozzi
-67	67	David Neves	Pedro Sadi Monteiro
-67	67	David Neves	Ana Bussacos
-67	67	David Neves	Concepta McManus
-67	67	David Neves	Alessandro O. Sousa
-67	67	Meire M. Lima	Jaime M. Santana
-67	67	Meire M. Lima	Cléver Gomes Cardoso
-67	67	Meire M. Lima	Silene P. Lozzi
-67	67	Meire M. Lima	Pedro Sadi Monteiro
-67	67	Meire M. Lima	Ana Bussacos
-67	67	Meire M. Lima	Concepta McManus
-67	67	Meire M. Lima	Alessandro O. Sousa
-67	67	Jaime M. Santana	Cléver Gomes Cardoso
-67	67	Jaime M. Santana	Silene P. Lozzi
-67	67	Jaime M. Santana	Pedro Sadi Monteiro
-67	67	Jaime M. Santana	Ana Bussacos
-67	67	Jaime M. Santana	Concepta McManus
-67	67	Jaime M. Santana	Alessandro O. Sousa
-67	67	Cléver Gomes Cardoso	Silene P. Lozzi
-67	67	Cléver Gomes Cardoso	Pedro Sadi Monteiro
-67	67	Cléver Gomes Cardoso	Ana Bussacos
-67	67	Cléver Gomes Cardoso	Concepta McManus
-67	67	Cléver Gomes Cardoso	Alessandro O. Sousa
-67	67	Silene P. Lozzi	Pedro Sadi Monteiro
-67	67	Silene P. Lozzi	Ana Bussacos
-67	67	Silene P. Lozzi	Concepta McManus
-67	67	Silene P. Lozzi	Alessandro O. Sousa
-67	67	Pedro Sadi Monteiro	Ana Bussacos
-67	67	Pedro Sadi Monteiro	Concepta McManus
-67	67	Pedro Sadi Monteiro	Alessandro O. Sousa
-67	67	Ana Bussacos	Concepta McManus
-67	67	Ana Bussacos	Alessandro O. Sousa
-67	67	Concepta McManus	Alessandro O. Sousa
-68	68	Deborah A. Pasternack	Aabha Sharma
-68	68	Deborah A. Pasternack	Cheryl L. Olson
-68	68	Deborah A. Pasternack	Conrad L. Epting
-68	68	Deborah A. Pasternack	David M. Engman
-68	68	Aabha Sharma	Cheryl L. Olson
-68	68	Aabha Sharma	Conrad L. Epting
-68	68	Aabha Sharma	David M. Engman
-68	68	Cheryl L. Olson	Conrad L. Epting
-68	68	Cheryl L. Olson	David M. Engman
-68	68	Conrad L. Epting	David M. Engman
-69	69	Kimberly J. Henkle	George A. Cook
-69	69	Kimberly J. Henkle	Lewis A. Foster
-69	69	Kimberly J. Henkle	David M. Engman
-69	69	Kimberly J. Henkle	Libuse A. Bobek
-69	69	Kimberly J. Henkle	George D. Cain
-69	69	Kimberly J. Henkle	John E. Donelson
-69	69	George A. Cook	Lewis A. Foster
-69	69	George A. Cook	David M. Engman
-69	69	George A. Cook	Libuse A. Bobek
-69	69	George A. Cook	George D. Cain
-69	69	George A. Cook	John E. Donelson
-69	69	Lewis A. Foster	David M. Engman
-69	69	Lewis A. Foster	Libuse A. Bobek
-69	69	Lewis A. Foster	George D. Cain
-69	69	Lewis A. Foster	John E. Donelson
-69	69	David M. Engman	Libuse A. Bobek
-69	69	David M. Engman	George D. Cain
-69	69	David M. Engman	John E. Donelson
-69	69	Libuse A. Bobek	George D. Cain
-69	69	Libuse A. Bobek	John E. Donelson
-69	69	George D. Cain	John E. Donelson
-70	70	J. Ludovic Croxford	Kegiang Wang
-70	70	J. Ludovic Croxford	Stephen D. Miller
-70	70	J. Ludovic Croxford	David M. Engman
-70	70	J. Ludovic Croxford	Kevin M. Tyler
-70	70	Kegiang Wang	Stephen D. Miller
-70	70	Kegiang Wang	David M. Engman
-70	70	Kegiang Wang	Kevin M. Tyler
-70	70	Stephen D. Miller	David M. Engman
-70	70	Stephen D. Miller	Kevin M. Tyler
-70	70	David M. Engman	Kevin M. Tyler
-71	71	Aabha Sharma	Cheryl L. Olson
-71	71	Aabha Sharma	João I. Mamede
-71	71	Aabha Sharma	Felipe Gazos‐Lopes
-71	71	Aabha Sharma	Conrad L. Epting
-71	71	Aabha Sharma	Igor C. Almeida
-71	71	Aabha Sharma	David M. Engman
-71	71	Cheryl L. Olson	João I. Mamede
-71	71	Cheryl L. Olson	Felipe Gazos‐Lopes
-71	71	Cheryl L. Olson	Conrad L. Epting
-71	71	Cheryl L. Olson	Igor C. Almeida
-71	71	Cheryl L. Olson	David M. Engman
-71	71	João I. Mamede	Felipe Gazos‐Lopes
-71	71	João I. Mamede	Conrad L. Epting
-71	71	João I. Mamede	Igor C. Almeida
-71	71	João I. Mamede	David M. Engman
-71	71	Felipe Gazos‐Lopes	Conrad L. Epting
-71	71	Felipe Gazos‐Lopes	Igor C. Almeida
-71	71	Felipe Gazos‐Lopes	David M. Engman
-71	71	Conrad L. Epting	Igor C. Almeida
-71	71	Conrad L. Epting	David M. Engman
-71	71	Igor C. Almeida	David M. Engman
-72	72	Mary Anne Sullivan	Cheryl L. Olson
-72	72	Mary Anne Sullivan	Andrea Winquist
-72	72	Mary Anne Sullivan	David M. Engman
-72	72	Cheryl L. Olson	Andrea Winquist
+52	52	Randal S. Tibbetts	Cheryl L. Olson
+52	52	Randal S. Tibbetts	Bernard M. Chaudoir
+52	52	Randal S. Tibbetts	David M. Engman
+52	52	Cheryl L. Olson	Bernard M. Chaudoir
+52	52	Cheryl L. Olson	David M. Engman
+52	52	Bernard M. Chaudoir	David M. Engman
+53	53	Greice M. Krautz	Jeffrey D. Peterson
+53	53	Greice M. Krautz	Lisa M. Godsel
+53	53	Greice M. Krautz	Antoniana U. Krettli
+53	53	Greice M. Krautz	David M. Engman
+53	53	Jeffrey D. Peterson	Lisa M. Godsel
+53	53	Jeffrey D. Peterson	Antoniana U. Krettli
+53	53	Jeffrey D. Peterson	David M. Engman
+53	53	Lisa M. Godsel	Antoniana U. Krettli
+53	53	Lisa M. Godsel	David M. Engman
+53	53	Antoniana U. Krettli	David M. Engman
+54	54	Philip N. Effron	Al F. Torri
+54	54	Philip N. Effron	David M. Engman
+54	54	Philip N. Effron	John E. Donelson
+54	54	Philip N. Effron	Paul T. Englund
+54	54	Al F. Torri	David M. Engman
+54	54	Al F. Torri	John E. Donelson
+54	54	Al F. Torri	Paul T. Englund
+54	54	David M. Engman	John E. Donelson
+54	54	David M. Engman	Paul T. Englund
+54	54	John E. Donelson	Paul T. Englund
+55	55	Kari C. Nadeau	Christopher T. Walsh
+55	55	Kari C. Nadeau	Mark Bradley
+55	55	Kari C. Nadeau	Mary Anne Sullivan
+55	55	Kari C. Nadeau	David M. Engman
+55	55	Christopher T. Walsh	Mark Bradley
+55	55	Christopher T. Walsh	Mary Anne Sullivan
+55	55	Christopher T. Walsh	David M. Engman
+55	55	Mark Bradley	Mary Anne Sullivan
+55	55	Mark Bradley	David M. Engman
+55	55	Mary Anne Sullivan	David M. Engman
+56	56	Kathryn T. Buchanan	James B. Ames
+56	56	Kathryn T. Buchanan	Sofya H. Asfaw
+56	56	Kathryn T. Buchanan	Jennifer N. Wingard
+56	56	Kathryn T. Buchanan	Cheryl L. Olson
+56	56	Kathryn T. Buchanan	Patrícia T. Campana
+56	56	Kathryn T. Buchanan	Ana Paula Ulian de Araújo
+56	56	Kathryn T. Buchanan	David M. Engman
+56	56	James B. Ames	Sofya H. Asfaw
+56	56	James B. Ames	Jennifer N. Wingard
+56	56	James B. Ames	Cheryl L. Olson
+56	56	James B. Ames	Patrícia T. Campana
+56	56	James B. Ames	Ana Paula Ulian de Araújo
+56	56	James B. Ames	David M. Engman
+56	56	Sofya H. Asfaw	Jennifer N. Wingard
+56	56	Sofya H. Asfaw	Cheryl L. Olson
+56	56	Sofya H. Asfaw	Patrícia T. Campana
+56	56	Sofya H. Asfaw	Ana Paula Ulian de Araújo
+56	56	Sofya H. Asfaw	David M. Engman
+56	56	Jennifer N. Wingard	Cheryl L. Olson
+56	56	Jennifer N. Wingard	Patrícia T. Campana
+56	56	Jennifer N. Wingard	Ana Paula Ulian de Araújo
+56	56	Jennifer N. Wingard	David M. Engman
+56	56	Cheryl L. Olson	Patrícia T. Campana
+56	56	Cheryl L. Olson	Ana Paula Ulian de Araújo
+56	56	Cheryl L. Olson	David M. Engman
+56	56	Patrícia T. Campana	Ana Paula Ulian de Araújo
+56	56	Patrícia T. Campana	David M. Engman
+56	56	Ana Paula Ulian de Araújo	David M. Engman
+57	57	Juan S. León	Kegiang Wang
+57	57	Juan S. León	David M. Engman
+57	57	Kegiang Wang	David M. Engman
+58	58	Jennifer N. Wingard	Jane E. Ladner
+58	58	Jennifer N. Wingard	Murugendra Vanarotti
+58	58	Jennifer N. Wingard	Andrew J. Fisher
+58	58	Jennifer N. Wingard	Howard Robinson
+58	58	Jennifer N. Wingard	Kathryn T. Buchanan
+58	58	Jennifer N. Wingard	David M. Engman
+58	58	Jennifer N. Wingard	James B. Ames
+58	58	Jane E. Ladner	Murugendra Vanarotti
+58	58	Jane E. Ladner	Andrew J. Fisher
+58	58	Jane E. Ladner	Howard Robinson
+58	58	Jane E. Ladner	Kathryn T. Buchanan
+58	58	Jane E. Ladner	David M. Engman
+58	58	Jane E. Ladner	James B. Ames
+58	58	Murugendra Vanarotti	Andrew J. Fisher
+58	58	Murugendra Vanarotti	Howard Robinson
+58	58	Murugendra Vanarotti	Kathryn T. Buchanan
+58	58	Murugendra Vanarotti	David M. Engman
+58	58	Murugendra Vanarotti	James B. Ames
+58	58	Andrew J. Fisher	Howard Robinson
+58	58	Andrew J. Fisher	Kathryn T. Buchanan
+58	58	Andrew J. Fisher	David M. Engman
+58	58	Andrew J. Fisher	James B. Ames
+58	58	Howard Robinson	Kathryn T. Buchanan
+58	58	Howard Robinson	David M. Engman
+58	58	Howard Robinson	James B. Ames
+58	58	Kathryn T. Buchanan	David M. Engman
+58	58	Kathryn T. Buchanan	James B. Ames
+58	58	David M. Engman	James B. Ames
+59	59	Kevin M. Bonney	Joann M. Taylor
+59	59	Kevin M. Bonney	Edward B. Thorp
+59	59	Kevin M. Bonney	Conrad L. Epting
+59	59	Kevin M. Bonney	David M. Engman
+59	59	Joann M. Taylor	Edward B. Thorp
+59	59	Joann M. Taylor	Conrad L. Epting
+59	59	Joann M. Taylor	David M. Engman
+59	59	Edward B. Thorp	Conrad L. Epting
+59	59	Edward B. Thorp	David M. Engman
+59	59	Conrad L. Epting	David M. Engman
+60	60	Randal S. Tibbetts	I Y Kim
+60	60	Randal S. Tibbetts	Cheryl L. Olson
+60	60	Randal S. Tibbetts	Lennart Barthel
+60	60	Randal S. Tibbetts	Mary Anne Sullivan
+60	60	Randal S. Tibbetts	Andrea Winquist
+60	60	Randal S. Tibbetts	Shane Miller
+60	60	Randal S. Tibbetts	David M. Engman
+60	60	I Y Kim	Cheryl L. Olson
+60	60	I Y Kim	Lennart Barthel
+60	60	I Y Kim	Mary Anne Sullivan
+60	60	I Y Kim	Andrea Winquist
+60	60	I Y Kim	Shane Miller
+60	60	I Y Kim	David M. Engman
+60	60	Cheryl L. Olson	Lennart Barthel
+60	60	Cheryl L. Olson	Mary Anne Sullivan
+60	60	Cheryl L. Olson	Andrea Winquist
+60	60	Cheryl L. Olson	Shane Miller
+60	60	Cheryl L. Olson	David M. Engman
+60	60	Lennart Barthel	Mary Anne Sullivan
+60	60	Lennart Barthel	Andrea Winquist
+60	60	Lennart Barthel	Shane Miller
+60	60	Lennart Barthel	David M. Engman
+60	60	Mary Anne Sullivan	Andrea Winquist
+60	60	Mary Anne Sullivan	Shane Miller
+60	60	Mary Anne Sullivan	David M. Engman
+60	60	Andrea Winquist	Shane Miller
+60	60	Andrea Winquist	David M. Engman
+60	60	Shane Miller	David M. Engman
+61	61	Kevin M. Tyler	G.W. Gant Luxton
+61	61	Kevin M. Tyler	Derek A. Applewhite
+61	61	Kevin M. Tyler	Sean C. Murphy
+61	61	Kevin M. Tyler	David M. Engman
+61	61	G.W. Gant Luxton	Derek A. Applewhite
+61	61	G.W. Gant Luxton	Sean C. Murphy
+61	61	G.W. Gant Luxton	David M. Engman
+61	61	Derek A. Applewhite	Sean C. Murphy
+61	61	Derek A. Applewhite	David M. Engman
+61	61	Sean C. Murphy	David M. Engman
+62	62	Bria M. Coates	David P. Sullivan
+62	62	Bria M. Coates	Ming Y. Makanji
+62	62	Bria M. Coates	Nga Du
+62	62	Bria M. Coates	Cheryl L. Olson
+62	62	Bria M. Coates	William A. Müller
+62	62	Bria M. Coates	David M. Engman
+62	62	Bria M. Coates	Conrad L. Epting
+62	62	David P. Sullivan	Ming Y. Makanji
+62	62	David P. Sullivan	Nga Du
+62	62	David P. Sullivan	Cheryl L. Olson
+62	62	David P. Sullivan	William A. Müller
+62	62	David P. Sullivan	David M. Engman
+62	62	David P. Sullivan	Conrad L. Epting
+62	62	Ming Y. Makanji	Nga Du
+62	62	Ming Y. Makanji	Cheryl L. Olson
+62	62	Ming Y. Makanji	William A. Müller
+62	62	Ming Y. Makanji	David M. Engman
+62	62	Ming Y. Makanji	Conrad L. Epting
+62	62	Nga Du	Cheryl L. Olson
+62	62	Nga Du	William A. Müller
+62	62	Nga Du	David M. Engman
+62	62	Nga Du	Conrad L. Epting
+62	62	Cheryl L. Olson	William A. Müller
+62	62	Cheryl L. Olson	David M. Engman
+62	62	Cheryl L. Olson	Conrad L. Epting
+62	62	William A. Müller	David M. Engman
+62	62	William A. Müller	Conrad L. Epting
+62	62	David M. Engman	Conrad L. Epting
+63	63	Kevin M. Tyler	David M. Engman
+64	64	Lisa M. Godsel	Kegiang Wang
+64	64	Lisa M. Godsel	Beth A. Schodin
+64	64	Lisa M. Godsel	Juan S. León
+64	64	Lisa M. Godsel	Stephen D. Miller
+64	64	Lisa M. Godsel	David M. Engman
+64	64	Kegiang Wang	Beth A. Schodin
+64	64	Kegiang Wang	Juan S. León
+64	64	Kegiang Wang	Stephen D. Miller
+64	64	Kegiang Wang	David M. Engman
+64	64	Beth A. Schodin	Juan S. León
+64	64	Beth A. Schodin	Stephen D. Miller
+64	64	Beth A. Schodin	David M. Engman
+64	64	Juan S. León	Stephen D. Miller
+64	64	Juan S. León	David M. Engman
+64	64	Stephen D. Miller	David M. Engman
+65	65	Kevin M. Tyler	Cheryl L. Olson
+65	65	Kevin M. Tyler	David M. Engman
+65	65	Cheryl L. Olson	David M. Engman
+66	66	David M. Engman	Louis V. Kirchhoff
+66	66	David M. Engman	John E. Donelson
+66	66	Louis V. Kirchhoff	John E. Donelson
+67	67	Kenneth V. Hyland	David M. Engman
+68	68	Antonio Teixeira	Marina Clare Vinaud
+68	68	Antonio Teixeira	Ana María Castro
+68	68	Antonio Teixeira	João Carlos Pinto Dias
+68	68	Antonio Teixeira	Christopher J. Schofield
+68	68	Antonio Teixeira	Rubens J Nascimento
+68	68	Antonio Teixeira	Nancy R. Sturm
+68	68	Antonio Teixeira	Marina Claude Vinaud
+68	68	Antonio Teixeira	Liléia Diotaiuti
+68	68	Antonio Teixeira	Wanderley de Souza
+68	68	Antonio Teixeira	Kildare Miranda
+68	68	Antonio Teixeira	Narcisa L. Cunha‐e‐Silva
+68	68	Antonio Teixeira	Thaïs Souto-Padrón
+68	68	Antonio Teixeira	David A. Campbell
+68	68	Antonio Teixeira	David M. Engman
+68	68	Antonio Teixeira	Conrad L. Epting
+68	68	Antonio Teixeira	Kevin M. Bonney
+68	68	Antonio Teixeira	Maurício M. Rodrigues
+68	68	Antonio Teixeira	Bruna Cunha de Alencar
+68	68	Antonio Teixeira	José Ronnie Vasconcelos
+68	68	Antonio Teixeira	Fernando Pimentel-Santos
+68	68	Antonio Teixeira	Ciro Cordeiro
+68	68	Antonio Teixeira	Nadjar Nitz
+68	68	Antonio Teixeira	Mariana Hecht
+68	68	Antonio Teixeira	Liana Lauria‐Pires
+68	68	Antonio Teixeira	Ana de Cássia Rosa
+68	68	Antonio Teixeira	Cleudson Castro
+68	68	Antonio Teixeira	Izabela Marques Dourado Bastos
+68	68	Antonio Teixeira	David Neves
+68	68	Antonio Teixeira	Meire M. Lima
+68	68	Antonio Teixeira	Jaime M. Santana
+68	68	Antonio Teixeira	Cléver Gomes Cardoso
+68	68	Antonio Teixeira	Silene P. Lozzi
+68	68	Antonio Teixeira	Pedro Sadi Monteiro
+68	68	Antonio Teixeira	Ana Bussacos
+68	68	Antonio Teixeira	Concepta McManus
+68	68	Antonio Teixeira	Alessandro O. Sousa
+68	68	Marina Clare Vinaud	Ana María Castro
+68	68	Marina Clare Vinaud	João Carlos Pinto Dias
+68	68	Marina Clare Vinaud	Christopher J. Schofield
+68	68	Marina Clare Vinaud	Rubens J Nascimento
+68	68	Marina Clare Vinaud	Nancy R. Sturm
+68	68	Marina Clare Vinaud	Marina Claude Vinaud
+68	68	Marina Clare Vinaud	Liléia Diotaiuti
+68	68	Marina Clare Vinaud	Wanderley de Souza
+68	68	Marina Clare Vinaud	Kildare Miranda
+68	68	Marina Clare Vinaud	Narcisa L. Cunha‐e‐Silva
+68	68	Marina Clare Vinaud	Thaïs Souto-Padrón
+68	68	Marina Clare Vinaud	David A. Campbell
+68	68	Marina Clare Vinaud	David M. Engman
+68	68	Marina Clare Vinaud	Conrad L. Epting
+68	68	Marina Clare Vinaud	Kevin M. Bonney
+68	68	Marina Clare Vinaud	Maurício M. Rodrigues
+68	68	Marina Clare Vinaud	Bruna Cunha de Alencar
+68	68	Marina Clare Vinaud	José Ronnie Vasconcelos
+68	68	Marina Clare Vinaud	Fernando Pimentel-Santos
+68	68	Marina Clare Vinaud	Ciro Cordeiro
+68	68	Marina Clare Vinaud	Nadjar Nitz
+68	68	Marina Clare Vinaud	Mariana Hecht
+68	68	Marina Clare Vinaud	Liana Lauria‐Pires
+68	68	Marina Clare Vinaud	Ana de Cássia Rosa
+68	68	Marina Clare Vinaud	Cleudson Castro
+68	68	Marina Clare Vinaud	Izabela Marques Dourado Bastos
+68	68	Marina Clare Vinaud	David Neves
+68	68	Marina Clare Vinaud	Meire M. Lima
+68	68	Marina Clare Vinaud	Jaime M. Santana
+68	68	Marina Clare Vinaud	Cléver Gomes Cardoso
+68	68	Marina Clare Vinaud	Silene P. Lozzi
+68	68	Marina Clare Vinaud	Pedro Sadi Monteiro
+68	68	Marina Clare Vinaud	Ana Bussacos
+68	68	Marina Clare Vinaud	Concepta McManus
+68	68	Marina Clare Vinaud	Alessandro O. Sousa
+68	68	Ana María Castro	João Carlos Pinto Dias
+68	68	Ana María Castro	Christopher J. Schofield
+68	68	Ana María Castro	Rubens J Nascimento
+68	68	Ana María Castro	Nancy R. Sturm
+68	68	Ana María Castro	Marina Claude Vinaud
+68	68	Ana María Castro	Liléia Diotaiuti
+68	68	Ana María Castro	Wanderley de Souza
+68	68	Ana María Castro	Kildare Miranda
+68	68	Ana María Castro	Narcisa L. Cunha‐e‐Silva
+68	68	Ana María Castro	Thaïs Souto-Padrón
+68	68	Ana María Castro	David A. Campbell
+68	68	Ana María Castro	David M. Engman
+68	68	Ana María Castro	Conrad L. Epting
+68	68	Ana María Castro	Kevin M. Bonney
+68	68	Ana María Castro	Maurício M. Rodrigues
+68	68	Ana María Castro	Bruna Cunha de Alencar
+68	68	Ana María Castro	José Ronnie Vasconcelos
+68	68	Ana María Castro	Fernando Pimentel-Santos
+68	68	Ana María Castro	Ciro Cordeiro
+68	68	Ana María Castro	Nadjar Nitz
+68	68	Ana María Castro	Mariana Hecht
+68	68	Ana María Castro	Liana Lauria‐Pires
+68	68	Ana María Castro	Ana de Cássia Rosa
+68	68	Ana María Castro	Cleudson Castro
+68	68	Ana María Castro	Izabela Marques Dourado Bastos
+68	68	Ana María Castro	David Neves
+68	68	Ana María Castro	Meire M. Lima
+68	68	Ana María Castro	Jaime M. Santana
+68	68	Ana María Castro	Cléver Gomes Cardoso
+68	68	Ana María Castro	Silene P. Lozzi
+68	68	Ana María Castro	Pedro Sadi Monteiro
+68	68	Ana María Castro	Ana Bussacos
+68	68	Ana María Castro	Concepta McManus
+68	68	Ana María Castro	Alessandro O. Sousa
+68	68	João Carlos Pinto Dias	Christopher J. Schofield
+68	68	João Carlos Pinto Dias	Rubens J Nascimento
+68	68	João Carlos Pinto Dias	Nancy R. Sturm
+68	68	João Carlos Pinto Dias	Marina Claude Vinaud
+68	68	João Carlos Pinto Dias	Liléia Diotaiuti
+68	68	João Carlos Pinto Dias	Wanderley de Souza
+68	68	João Carlos Pinto Dias	Kildare Miranda
+68	68	João Carlos Pinto Dias	Narcisa L. Cunha‐e‐Silva
+68	68	João Carlos Pinto Dias	Thaïs Souto-Padrón
+68	68	João Carlos Pinto Dias	David A. Campbell
+68	68	João Carlos Pinto Dias	David M. Engman
+68	68	João Carlos Pinto Dias	Conrad L. Epting
+68	68	João Carlos Pinto Dias	Kevin M. Bonney
+68	68	João Carlos Pinto Dias	Maurício M. Rodrigues
+68	68	João Carlos Pinto Dias	Bruna Cunha de Alencar
+68	68	João Carlos Pinto Dias	José Ronnie Vasconcelos
+68	68	João Carlos Pinto Dias	Fernando Pimentel-Santos
+68	68	João Carlos Pinto Dias	Ciro Cordeiro
+68	68	João Carlos Pinto Dias	Nadjar Nitz
+68	68	João Carlos Pinto Dias	Mariana Hecht
+68	68	João Carlos Pinto Dias	Liana Lauria‐Pires
+68	68	João Carlos Pinto Dias	Ana de Cássia Rosa
+68	68	João Carlos Pinto Dias	Cleudson Castro
+68	68	João Carlos Pinto Dias	Izabela Marques Dourado Bastos
+68	68	João Carlos Pinto Dias	David Neves
+68	68	João Carlos Pinto Dias	Meire M. Lima
+68	68	João Carlos Pinto Dias	Jaime M. Santana
+68	68	João Carlos Pinto Dias	Cléver Gomes Cardoso
+68	68	João Carlos Pinto Dias	Silene P. Lozzi
+68	68	João Carlos Pinto Dias	Pedro Sadi Monteiro
+68	68	João Carlos Pinto Dias	Ana Bussacos
+68	68	João Carlos Pinto Dias	Concepta McManus
+68	68	João Carlos Pinto Dias	Alessandro O. Sousa
+68	68	Christopher J. Schofield	Rubens J Nascimento
+68	68	Christopher J. Schofield	Nancy R. Sturm
+68	68	Christopher J. Schofield	Marina Claude Vinaud
+68	68	Christopher J. Schofield	Liléia Diotaiuti
+68	68	Christopher J. Schofield	Wanderley de Souza
+68	68	Christopher J. Schofield	Kildare Miranda
+68	68	Christopher J. Schofield	Narcisa L. Cunha‐e‐Silva
+68	68	Christopher J. Schofield	Thaïs Souto-Padrón
+68	68	Christopher J. Schofield	David A. Campbell
+68	68	Christopher J. Schofield	David M. Engman
+68	68	Christopher J. Schofield	Conrad L. Epting
+68	68	Christopher J. Schofield	Kevin M. Bonney
+68	68	Christopher J. Schofield	Maurício M. Rodrigues
+68	68	Christopher J. Schofield	Bruna Cunha de Alencar
+68	68	Christopher J. Schofield	José Ronnie Vasconcelos
+68	68	Christopher J. Schofield	Fernando Pimentel-Santos
+68	68	Christopher J. Schofield	Ciro Cordeiro
+68	68	Christopher J. Schofield	Nadjar Nitz
+68	68	Christopher J. Schofield	Mariana Hecht
+68	68	Christopher J. Schofield	Liana Lauria‐Pires
+68	68	Christopher J. Schofield	Ana de Cássia Rosa
+68	68	Christopher J. Schofield	Cleudson Castro
+68	68	Christopher J. Schofield	Izabela Marques Dourado Bastos
+68	68	Christopher J. Schofield	David Neves
+68	68	Christopher J. Schofield	Meire M. Lima
+68	68	Christopher J. Schofield	Jaime M. Santana
+68	68	Christopher J. Schofield	Cléver Gomes Cardoso
+68	68	Christopher J. Schofield	Silene P. Lozzi
+68	68	Christopher J. Schofield	Pedro Sadi Monteiro
+68	68	Christopher J. Schofield	Ana Bussacos
+68	68	Christopher J. Schofield	Concepta McManus
+68	68	Christopher J. Schofield	Alessandro O. Sousa
+68	68	Rubens J Nascimento	Nancy R. Sturm
+68	68	Rubens J Nascimento	Marina Claude Vinaud
+68	68	Rubens J Nascimento	Liléia Diotaiuti
+68	68	Rubens J Nascimento	Wanderley de Souza
+68	68	Rubens J Nascimento	Kildare Miranda
+68	68	Rubens J Nascimento	Narcisa L. Cunha‐e‐Silva
+68	68	Rubens J Nascimento	Thaïs Souto-Padrón
+68	68	Rubens J Nascimento	David A. Campbell
+68	68	Rubens J Nascimento	David M. Engman
+68	68	Rubens J Nascimento	Conrad L. Epting
+68	68	Rubens J Nascimento	Kevin M. Bonney
+68	68	Rubens J Nascimento	Maurício M. Rodrigues
+68	68	Rubens J Nascimento	Bruna Cunha de Alencar
+68	68	Rubens J Nascimento	José Ronnie Vasconcelos
+68	68	Rubens J Nascimento	Fernando Pimentel-Santos
+68	68	Rubens J Nascimento	Ciro Cordeiro
+68	68	Rubens J Nascimento	Nadjar Nitz
+68	68	Rubens J Nascimento	Mariana Hecht
+68	68	Rubens J Nascimento	Liana Lauria‐Pires
+68	68	Rubens J Nascimento	Ana de Cássia Rosa
+68	68	Rubens J Nascimento	Cleudson Castro
+68	68	Rubens J Nascimento	Izabela Marques Dourado Bastos
+68	68	Rubens J Nascimento	David Neves
+68	68	Rubens J Nascimento	Meire M. Lima
+68	68	Rubens J Nascimento	Jaime M. Santana
+68	68	Rubens J Nascimento	Cléver Gomes Cardoso
+68	68	Rubens J Nascimento	Silene P. Lozzi
+68	68	Rubens J Nascimento	Pedro Sadi Monteiro
+68	68	Rubens J Nascimento	Ana Bussacos
+68	68	Rubens J Nascimento	Concepta McManus
+68	68	Rubens J Nascimento	Alessandro O. Sousa
+68	68	Nancy R. Sturm	Marina Claude Vinaud
+68	68	Nancy R. Sturm	Liléia Diotaiuti
+68	68	Nancy R. Sturm	Wanderley de Souza
+68	68	Nancy R. Sturm	Kildare Miranda
+68	68	Nancy R. Sturm	Narcisa L. Cunha‐e‐Silva
+68	68	Nancy R. Sturm	Thaïs Souto-Padrón
+68	68	Nancy R. Sturm	David A. Campbell
+68	68	Nancy R. Sturm	David M. Engman
+68	68	Nancy R. Sturm	Conrad L. Epting
+68	68	Nancy R. Sturm	Kevin M. Bonney
+68	68	Nancy R. Sturm	Maurício M. Rodrigues
+68	68	Nancy R. Sturm	Bruna Cunha de Alencar
+68	68	Nancy R. Sturm	José Ronnie Vasconcelos
+68	68	Nancy R. Sturm	Fernando Pimentel-Santos
+68	68	Nancy R. Sturm	Ciro Cordeiro
+68	68	Nancy R. Sturm	Nadjar Nitz
+68	68	Nancy R. Sturm	Mariana Hecht
+68	68	Nancy R. Sturm	Liana Lauria‐Pires
+68	68	Nancy R. Sturm	Ana de Cássia Rosa
+68	68	Nancy R. Sturm	Cleudson Castro
+68	68	Nancy R. Sturm	Izabela Marques Dourado Bastos
+68	68	Nancy R. Sturm	David Neves
+68	68	Nancy R. Sturm	Meire M. Lima
+68	68	Nancy R. Sturm	Jaime M. Santana
+68	68	Nancy R. Sturm	Cléver Gomes Cardoso
+68	68	Nancy R. Sturm	Silene P. Lozzi
+68	68	Nancy R. Sturm	Pedro Sadi Monteiro
+68	68	Nancy R. Sturm	Ana Bussacos
+68	68	Nancy R. Sturm	Concepta McManus
+68	68	Nancy R. Sturm	Alessandro O. Sousa
+68	68	Marina Claude Vinaud	Liléia Diotaiuti
+68	68	Marina Claude Vinaud	Wanderley de Souza
+68	68	Marina Claude Vinaud	Kildare Miranda
+68	68	Marina Claude Vinaud	Narcisa L. Cunha‐e‐Silva
+68	68	Marina Claude Vinaud	Thaïs Souto-Padrón
+68	68	Marina Claude Vinaud	David A. Campbell
+68	68	Marina Claude Vinaud	David M. Engman
+68	68	Marina Claude Vinaud	Conrad L. Epting
+68	68	Marina Claude Vinaud	Kevin M. Bonney
+68	68	Marina Claude Vinaud	Maurício M. Rodrigues
+68	68	Marina Claude Vinaud	Bruna Cunha de Alencar
+68	68	Marina Claude Vinaud	José Ronnie Vasconcelos
+68	68	Marina Claude Vinaud	Fernando Pimentel-Santos
+68	68	Marina Claude Vinaud	Ciro Cordeiro
+68	68	Marina Claude Vinaud	Nadjar Nitz
+68	68	Marina Claude Vinaud	Mariana Hecht
+68	68	Marina Claude Vinaud	Liana Lauria‐Pires
+68	68	Marina Claude Vinaud	Ana de Cássia Rosa
+68	68	Marina Claude Vinaud	Cleudson Castro
+68	68	Marina Claude Vinaud	Izabela Marques Dourado Bastos
+68	68	Marina Claude Vinaud	David Neves
+68	68	Marina Claude Vinaud	Meire M. Lima
+68	68	Marina Claude Vinaud	Jaime M. Santana
+68	68	Marina Claude Vinaud	Cléver Gomes Cardoso
+68	68	Marina Claude Vinaud	Silene P. Lozzi
+68	68	Marina Claude Vinaud	Pedro Sadi Monteiro
+68	68	Marina Claude Vinaud	Ana Bussacos
+68	68	Marina Claude Vinaud	Concepta McManus
+68	68	Marina Claude Vinaud	Alessandro O. Sousa
+68	68	Liléia Diotaiuti	Wanderley de Souza
+68	68	Liléia Diotaiuti	Kildare Miranda
+68	68	Liléia Diotaiuti	Narcisa L. Cunha‐e‐Silva
+68	68	Liléia Diotaiuti	Thaïs Souto-Padrón
+68	68	Liléia Diotaiuti	David A. Campbell
+68	68	Liléia Diotaiuti	David M. Engman
+68	68	Liléia Diotaiuti	Conrad L. Epting
+68	68	Liléia Diotaiuti	Kevin M. Bonney
+68	68	Liléia Diotaiuti	Maurício M. Rodrigues
+68	68	Liléia Diotaiuti	Bruna Cunha de Alencar
+68	68	Liléia Diotaiuti	José Ronnie Vasconcelos
+68	68	Liléia Diotaiuti	Fernando Pimentel-Santos
+68	68	Liléia Diotaiuti	Ciro Cordeiro
+68	68	Liléia Diotaiuti	Nadjar Nitz
+68	68	Liléia Diotaiuti	Mariana Hecht
+68	68	Liléia Diotaiuti	Liana Lauria‐Pires
+68	68	Liléia Diotaiuti	Ana de Cássia Rosa
+68	68	Liléia Diotaiuti	Cleudson Castro
+68	68	Liléia Diotaiuti	Izabela Marques Dourado Bastos
+68	68	Liléia Diotaiuti	David Neves
+68	68	Liléia Diotaiuti	Meire M. Lima
+68	68	Liléia Diotaiuti	Jaime M. Santana
+68	68	Liléia Diotaiuti	Cléver Gomes Cardoso
+68	68	Liléia Diotaiuti	Silene P. Lozzi
+68	68	Liléia Diotaiuti	Pedro Sadi Monteiro
+68	68	Liléia Diotaiuti	Ana Bussacos
+68	68	Liléia Diotaiuti	Concepta McManus
+68	68	Liléia Diotaiuti	Alessandro O. Sousa
+68	68	Wanderley de Souza	Kildare Miranda
+68	68	Wanderley de Souza	Narcisa L. Cunha‐e‐Silva
+68	68	Wanderley de Souza	Thaïs Souto-Padrón
+68	68	Wanderley de Souza	David A. Campbell
+68	68	Wanderley de Souza	David M. Engman
+68	68	Wanderley de Souza	Conrad L. Epting
+68	68	Wanderley de Souza	Kevin M. Bonney
+68	68	Wanderley de Souza	Maurício M. Rodrigues
+68	68	Wanderley de Souza	Bruna Cunha de Alencar
+68	68	Wanderley de Souza	José Ronnie Vasconcelos
+68	68	Wanderley de Souza	Fernando Pimentel-Santos
+68	68	Wanderley de Souza	Ciro Cordeiro
+68	68	Wanderley de Souza	Nadjar Nitz
+68	68	Wanderley de Souza	Mariana Hecht
+68	68	Wanderley de Souza	Liana Lauria‐Pires
+68	68	Wanderley de Souza	Ana de Cássia Rosa
+68	68	Wanderley de Souza	Cleudson Castro
+68	68	Wanderley de Souza	Izabela Marques Dourado Bastos
+68	68	Wanderley de Souza	David Neves
+68	68	Wanderley de Souza	Meire M. Lima
+68	68	Wanderley de Souza	Jaime M. Santana
+68	68	Wanderley de Souza	Cléver Gomes Cardoso
+68	68	Wanderley de Souza	Silene P. Lozzi
+68	68	Wanderley de Souza	Pedro Sadi Monteiro
+68	68	Wanderley de Souza	Ana Bussacos
+68	68	Wanderley de Souza	Concepta McManus
+68	68	Wanderley de Souza	Alessandro O. Sousa
+68	68	Kildare Miranda	Narcisa L. Cunha‐e‐Silva
+68	68	Kildare Miranda	Thaïs Souto-Padrón
+68	68	Kildare Miranda	David A. Campbell
+68	68	Kildare Miranda	David M. Engman
+68	68	Kildare Miranda	Conrad L. Epting
+68	68	Kildare Miranda	Kevin M. Bonney
+68	68	Kildare Miranda	Maurício M. Rodrigues
+68	68	Kildare Miranda	Bruna Cunha de Alencar
+68	68	Kildare Miranda	José Ronnie Vasconcelos
+68	68	Kildare Miranda	Fernando Pimentel-Santos
+68	68	Kildare Miranda	Ciro Cordeiro
+68	68	Kildare Miranda	Nadjar Nitz
+68	68	Kildare Miranda	Mariana Hecht
+68	68	Kildare Miranda	Liana Lauria‐Pires
+68	68	Kildare Miranda	Ana de Cássia Rosa
+68	68	Kildare Miranda	Cleudson Castro
+68	68	Kildare Miranda	Izabela Marques Dourado Bastos
+68	68	Kildare Miranda	David Neves
+68	68	Kildare Miranda	Meire M. Lima
+68	68	Kildare Miranda	Jaime M. Santana
+68	68	Kildare Miranda	Cléver Gomes Cardoso
+68	68	Kildare Miranda	Silene P. Lozzi
+68	68	Kildare Miranda	Pedro Sadi Monteiro
+68	68	Kildare Miranda	Ana Bussacos
+68	68	Kildare Miranda	Concepta McManus
+68	68	Kildare Miranda	Alessandro O. Sousa
+68	68	Narcisa L. Cunha‐e‐Silva	Thaïs Souto-Padrón
+68	68	Narcisa L. Cunha‐e‐Silva	David A. Campbell
+68	68	Narcisa L. Cunha‐e‐Silva	David M. Engman
+68	68	Narcisa L. Cunha‐e‐Silva	Conrad L. Epting
+68	68	Narcisa L. Cunha‐e‐Silva	Kevin M. Bonney
+68	68	Narcisa L. Cunha‐e‐Silva	Maurício M. Rodrigues
+68	68	Narcisa L. Cunha‐e‐Silva	Bruna Cunha de Alencar
+68	68	Narcisa L. Cunha‐e‐Silva	José Ronnie Vasconcelos
+68	68	Narcisa L. Cunha‐e‐Silva	Fernando Pimentel-Santos
+68	68	Narcisa L. Cunha‐e‐Silva	Ciro Cordeiro
+68	68	Narcisa L. Cunha‐e‐Silva	Nadjar Nitz
+68	68	Narcisa L. Cunha‐e‐Silva	Mariana Hecht
+68	68	Narcisa L. Cunha‐e‐Silva	Liana Lauria‐Pires
+68	68	Narcisa L. Cunha‐e‐Silva	Ana de Cássia Rosa
+68	68	Narcisa L. Cunha‐e‐Silva	Cleudson Castro
+68	68	Narcisa L. Cunha‐e‐Silva	Izabela Marques Dourado Bastos
+68	68	Narcisa L. Cunha‐e‐Silva	David Neves
+68	68	Narcisa L. Cunha‐e‐Silva	Meire M. Lima
+68	68	Narcisa L. Cunha‐e‐Silva	Jaime M. Santana
+68	68	Narcisa L. Cunha‐e‐Silva	Cléver Gomes Cardoso
+68	68	Narcisa L. Cunha‐e‐Silva	Silene P. Lozzi
+68	68	Narcisa L. Cunha‐e‐Silva	Pedro Sadi Monteiro
+68	68	Narcisa L. Cunha‐e‐Silva	Ana Bussacos
+68	68	Narcisa L. Cunha‐e‐Silva	Concepta McManus
+68	68	Narcisa L. Cunha‐e‐Silva	Alessandro O. Sousa
+68	68	Thaïs Souto-Padrón	David A. Campbell
+68	68	Thaïs Souto-Padrón	David M. Engman
+68	68	Thaïs Souto-Padrón	Conrad L. Epting
+68	68	Thaïs Souto-Padrón	Kevin M. Bonney
+68	68	Thaïs Souto-Padrón	Maurício M. Rodrigues
+68	68	Thaïs Souto-Padrón	Bruna Cunha de Alencar
+68	68	Thaïs Souto-Padrón	José Ronnie Vasconcelos
+68	68	Thaïs Souto-Padrón	Fernando Pimentel-Santos
+68	68	Thaïs Souto-Padrón	Ciro Cordeiro
+68	68	Thaïs Souto-Padrón	Nadjar Nitz
+68	68	Thaïs Souto-Padrón	Mariana Hecht
+68	68	Thaïs Souto-Padrón	Liana Lauria‐Pires
+68	68	Thaïs Souto-Padrón	Ana de Cássia Rosa
+68	68	Thaïs Souto-Padrón	Cleudson Castro
+68	68	Thaïs Souto-Padrón	Izabela Marques Dourado Bastos
+68	68	Thaïs Souto-Padrón	David Neves
+68	68	Thaïs Souto-Padrón	Meire M. Lima
+68	68	Thaïs Souto-Padrón	Jaime M. Santana
+68	68	Thaïs Souto-Padrón	Cléver Gomes Cardoso
+68	68	Thaïs Souto-Padrón	Silene P. Lozzi
+68	68	Thaïs Souto-Padrón	Pedro Sadi Monteiro
+68	68	Thaïs Souto-Padrón	Ana Bussacos
+68	68	Thaïs Souto-Padrón	Concepta McManus
+68	68	Thaïs Souto-Padrón	Alessandro O. Sousa
+68	68	David A. Campbell	David M. Engman
+68	68	David A. Campbell	Conrad L. Epting
+68	68	David A. Campbell	Kevin M. Bonney
+68	68	David A. Campbell	Maurício M. Rodrigues
+68	68	David A. Campbell	Bruna Cunha de Alencar
+68	68	David A. Campbell	José Ronnie Vasconcelos
+68	68	David A. Campbell	Fernando Pimentel-Santos
+68	68	David A. Campbell	Ciro Cordeiro
+68	68	David A. Campbell	Nadjar Nitz
+68	68	David A. Campbell	Mariana Hecht
+68	68	David A. Campbell	Liana Lauria‐Pires
+68	68	David A. Campbell	Ana de Cássia Rosa
+68	68	David A. Campbell	Cleudson Castro
+68	68	David A. Campbell	Izabela Marques Dourado Bastos
+68	68	David A. Campbell	David Neves
+68	68	David A. Campbell	Meire M. Lima
+68	68	David A. Campbell	Jaime M. Santana
+68	68	David A. Campbell	Cléver Gomes Cardoso
+68	68	David A. Campbell	Silene P. Lozzi
+68	68	David A. Campbell	Pedro Sadi Monteiro
+68	68	David A. Campbell	Ana Bussacos
+68	68	David A. Campbell	Concepta McManus
+68	68	David A. Campbell	Alessandro O. Sousa
+68	68	David M. Engman	Conrad L. Epting
+68	68	David M. Engman	Kevin M. Bonney
+68	68	David M. Engman	Maurício M. Rodrigues
+68	68	David M. Engman	Bruna Cunha de Alencar
+68	68	David M. Engman	José Ronnie Vasconcelos
+68	68	David M. Engman	Fernando Pimentel-Santos
+68	68	David M. Engman	Ciro Cordeiro
+68	68	David M. Engman	Nadjar Nitz
+68	68	David M. Engman	Mariana Hecht
+68	68	David M. Engman	Liana Lauria‐Pires
+68	68	David M. Engman	Ana de Cássia Rosa
+68	68	David M. Engman	Cleudson Castro
+68	68	David M. Engman	Izabela Marques Dourado Bastos
+68	68	David M. Engman	David Neves
+68	68	David M. Engman	Meire M. Lima
+68	68	David M. Engman	Jaime M. Santana
+68	68	David M. Engman	Cléver Gomes Cardoso
+68	68	David M. Engman	Silene P. Lozzi
+68	68	David M. Engman	Pedro Sadi Monteiro
+68	68	David M. Engman	Ana Bussacos
+68	68	David M. Engman	Concepta McManus
+68	68	David M. Engman	Alessandro O. Sousa
+68	68	Conrad L. Epting	Kevin M. Bonney
+68	68	Conrad L. Epting	Maurício M. Rodrigues
+68	68	Conrad L. Epting	Bruna Cunha de Alencar
+68	68	Conrad L. Epting	José Ronnie Vasconcelos
+68	68	Conrad L. Epting	Fernando Pimentel-Santos
+68	68	Conrad L. Epting	Ciro Cordeiro
+68	68	Conrad L. Epting	Nadjar Nitz
+68	68	Conrad L. Epting	Mariana Hecht
+68	68	Conrad L. Epting	Liana Lauria‐Pires
+68	68	Conrad L. Epting	Ana de Cássia Rosa
+68	68	Conrad L. Epting	Cleudson Castro
+68	68	Conrad L. Epting	Izabela Marques Dourado Bastos
+68	68	Conrad L. Epting	David Neves
+68	68	Conrad L. Epting	Meire M. Lima
+68	68	Conrad L. Epting	Jaime M. Santana
+68	68	Conrad L. Epting	Cléver Gomes Cardoso
+68	68	Conrad L. Epting	Silene P. Lozzi
+68	68	Conrad L. Epting	Pedro Sadi Monteiro
+68	68	Conrad L. Epting	Ana Bussacos
+68	68	Conrad L. Epting	Concepta McManus
+68	68	Conrad L. Epting	Alessandro O. Sousa
+68	68	Kevin M. Bonney	Maurício M. Rodrigues
+68	68	Kevin M. Bonney	Bruna Cunha de Alencar
+68	68	Kevin M. Bonney	José Ronnie Vasconcelos
+68	68	Kevin M. Bonney	Fernando Pimentel-Santos
+68	68	Kevin M. Bonney	Ciro Cordeiro
+68	68	Kevin M. Bonney	Nadjar Nitz
+68	68	Kevin M. Bonney	Mariana Hecht
+68	68	Kevin M. Bonney	Liana Lauria‐Pires
+68	68	Kevin M. Bonney	Ana de Cássia Rosa
+68	68	Kevin M. Bonney	Cleudson Castro
+68	68	Kevin M. Bonney	Izabela Marques Dourado Bastos
+68	68	Kevin M. Bonney	David Neves
+68	68	Kevin M. Bonney	Meire M. Lima
+68	68	Kevin M. Bonney	Jaime M. Santana
+68	68	Kevin M. Bonney	Cléver Gomes Cardoso
+68	68	Kevin M. Bonney	Silene P. Lozzi
+68	68	Kevin M. Bonney	Pedro Sadi Monteiro
+68	68	Kevin M. Bonney	Ana Bussacos
+68	68	Kevin M. Bonney	Concepta McManus
+68	68	Kevin M. Bonney	Alessandro O. Sousa
+68	68	Maurício M. Rodrigues	Bruna Cunha de Alencar
+68	68	Maurício M. Rodrigues	José Ronnie Vasconcelos
+68	68	Maurício M. Rodrigues	Fernando Pimentel-Santos
+68	68	Maurício M. Rodrigues	Ciro Cordeiro
+68	68	Maurício M. Rodrigues	Nadjar Nitz
+68	68	Maurício M. Rodrigues	Mariana Hecht
+68	68	Maurício M. Rodrigues	Liana Lauria‐Pires
+68	68	Maurício M. Rodrigues	Ana de Cássia Rosa
+68	68	Maurício M. Rodrigues	Cleudson Castro
+68	68	Maurício M. Rodrigues	Izabela Marques Dourado Bastos
+68	68	Maurício M. Rodrigues	David Neves
+68	68	Maurício M. Rodrigues	Meire M. Lima
+68	68	Maurício M. Rodrigues	Jaime M. Santana
+68	68	Maurício M. Rodrigues	Cléver Gomes Cardoso
+68	68	Maurício M. Rodrigues	Silene P. Lozzi
+68	68	Maurício M. Rodrigues	Pedro Sadi Monteiro
+68	68	Maurício M. Rodrigues	Ana Bussacos
+68	68	Maurício M. Rodrigues	Concepta McManus
+68	68	Maurício M. Rodrigues	Alessandro O. Sousa
+68	68	Bruna Cunha de Alencar	José Ronnie Vasconcelos
+68	68	Bruna Cunha de Alencar	Fernando Pimentel-Santos
+68	68	Bruna Cunha de Alencar	Ciro Cordeiro
+68	68	Bruna Cunha de Alencar	Nadjar Nitz
+68	68	Bruna Cunha de Alencar	Mariana Hecht
+68	68	Bruna Cunha de Alencar	Liana Lauria‐Pires
+68	68	Bruna Cunha de Alencar	Ana de Cássia Rosa
+68	68	Bruna Cunha de Alencar	Cleudson Castro
+68	68	Bruna Cunha de Alencar	Izabela Marques Dourado Bastos
+68	68	Bruna Cunha de Alencar	David Neves
+68	68	Bruna Cunha de Alencar	Meire M. Lima
+68	68	Bruna Cunha de Alencar	Jaime M. Santana
+68	68	Bruna Cunha de Alencar	Cléver Gomes Cardoso
+68	68	Bruna Cunha de Alencar	Silene P. Lozzi
+68	68	Bruna Cunha de Alencar	Pedro Sadi Monteiro
+68	68	Bruna Cunha de Alencar	Ana Bussacos
+68	68	Bruna Cunha de Alencar	Concepta McManus
+68	68	Bruna Cunha de Alencar	Alessandro O. Sousa
+68	68	José Ronnie Vasconcelos	Fernando Pimentel-Santos
+68	68	José Ronnie Vasconcelos	Ciro Cordeiro
+68	68	José Ronnie Vasconcelos	Nadjar Nitz
+68	68	José Ronnie Vasconcelos	Mariana Hecht
+68	68	José Ronnie Vasconcelos	Liana Lauria‐Pires
+68	68	José Ronnie Vasconcelos	Ana de Cássia Rosa
+68	68	José Ronnie Vasconcelos	Cleudson Castro
+68	68	José Ronnie Vasconcelos	Izabela Marques Dourado Bastos
+68	68	José Ronnie Vasconcelos	David Neves
+68	68	José Ronnie Vasconcelos	Meire M. Lima
+68	68	José Ronnie Vasconcelos	Jaime M. Santana
+68	68	José Ronnie Vasconcelos	Cléver Gomes Cardoso
+68	68	José Ronnie Vasconcelos	Silene P. Lozzi
+68	68	José Ronnie Vasconcelos	Pedro Sadi Monteiro
+68	68	José Ronnie Vasconcelos	Ana Bussacos
+68	68	José Ronnie Vasconcelos	Concepta McManus
+68	68	José Ronnie Vasconcelos	Alessandro O. Sousa
+68	68	Fernando Pimentel-Santos	Ciro Cordeiro
+68	68	Fernando Pimentel-Santos	Nadjar Nitz
+68	68	Fernando Pimentel-Santos	Mariana Hecht
+68	68	Fernando Pimentel-Santos	Liana Lauria‐Pires
+68	68	Fernando Pimentel-Santos	Ana de Cássia Rosa
+68	68	Fernando Pimentel-Santos	Cleudson Castro
+68	68	Fernando Pimentel-Santos	Izabela Marques Dourado Bastos
+68	68	Fernando Pimentel-Santos	David Neves
+68	68	Fernando Pimentel-Santos	Meire M. Lima
+68	68	Fernando Pimentel-Santos	Jaime M. Santana
+68	68	Fernando Pimentel-Santos	Cléver Gomes Cardoso
+68	68	Fernando Pimentel-Santos	Silene P. Lozzi
+68	68	Fernando Pimentel-Santos	Pedro Sadi Monteiro
+68	68	Fernando Pimentel-Santos	Ana Bussacos
+68	68	Fernando Pimentel-Santos	Concepta McManus
+68	68	Fernando Pimentel-Santos	Alessandro O. Sousa
+68	68	Ciro Cordeiro	Nadjar Nitz
+68	68	Ciro Cordeiro	Mariana Hecht
+68	68	Ciro Cordeiro	Liana Lauria‐Pires
+68	68	Ciro Cordeiro	Ana de Cássia Rosa
+68	68	Ciro Cordeiro	Cleudson Castro
+68	68	Ciro Cordeiro	Izabela Marques Dourado Bastos
+68	68	Ciro Cordeiro	David Neves
+68	68	Ciro Cordeiro	Meire M. Lima
+68	68	Ciro Cordeiro	Jaime M. Santana
+68	68	Ciro Cordeiro	Cléver Gomes Cardoso
+68	68	Ciro Cordeiro	Silene P. Lozzi
+68	68	Ciro Cordeiro	Pedro Sadi Monteiro
+68	68	Ciro Cordeiro	Ana Bussacos
+68	68	Ciro Cordeiro	Concepta McManus
+68	68	Ciro Cordeiro	Alessandro O. Sousa
+68	68	Nadjar Nitz	Mariana Hecht
+68	68	Nadjar Nitz	Liana Lauria‐Pires
+68	68	Nadjar Nitz	Ana de Cássia Rosa
+68	68	Nadjar Nitz	Cleudson Castro
+68	68	Nadjar Nitz	Izabela Marques Dourado Bastos
+68	68	Nadjar Nitz	David Neves
+68	68	Nadjar Nitz	Meire M. Lima
+68	68	Nadjar Nitz	Jaime M. Santana
+68	68	Nadjar Nitz	Cléver Gomes Cardoso
+68	68	Nadjar Nitz	Silene P. Lozzi
+68	68	Nadjar Nitz	Pedro Sadi Monteiro
+68	68	Nadjar Nitz	Ana Bussacos
+68	68	Nadjar Nitz	Concepta McManus
+68	68	Nadjar Nitz	Alessandro O. Sousa
+68	68	Mariana Hecht	Liana Lauria‐Pires
+68	68	Mariana Hecht	Ana de Cássia Rosa
+68	68	Mariana Hecht	Cleudson Castro
+68	68	Mariana Hecht	Izabela Marques Dourado Bastos
+68	68	Mariana Hecht	David Neves
+68	68	Mariana Hecht	Meire M. Lima
+68	68	Mariana Hecht	Jaime M. Santana
+68	68	Mariana Hecht	Cléver Gomes Cardoso
+68	68	Mariana Hecht	Silene P. Lozzi
+68	68	Mariana Hecht	Pedro Sadi Monteiro
+68	68	Mariana Hecht	Ana Bussacos
+68	68	Mariana Hecht	Concepta McManus
+68	68	Mariana Hecht	Alessandro O. Sousa
+68	68	Liana Lauria‐Pires	Ana de Cássia Rosa
+68	68	Liana Lauria‐Pires	Cleudson Castro
+68	68	Liana Lauria‐Pires	Izabela Marques Dourado Bastos
+68	68	Liana Lauria‐Pires	David Neves
+68	68	Liana Lauria‐Pires	Meire M. Lima
+68	68	Liana Lauria‐Pires	Jaime M. Santana
+68	68	Liana Lauria‐Pires	Cléver Gomes Cardoso
+68	68	Liana Lauria‐Pires	Silene P. Lozzi
+68	68	Liana Lauria‐Pires	Pedro Sadi Monteiro
+68	68	Liana Lauria‐Pires	Ana Bussacos
+68	68	Liana Lauria‐Pires	Concepta McManus
+68	68	Liana Lauria‐Pires	Alessandro O. Sousa
+68	68	Ana de Cássia Rosa	Cleudson Castro
+68	68	Ana de Cássia Rosa	Izabela Marques Dourado Bastos
+68	68	Ana de Cássia Rosa	David Neves
+68	68	Ana de Cássia Rosa	Meire M. Lima
+68	68	Ana de Cássia Rosa	Jaime M. Santana
+68	68	Ana de Cássia Rosa	Cléver Gomes Cardoso
+68	68	Ana de Cássia Rosa	Silene P. Lozzi
+68	68	Ana de Cássia Rosa	Pedro Sadi Monteiro
+68	68	Ana de Cássia Rosa	Ana Bussacos
+68	68	Ana de Cássia Rosa	Concepta McManus
+68	68	Ana de Cássia Rosa	Alessandro O. Sousa
+68	68	Cleudson Castro	Izabela Marques Dourado Bastos
+68	68	Cleudson Castro	David Neves
+68	68	Cleudson Castro	Meire M. Lima
+68	68	Cleudson Castro	Jaime M. Santana
+68	68	Cleudson Castro	Cléver Gomes Cardoso
+68	68	Cleudson Castro	Silene P. Lozzi
+68	68	Cleudson Castro	Pedro Sadi Monteiro
+68	68	Cleudson Castro	Ana Bussacos
+68	68	Cleudson Castro	Concepta McManus
+68	68	Cleudson Castro	Alessandro O. Sousa
+68	68	Izabela Marques Dourado Bastos	David Neves
+68	68	Izabela Marques Dourado Bastos	Meire M. Lima
+68	68	Izabela Marques Dourado Bastos	Jaime M. Santana
+68	68	Izabela Marques Dourado Bastos	Cléver Gomes Cardoso
+68	68	Izabela Marques Dourado Bastos	Silene P. Lozzi
+68	68	Izabela Marques Dourado Bastos	Pedro Sadi Monteiro
+68	68	Izabela Marques Dourado Bastos	Ana Bussacos
+68	68	Izabela Marques Dourado Bastos	Concepta McManus
+68	68	Izabela Marques Dourado Bastos	Alessandro O. Sousa
+68	68	David Neves	Meire M. Lima
+68	68	David Neves	Jaime M. Santana
+68	68	David Neves	Cléver Gomes Cardoso
+68	68	David Neves	Silene P. Lozzi
+68	68	David Neves	Pedro Sadi Monteiro
+68	68	David Neves	Ana Bussacos
+68	68	David Neves	Concepta McManus
+68	68	David Neves	Alessandro O. Sousa
+68	68	Meire M. Lima	Jaime M. Santana
+68	68	Meire M. Lima	Cléver Gomes Cardoso
+68	68	Meire M. Lima	Silene P. Lozzi
+68	68	Meire M. Lima	Pedro Sadi Monteiro
+68	68	Meire M. Lima	Ana Bussacos
+68	68	Meire M. Lima	Concepta McManus
+68	68	Meire M. Lima	Alessandro O. Sousa
+68	68	Jaime M. Santana	Cléver Gomes Cardoso
+68	68	Jaime M. Santana	Silene P. Lozzi
+68	68	Jaime M. Santana	Pedro Sadi Monteiro
+68	68	Jaime M. Santana	Ana Bussacos
+68	68	Jaime M. Santana	Concepta McManus
+68	68	Jaime M. Santana	Alessandro O. Sousa
+68	68	Cléver Gomes Cardoso	Silene P. Lozzi
+68	68	Cléver Gomes Cardoso	Pedro Sadi Monteiro
+68	68	Cléver Gomes Cardoso	Ana Bussacos
+68	68	Cléver Gomes Cardoso	Concepta McManus
+68	68	Cléver Gomes Cardoso	Alessandro O. Sousa
+68	68	Silene P. Lozzi	Pedro Sadi Monteiro
+68	68	Silene P. Lozzi	Ana Bussacos
+68	68	Silene P. Lozzi	Concepta McManus
+68	68	Silene P. Lozzi	Alessandro O. Sousa
+68	68	Pedro Sadi Monteiro	Ana Bussacos
+68	68	Pedro Sadi Monteiro	Concepta McManus
+68	68	Pedro Sadi Monteiro	Alessandro O. Sousa
+68	68	Ana Bussacos	Concepta McManus
+68	68	Ana Bussacos	Alessandro O. Sousa
+68	68	Concepta McManus	Alessandro O. Sousa
+69	69	Deborah A. Pasternack	Aabha Sharma
+69	69	Deborah A. Pasternack	Cheryl L. Olson
+69	69	Deborah A. Pasternack	Conrad L. Epting
+69	69	Deborah A. Pasternack	David M. Engman
+69	69	Aabha Sharma	Cheryl L. Olson
+69	69	Aabha Sharma	Conrad L. Epting
+69	69	Aabha Sharma	David M. Engman
+69	69	Cheryl L. Olson	Conrad L. Epting
+69	69	Cheryl L. Olson	David M. Engman
+69	69	Conrad L. Epting	David M. Engman
+70	70	Kimberly J. Henkle	George A. Cook
+70	70	Kimberly J. Henkle	Lewis A. Foster
+70	70	Kimberly J. Henkle	David M. Engman
+70	70	Kimberly J. Henkle	Libuse A. Bobek
+70	70	Kimberly J. Henkle	George D. Cain
+70	70	Kimberly J. Henkle	John E. Donelson
+70	70	George A. Cook	Lewis A. Foster
+70	70	George A. Cook	David M. Engman
+70	70	George A. Cook	Libuse A. Bobek
+70	70	George A. Cook	George D. Cain
+70	70	George A. Cook	John E. Donelson
+70	70	Lewis A. Foster	David M. Engman
+70	70	Lewis A. Foster	Libuse A. Bobek
+70	70	Lewis A. Foster	George D. Cain
+70	70	Lewis A. Foster	John E. Donelson
+70	70	David M. Engman	Libuse A. Bobek
+70	70	David M. Engman	George D. Cain
+70	70	David M. Engman	John E. Donelson
+70	70	Libuse A. Bobek	George D. Cain
+70	70	Libuse A. Bobek	John E. Donelson
+70	70	George D. Cain	John E. Donelson
+71	71	J. Ludovic Croxford	Kegiang Wang
+71	71	J. Ludovic Croxford	Stephen D. Miller
+71	71	J. Ludovic Croxford	David M. Engman
+71	71	J. Ludovic Croxford	Kevin M. Tyler
+71	71	Kegiang Wang	Stephen D. Miller
+71	71	Kegiang Wang	David M. Engman
+71	71	Kegiang Wang	Kevin M. Tyler
+71	71	Stephen D. Miller	David M. Engman
+71	71	Stephen D. Miller	Kevin M. Tyler
+71	71	David M. Engman	Kevin M. Tyler
+72	72	Aabha Sharma	Cheryl L. Olson
+72	72	Aabha Sharma	João I. Mamede
+72	72	Aabha Sharma	Felipe Gazos‐Lopes
+72	72	Aabha Sharma	Conrad L. Epting
+72	72	Aabha Sharma	Igor C. Almeida
+72	72	Aabha Sharma	David M. Engman
+72	72	Cheryl L. Olson	João I. Mamede
+72	72	Cheryl L. Olson	Felipe Gazos‐Lopes
+72	72	Cheryl L. Olson	Conrad L. Epting
+72	72	Cheryl L. Olson	Igor C. Almeida
 72	72	Cheryl L. Olson	David M. Engman
-72	72	Andrea Winquist	David M. Engman
-73	73	Kevin M. Bonney	Kathleen M. Gifford
-73	73	Kevin M. Bonney	Joshua Taylor
-73	73	Kevin M. Bonney	C.‐I. Chen
-73	73	Kevin M. Bonney	David M. Engman
-73	73	Kathleen M. Gifford	Joshua Taylor
-73	73	Kathleen M. Gifford	C.‐I. Chen
-73	73	Kathleen M. Gifford	David M. Engman
-73	73	Joshua Taylor	C.‐I. Chen
-73	73	Joshua Taylor	David M. Engman
-73	73	C.‐I. Chen	David M. Engman
-74	74	Eric Vail	Jianbo Song
-74	74	Eric Vail	Jing Xu
-74	74	Eric Vail	Joseph S. Frye
-74	74	Eric Vail	Jong Taek Kim
-74	74	Eric Vail	Andy Pao
-74	74	Eric Vail	Rhona Schreck
-74	74	Eric Vail	Angela Aguiluz
-74	74	Eric Vail	Wenjuan Zhang
-74	74	Eric Vail	Serhan Alkan
-74	74	Eric Vail	Alain C. Mita
-74	74	Eric Vail	Monica Mita
-74	74	Eric Vail	Robert A. Figlin
-74	74	Eric Vail	David M. Engman
-74	74	Eric Vail	Jean Lopategui
-74	74	Jianbo Song	Jing Xu
-74	74	Jianbo Song	Joseph S. Frye
-74	74	Jianbo Song	Jong Taek Kim
-74	74	Jianbo Song	Andy Pao
-74	74	Jianbo Song	Rhona Schreck
-74	74	Jianbo Song	Angela Aguiluz
-74	74	Jianbo Song	Wenjuan Zhang
-74	74	Jianbo Song	Serhan Alkan
-74	74	Jianbo Song	Alain C. Mita
-74	74	Jianbo Song	Monica Mita
-74	74	Jianbo Song	Robert A. Figlin
-74	74	Jianbo Song	David M. Engman
-74	74	Jianbo Song	Jean Lopategui
-74	74	Jing Xu	Joseph S. Frye
-74	74	Jing Xu	Jong Taek Kim
-74	74	Jing Xu	Andy Pao
-74	74	Jing Xu	Rhona Schreck
-74	74	Jing Xu	Angela Aguiluz
-74	74	Jing Xu	Wenjuan Zhang
-74	74	Jing Xu	Serhan Alkan
-74	74	Jing Xu	Alain C. Mita
-74	74	Jing Xu	Monica Mita
-74	74	Jing Xu	Robert A. Figlin
-74	74	Jing Xu	David M. Engman
-74	74	Jing Xu	Jean Lopategui
-74	74	Joseph S. Frye	Jong Taek Kim
-74	74	Joseph S. Frye	Andy Pao
-74	74	Joseph S. Frye	Rhona Schreck
-74	74	Joseph S. Frye	Angela Aguiluz
-74	74	Joseph S. Frye	Wenjuan Zhang
-74	74	Joseph S. Frye	Serhan Alkan
-74	74	Joseph S. Frye	Alain C. Mita
-74	74	Joseph S. Frye	Monica Mita
-74	74	Joseph S. Frye	Robert A. Figlin
-74	74	Joseph S. Frye	David M. Engman
-74	74	Joseph S. Frye	Jean Lopategui
-74	74	Jong Taek Kim	Andy Pao
-74	74	Jong Taek Kim	Rhona Schreck
-74	74	Jong Taek Kim	Angela Aguiluz
-74	74	Jong Taek Kim	Wenjuan Zhang
-74	74	Jong Taek Kim	Serhan Alkan
-74	74	Jong Taek Kim	Alain C. Mita
-74	74	Jong Taek Kim	Monica Mita
-74	74	Jong Taek Kim	Robert A. Figlin
-74	74	Jong Taek Kim	David M. Engman
-74	74	Jong Taek Kim	Jean Lopategui
-74	74	Andy Pao	Rhona Schreck
-74	74	Andy Pao	Angela Aguiluz
-74	74	Andy Pao	Wenjuan Zhang
-74	74	Andy Pao	Serhan Alkan
-74	74	Andy Pao	Alain C. Mita
-74	74	Andy Pao	Monica Mita
-74	74	Andy Pao	Robert A. Figlin
-74	74	Andy Pao	David M. Engman
-74	74	Andy Pao	Jean Lopategui
-74	74	Rhona Schreck	Angela Aguiluz
-74	74	Rhona Schreck	Wenjuan Zhang
-74	74	Rhona Schreck	Serhan Alkan
-74	74	Rhona Schreck	Alain C. Mita
-74	74	Rhona Schreck	Monica Mita
-74	74	Rhona Schreck	Robert A. Figlin
-74	74	Rhona Schreck	David M. Engman
-74	74	Rhona Schreck	Jean Lopategui
-74	74	Angela Aguiluz	Wenjuan Zhang
-74	74	Angela Aguiluz	Serhan Alkan
-74	74	Angela Aguiluz	Alain C. Mita
-74	74	Angela Aguiluz	Monica Mita
-74	74	Angela Aguiluz	Robert A. Figlin
-74	74	Angela Aguiluz	David M. Engman
-74	74	Angela Aguiluz	Jean Lopategui
-74	74	Wenjuan Zhang	Serhan Alkan
-74	74	Wenjuan Zhang	Alain C. Mita
-74	74	Wenjuan Zhang	Monica Mita
-74	74	Wenjuan Zhang	Robert A. Figlin
-74	74	Wenjuan Zhang	David M. Engman
-74	74	Wenjuan Zhang	Jean Lopategui
-74	74	Serhan Alkan	Alain C. Mita
-74	74	Serhan Alkan	Monica Mita
-74	74	Serhan Alkan	Robert A. Figlin
-74	74	Serhan Alkan	David M. Engman
-74	74	Serhan Alkan	Jean Lopategui
-74	74	Alain C. Mita	Monica Mita
-74	74	Alain C. Mita	Robert A. Figlin
-74	74	Alain C. Mita	David M. Engman
-74	74	Alain C. Mita	Jean Lopategui
-74	74	Monica Mita	Robert A. Figlin
-74	74	Monica Mita	David M. Engman
-74	74	Monica Mita	Jean Lopategui
-74	74	Robert A. Figlin	David M. Engman
-74	74	Robert A. Figlin	Jean Lopategui
-74	74	David M. Engman	Jean Lopategui
-75	75	Gaby Palmer	Jean-François Louvion
-75	75	Gaby Palmer	Randal S. Tibbetts
-75	75	Gaby Palmer	David M. Engman
-75	75	Gaby Palmer	Didier Picard
-75	75	Jean-François Louvion	Randal S. Tibbetts
-75	75	Jean-François Louvion	David M. Engman
-75	75	Jean-François Louvion	Didier Picard
-75	75	Randal S. Tibbetts	David M. Engman
-75	75	Randal S. Tibbetts	Didier Picard
-75	75	David M. Engman	Didier Picard
-76	76	David M. Engman	Stephen C. Fehr
-76	76	David M. Engman	John E. Donelson
-76	76	Stephen C. Fehr	John E. Donelson
-77	77	Aabha Sharma	Cheryl L. Olson
-77	77	Aabha Sharma	David M. Engman
-77	77	Cheryl L. Olson	David M. Engman
-78	78	Rosa A. Maldonado	Jutta Linss
-78	78	Rosa A. Maldonado	Neide Thomaz
-78	78	Rosa A. Maldonado	Cheryl L. Olson
-78	78	Rosa A. Maldonado	David M. Engman
-78	78	Rosa A. Maldonado	Samuel Goldenberg
-78	78	Jutta Linss	Neide Thomaz
-78	78	Jutta Linss	Cheryl L. Olson
-78	78	Jutta Linss	David M. Engman
-78	78	Jutta Linss	Samuel Goldenberg
-78	78	Neide Thomaz	Cheryl L. Olson
-78	78	Neide Thomaz	David M. Engman
-78	78	Neide Thomaz	Samuel Goldenberg
+72	72	João I. Mamede	Felipe Gazos‐Lopes
+72	72	João I. Mamede	Conrad L. Epting
+72	72	João I. Mamede	Igor C. Almeida
+72	72	João I. Mamede	David M. Engman
+72	72	Felipe Gazos‐Lopes	Conrad L. Epting
+72	72	Felipe Gazos‐Lopes	Igor C. Almeida
+72	72	Felipe Gazos‐Lopes	David M. Engman
+72	72	Conrad L. Epting	Igor C. Almeida
+72	72	Conrad L. Epting	David M. Engman
+72	72	Igor C. Almeida	David M. Engman
+73	73	Mary Anne Sullivan	Cheryl L. Olson
+73	73	Mary Anne Sullivan	Andrea Winquist
+73	73	Mary Anne Sullivan	David M. Engman
+73	73	Cheryl L. Olson	Andrea Winquist
+73	73	Cheryl L. Olson	David M. Engman
+73	73	Andrea Winquist	David M. Engman
+74	74	Kevin M. Bonney	Kathleen M. Gifford
+74	74	Kevin M. Bonney	Joshua Taylor
+74	74	Kevin M. Bonney	C.‐I. Chen
+74	74	Kevin M. Bonney	David M. Engman
+74	74	Kathleen M. Gifford	Joshua Taylor
+74	74	Kathleen M. Gifford	C.‐I. Chen
+74	74	Kathleen M. Gifford	David M. Engman
+74	74	Joshua Taylor	C.‐I. Chen
+74	74	Joshua Taylor	David M. Engman
+74	74	C.‐I. Chen	David M. Engman
+75	75	Eric Vail	Jianbo Song
+75	75	Eric Vail	Jing Xu
+75	75	Eric Vail	Joseph S. Frye
+75	75	Eric Vail	Jong Taek Kim
+75	75	Eric Vail	Andy Pao
+75	75	Eric Vail	Rhona Schreck
+75	75	Eric Vail	Angela Aguiluz
+75	75	Eric Vail	Wenjuan Zhang
+75	75	Eric Vail	Serhan Alkan
+75	75	Eric Vail	Alain C. Mita
+75	75	Eric Vail	Monica Mita
+75	75	Eric Vail	Robert A. Figlin
+75	75	Eric Vail	David M. Engman
+75	75	Eric Vail	Jean Lopategui
+75	75	Jianbo Song	Jing Xu
+75	75	Jianbo Song	Joseph S. Frye
+75	75	Jianbo Song	Jong Taek Kim
+75	75	Jianbo Song	Andy Pao
+75	75	Jianbo Song	Rhona Schreck
+75	75	Jianbo Song	Angela Aguiluz
+75	75	Jianbo Song	Wenjuan Zhang
+75	75	Jianbo Song	Serhan Alkan
+75	75	Jianbo Song	Alain C. Mita
+75	75	Jianbo Song	Monica Mita
+75	75	Jianbo Song	Robert A. Figlin
+75	75	Jianbo Song	David M. Engman
+75	75	Jianbo Song	Jean Lopategui
+75	75	Jing Xu	Joseph S. Frye
+75	75	Jing Xu	Jong Taek Kim
+75	75	Jing Xu	Andy Pao
+75	75	Jing Xu	Rhona Schreck
+75	75	Jing Xu	Angela Aguiluz
+75	75	Jing Xu	Wenjuan Zhang
+75	75	Jing Xu	Serhan Alkan
+75	75	Jing Xu	Alain C. Mita
+75	75	Jing Xu	Monica Mita
+75	75	Jing Xu	Robert A. Figlin
+75	75	Jing Xu	David M. Engman
+75	75	Jing Xu	Jean Lopategui
+75	75	Joseph S. Frye	Jong Taek Kim
+75	75	Joseph S. Frye	Andy Pao
+75	75	Joseph S. Frye	Rhona Schreck
+75	75	Joseph S. Frye	Angela Aguiluz
+75	75	Joseph S. Frye	Wenjuan Zhang
+75	75	Joseph S. Frye	Serhan Alkan
+75	75	Joseph S. Frye	Alain C. Mita
+75	75	Joseph S. Frye	Monica Mita
+75	75	Joseph S. Frye	Robert A. Figlin
+75	75	Joseph S. Frye	David M. Engman
+75	75	Joseph S. Frye	Jean Lopategui
+75	75	Jong Taek Kim	Andy Pao
+75	75	Jong Taek Kim	Rhona Schreck
+75	75	Jong Taek Kim	Angela Aguiluz
+75	75	Jong Taek Kim	Wenjuan Zhang
+75	75	Jong Taek Kim	Serhan Alkan
+75	75	Jong Taek Kim	Alain C. Mita
+75	75	Jong Taek Kim	Monica Mita
+75	75	Jong Taek Kim	Robert A. Figlin
+75	75	Jong Taek Kim	David M. Engman
+75	75	Jong Taek Kim	Jean Lopategui
+75	75	Andy Pao	Rhona Schreck
+75	75	Andy Pao	Angela Aguiluz
+75	75	Andy Pao	Wenjuan Zhang
+75	75	Andy Pao	Serhan Alkan
+75	75	Andy Pao	Alain C. Mita
+75	75	Andy Pao	Monica Mita
+75	75	Andy Pao	Robert A. Figlin
+75	75	Andy Pao	David M. Engman
+75	75	Andy Pao	Jean Lopategui
+75	75	Rhona Schreck	Angela Aguiluz
+75	75	Rhona Schreck	Wenjuan Zhang
+75	75	Rhona Schreck	Serhan Alkan
+75	75	Rhona Schreck	Alain C. Mita
+75	75	Rhona Schreck	Monica Mita
+75	75	Rhona Schreck	Robert A. Figlin
+75	75	Rhona Schreck	David M. Engman
+75	75	Rhona Schreck	Jean Lopategui
+75	75	Angela Aguiluz	Wenjuan Zhang
+75	75	Angela Aguiluz	Serhan Alkan
+75	75	Angela Aguiluz	Alain C. Mita
+75	75	Angela Aguiluz	Monica Mita
+75	75	Angela Aguiluz	Robert A. Figlin
+75	75	Angela Aguiluz	David M. Engman
+75	75	Angela Aguiluz	Jean Lopategui
+75	75	Wenjuan Zhang	Serhan Alkan
+75	75	Wenjuan Zhang	Alain C. Mita
+75	75	Wenjuan Zhang	Monica Mita
+75	75	Wenjuan Zhang	Robert A. Figlin
+75	75	Wenjuan Zhang	David M. Engman
+75	75	Wenjuan Zhang	Jean Lopategui
+75	75	Serhan Alkan	Alain C. Mita
+75	75	Serhan Alkan	Monica Mita
+75	75	Serhan Alkan	Robert A. Figlin
+75	75	Serhan Alkan	David M. Engman
+75	75	Serhan Alkan	Jean Lopategui
+75	75	Alain C. Mita	Monica Mita
+75	75	Alain C. Mita	Robert A. Figlin
+75	75	Alain C. Mita	David M. Engman
+75	75	Alain C. Mita	Jean Lopategui
+75	75	Monica Mita	Robert A. Figlin
+75	75	Monica Mita	David M. Engman
+75	75	Monica Mita	Jean Lopategui
+75	75	Robert A. Figlin	David M. Engman
+75	75	Robert A. Figlin	Jean Lopategui
+75	75	David M. Engman	Jean Lopategui
+76	76	Gaby Palmer	Jean-François Louvion
+76	76	Gaby Palmer	Randal S. Tibbetts
+76	76	Gaby Palmer	David M. Engman
+76	76	Gaby Palmer	Didier Picard
+76	76	Jean-François Louvion	Randal S. Tibbetts
+76	76	Jean-François Louvion	David M. Engman
+76	76	Jean-François Louvion	Didier Picard
+76	76	Randal S. Tibbetts	David M. Engman
+76	76	Randal S. Tibbetts	Didier Picard
+76	76	David M. Engman	Didier Picard
+77	77	David M. Engman	Stephen C. Fehr
+77	77	David M. Engman	John E. Donelson
+77	77	Stephen C. Fehr	John E. Donelson
+78	78	Aabha Sharma	Cheryl L. Olson
+78	78	Aabha Sharma	David M. Engman
 78	78	Cheryl L. Olson	David M. Engman
-78	78	Cheryl L. Olson	Samuel Goldenberg
-78	78	David M. Engman	Samuel Goldenberg
-79	79	Randal S. Tibbetts	Jennifer Jensen
-79	79	Randal S. Tibbetts	Cheryl L. Olson
-79	79	Randal S. Tibbetts	Fred D. Wang
-79	79	Randal S. Tibbetts	David M. Engman
-79	79	Jennifer Jensen	Cheryl L. Olson
-79	79	Jennifer Jensen	Fred D. Wang
-79	79	Jennifer Jensen	David M. Engman
-79	79	Cheryl L. Olson	Fred D. Wang
+79	79	Rosa A. Maldonado	Jutta Linss
+79	79	Rosa A. Maldonado	Neide Thomaz
+79	79	Rosa A. Maldonado	Cheryl L. Olson
+79	79	Rosa A. Maldonado	David M. Engman
+79	79	Rosa A. Maldonado	Samuel Goldenberg
+79	79	Jutta Linss	Neide Thomaz
+79	79	Jutta Linss	Cheryl L. Olson
+79	79	Jutta Linss	David M. Engman
+79	79	Jutta Linss	Samuel Goldenberg
+79	79	Neide Thomaz	Cheryl L. Olson
+79	79	Neide Thomaz	David M. Engman
+79	79	Neide Thomaz	Samuel Goldenberg
 79	79	Cheryl L. Olson	David M. Engman
-79	79	Fred D. Wang	David M. Engman
-80	80	Cynthia Vanesa Rivero	Santiago Martínez
-80	80	Cynthia Vanesa Rivero	Paul Novick
-80	80	Cynthia Vanesa Rivero	Juan Agustín Cueto
-80	80	Cynthia Vanesa Rivero	Betiana Nebaí Salassa
-80	80	Cynthia Vanesa Rivero	María Cristina Vanrell
-80	80	Cynthia Vanesa Rivero	Xiaomo Li
-80	80	Cynthia Vanesa Rivero	Carlos A. Labriola
-80	80	Cynthia Vanesa Rivero	Luis Mariano Polo
-80	80	Cynthia Vanesa Rivero	David M. Engman
-80	80	Cynthia Vanesa Rivero	Joachim Clos
-80	80	Cynthia Vanesa Rivero	Patricia Silvia Romano
-80	80	Santiago Martínez	Paul Novick
-80	80	Santiago Martínez	Juan Agustín Cueto
-80	80	Santiago Martínez	Betiana Nebaí Salassa
-80	80	Santiago Martínez	María Cristina Vanrell
-80	80	Santiago Martínez	Xiaomo Li
-80	80	Santiago Martínez	Carlos A. Labriola
-80	80	Santiago Martínez	Luis Mariano Polo
-80	80	Santiago Martínez	David M. Engman
-80	80	Santiago Martínez	Joachim Clos
-80	80	Santiago Martínez	Patricia Silvia Romano
-80	80	Paul Novick	Juan Agustín Cueto
-80	80	Paul Novick	Betiana Nebaí Salassa
-80	80	Paul Novick	María Cristina Vanrell
-80	80	Paul Novick	Xiaomo Li
-80	80	Paul Novick	Carlos A. Labriola
-80	80	Paul Novick	Luis Mariano Polo
-80	80	Paul Novick	David M. Engman
-80	80	Paul Novick	Joachim Clos
-80	80	Paul Novick	Patricia Silvia Romano
-80	80	Juan Agustín Cueto	Betiana Nebaí Salassa
-80	80	Juan Agustín Cueto	María Cristina Vanrell
-80	80	Juan Agustín Cueto	Xiaomo Li
-80	80	Juan Agustín Cueto	Carlos A. Labriola
-80	80	Juan Agustín Cueto	Luis Mariano Polo
-80	80	Juan Agustín Cueto	David M. Engman
-80	80	Juan Agustín Cueto	Joachim Clos
-80	80	Juan Agustín Cueto	Patricia Silvia Romano
-80	80	Betiana Nebaí Salassa	María Cristina Vanrell
-80	80	Betiana Nebaí Salassa	Xiaomo Li
-80	80	Betiana Nebaí Salassa	Carlos A. Labriola
-80	80	Betiana Nebaí Salassa	Luis Mariano Polo
-80	80	Betiana Nebaí Salassa	David M. Engman
-80	80	Betiana Nebaí Salassa	Joachim Clos
-80	80	Betiana Nebaí Salassa	Patricia Silvia Romano
-80	80	María Cristina Vanrell	Xiaomo Li
-80	80	María Cristina Vanrell	Carlos A. Labriola
-80	80	María Cristina Vanrell	Luis Mariano Polo
-80	80	María Cristina Vanrell	David M. Engman
-80	80	María Cristina Vanrell	Joachim Clos
-80	80	María Cristina Vanrell	Patricia Silvia Romano
-80	80	Xiaomo Li	Carlos A. Labriola
-80	80	Xiaomo Li	Luis Mariano Polo
-80	80	Xiaomo Li	David M. Engman
-80	80	Xiaomo Li	Joachim Clos
-80	80	Xiaomo Li	Patricia Silvia Romano
-80	80	Carlos A. Labriola	Luis Mariano Polo
-80	80	Carlos A. Labriola	David M. Engman
-80	80	Carlos A. Labriola	Joachim Clos
-80	80	Carlos A. Labriola	Patricia Silvia Romano
-80	80	Luis Mariano Polo	David M. Engman
-80	80	Luis Mariano Polo	Joachim Clos
-80	80	Luis Mariano Polo	Patricia Silvia Romano
-80	80	David M. Engman	Joachim Clos
-80	80	David M. Engman	Patricia Silvia Romano
-80	80	Joachim Clos	Patricia Silvia Romano
-81	81	Rosa A. Maldonado	Salida Mirzoeva
-81	81	Rosa A. Maldonado	Lisa M. Godsel
-81	81	Rosa A. Maldonado	Thomas J. Lukas
-81	81	Rosa A. Maldonado	Samuel Goldenberg
-81	81	Rosa A. Maldonado	D. Martin Watterson
-81	81	Rosa A. Maldonado	David M. Engman
-81	81	Salida Mirzoeva	Lisa M. Godsel
-81	81	Salida Mirzoeva	Thomas J. Lukas
-81	81	Salida Mirzoeva	Samuel Goldenberg
-81	81	Salida Mirzoeva	D. Martin Watterson
-81	81	Salida Mirzoeva	David M. Engman
-81	81	Lisa M. Godsel	Thomas J. Lukas
-81	81	Lisa M. Godsel	Samuel Goldenberg
-81	81	Lisa M. Godsel	D. Martin Watterson
-81	81	Lisa M. Godsel	David M. Engman
-81	81	Thomas J. Lukas	Samuel Goldenberg
-81	81	Thomas J. Lukas	D. Martin Watterson
-81	81	Thomas J. Lukas	David M. Engman
-81	81	Samuel Goldenberg	D. Martin Watterson
-81	81	Samuel Goldenberg	David M. Engman
-81	81	D. Martin Watterson	David M. Engman
-82	82	Randal S. Tibbetts	Kathy Klein
-82	82	Randal S. Tibbetts	David M. Engman
-82	82	Kathy Klein	David M. Engman
-83	83	Karin Klein	Cheryl L. Olson
-83	83	Karin Klein	David M. Engman
-83	83	Cheryl L. Olson	David M. Engman
-84	84	Alina Fridberg	Kathryn T. Buchanan
-84	84	Alina Fridberg	David M. Engman
-84	84	Kathryn T. Buchanan	David M. Engman
-85	85	Conrad L. Epting	Bria M. Coates
-85	85	Conrad L. Epting	David M. Engman
-85	85	Bria M. Coates	David M. Engman
-86	86	Xianzhong Xu	Cheryl L. Olson
-86	86	Xianzhong Xu	David M. Engman
-86	86	Xianzhong Xu	James B. Ames
-86	86	Cheryl L. Olson	David M. Engman
-86	86	Cheryl L. Olson	James B. Ames
-86	86	David M. Engman	James B. Ames
-87	87	Ann E. Walts	Joseph S. Frye
-87	87	Ann E. Walts	David M. Engman
-87	87	Ann E. Walts	Alberto M. Marchevsky
-87	87	Joseph S. Frye	David M. Engman
-87	87	Joseph S. Frye	Alberto M. Marchevsky
-87	87	David M. Engman	Alberto M. Marchevsky
-88	88	Xiaomo Li	Sijia Yi
-88	88	Xiaomo Li	Débora B. Scariot
-88	88	Xiaomo Li	Santiago Martínez
-88	88	Xiaomo Li	Ben Falk
-88	88	Xiaomo Li	Cheryl L. Olson
-88	88	Xiaomo Li	Patricia Silvia Romano
-88	88	Xiaomo Li	Evan A. Scott
-88	88	Xiaomo Li	David M. Engman
-88	88	Sijia Yi	Débora B. Scariot
-88	88	Sijia Yi	Santiago Martínez
-88	88	Sijia Yi	Ben Falk
-88	88	Sijia Yi	Cheryl L. Olson
-88	88	Sijia Yi	Patricia Silvia Romano
-88	88	Sijia Yi	Evan A. Scott
-88	88	Sijia Yi	David M. Engman
-88	88	Débora B. Scariot	Santiago Martínez
-88	88	Débora B. Scariot	Ben Falk
-88	88	Débora B. Scariot	Cheryl L. Olson
-88	88	Débora B. Scariot	Patricia Silvia Romano
-88	88	Débora B. Scariot	Evan A. Scott
-88	88	Débora B. Scariot	David M. Engman
-88	88	Santiago Martínez	Ben Falk
-88	88	Santiago Martínez	Cheryl L. Olson
-88	88	Santiago Martínez	Patricia Silvia Romano
-88	88	Santiago Martínez	Evan A. Scott
-88	88	Santiago Martínez	David M. Engman
-88	88	Ben Falk	Cheryl L. Olson
-88	88	Ben Falk	Patricia Silvia Romano
-88	88	Ben Falk	Evan A. Scott
-88	88	Ben Falk	David M. Engman
-88	88	Cheryl L. Olson	Patricia Silvia Romano
-88	88	Cheryl L. Olson	Evan A. Scott
-88	88	Cheryl L. Olson	David M. Engman
-88	88	Patricia Silvia Romano	Evan A. Scott
-88	88	Patricia Silvia Romano	David M. Engman
-88	88	Evan A. Scott	David M. Engman
-89	89	Karin Klein	Cheryl L. Olson
-89	89	Karin Klein	John E. Donelson
-89	89	Karin Klein	David M. Engman
-89	89	Cheryl L. Olson	John E. Donelson
+79	79	Cheryl L. Olson	Samuel Goldenberg
+79	79	David M. Engman	Samuel Goldenberg
+80	80	Randal S. Tibbetts	Jennifer Jensen
+80	80	Randal S. Tibbetts	Cheryl L. Olson
+80	80	Randal S. Tibbetts	Fred D. Wang
+80	80	Randal S. Tibbetts	David M. Engman
+80	80	Jennifer Jensen	Cheryl L. Olson
+80	80	Jennifer Jensen	Fred D. Wang
+80	80	Jennifer Jensen	David M. Engman
+80	80	Cheryl L. Olson	Fred D. Wang
+80	80	Cheryl L. Olson	David M. Engman
+80	80	Fred D. Wang	David M. Engman
+81	81	Cynthia Vanesa Rivero	Santiago Martínez
+81	81	Cynthia Vanesa Rivero	Paul Novick
+81	81	Cynthia Vanesa Rivero	Juan Agustín Cueto
+81	81	Cynthia Vanesa Rivero	Betiana Nebaí Salassa
+81	81	Cynthia Vanesa Rivero	María Cristina Vanrell
+81	81	Cynthia Vanesa Rivero	Xiaomo Li
+81	81	Cynthia Vanesa Rivero	Carlos A. Labriola
+81	81	Cynthia Vanesa Rivero	Luis Mariano Polo
+81	81	Cynthia Vanesa Rivero	David M. Engman
+81	81	Cynthia Vanesa Rivero	Joachim Clos
+81	81	Cynthia Vanesa Rivero	Patricia Silvia Romano
+81	81	Santiago Martínez	Paul Novick
+81	81	Santiago Martínez	Juan Agustín Cueto
+81	81	Santiago Martínez	Betiana Nebaí Salassa
+81	81	Santiago Martínez	María Cristina Vanrell
+81	81	Santiago Martínez	Xiaomo Li
+81	81	Santiago Martínez	Carlos A. Labriola
+81	81	Santiago Martínez	Luis Mariano Polo
+81	81	Santiago Martínez	David M. Engman
+81	81	Santiago Martínez	Joachim Clos
+81	81	Santiago Martínez	Patricia Silvia Romano
+81	81	Paul Novick	Juan Agustín Cueto
+81	81	Paul Novick	Betiana Nebaí Salassa
+81	81	Paul Novick	María Cristina Vanrell
+81	81	Paul Novick	Xiaomo Li
+81	81	Paul Novick	Carlos A. Labriola
+81	81	Paul Novick	Luis Mariano Polo
+81	81	Paul Novick	David M. Engman
+81	81	Paul Novick	Joachim Clos
+81	81	Paul Novick	Patricia Silvia Romano
+81	81	Juan Agustín Cueto	Betiana Nebaí Salassa
+81	81	Juan Agustín Cueto	María Cristina Vanrell
+81	81	Juan Agustín Cueto	Xiaomo Li
+81	81	Juan Agustín Cueto	Carlos A. Labriola
+81	81	Juan Agustín Cueto	Luis Mariano Polo
+81	81	Juan Agustín Cueto	David M. Engman
+81	81	Juan Agustín Cueto	Joachim Clos
+81	81	Juan Agustín Cueto	Patricia Silvia Romano
+81	81	Betiana Nebaí Salassa	María Cristina Vanrell
+81	81	Betiana Nebaí Salassa	Xiaomo Li
+81	81	Betiana Nebaí Salassa	Carlos A. Labriola
+81	81	Betiana Nebaí Salassa	Luis Mariano Polo
+81	81	Betiana Nebaí Salassa	David M. Engman
+81	81	Betiana Nebaí Salassa	Joachim Clos
+81	81	Betiana Nebaí Salassa	Patricia Silvia Romano
+81	81	María Cristina Vanrell	Xiaomo Li
+81	81	María Cristina Vanrell	Carlos A. Labriola
+81	81	María Cristina Vanrell	Luis Mariano Polo
+81	81	María Cristina Vanrell	David M. Engman
+81	81	María Cristina Vanrell	Joachim Clos
+81	81	María Cristina Vanrell	Patricia Silvia Romano
+81	81	Xiaomo Li	Carlos A. Labriola
+81	81	Xiaomo Li	Luis Mariano Polo
+81	81	Xiaomo Li	David M. Engman
+81	81	Xiaomo Li	Joachim Clos
+81	81	Xiaomo Li	Patricia Silvia Romano
+81	81	Carlos A. Labriola	Luis Mariano Polo
+81	81	Carlos A. Labriola	David M. Engman
+81	81	Carlos A. Labriola	Joachim Clos
+81	81	Carlos A. Labriola	Patricia Silvia Romano
+81	81	Luis Mariano Polo	David M. Engman
+81	81	Luis Mariano Polo	Joachim Clos
+81	81	Luis Mariano Polo	Patricia Silvia Romano
+81	81	David M. Engman	Joachim Clos
+81	81	David M. Engman	Patricia Silvia Romano
+81	81	Joachim Clos	Patricia Silvia Romano
+82	82	Rosa A. Maldonado	Salida Mirzoeva
+82	82	Rosa A. Maldonado	Lisa M. Godsel
+82	82	Rosa A. Maldonado	Thomas J. Lukas
+82	82	Rosa A. Maldonado	Samuel Goldenberg
+82	82	Rosa A. Maldonado	D. Martin Watterson
+82	82	Rosa A. Maldonado	David M. Engman
+82	82	Salida Mirzoeva	Lisa M. Godsel
+82	82	Salida Mirzoeva	Thomas J. Lukas
+82	82	Salida Mirzoeva	Samuel Goldenberg
+82	82	Salida Mirzoeva	D. Martin Watterson
+82	82	Salida Mirzoeva	David M. Engman
+82	82	Lisa M. Godsel	Thomas J. Lukas
+82	82	Lisa M. Godsel	Samuel Goldenberg
+82	82	Lisa M. Godsel	D. Martin Watterson
+82	82	Lisa M. Godsel	David M. Engman
+82	82	Thomas J. Lukas	Samuel Goldenberg
+82	82	Thomas J. Lukas	D. Martin Watterson
+82	82	Thomas J. Lukas	David M. Engman
+82	82	Samuel Goldenberg	D. Martin Watterson
+82	82	Samuel Goldenberg	David M. Engman
+82	82	D. Martin Watterson	David M. Engman
+83	83	Randal S. Tibbetts	Kathy Klein
+83	83	Randal S. Tibbetts	David M. Engman
+83	83	Kathy Klein	David M. Engman
+84	84	Karin Klein	Cheryl L. Olson
+84	84	Karin Klein	David M. Engman
+84	84	Cheryl L. Olson	David M. Engman
+85	85	Alina Fridberg	Kathryn T. Buchanan
+85	85	Alina Fridberg	David M. Engman
+85	85	Kathryn T. Buchanan	David M. Engman
+86	86	Conrad L. Epting	Bria M. Coates
+86	86	Conrad L. Epting	David M. Engman
+86	86	Bria M. Coates	David M. Engman
+87	87	Xianzhong Xu	Cheryl L. Olson
+87	87	Xianzhong Xu	David M. Engman
+87	87	Xianzhong Xu	James B. Ames
+87	87	Cheryl L. Olson	David M. Engman
+87	87	Cheryl L. Olson	James B. Ames
+87	87	David M. Engman	James B. Ames
+88	88	Ann E. Walts	Joseph S. Frye
+88	88	Ann E. Walts	David M. Engman
+88	88	Ann E. Walts	Alberto M. Marchevsky
+88	88	Joseph S. Frye	David M. Engman
+88	88	Joseph S. Frye	Alberto M. Marchevsky
+88	88	David M. Engman	Alberto M. Marchevsky
+89	89	Xiaomo Li	Sijia Yi
+89	89	Xiaomo Li	Débora B. Scariot
+89	89	Xiaomo Li	Santiago Martínez
+89	89	Xiaomo Li	Ben Falk
+89	89	Xiaomo Li	Cheryl L. Olson
+89	89	Xiaomo Li	Patricia Silvia Romano
+89	89	Xiaomo Li	Evan A. Scott
+89	89	Xiaomo Li	David M. Engman
+89	89	Sijia Yi	Débora B. Scariot
+89	89	Sijia Yi	Santiago Martínez
+89	89	Sijia Yi	Ben Falk
+89	89	Sijia Yi	Cheryl L. Olson
+89	89	Sijia Yi	Patricia Silvia Romano
+89	89	Sijia Yi	Evan A. Scott
+89	89	Sijia Yi	David M. Engman
+89	89	Débora B. Scariot	Santiago Martínez
+89	89	Débora B. Scariot	Ben Falk
+89	89	Débora B. Scariot	Cheryl L. Olson
+89	89	Débora B. Scariot	Patricia Silvia Romano
+89	89	Débora B. Scariot	Evan A. Scott
+89	89	Débora B. Scariot	David M. Engman
+89	89	Santiago Martínez	Ben Falk
+89	89	Santiago Martínez	Cheryl L. Olson
+89	89	Santiago Martínez	Patricia Silvia Romano
+89	89	Santiago Martínez	Evan A. Scott
+89	89	Santiago Martínez	David M. Engman
+89	89	Ben Falk	Cheryl L. Olson
+89	89	Ben Falk	Patricia Silvia Romano
+89	89	Ben Falk	Evan A. Scott
+89	89	Ben Falk	David M. Engman
+89	89	Cheryl L. Olson	Patricia Silvia Romano
+89	89	Cheryl L. Olson	Evan A. Scott
 89	89	Cheryl L. Olson	David M. Engman
-89	89	John E. Donelson	David M. Engman
-90	90	Melvin D. Daniels	Kenneth V. Hyland
-90	90	Melvin D. Daniels	David M. Engman
-90	90	Kenneth V. Hyland	David M. Engman
-91	91	Xianzhong Xu	Cheryl L. Olson
-91	91	Xianzhong Xu	David M. Engman
-91	91	Xianzhong Xu	James B. Ames
-91	91	Cheryl L. Olson	David M. Engman
-91	91	Cheryl L. Olson	James B. Ames
-91	91	David M. Engman	James B. Ames
-92	92	Danijela Maric	Cheryl L. Olson
-92	92	Danijela Maric	Xianzhong Xu
-92	92	Danijela Maric	James B. Ames
-92	92	Danijela Maric	David M. Engman
-92	92	Cheryl L. Olson	Xianzhong Xu
-92	92	Cheryl L. Olson	James B. Ames
-92	92	Cheryl L. Olson	David M. Engman
-92	92	Xianzhong Xu	James B. Ames
+89	89	Patricia Silvia Romano	Evan A. Scott
+89	89	Patricia Silvia Romano	David M. Engman
+89	89	Evan A. Scott	David M. Engman
+90	90	Karin Klein	Cheryl L. Olson
+90	90	Karin Klein	John E. Donelson
+90	90	Karin Klein	David M. Engman
+90	90	Cheryl L. Olson	John E. Donelson
+90	90	Cheryl L. Olson	David M. Engman
+90	90	John E. Donelson	David M. Engman
+91	91	Melvin D. Daniels	Kenneth V. Hyland
+91	91	Melvin D. Daniels	David M. Engman
+91	91	Kenneth V. Hyland	David M. Engman
+92	92	Xianzhong Xu	Cheryl L. Olson
 92	92	Xianzhong Xu	David M. Engman
-92	92	James B. Ames	David M. Engman
-93	93	Lisa M. Godsel	Cheryl L. Olson
-93	93	Lisa M. Godsel	Z.G.M. Lacava
-93	93	Lisa M. Godsel	David M. Engman
-93	93	Cheryl L. Olson	Z.G.M. Lacava
+92	92	Xianzhong Xu	James B. Ames
+92	92	Cheryl L. Olson	David M. Engman
+92	92	Cheryl L. Olson	James B. Ames
+92	92	David M. Engman	James B. Ames
+93	93	Danijela Maric	Cheryl L. Olson
+93	93	Danijela Maric	Xianzhong Xu
+93	93	Danijela Maric	James B. Ames
+93	93	Danijela Maric	David M. Engman
+93	93	Cheryl L. Olson	Xianzhong Xu
+93	93	Cheryl L. Olson	James B. Ames
 93	93	Cheryl L. Olson	David M. Engman
-93	93	Z.G.M. Lacava	David M. Engman
-94	94	MÃ ́nica A.C Carreira	Randal S. Tibbetts
-94	94	MÃ ́nica A.C Carreira	Cheryl L. Olson
-94	94	MÃ ́nica A.C Carreira	Cristoph Schuster
-94	94	MÃ ́nica A.C Carreira	Manfred Renz
-94	94	MÃ ́nica A.C Carreira	David M. Engman
-94	94	MÃ ́nica A.C Carreira	Samuel Goldenberg
-94	94	Randal S. Tibbetts	Cheryl L. Olson
-94	94	Randal S. Tibbetts	Cristoph Schuster
-94	94	Randal S. Tibbetts	Manfred Renz
-94	94	Randal S. Tibbetts	David M. Engman
-94	94	Randal S. Tibbetts	Samuel Goldenberg
-94	94	Cheryl L. Olson	Cristoph Schuster
-94	94	Cheryl L. Olson	Manfred Renz
+93	93	Xianzhong Xu	James B. Ames
+93	93	Xianzhong Xu	David M. Engman
+93	93	James B. Ames	David M. Engman
+94	94	Lisa M. Godsel	Cheryl L. Olson
+94	94	Lisa M. Godsel	Z.G.M. Lacava
+94	94	Lisa M. Godsel	David M. Engman
+94	94	Cheryl L. Olson	Z.G.M. Lacava
 94	94	Cheryl L. Olson	David M. Engman
-94	94	Cheryl L. Olson	Samuel Goldenberg
-94	94	Cristoph Schuster	Manfred Renz
-94	94	Cristoph Schuster	David M. Engman
-94	94	Cristoph Schuster	Samuel Goldenberg
-94	94	Manfred Renz	David M. Engman
-94	94	Manfred Renz	Samuel Goldenberg
-94	94	David M. Engman	Samuel Goldenberg
-95	95	Juan S. León	David M. Engman
-96	96	Steven W. Cotten	David M. Engman
-96	96	Steven W. Cotten	Peter A. Thomas
-96	96	David M. Engman	Peter A. Thomas
+94	94	Z.G.M. Lacava	David M. Engman
+95	95	MÃ ́nica A.C Carreira	Randal S. Tibbetts
+95	95	MÃ ́nica A.C Carreira	Cheryl L. Olson
+95	95	MÃ ́nica A.C Carreira	Cristoph Schuster
+95	95	MÃ ́nica A.C Carreira	Manfred Renz
+95	95	MÃ ́nica A.C Carreira	David M. Engman
+95	95	MÃ ́nica A.C Carreira	Samuel Goldenberg
+95	95	Randal S. Tibbetts	Cheryl L. Olson
+95	95	Randal S. Tibbetts	Cristoph Schuster
+95	95	Randal S. Tibbetts	Manfred Renz
+95	95	Randal S. Tibbetts	David M. Engman
+95	95	Randal S. Tibbetts	Samuel Goldenberg
+95	95	Cheryl L. Olson	Cristoph Schuster
+95	95	Cheryl L. Olson	Manfred Renz
+95	95	Cheryl L. Olson	David M. Engman
+95	95	Cheryl L. Olson	Samuel Goldenberg
+95	95	Cristoph Schuster	Manfred Renz
+95	95	Cristoph Schuster	David M. Engman
+95	95	Cristoph Schuster	Samuel Goldenberg
+95	95	Manfred Renz	David M. Engman
+95	95	Manfred Renz	Samuel Goldenberg
+95	95	David M. Engman	Samuel Goldenberg
+96	96	Juan S. León	David M. Engman
 97	97	Conrad L. Epting	Brian T. Emmer
 97	97	Conrad L. Epting	Nga Du
 97	97	Conrad L. Epting	Joann M. Taylor
@@ -2032,129 +2065,126 @@
 97	97	Ming Y. Makanji	Cheryl L. Olson
 97	97	Ming Y. Makanji	David M. Engman
 97	97	Cheryl L. Olson	David M. Engman
-98	98	R.W. Brown	Aabha Sharma
-98	98	R.W. Brown	Miguel Rey Villanueva
-98	98	R.W. Brown	Xiaomo Li
-98	98	R.W. Brown	Ouma Onguka
-98	98	R.W. Brown	Leeor Zilbermintz
-98	98	R.W. Brown	Helen Nguyen
-98	98	R.W. Brown	Ben Falk
-98	98	R.W. Brown	Cheryl L. Olson
-98	98	R.W. Brown	Joann M. Taylor
-98	98	R.W. Brown	Conrad L. Epting
-98	98	R.W. Brown	Rahul S. Kathayat
-98	98	R.W. Brown	Neri Amara
-98	98	R.W. Brown	Bryan C. Dickinson
-98	98	R.W. Brown	Matthew Bogyo
-98	98	R.W. Brown	David M. Engman
-98	98	Aabha Sharma	Miguel Rey Villanueva
-98	98	Aabha Sharma	Xiaomo Li
-98	98	Aabha Sharma	Ouma Onguka
-98	98	Aabha Sharma	Leeor Zilbermintz
-98	98	Aabha Sharma	Helen Nguyen
-98	98	Aabha Sharma	Ben Falk
-98	98	Aabha Sharma	Cheryl L. Olson
-98	98	Aabha Sharma	Joann M. Taylor
-98	98	Aabha Sharma	Conrad L. Epting
-98	98	Aabha Sharma	Rahul S. Kathayat
-98	98	Aabha Sharma	Neri Amara
-98	98	Aabha Sharma	Bryan C. Dickinson
-98	98	Aabha Sharma	Matthew Bogyo
-98	98	Aabha Sharma	David M. Engman
-98	98	Miguel Rey Villanueva	Xiaomo Li
-98	98	Miguel Rey Villanueva	Ouma Onguka
-98	98	Miguel Rey Villanueva	Leeor Zilbermintz
-98	98	Miguel Rey Villanueva	Helen Nguyen
-98	98	Miguel Rey Villanueva	Ben Falk
-98	98	Miguel Rey Villanueva	Cheryl L. Olson
-98	98	Miguel Rey Villanueva	Joann M. Taylor
-98	98	Miguel Rey Villanueva	Conrad L. Epting
-98	98	Miguel Rey Villanueva	Rahul S. Kathayat
-98	98	Miguel Rey Villanueva	Neri Amara
-98	98	Miguel Rey Villanueva	Bryan C. Dickinson
-98	98	Miguel Rey Villanueva	Matthew Bogyo
-98	98	Miguel Rey Villanueva	David M. Engman
-98	98	Xiaomo Li	Ouma Onguka
-98	98	Xiaomo Li	Leeor Zilbermintz
-98	98	Xiaomo Li	Helen Nguyen
-98	98	Xiaomo Li	Ben Falk
-98	98	Xiaomo Li	Cheryl L. Olson
-98	98	Xiaomo Li	Joann M. Taylor
-98	98	Xiaomo Li	Conrad L. Epting
-98	98	Xiaomo Li	Rahul S. Kathayat
-98	98	Xiaomo Li	Neri Amara
-98	98	Xiaomo Li	Bryan C. Dickinson
-98	98	Xiaomo Li	Matthew Bogyo
-98	98	Xiaomo Li	David M. Engman
-98	98	Ouma Onguka	Leeor Zilbermintz
-98	98	Ouma Onguka	Helen Nguyen
-98	98	Ouma Onguka	Ben Falk
-98	98	Ouma Onguka	Cheryl L. Olson
-98	98	Ouma Onguka	Joann M. Taylor
-98	98	Ouma Onguka	Conrad L. Epting
-98	98	Ouma Onguka	Rahul S. Kathayat
-98	98	Ouma Onguka	Neri Amara
-98	98	Ouma Onguka	Bryan C. Dickinson
-98	98	Ouma Onguka	Matthew Bogyo
-98	98	Ouma Onguka	David M. Engman
-98	98	Leeor Zilbermintz	Helen Nguyen
-98	98	Leeor Zilbermintz	Ben Falk
-98	98	Leeor Zilbermintz	Cheryl L. Olson
-98	98	Leeor Zilbermintz	Joann M. Taylor
-98	98	Leeor Zilbermintz	Conrad L. Epting
-98	98	Leeor Zilbermintz	Rahul S. Kathayat
-98	98	Leeor Zilbermintz	Neri Amara
-98	98	Leeor Zilbermintz	Bryan C. Dickinson
-98	98	Leeor Zilbermintz	Matthew Bogyo
-98	98	Leeor Zilbermintz	David M. Engman
-98	98	Helen Nguyen	Ben Falk
-98	98	Helen Nguyen	Cheryl L. Olson
-98	98	Helen Nguyen	Joann M. Taylor
-98	98	Helen Nguyen	Conrad L. Epting
-98	98	Helen Nguyen	Rahul S. Kathayat
-98	98	Helen Nguyen	Neri Amara
-98	98	Helen Nguyen	Bryan C. Dickinson
-98	98	Helen Nguyen	Matthew Bogyo
-98	98	Helen Nguyen	David M. Engman
-98	98	Ben Falk	Cheryl L. Olson
-98	98	Ben Falk	Joann M. Taylor
-98	98	Ben Falk	Conrad L. Epting
-98	98	Ben Falk	Rahul S. Kathayat
-98	98	Ben Falk	Neri Amara
-98	98	Ben Falk	Bryan C. Dickinson
-98	98	Ben Falk	Matthew Bogyo
-98	98	Ben Falk	David M. Engman
-98	98	Cheryl L. Olson	Joann M. Taylor
-98	98	Cheryl L. Olson	Conrad L. Epting
-98	98	Cheryl L. Olson	Rahul S. Kathayat
-98	98	Cheryl L. Olson	Neri Amara
-98	98	Cheryl L. Olson	Bryan C. Dickinson
-98	98	Cheryl L. Olson	Matthew Bogyo
-98	98	Cheryl L. Olson	David M. Engman
-98	98	Joann M. Taylor	Conrad L. Epting
-98	98	Joann M. Taylor	Rahul S. Kathayat
-98	98	Joann M. Taylor	Neri Amara
-98	98	Joann M. Taylor	Bryan C. Dickinson
-98	98	Joann M. Taylor	Matthew Bogyo
-98	98	Joann M. Taylor	David M. Engman
-98	98	Conrad L. Epting	Rahul S. Kathayat
-98	98	Conrad L. Epting	Neri Amara
-98	98	Conrad L. Epting	Bryan C. Dickinson
-98	98	Conrad L. Epting	Matthew Bogyo
-98	98	Conrad L. Epting	David M. Engman
-98	98	Rahul S. Kathayat	Neri Amara
-98	98	Rahul S. Kathayat	Bryan C. Dickinson
-98	98	Rahul S. Kathayat	Matthew Bogyo
-98	98	Rahul S. Kathayat	David M. Engman
-98	98	Neri Amara	Bryan C. Dickinson
-98	98	Neri Amara	Matthew Bogyo
-98	98	Neri Amara	David M. Engman
-98	98	Bryan C. Dickinson	Matthew Bogyo
-98	98	Bryan C. Dickinson	David M. Engman
-98	98	Matthew Bogyo	David M. Engman
-99	99	David M. Engman	Kimberly Henkle‐Dührsen
-99	99	David M. Engman	Louis V. Kirchhoff
-99	99	David M. Engman	J E Donelson
-99	99	Kimberly Henkle‐Dührsen	Louis V. Kirchhoff
-99	99	Kimberly Henkle‐Dührsen	J E Donelson
-99	99	Louis V. Kirchhoff	J E Donelson
+98	98	Steven W. Cotten	David M. Engman
+98	98	Steven W. Cotten	Peter A. Thomas
+98	98	David M. Engman	Peter A. Thomas
+99	99	R.W. Brown	Aabha Sharma
+99	99	R.W. Brown	Miguel Rey Villanueva
+99	99	R.W. Brown	Xiaomo Li
+99	99	R.W. Brown	Ouma Onguka
+99	99	R.W. Brown	Leeor Zilbermintz
+99	99	R.W. Brown	Helen Nguyen
+99	99	R.W. Brown	Ben Falk
+99	99	R.W. Brown	Cheryl L. Olson
+99	99	R.W. Brown	Joann M. Taylor
+99	99	R.W. Brown	Conrad L. Epting
+99	99	R.W. Brown	Rahul S. Kathayat
+99	99	R.W. Brown	Neri Amara
+99	99	R.W. Brown	Bryan C. Dickinson
+99	99	R.W. Brown	Matthew Bogyo
+99	99	R.W. Brown	David M. Engman
+99	99	Aabha Sharma	Miguel Rey Villanueva
+99	99	Aabha Sharma	Xiaomo Li
+99	99	Aabha Sharma	Ouma Onguka
+99	99	Aabha Sharma	Leeor Zilbermintz
+99	99	Aabha Sharma	Helen Nguyen
+99	99	Aabha Sharma	Ben Falk
+99	99	Aabha Sharma	Cheryl L. Olson
+99	99	Aabha Sharma	Joann M. Taylor
+99	99	Aabha Sharma	Conrad L. Epting
+99	99	Aabha Sharma	Rahul S. Kathayat
+99	99	Aabha Sharma	Neri Amara
+99	99	Aabha Sharma	Bryan C. Dickinson
+99	99	Aabha Sharma	Matthew Bogyo
+99	99	Aabha Sharma	David M. Engman
+99	99	Miguel Rey Villanueva	Xiaomo Li
+99	99	Miguel Rey Villanueva	Ouma Onguka
+99	99	Miguel Rey Villanueva	Leeor Zilbermintz
+99	99	Miguel Rey Villanueva	Helen Nguyen
+99	99	Miguel Rey Villanueva	Ben Falk
+99	99	Miguel Rey Villanueva	Cheryl L. Olson
+99	99	Miguel Rey Villanueva	Joann M. Taylor
+99	99	Miguel Rey Villanueva	Conrad L. Epting
+99	99	Miguel Rey Villanueva	Rahul S. Kathayat
+99	99	Miguel Rey Villanueva	Neri Amara
+99	99	Miguel Rey Villanueva	Bryan C. Dickinson
+99	99	Miguel Rey Villanueva	Matthew Bogyo
+99	99	Miguel Rey Villanueva	David M. Engman
+99	99	Xiaomo Li	Ouma Onguka
+99	99	Xiaomo Li	Leeor Zilbermintz
+99	99	Xiaomo Li	Helen Nguyen
+99	99	Xiaomo Li	Ben Falk
+99	99	Xiaomo Li	Cheryl L. Olson
+99	99	Xiaomo Li	Joann M. Taylor
+99	99	Xiaomo Li	Conrad L. Epting
+99	99	Xiaomo Li	Rahul S. Kathayat
+99	99	Xiaomo Li	Neri Amara
+99	99	Xiaomo Li	Bryan C. Dickinson
+99	99	Xiaomo Li	Matthew Bogyo
+99	99	Xiaomo Li	David M. Engman
+99	99	Ouma Onguka	Leeor Zilbermintz
+99	99	Ouma Onguka	Helen Nguyen
+99	99	Ouma Onguka	Ben Falk
+99	99	Ouma Onguka	Cheryl L. Olson
+99	99	Ouma Onguka	Joann M. Taylor
+99	99	Ouma Onguka	Conrad L. Epting
+99	99	Ouma Onguka	Rahul S. Kathayat
+99	99	Ouma Onguka	Neri Amara
+99	99	Ouma Onguka	Bryan C. Dickinson
+99	99	Ouma Onguka	Matthew Bogyo
+99	99	Ouma Onguka	David M. Engman
+99	99	Leeor Zilbermintz	Helen Nguyen
+99	99	Leeor Zilbermintz	Ben Falk
+99	99	Leeor Zilbermintz	Cheryl L. Olson
+99	99	Leeor Zilbermintz	Joann M. Taylor
+99	99	Leeor Zilbermintz	Conrad L. Epting
+99	99	Leeor Zilbermintz	Rahul S. Kathayat
+99	99	Leeor Zilbermintz	Neri Amara
+99	99	Leeor Zilbermintz	Bryan C. Dickinson
+99	99	Leeor Zilbermintz	Matthew Bogyo
+99	99	Leeor Zilbermintz	David M. Engman
+99	99	Helen Nguyen	Ben Falk
+99	99	Helen Nguyen	Cheryl L. Olson
+99	99	Helen Nguyen	Joann M. Taylor
+99	99	Helen Nguyen	Conrad L. Epting
+99	99	Helen Nguyen	Rahul S. Kathayat
+99	99	Helen Nguyen	Neri Amara
+99	99	Helen Nguyen	Bryan C. Dickinson
+99	99	Helen Nguyen	Matthew Bogyo
+99	99	Helen Nguyen	David M. Engman
+99	99	Ben Falk	Cheryl L. Olson
+99	99	Ben Falk	Joann M. Taylor
+99	99	Ben Falk	Conrad L. Epting
+99	99	Ben Falk	Rahul S. Kathayat
+99	99	Ben Falk	Neri Amara
+99	99	Ben Falk	Bryan C. Dickinson
+99	99	Ben Falk	Matthew Bogyo
+99	99	Ben Falk	David M. Engman
+99	99	Cheryl L. Olson	Joann M. Taylor
+99	99	Cheryl L. Olson	Conrad L. Epting
+99	99	Cheryl L. Olson	Rahul S. Kathayat
+99	99	Cheryl L. Olson	Neri Amara
+99	99	Cheryl L. Olson	Bryan C. Dickinson
+99	99	Cheryl L. Olson	Matthew Bogyo
+99	99	Cheryl L. Olson	David M. Engman
+99	99	Joann M. Taylor	Conrad L. Epting
+99	99	Joann M. Taylor	Rahul S. Kathayat
+99	99	Joann M. Taylor	Neri Amara
+99	99	Joann M. Taylor	Bryan C. Dickinson
+99	99	Joann M. Taylor	Matthew Bogyo
+99	99	Joann M. Taylor	David M. Engman
+99	99	Conrad L. Epting	Rahul S. Kathayat
+99	99	Conrad L. Epting	Neri Amara
+99	99	Conrad L. Epting	Bryan C. Dickinson
+99	99	Conrad L. Epting	Matthew Bogyo
+99	99	Conrad L. Epting	David M. Engman
+99	99	Rahul S. Kathayat	Neri Amara
+99	99	Rahul S. Kathayat	Bryan C. Dickinson
+99	99	Rahul S. Kathayat	Matthew Bogyo
+99	99	Rahul S. Kathayat	David M. Engman
+99	99	Neri Amara	Bryan C. Dickinson
+99	99	Neri Amara	Matthew Bogyo
+99	99	Neri Amara	David M. Engman
+99	99	Bryan C. Dickinson	Matthew Bogyo
+99	99	Bryan C. Dickinson	David M. Engman
+99	99	Matthew Bogyo	David M. Engman

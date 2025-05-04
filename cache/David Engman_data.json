@@ -37,7 +37,9 @@
         "W2122205545",
         "W2110173319",
         "W2137739397",
+        "W3022674989",
         "W4409687395",
+        "W4409784546",
         "W2111154515",
         "W2145450205",
         "W1591530312",
@@ -45,15 +47,14 @@
         "W2121573278",
         "W2101232391",
         "W2010208991",
-        "W3022674989",
         "W3135769363",
+        "W4296169250",
         "W1547753251",
         "W2114192257",
         "W2123524472",
         "W2023847294",
         "W1979937549",
         "W2033549129",
-        "W4296169250",
         "W1970184330",
         "W2171359504",
         "W2155132999",
@@ -105,10 +106,9 @@
         "W1972639520",
         "W2118051539",
         "W67559892",
-        "W4403071495",
         "W2754077401",
-        "W4307704584",
-        "W1976208094"
+        "W4403071495",
+        "W4307704584"
       ]
     },
     "A5009418494": {
@@ -922,6 +922,26 @@
       ],
       "venue": "International Journal for Parasitology"
     },
+    "W3022674989": {
+      "id": "W3022674989",
+      "title": "Precision Health for Chagas Disease: Integrating Parasite and Host Factors to Predict Outcome of Infection and Response to Therapy",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Santiago Mart\u00ednez",
+          "id": "A5070972621"
+        },
+        {
+          "name": "Patricia Silvia Romano",
+          "id": "A5055997876"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Frontiers in Cellular and Infection Microbiology"
+    },
     "W4409687395": {
       "id": "W4409687395",
       "title": "Efficacy of Benznidazole Delivery During Chagas Disease Nanotherapy is Dependent on the Nanocarrier Morphology",
@@ -956,7 +976,7 @@
           "id": "A5024518185"
         },
         {
-          "name": "Elhadji Malick Mbaye",
+          "name": "El Hadji Arona Mbaye",
           "id": "A5090561245"
         },
         {
@@ -973,6 +993,50 @@
         }
       ],
       "venue": "Biomaterials"
+    },
+    "W4409784546": {
+      "id": "W4409784546",
+      "title": "Dual Treatment of Chronic Chagasic Cardiomyopathy and Parasitic Burden via Combination Nanotherapy",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Austeja Staneviciute",
+          "id": "A5041445557"
+        },
+        {
+          "name": "D\u00e9bora B. Scariot",
+          "id": "A5083878959"
+        },
+        {
+          "name": "Yugang Liu",
+          "id": "A5101747101"
+        },
+        {
+          "name": "Qian Yuan",
+          "id": "A5101182502"
+        },
+        {
+          "name": "Swagat Sharma",
+          "id": "A5031247828"
+        },
+        {
+          "name": "El Hadji Arona Mbaye",
+          "id": "A5090561245"
+        },
+        {
+          "name": "Sultan Almunif",
+          "id": "A5024518185"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Evan A. Scott",
+          "id": "A5037038581"
+        }
+      ],
+      "venue": "ACS Nano"
     },
     "W2111154515": {
       "id": "W2111154515",
@@ -1174,26 +1238,6 @@
       ],
       "venue": "Journal of Biological Chemistry"
     },
-    "W3022674989": {
-      "id": "W3022674989",
-      "title": "Precision Health for Chagas Disease: Integrating Parasite and Host Factors to Predict Outcome of Infection and Response to Therapy",
-      "year": 2020,
-      "authors": [
-        {
-          "name": "Santiago Mart\u00ednez",
-          "id": "A5070972621"
-        },
-        {
-          "name": "Patricia Silvia Romano",
-          "id": "A5055997876"
-        },
-        {
-          "name": "David M. Engman",
-          "id": "A5047332247"
-        }
-      ],
-      "venue": "Frontiers in Cellular and Infection Microbiology"
-    },
     "W3135769363": {
       "id": "W3135769363",
       "title": "TMPRSS2 activity may mediate sex differences in COVID-19 severity",
@@ -1217,6 +1261,38 @@
         }
       ],
       "venue": "Signal Transduction and Targeted Therapy"
+    },
+    "W4296169250": {
+      "id": "W4296169250",
+      "title": "Leishmaniasis and Chagas disease: Is there hope in nanotechnology to fight neglected tropical diseases?",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "D\u00e9bora B. Scariot",
+          "id": "A5083878959"
+        },
+        {
+          "name": "Austeja Staneviciute",
+          "id": "A5041445557"
+        },
+        {
+          "name": "Jennifer Zhu",
+          "id": "A5045774873"
+        },
+        {
+          "name": "Xiaomo Li",
+          "id": "A5053050802"
+        },
+        {
+          "name": "Evan A. Scott",
+          "id": "A5037038581"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        }
+      ],
+      "venue": "Frontiers in Cellular and Infection Microbiology"
     },
     "W1547753251": {
       "id": "W1547753251",
@@ -1393,38 +1469,6 @@
         }
       ],
       "venue": "Trends in Parasitology"
-    },
-    "W4296169250": {
-      "id": "W4296169250",
-      "title": "Leishmaniasis and Chagas disease: Is there hope in nanotechnology to fight neglected tropical diseases?",
-      "year": 2022,
-      "authors": [
-        {
-          "name": "D\u00e9bora B. Scariot",
-          "id": "A5083878959"
-        },
-        {
-          "name": "Austeja Staneviciute",
-          "id": "A5041445557"
-        },
-        {
-          "name": "Jennifer Zhu",
-          "id": "A5045774873"
-        },
-        {
-          "name": "Xiaomo Li",
-          "id": "A5053050802"
-        },
-        {
-          "name": "Evan A. Scott",
-          "id": "A5037038581"
-        },
-        {
-          "name": "David M. Engman",
-          "id": "A5047332247"
-        }
-      ],
-      "venue": "Frontiers in Cellular and Infection Microbiology"
     },
     "W1970184330": {
       "id": "W1970184330",
@@ -2982,26 +3026,6 @@
       ],
       "venue": "World class parasites"
     },
-    "W4403071495": {
-      "id": "W4403071495",
-      "title": "B-040 Direct Aspiration of Cryogenic Matrix Tubes on the Siemens Atellica System With Epic-Beaker Integration of External Barcode IDs for Analysis Small Volume Biobanked Specimens",
-      "year": 2024,
-      "authors": [
-        {
-          "name": "Steven W. Cotten",
-          "id": "A5044283170"
-        },
-        {
-          "name": "David M. Engman",
-          "id": "A5047332247"
-        },
-        {
-          "name": "Peter A. Thomas",
-          "id": "A5029521413"
-        }
-      ],
-      "venue": "Clinical Chemistry"
-    },
     "W2754077401": {
       "id": "W2754077401",
       "title": "Cell Cycle Inhibition To Treat Sleeping Sickness",
@@ -3037,6 +3061,26 @@
         }
       ],
       "venue": "mBio"
+    },
+    "W4403071495": {
+      "id": "W4403071495",
+      "title": "B-040 Direct Aspiration of Cryogenic Matrix Tubes on the Siemens Atellica System With Epic-Beaker Integration of External Barcode IDs for Analysis Small Volume Biobanked Specimens",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Steven W. Cotten",
+          "id": "A5044283170"
+        },
+        {
+          "name": "David M. Engman",
+          "id": "A5047332247"
+        },
+        {
+          "name": "Peter A. Thomas",
+          "id": "A5029521413"
+        }
+      ],
+      "venue": "Clinical Chemistry"
     },
     "W4307704584": {
       "id": "W4307704584",
@@ -3109,30 +3153,6 @@
         }
       ],
       "venue": "Pathogens"
-    },
-    "W1976208094": {
-      "id": "W1976208094",
-      "title": "Trypanosoma cruzi: Accumulation of Polycistronic hsp70 RNAs during Severe Heat Shock",
-      "year": 1995,
-      "authors": [
-        {
-          "name": "David M. Engman",
-          "id": "A5047332247"
-        },
-        {
-          "name": "Kimberly Henkle\u2010D\u00fchrsen",
-          "id": "A5080768886"
-        },
-        {
-          "name": "Louis V. Kirchhoff",
-          "id": "A5084639477"
-        },
-        {
-          "name": "J E Donelson",
-          "id": "A5110171103"
-        }
-      ],
-      "venue": "Experimental Parasitology"
     }
   },
   "author_id_to_label": {

@@ -1,0 +1,36 @@
+2025-05-03 20:06:07,388 - INFO - Processing 2 names from command line
+2025-05-03 20:06:07,388 - INFO - Processing name: David Engman
+2025-05-03 20:06:21,668 - INFO - Successfully processed David Engman
+2025-05-03 20:06:21,668 - INFO - Processing name: Daniel Fowler
+2025-05-03 20:06:46,182 - INFO - Successfully processed Daniel Fowler
+2025-05-03 20:06:46,182 - INFO - Batch processing complete
+2025-05-03 20:09:59,325 - INFO - Processing 2 names from command line
+2025-05-03 20:09:59,325 - INFO - Processing name: David Engman
+2025-05-03 20:10:18,398 - INFO - Successfully processed David Engman
+2025-05-03 20:10:18,399 - INFO - Processing name: Daniel Fowler
+2025-05-03 20:10:31,976 - INFO - Successfully processed Daniel Fowler
+2025-05-03 20:10:31,977 - INFO - Batch processing complete
+2025-05-03 20:12:26,468 - INFO - Processing 2 names from command line
+2025-05-03 20:12:26,468 - INFO - Processing name: David Engman
+2025-05-03 20:12:35,710 - WARNING - Could not find final JSON output in stdout for David Engman. Command output was:
+
+Disambiguating OpenAlex IDs for author: --name
+Loaded word2vec model from C:\Work\UROP\HGCN-name-disambiguation\gene\word2vec.model
+No cached data found for --name. Please run openAlex_to_HGCN.py first.
+
+2025-05-03 20:12:35,710 - INFO - Successfully processed David Engman
+2025-05-03 20:12:35,710 - INFO - Processing name: Daniel Fowler
+2025-05-03 20:12:50,341 - WARNING - Could not find final JSON output in stdout for Daniel Fowler. Command output was:
+
+Disambiguating OpenAlex IDs for author: --name
+Loaded word2vec model from C:\Work\UROP\HGCN-name-disambiguation\gene\word2vec.model
+No cached data found for --name. Please run openAlex_to_HGCN.py first.
+
+2025-05-03 20:12:50,342 - INFO - Successfully processed Daniel Fowler
+2025-05-03 20:12:50,342 - INFO - Batch processing complete
+2025-05-03 20:16:46,205 - INFO - Processing 2 names from command line
+2025-05-03 20:16:46,205 - INFO - Processing name: David Engman
+2025-05-03 20:16:57,651 - INFO - Successfully processed David Engman
+2025-05-03 20:16:57,651 - INFO - Processing name: Daniel Fowler
+2025-05-03 20:17:13,635 - INFO - Successfully processed Daniel Fowler
+2025-05-03 20:17:13,635 - INFO - Batch processing complete

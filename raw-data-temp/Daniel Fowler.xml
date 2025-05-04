@@ -7,7 +7,7 @@
 	<publication>
 		<title>Haploidentical transplant with posttransplant cyclophosphamide vs matched unrelated donor transplant for acute myeloid leukemia</title>
 		<year>2015</year>
-		<authors>Stefan O. Ciurea, Mei-Jie Zhang, Andrea A. Bacigalupo, Asad Bashey, Frederick R. Appelbaum, Omar S. Aljitawi, Philippe Armand, Joseph H. Antin, Junfang Chen, Steven M. Devine, Daniel H. Fowler, Leo Luznik, Ryotaro Nakamura, Paul V. O’Donnell, Miguel-Ángel Perales, Sai Ravi Pingali, David Porter, Marcie R. Riches, Olle Ringdén, Vanderson Rocha, Ravi Vij, Daniel J. Weisdorf, Richard E. Champlin, Mary M. Horowitz, Ephraim J. Fuchs, Mary Eapen</authors>
+		<authors>Stefan O. Ciurea, Mei-Jie Zhang, Andrea A. Bacigalupo, Asad Bashey, Frederick R. Appelbaum, Omar S. Aljitawi, Philippe Armand, Joseph H. Antin, Junfang Chen, Steven M. Devine, Daniel H. Fowler, Leo Luznik, Ryotaro Nakamura, Paul V. O’Donnell, Miguel‐Angel Perales, Sai Ravi Pingali, David Porter, Marcie R. Riches, Olle Ringdén, Vanderson Rocha, Ravi Vij, Daniel J. Weisdorf, Richard E. Champlin, Mary M. Horowitz, Ephraim J. Fuchs, Mary Eapen</authors>
 		<jconf>Blood</jconf>
 		<id>W2116483603</id>
 		<label>0</label>
@@ -124,7 +124,7 @@
 	<publication>
 		<title>PD-1 Inhibitory Receptor Downregulates Asparaginyl Endopeptidase and Maintains Foxp3 Transcription Factor Stability in Induced Regulatory T Cells</title>
 		<year>2018</year>
-		<authors>Chaido Stathopoulou, Arunakumar Gangaplara, Grace Mallett, Francis A. Flomerfelt, Lukasz P. Liniany, David Knight, Leigh Samsel, Rolando Berlinguer‐Palmini, Joshua J. Yim, Tania C. Felizardo, Michael Eckhaus, Laura E. Edgington-Mitchell, Jonathan Martínez‐Fábregas, Jinfang Zhu, Daniel H. Fowler, Sander I. van Kasteren, Arian Laurence, Matthew Bogyo, Colin Watts, Ethan M. Shevach, Shoba Amarnath</authors>
+		<authors>Chaido Stathopoulou, Arunakumar Gangaplara, Grace Mallett, Francis A. Flomerfelt, Lukasz P. Liniany, David Knight, Leigh Samsel, Rolando Berlinguer‐Palmini, Joshua J. Yim, Tania C. Felizardo, Michael Eckhaus, Laura E. Edgington‐Mitchell, Jonathan Martínez‐Fábregas, Jinfang Zhu, Daniel H. Fowler, Sander I. van Kasteren, Arian Laurence, Matthew Bogyo, Colin Watts, Ethan M. Shevach, Shoba Amarnath</authors>
 		<jconf>Immunity</jconf>
 		<id>W2811184311</id>
 		<label>0</label>
@@ -385,7 +385,7 @@
 	<publication>
 		<title>Norovirus infection at the NIH Clinical Center from 2010-2023: A comparative analysis of acute vs chronic norovirus infection with a focus on inborn errors of immunity</title>
 		<year>2025</year>
-		<authors>Karenna Barton, Natthawan Chaimongkol, Courtney N Ahorrio, Krista Gangler, Maria Ploussiou, Kelly Liepshutz, Kayla Morgan, Harry L. Malech, Ottavia M. Delmonte, Gülbu Uzel, V. Koneti Rao, Steven M. Holland, Alexandra F. Freeman, Ivan J. Fuss, Suk See De Ravin, Christa S. Zerbe, Jenna Bergerson, Andrea Lisco, Jennifer A. Kanakry, Dimana Dimitrova, James N. Kochenderfer, Kevin Camphausen, Daniel H. Fowler, Minoo Battiwala, Georg Aue, W. J. Childs, Jeffrey I. Cohen, Stanislav V. Sosnovtsev, Kim N. Green, Jessica Durkee-Shock</authors>
+		<authors>Karenna Barton, Natthawan Chaimongkol, Courtney Ahorrio, Krista Gangler, Maria Ploussiou, Kelly Liepshutz, Kayla Morgan, Harry L. Malech, Ottavia M. Delmonte, Gülbu Uzel, V. Koneti Rao, Steven M. Holland, Alexandra F. Freeman, Ivan J. Fuss, Suk See De Ravin, Christa S. Zerbe, Jenna Bergerson, Andrea Lisco, Jennifer A. Kanakry, Dimana Dimitrova, James N. Kochenderfer, Kevin Camphausen, Daniel H. Fowler, Minoo Battiwala, Georg Aue, W. J. Childs, Jeffrey I. Cohen, Stanislav V. Sosnovtsev, Kim N. Green, Jessica Durkee-Shock</authors>
 		<jconf>Journal of Allergy and Clinical Immunology</jconf>
 		<id>W4407339434</id>
 		<label>0</label>
@@ -397,6 +397,15 @@
 		<authors>Anzalee Khan, Dwayne L. Barber, William M. McKillop, Anthony Rupar, Christiane Auray‐Blais, Graeme Fraser, Daniel H. Fowler, Alexandra Berger, Ronan Foley, Armand Keating, Michael L. West, Jeffrey A. Medin</authors>
 		<jconf>Genetics in Medicine Open</jconf>
 		<id>W4408531538</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Protestantism, revolution and Scottish political thought: the European context, 1637–1651</title>
+		<year>2025</year>
+		<authors>Daniel H. Fowler</authors>
+		<jconf>Intellectual History Review</jconf>
+		<id>W4409897296</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>
@@ -491,20 +500,20 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
-		<title>Assessment of the Hematopoietic Cell Transplantation Comorbidity Index in Non-Hodgkin Lymphoma Patients Receiving Reduced-Intensity Allogeneic Hematopoietic Stem Cell Transplantation</title>
-		<year>2009</year>
-		<authors>Seth M. Pollack, Seth M. Steinberg, Jeanne Odom, Robert M. Dean, Daniel H. Fowler, Michael Bishop</authors>
-		<jconf>Biology of Blood and Marrow Transplantation</jconf>
-		<id>W2122514970</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
 		<title>Rapamycin generates anti-apoptotic human Th1/Tc1 cells via autophagy for induction of xenogeneic GVHD</title>
 		<year>2010</year>
 		<authors>Shoba Amarnath, Francis A. Flomerfelt, Carliann M. Costanzo, Jason Foley, Jacopo Mariotti, Daniel M. Konecki, Anu Gangopadhyay, Michael Eckhaus, Susan Wong, Bruce L. Levine, Carl H. June, Daniel H. Fowler</authors>
 		<jconf>Autophagy</jconf>
 		<id>W2025617070</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Assessment of the Hematopoietic Cell Transplantation Comorbidity Index in Non-Hodgkin Lymphoma Patients Receiving Reduced-Intensity Allogeneic Hematopoietic Stem Cell Transplantation</title>
+		<year>2009</year>
+		<authors>Seth M. Pollack, Seth M. Steinberg, Jeanne Odom, Robert M. Dean, Daniel H. Fowler, Michael Bishop</authors>
+		<jconf>Biology of Blood and Marrow Transplantation</jconf>
+		<id>W2122514970</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>
@@ -626,6 +635,15 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
+		<title>Autologous, lentivirus‐modified, T‐rapa cell “micropharmacies” for lysosomal storage disorders</title>
+		<year>2022</year>
+		<authors>Murtaza S. Nagree, Tania C. Felizardo, Mary L. Faber, Jitka Rybová, C. Anthony Rupar, S.R. Foley, Maria Fuller, Daniel H. Fowler, Jeffrey A. Medin</authors>
+		<jconf>EMBO Molecular Medicine</jconf>
+		<id>W4220860149</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
 		<title>An immunoablative regimen of fludarabine and cyclophosphamide prevents fully MHC-mismatched murine marrow graft rejection independent of GVHD</title>
 		<year>2000</year>
 		<authors>Matthew J. Petrus, J. Williams, Michael Eckhaus, Ronald E. Gress, Daniel H. Fowler</authors>
@@ -676,15 +694,6 @@
 		<authors>Kristin Baird, Terry J. Fry, Seth M. Steinberg, Michael Bishop, Daniel H. Fowler, Cynthia Delbrook, Jennifer L. Humphrey, Alison Rager, Kelly Richards, Alan S. Wayne, Crystal L. Mackall</authors>
 		<jconf>Biology of Blood and Marrow Transplantation</jconf>
 		<id>W2148595345</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Autologous, lentivirus‐modified, T‐rapa cell “micropharmacies” for lysosomal storage disorders</title>
-		<year>2022</year>
-		<authors>Murtaza S. Nagree, Tania C. Felizardo, Mary L. Faber, Jitka Rybová, C. Anthony Rupar, S.R. Foley, Maria Fuller, Daniel H. Fowler, Jeffrey A. Medin</authors>
-		<jconf>EMBO Molecular Medicine</jconf>
-		<id>W4220860149</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>
@@ -833,15 +842,6 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
-		<title>Neoantigen and tumor antigen-specific immunity transferred from immunized donors is detectable early after allogeneic transplantation in myeloma patients</title>
-		<year>2012</year>
-		<authors>Myriam Foglietta, Sattva S. Neelapu, Larry W. Kwak, Ying Jiang, Durga Nattamai, S-T Lee, Daniel H. Fowler, Claude Sportès, R E Gress, S. M. Steinberg, Luis M. Vence, Laszlo Radvanyi, Karen C. Dwyer, M. Qazilbash, R N K Bryant, Michael R. Bishop</authors>
-		<jconf>Bone Marrow Transplantation</jconf>
-		<id>W2004354247</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
 		<title>FACTs Fabry gene therapy clinical trial: Two-year data</title>
 		<year>2019</year>
 		<authors>Jeffrey A. Medin, Anzalee Khan, Ju Huang, Dwayne L. Barber, C. Anthony Rupar, Christiane Auray‐Blais, Graeme Fraser, Daniel H. Fowler, Armand Keating, Michael L. West, Ronan Foley</authors>
@@ -865,6 +865,15 @@
 		<authors>Kouhei Yamashita, Mitchell E. Horwitz, Akua Kwatemaa, Effie Nomicos, Kathleen M. Castro, Robert Sokolic, Susan F. Foster, Mary Garofalo, Uimook Choi, Mark Ryherd, Margaret R. Brown, Susan F. Leitman, Alan S. Wayne, Daniel H. Fowler, Michael Bishop, Richard W. Childs, A. John Barrett, Steven Z. Pavletic, Harry L. Malech</authors>
 		<jconf>Biology of Blood and Marrow Transplantation</jconf>
 		<id>W2019771185</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Neoantigen and tumor antigen-specific immunity transferred from immunized donors is detectable early after allogeneic transplantation in myeloma patients</title>
+		<year>2012</year>
+		<authors>Myriam Foglietta, Sattva S. Neelapu, Larry W. Kwak, Ying Jiang, Durga Nattamai, S-T Lee, Daniel H. Fowler, Claude Sportès, R E Gress, S. M. Steinberg, Luis M. Vence, Laszlo Radvanyi, Karen C. Dwyer, M. Qazilbash, R N K Bryant, Michael R. Bishop</authors>
+		<jconf>Bone Marrow Transplantation</jconf>
+		<id>W2004354247</id>
 		<label>0</label>
 		<organization>null</organization>
 	</publication>
@@ -896,15 +905,6 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
-		<title>Establishing a Platform for Immunotherapy: Clinical Outcome and Study of Immune Reconstitution after High-Dose Chemotherapy with Progenitor Cell Support in Breast Cancer Patients</title>
-		<year>2005</year>
-		<authors>Claude Sportès, Nicole McCarthy, Frances T. Hakim, Seth M. Steinberg, David J. Liewehr, David Weng, Shivaani Kummar, Juan Gea‐Banacloche, Catherine K. Chow, Robert M. Dean, Kathleen M. Castro, Donna Marchigiani, Michael R. Bishop, Daniel H. Fowler, Ronald E. Gress</authors>
-		<jconf>Biology of Blood and Marrow Transplantation</jconf>
-		<id>W2078164029</id>
-		<label>0</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
 		<title>Pre-treatment with chemotherapy can enhance the antigenicity and immunogenicity of tumours by promoting adaptive immune responses</title>
 		<year>2009</year>
 		<authors>Wai M. Liu, Daniel Fowler, Peter L. Smith, Angus Dalgleish</authors>
@@ -928,195 +928,6 @@
 		<authors>Daniel Fowler, John Copier, Natalie Wilson, Angus Dalgleish, Mark Bodman‐Smith</authors>
 		<jconf>Cancer Immunology Immunotherapy</jconf>
 		<id>W2018180954</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Cannabis-Derived Substances in Cancer Therapy – An Emerging Anti-Inflammatory Role for the Cannabinoids</title>
-		<year>2010</year>
-		<authors>Wai M. Liu, Daniel Fowler, Angus Dalgleish</authors>
-		<jconf>Current Clinical Pharmacology</jconf>
-		<id>W2002712579</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Zoledronic acid causes &lt;i&gt;γδ &lt;/i&gt;&lt;scp&gt;T&lt;/scp&gt; cells to target monocytes and down‐modulate inflammatory homing</title>
-		<year>2014</year>
-		<authors>Daniel Fowler, John Copier, Angus Dalgleish, Mark Bodman‐Smith</authors>
-		<jconf>Immunology</jconf>
-		<id>W2162754652</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Zoledronic acid renders human M1 and M2 macrophages susceptible to Vδ2+ γδ T cell cytotoxicity in a perforin-dependent manner</title>
-		<year>2017</year>
-		<authors>Daniel Fowler, John Copier, Angus Dalgleish, Mark Bodman‐Smith</authors>
-		<jconf>Cancer Immunology Immunotherapy</jconf>
-		<id>W2612720347</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Harnessing the power of Vδ2 cells in cancer immunotherapy</title>
-		<year>2014</year>
-		<authors>Daniel Fowler, Mark Bodman‐Smith</authors>
-		<jconf>Clinical &amp; Experimental Immunology</jconf>
-		<id>W1558896921</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>The gene expression profile of unstimulated dendritic cells can be used as a predictor of function</title>
-		<year>2011</year>
-		<authors>Wai M. Liu, Jayne L. Dennis, Daniel Fowler, Angus Dalgleish</authors>
-		<jconf>International Journal of Cancer</jconf>
-		<id>W1968609677</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Supernatants derived from chemotherapy-treated cancer cell lines can modify angiogenesis</title>
-		<year>2012</year>
-		<authors>Wai M. Liu, Jayne L. Dennis, Andrew M. Gravett, C Chanthirakumar, Elwira Kaminska, Gary R. Coulton, Daniel Fowler, Mark Bodman‐Smith, Angus Dalgleish</authors>
-		<jconf>British Journal of Cancer</jconf>
-		<id>W2071822191</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>The cytotoxic molecule granulysin is capable of inducing either chemotaxis or fugetaxis in dendritic cells depending on maturation: a role for V&lt;i&gt;δ&lt;/i&gt;2&lt;sup&gt;+&lt;/sup&gt;&lt;i&gt;γδ&lt;/i&gt; T cells in the modulation of immune response to tumour?</title>
-		<year>2020</year>
-		<authors>Emma L. Sparrow, Daniel Fowler, Joe Fenn, Jonathan Caron, John Copier, Angus Dalgleish, Mark Bodman‐Smith</authors>
-		<jconf>Immunology</jconf>
-		<id>W3049251972</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Payload Delivery: Engineering Immune Cells to Disrupt the Tumour Microenvironment</title>
-		<year>2021</year>
-		<authors>Daniel Fowler, Callum Nattress, Alba Southern Navarrete, Marta Barisa, Jonathan Fisher</authors>
-		<jconf>Cancers</jconf>
-		<id>W3215172272</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Experimental and Applied Immunotherapy</title>
-		<year>2010</year>
-		<authors>Jeffrey A. Medin, Daniel Fowler</authors>
-		<jconf>Humana Press eBooks</jconf>
-		<id>W2500312008</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Supernatants from lymphocytes stimulated with Bacillus Calmette-Guerin can modify the antigenicity of tumours and stimulate allogeneic T-cell responses</title>
-		<year>2011</year>
-		<authors>Wai M. Liu, Daniel Fowler, Andrew M. Gravett, Peter L. Smith, Angus Dalgleish</authors>
-		<jconf>British Journal of Cancer</jconf>
-		<id>W2100393171</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Tripartite immune cell co‐operation in the Bacillus Calmette Guérin‐induced activation of γδ T cells</title>
-		<year>2013</year>
-		<authors>Daniel Fowler, John Copier, Angus Dalgleish, Mark Bodman‐Smith</authors>
-		<jconf>Immunology and Cell Biology</jconf>
-		<id>W1482602608</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>A heat-killed preparation of mycobacterium obuense can reduce metastatic burden in vivo</title>
-		<year>2014</year>
-		<authors>Daniel Fowler, Angus Dalgleish, Wai M. Liu</authors>
-		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
-		<id>W1985856002</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Abstract 5612: Pretreatment with chemotherapy can enhance the immunogenicity of tumors by promoting adaptive immune responses</title>
-		<year>2010</year>
-		<authors>Wai M. Liu, Daniel Fowler, Peter L. Smith, Angus Dalgleish</authors>
-		<jconf>Cancer Research</jconf>
-		<id>W1976904717</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Abstract 3597: Multimodal γδ T cell cytotoxicity overcomes cellular therapy reprogramming</title>
-		<year>2024</year>
-		<authors>Callum Nattress, Daniel Fowler, Petra Vlckova, Colin Hutton, María Ramos Zapatero, Jahangir Sufi, Ferran Cardoso Rodriguez, Ashley Campbell, Angeliki Kanouta, Magdalena Buschhaus, Kerry Chester, John Anderson, Vivian Li, Marta Barisa, Jonathan Fisher, Christopher J. Tape</authors>
-		<jconf>Cancer Research</jconf>
-		<id>W4393071624</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Allograft persistence: The next frontier for allogeneic γδ T cell therapy</title>
-		<year>2024</year>
-		<authors>Daniel Fowler, Jonathan Fisher</authors>
-		<jconf>Elsevier eBooks</jconf>
-		<id>W4403773552</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Contributors</title>
-		<year>2024</year>
-		<authors>John Anderson, Marta Barisa, Anna Maria Corsale, Marta Di Simone, Francesco Dieli, Jonathan Fisher, Daniel Fowler, Serena Meraviglia, Gaya Nair, Callum Nattress, Benjamin E. Willcox, Carrie R. Willcox</authors>
-		<jconf>Elsevier eBooks</jconf>
-		<id>W4403773767</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Interplay between γδT-Cell Metabolism and Tumour Microenvironment Offers Opportunities for Therapeutic Intervention</title>
-		<year>2021</year>
-		<authors>Marta Barisa, Daniel Fowler, Jonathan Fisher</authors>
-		<jconf>Immunometabolism</jconf>
-		<id>W3187855594</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>1103 Supernatant from tumour cells treated with chemotherapy stimulate professional antigen presenting cells in vitro</title>
-		<year>2009</year>
-		<authors>Daniel Fowler, W.M. Liu, Paul Smith, Angus Dalgleish</authors>
-		<jconf>European Journal of Cancer Supplements</jconf>
-		<id>W2043358149</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>S38. Many reasons for combining immunotherapy with chemotherapy to enhance anti tumour response</title>
-		<year>2014</year>
-		<authors>Angus Dalgleish, Daniel Fowler, Andrew M. Gravett, Rachel Allen, Wai M. Liu</authors>
-		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
-		<id>W2170076778</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Multi-Center Phase I Study of Th1/Tc1 Immunotherapy Following Autologous Hematopoietic Progenitor Cell Transplantation in Reccurrent or High Risk Plasma Cell Myeloma</title>
-		<year>2013</year>
-		<authors>Claude Sportès, Kristen Cole, David S. Siegel, Scott D. Rowley, David Halverson, Nancy M. Hardy, Steven Z. Pavletic, Juan Gea‐Banacloche, Jennifer Mann, Amanda Urban, Vicki Fellowes, Marianna Sabatino, David F. Stroncek, Bruce L. Levine, Miriam E. Mossoba, Shoba Amarnath, Carl H. June, Ronald E. Gress, Daniel Fowler</authors>
-		<jconf>Biology of Blood and Marrow Transplantation</jconf>
-		<id>W2053673272</id>
-		<label>1</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Factors Affecting Allogeneic Peripheral Blood Stem Cell Mobilization in a Large, Ethnically, Diverse Population.</title>
-		<year>2007</year>
-		<authors>Sumithira Vasu, Yu Ying Yau, John F. Tisdale, Matthew M. Hsieh, Richard W. Childs, A. John Barrett, Daniel Fowler, Michael R. Bishop, Elizabeth M. Kang, Harry L. Malech, Cynthia E. Dunbar, Susan F. Leitman, Charles D. Bolan</authors>
-		<jconf>Blood</jconf>
-		<id>W2573193568</id>
 		<label>1</label>
 		<organization>null</organization>
 	</publication>
@@ -1256,6 +1067,15 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
+		<title>Synthesis of New Biosynthetically Important Diarylheptanoids and Their Oxa- and Fluoro- Analogues by Three Different Strategies</title>
+		<year>2003</year>
+		<authors>Alexander V. Baranovsky, Bettina Schmitt, Daniel J. Fowler, Bernd Schneider</authors>
+		<jconf>Synthetic Communications</jconf>
+		<id>W2001070817</id>
+		<label>4</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
 		<title>A practical guide for solid‐state NMR distance measurements in proteins</title>
 		<year>2007</year>
 		<authors>Frank Kovacs, Daniel J. Fowler, Gregory Gallagher, Lynmarie K. Thompson</authors>
@@ -1270,15 +1090,6 @@
 		<authors>Daniel J. Fowler, Michael J. Harris, Lynmarie K. Thompson</authors>
 		<jconf>Journal of Magnetic Resonance</jconf>
 		<id>W2073759172</id>
-		<label>4</label>
-		<organization>null</organization>
-	</publication>
-	<publication>
-		<title>Synthesis of New Biosynthetically Important Diarylheptanoids and Their Oxa- and Fluoro- Analogues by Three Different Strategies</title>
-		<year>2003</year>
-		<authors>Alexander V. Baranovsky, Bettina Schmitt, Daniel J. Fowler, Bernd Schneider</authors>
-		<jconf>Synthetic Communications</jconf>
-		<id>W2001070817</id>
 		<label>4</label>
 		<organization>null</organization>
 	</publication>
@@ -1751,11 +1562,20 @@
 		<organization>null</organization>
 	</publication>
 	<publication>
-		<title>Moving toward a conceptualization of measurable residual disease in myelodysplastic syndromes</title>
-		<year>2023</year>
-		<authors>Eduard Schulz, Peter D. Aplan, Sylvie D. Freeman, Steven Z. Pavletic</authors>
-		<jconf>Blood Advances</jconf>
-		<id>W4379184768</id>
+		<title>Development and psychometric testing of a pediatric chronic graft-versus-host disease symptom scale: protocol for a two-phase, mixed methods study</title>
+		<year>2024</year>
+		<authors>Sandra A. Mitchell, Rachael Hunter, Abigail Fry, Steven Z. Pavletic, Brigitte C. Widemann, Lori Wiener</authors>
+		<jconf>Frontiers in Psychology</jconf>
+		<id>W4390666808</id>
+		<label>10</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The evolution of preclinical models for myelodysplastic neoplasms</title>
+		<year>2024</year>
+		<authors>Alain Mina, Steven Z. Pavletic, Peter D. Aplan</authors>
+		<jconf>Leukemia</jconf>
+		<id>W4392099391</id>
 		<label>10</label>
 		<organization>null</organization>
 	</publication>

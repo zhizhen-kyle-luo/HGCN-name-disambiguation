@@ -53,6 +53,7 @@
         "W4406982318",
         "W4407339434",
         "W4408531538",
+        "W4409897296",
         "W1572508860",
         "W2080109248",
         "W2158059172",
@@ -63,8 +64,8 @@
         "W2267908114",
         "W2035169670",
         "W2128736718",
-        "W2122514970",
         "W2025617070",
+        "W2122514970",
         "W2028023962",
         "W3006775859",
         "W2039819286",
@@ -78,13 +79,13 @@
         "W1892597247",
         "W2079809618",
         "W2283765088",
+        "W4220860149",
         "W2058090754",
         "W1989805949",
         "W2024795558",
         "W1983613171",
         "W2171910609",
         "W2148595345",
-        "W4220860149",
         "W1966136277",
         "W2004459595",
         "W2073097835",
@@ -101,14 +102,13 @@
         "W2898289305",
         "W1964271180",
         "W2156854090",
-        "W2004354247",
         "W2914085875",
         "W1998094697",
         "W2019771185",
+        "W2004354247",
         "W2164697477",
         "W2886680215",
-        "W2078395782",
-        "W2078164029"
+        "W2078395782"
       ]
     },
     "A5025677254": {
@@ -121,28 +121,7 @@
       "works": [
         "W1980980429",
         "W4399118678",
-        "W2018180954",
-        "W2002712579",
-        "W2162754652",
-        "W2612720347",
-        "W1558896921",
-        "W1968609677",
-        "W2071822191",
-        "W3049251972",
-        "W3215172272",
-        "W2500312008",
-        "W2100393171",
-        "W1482602608",
-        "W1985856002",
-        "W1976904717",
-        "W4393071624",
-        "W4403773552",
-        "W4403773767",
-        "W3187855594",
-        "W2043358149",
-        "W2170076778",
-        "W2053673272",
-        "W2573193568"
+        "W2018180954"
       ]
     },
     "A5053363121": {
@@ -187,9 +166,9 @@
         "W2021933010",
         "W2025743492",
         "W2014270267",
+        "W2001070817",
         "W2076782328",
         "W2073759172",
-        "W2001070817",
         "W1967245377",
         "W2064921524"
       ]
@@ -302,7 +281,8 @@
       "works": [
         "W4200355721",
         "W4229014699",
-        "W4379184768",
+        "W4390666808",
+        "W4392099391",
         "W4238202690",
         "W1706154169",
         "W2100063390",
@@ -419,7 +399,7 @@
           "id": "A5052927157"
         },
         {
-          "name": "Miguel-\u00c1ngel Perales",
+          "name": "Miguel\u2010Angel Perales",
           "id": "A5082333371"
         },
         {
@@ -1391,7 +1371,7 @@
           "id": "A5014572331"
         },
         {
-          "name": "Laura E. Edgington-Mitchell",
+          "name": "Laura E. Edgington\u2010Mitchell",
           "id": "A5082201331"
         },
         {
@@ -3051,7 +3031,7 @@
           "id": "A5109229825"
         },
         {
-          "name": "Courtney N Ahorrio",
+          "name": "Courtney Ahorrio",
           "id": "A5106878516"
         },
         {
@@ -3220,6 +3200,18 @@
         }
       ],
       "venue": "Genetics in Medicine Open"
+    },
+    "W4409897296": {
+      "id": "W4409897296",
+      "title": "Protestantism, revolution and Scottish political thought: the European context, 1637\u20131651",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Daniel H. Fowler",
+          "id": "A5074220802"
+        }
+      ],
+      "venue": "Intellectual History Review"
     },
     "W1572508860": {
       "id": "W1572508860",
@@ -3797,38 +3789,6 @@
       ],
       "venue": "Biology of Blood and Marrow Transplantation"
     },
-    "W2122514970": {
-      "id": "W2122514970",
-      "title": "Assessment of the Hematopoietic Cell Transplantation Comorbidity Index in Non-Hodgkin Lymphoma Patients Receiving Reduced-Intensity Allogeneic Hematopoietic Stem Cell Transplantation",
-      "year": 2009,
-      "authors": [
-        {
-          "name": "Seth M. Pollack",
-          "id": "A5026451121"
-        },
-        {
-          "name": "Seth M. Steinberg",
-          "id": "A5044239219"
-        },
-        {
-          "name": "Jeanne Odom",
-          "id": "A5112230400"
-        },
-        {
-          "name": "Robert M. Dean",
-          "id": "A5011431831"
-        },
-        {
-          "name": "Daniel H. Fowler",
-          "id": "A5074220802"
-        },
-        {
-          "name": "Michael Bishop",
-          "id": "A5108355038"
-        }
-      ],
-      "venue": "Biology of Blood and Marrow Transplantation"
-    },
     "W2025617070": {
       "id": "W2025617070",
       "title": "Rapamycin generates anti-apoptotic human Th1/Tc1 cells via autophagy for induction of xenogeneic GVHD",
@@ -3884,6 +3844,38 @@
         }
       ],
       "venue": "Autophagy"
+    },
+    "W2122514970": {
+      "id": "W2122514970",
+      "title": "Assessment of the Hematopoietic Cell Transplantation Comorbidity Index in Non-Hodgkin Lymphoma Patients Receiving Reduced-Intensity Allogeneic Hematopoietic Stem Cell Transplantation",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Seth M. Pollack",
+          "id": "A5026451121"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "Jeanne Odom",
+          "id": "A5112230400"
+        },
+        {
+          "name": "Robert M. Dean",
+          "id": "A5011431831"
+        },
+        {
+          "name": "Daniel H. Fowler",
+          "id": "A5074220802"
+        },
+        {
+          "name": "Michael Bishop",
+          "id": "A5108355038"
+        }
+      ],
+      "venue": "Biology of Blood and Marrow Transplantation"
     },
     "W2028023962": {
       "id": "W2028023962",
@@ -4669,6 +4661,50 @@
       ],
       "venue": "Haematologica"
     },
+    "W4220860149": {
+      "id": "W4220860149",
+      "title": "Autologous, lentivirus\u2010modified, T\u2010rapa cell \u201cmicropharmacies\u201d for lysosomal storage disorders",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Murtaza S. Nagree",
+          "id": "A5089826235"
+        },
+        {
+          "name": "Tania C. Felizardo",
+          "id": "A5072719085"
+        },
+        {
+          "name": "Mary L. Faber",
+          "id": "A5026423475"
+        },
+        {
+          "name": "Jitka Rybov\u00e1",
+          "id": "A5014124659"
+        },
+        {
+          "name": "C. Anthony Rupar",
+          "id": "A5061367519"
+        },
+        {
+          "name": "S.R. Foley",
+          "id": "A5073146208"
+        },
+        {
+          "name": "Maria Fuller",
+          "id": "A5029718313"
+        },
+        {
+          "name": "Daniel H. Fowler",
+          "id": "A5074220802"
+        },
+        {
+          "name": "Jeffrey A. Medin",
+          "id": "A5033158463"
+        }
+      ],
+      "venue": "EMBO Molecular Medicine"
+    },
     "W2058090754": {
       "id": "W2058090754",
       "title": "An immunoablative regimen of fludarabine and cyclophosphamide prevents fully MHC-mismatched murine marrow graft rejection independent of GVHD",
@@ -4924,50 +4960,6 @@
         }
       ],
       "venue": "Biology of Blood and Marrow Transplantation"
-    },
-    "W4220860149": {
-      "id": "W4220860149",
-      "title": "Autologous, lentivirus\u2010modified, T\u2010rapa cell \u201cmicropharmacies\u201d for lysosomal storage disorders",
-      "year": 2022,
-      "authors": [
-        {
-          "name": "Murtaza S. Nagree",
-          "id": "A5089826235"
-        },
-        {
-          "name": "Tania C. Felizardo",
-          "id": "A5072719085"
-        },
-        {
-          "name": "Mary L. Faber",
-          "id": "A5026423475"
-        },
-        {
-          "name": "Jitka Rybov\u00e1",
-          "id": "A5014124659"
-        },
-        {
-          "name": "C. Anthony Rupar",
-          "id": "A5061367519"
-        },
-        {
-          "name": "S.R. Foley",
-          "id": "A5073146208"
-        },
-        {
-          "name": "Maria Fuller",
-          "id": "A5029718313"
-        },
-        {
-          "name": "Daniel H. Fowler",
-          "id": "A5074220802"
-        },
-        {
-          "name": "Jeffrey A. Medin",
-          "id": "A5033158463"
-        }
-      ],
-      "venue": "EMBO Molecular Medicine"
     },
     "W1966136277": {
       "id": "W1966136277",
@@ -5705,78 +5697,6 @@
       ],
       "venue": "PLoS ONE"
     },
-    "W2004354247": {
-      "id": "W2004354247",
-      "title": "Neoantigen and tumor antigen-specific immunity transferred from immunized donors is detectable early after allogeneic transplantation in myeloma patients",
-      "year": 2012,
-      "authors": [
-        {
-          "name": "Myriam Foglietta",
-          "id": "A5000742424"
-        },
-        {
-          "name": "Sattva S. Neelapu",
-          "id": "A5064752432"
-        },
-        {
-          "name": "Larry W. Kwak",
-          "id": "A5074743570"
-        },
-        {
-          "name": "Ying Jiang",
-          "id": "A5007730121"
-        },
-        {
-          "name": "Durga Nattamai",
-          "id": "A5045101477"
-        },
-        {
-          "name": "S-T Lee",
-          "id": "A5082580969"
-        },
-        {
-          "name": "Daniel H. Fowler",
-          "id": "A5074220802"
-        },
-        {
-          "name": "Claude Sport\u00e8s",
-          "id": "A5083522277"
-        },
-        {
-          "name": "R E Gress",
-          "id": "A5111867015"
-        },
-        {
-          "name": "S. M. Steinberg",
-          "id": "A5034661031"
-        },
-        {
-          "name": "Luis M. Vence",
-          "id": "A5034269049"
-        },
-        {
-          "name": "Laszlo Radvanyi",
-          "id": "A5060265796"
-        },
-        {
-          "name": "Karen C. Dwyer",
-          "id": "A5043874498"
-        },
-        {
-          "name": "M. Qazilbash",
-          "id": "A5109128916"
-        },
-        {
-          "name": "R N K Bryant",
-          "id": "A5040848228"
-        },
-        {
-          "name": "Michael R. Bishop",
-          "id": "A5089893290"
-        }
-      ],
-      "venue": "Bone Marrow Transplantation"
-    },
     "W2914085875": {
       "id": "W2914085875",
       "title": "FACTs Fabry gene therapy clinical trial: Two-year data",
@@ -5985,6 +5905,78 @@
       ],
       "venue": "Biology of Blood and Marrow Transplantation"
     },
+    "W2004354247": {
+      "id": "W2004354247",
+      "title": "Neoantigen and tumor antigen-specific immunity transferred from immunized donors is detectable early after allogeneic transplantation in myeloma patients",
+      "year": 2012,
+      "authors": [
+        {
+          "name": "Myriam Foglietta",
+          "id": "A5000742424"
+        },
+        {
+          "name": "Sattva S. Neelapu",
+          "id": "A5064752432"
+        },
+        {
+          "name": "Larry W. Kwak",
+          "id": "A5074743570"
+        },
+        {
+          "name": "Ying Jiang",
+          "id": "A5007730121"
+        },
+        {
+          "name": "Durga Nattamai",
+          "id": "A5045101477"
+        },
+        {
+          "name": "S-T Lee",
+          "id": "A5082580969"
+        },
+        {
+          "name": "Daniel H. Fowler",
+          "id": "A5074220802"
+        },
+        {
+          "name": "Claude Sport\u00e8s",
+          "id": "A5083522277"
+        },
+        {
+          "name": "R E Gress",
+          "id": "A5111867015"
+        },
+        {
+          "name": "S. M. Steinberg",
+          "id": "A5034661031"
+        },
+        {
+          "name": "Luis M. Vence",
+          "id": "A5034269049"
+        },
+        {
+          "name": "Laszlo Radvanyi",
+          "id": "A5060265796"
+        },
+        {
+          "name": "Karen C. Dwyer",
+          "id": "A5043874498"
+        },
+        {
+          "name": "M. Qazilbash",
+          "id": "A5109128916"
+        },
+        {
+          "name": "R N K Bryant",
+          "id": "A5040848228"
+        },
+        {
+          "name": "Michael R. Bishop",
+          "id": "A5089893290"
+        }
+      ],
+      "venue": "Bone Marrow Transplantation"
+    },
     "W2164697477": {
       "id": "W2164697477",
       "title": "Engineering lentiviral vectors for modulation of dendritic cell apoptotic pathways",
@@ -6165,74 +6157,6 @@
       ],
       "venue": "Journal of Immunotherapy"
     },
-    "W2078164029": {
-      "id": "W2078164029",
-      "title": "Establishing a Platform for Immunotherapy: Clinical Outcome and Study of Immune Reconstitution after High-Dose Chemotherapy with Progenitor Cell Support in Breast Cancer Patients",
-      "year": 2005,
-      "authors": [
-        {
-          "name": "Claude Sport\u00e8s",
-          "id": "A5083522277"
-        },
-        {
-          "name": "Nicole McCarthy",
-          "id": "A5007978312"
-        },
-        {
-          "name": "Frances T. Hakim",
-          "id": "A5062706815"
-        },
-        {
-          "name": "Seth M. Steinberg",
-          "id": "A5044239219"
-        },
-        {
-          "name": "David J. Liewehr",
-          "id": "A5063126623"
-        },
-        {
-          "name": "David Weng",
-          "id": "A5110133665"
-        },
-        {
-          "name": "Shivaani Kummar",
-          "id": "A5003847273"
-        },
-        {
-          "name": "Juan Gea\u2010Banacloche",
-          "id": "A5023659191"
-        },
-        {
-          "name": "Catherine K. Chow",
-          "id": "A5113535085"
-        },
-        {
-          "name": "Robert M. Dean",
-          "id": "A5011431831"
-        },
-        {
-          "name": "Kathleen M. Castro",
-          "id": "A5042150016"
-        },
-        {
-          "name": "Donna Marchigiani",
-          "id": "A5074691355"
-        },
-        {
-          "name": "Michael R. Bishop",
-          "id": "A5089893290"
-        },
-        {
-          "name": "Daniel H. Fowler",
-          "id": "A5074220802"
-        },
-        {
-          "name": "Ronald E. Gress",
-          "id": "A5066218992"
-        }
-      ],
-      "venue": "Biology of Blood and Marrow Transplantation"
-    },
     "W1980980429": {
       "id": "W1980980429",
       "title": "Pre-treatment with chemotherapy can enhance the antigenicity and immunogenicity of tumours by promoting adaptive immune responses",
@@ -6376,694 +6300,6 @@
         }
       ],
       "venue": "Cancer Immunology Immunotherapy"
-    },
-    "W2002712579": {
-      "id": "W2002712579",
-      "title": "Cannabis-Derived Substances in Cancer Therapy \u2013 An Emerging Anti-Inflammatory Role for the Cannabinoids",
-      "year": 2010,
-      "authors": [
-        {
-          "name": "Wai M. Liu",
-          "id": "A5024360706"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        }
-      ],
-      "venue": "Current Clinical Pharmacology"
-    },
-    "W2162754652": {
-      "id": "W2162754652",
-      "title": "Zoledronic acid causes <i>\u03b3\u03b4 </i><scp>T</scp> cells to target monocytes and down\u2010modulate inflammatory homing",
-      "year": 2014,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "John Copier",
-          "id": "A5017140885"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        },
-        {
-          "name": "Mark Bodman\u2010Smith",
-          "id": "A5034270145"
-        }
-      ],
-      "venue": "Immunology"
-    },
-    "W2612720347": {
-      "id": "W2612720347",
-      "title": "Zoledronic acid renders human M1 and M2 macrophages susceptible to V\u03b42+ \u03b3\u03b4 T cell cytotoxicity in a perforin-dependent manner",
-      "year": 2017,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "John Copier",
-          "id": "A5017140885"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        },
-        {
-          "name": "Mark Bodman\u2010Smith",
-          "id": "A5034270145"
-        }
-      ],
-      "venue": "Cancer Immunology Immunotherapy"
-    },
-    "W1558896921": {
-      "id": "W1558896921",
-      "title": "Harnessing the power of V\u03b42 cells in cancer immunotherapy",
-      "year": 2014,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Mark Bodman\u2010Smith",
-          "id": "A5034270145"
-        }
-      ],
-      "venue": "Clinical & Experimental Immunology"
-    },
-    "W1968609677": {
-      "id": "W1968609677",
-      "title": "The gene expression profile of unstimulated dendritic cells can be used as a predictor of function",
-      "year": 2011,
-      "authors": [
-        {
-          "name": "Wai M. Liu",
-          "id": "A5024360706"
-        },
-        {
-          "name": "Jayne L. Dennis",
-          "id": "A5067539653"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        }
-      ],
-      "venue": "International Journal of Cancer"
-    },
-    "W2071822191": {
-      "id": "W2071822191",
-      "title": "Supernatants derived from chemotherapy-treated cancer cell lines can modify angiogenesis",
-      "year": 2012,
-      "authors": [
-        {
-          "name": "Wai M. Liu",
-          "id": "A5024360706"
-        },
-        {
-          "name": "Jayne L. Dennis",
-          "id": "A5067539653"
-        },
-        {
-          "name": "Andrew M. Gravett",
-          "id": "A5084704915"
-        },
-        {
-          "name": "C Chanthirakumar",
-          "id": "A5055519348"
-        },
-        {
-          "name": "Elwira Kaminska",
-          "id": "A5009397805"
-        },
-        {
-          "name": "Gary R. Coulton",
-          "id": "A5030230800"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Mark Bodman\u2010Smith",
-          "id": "A5034270145"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        }
-      ],
-      "venue": "British Journal of Cancer"
-    },
-    "W3049251972": {
-      "id": "W3049251972",
-      "title": "The cytotoxic molecule granulysin is capable of inducing either chemotaxis or fugetaxis in dendritic cells depending on maturation: a role for V<i>\u03b4</i>2<sup>+</sup><i>\u03b3\u03b4</i> T cells in the modulation of immune response to tumour?",
-      "year": 2020,
-      "authors": [
-        {
-          "name": "Emma L. Sparrow",
-          "id": "A5024618143"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Joe Fenn",
-          "id": "A5102995571"
-        },
-        {
-          "name": "Jonathan Caron",
-          "id": "A5054133396"
-        },
-        {
-          "name": "John Copier",
-          "id": "A5017140885"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        },
-        {
-          "name": "Mark Bodman\u2010Smith",
-          "id": "A5034270145"
-        }
-      ],
-      "venue": "Immunology"
-    },
-    "W3215172272": {
-      "id": "W3215172272",
-      "title": "Payload Delivery: Engineering Immune Cells to Disrupt the Tumour Microenvironment",
-      "year": 2021,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Callum Nattress",
-          "id": "A5073933967"
-        },
-        {
-          "name": "Alba Southern Navarrete",
-          "id": "A5048675090"
-        },
-        {
-          "name": "Marta Barisa",
-          "id": "A5006273812"
-        },
-        {
-          "name": "Jonathan Fisher",
-          "id": "A5049202839"
-        }
-      ],
-      "venue": "Cancers"
-    },
-    "W2500312008": {
-      "id": "W2500312008",
-      "title": "Experimental and Applied Immunotherapy",
-      "year": 2010,
-      "authors": [
-        {
-          "name": "Jeffrey A. Medin",
-          "id": "A5033158463"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        }
-      ],
-      "venue": "Humana Press eBooks"
-    },
-    "W2100393171": {
-      "id": "W2100393171",
-      "title": "Supernatants from lymphocytes stimulated with Bacillus Calmette-Guerin can modify the antigenicity of tumours and stimulate allogeneic T-cell responses",
-      "year": 2011,
-      "authors": [
-        {
-          "name": "Wai M. Liu",
-          "id": "A5024360706"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Andrew M. Gravett",
-          "id": "A5084704915"
-        },
-        {
-          "name": "Peter L. Smith",
-          "id": "A5059157188"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        }
-      ],
-      "venue": "British Journal of Cancer"
-    },
-    "W1482602608": {
-      "id": "W1482602608",
-      "title": "Tripartite immune cell co\u2010operation in the Bacillus Calmette Gu\u00e9rin\u2010induced activation of \u03b3\u03b4 T cells",
-      "year": 2013,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "John Copier",
-          "id": "A5017140885"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        },
-        {
-          "name": "Mark Bodman\u2010Smith",
-          "id": "A5034270145"
-        }
-      ],
-      "venue": "Immunology and Cell Biology"
-    },
-    "W1985856002": {
-      "id": "W1985856002",
-      "title": "A heat-killed preparation of mycobacterium obuense can reduce metastatic burden in vivo",
-      "year": 2014,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        },
-        {
-          "name": "Wai M. Liu",
-          "id": "A5024360706"
-        }
-      ],
-      "venue": "Journal for ImmunoTherapy of Cancer"
-    },
-    "W1976904717": {
-      "id": "W1976904717",
-      "title": "Abstract 5612: Pretreatment with chemotherapy can enhance the immunogenicity of tumors by promoting adaptive immune responses",
-      "year": 2010,
-      "authors": [
-        {
-          "name": "Wai M. Liu",
-          "id": "A5024360706"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Peter L. Smith",
-          "id": "A5059157188"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        }
-      ],
-      "venue": "Cancer Research"
-    },
-    "W4393071624": {
-      "id": "W4393071624",
-      "title": "Abstract 3597: Multimodal \u03b3\u03b4 T cell cytotoxicity overcomes cellular therapy reprogramming",
-      "year": 2024,
-      "authors": [
-        {
-          "name": "Callum Nattress",
-          "id": "A5073933967"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Petra Vlckova",
-          "id": "A5089732625"
-        },
-        {
-          "name": "Colin Hutton",
-          "id": "A5028570427"
-        },
-        {
-          "name": "Mar\u00eda Ramos Zapatero",
-          "id": "A5077161254"
-        },
-        {
-          "name": "Jahangir Sufi",
-          "id": "A5011633404"
-        },
-        {
-          "name": "Ferran Cardoso Rodriguez",
-          "id": "A5061231093"
-        },
-        {
-          "name": "Ashley Campbell",
-          "id": "A5010471211"
-        },
-        {
-          "name": "Angeliki Kanouta",
-          "id": "A5021873951"
-        },
-        {
-          "name": "Magdalena Buschhaus",
-          "id": "A5017541201"
-        },
-        {
-          "name": "Kerry Chester",
-          "id": "A5067537664"
-        },
-        {
-          "name": "John Anderson",
-          "id": "A5002067954"
-        },
-        {
-          "name": "Vivian Li",
-          "id": "A5101536024"
-        },
-        {
-          "name": "Marta Barisa",
-          "id": "A5006273812"
-        },
-        {
-          "name": "Jonathan Fisher",
-          "id": "A5049202839"
-        },
-        {
-          "name": "Christopher J. Tape",
-          "id": "A5068289205"
-        }
-      ],
-      "venue": "Cancer Research"
-    },
-    "W4403773552": {
-      "id": "W4403773552",
-      "title": "Allograft persistence: The next frontier for allogeneic \u03b3\u03b4 T cell therapy",
-      "year": 2024,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Jonathan Fisher",
-          "id": "A5049202839"
-        }
-      ],
-      "venue": "Elsevier eBooks"
-    },
-    "W4403773767": {
-      "id": "W4403773767",
-      "title": "Contributors",
-      "year": 2024,
-      "authors": [
-        {
-          "name": "John Anderson",
-          "id": "A5002067954"
-        },
-        {
-          "name": "Marta Barisa",
-          "id": "A5006273812"
-        },
-        {
-          "name": "Anna Maria Corsale",
-          "id": "A5038857342"
-        },
-        {
-          "name": "Marta Di Simone",
-          "id": "A5052785938"
-        },
-        {
-          "name": "Francesco Dieli",
-          "id": "A5010991352"
-        },
-        {
-          "name": "Jonathan Fisher",
-          "id": "A5049202839"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Serena Meraviglia",
-          "id": "A5041560313"
-        },
-        {
-          "name": "Gaya Nair",
-          "id": "A5114410262"
-        },
-        {
-          "name": "Callum Nattress",
-          "id": "A5073933967"
-        },
-        {
-          "name": "Benjamin E. Willcox",
-          "id": "A5023002127"
-        },
-        {
-          "name": "Carrie R. Willcox",
-          "id": "A5014525423"
-        }
-      ],
-      "venue": "Elsevier eBooks"
-    },
-    "W3187855594": {
-      "id": "W3187855594",
-      "title": "Interplay between \u03b3\u03b4T-Cell Metabolism and Tumour Microenvironment Offers Opportunities for Therapeutic Intervention",
-      "year": 2021,
-      "authors": [
-        {
-          "name": "Marta Barisa",
-          "id": "A5006273812"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Jonathan Fisher",
-          "id": "A5049202839"
-        }
-      ],
-      "venue": "Immunometabolism"
-    },
-    "W2043358149": {
-      "id": "W2043358149",
-      "title": "1103 Supernatant from tumour cells treated with chemotherapy stimulate professional antigen presenting cells in vitro",
-      "year": 2009,
-      "authors": [
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "W.M. Liu",
-          "id": "A5051297746"
-        },
-        {
-          "name": "Paul Smith",
-          "id": "A5111871638"
-        },
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        }
-      ],
-      "venue": "European Journal of Cancer Supplements"
-    },
-    "W2170076778": {
-      "id": "W2170076778",
-      "title": "S38. Many reasons for combining immunotherapy with chemotherapy to enhance anti tumour response",
-      "year": 2014,
-      "authors": [
-        {
-          "name": "Angus Dalgleish",
-          "id": "A5067606220"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Andrew M. Gravett",
-          "id": "A5084704915"
-        },
-        {
-          "name": "Rachel Allen",
-          "id": "A5048321283"
-        },
-        {
-          "name": "Wai M. Liu",
-          "id": "A5024360706"
-        }
-      ],
-      "venue": "Journal for ImmunoTherapy of Cancer"
-    },
-    "W2053673272": {
-      "id": "W2053673272",
-      "title": "Multi-Center Phase I Study of Th1/Tc1 Immunotherapy Following Autologous Hematopoietic Progenitor Cell Transplantation in Reccurrent or High Risk Plasma Cell Myeloma",
-      "year": 2013,
-      "authors": [
-        {
-          "name": "Claude Sport\u00e8s",
-          "id": "A5083522277"
-        },
-        {
-          "name": "Kristen Cole",
-          "id": "A5102394795"
-        },
-        {
-          "name": "David S. Siegel",
-          "id": "A5023752321"
-        },
-        {
-          "name": "Scott D. Rowley",
-          "id": "A5061423277"
-        },
-        {
-          "name": "David Halverson",
-          "id": "A5112351214"
-        },
-        {
-          "name": "Nancy M. Hardy",
-          "id": "A5071013248"
-        },
-        {
-          "name": "Steven Z. Pavletic",
-          "id": "A5065897197"
-        },
-        {
-          "name": "Juan Gea\u2010Banacloche",
-          "id": "A5023659191"
-        },
-        {
-          "name": "Jennifer Mann",
-          "id": "A5075471785"
-        },
-        {
-          "name": "Amanda Urban",
-          "id": "A5111809110"
-        },
-        {
-          "name": "Vicki Fellowes",
-          "id": "A5088037619"
-        },
-        {
-          "name": "Marianna Sabatino",
-          "id": "A5056190774"
-        },
-        {
-          "name": "David F. Stroncek",
-          "id": "A5072166479"
-        },
-        {
-          "name": "Bruce L. Levine",
-          "id": "A5029979708"
-        },
-        {
-          "name": "Miriam E. Mossoba",
-          "id": "A5017876943"
-        },
-        {
-          "name": "Shoba Amarnath",
-          "id": "A5044954572"
-        },
-        {
-          "name": "Carl H. June",
-          "id": "A5008558372"
-        },
-        {
-          "name": "Ronald E. Gress",
-          "id": "A5066218992"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        }
-      ],
-      "venue": "Biology of Blood and Marrow Transplantation"
-    },
-    "W2573193568": {
-      "id": "W2573193568",
-      "title": "Factors Affecting Allogeneic Peripheral Blood Stem Cell Mobilization in a Large, Ethnically, Diverse Population.",
-      "year": 2007,
-      "authors": [
-        {
-          "name": "Sumithira Vasu",
-          "id": "A5102862783"
-        },
-        {
-          "name": "Yu Ying Yau",
-          "id": "A5112797334"
-        },
-        {
-          "name": "John F. Tisdale",
-          "id": "A5001134935"
-        },
-        {
-          "name": "Matthew M. Hsieh",
-          "id": "A5063279617"
-        },
-        {
-          "name": "Richard W. Childs",
-          "id": "A5112507028"
-        },
-        {
-          "name": "A. John Barrett",
-          "id": "A5112763619"
-        },
-        {
-          "name": "Daniel Fowler",
-          "id": "A5025677254"
-        },
-        {
-          "name": "Michael R. Bishop",
-          "id": "A5089893290"
-        },
-        {
-          "name": "Elizabeth M. Kang",
-          "id": "A5090278937"
-        },
-        {
-          "name": "Harry L. Malech",
-          "id": "A5013149726"
-        },
-        {
-          "name": "Cynthia E. Dunbar",
-          "id": "A5020688388"
-        },
-        {
-          "name": "Susan F. Leitman",
-          "id": "A5069456738"
-        },
-        {
-          "name": "Charles D. Bolan",
-          "id": "A5111678412"
-        }
-      ],
-      "venue": "Blood"
     },
     "W2061310325": {
       "id": "W2061310325",
@@ -7553,6 +6789,30 @@
       ],
       "venue": "Organic Letters"
     },
+    "W2001070817": {
+      "id": "W2001070817",
+      "title": "Synthesis of New Biosynthetically Important Diarylheptanoids and Their Oxa- and Fluoro- Analogues by Three Different Strategies",
+      "year": 2003,
+      "authors": [
+        {
+          "name": "Alexander V. Baranovsky",
+          "id": "A5034878819"
+        },
+        {
+          "name": "Bettina Schmitt",
+          "id": "A5060035833"
+        },
+        {
+          "name": "Daniel J. Fowler",
+          "id": "A5015124845"
+        },
+        {
+          "name": "Bernd Schneider",
+          "id": "A5078146869"
+        }
+      ],
+      "venue": "Synthetic Communications"
+    },
     "W2076782328": {
       "id": "W2076782328",
       "title": "A practical guide for solid\u2010state NMR distance measurements in proteins",
@@ -7596,30 +6856,6 @@
         }
       ],
       "venue": "Journal of Magnetic Resonance"
-    },
-    "W2001070817": {
-      "id": "W2001070817",
-      "title": "Synthesis of New Biosynthetically Important Diarylheptanoids and Their Oxa- and Fluoro- Analogues by Three Different Strategies",
-      "year": 2003,
-      "authors": [
-        {
-          "name": "Alexander V. Baranovsky",
-          "id": "A5034878819"
-        },
-        {
-          "name": "Bettina Schmitt",
-          "id": "A5060035833"
-        },
-        {
-          "name": "Daniel J. Fowler",
-          "id": "A5015124845"
-        },
-        {
-          "name": "Bernd Schneider",
-          "id": "A5078146869"
-        }
-      ],
-      "venue": "Synthetic Communications"
     },
     "W1967245377": {
       "id": "W1967245377",
@@ -9181,29 +8417,57 @@
       ],
       "venue": "Blood Advances"
     },
-    "W4379184768": {
-      "id": "W4379184768",
-      "title": "Moving toward a conceptualization of measurable residual disease in myelodysplastic syndromes",
-      "year": 2023,
+    "W4390666808": {
+      "id": "W4390666808",
+      "title": "Development and psychometric testing of a pediatric chronic graft-versus-host disease symptom scale: protocol for a two-phase, mixed methods study",
+      "year": 2024,
       "authors": [
         {
-          "name": "Eduard Schulz",
-          "id": "A5019910665"
+          "name": "Sandra A. Mitchell",
+          "id": "A5016587367"
         },
         {
-          "name": "Peter D. Aplan",
-          "id": "A5049170518"
+          "name": "Rachael Hunter",
+          "id": "A5059386114"
         },
         {
-          "name": "Sylvie D. Freeman",
-          "id": "A5028452852"
+          "name": "Abigail Fry",
+          "id": "A5051757967"
         },
         {
           "name": "Steven Z. Pavletic",
           "id": "A5065897197"
+        },
+        {
+          "name": "Brigitte C. Widemann",
+          "id": "A5071679104"
+        },
+        {
+          "name": "Lori Wiener",
+          "id": "A5089224710"
         }
       ],
-      "venue": "Blood Advances"
+      "venue": "Frontiers in Psychology"
+    },
+    "W4392099391": {
+      "id": "W4392099391",
+      "title": "The evolution of preclinical models for myelodysplastic neoplasms",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Alain Mina",
+          "id": "A5046337431"
+        },
+        {
+          "name": "Steven Z. Pavletic",
+          "id": "A5065897197"
+        },
+        {
+          "name": "Peter D. Aplan",
+          "id": "A5049170518"
+        }
+      ],
+      "venue": "Leukemia"
     },
     "W4238202690": {
       "id": "W4238202690",

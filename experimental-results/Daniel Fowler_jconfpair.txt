@@ -5,141 +5,125 @@
 0	20	Blood	Blood
 0	25	Blood	Blood
 0	32	Blood	Blood
-0	50	Blood	Blood
 0	51	Blood	Blood
-0	58	Blood	Blood
-0	60	Blood	Blood
+0	52	Blood	Blood
+0	59	Blood	Blood
 0	61	Blood	Blood
-0	64	Blood	Blood
-0	82	Blood	Blood
-0	84	Blood	Blood
-0	123	Blood	Blood
+0	62	Blood	Blood
+0	65	Blood	Blood
+0	83	Blood	Blood
+0	85	Blood	Blood
 1	5	Blood	Blood
 1	16	Blood	Blood
 1	19	Blood	Blood
 1	20	Blood	Blood
 1	25	Blood	Blood
 1	32	Blood	Blood
-1	50	Blood	Blood
 1	51	Blood	Blood
-1	58	Blood	Blood
-1	60	Blood	Blood
+1	52	Blood	Blood
+1	59	Blood	Blood
 1	61	Blood	Blood
-1	64	Blood	Blood
-1	82	Blood	Blood
-1	84	Blood	Blood
-1	123	Blood	Blood
+1	62	Blood	Blood
+1	65	Blood	Blood
+1	83	Blood	Blood
+1	85	Blood	Blood
 5	16	Blood	Blood
 5	19	Blood	Blood
 5	20	Blood	Blood
 5	25	Blood	Blood
 5	32	Blood	Blood
-5	50	Blood	Blood
 5	51	Blood	Blood
-5	58	Blood	Blood
-5	60	Blood	Blood
+5	52	Blood	Blood
+5	59	Blood	Blood
 5	61	Blood	Blood
-5	64	Blood	Blood
-5	82	Blood	Blood
-5	84	Blood	Blood
-5	123	Blood	Blood
+5	62	Blood	Blood
+5	65	Blood	Blood
+5	83	Blood	Blood
+5	85	Blood	Blood
 16	19	Blood	Blood
 16	20	Blood	Blood
 16	25	Blood	Blood
 16	32	Blood	Blood
-16	50	Blood	Blood
 16	51	Blood	Blood
-16	58	Blood	Blood
-16	60	Blood	Blood
+16	52	Blood	Blood
+16	59	Blood	Blood
 16	61	Blood	Blood
-16	64	Blood	Blood
-16	82	Blood	Blood
-16	84	Blood	Blood
-16	123	Blood	Blood
+16	62	Blood	Blood
+16	65	Blood	Blood
+16	83	Blood	Blood
+16	85	Blood	Blood
 19	20	Blood	Blood
 19	25	Blood	Blood
 19	32	Blood	Blood
-19	50	Blood	Blood
 19	51	Blood	Blood
-19	58	Blood	Blood
-19	60	Blood	Blood
+19	52	Blood	Blood
+19	59	Blood	Blood
 19	61	Blood	Blood
-19	64	Blood	Blood
-19	82	Blood	Blood
-19	84	Blood	Blood
-19	123	Blood	Blood
+19	62	Blood	Blood
+19	65	Blood	Blood
+19	83	Blood	Blood
+19	85	Blood	Blood
 20	25	Blood	Blood
 20	32	Blood	Blood
-20	50	Blood	Blood
 20	51	Blood	Blood
-20	58	Blood	Blood
-20	60	Blood	Blood
+20	52	Blood	Blood
+20	59	Blood	Blood
 20	61	Blood	Blood
-20	64	Blood	Blood
-20	82	Blood	Blood
-20	84	Blood	Blood
-20	123	Blood	Blood
+20	62	Blood	Blood
+20	65	Blood	Blood
+20	83	Blood	Blood
+20	85	Blood	Blood
 25	32	Blood	Blood
-25	50	Blood	Blood
 25	51	Blood	Blood
-25	58	Blood	Blood
-25	60	Blood	Blood
+25	52	Blood	Blood
+25	59	Blood	Blood
 25	61	Blood	Blood
-25	64	Blood	Blood
-25	82	Blood	Blood
-25	84	Blood	Blood
-25	123	Blood	Blood
-32	50	Blood	Blood
+25	62	Blood	Blood
+25	65	Blood	Blood
+25	83	Blood	Blood
+25	85	Blood	Blood
 32	51	Blood	Blood
-32	58	Blood	Blood
-32	60	Blood	Blood
+32	52	Blood	Blood
+32	59	Blood	Blood
 32	61	Blood	Blood
-32	64	Blood	Blood
-32	82	Blood	Blood
-32	84	Blood	Blood
-32	123	Blood	Blood
-50	51	Blood	Blood
-50	58	Blood	Blood
-50	60	Blood	Blood
-50	61	Blood	Blood
-50	64	Blood	Blood
-50	82	Blood	Blood
-50	84	Blood	Blood
-50	123	Blood	Blood
-51	58	Blood	Blood
-51	60	Blood	Blood
+32	62	Blood	Blood
+32	65	Blood	Blood
+32	83	Blood	Blood
+32	85	Blood	Blood
+51	52	Blood	Blood
+51	59	Blood	Blood
 51	61	Blood	Blood
-51	64	Blood	Blood
-51	82	Blood	Blood
-51	84	Blood	Blood
-51	123	Blood	Blood
-58	60	Blood	Blood
-58	61	Blood	Blood
-58	64	Blood	Blood
-58	82	Blood	Blood
-58	84	Blood	Blood
-58	123	Blood	Blood
-60	61	Blood	Blood
-60	64	Blood	Blood
-60	82	Blood	Blood
-60	84	Blood	Blood
-60	123	Blood	Blood
-61	64	Blood	Blood
-61	82	Blood	Blood
-61	84	Blood	Blood
-61	123	Blood	Blood
-64	82	Blood	Blood
-64	84	Blood	Blood
-64	123	Blood	Blood
-82	84	Blood	Blood
-82	123	Blood	Blood
-84	123	Blood	Blood
+51	62	Blood	Blood
+51	65	Blood	Blood
+51	83	Blood	Blood
+51	85	Blood	Blood
+52	59	Blood	Blood
+52	61	Blood	Blood
+52	62	Blood	Blood
+52	65	Blood	Blood
+52	83	Blood	Blood
+52	85	Blood	Blood
+59	61	Blood	Blood
+59	62	Blood	Blood
+59	65	Blood	Blood
+59	83	Blood	Blood
+59	85	Blood	Blood
+61	62	Blood	Blood
+61	65	Blood	Blood
+61	83	Blood	Blood
+61	85	Blood	Blood
+62	65	Blood	Blood
+62	83	Blood	Blood
+62	85	Blood	Blood
+65	83	Blood	Blood
+65	85	Blood	Blood
+83	85	Blood	Blood
 2	27	Journal of Clinical Oncology	Journal of Clinical Oncology
 2	28	Journal of Clinical Oncology	Journal of Clinical Oncology
-2	88	Journal of Clinical Oncology	Journal of Clinical Oncology
+2	89	Journal of Clinical Oncology	Journal of Clinical Oncology
 27	28	Journal of Clinical Oncology	Journal of Clinical Oncology
-27	88	Journal of Clinical Oncology	Journal of Clinical Oncology
-28	88	Journal of Clinical Oncology	Journal of Clinical Oncology
+27	89	Journal of Clinical Oncology	Journal of Clinical Oncology
+28	89	Journal of Clinical Oncology	Journal of Clinical Oncology
 3	6	Science Translational Medicine	Science Translational Medicine
 3	101	Science Translational Medicine	Science Translational Medicine
 6	101	Science Translational Medicine	Science Translational Medicine
@@ -147,307 +131,257 @@
 4	24	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 4	37	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 4	38	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	45	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	48	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	52	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	46	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	49	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 4	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 4	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 4	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 4	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 4	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-4	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+4	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	24	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	37	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	38	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	45	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	48	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	52	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	46	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	49	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 17	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-17	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+17	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 24	37	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 24	38	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	45	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	48	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	52	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	46	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	49	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 24	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 24	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 24	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 24	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 24	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-24	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+24	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 37	38	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	45	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	48	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	52	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	46	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	49	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 37	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 37	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 37	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 37	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 37	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-37	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	45	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	48	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	52	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+37	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	46	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	49	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 38	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 38	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 38	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 38	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 38	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-38	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	48	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	52	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-45	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	52	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-48	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-52	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+38	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	49	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+46	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	53	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+49	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 53	54	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+53	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 53	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+53	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+53	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 53	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+53	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+53	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 53	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-53	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	69	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+53	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+53	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+54	56	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 54	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+54	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+54	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 54	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+54	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+54	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 54	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-54	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	70	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-69	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-70	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-71	74	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+54	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+54	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	71	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+56	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+71	72	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+71	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 71	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-71	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+71	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+71	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 71	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-71	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-71	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-71	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-71	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-74	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-74	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-74	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-74	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-74	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-74	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-74	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-76	80	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+71	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+71	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+72	73	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+72	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+72	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+72	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+72	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+72	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+72	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+73	76	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+73	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+73	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+73	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+73	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+73	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+76	77	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+76	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 76	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-76	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-76	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-76	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-76	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-80	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-80	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-80	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-80	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-80	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-95	99	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-95	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-95	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-95	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-99	122	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-99	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-99	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-122	195	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-122	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
-195	199	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+76	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+76	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+77	81	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+77	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+77	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+77	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+81	95	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+81	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+81	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+95	175	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+95	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+175	179	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
 10	11	Immunity	Immunity
 10	13	Immunity	Immunity
 11	13	Immunity	Immunity
 18	31	The Journal of Immunology	The Journal of Immunology
-18	44	The Journal of Immunology	The Journal of Immunology
-18	66	The Journal of Immunology	The Journal of Immunology
-31	44	The Journal of Immunology	The Journal of Immunology
-31	66	The Journal of Immunology	The Journal of Immunology
-44	66	The Journal of Immunology	The Journal of Immunology
-21	67	Molecular Therapy	Molecular Therapy
-21	72	Molecular Therapy	Molecular Therapy
-67	72	Molecular Therapy	Molecular Therapy
-22	56	Bone Marrow Transplantation	Bone Marrow Transplantation
-22	62	Bone Marrow Transplantation	Bone Marrow Transplantation
-22	92	Bone Marrow Transplantation	Bone Marrow Transplantation
-22	97	Bone Marrow Transplantation	Bone Marrow Transplantation
-22	197	Bone Marrow Transplantation	Bone Marrow Transplantation
-56	62	Bone Marrow Transplantation	Bone Marrow Transplantation
-56	92	Bone Marrow Transplantation	Bone Marrow Transplantation
-56	97	Bone Marrow Transplantation	Bone Marrow Transplantation
-56	197	Bone Marrow Transplantation	Bone Marrow Transplantation
-62	92	Bone Marrow Transplantation	Bone Marrow Transplantation
-62	97	Bone Marrow Transplantation	Bone Marrow Transplantation
-62	197	Bone Marrow Transplantation	Bone Marrow Transplantation
-92	97	Bone Marrow Transplantation	Bone Marrow Transplantation
-92	197	Bone Marrow Transplantation	Bone Marrow Transplantation
-97	197	Bone Marrow Transplantation	Bone Marrow Transplantation
-30	91	PLoS ONE	PLoS ONE
-30	146	PLoS ONE	PLoS ONE
-30	151	PLoS ONE	PLoS ONE
-30	152	PLoS ONE	PLoS ONE
-91	146	PLoS ONE	PLoS ONE
-91	151	PLoS ONE	PLoS ONE
-91	152	PLoS ONE	PLoS ONE
-146	151	PLoS ONE	PLoS ONE
-146	152	PLoS ONE	PLoS ONE
-151	152	PLoS ONE	PLoS ONE
-34	86	Experimental Hematology	Experimental Hematology
-40	114	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
-40	121	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
-114	121	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+18	45	The Journal of Immunology	The Journal of Immunology
+18	67	The Journal of Immunology	The Journal of Immunology
+31	45	The Journal of Immunology	The Journal of Immunology
+31	67	The Journal of Immunology	The Journal of Immunology
+45	67	The Journal of Immunology	The Journal of Immunology
+21	68	Molecular Therapy	Molecular Therapy
+21	74	Molecular Therapy	Molecular Therapy
+68	74	Molecular Therapy	Molecular Therapy
+22	57	Bone Marrow Transplantation	Bone Marrow Transplantation
+22	63	Bone Marrow Transplantation	Bone Marrow Transplantation
+22	96	Bone Marrow Transplantation	Bone Marrow Transplantation
+22	98	Bone Marrow Transplantation	Bone Marrow Transplantation
+22	177	Bone Marrow Transplantation	Bone Marrow Transplantation
+57	63	Bone Marrow Transplantation	Bone Marrow Transplantation
+57	96	Bone Marrow Transplantation	Bone Marrow Transplantation
+57	98	Bone Marrow Transplantation	Bone Marrow Transplantation
+57	177	Bone Marrow Transplantation	Bone Marrow Transplantation
+63	96	Bone Marrow Transplantation	Bone Marrow Transplantation
+63	98	Bone Marrow Transplantation	Bone Marrow Transplantation
+63	177	Bone Marrow Transplantation	Bone Marrow Transplantation
+96	98	Bone Marrow Transplantation	Bone Marrow Transplantation
+96	177	Bone Marrow Transplantation	Bone Marrow Transplantation
+98	177	Bone Marrow Transplantation	Bone Marrow Transplantation
+30	92	PLoS ONE	PLoS ONE
+30	125	PLoS ONE	PLoS ONE
+30	130	PLoS ONE	PLoS ONE
+30	131	PLoS ONE	PLoS ONE
+92	125	PLoS ONE	PLoS ONE
+92	130	PLoS ONE	PLoS ONE
+92	131	PLoS ONE	PLoS ONE
+125	130	PLoS ONE	PLoS ONE
+125	131	PLoS ONE	PLoS ONE
+130	131	PLoS ONE	PLoS ONE
+34	87	Experimental Hematology	Experimental Hematology
 41	93	Molecular Genetics and Metabolism	Molecular Genetics and Metabolism
-46	87	Clinical Cancer Research	Clinical Cancer Research
-49	193	Blood Advances	Blood Advances
-49	194	Blood Advances	Blood Advances
-193	194	Blood Advances	Blood Advances
-63	89	Transfusion	Transfusion
-68	198	Haematologica	Haematologica
-90	94	British Journal of Haematology	British Journal of Haematology
-100	108	British Journal of Cancer	British Journal of Cancer
-100	112	British Journal of Cancer	British Journal of Cancer
-108	112	British Journal of Cancer	British Journal of Cancer
-102	105	Cancer Immunology Immunotherapy	Cancer Immunology Immunotherapy
-104	109	Immunology	Immunology
-115	116	Cancer Research	Cancer Research
-117	118	Elsevier eBooks	Elsevier eBooks
-126	127	Chemistry of Materials	Chemistry of Materials
-131	132	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)
-131	133	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)
-132	133	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)
-136	137	Biochemistry	Biochemistry
-140	143	Journal of Magnetic Resonance	Journal of Magnetic Resonance
-144	147	Frontiers in Molecular Neuroscience	Frontiers in Molecular Neuroscience
-148	149	AJP Cell Physiology	AJP Cell Physiology
-157	158	Figshare	Figshare
-157	159	Figshare	Figshare
-158	159	Figshare	Figshare
-162	166	Investigative Radiology	Investigative Radiology
-162	168	Investigative Radiology	Investigative Radiology
-162	170	Investigative Radiology	Investigative Radiology
-162	172	Investigative Radiology	Investigative Radiology
-162	174	Investigative Radiology	Investigative Radiology
-166	168	Investigative Radiology	Investigative Radiology
-166	170	Investigative Radiology	Investigative Radiology
-166	172	Investigative Radiology	Investigative Radiology
-166	174	Investigative Radiology	Investigative Radiology
-168	170	Investigative Radiology	Investigative Radiology
-168	172	Investigative Radiology	Investigative Radiology
-168	174	Investigative Radiology	Investigative Radiology
-170	172	Investigative Radiology	Investigative Radiology
-170	174	Investigative Radiology	Investigative Radiology
-172	174	Investigative Radiology	Investigative Radiology
-167	176	New England Journal of Medicine	New England Journal of Medicine
-167	177	New England Journal of Medicine	New England Journal of Medicine
-176	177	New England Journal of Medicine	New England Journal of Medicine
-173	175	Radiology	Radiology
-178	180	Journal of Insect Science	Journal of Insect Science
-179	182	Veterinary World	Veterinary World
-183	185	bioRxiv (Cold Spring Harbor Laboratory)	bioRxiv (Cold Spring Harbor Laboratory)
-187	189	Zenodo (CERN European Organization for Nuclear Research)	Zenodo (CERN European Organization for Nuclear Research)
-187	190	Zenodo (CERN European Organization for Nuclear Research)	Zenodo (CERN European Organization for Nuclear Research)
-189	190	Zenodo (CERN European Organization for Nuclear Research)	Zenodo (CERN European Organization for Nuclear Research)
-202	203	Plastic Surgical Nursing	Plastic Surgical Nursing
-202	204	Plastic Surgical Nursing	Plastic Surgical Nursing
-202	205	Plastic Surgical Nursing	Plastic Surgical Nursing
-203	204	Plastic Surgical Nursing	Plastic Surgical Nursing
-203	205	Plastic Surgical Nursing	Plastic Surgical Nursing
-204	205	Plastic Surgical Nursing	Plastic Surgical Nursing
+47	88	Clinical Cancer Research	Clinical Cancer Research
+50	172	Blood Advances	Blood Advances
+64	90	Transfusion	Transfusion
+69	178	Haematologica	Haematologica
+78	174	Leukemia	Leukemia
+91	94	British Journal of Haematology	British Journal of Haematology
+105	106	Chemistry of Materials	Chemistry of Materials
+110	111	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)
+110	112	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)
+111	112	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)	Meeting abstracts/Meeting abstracts (Electrochemical Society. CD-ROM)
+115	116	Biochemistry	Biochemistry
+120	122	Journal of Magnetic Resonance	Journal of Magnetic Resonance
+123	126	Frontiers in Molecular Neuroscience	Frontiers in Molecular Neuroscience
+127	128	AJP Cell Physiology	AJP Cell Physiology
+136	137	Figshare	Figshare
+136	138	Figshare	Figshare
+137	138	Figshare	Figshare
+141	145	Investigative Radiology	Investigative Radiology
+141	147	Investigative Radiology	Investigative Radiology
+141	149	Investigative Radiology	Investigative Radiology
+141	151	Investigative Radiology	Investigative Radiology
+141	153	Investigative Radiology	Investigative Radiology
+145	147	Investigative Radiology	Investigative Radiology
+145	149	Investigative Radiology	Investigative Radiology
+145	151	Investigative Radiology	Investigative Radiology
+145	153	Investigative Radiology	Investigative Radiology
+147	149	Investigative Radiology	Investigative Radiology
+147	151	Investigative Radiology	Investigative Radiology
+147	153	Investigative Radiology	Investigative Radiology
+149	151	Investigative Radiology	Investigative Radiology
+149	153	Investigative Radiology	Investigative Radiology
+151	153	Investigative Radiology	Investigative Radiology
+146	155	New England Journal of Medicine	New England Journal of Medicine
+146	156	New England Journal of Medicine	New England Journal of Medicine
+155	156	New England Journal of Medicine	New England Journal of Medicine
+152	154	Radiology	Radiology
+157	159	Journal of Insect Science	Journal of Insect Science
+158	161	Veterinary World	Veterinary World
+162	164	bioRxiv (Cold Spring Harbor Laboratory)	bioRxiv (Cold Spring Harbor Laboratory)
+166	168	Zenodo (CERN European Organization for Nuclear Research)	Zenodo (CERN European Organization for Nuclear Research)
+166	169	Zenodo (CERN European Organization for Nuclear Research)	Zenodo (CERN European Organization for Nuclear Research)
+168	169	Zenodo (CERN European Organization for Nuclear Research)	Zenodo (CERN European Organization for Nuclear Research)
+182	183	Plastic Surgical Nursing	Plastic Surgical Nursing
+182	184	Plastic Surgical Nursing	Plastic Surgical Nursing
+182	185	Plastic Surgical Nursing	Plastic Surgical Nursing
+183	184	Plastic Surgical Nursing	Plastic Surgical Nursing
+183	185	Plastic Surgical Nursing	Plastic Surgical Nursing
+184	185	Plastic Surgical Nursing	Plastic Surgical Nursing

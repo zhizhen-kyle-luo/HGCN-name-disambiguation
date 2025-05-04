@@ -1,0 +1,3334 @@
+0	0	Naomi K. Fukagawa	Leslie Wolfson
+0	0	Naomi K. Fukagawa	J. Judge
+0	0	Naomi K. Fukagawa	Robert Whipple
+0	0	Naomi K. Fukagawa	Laurie A. King
+0	0	Leslie Wolfson	J. Judge
+0	0	Leslie Wolfson	Robert Whipple
+0	0	Leslie Wolfson	Laurie A. King
+0	0	J. Judge	Robert Whipple
+0	0	J. Judge	Laurie A. King
+0	0	Robert Whipple	Laurie A. King
+1	1	Naomi K. Fukagawa	Lewis H. Ziska
+2	2	Naomi K. Fukagawa	K. L. Minaker
+2	2	Naomi K. Fukagawa	John W. Rowe
+2	2	Naomi K. Fukagawa	M. N. Goodman
+2	2	Naomi K. Fukagawa	Dwight E. Matthews
+2	2	Naomi K. Fukagawa	Dennis M. Bier
+2	2	Naomi K. Fukagawa	V. R. Young
+2	2	K. L. Minaker	John W. Rowe
+2	2	K. L. Minaker	M. N. Goodman
+2	2	K. L. Minaker	Dwight E. Matthews
+2	2	K. L. Minaker	Dennis M. Bier
+2	2	K. L. Minaker	V. R. Young
+2	2	John W. Rowe	M. N. Goodman
+2	2	John W. Rowe	Dwight E. Matthews
+2	2	John W. Rowe	Dennis M. Bier
+2	2	John W. Rowe	V. R. Young
+2	2	M. N. Goodman	Dwight E. Matthews
+2	2	M. N. Goodman	Dennis M. Bier
+2	2	M. N. Goodman	V. R. Young
+2	2	Dwight E. Matthews	Dennis M. Bier
+2	2	Dwight E. Matthews	V. R. Young
+2	2	Dennis M. Bier	V. R. Young
+3	3	Chunwu Zhu	Kazuhiko Kobayashi
+3	3	Chunwu Zhu	Irakli Loladze
+3	3	Chunwu Zhu	Jianguo Zhu
+3	3	Chunwu Zhu	Qian Jiang
+3	3	Chunwu Zhu	Xi Xu
+3	3	Chunwu Zhu	Gang Liu
+3	3	Chunwu Zhu	Saman Seneweera
+3	3	Chunwu Zhu	Kristie L. Ebi
+3	3	Chunwu Zhu	Adam Drewnowski
+3	3	Chunwu Zhu	Naomi K. Fukagawa
+3	3	Chunwu Zhu	Lewis H. Ziska
+3	3	Kazuhiko Kobayashi	Irakli Loladze
+3	3	Kazuhiko Kobayashi	Jianguo Zhu
+3	3	Kazuhiko Kobayashi	Qian Jiang
+3	3	Kazuhiko Kobayashi	Xi Xu
+3	3	Kazuhiko Kobayashi	Gang Liu
+3	3	Kazuhiko Kobayashi	Saman Seneweera
+3	3	Kazuhiko Kobayashi	Kristie L. Ebi
+3	3	Kazuhiko Kobayashi	Adam Drewnowski
+3	3	Kazuhiko Kobayashi	Naomi K. Fukagawa
+3	3	Kazuhiko Kobayashi	Lewis H. Ziska
+3	3	Irakli Loladze	Jianguo Zhu
+3	3	Irakli Loladze	Qian Jiang
+3	3	Irakli Loladze	Xi Xu
+3	3	Irakli Loladze	Gang Liu
+3	3	Irakli Loladze	Saman Seneweera
+3	3	Irakli Loladze	Kristie L. Ebi
+3	3	Irakli Loladze	Adam Drewnowski
+3	3	Irakli Loladze	Naomi K. Fukagawa
+3	3	Irakli Loladze	Lewis H. Ziska
+3	3	Jianguo Zhu	Qian Jiang
+3	3	Jianguo Zhu	Xi Xu
+3	3	Jianguo Zhu	Gang Liu
+3	3	Jianguo Zhu	Saman Seneweera
+3	3	Jianguo Zhu	Kristie L. Ebi
+3	3	Jianguo Zhu	Adam Drewnowski
+3	3	Jianguo Zhu	Naomi K. Fukagawa
+3	3	Jianguo Zhu	Lewis H. Ziska
+3	3	Qian Jiang	Xi Xu
+3	3	Qian Jiang	Gang Liu
+3	3	Qian Jiang	Saman Seneweera
+3	3	Qian Jiang	Kristie L. Ebi
+3	3	Qian Jiang	Adam Drewnowski
+3	3	Qian Jiang	Naomi K. Fukagawa
+3	3	Qian Jiang	Lewis H. Ziska
+3	3	Xi Xu	Gang Liu
+3	3	Xi Xu	Saman Seneweera
+3	3	Xi Xu	Kristie L. Ebi
+3	3	Xi Xu	Adam Drewnowski
+3	3	Xi Xu	Naomi K. Fukagawa
+3	3	Xi Xu	Lewis H. Ziska
+3	3	Gang Liu	Saman Seneweera
+3	3	Gang Liu	Kristie L. Ebi
+3	3	Gang Liu	Adam Drewnowski
+3	3	Gang Liu	Naomi K. Fukagawa
+3	3	Gang Liu	Lewis H. Ziska
+3	3	Saman Seneweera	Kristie L. Ebi
+3	3	Saman Seneweera	Adam Drewnowski
+3	3	Saman Seneweera	Naomi K. Fukagawa
+3	3	Saman Seneweera	Lewis H. Ziska
+3	3	Kristie L. Ebi	Adam Drewnowski
+3	3	Kristie L. Ebi	Naomi K. Fukagawa
+3	3	Kristie L. Ebi	Lewis H. Ziska
+3	3	Adam Drewnowski	Naomi K. Fukagawa
+3	3	Adam Drewnowski	Lewis H. Ziska
+3	3	Naomi K. Fukagawa	Lewis H. Ziska
+4	4	Naomi K. Fukagawa	JW Anderson
+4	4	Naomi K. Fukagawa	Gilbert R. Hageman
+4	4	Naomi K. Fukagawa	VR Young
+4	4	Naomi K. Fukagawa	K. L. Minaker
+4	4	JW Anderson	Gilbert R. Hageman
+4	4	JW Anderson	VR Young
+4	4	JW Anderson	K. L. Minaker
+4	4	Gilbert R. Hageman	VR Young
+4	4	Gilbert R. Hageman	K. L. Minaker
+4	4	VR Young	K. L. Minaker
+5	5	Robert Beach	Timothy B. Sulser
+5	5	Robert Beach	Allison Crimmins
+5	5	Robert Beach	Nicola Cenacchi
+5	5	Robert Beach	Jefferson Cole
+5	5	Robert Beach	Naomi K. Fukagawa
+5	5	Robert Beach	Daniel Mason-D’Croz
+5	5	Robert Beach	Samuel S. Myers
+5	5	Robert Beach	Marcus C. Sarofim
+5	5	Robert Beach	Matthew R. Smith
+5	5	Robert Beach	Lewis H. Ziska
+5	5	Timothy B. Sulser	Allison Crimmins
+5	5	Timothy B. Sulser	Nicola Cenacchi
+5	5	Timothy B. Sulser	Jefferson Cole
+5	5	Timothy B. Sulser	Naomi K. Fukagawa
+5	5	Timothy B. Sulser	Daniel Mason-D’Croz
+5	5	Timothy B. Sulser	Samuel S. Myers
+5	5	Timothy B. Sulser	Marcus C. Sarofim
+5	5	Timothy B. Sulser	Matthew R. Smith
+5	5	Timothy B. Sulser	Lewis H. Ziska
+5	5	Allison Crimmins	Nicola Cenacchi
+5	5	Allison Crimmins	Jefferson Cole
+5	5	Allison Crimmins	Naomi K. Fukagawa
+5	5	Allison Crimmins	Daniel Mason-D’Croz
+5	5	Allison Crimmins	Samuel S. Myers
+5	5	Allison Crimmins	Marcus C. Sarofim
+5	5	Allison Crimmins	Matthew R. Smith
+5	5	Allison Crimmins	Lewis H. Ziska
+5	5	Nicola Cenacchi	Jefferson Cole
+5	5	Nicola Cenacchi	Naomi K. Fukagawa
+5	5	Nicola Cenacchi	Daniel Mason-D’Croz
+5	5	Nicola Cenacchi	Samuel S. Myers
+5	5	Nicola Cenacchi	Marcus C. Sarofim
+5	5	Nicola Cenacchi	Matthew R. Smith
+5	5	Nicola Cenacchi	Lewis H. Ziska
+5	5	Jefferson Cole	Naomi K. Fukagawa
+5	5	Jefferson Cole	Daniel Mason-D’Croz
+5	5	Jefferson Cole	Samuel S. Myers
+5	5	Jefferson Cole	Marcus C. Sarofim
+5	5	Jefferson Cole	Matthew R. Smith
+5	5	Jefferson Cole	Lewis H. Ziska
+5	5	Naomi K. Fukagawa	Daniel Mason-D’Croz
+5	5	Naomi K. Fukagawa	Samuel S. Myers
+5	5	Naomi K. Fukagawa	Marcus C. Sarofim
+5	5	Naomi K. Fukagawa	Matthew R. Smith
+5	5	Naomi K. Fukagawa	Lewis H. Ziska
+5	5	Daniel Mason-D’Croz	Samuel S. Myers
+5	5	Daniel Mason-D’Croz	Marcus C. Sarofim
+5	5	Daniel Mason-D’Croz	Matthew R. Smith
+5	5	Daniel Mason-D’Croz	Lewis H. Ziska
+5	5	Samuel S. Myers	Marcus C. Sarofim
+5	5	Samuel S. Myers	Matthew R. Smith
+5	5	Samuel S. Myers	Lewis H. Ziska
+5	5	Marcus C. Sarofim	Matthew R. Smith
+5	5	Marcus C. Sarofim	Lewis H. Ziska
+5	5	Matthew R. Smith	Lewis H. Ziska
+6	6	Naomi K. Fukagawa	Michael G. Brown
+6	6	Naomi K. Fukagawa	David R. Sinacore
+6	6	Naomi K. Fukagawa	Helen H. Host
+6	6	Michael G. Brown	David R. Sinacore
+6	6	Michael G. Brown	Helen H. Host
+6	6	David R. Sinacore	Helen H. Host
+7	7	Dariush Elahi	M. McAloon-Dyke
+7	7	Dariush Elahi	Naomi K. Fukagawa
+7	7	Dariush Elahi	Graydon S. Meneilly
+7	7	Dariush Elahi	Anne Sclater
+7	7	Dariush Elahi	Kenneth L. Minaker
+7	7	Dariush Elahi	Joel F. Habener
+7	7	Dariush Elahi	Dana K. Andersen
+7	7	M. McAloon-Dyke	Naomi K. Fukagawa
+7	7	M. McAloon-Dyke	Graydon S. Meneilly
+7	7	M. McAloon-Dyke	Anne Sclater
+7	7	M. McAloon-Dyke	Kenneth L. Minaker
+7	7	M. McAloon-Dyke	Joel F. Habener
+7	7	M. McAloon-Dyke	Dana K. Andersen
+7	7	Naomi K. Fukagawa	Graydon S. Meneilly
+7	7	Naomi K. Fukagawa	Anne Sclater
+7	7	Naomi K. Fukagawa	Kenneth L. Minaker
+7	7	Naomi K. Fukagawa	Joel F. Habener
+7	7	Naomi K. Fukagawa	Dana K. Andersen
+7	7	Graydon S. Meneilly	Anne Sclater
+7	7	Graydon S. Meneilly	Kenneth L. Minaker
+7	7	Graydon S. Meneilly	Joel F. Habener
+7	7	Graydon S. Meneilly	Dana K. Andersen
+7	7	Anne Sclater	Kenneth L. Minaker
+7	7	Anne Sclater	Joel F. Habener
+7	7	Anne Sclater	Dana K. Andersen
+7	7	Kenneth L. Minaker	Joel F. Habener
+7	7	Kenneth L. Minaker	Dana K. Andersen
+7	7	Joel F. Habener	Dana K. Andersen
+8	8	Naomi K. Fukagawa	Linda G. Bandini
+8	8	Naomi K. Fukagawa	James B. Young
+8	8	Linda G. Bandini	James B. Young
+9	9	Linda G. Bandini	Dale A. Schoeller
+9	9	Linda G. Bandini	Naomi K. Fukagawa
+9	9	Linda G. Bandini	Linda Wykes
+9	9	Linda G. Bandini	William H. Dietz
+9	9	Dale A. Schoeller	Naomi K. Fukagawa
+9	9	Dale A. Schoeller	Linda Wykes
+9	9	Dale A. Schoeller	William H. Dietz
+9	9	Naomi K. Fukagawa	Linda Wykes
+9	9	Naomi K. Fukagawa	William H. Dietz
+9	9	Linda Wykes	William H. Dietz
+10	10	Jedd Hillegass	Arti Shukla
+10	10	Jedd Hillegass	Sherrill A. Lathrop
+10	10	Jedd Hillegass	Maximilian B. MacPherson
+10	10	Jedd Hillegass	Naomi K. Fukagawa
+10	10	Jedd Hillegass	Brooke T. Mossman
+10	10	Arti Shukla	Sherrill A. Lathrop
+10	10	Arti Shukla	Maximilian B. MacPherson
+10	10	Arti Shukla	Naomi K. Fukagawa
+10	10	Arti Shukla	Brooke T. Mossman
+10	10	Sherrill A. Lathrop	Maximilian B. MacPherson
+10	10	Sherrill A. Lathrop	Naomi K. Fukagawa
+10	10	Sherrill A. Lathrop	Brooke T. Mossman
+10	10	Maximilian B. MacPherson	Naomi K. Fukagawa
+10	10	Maximilian B. MacPherson	Brooke T. Mossman
+10	10	Naomi K. Fukagawa	Brooke T. Mossman
+11	11	C. Lawrence Kien	Janice Y. Bunn
+11	11	C. Lawrence Kien	Matthew E. Poynter
+11	11	C. Lawrence Kien	Robert Stevens
+11	11	C. Lawrence Kien	James R. Bain
+11	11	C. Lawrence Kien	Olga Ikayeva
+11	11	C. Lawrence Kien	Naomi K. Fukagawa
+11	11	C. Lawrence Kien	Catherine M. Champagne
+11	11	C. Lawrence Kien	Karen I. Crain
+11	11	C. Lawrence Kien	Timothy R. Koves
+11	11	C. Lawrence Kien	Deborah M. Muoio
+11	11	Janice Y. Bunn	Matthew E. Poynter
+11	11	Janice Y. Bunn	Robert Stevens
+11	11	Janice Y. Bunn	James R. Bain
+11	11	Janice Y. Bunn	Olga Ikayeva
+11	11	Janice Y. Bunn	Naomi K. Fukagawa
+11	11	Janice Y. Bunn	Catherine M. Champagne
+11	11	Janice Y. Bunn	Karen I. Crain
+11	11	Janice Y. Bunn	Timothy R. Koves
+11	11	Janice Y. Bunn	Deborah M. Muoio
+11	11	Matthew E. Poynter	Robert Stevens
+11	11	Matthew E. Poynter	James R. Bain
+11	11	Matthew E. Poynter	Olga Ikayeva
+11	11	Matthew E. Poynter	Naomi K. Fukagawa
+11	11	Matthew E. Poynter	Catherine M. Champagne
+11	11	Matthew E. Poynter	Karen I. Crain
+11	11	Matthew E. Poynter	Timothy R. Koves
+11	11	Matthew E. Poynter	Deborah M. Muoio
+11	11	Robert Stevens	James R. Bain
+11	11	Robert Stevens	Olga Ikayeva
+11	11	Robert Stevens	Naomi K. Fukagawa
+11	11	Robert Stevens	Catherine M. Champagne
+11	11	Robert Stevens	Karen I. Crain
+11	11	Robert Stevens	Timothy R. Koves
+11	11	Robert Stevens	Deborah M. Muoio
+11	11	James R. Bain	Olga Ikayeva
+11	11	James R. Bain	Naomi K. Fukagawa
+11	11	James R. Bain	Catherine M. Champagne
+11	11	James R. Bain	Karen I. Crain
+11	11	James R. Bain	Timothy R. Koves
+11	11	James R. Bain	Deborah M. Muoio
+11	11	Olga Ikayeva	Naomi K. Fukagawa
+11	11	Olga Ikayeva	Catherine M. Champagne
+11	11	Olga Ikayeva	Karen I. Crain
+11	11	Olga Ikayeva	Timothy R. Koves
+11	11	Olga Ikayeva	Deborah M. Muoio
+11	11	Naomi K. Fukagawa	Catherine M. Champagne
+11	11	Naomi K. Fukagawa	Karen I. Crain
+11	11	Naomi K. Fukagawa	Timothy R. Koves
+11	11	Naomi K. Fukagawa	Deborah M. Muoio
+11	11	Catherine M. Champagne	Karen I. Crain
+11	11	Catherine M. Champagne	Timothy R. Koves
+11	11	Catherine M. Champagne	Deborah M. Muoio
+11	11	Karen I. Crain	Timothy R. Koves
+11	11	Karen I. Crain	Deborah M. Muoio
+11	11	Timothy R. Koves	Deborah M. Muoio
+12	12	Garret Couture	Shawn Ehlers Cheang
+12	12	Garret Couture	Christopher Suarez
+12	12	Garret Couture	Ye Chen
+12	12	Garret Couture	Nikita P. Bacalzo
+12	12	Garret Couture	Jiani Jiang
+12	12	Garret Couture	Cheng-Yu Weng
+12	12	Garret Couture	A. Stacy
+12	12	Garret Couture	Juan J. Castillo
+12	12	Garret Couture	Omar Delannoy-Bruno
+12	12	Garret Couture	Daniel M. Webber
+12	12	Garret Couture	Michael J. Barratt
+12	12	Garret Couture	Jeffrey I. Gordon
+12	12	Garret Couture	David A. Mills
+12	12	Garret Couture	J. Bruce German
+12	12	Garret Couture	Naomi K. Fukagawa
+12	12	Garret Couture	Carlito B. Lebrilla
+12	12	Shawn Ehlers Cheang	Christopher Suarez
+12	12	Shawn Ehlers Cheang	Ye Chen
+12	12	Shawn Ehlers Cheang	Nikita P. Bacalzo
+12	12	Shawn Ehlers Cheang	Jiani Jiang
+12	12	Shawn Ehlers Cheang	Cheng-Yu Weng
+12	12	Shawn Ehlers Cheang	A. Stacy
+12	12	Shawn Ehlers Cheang	Juan J. Castillo
+12	12	Shawn Ehlers Cheang	Omar Delannoy-Bruno
+12	12	Shawn Ehlers Cheang	Daniel M. Webber
+12	12	Shawn Ehlers Cheang	Michael J. Barratt
+12	12	Shawn Ehlers Cheang	Jeffrey I. Gordon
+12	12	Shawn Ehlers Cheang	David A. Mills
+12	12	Shawn Ehlers Cheang	J. Bruce German
+12	12	Shawn Ehlers Cheang	Naomi K. Fukagawa
+12	12	Shawn Ehlers Cheang	Carlito B. Lebrilla
+12	12	Christopher Suarez	Ye Chen
+12	12	Christopher Suarez	Nikita P. Bacalzo
+12	12	Christopher Suarez	Jiani Jiang
+12	12	Christopher Suarez	Cheng-Yu Weng
+12	12	Christopher Suarez	A. Stacy
+12	12	Christopher Suarez	Juan J. Castillo
+12	12	Christopher Suarez	Omar Delannoy-Bruno
+12	12	Christopher Suarez	Daniel M. Webber
+12	12	Christopher Suarez	Michael J. Barratt
+12	12	Christopher Suarez	Jeffrey I. Gordon
+12	12	Christopher Suarez	David A. Mills
+12	12	Christopher Suarez	J. Bruce German
+12	12	Christopher Suarez	Naomi K. Fukagawa
+12	12	Christopher Suarez	Carlito B. Lebrilla
+12	12	Ye Chen	Nikita P. Bacalzo
+12	12	Ye Chen	Jiani Jiang
+12	12	Ye Chen	Cheng-Yu Weng
+12	12	Ye Chen	A. Stacy
+12	12	Ye Chen	Juan J. Castillo
+12	12	Ye Chen	Omar Delannoy-Bruno
+12	12	Ye Chen	Daniel M. Webber
+12	12	Ye Chen	Michael J. Barratt
+12	12	Ye Chen	Jeffrey I. Gordon
+12	12	Ye Chen	David A. Mills
+12	12	Ye Chen	J. Bruce German
+12	12	Ye Chen	Naomi K. Fukagawa
+12	12	Ye Chen	Carlito B. Lebrilla
+12	12	Nikita P. Bacalzo	Jiani Jiang
+12	12	Nikita P. Bacalzo	Cheng-Yu Weng
+12	12	Nikita P. Bacalzo	A. Stacy
+12	12	Nikita P. Bacalzo	Juan J. Castillo
+12	12	Nikita P. Bacalzo	Omar Delannoy-Bruno
+12	12	Nikita P. Bacalzo	Daniel M. Webber
+12	12	Nikita P. Bacalzo	Michael J. Barratt
+12	12	Nikita P. Bacalzo	Jeffrey I. Gordon
+12	12	Nikita P. Bacalzo	David A. Mills
+12	12	Nikita P. Bacalzo	J. Bruce German
+12	12	Nikita P. Bacalzo	Naomi K. Fukagawa
+12	12	Nikita P. Bacalzo	Carlito B. Lebrilla
+12	12	Jiani Jiang	Cheng-Yu Weng
+12	12	Jiani Jiang	A. Stacy
+12	12	Jiani Jiang	Juan J. Castillo
+12	12	Jiani Jiang	Omar Delannoy-Bruno
+12	12	Jiani Jiang	Daniel M. Webber
+12	12	Jiani Jiang	Michael J. Barratt
+12	12	Jiani Jiang	Jeffrey I. Gordon
+12	12	Jiani Jiang	David A. Mills
+12	12	Jiani Jiang	J. Bruce German
+12	12	Jiani Jiang	Naomi K. Fukagawa
+12	12	Jiani Jiang	Carlito B. Lebrilla
+12	12	Cheng-Yu Weng	A. Stacy
+12	12	Cheng-Yu Weng	Juan J. Castillo
+12	12	Cheng-Yu Weng	Omar Delannoy-Bruno
+12	12	Cheng-Yu Weng	Daniel M. Webber
+12	12	Cheng-Yu Weng	Michael J. Barratt
+12	12	Cheng-Yu Weng	Jeffrey I. Gordon
+12	12	Cheng-Yu Weng	David A. Mills
+12	12	Cheng-Yu Weng	J. Bruce German
+12	12	Cheng-Yu Weng	Naomi K. Fukagawa
+12	12	Cheng-Yu Weng	Carlito B. Lebrilla
+12	12	A. Stacy	Juan J. Castillo
+12	12	A. Stacy	Omar Delannoy-Bruno
+12	12	A. Stacy	Daniel M. Webber
+12	12	A. Stacy	Michael J. Barratt
+12	12	A. Stacy	Jeffrey I. Gordon
+12	12	A. Stacy	David A. Mills
+12	12	A. Stacy	J. Bruce German
+12	12	A. Stacy	Naomi K. Fukagawa
+12	12	A. Stacy	Carlito B. Lebrilla
+12	12	Juan J. Castillo	Omar Delannoy-Bruno
+12	12	Juan J. Castillo	Daniel M. Webber
+12	12	Juan J. Castillo	Michael J. Barratt
+12	12	Juan J. Castillo	Jeffrey I. Gordon
+12	12	Juan J. Castillo	David A. Mills
+12	12	Juan J. Castillo	J. Bruce German
+12	12	Juan J. Castillo	Naomi K. Fukagawa
+12	12	Juan J. Castillo	Carlito B. Lebrilla
+12	12	Omar Delannoy-Bruno	Daniel M. Webber
+12	12	Omar Delannoy-Bruno	Michael J. Barratt
+12	12	Omar Delannoy-Bruno	Jeffrey I. Gordon
+12	12	Omar Delannoy-Bruno	David A. Mills
+12	12	Omar Delannoy-Bruno	J. Bruce German
+12	12	Omar Delannoy-Bruno	Naomi K. Fukagawa
+12	12	Omar Delannoy-Bruno	Carlito B. Lebrilla
+12	12	Daniel M. Webber	Michael J. Barratt
+12	12	Daniel M. Webber	Jeffrey I. Gordon
+12	12	Daniel M. Webber	David A. Mills
+12	12	Daniel M. Webber	J. Bruce German
+12	12	Daniel M. Webber	Naomi K. Fukagawa
+12	12	Daniel M. Webber	Carlito B. Lebrilla
+12	12	Michael J. Barratt	Jeffrey I. Gordon
+12	12	Michael J. Barratt	David A. Mills
+12	12	Michael J. Barratt	J. Bruce German
+12	12	Michael J. Barratt	Naomi K. Fukagawa
+12	12	Michael J. Barratt	Carlito B. Lebrilla
+12	12	Jeffrey I. Gordon	David A. Mills
+12	12	Jeffrey I. Gordon	J. Bruce German
+12	12	Jeffrey I. Gordon	Naomi K. Fukagawa
+12	12	Jeffrey I. Gordon	Carlito B. Lebrilla
+12	12	David A. Mills	J. Bruce German
+12	12	David A. Mills	Naomi K. Fukagawa
+12	12	David A. Mills	Carlito B. Lebrilla
+12	12	J. Bruce German	Naomi K. Fukagawa
+12	12	J. Bruce German	Carlito B. Lebrilla
+12	12	Naomi K. Fukagawa	Carlito B. Lebrilla
+13	13	William E. Hopkins	Zengyi Chen
+13	13	William E. Hopkins	Naomi K. Fukagawa
+13	13	William E. Hopkins	Christian Hall
+13	13	William E. Hopkins	Harm J. Knot
+13	13	William E. Hopkins	Martin M. LeWinter
+13	13	Zengyi Chen	Naomi K. Fukagawa
+13	13	Zengyi Chen	Christian Hall
+13	13	Zengyi Chen	Harm J. Knot
+13	13	Zengyi Chen	Martin M. LeWinter
+13	13	Naomi K. Fukagawa	Christian Hall
+13	13	Naomi K. Fukagawa	Harm J. Knot
+13	13	Naomi K. Fukagawa	Martin M. LeWinter
+13	13	Christian Hall	Harm J. Knot
+13	13	Christian Hall	Martin M. LeWinter
+13	13	Harm J. Knot	Martin M. LeWinter
+14	14	AE El-Khoury	Naomi K. Fukagawa
+14	14	AE El-Khoury	Melchor Sánchez Mendiola
+14	14	AE El-Khoury	RH Tsay
+14	14	AE El-Khoury	RE Gleason
+14	14	AE El-Khoury	TE Chapman
+14	14	AE El-Khoury	VR Young
+14	14	Naomi K. Fukagawa	Melchor Sánchez Mendiola
+14	14	Naomi K. Fukagawa	RH Tsay
+14	14	Naomi K. Fukagawa	RE Gleason
+14	14	Naomi K. Fukagawa	TE Chapman
+14	14	Naomi K. Fukagawa	VR Young
+14	14	Melchor Sánchez Mendiola	RH Tsay
+14	14	Melchor Sánchez Mendiola	RE Gleason
+14	14	Melchor Sánchez Mendiola	TE Chapman
+14	14	Melchor Sánchez Mendiola	VR Young
+14	14	RH Tsay	RE Gleason
+14	14	RH Tsay	TE Chapman
+14	14	RH Tsay	VR Young
+14	14	RE Gleason	TE Chapman
+14	14	RE Gleason	VR Young
+14	14	TE Chapman	VR Young
+15	15	Harland S. Winter	D A Antonioli
+15	15	Harland S. Winter	Naomi K. Fukagawa
+15	15	Harland S. Winter	Manuel A. Marcial
+15	15	Harland S. Winter	Harvey Goldman
+15	15	D A Antonioli	Naomi K. Fukagawa
+15	15	D A Antonioli	Manuel A. Marcial
+15	15	D A Antonioli	Harvey Goldman
+15	15	Naomi K. Fukagawa	Manuel A. Marcial
+15	15	Naomi K. Fukagawa	Harvey Goldman
+15	15	Manuel A. Marcial	Harvey Goldman
+16	16	Muyao Li	Jen‐Fu Chiu
+16	16	Muyao Li	Brooke T. Mossman
+16	16	Muyao Li	Naomi K. Fukagawa
+16	16	Jen‐Fu Chiu	Brooke T. Mossman
+16	16	Jen‐Fu Chiu	Naomi K. Fukagawa
+16	16	Brooke T. Mossman	Naomi K. Fukagawa
+17	17	Naomi K. Fukagawa	K. L. Minaker
+17	17	Naomi K. Fukagawa	V. R. Young
+17	17	Naomi K. Fukagawa	John W. Rowe
+17	17	K. L. Minaker	V. R. Young
+17	17	K. L. Minaker	John W. Rowe
+17	17	V. R. Young	John W. Rowe
+18	18	Barbara C. Sorkin	Adam J. Kuszak
+18	18	Barbara C. Sorkin	Gregory Bloss
+18	18	Barbara C. Sorkin	Naomi K. Fukagawa
+18	18	Barbara C. Sorkin	Freddie Ann Hoffman
+18	18	Barbara C. Sorkin	Mahtab Jafari
+18	18	Barbara C. Sorkin	Bruce Barrett
+18	18	Barbara C. Sorkin	Paula N. Brown
+18	18	Barbara C. Sorkin	Frederic D. Bushman
+18	18	Barbara C. Sorkin	Steven Casper
+18	18	Barbara C. Sorkin	Floyd H. Chilton
+18	18	Barbara C. Sorkin	Christopher S. Coffey
+18	18	Barbara C. Sorkin	Mário G. Ferruzzi
+18	18	Barbara C. Sorkin	D. Craig Hopp
+18	18	Barbara C. Sorkin	Máiréad Kiely
+18	18	Barbara C. Sorkin	Daniël Lakens
+18	18	Barbara C. Sorkin	John B. MacMillan
+18	18	Barbara C. Sorkin	David Meltzer
+18	18	Barbara C. Sorkin	Marco Pahor
+18	18	Barbara C. Sorkin	Jeffrey Paul
+18	18	Barbara C. Sorkin	Kathleen R. Pritchett‐Corning
+18	18	Barbara C. Sorkin	Sara K. Quinney
+18	18	Barbara C. Sorkin	Barbara Rehermann
+18	18	Barbara C. Sorkin	Kenneth D.R. Setchell
+18	18	Barbara C. Sorkin	Nisha S. Sipes
+18	18	Barbara C. Sorkin	Jacqueline M. Stephens
+18	18	Barbara C. Sorkin	D. Lansing Taylor
+18	18	Barbara C. Sorkin	Hervé Tiriac
+18	18	Barbara C. Sorkin	Michael A. Walters
+18	18	Barbara C. Sorkin	Dan Xi
+18	18	Barbara C. Sorkin	Giovanna Zappalà
+18	18	Barbara C. Sorkin	Guido F. Pauli
+18	18	Adam J. Kuszak	Gregory Bloss
+18	18	Adam J. Kuszak	Naomi K. Fukagawa
+18	18	Adam J. Kuszak	Freddie Ann Hoffman
+18	18	Adam J. Kuszak	Mahtab Jafari
+18	18	Adam J. Kuszak	Bruce Barrett
+18	18	Adam J. Kuszak	Paula N. Brown
+18	18	Adam J. Kuszak	Frederic D. Bushman
+18	18	Adam J. Kuszak	Steven Casper
+18	18	Adam J. Kuszak	Floyd H. Chilton
+18	18	Adam J. Kuszak	Christopher S. Coffey
+18	18	Adam J. Kuszak	Mário G. Ferruzzi
+18	18	Adam J. Kuszak	D. Craig Hopp
+18	18	Adam J. Kuszak	Máiréad Kiely
+18	18	Adam J. Kuszak	Daniël Lakens
+18	18	Adam J. Kuszak	John B. MacMillan
+18	18	Adam J. Kuszak	David Meltzer
+18	18	Adam J. Kuszak	Marco Pahor
+18	18	Adam J. Kuszak	Jeffrey Paul
+18	18	Adam J. Kuszak	Kathleen R. Pritchett‐Corning
+18	18	Adam J. Kuszak	Sara K. Quinney
+18	18	Adam J. Kuszak	Barbara Rehermann
+18	18	Adam J. Kuszak	Kenneth D.R. Setchell
+18	18	Adam J. Kuszak	Nisha S. Sipes
+18	18	Adam J. Kuszak	Jacqueline M. Stephens
+18	18	Adam J. Kuszak	D. Lansing Taylor
+18	18	Adam J. Kuszak	Hervé Tiriac
+18	18	Adam J. Kuszak	Michael A. Walters
+18	18	Adam J. Kuszak	Dan Xi
+18	18	Adam J. Kuszak	Giovanna Zappalà
+18	18	Adam J. Kuszak	Guido F. Pauli
+18	18	Gregory Bloss	Naomi K. Fukagawa
+18	18	Gregory Bloss	Freddie Ann Hoffman
+18	18	Gregory Bloss	Mahtab Jafari
+18	18	Gregory Bloss	Bruce Barrett
+18	18	Gregory Bloss	Paula N. Brown
+18	18	Gregory Bloss	Frederic D. Bushman
+18	18	Gregory Bloss	Steven Casper
+18	18	Gregory Bloss	Floyd H. Chilton
+18	18	Gregory Bloss	Christopher S. Coffey
+18	18	Gregory Bloss	Mário G. Ferruzzi
+18	18	Gregory Bloss	D. Craig Hopp
+18	18	Gregory Bloss	Máiréad Kiely
+18	18	Gregory Bloss	Daniël Lakens
+18	18	Gregory Bloss	John B. MacMillan
+18	18	Gregory Bloss	David Meltzer
+18	18	Gregory Bloss	Marco Pahor
+18	18	Gregory Bloss	Jeffrey Paul
+18	18	Gregory Bloss	Kathleen R. Pritchett‐Corning
+18	18	Gregory Bloss	Sara K. Quinney
+18	18	Gregory Bloss	Barbara Rehermann
+18	18	Gregory Bloss	Kenneth D.R. Setchell
+18	18	Gregory Bloss	Nisha S. Sipes
+18	18	Gregory Bloss	Jacqueline M. Stephens
+18	18	Gregory Bloss	D. Lansing Taylor
+18	18	Gregory Bloss	Hervé Tiriac
+18	18	Gregory Bloss	Michael A. Walters
+18	18	Gregory Bloss	Dan Xi
+18	18	Gregory Bloss	Giovanna Zappalà
+18	18	Gregory Bloss	Guido F. Pauli
+18	18	Naomi K. Fukagawa	Freddie Ann Hoffman
+18	18	Naomi K. Fukagawa	Mahtab Jafari
+18	18	Naomi K. Fukagawa	Bruce Barrett
+18	18	Naomi K. Fukagawa	Paula N. Brown
+18	18	Naomi K. Fukagawa	Frederic D. Bushman
+18	18	Naomi K. Fukagawa	Steven Casper
+18	18	Naomi K. Fukagawa	Floyd H. Chilton
+18	18	Naomi K. Fukagawa	Christopher S. Coffey
+18	18	Naomi K. Fukagawa	Mário G. Ferruzzi
+18	18	Naomi K. Fukagawa	D. Craig Hopp
+18	18	Naomi K. Fukagawa	Máiréad Kiely
+18	18	Naomi K. Fukagawa	Daniël Lakens
+18	18	Naomi K. Fukagawa	John B. MacMillan
+18	18	Naomi K. Fukagawa	David Meltzer
+18	18	Naomi K. Fukagawa	Marco Pahor
+18	18	Naomi K. Fukagawa	Jeffrey Paul
+18	18	Naomi K. Fukagawa	Kathleen R. Pritchett‐Corning
+18	18	Naomi K. Fukagawa	Sara K. Quinney
+18	18	Naomi K. Fukagawa	Barbara Rehermann
+18	18	Naomi K. Fukagawa	Kenneth D.R. Setchell
+18	18	Naomi K. Fukagawa	Nisha S. Sipes
+18	18	Naomi K. Fukagawa	Jacqueline M. Stephens
+18	18	Naomi K. Fukagawa	D. Lansing Taylor
+18	18	Naomi K. Fukagawa	Hervé Tiriac
+18	18	Naomi K. Fukagawa	Michael A. Walters
+18	18	Naomi K. Fukagawa	Dan Xi
+18	18	Naomi K. Fukagawa	Giovanna Zappalà
+18	18	Naomi K. Fukagawa	Guido F. Pauli
+18	18	Freddie Ann Hoffman	Mahtab Jafari
+18	18	Freddie Ann Hoffman	Bruce Barrett
+18	18	Freddie Ann Hoffman	Paula N. Brown
+18	18	Freddie Ann Hoffman	Frederic D. Bushman
+18	18	Freddie Ann Hoffman	Steven Casper
+18	18	Freddie Ann Hoffman	Floyd H. Chilton
+18	18	Freddie Ann Hoffman	Christopher S. Coffey
+18	18	Freddie Ann Hoffman	Mário G. Ferruzzi
+18	18	Freddie Ann Hoffman	D. Craig Hopp
+18	18	Freddie Ann Hoffman	Máiréad Kiely
+18	18	Freddie Ann Hoffman	Daniël Lakens
+18	18	Freddie Ann Hoffman	John B. MacMillan
+18	18	Freddie Ann Hoffman	David Meltzer
+18	18	Freddie Ann Hoffman	Marco Pahor
+18	18	Freddie Ann Hoffman	Jeffrey Paul
+18	18	Freddie Ann Hoffman	Kathleen R. Pritchett‐Corning
+18	18	Freddie Ann Hoffman	Sara K. Quinney
+18	18	Freddie Ann Hoffman	Barbara Rehermann
+18	18	Freddie Ann Hoffman	Kenneth D.R. Setchell
+18	18	Freddie Ann Hoffman	Nisha S. Sipes
+18	18	Freddie Ann Hoffman	Jacqueline M. Stephens
+18	18	Freddie Ann Hoffman	D. Lansing Taylor
+18	18	Freddie Ann Hoffman	Hervé Tiriac
+18	18	Freddie Ann Hoffman	Michael A. Walters
+18	18	Freddie Ann Hoffman	Dan Xi
+18	18	Freddie Ann Hoffman	Giovanna Zappalà
+18	18	Freddie Ann Hoffman	Guido F. Pauli
+18	18	Mahtab Jafari	Bruce Barrett
+18	18	Mahtab Jafari	Paula N. Brown
+18	18	Mahtab Jafari	Frederic D. Bushman
+18	18	Mahtab Jafari	Steven Casper
+18	18	Mahtab Jafari	Floyd H. Chilton
+18	18	Mahtab Jafari	Christopher S. Coffey
+18	18	Mahtab Jafari	Mário G. Ferruzzi
+18	18	Mahtab Jafari	D. Craig Hopp
+18	18	Mahtab Jafari	Máiréad Kiely
+18	18	Mahtab Jafari	Daniël Lakens
+18	18	Mahtab Jafari	John B. MacMillan
+18	18	Mahtab Jafari	David Meltzer
+18	18	Mahtab Jafari	Marco Pahor
+18	18	Mahtab Jafari	Jeffrey Paul
+18	18	Mahtab Jafari	Kathleen R. Pritchett‐Corning
+18	18	Mahtab Jafari	Sara K. Quinney
+18	18	Mahtab Jafari	Barbara Rehermann
+18	18	Mahtab Jafari	Kenneth D.R. Setchell
+18	18	Mahtab Jafari	Nisha S. Sipes
+18	18	Mahtab Jafari	Jacqueline M. Stephens
+18	18	Mahtab Jafari	D. Lansing Taylor
+18	18	Mahtab Jafari	Hervé Tiriac
+18	18	Mahtab Jafari	Michael A. Walters
+18	18	Mahtab Jafari	Dan Xi
+18	18	Mahtab Jafari	Giovanna Zappalà
+18	18	Mahtab Jafari	Guido F. Pauli
+18	18	Bruce Barrett	Paula N. Brown
+18	18	Bruce Barrett	Frederic D. Bushman
+18	18	Bruce Barrett	Steven Casper
+18	18	Bruce Barrett	Floyd H. Chilton
+18	18	Bruce Barrett	Christopher S. Coffey
+18	18	Bruce Barrett	Mário G. Ferruzzi
+18	18	Bruce Barrett	D. Craig Hopp
+18	18	Bruce Barrett	Máiréad Kiely
+18	18	Bruce Barrett	Daniël Lakens
+18	18	Bruce Barrett	John B. MacMillan
+18	18	Bruce Barrett	David Meltzer
+18	18	Bruce Barrett	Marco Pahor
+18	18	Bruce Barrett	Jeffrey Paul
+18	18	Bruce Barrett	Kathleen R. Pritchett‐Corning
+18	18	Bruce Barrett	Sara K. Quinney
+18	18	Bruce Barrett	Barbara Rehermann
+18	18	Bruce Barrett	Kenneth D.R. Setchell
+18	18	Bruce Barrett	Nisha S. Sipes
+18	18	Bruce Barrett	Jacqueline M. Stephens
+18	18	Bruce Barrett	D. Lansing Taylor
+18	18	Bruce Barrett	Hervé Tiriac
+18	18	Bruce Barrett	Michael A. Walters
+18	18	Bruce Barrett	Dan Xi
+18	18	Bruce Barrett	Giovanna Zappalà
+18	18	Bruce Barrett	Guido F. Pauli
+18	18	Paula N. Brown	Frederic D. Bushman
+18	18	Paula N. Brown	Steven Casper
+18	18	Paula N. Brown	Floyd H. Chilton
+18	18	Paula N. Brown	Christopher S. Coffey
+18	18	Paula N. Brown	Mário G. Ferruzzi
+18	18	Paula N. Brown	D. Craig Hopp
+18	18	Paula N. Brown	Máiréad Kiely
+18	18	Paula N. Brown	Daniël Lakens
+18	18	Paula N. Brown	John B. MacMillan
+18	18	Paula N. Brown	David Meltzer
+18	18	Paula N. Brown	Marco Pahor
+18	18	Paula N. Brown	Jeffrey Paul
+18	18	Paula N. Brown	Kathleen R. Pritchett‐Corning
+18	18	Paula N. Brown	Sara K. Quinney
+18	18	Paula N. Brown	Barbara Rehermann
+18	18	Paula N. Brown	Kenneth D.R. Setchell
+18	18	Paula N. Brown	Nisha S. Sipes
+18	18	Paula N. Brown	Jacqueline M. Stephens
+18	18	Paula N. Brown	D. Lansing Taylor
+18	18	Paula N. Brown	Hervé Tiriac
+18	18	Paula N. Brown	Michael A. Walters
+18	18	Paula N. Brown	Dan Xi
+18	18	Paula N. Brown	Giovanna Zappalà
+18	18	Paula N. Brown	Guido F. Pauli
+18	18	Frederic D. Bushman	Steven Casper
+18	18	Frederic D. Bushman	Floyd H. Chilton
+18	18	Frederic D. Bushman	Christopher S. Coffey
+18	18	Frederic D. Bushman	Mário G. Ferruzzi
+18	18	Frederic D. Bushman	D. Craig Hopp
+18	18	Frederic D. Bushman	Máiréad Kiely
+18	18	Frederic D. Bushman	Daniël Lakens
+18	18	Frederic D. Bushman	John B. MacMillan
+18	18	Frederic D. Bushman	David Meltzer
+18	18	Frederic D. Bushman	Marco Pahor
+18	18	Frederic D. Bushman	Jeffrey Paul
+18	18	Frederic D. Bushman	Kathleen R. Pritchett‐Corning
+18	18	Frederic D. Bushman	Sara K. Quinney
+18	18	Frederic D. Bushman	Barbara Rehermann
+18	18	Frederic D. Bushman	Kenneth D.R. Setchell
+18	18	Frederic D. Bushman	Nisha S. Sipes
+18	18	Frederic D. Bushman	Jacqueline M. Stephens
+18	18	Frederic D. Bushman	D. Lansing Taylor
+18	18	Frederic D. Bushman	Hervé Tiriac
+18	18	Frederic D. Bushman	Michael A. Walters
+18	18	Frederic D. Bushman	Dan Xi
+18	18	Frederic D. Bushman	Giovanna Zappalà
+18	18	Frederic D. Bushman	Guido F. Pauli
+18	18	Steven Casper	Floyd H. Chilton
+18	18	Steven Casper	Christopher S. Coffey
+18	18	Steven Casper	Mário G. Ferruzzi
+18	18	Steven Casper	D. Craig Hopp
+18	18	Steven Casper	Máiréad Kiely
+18	18	Steven Casper	Daniël Lakens
+18	18	Steven Casper	John B. MacMillan
+18	18	Steven Casper	David Meltzer
+18	18	Steven Casper	Marco Pahor
+18	18	Steven Casper	Jeffrey Paul
+18	18	Steven Casper	Kathleen R. Pritchett‐Corning
+18	18	Steven Casper	Sara K. Quinney
+18	18	Steven Casper	Barbara Rehermann
+18	18	Steven Casper	Kenneth D.R. Setchell
+18	18	Steven Casper	Nisha S. Sipes
+18	18	Steven Casper	Jacqueline M. Stephens
+18	18	Steven Casper	D. Lansing Taylor
+18	18	Steven Casper	Hervé Tiriac
+18	18	Steven Casper	Michael A. Walters
+18	18	Steven Casper	Dan Xi
+18	18	Steven Casper	Giovanna Zappalà
+18	18	Steven Casper	Guido F. Pauli
+18	18	Floyd H. Chilton	Christopher S. Coffey
+18	18	Floyd H. Chilton	Mário G. Ferruzzi
+18	18	Floyd H. Chilton	D. Craig Hopp
+18	18	Floyd H. Chilton	Máiréad Kiely
+18	18	Floyd H. Chilton	Daniël Lakens
+18	18	Floyd H. Chilton	John B. MacMillan
+18	18	Floyd H. Chilton	David Meltzer
+18	18	Floyd H. Chilton	Marco Pahor
+18	18	Floyd H. Chilton	Jeffrey Paul
+18	18	Floyd H. Chilton	Kathleen R. Pritchett‐Corning
+18	18	Floyd H. Chilton	Sara K. Quinney
+18	18	Floyd H. Chilton	Barbara Rehermann
+18	18	Floyd H. Chilton	Kenneth D.R. Setchell
+18	18	Floyd H. Chilton	Nisha S. Sipes
+18	18	Floyd H. Chilton	Jacqueline M. Stephens
+18	18	Floyd H. Chilton	D. Lansing Taylor
+18	18	Floyd H. Chilton	Hervé Tiriac
+18	18	Floyd H. Chilton	Michael A. Walters
+18	18	Floyd H. Chilton	Dan Xi
+18	18	Floyd H. Chilton	Giovanna Zappalà
+18	18	Floyd H. Chilton	Guido F. Pauli
+18	18	Christopher S. Coffey	Mário G. Ferruzzi
+18	18	Christopher S. Coffey	D. Craig Hopp
+18	18	Christopher S. Coffey	Máiréad Kiely
+18	18	Christopher S. Coffey	Daniël Lakens
+18	18	Christopher S. Coffey	John B. MacMillan
+18	18	Christopher S. Coffey	David Meltzer
+18	18	Christopher S. Coffey	Marco Pahor
+18	18	Christopher S. Coffey	Jeffrey Paul
+18	18	Christopher S. Coffey	Kathleen R. Pritchett‐Corning
+18	18	Christopher S. Coffey	Sara K. Quinney
+18	18	Christopher S. Coffey	Barbara Rehermann
+18	18	Christopher S. Coffey	Kenneth D.R. Setchell
+18	18	Christopher S. Coffey	Nisha S. Sipes
+18	18	Christopher S. Coffey	Jacqueline M. Stephens
+18	18	Christopher S. Coffey	D. Lansing Taylor
+18	18	Christopher S. Coffey	Hervé Tiriac
+18	18	Christopher S. Coffey	Michael A. Walters
+18	18	Christopher S. Coffey	Dan Xi
+18	18	Christopher S. Coffey	Giovanna Zappalà
+18	18	Christopher S. Coffey	Guido F. Pauli
+18	18	Mário G. Ferruzzi	D. Craig Hopp
+18	18	Mário G. Ferruzzi	Máiréad Kiely
+18	18	Mário G. Ferruzzi	Daniël Lakens
+18	18	Mário G. Ferruzzi	John B. MacMillan
+18	18	Mário G. Ferruzzi	David Meltzer
+18	18	Mário G. Ferruzzi	Marco Pahor
+18	18	Mário G. Ferruzzi	Jeffrey Paul
+18	18	Mário G. Ferruzzi	Kathleen R. Pritchett‐Corning
+18	18	Mário G. Ferruzzi	Sara K. Quinney
+18	18	Mário G. Ferruzzi	Barbara Rehermann
+18	18	Mário G. Ferruzzi	Kenneth D.R. Setchell
+18	18	Mário G. Ferruzzi	Nisha S. Sipes
+18	18	Mário G. Ferruzzi	Jacqueline M. Stephens
+18	18	Mário G. Ferruzzi	D. Lansing Taylor
+18	18	Mário G. Ferruzzi	Hervé Tiriac
+18	18	Mário G. Ferruzzi	Michael A. Walters
+18	18	Mário G. Ferruzzi	Dan Xi
+18	18	Mário G. Ferruzzi	Giovanna Zappalà
+18	18	Mário G. Ferruzzi	Guido F. Pauli
+18	18	D. Craig Hopp	Máiréad Kiely
+18	18	D. Craig Hopp	Daniël Lakens
+18	18	D. Craig Hopp	John B. MacMillan
+18	18	D. Craig Hopp	David Meltzer
+18	18	D. Craig Hopp	Marco Pahor
+18	18	D. Craig Hopp	Jeffrey Paul
+18	18	D. Craig Hopp	Kathleen R. Pritchett‐Corning
+18	18	D. Craig Hopp	Sara K. Quinney
+18	18	D. Craig Hopp	Barbara Rehermann
+18	18	D. Craig Hopp	Kenneth D.R. Setchell
+18	18	D. Craig Hopp	Nisha S. Sipes
+18	18	D. Craig Hopp	Jacqueline M. Stephens
+18	18	D. Craig Hopp	D. Lansing Taylor
+18	18	D. Craig Hopp	Hervé Tiriac
+18	18	D. Craig Hopp	Michael A. Walters
+18	18	D. Craig Hopp	Dan Xi
+18	18	D. Craig Hopp	Giovanna Zappalà
+18	18	D. Craig Hopp	Guido F. Pauli
+18	18	Máiréad Kiely	Daniël Lakens
+18	18	Máiréad Kiely	John B. MacMillan
+18	18	Máiréad Kiely	David Meltzer
+18	18	Máiréad Kiely	Marco Pahor
+18	18	Máiréad Kiely	Jeffrey Paul
+18	18	Máiréad Kiely	Kathleen R. Pritchett‐Corning
+18	18	Máiréad Kiely	Sara K. Quinney
+18	18	Máiréad Kiely	Barbara Rehermann
+18	18	Máiréad Kiely	Kenneth D.R. Setchell
+18	18	Máiréad Kiely	Nisha S. Sipes
+18	18	Máiréad Kiely	Jacqueline M. Stephens
+18	18	Máiréad Kiely	D. Lansing Taylor
+18	18	Máiréad Kiely	Hervé Tiriac
+18	18	Máiréad Kiely	Michael A. Walters
+18	18	Máiréad Kiely	Dan Xi
+18	18	Máiréad Kiely	Giovanna Zappalà
+18	18	Máiréad Kiely	Guido F. Pauli
+18	18	Daniël Lakens	John B. MacMillan
+18	18	Daniël Lakens	David Meltzer
+18	18	Daniël Lakens	Marco Pahor
+18	18	Daniël Lakens	Jeffrey Paul
+18	18	Daniël Lakens	Kathleen R. Pritchett‐Corning
+18	18	Daniël Lakens	Sara K. Quinney
+18	18	Daniël Lakens	Barbara Rehermann
+18	18	Daniël Lakens	Kenneth D.R. Setchell
+18	18	Daniël Lakens	Nisha S. Sipes
+18	18	Daniël Lakens	Jacqueline M. Stephens
+18	18	Daniël Lakens	D. Lansing Taylor
+18	18	Daniël Lakens	Hervé Tiriac
+18	18	Daniël Lakens	Michael A. Walters
+18	18	Daniël Lakens	Dan Xi
+18	18	Daniël Lakens	Giovanna Zappalà
+18	18	Daniël Lakens	Guido F. Pauli
+18	18	John B. MacMillan	David Meltzer
+18	18	John B. MacMillan	Marco Pahor
+18	18	John B. MacMillan	Jeffrey Paul
+18	18	John B. MacMillan	Kathleen R. Pritchett‐Corning
+18	18	John B. MacMillan	Sara K. Quinney
+18	18	John B. MacMillan	Barbara Rehermann
+18	18	John B. MacMillan	Kenneth D.R. Setchell
+18	18	John B. MacMillan	Nisha S. Sipes
+18	18	John B. MacMillan	Jacqueline M. Stephens
+18	18	John B. MacMillan	D. Lansing Taylor
+18	18	John B. MacMillan	Hervé Tiriac
+18	18	John B. MacMillan	Michael A. Walters
+18	18	John B. MacMillan	Dan Xi
+18	18	John B. MacMillan	Giovanna Zappalà
+18	18	John B. MacMillan	Guido F. Pauli
+18	18	David Meltzer	Marco Pahor
+18	18	David Meltzer	Jeffrey Paul
+18	18	David Meltzer	Kathleen R. Pritchett‐Corning
+18	18	David Meltzer	Sara K. Quinney
+18	18	David Meltzer	Barbara Rehermann
+18	18	David Meltzer	Kenneth D.R. Setchell
+18	18	David Meltzer	Nisha S. Sipes
+18	18	David Meltzer	Jacqueline M. Stephens
+18	18	David Meltzer	D. Lansing Taylor
+18	18	David Meltzer	Hervé Tiriac
+18	18	David Meltzer	Michael A. Walters
+18	18	David Meltzer	Dan Xi
+18	18	David Meltzer	Giovanna Zappalà
+18	18	David Meltzer	Guido F. Pauli
+18	18	Marco Pahor	Jeffrey Paul
+18	18	Marco Pahor	Kathleen R. Pritchett‐Corning
+18	18	Marco Pahor	Sara K. Quinney
+18	18	Marco Pahor	Barbara Rehermann
+18	18	Marco Pahor	Kenneth D.R. Setchell
+18	18	Marco Pahor	Nisha S. Sipes
+18	18	Marco Pahor	Jacqueline M. Stephens
+18	18	Marco Pahor	D. Lansing Taylor
+18	18	Marco Pahor	Hervé Tiriac
+18	18	Marco Pahor	Michael A. Walters
+18	18	Marco Pahor	Dan Xi
+18	18	Marco Pahor	Giovanna Zappalà
+18	18	Marco Pahor	Guido F. Pauli
+18	18	Jeffrey Paul	Kathleen R. Pritchett‐Corning
+18	18	Jeffrey Paul	Sara K. Quinney
+18	18	Jeffrey Paul	Barbara Rehermann
+18	18	Jeffrey Paul	Kenneth D.R. Setchell
+18	18	Jeffrey Paul	Nisha S. Sipes
+18	18	Jeffrey Paul	Jacqueline M. Stephens
+18	18	Jeffrey Paul	D. Lansing Taylor
+18	18	Jeffrey Paul	Hervé Tiriac
+18	18	Jeffrey Paul	Michael A. Walters
+18	18	Jeffrey Paul	Dan Xi
+18	18	Jeffrey Paul	Giovanna Zappalà
+18	18	Jeffrey Paul	Guido F. Pauli
+18	18	Kathleen R. Pritchett‐Corning	Sara K. Quinney
+18	18	Kathleen R. Pritchett‐Corning	Barbara Rehermann
+18	18	Kathleen R. Pritchett‐Corning	Kenneth D.R. Setchell
+18	18	Kathleen R. Pritchett‐Corning	Nisha S. Sipes
+18	18	Kathleen R. Pritchett‐Corning	Jacqueline M. Stephens
+18	18	Kathleen R. Pritchett‐Corning	D. Lansing Taylor
+18	18	Kathleen R. Pritchett‐Corning	Hervé Tiriac
+18	18	Kathleen R. Pritchett‐Corning	Michael A. Walters
+18	18	Kathleen R. Pritchett‐Corning	Dan Xi
+18	18	Kathleen R. Pritchett‐Corning	Giovanna Zappalà
+18	18	Kathleen R. Pritchett‐Corning	Guido F. Pauli
+18	18	Sara K. Quinney	Barbara Rehermann
+18	18	Sara K. Quinney	Kenneth D.R. Setchell
+18	18	Sara K. Quinney	Nisha S. Sipes
+18	18	Sara K. Quinney	Jacqueline M. Stephens
+18	18	Sara K. Quinney	D. Lansing Taylor
+18	18	Sara K. Quinney	Hervé Tiriac
+18	18	Sara K. Quinney	Michael A. Walters
+18	18	Sara K. Quinney	Dan Xi
+18	18	Sara K. Quinney	Giovanna Zappalà
+18	18	Sara K. Quinney	Guido F. Pauli
+18	18	Barbara Rehermann	Kenneth D.R. Setchell
+18	18	Barbara Rehermann	Nisha S. Sipes
+18	18	Barbara Rehermann	Jacqueline M. Stephens
+18	18	Barbara Rehermann	D. Lansing Taylor
+18	18	Barbara Rehermann	Hervé Tiriac
+18	18	Barbara Rehermann	Michael A. Walters
+18	18	Barbara Rehermann	Dan Xi
+18	18	Barbara Rehermann	Giovanna Zappalà
+18	18	Barbara Rehermann	Guido F. Pauli
+18	18	Kenneth D.R. Setchell	Nisha S. Sipes
+18	18	Kenneth D.R. Setchell	Jacqueline M. Stephens
+18	18	Kenneth D.R. Setchell	D. Lansing Taylor
+18	18	Kenneth D.R. Setchell	Hervé Tiriac
+18	18	Kenneth D.R. Setchell	Michael A. Walters
+18	18	Kenneth D.R. Setchell	Dan Xi
+18	18	Kenneth D.R. Setchell	Giovanna Zappalà
+18	18	Kenneth D.R. Setchell	Guido F. Pauli
+18	18	Nisha S. Sipes	Jacqueline M. Stephens
+18	18	Nisha S. Sipes	D. Lansing Taylor
+18	18	Nisha S. Sipes	Hervé Tiriac
+18	18	Nisha S. Sipes	Michael A. Walters
+18	18	Nisha S. Sipes	Dan Xi
+18	18	Nisha S. Sipes	Giovanna Zappalà
+18	18	Nisha S. Sipes	Guido F. Pauli
+18	18	Jacqueline M. Stephens	D. Lansing Taylor
+18	18	Jacqueline M. Stephens	Hervé Tiriac
+18	18	Jacqueline M. Stephens	Michael A. Walters
+18	18	Jacqueline M. Stephens	Dan Xi
+18	18	Jacqueline M. Stephens	Giovanna Zappalà
+18	18	Jacqueline M. Stephens	Guido F. Pauli
+18	18	D. Lansing Taylor	Hervé Tiriac
+18	18	D. Lansing Taylor	Michael A. Walters
+18	18	D. Lansing Taylor	Dan Xi
+18	18	D. Lansing Taylor	Giovanna Zappalà
+18	18	D. Lansing Taylor	Guido F. Pauli
+18	18	Hervé Tiriac	Michael A. Walters
+18	18	Hervé Tiriac	Dan Xi
+18	18	Hervé Tiriac	Giovanna Zappalà
+18	18	Hervé Tiriac	Guido F. Pauli
+18	18	Michael A. Walters	Dan Xi
+18	18	Michael A. Walters	Giovanna Zappalà
+18	18	Michael A. Walters	Guido F. Pauli
+18	18	Dan Xi	Giovanna Zappalà
+18	18	Dan Xi	Guido F. Pauli
+18	18	Giovanna Zappalà	Guido F. Pauli
+19	19	Jan Frank	Naomi K. Fukagawa
+19	19	Jan Frank	Anna Rita Bilia
+19	19	Jan Frank	Elizabeth J. Johnson
+19	19	Jan Frank	Oran Kwon
+19	19	Jan Frank	Vish Prakash
+19	19	Jan Frank	Teruo Miyazawa
+19	19	Jan Frank	Michael N. Clifford
+19	19	Jan Frank	Colin D. Kay
+19	19	Jan Frank	Alan Crozier
+19	19	Jan Frank	John W. Erdman
+19	19	Jan Frank	Andrew Shao
+19	19	Jan Frank	Gary Williamson
+19	19	Naomi K. Fukagawa	Anna Rita Bilia
+19	19	Naomi K. Fukagawa	Elizabeth J. Johnson
+19	19	Naomi K. Fukagawa	Oran Kwon
+19	19	Naomi K. Fukagawa	Vish Prakash
+19	19	Naomi K. Fukagawa	Teruo Miyazawa
+19	19	Naomi K. Fukagawa	Michael N. Clifford
+19	19	Naomi K. Fukagawa	Colin D. Kay
+19	19	Naomi K. Fukagawa	Alan Crozier
+19	19	Naomi K. Fukagawa	John W. Erdman
+19	19	Naomi K. Fukagawa	Andrew Shao
+19	19	Naomi K. Fukagawa	Gary Williamson
+19	19	Anna Rita Bilia	Elizabeth J. Johnson
+19	19	Anna Rita Bilia	Oran Kwon
+19	19	Anna Rita Bilia	Vish Prakash
+19	19	Anna Rita Bilia	Teruo Miyazawa
+19	19	Anna Rita Bilia	Michael N. Clifford
+19	19	Anna Rita Bilia	Colin D. Kay
+19	19	Anna Rita Bilia	Alan Crozier
+19	19	Anna Rita Bilia	John W. Erdman
+19	19	Anna Rita Bilia	Andrew Shao
+19	19	Anna Rita Bilia	Gary Williamson
+19	19	Elizabeth J. Johnson	Oran Kwon
+19	19	Elizabeth J. Johnson	Vish Prakash
+19	19	Elizabeth J. Johnson	Teruo Miyazawa
+19	19	Elizabeth J. Johnson	Michael N. Clifford
+19	19	Elizabeth J. Johnson	Colin D. Kay
+19	19	Elizabeth J. Johnson	Alan Crozier
+19	19	Elizabeth J. Johnson	John W. Erdman
+19	19	Elizabeth J. Johnson	Andrew Shao
+19	19	Elizabeth J. Johnson	Gary Williamson
+19	19	Oran Kwon	Vish Prakash
+19	19	Oran Kwon	Teruo Miyazawa
+19	19	Oran Kwon	Michael N. Clifford
+19	19	Oran Kwon	Colin D. Kay
+19	19	Oran Kwon	Alan Crozier
+19	19	Oran Kwon	John W. Erdman
+19	19	Oran Kwon	Andrew Shao
+19	19	Oran Kwon	Gary Williamson
+19	19	Vish Prakash	Teruo Miyazawa
+19	19	Vish Prakash	Michael N. Clifford
+19	19	Vish Prakash	Colin D. Kay
+19	19	Vish Prakash	Alan Crozier
+19	19	Vish Prakash	John W. Erdman
+19	19	Vish Prakash	Andrew Shao
+19	19	Vish Prakash	Gary Williamson
+19	19	Teruo Miyazawa	Michael N. Clifford
+19	19	Teruo Miyazawa	Colin D. Kay
+19	19	Teruo Miyazawa	Alan Crozier
+19	19	Teruo Miyazawa	John W. Erdman
+19	19	Teruo Miyazawa	Andrew Shao
+19	19	Teruo Miyazawa	Gary Williamson
+19	19	Michael N. Clifford	Colin D. Kay
+19	19	Michael N. Clifford	Alan Crozier
+19	19	Michael N. Clifford	John W. Erdman
+19	19	Michael N. Clifford	Andrew Shao
+19	19	Michael N. Clifford	Gary Williamson
+19	19	Colin D. Kay	Alan Crozier
+19	19	Colin D. Kay	John W. Erdman
+19	19	Colin D. Kay	Andrew Shao
+19	19	Colin D. Kay	Gary Williamson
+19	19	Alan Crozier	John W. Erdman
+19	19	Alan Crozier	Andrew Shao
+19	19	Alan Crozier	Gary Williamson
+19	19	John W. Erdman	Andrew Shao
+19	19	John W. Erdman	Gary Williamson
+19	19	Andrew Shao	Gary Williamson
+20	20	Katherine M. Phillips	Ryan C. McGinty
+20	20	Katherine M. Phillips	Garret Couture
+20	20	Katherine M. Phillips	Pamela Pehrsson
+20	20	Katherine M. Phillips	Kyle McKillop
+20	20	Katherine M. Phillips	Naomi K. Fukagawa
+20	20	Ryan C. McGinty	Garret Couture
+20	20	Ryan C. McGinty	Pamela Pehrsson
+20	20	Ryan C. McGinty	Kyle McKillop
+20	20	Ryan C. McGinty	Naomi K. Fukagawa
+20	20	Garret Couture	Pamela Pehrsson
+20	20	Garret Couture	Kyle McKillop
+20	20	Garret Couture	Naomi K. Fukagawa
+20	20	Pamela Pehrsson	Kyle McKillop
+20	20	Pamela Pehrsson	Naomi K. Fukagawa
+20	20	Kyle McKillop	Naomi K. Fukagawa
+21	21	Naomi K. Fukagawa	Kyle McKillop
+21	21	Naomi K. Fukagawa	Pamela Pehrsson
+21	21	Naomi K. Fukagawa	Alanna Moshfegh
+21	21	Naomi K. Fukagawa	James M. Harnly
+21	21	Naomi K. Fukagawa	John W. Finley
+21	21	Kyle McKillop	Pamela Pehrsson
+21	21	Kyle McKillop	Alanna Moshfegh
+21	21	Kyle McKillop	James M. Harnly
+21	21	Kyle McKillop	John W. Finley
+21	21	Pamela Pehrsson	Alanna Moshfegh
+21	21	Pamela Pehrsson	James M. Harnly
+21	21	Pamela Pehrsson	John W. Finley
+21	21	Alanna Moshfegh	James M. Harnly
+21	21	Alanna Moshfegh	John W. Finley
+21	21	James M. Harnly	John W. Finley
+22	22	Richard D. Mattes	Sylvia Rowe
+22	22	Richard D. Mattes	Sarah D. Ohlhorst
+22	22	Richard D. Mattes	Andrew W. Brown
+22	22	Richard D. Mattes	Daniël J. Hoffman
+22	22	Richard D. Mattes	DeAnn Liska
+22	22	Richard D. Mattes	Edith J. M. Feskens
+22	22	Richard D. Mattes	Jaapna Dhillon
+22	22	Richard D. Mattes	Katherine L. Tucker
+22	22	Richard D. Mattes	Leonard H. Epstein
+22	22	Richard D. Mattes	Lynnette M. Neufeld
+22	22	Richard D. Mattes	Michael J. Kelley
+22	22	Richard D. Mattes	Naomi K. Fukagawa
+22	22	Richard D. Mattes	Roger A. Sunde
+22	22	Richard D. Mattes	Steven H. Zeisel
+22	22	Richard D. Mattes	Anthony J. Basile
+22	22	Richard D. Mattes	Laura Borth
+22	22	Richard D. Mattes	Emahlea Jackson
+22	22	Sylvia Rowe	Sarah D. Ohlhorst
+22	22	Sylvia Rowe	Andrew W. Brown
+22	22	Sylvia Rowe	Daniël J. Hoffman
+22	22	Sylvia Rowe	DeAnn Liska
+22	22	Sylvia Rowe	Edith J. M. Feskens
+22	22	Sylvia Rowe	Jaapna Dhillon
+22	22	Sylvia Rowe	Katherine L. Tucker
+22	22	Sylvia Rowe	Leonard H. Epstein
+22	22	Sylvia Rowe	Lynnette M. Neufeld
+22	22	Sylvia Rowe	Michael J. Kelley
+22	22	Sylvia Rowe	Naomi K. Fukagawa
+22	22	Sylvia Rowe	Roger A. Sunde
+22	22	Sylvia Rowe	Steven H. Zeisel
+22	22	Sylvia Rowe	Anthony J. Basile
+22	22	Sylvia Rowe	Laura Borth
+22	22	Sylvia Rowe	Emahlea Jackson
+22	22	Sarah D. Ohlhorst	Andrew W. Brown
+22	22	Sarah D. Ohlhorst	Daniël J. Hoffman
+22	22	Sarah D. Ohlhorst	DeAnn Liska
+22	22	Sarah D. Ohlhorst	Edith J. M. Feskens
+22	22	Sarah D. Ohlhorst	Jaapna Dhillon
+22	22	Sarah D. Ohlhorst	Katherine L. Tucker
+22	22	Sarah D. Ohlhorst	Leonard H. Epstein
+22	22	Sarah D. Ohlhorst	Lynnette M. Neufeld
+22	22	Sarah D. Ohlhorst	Michael J. Kelley
+22	22	Sarah D. Ohlhorst	Naomi K. Fukagawa
+22	22	Sarah D. Ohlhorst	Roger A. Sunde
+22	22	Sarah D. Ohlhorst	Steven H. Zeisel
+22	22	Sarah D. Ohlhorst	Anthony J. Basile
+22	22	Sarah D. Ohlhorst	Laura Borth
+22	22	Sarah D. Ohlhorst	Emahlea Jackson
+22	22	Andrew W. Brown	Daniël J. Hoffman
+22	22	Andrew W. Brown	DeAnn Liska
+22	22	Andrew W. Brown	Edith J. M. Feskens
+22	22	Andrew W. Brown	Jaapna Dhillon
+22	22	Andrew W. Brown	Katherine L. Tucker
+22	22	Andrew W. Brown	Leonard H. Epstein
+22	22	Andrew W. Brown	Lynnette M. Neufeld
+22	22	Andrew W. Brown	Michael J. Kelley
+22	22	Andrew W. Brown	Naomi K. Fukagawa
+22	22	Andrew W. Brown	Roger A. Sunde
+22	22	Andrew W. Brown	Steven H. Zeisel
+22	22	Andrew W. Brown	Anthony J. Basile
+22	22	Andrew W. Brown	Laura Borth
+22	22	Andrew W. Brown	Emahlea Jackson
+22	22	Daniël J. Hoffman	DeAnn Liska
+22	22	Daniël J. Hoffman	Edith J. M. Feskens
+22	22	Daniël J. Hoffman	Jaapna Dhillon
+22	22	Daniël J. Hoffman	Katherine L. Tucker
+22	22	Daniël J. Hoffman	Leonard H. Epstein
+22	22	Daniël J. Hoffman	Lynnette M. Neufeld
+22	22	Daniël J. Hoffman	Michael J. Kelley
+22	22	Daniël J. Hoffman	Naomi K. Fukagawa
+22	22	Daniël J. Hoffman	Roger A. Sunde
+22	22	Daniël J. Hoffman	Steven H. Zeisel
+22	22	Daniël J. Hoffman	Anthony J. Basile
+22	22	Daniël J. Hoffman	Laura Borth
+22	22	Daniël J. Hoffman	Emahlea Jackson
+22	22	DeAnn Liska	Edith J. M. Feskens
+22	22	DeAnn Liska	Jaapna Dhillon
+22	22	DeAnn Liska	Katherine L. Tucker
+22	22	DeAnn Liska	Leonard H. Epstein
+22	22	DeAnn Liska	Lynnette M. Neufeld
+22	22	DeAnn Liska	Michael J. Kelley
+22	22	DeAnn Liska	Naomi K. Fukagawa
+22	22	DeAnn Liska	Roger A. Sunde
+22	22	DeAnn Liska	Steven H. Zeisel
+22	22	DeAnn Liska	Anthony J. Basile
+22	22	DeAnn Liska	Laura Borth
+22	22	DeAnn Liska	Emahlea Jackson
+22	22	Edith J. M. Feskens	Jaapna Dhillon
+22	22	Edith J. M. Feskens	Katherine L. Tucker
+22	22	Edith J. M. Feskens	Leonard H. Epstein
+22	22	Edith J. M. Feskens	Lynnette M. Neufeld
+22	22	Edith J. M. Feskens	Michael J. Kelley
+22	22	Edith J. M. Feskens	Naomi K. Fukagawa
+22	22	Edith J. M. Feskens	Roger A. Sunde
+22	22	Edith J. M. Feskens	Steven H. Zeisel
+22	22	Edith J. M. Feskens	Anthony J. Basile
+22	22	Edith J. M. Feskens	Laura Borth
+22	22	Edith J. M. Feskens	Emahlea Jackson
+22	22	Jaapna Dhillon	Katherine L. Tucker
+22	22	Jaapna Dhillon	Leonard H. Epstein
+22	22	Jaapna Dhillon	Lynnette M. Neufeld
+22	22	Jaapna Dhillon	Michael J. Kelley
+22	22	Jaapna Dhillon	Naomi K. Fukagawa
+22	22	Jaapna Dhillon	Roger A. Sunde
+22	22	Jaapna Dhillon	Steven H. Zeisel
+22	22	Jaapna Dhillon	Anthony J. Basile
+22	22	Jaapna Dhillon	Laura Borth
+22	22	Jaapna Dhillon	Emahlea Jackson
+22	22	Katherine L. Tucker	Leonard H. Epstein
+22	22	Katherine L. Tucker	Lynnette M. Neufeld
+22	22	Katherine L. Tucker	Michael J. Kelley
+22	22	Katherine L. Tucker	Naomi K. Fukagawa
+22	22	Katherine L. Tucker	Roger A. Sunde
+22	22	Katherine L. Tucker	Steven H. Zeisel
+22	22	Katherine L. Tucker	Anthony J. Basile
+22	22	Katherine L. Tucker	Laura Borth
+22	22	Katherine L. Tucker	Emahlea Jackson
+22	22	Leonard H. Epstein	Lynnette M. Neufeld
+22	22	Leonard H. Epstein	Michael J. Kelley
+22	22	Leonard H. Epstein	Naomi K. Fukagawa
+22	22	Leonard H. Epstein	Roger A. Sunde
+22	22	Leonard H. Epstein	Steven H. Zeisel
+22	22	Leonard H. Epstein	Anthony J. Basile
+22	22	Leonard H. Epstein	Laura Borth
+22	22	Leonard H. Epstein	Emahlea Jackson
+22	22	Lynnette M. Neufeld	Michael J. Kelley
+22	22	Lynnette M. Neufeld	Naomi K. Fukagawa
+22	22	Lynnette M. Neufeld	Roger A. Sunde
+22	22	Lynnette M. Neufeld	Steven H. Zeisel
+22	22	Lynnette M. Neufeld	Anthony J. Basile
+22	22	Lynnette M. Neufeld	Laura Borth
+22	22	Lynnette M. Neufeld	Emahlea Jackson
+22	22	Michael J. Kelley	Naomi K. Fukagawa
+22	22	Michael J. Kelley	Roger A. Sunde
+22	22	Michael J. Kelley	Steven H. Zeisel
+22	22	Michael J. Kelley	Anthony J. Basile
+22	22	Michael J. Kelley	Laura Borth
+22	22	Michael J. Kelley	Emahlea Jackson
+22	22	Naomi K. Fukagawa	Roger A. Sunde
+22	22	Naomi K. Fukagawa	Steven H. Zeisel
+22	22	Naomi K. Fukagawa	Anthony J. Basile
+22	22	Naomi K. Fukagawa	Laura Borth
+22	22	Naomi K. Fukagawa	Emahlea Jackson
+22	22	Roger A. Sunde	Steven H. Zeisel
+22	22	Roger A. Sunde	Anthony J. Basile
+22	22	Roger A. Sunde	Laura Borth
+22	22	Roger A. Sunde	Emahlea Jackson
+22	22	Steven H. Zeisel	Anthony J. Basile
+22	22	Steven H. Zeisel	Laura Borth
+22	22	Steven H. Zeisel	Emahlea Jackson
+22	22	Anthony J. Basile	Laura Borth
+22	22	Anthony J. Basile	Emahlea Jackson
+22	22	Laura Borth	Emahlea Jackson
+23	23	Lauren E. O’Connor	Kelly Higgins
+23	23	Lauren E. O’Connor	Katarina Smiljanec
+23	23	Lauren E. O’Connor	Robert Bergia
+23	23	Lauren E. O’Connor	Andrew W. Brown
+23	23	Lauren E. O’Connor	David J. Baer
+23	23	Lauren E. O’Connor	Cindy D. Davis
+23	23	Lauren E. O’Connor	Mário G. Ferruzzi
+23	23	Lauren E. O’Connor	Kevin H. Miller
+23	23	Lauren E. O’Connor	Sylvia Rowe
+23	23	Lauren E. O’Connor	Janice M.W. Rueda
+23	23	Lauren E. O’Connor	Aline Andres
+23	23	Lauren E. O’Connor	Sean B. Cash
+23	23	Lauren E. O’Connor	John N. Coupland
+23	23	Lauren E. O’Connor	Meghan Crimmins
+23	23	Lauren E. O’Connor	Chelsey Fiecke
+23	23	Lauren E. O’Connor	Ciarán G. Forde
+23	23	Lauren E. O’Connor	Naomi K. Fukagawa
+23	23	Lauren E. O’Connor	Kevin D. Hall
+23	23	Lauren E. O’Connor	Bruce R. Hamaker
+23	23	Lauren E. O’Connor	Kirsten Herrick
+23	23	Lauren E. O’Connor	Julie Hess
+23	23	Lauren E. O’Connor	Lise A.J. Heuven
+23	23	Lauren E. O’Connor	Filippa Juul
+23	23	Lauren E. O’Connor	Fiona C. Malcomson
+23	23	Lauren E. O’Connor	Eurídice Martinez Steele
+23	23	Lauren E. O’Connor	Richard D. Mattes
+23	23	Lauren E. O’Connor	Mark Messina
+23	23	Lauren E. O’Connor	Alyson E. Mitchell
+23	23	Lauren E. O’Connor	Fang Fang Zhang
+23	23	Kelly Higgins	Katarina Smiljanec
+23	23	Kelly Higgins	Robert Bergia
+23	23	Kelly Higgins	Andrew W. Brown
+23	23	Kelly Higgins	David J. Baer
+23	23	Kelly Higgins	Cindy D. Davis
+23	23	Kelly Higgins	Mário G. Ferruzzi
+23	23	Kelly Higgins	Kevin H. Miller
+23	23	Kelly Higgins	Sylvia Rowe
+23	23	Kelly Higgins	Janice M.W. Rueda
+23	23	Kelly Higgins	Aline Andres
+23	23	Kelly Higgins	Sean B. Cash
+23	23	Kelly Higgins	John N. Coupland
+23	23	Kelly Higgins	Meghan Crimmins
+23	23	Kelly Higgins	Chelsey Fiecke
+23	23	Kelly Higgins	Ciarán G. Forde
+23	23	Kelly Higgins	Naomi K. Fukagawa
+23	23	Kelly Higgins	Kevin D. Hall
+23	23	Kelly Higgins	Bruce R. Hamaker
+23	23	Kelly Higgins	Kirsten Herrick
+23	23	Kelly Higgins	Julie Hess
+23	23	Kelly Higgins	Lise A.J. Heuven
+23	23	Kelly Higgins	Filippa Juul
+23	23	Kelly Higgins	Fiona C. Malcomson
+23	23	Kelly Higgins	Eurídice Martinez Steele
+23	23	Kelly Higgins	Richard D. Mattes
+23	23	Kelly Higgins	Mark Messina
+23	23	Kelly Higgins	Alyson E. Mitchell
+23	23	Kelly Higgins	Fang Fang Zhang
+23	23	Katarina Smiljanec	Robert Bergia
+23	23	Katarina Smiljanec	Andrew W. Brown
+23	23	Katarina Smiljanec	David J. Baer
+23	23	Katarina Smiljanec	Cindy D. Davis
+23	23	Katarina Smiljanec	Mário G. Ferruzzi
+23	23	Katarina Smiljanec	Kevin H. Miller
+23	23	Katarina Smiljanec	Sylvia Rowe
+23	23	Katarina Smiljanec	Janice M.W. Rueda
+23	23	Katarina Smiljanec	Aline Andres
+23	23	Katarina Smiljanec	Sean B. Cash
+23	23	Katarina Smiljanec	John N. Coupland
+23	23	Katarina Smiljanec	Meghan Crimmins
+23	23	Katarina Smiljanec	Chelsey Fiecke
+23	23	Katarina Smiljanec	Ciarán G. Forde
+23	23	Katarina Smiljanec	Naomi K. Fukagawa
+23	23	Katarina Smiljanec	Kevin D. Hall
+23	23	Katarina Smiljanec	Bruce R. Hamaker
+23	23	Katarina Smiljanec	Kirsten Herrick
+23	23	Katarina Smiljanec	Julie Hess
+23	23	Katarina Smiljanec	Lise A.J. Heuven
+23	23	Katarina Smiljanec	Filippa Juul
+23	23	Katarina Smiljanec	Fiona C. Malcomson
+23	23	Katarina Smiljanec	Eurídice Martinez Steele
+23	23	Katarina Smiljanec	Richard D. Mattes
+23	23	Katarina Smiljanec	Mark Messina
+23	23	Katarina Smiljanec	Alyson E. Mitchell
+23	23	Katarina Smiljanec	Fang Fang Zhang
+23	23	Robert Bergia	Andrew W. Brown
+23	23	Robert Bergia	David J. Baer
+23	23	Robert Bergia	Cindy D. Davis
+23	23	Robert Bergia	Mário G. Ferruzzi
+23	23	Robert Bergia	Kevin H. Miller
+23	23	Robert Bergia	Sylvia Rowe
+23	23	Robert Bergia	Janice M.W. Rueda
+23	23	Robert Bergia	Aline Andres
+23	23	Robert Bergia	Sean B. Cash
+23	23	Robert Bergia	John N. Coupland
+23	23	Robert Bergia	Meghan Crimmins
+23	23	Robert Bergia	Chelsey Fiecke
+23	23	Robert Bergia	Ciarán G. Forde
+23	23	Robert Bergia	Naomi K. Fukagawa
+23	23	Robert Bergia	Kevin D. Hall
+23	23	Robert Bergia	Bruce R. Hamaker
+23	23	Robert Bergia	Kirsten Herrick
+23	23	Robert Bergia	Julie Hess
+23	23	Robert Bergia	Lise A.J. Heuven
+23	23	Robert Bergia	Filippa Juul
+23	23	Robert Bergia	Fiona C. Malcomson
+23	23	Robert Bergia	Eurídice Martinez Steele
+23	23	Robert Bergia	Richard D. Mattes
+23	23	Robert Bergia	Mark Messina
+23	23	Robert Bergia	Alyson E. Mitchell
+23	23	Robert Bergia	Fang Fang Zhang
+23	23	Andrew W. Brown	David J. Baer
+23	23	Andrew W. Brown	Cindy D. Davis
+23	23	Andrew W. Brown	Mário G. Ferruzzi
+23	23	Andrew W. Brown	Kevin H. Miller
+23	23	Andrew W. Brown	Sylvia Rowe
+23	23	Andrew W. Brown	Janice M.W. Rueda
+23	23	Andrew W. Brown	Aline Andres
+23	23	Andrew W. Brown	Sean B. Cash
+23	23	Andrew W. Brown	John N. Coupland
+23	23	Andrew W. Brown	Meghan Crimmins
+23	23	Andrew W. Brown	Chelsey Fiecke
+23	23	Andrew W. Brown	Ciarán G. Forde
+23	23	Andrew W. Brown	Naomi K. Fukagawa
+23	23	Andrew W. Brown	Kevin D. Hall
+23	23	Andrew W. Brown	Bruce R. Hamaker
+23	23	Andrew W. Brown	Kirsten Herrick
+23	23	Andrew W. Brown	Julie Hess
+23	23	Andrew W. Brown	Lise A.J. Heuven
+23	23	Andrew W. Brown	Filippa Juul
+23	23	Andrew W. Brown	Fiona C. Malcomson
+23	23	Andrew W. Brown	Eurídice Martinez Steele
+23	23	Andrew W. Brown	Richard D. Mattes
+23	23	Andrew W. Brown	Mark Messina
+23	23	Andrew W. Brown	Alyson E. Mitchell
+23	23	Andrew W. Brown	Fang Fang Zhang
+23	23	David J. Baer	Cindy D. Davis
+23	23	David J. Baer	Mário G. Ferruzzi
+23	23	David J. Baer	Kevin H. Miller
+23	23	David J. Baer	Sylvia Rowe
+23	23	David J. Baer	Janice M.W. Rueda
+23	23	David J. Baer	Aline Andres
+23	23	David J. Baer	Sean B. Cash
+23	23	David J. Baer	John N. Coupland
+23	23	David J. Baer	Meghan Crimmins
+23	23	David J. Baer	Chelsey Fiecke
+23	23	David J. Baer	Ciarán G. Forde
+23	23	David J. Baer	Naomi K. Fukagawa
+23	23	David J. Baer	Kevin D. Hall
+23	23	David J. Baer	Bruce R. Hamaker
+23	23	David J. Baer	Kirsten Herrick
+23	23	David J. Baer	Julie Hess
+23	23	David J. Baer	Lise A.J. Heuven
+23	23	David J. Baer	Filippa Juul
+23	23	David J. Baer	Fiona C. Malcomson
+23	23	David J. Baer	Eurídice Martinez Steele
+23	23	David J. Baer	Richard D. Mattes
+23	23	David J. Baer	Mark Messina
+23	23	David J. Baer	Alyson E. Mitchell
+23	23	David J. Baer	Fang Fang Zhang
+23	23	Cindy D. Davis	Mário G. Ferruzzi
+23	23	Cindy D. Davis	Kevin H. Miller
+23	23	Cindy D. Davis	Sylvia Rowe
+23	23	Cindy D. Davis	Janice M.W. Rueda
+23	23	Cindy D. Davis	Aline Andres
+23	23	Cindy D. Davis	Sean B. Cash
+23	23	Cindy D. Davis	John N. Coupland
+23	23	Cindy D. Davis	Meghan Crimmins
+23	23	Cindy D. Davis	Chelsey Fiecke
+23	23	Cindy D. Davis	Ciarán G. Forde
+23	23	Cindy D. Davis	Naomi K. Fukagawa
+23	23	Cindy D. Davis	Kevin D. Hall
+23	23	Cindy D. Davis	Bruce R. Hamaker
+23	23	Cindy D. Davis	Kirsten Herrick
+23	23	Cindy D. Davis	Julie Hess
+23	23	Cindy D. Davis	Lise A.J. Heuven
+23	23	Cindy D. Davis	Filippa Juul
+23	23	Cindy D. Davis	Fiona C. Malcomson
+23	23	Cindy D. Davis	Eurídice Martinez Steele
+23	23	Cindy D. Davis	Richard D. Mattes
+23	23	Cindy D. Davis	Mark Messina
+23	23	Cindy D. Davis	Alyson E. Mitchell
+23	23	Cindy D. Davis	Fang Fang Zhang
+23	23	Mário G. Ferruzzi	Kevin H. Miller
+23	23	Mário G. Ferruzzi	Sylvia Rowe
+23	23	Mário G. Ferruzzi	Janice M.W. Rueda
+23	23	Mário G. Ferruzzi	Aline Andres
+23	23	Mário G. Ferruzzi	Sean B. Cash
+23	23	Mário G. Ferruzzi	John N. Coupland
+23	23	Mário G. Ferruzzi	Meghan Crimmins
+23	23	Mário G. Ferruzzi	Chelsey Fiecke
+23	23	Mário G. Ferruzzi	Ciarán G. Forde
+23	23	Mário G. Ferruzzi	Naomi K. Fukagawa
+23	23	Mário G. Ferruzzi	Kevin D. Hall
+23	23	Mário G. Ferruzzi	Bruce R. Hamaker
+23	23	Mário G. Ferruzzi	Kirsten Herrick
+23	23	Mário G. Ferruzzi	Julie Hess
+23	23	Mário G. Ferruzzi	Lise A.J. Heuven
+23	23	Mário G. Ferruzzi	Filippa Juul
+23	23	Mário G. Ferruzzi	Fiona C. Malcomson
+23	23	Mário G. Ferruzzi	Eurídice Martinez Steele
+23	23	Mário G. Ferruzzi	Richard D. Mattes
+23	23	Mário G. Ferruzzi	Mark Messina
+23	23	Mário G. Ferruzzi	Alyson E. Mitchell
+23	23	Mário G. Ferruzzi	Fang Fang Zhang
+23	23	Kevin H. Miller	Sylvia Rowe
+23	23	Kevin H. Miller	Janice M.W. Rueda
+23	23	Kevin H. Miller	Aline Andres
+23	23	Kevin H. Miller	Sean B. Cash
+23	23	Kevin H. Miller	John N. Coupland
+23	23	Kevin H. Miller	Meghan Crimmins
+23	23	Kevin H. Miller	Chelsey Fiecke
+23	23	Kevin H. Miller	Ciarán G. Forde
+23	23	Kevin H. Miller	Naomi K. Fukagawa
+23	23	Kevin H. Miller	Kevin D. Hall
+23	23	Kevin H. Miller	Bruce R. Hamaker
+23	23	Kevin H. Miller	Kirsten Herrick
+23	23	Kevin H. Miller	Julie Hess
+23	23	Kevin H. Miller	Lise A.J. Heuven
+23	23	Kevin H. Miller	Filippa Juul
+23	23	Kevin H. Miller	Fiona C. Malcomson
+23	23	Kevin H. Miller	Eurídice Martinez Steele
+23	23	Kevin H. Miller	Richard D. Mattes
+23	23	Kevin H. Miller	Mark Messina
+23	23	Kevin H. Miller	Alyson E. Mitchell
+23	23	Kevin H. Miller	Fang Fang Zhang
+23	23	Sylvia Rowe	Janice M.W. Rueda
+23	23	Sylvia Rowe	Aline Andres
+23	23	Sylvia Rowe	Sean B. Cash
+23	23	Sylvia Rowe	John N. Coupland
+23	23	Sylvia Rowe	Meghan Crimmins
+23	23	Sylvia Rowe	Chelsey Fiecke
+23	23	Sylvia Rowe	Ciarán G. Forde
+23	23	Sylvia Rowe	Naomi K. Fukagawa
+23	23	Sylvia Rowe	Kevin D. Hall
+23	23	Sylvia Rowe	Bruce R. Hamaker
+23	23	Sylvia Rowe	Kirsten Herrick
+23	23	Sylvia Rowe	Julie Hess
+23	23	Sylvia Rowe	Lise A.J. Heuven
+23	23	Sylvia Rowe	Filippa Juul
+23	23	Sylvia Rowe	Fiona C. Malcomson
+23	23	Sylvia Rowe	Eurídice Martinez Steele
+23	23	Sylvia Rowe	Richard D. Mattes
+23	23	Sylvia Rowe	Mark Messina
+23	23	Sylvia Rowe	Alyson E. Mitchell
+23	23	Sylvia Rowe	Fang Fang Zhang
+23	23	Janice M.W. Rueda	Aline Andres
+23	23	Janice M.W. Rueda	Sean B. Cash
+23	23	Janice M.W. Rueda	John N. Coupland
+23	23	Janice M.W. Rueda	Meghan Crimmins
+23	23	Janice M.W. Rueda	Chelsey Fiecke
+23	23	Janice M.W. Rueda	Ciarán G. Forde
+23	23	Janice M.W. Rueda	Naomi K. Fukagawa
+23	23	Janice M.W. Rueda	Kevin D. Hall
+23	23	Janice M.W. Rueda	Bruce R. Hamaker
+23	23	Janice M.W. Rueda	Kirsten Herrick
+23	23	Janice M.W. Rueda	Julie Hess
+23	23	Janice M.W. Rueda	Lise A.J. Heuven
+23	23	Janice M.W. Rueda	Filippa Juul
+23	23	Janice M.W. Rueda	Fiona C. Malcomson
+23	23	Janice M.W. Rueda	Eurídice Martinez Steele
+23	23	Janice M.W. Rueda	Richard D. Mattes
+23	23	Janice M.W. Rueda	Mark Messina
+23	23	Janice M.W. Rueda	Alyson E. Mitchell
+23	23	Janice M.W. Rueda	Fang Fang Zhang
+23	23	Aline Andres	Sean B. Cash
+23	23	Aline Andres	John N. Coupland
+23	23	Aline Andres	Meghan Crimmins
+23	23	Aline Andres	Chelsey Fiecke
+23	23	Aline Andres	Ciarán G. Forde
+23	23	Aline Andres	Naomi K. Fukagawa
+23	23	Aline Andres	Kevin D. Hall
+23	23	Aline Andres	Bruce R. Hamaker
+23	23	Aline Andres	Kirsten Herrick
+23	23	Aline Andres	Julie Hess
+23	23	Aline Andres	Lise A.J. Heuven
+23	23	Aline Andres	Filippa Juul
+23	23	Aline Andres	Fiona C. Malcomson
+23	23	Aline Andres	Eurídice Martinez Steele
+23	23	Aline Andres	Richard D. Mattes
+23	23	Aline Andres	Mark Messina
+23	23	Aline Andres	Alyson E. Mitchell
+23	23	Aline Andres	Fang Fang Zhang
+23	23	Sean B. Cash	John N. Coupland
+23	23	Sean B. Cash	Meghan Crimmins
+23	23	Sean B. Cash	Chelsey Fiecke
+23	23	Sean B. Cash	Ciarán G. Forde
+23	23	Sean B. Cash	Naomi K. Fukagawa
+23	23	Sean B. Cash	Kevin D. Hall
+23	23	Sean B. Cash	Bruce R. Hamaker
+23	23	Sean B. Cash	Kirsten Herrick
+23	23	Sean B. Cash	Julie Hess
+23	23	Sean B. Cash	Lise A.J. Heuven
+23	23	Sean B. Cash	Filippa Juul
+23	23	Sean B. Cash	Fiona C. Malcomson
+23	23	Sean B. Cash	Eurídice Martinez Steele
+23	23	Sean B. Cash	Richard D. Mattes
+23	23	Sean B. Cash	Mark Messina
+23	23	Sean B. Cash	Alyson E. Mitchell
+23	23	Sean B. Cash	Fang Fang Zhang
+23	23	John N. Coupland	Meghan Crimmins
+23	23	John N. Coupland	Chelsey Fiecke
+23	23	John N. Coupland	Ciarán G. Forde
+23	23	John N. Coupland	Naomi K. Fukagawa
+23	23	John N. Coupland	Kevin D. Hall
+23	23	John N. Coupland	Bruce R. Hamaker
+23	23	John N. Coupland	Kirsten Herrick
+23	23	John N. Coupland	Julie Hess
+23	23	John N. Coupland	Lise A.J. Heuven
+23	23	John N. Coupland	Filippa Juul
+23	23	John N. Coupland	Fiona C. Malcomson
+23	23	John N. Coupland	Eurídice Martinez Steele
+23	23	John N. Coupland	Richard D. Mattes
+23	23	John N. Coupland	Mark Messina
+23	23	John N. Coupland	Alyson E. Mitchell
+23	23	John N. Coupland	Fang Fang Zhang
+23	23	Meghan Crimmins	Chelsey Fiecke
+23	23	Meghan Crimmins	Ciarán G. Forde
+23	23	Meghan Crimmins	Naomi K. Fukagawa
+23	23	Meghan Crimmins	Kevin D. Hall
+23	23	Meghan Crimmins	Bruce R. Hamaker
+23	23	Meghan Crimmins	Kirsten Herrick
+23	23	Meghan Crimmins	Julie Hess
+23	23	Meghan Crimmins	Lise A.J. Heuven
+23	23	Meghan Crimmins	Filippa Juul
+23	23	Meghan Crimmins	Fiona C. Malcomson
+23	23	Meghan Crimmins	Eurídice Martinez Steele
+23	23	Meghan Crimmins	Richard D. Mattes
+23	23	Meghan Crimmins	Mark Messina
+23	23	Meghan Crimmins	Alyson E. Mitchell
+23	23	Meghan Crimmins	Fang Fang Zhang
+23	23	Chelsey Fiecke	Ciarán G. Forde
+23	23	Chelsey Fiecke	Naomi K. Fukagawa
+23	23	Chelsey Fiecke	Kevin D. Hall
+23	23	Chelsey Fiecke	Bruce R. Hamaker
+23	23	Chelsey Fiecke	Kirsten Herrick
+23	23	Chelsey Fiecke	Julie Hess
+23	23	Chelsey Fiecke	Lise A.J. Heuven
+23	23	Chelsey Fiecke	Filippa Juul
+23	23	Chelsey Fiecke	Fiona C. Malcomson
+23	23	Chelsey Fiecke	Eurídice Martinez Steele
+23	23	Chelsey Fiecke	Richard D. Mattes
+23	23	Chelsey Fiecke	Mark Messina
+23	23	Chelsey Fiecke	Alyson E. Mitchell
+23	23	Chelsey Fiecke	Fang Fang Zhang
+23	23	Ciarán G. Forde	Naomi K. Fukagawa
+23	23	Ciarán G. Forde	Kevin D. Hall
+23	23	Ciarán G. Forde	Bruce R. Hamaker
+23	23	Ciarán G. Forde	Kirsten Herrick
+23	23	Ciarán G. Forde	Julie Hess
+23	23	Ciarán G. Forde	Lise A.J. Heuven
+23	23	Ciarán G. Forde	Filippa Juul
+23	23	Ciarán G. Forde	Fiona C. Malcomson
+23	23	Ciarán G. Forde	Eurídice Martinez Steele
+23	23	Ciarán G. Forde	Richard D. Mattes
+23	23	Ciarán G. Forde	Mark Messina
+23	23	Ciarán G. Forde	Alyson E. Mitchell
+23	23	Ciarán G. Forde	Fang Fang Zhang
+23	23	Naomi K. Fukagawa	Kevin D. Hall
+23	23	Naomi K. Fukagawa	Bruce R. Hamaker
+23	23	Naomi K. Fukagawa	Kirsten Herrick
+23	23	Naomi K. Fukagawa	Julie Hess
+23	23	Naomi K. Fukagawa	Lise A.J. Heuven
+23	23	Naomi K. Fukagawa	Filippa Juul
+23	23	Naomi K. Fukagawa	Fiona C. Malcomson
+23	23	Naomi K. Fukagawa	Eurídice Martinez Steele
+23	23	Naomi K. Fukagawa	Richard D. Mattes
+23	23	Naomi K. Fukagawa	Mark Messina
+23	23	Naomi K. Fukagawa	Alyson E. Mitchell
+23	23	Naomi K. Fukagawa	Fang Fang Zhang
+23	23	Kevin D. Hall	Bruce R. Hamaker
+23	23	Kevin D. Hall	Kirsten Herrick
+23	23	Kevin D. Hall	Julie Hess
+23	23	Kevin D. Hall	Lise A.J. Heuven
+23	23	Kevin D. Hall	Filippa Juul
+23	23	Kevin D. Hall	Fiona C. Malcomson
+23	23	Kevin D. Hall	Eurídice Martinez Steele
+23	23	Kevin D. Hall	Richard D. Mattes
+23	23	Kevin D. Hall	Mark Messina
+23	23	Kevin D. Hall	Alyson E. Mitchell
+23	23	Kevin D. Hall	Fang Fang Zhang
+23	23	Bruce R. Hamaker	Kirsten Herrick
+23	23	Bruce R. Hamaker	Julie Hess
+23	23	Bruce R. Hamaker	Lise A.J. Heuven
+23	23	Bruce R. Hamaker	Filippa Juul
+23	23	Bruce R. Hamaker	Fiona C. Malcomson
+23	23	Bruce R. Hamaker	Eurídice Martinez Steele
+23	23	Bruce R. Hamaker	Richard D. Mattes
+23	23	Bruce R. Hamaker	Mark Messina
+23	23	Bruce R. Hamaker	Alyson E. Mitchell
+23	23	Bruce R. Hamaker	Fang Fang Zhang
+23	23	Kirsten Herrick	Julie Hess
+23	23	Kirsten Herrick	Lise A.J. Heuven
+23	23	Kirsten Herrick	Filippa Juul
+23	23	Kirsten Herrick	Fiona C. Malcomson
+23	23	Kirsten Herrick	Eurídice Martinez Steele
+23	23	Kirsten Herrick	Richard D. Mattes
+23	23	Kirsten Herrick	Mark Messina
+23	23	Kirsten Herrick	Alyson E. Mitchell
+23	23	Kirsten Herrick	Fang Fang Zhang
+23	23	Julie Hess	Lise A.J. Heuven
+23	23	Julie Hess	Filippa Juul
+23	23	Julie Hess	Fiona C. Malcomson
+23	23	Julie Hess	Eurídice Martinez Steele
+23	23	Julie Hess	Richard D. Mattes
+23	23	Julie Hess	Mark Messina
+23	23	Julie Hess	Alyson E. Mitchell
+23	23	Julie Hess	Fang Fang Zhang
+23	23	Lise A.J. Heuven	Filippa Juul
+23	23	Lise A.J. Heuven	Fiona C. Malcomson
+23	23	Lise A.J. Heuven	Eurídice Martinez Steele
+23	23	Lise A.J. Heuven	Richard D. Mattes
+23	23	Lise A.J. Heuven	Mark Messina
+23	23	Lise A.J. Heuven	Alyson E. Mitchell
+23	23	Lise A.J. Heuven	Fang Fang Zhang
+23	23	Filippa Juul	Fiona C. Malcomson
+23	23	Filippa Juul	Eurídice Martinez Steele
+23	23	Filippa Juul	Richard D. Mattes
+23	23	Filippa Juul	Mark Messina
+23	23	Filippa Juul	Alyson E. Mitchell
+23	23	Filippa Juul	Fang Fang Zhang
+23	23	Fiona C. Malcomson	Eurídice Martinez Steele
+23	23	Fiona C. Malcomson	Richard D. Mattes
+23	23	Fiona C. Malcomson	Mark Messina
+23	23	Fiona C. Malcomson	Alyson E. Mitchell
+23	23	Fiona C. Malcomson	Fang Fang Zhang
+23	23	Eurídice Martinez Steele	Richard D. Mattes
+23	23	Eurídice Martinez Steele	Mark Messina
+23	23	Eurídice Martinez Steele	Alyson E. Mitchell
+23	23	Eurídice Martinez Steele	Fang Fang Zhang
+23	23	Richard D. Mattes	Mark Messina
+23	23	Richard D. Mattes	Alyson E. Mitchell
+23	23	Richard D. Mattes	Fang Fang Zhang
+23	23	Mark Messina	Alyson E. Mitchell
+23	23	Mark Messina	Fang Fang Zhang
+23	23	Alyson E. Mitchell	Fang Fang Zhang
+24	24	Naomi K. Fukagawa	Albert B. Schultz
+25	25	Naomi K. Fukagawa	K. L. Minaker
+25	25	Naomi K. Fukagawa	V. R. Young
+25	25	Naomi K. Fukagawa	Dwight E. Matthews
+25	25	Naomi K. Fukagawa	Dennis M. Bier
+25	25	Naomi K. Fukagawa	John W. Rowe
+25	25	K. L. Minaker	V. R. Young
+25	25	K. L. Minaker	Dwight E. Matthews
+25	25	K. L. Minaker	Dennis M. Bier
+25	25	K. L. Minaker	John W. Rowe
+25	25	V. R. Young	Dwight E. Matthews
+25	25	V. R. Young	Dennis M. Bier
+25	25	V. R. Young	John W. Rowe
+25	25	Dwight E. Matthews	Dennis M. Bier
+25	25	Dwight E. Matthews	John W. Rowe
+25	25	Dennis M. Bier	John W. Rowe
+26	26	Muyao Li	Naomi K. Fukagawa
+27	27	John M. Boltri	Howard Tracer
+27	27	John M. Boltri	David Strogatz
+27	27	John M. Boltri	Shannon Idzik
+27	27	John M. Boltri	Pat Schumacher
+27	27	John M. Boltri	Naomi K. Fukagawa
+27	27	John M. Boltri	Ellen Leake
+27	27	John M. Boltri	Clydette Powell
+27	27	John M. Boltri	Donald Shell
+27	27	John M. Boltri	Samuel S. Wu
+27	27	John M. Boltri	William H. Herman
+27	27	Howard Tracer	David Strogatz
+27	27	Howard Tracer	Shannon Idzik
+27	27	Howard Tracer	Pat Schumacher
+27	27	Howard Tracer	Naomi K. Fukagawa
+27	27	Howard Tracer	Ellen Leake
+27	27	Howard Tracer	Clydette Powell
+27	27	Howard Tracer	Donald Shell
+27	27	Howard Tracer	Samuel S. Wu
+27	27	Howard Tracer	William H. Herman
+27	27	David Strogatz	Shannon Idzik
+27	27	David Strogatz	Pat Schumacher
+27	27	David Strogatz	Naomi K. Fukagawa
+27	27	David Strogatz	Ellen Leake
+27	27	David Strogatz	Clydette Powell
+27	27	David Strogatz	Donald Shell
+27	27	David Strogatz	Samuel S. Wu
+27	27	David Strogatz	William H. Herman
+27	27	Shannon Idzik	Pat Schumacher
+27	27	Shannon Idzik	Naomi K. Fukagawa
+27	27	Shannon Idzik	Ellen Leake
+27	27	Shannon Idzik	Clydette Powell
+27	27	Shannon Idzik	Donald Shell
+27	27	Shannon Idzik	Samuel S. Wu
+27	27	Shannon Idzik	William H. Herman
+27	27	Pat Schumacher	Naomi K. Fukagawa
+27	27	Pat Schumacher	Ellen Leake
+27	27	Pat Schumacher	Clydette Powell
+27	27	Pat Schumacher	Donald Shell
+27	27	Pat Schumacher	Samuel S. Wu
+27	27	Pat Schumacher	William H. Herman
+27	27	Naomi K. Fukagawa	Ellen Leake
+27	27	Naomi K. Fukagawa	Clydette Powell
+27	27	Naomi K. Fukagawa	Donald Shell
+27	27	Naomi K. Fukagawa	Samuel S. Wu
+27	27	Naomi K. Fukagawa	William H. Herman
+27	27	Ellen Leake	Clydette Powell
+27	27	Ellen Leake	Donald Shell
+27	27	Ellen Leake	Samuel S. Wu
+27	27	Ellen Leake	William H. Herman
+27	27	Clydette Powell	Donald Shell
+27	27	Clydette Powell	Samuel S. Wu
+27	27	Clydette Powell	William H. Herman
+27	27	Donald Shell	Samuel S. Wu
+27	27	Donald Shell	William H. Herman
+27	27	Samuel S. Wu	William H. Herman
+28	28	Naomi K. Fukagawa	Julie Martin
+28	28	Naomi K. Fukagawa	Alexander Wurthmann
+28	28	Naomi K. Fukagawa	Amy H Prue
+28	28	Naomi K. Fukagawa	David B. Ebenstein
+28	28	Naomi K. Fukagawa	Bruce O’Rourke
+28	28	Julie Martin	Alexander Wurthmann
+28	28	Julie Martin	Amy H Prue
+28	28	Julie Martin	David B. Ebenstein
+28	28	Julie Martin	Bruce O’Rourke
+28	28	Alexander Wurthmann	Amy H Prue
+28	28	Alexander Wurthmann	David B. Ebenstein
+28	28	Alexander Wurthmann	Bruce O’Rourke
+28	28	Amy H Prue	David B. Ebenstein
+28	28	Amy H Prue	Bruce O’Rourke
+28	28	David B. Ebenstein	Bruce O’Rourke
+29	29	Michael J. MacCoss	Naomi K. Fukagawa
+29	29	Michael J. MacCoss	Dwight E. Matthews
+29	29	Naomi K. Fukagawa	Dwight E. Matthews
+30	30	AE El-Khoury	Naomi K. Fukagawa
+30	30	AE El-Khoury	Melchor Sánchez Mendiola
+30	30	AE El-Khoury	RH Tsay
+30	30	AE El-Khoury	R E Gleason
+30	30	AE El-Khoury	TE Chapman
+30	30	AE El-Khoury	VR Young
+30	30	Naomi K. Fukagawa	Melchor Sánchez Mendiola
+30	30	Naomi K. Fukagawa	RH Tsay
+30	30	Naomi K. Fukagawa	R E Gleason
+30	30	Naomi K. Fukagawa	TE Chapman
+30	30	Naomi K. Fukagawa	VR Young
+30	30	Melchor Sánchez Mendiola	RH Tsay
+30	30	Melchor Sánchez Mendiola	R E Gleason
+30	30	Melchor Sánchez Mendiola	TE Chapman
+30	30	Melchor Sánchez Mendiola	VR Young
+30	30	RH Tsay	R E Gleason
+30	30	RH Tsay	TE Chapman
+30	30	RH Tsay	VR Young
+30	30	R E Gleason	TE Chapman
+30	30	R E Gleason	VR Young
+30	30	TE Chapman	VR Young
+31	31	Naomi K. Fukagawa	A. M. Ajami
+31	31	Naomi K. Fukagawa	V. R. Young
+31	31	A. M. Ajami	V. R. Young
+32	32	Arti Shukla	Michael Jung
+32	32	Arti Shukla	Maria Stern
+32	32	Arti Shukla	Naomi K. Fukagawa
+32	32	Arti Shukla	Douglas J. Taatjes
+32	32	Arti Shukla	Dennis E. Sawyer
+32	32	Arti Shukla	Bennett Van Houten
+32	32	Arti Shukla	Brooke T. Mossman
+32	32	Michael Jung	Maria Stern
+32	32	Michael Jung	Naomi K. Fukagawa
+32	32	Michael Jung	Douglas J. Taatjes
+32	32	Michael Jung	Dennis E. Sawyer
+32	32	Michael Jung	Bennett Van Houten
+32	32	Michael Jung	Brooke T. Mossman
+32	32	Maria Stern	Naomi K. Fukagawa
+32	32	Maria Stern	Douglas J. Taatjes
+32	32	Maria Stern	Dennis E. Sawyer
+32	32	Maria Stern	Bennett Van Houten
+32	32	Maria Stern	Brooke T. Mossman
+32	32	Naomi K. Fukagawa	Douglas J. Taatjes
+32	32	Naomi K. Fukagawa	Dennis E. Sawyer
+32	32	Naomi K. Fukagawa	Bennett Van Houten
+32	32	Naomi K. Fukagawa	Brooke T. Mossman
+32	32	Douglas J. Taatjes	Dennis E. Sawyer
+32	32	Douglas J. Taatjes	Bennett Van Houten
+32	32	Douglas J. Taatjes	Brooke T. Mossman
+32	32	Dennis E. Sawyer	Bennett Van Houten
+32	32	Dennis E. Sawyer	Brooke T. Mossman
+32	32	Bennett Van Houten	Brooke T. Mossman
+34	34	C. Lawrence Kien	Karen Everingham
+34	34	C. Lawrence Kien	Robert Stevens
+34	34	C. Lawrence Kien	Naomi K. Fukagawa
+34	34	C. Lawrence Kien	Deborah M. Muoio
+34	34	Karen Everingham	Robert Stevens
+34	34	Karen Everingham	Naomi K. Fukagawa
+34	34	Karen Everingham	Deborah M. Muoio
+34	34	Robert Stevens	Naomi K. Fukagawa
+34	34	Robert Stevens	Deborah M. Muoio
+34	34	Naomi K. Fukagawa	Deborah M. Muoio
+35	35	Naomi K. Fukagawa	Muyao Li
+35	35	Naomi K. Fukagawa	Matthew E. Poynter
+35	35	Naomi K. Fukagawa	Brian C. Palmer
+35	35	Naomi K. Fukagawa	Erin Parker
+35	35	Naomi K. Fukagawa	John Kasumba
+35	35	Naomi K. Fukagawa	Britt A. Holmén
+35	35	Muyao Li	Matthew E. Poynter
+35	35	Muyao Li	Brian C. Palmer
+35	35	Muyao Li	Erin Parker
+35	35	Muyao Li	John Kasumba
+35	35	Muyao Li	Britt A. Holmén
+35	35	Matthew E. Poynter	Brian C. Palmer
+35	35	Matthew E. Poynter	Erin Parker
+35	35	Matthew E. Poynter	John Kasumba
+35	35	Matthew E. Poynter	Britt A. Holmén
+35	35	Brian C. Palmer	Erin Parker
+35	35	Brian C. Palmer	John Kasumba
+35	35	Brian C. Palmer	Britt A. Holmén
+35	35	Erin Parker	John Kasumba
+35	35	Erin Parker	Britt A. Holmén
+35	35	John Kasumba	Britt A. Holmén
+36	36	Dean Schillinger	Ann Bullock
+36	36	Dean Schillinger	Clydette Powell
+36	36	Dean Schillinger	Naomi K. Fukagawa
+36	36	Dean Schillinger	M. Carol Greenlee
+36	36	Dean Schillinger	Jana Towne
+36	36	Dean Schillinger	Jasmine D. Gonzalvo
+36	36	Dean Schillinger	Aaron M. Lopata
+36	36	Dean Schillinger	J. William Cook
+36	36	Dean Schillinger	William H. Herman
+36	36	Ann Bullock	Clydette Powell
+36	36	Ann Bullock	Naomi K. Fukagawa
+36	36	Ann Bullock	M. Carol Greenlee
+36	36	Ann Bullock	Jana Towne
+36	36	Ann Bullock	Jasmine D. Gonzalvo
+36	36	Ann Bullock	Aaron M. Lopata
+36	36	Ann Bullock	J. William Cook
+36	36	Ann Bullock	William H. Herman
+36	36	Clydette Powell	Naomi K. Fukagawa
+36	36	Clydette Powell	M. Carol Greenlee
+36	36	Clydette Powell	Jana Towne
+36	36	Clydette Powell	Jasmine D. Gonzalvo
+36	36	Clydette Powell	Aaron M. Lopata
+36	36	Clydette Powell	J. William Cook
+36	36	Clydette Powell	William H. Herman
+36	36	Naomi K. Fukagawa	M. Carol Greenlee
+36	36	Naomi K. Fukagawa	Jana Towne
+36	36	Naomi K. Fukagawa	Jasmine D. Gonzalvo
+36	36	Naomi K. Fukagawa	Aaron M. Lopata
+36	36	Naomi K. Fukagawa	J. William Cook
+36	36	Naomi K. Fukagawa	William H. Herman
+36	36	M. Carol Greenlee	Jana Towne
+36	36	M. Carol Greenlee	Jasmine D. Gonzalvo
+36	36	M. Carol Greenlee	Aaron M. Lopata
+36	36	M. Carol Greenlee	J. William Cook
+36	36	M. Carol Greenlee	William H. Herman
+36	36	Jana Towne	Jasmine D. Gonzalvo
+36	36	Jana Towne	Aaron M. Lopata
+36	36	Jana Towne	J. William Cook
+36	36	Jana Towne	William H. Herman
+36	36	Jasmine D. Gonzalvo	Aaron M. Lopata
+36	36	Jasmine D. Gonzalvo	J. William Cook
+36	36	Jasmine D. Gonzalvo	William H. Herman
+36	36	Aaron M. Lopata	J. William Cook
+36	36	Aaron M. Lopata	William H. Herman
+36	36	J. William Cook	William H. Herman
+37	37	San Wang	Rita Tsay
+37	37	San Wang	Dapeng Zhang
+37	37	San Wang	Daniel Ferreira da Cunha
+37	37	San Wang	Naomi K. Fukagawa
+37	37	Rita Tsay	Dapeng Zhang
+37	37	Rita Tsay	Daniel Ferreira da Cunha
+37	37	Rita Tsay	Naomi K. Fukagawa
+37	37	Dapeng Zhang	Daniel Ferreira da Cunha
+37	37	Dapeng Zhang	Naomi K. Fukagawa
+37	37	Daniel Ferreira da Cunha	Naomi K. Fukagawa
+38	38	AE El-Khoury	Melchor Sánchez Mendiola
+38	38	AE El-Khoury	Naomi K. Fukagawa
+38	38	AE El-Khoury	RE Gleason
+38	38	AE El-Khoury	RH Tsay
+38	38	AE El-Khoury	VR Young
+38	38	Melchor Sánchez Mendiola	Naomi K. Fukagawa
+38	38	Melchor Sánchez Mendiola	RE Gleason
+38	38	Melchor Sánchez Mendiola	RH Tsay
+38	38	Melchor Sánchez Mendiola	VR Young
+38	38	Naomi K. Fukagawa	RE Gleason
+38	38	Naomi K. Fukagawa	RH Tsay
+38	38	Naomi K. Fukagawa	VR Young
+38	38	RE Gleason	RH Tsay
+38	38	RE Gleason	VR Young
+38	38	RH Tsay	VR Young
+39	39	Naomi K. Fukagawa	Yong-Ming Yu
+39	39	Naomi K. Fukagawa	Vernon R. Young
+39	39	Yong-Ming Yu	Vernon R. Young
+40	40	San Y. Wang	Naomi K. Fukagawa
+40	40	San Y. Wang	Monir Hossain
+40	40	San Y. Wang	Wee Lock Ooi
+40	40	Naomi K. Fukagawa	Monir Hossain
+40	40	Naomi K. Fukagawa	Wee Lock Ooi
+40	40	Monir Hossain	Wee Lock Ooi
+41	41	Michael J. MacCoss	Naomi K. Fukagawa
+41	41	Michael J. MacCoss	Dwight E. Matthews
+41	41	Naomi K. Fukagawa	Dwight E. Matthews
+42	42	Michael Haisch	Naomi K. Fukagawa
+42	42	Michael Haisch	Dwight E. Matthews
+42	42	Naomi K. Fukagawa	Dwight E. Matthews
+43	43	Tatsuo Hiramatsu	Naomi K. Fukagawa
+43	43	Tatsuo Hiramatsu	Júlio Sérgio Marchini
+43	43	Tatsuo Hiramatsu	Joaquin Cortiella
+43	43	Tatsuo Hiramatsu	YM Yu
+43	43	Tatsuo Hiramatsu	TE Chapman
+43	43	Tatsuo Hiramatsu	VR Young
+43	43	Naomi K. Fukagawa	Júlio Sérgio Marchini
+43	43	Naomi K. Fukagawa	Joaquin Cortiella
+43	43	Naomi K. Fukagawa	YM Yu
+43	43	Naomi K. Fukagawa	TE Chapman
+43	43	Naomi K. Fukagawa	VR Young
+43	43	Júlio Sérgio Marchini	Joaquin Cortiella
+43	43	Júlio Sérgio Marchini	YM Yu
+43	43	Júlio Sérgio Marchini	TE Chapman
+43	43	Júlio Sérgio Marchini	VR Young
+43	43	Joaquin Cortiella	YM Yu
+43	43	Joaquin Cortiella	TE Chapman
+43	43	Joaquin Cortiella	VR Young
+43	43	YM Yu	TE Chapman
+43	43	YM Yu	VR Young
+43	43	TE Chapman	VR Young
+44	44	Muyao Li	Jen‐Fu Chiu
+44	44	Muyao Li	Jessica Gagne
+44	44	Muyao Li	Naomi K. Fukagawa
+44	44	Jen‐Fu Chiu	Jessica Gagne
+44	44	Jen‐Fu Chiu	Naomi K. Fukagawa
+44	44	Jessica Gagne	Naomi K. Fukagawa
+46	46	C. Lawrence Kien	Janice Y. Bunn
+46	46	C. Lawrence Kien	Naomi K. Fukagawa
+46	46	C. Lawrence Kien	Vikas Anathy
+46	46	C. Lawrence Kien	Dwight E. Matthews
+46	46	C. Lawrence Kien	Karen I. Crain
+46	46	C. Lawrence Kien	David B. Ebenstein
+46	46	C. Lawrence Kien	Emily K. Tarleton
+46	46	C. Lawrence Kien	Richard E. Pratley
+46	46	C. Lawrence Kien	Matthew E. Poynter
+46	46	Janice Y. Bunn	Naomi K. Fukagawa
+46	46	Janice Y. Bunn	Vikas Anathy
+46	46	Janice Y. Bunn	Dwight E. Matthews
+46	46	Janice Y. Bunn	Karen I. Crain
+46	46	Janice Y. Bunn	David B. Ebenstein
+46	46	Janice Y. Bunn	Emily K. Tarleton
+46	46	Janice Y. Bunn	Richard E. Pratley
+46	46	Janice Y. Bunn	Matthew E. Poynter
+46	46	Naomi K. Fukagawa	Vikas Anathy
+46	46	Naomi K. Fukagawa	Dwight E. Matthews
+46	46	Naomi K. Fukagawa	Karen I. Crain
+46	46	Naomi K. Fukagawa	David B. Ebenstein
+46	46	Naomi K. Fukagawa	Emily K. Tarleton
+46	46	Naomi K. Fukagawa	Richard E. Pratley
+46	46	Naomi K. Fukagawa	Matthew E. Poynter
+46	46	Vikas Anathy	Dwight E. Matthews
+46	46	Vikas Anathy	Karen I. Crain
+46	46	Vikas Anathy	David B. Ebenstein
+46	46	Vikas Anathy	Emily K. Tarleton
+46	46	Vikas Anathy	Richard E. Pratley
+46	46	Vikas Anathy	Matthew E. Poynter
+46	46	Dwight E. Matthews	Karen I. Crain
+46	46	Dwight E. Matthews	David B. Ebenstein
+46	46	Dwight E. Matthews	Emily K. Tarleton
+46	46	Dwight E. Matthews	Richard E. Pratley
+46	46	Dwight E. Matthews	Matthew E. Poynter
+46	46	Karen I. Crain	David B. Ebenstein
+46	46	Karen I. Crain	Emily K. Tarleton
+46	46	Karen I. Crain	Richard E. Pratley
+46	46	Karen I. Crain	Matthew E. Poynter
+46	46	David B. Ebenstein	Emily K. Tarleton
+46	46	David B. Ebenstein	Richard E. Pratley
+46	46	David B. Ebenstein	Matthew E. Poynter
+46	46	Emily K. Tarleton	Richard E. Pratley
+46	46	Emily K. Tarleton	Matthew E. Poynter
+46	46	Richard E. Pratley	Matthew E. Poynter
+47	47	William H. Herman	Dean Schillinger
+47	47	William H. Herman	Shari Bolen
+47	47	William H. Herman	John M. Boltri
+47	47	William H. Herman	Ann Bullock
+47	47	William H. Herman	William H Chong
+47	47	William H. Herman	Paul R. Conlin
+47	47	William H. Herman	J. William Cook
+47	47	William H. Herman	Ayotunde O. Dokun
+47	47	William H. Herman	Naomi K. Fukagawa
+47	47	William H. Herman	Jasmine D. Gonzalvo
+47	47	William H. Herman	M. Carol Greenlee
+47	47	William H. Herman	Meredith Hawkins
+47	47	William H. Herman	Shannon Idzik
+47	47	William H. Herman	Ellen Leake
+47	47	William H. Herman	Barbara Linder
+47	47	William H. Herman	Aaron M. Lopata
+47	47	William H. Herman	Pat Schumacher
+47	47	William H. Herman	Donald Shell
+47	47	William H. Herman	David Strogatz
+47	47	William H. Herman	Jana Towne
+47	47	William H. Herman	Howard Tracer
+47	47	William H. Herman	Samuel S. Wu
+47	47	Dean Schillinger	Shari Bolen
+47	47	Dean Schillinger	John M. Boltri
+47	47	Dean Schillinger	Ann Bullock
+47	47	Dean Schillinger	William H Chong
+47	47	Dean Schillinger	Paul R. Conlin
+47	47	Dean Schillinger	J. William Cook
+47	47	Dean Schillinger	Ayotunde O. Dokun
+47	47	Dean Schillinger	Naomi K. Fukagawa
+47	47	Dean Schillinger	Jasmine D. Gonzalvo
+47	47	Dean Schillinger	M. Carol Greenlee
+47	47	Dean Schillinger	Meredith Hawkins
+47	47	Dean Schillinger	Shannon Idzik
+47	47	Dean Schillinger	Ellen Leake
+47	47	Dean Schillinger	Barbara Linder
+47	47	Dean Schillinger	Aaron M. Lopata
+47	47	Dean Schillinger	Pat Schumacher
+47	47	Dean Schillinger	Donald Shell
+47	47	Dean Schillinger	David Strogatz
+47	47	Dean Schillinger	Jana Towne
+47	47	Dean Schillinger	Howard Tracer
+47	47	Dean Schillinger	Samuel S. Wu
+47	47	Shari Bolen	John M. Boltri
+47	47	Shari Bolen	Ann Bullock
+47	47	Shari Bolen	William H Chong
+47	47	Shari Bolen	Paul R. Conlin
+47	47	Shari Bolen	J. William Cook
+47	47	Shari Bolen	Ayotunde O. Dokun
+47	47	Shari Bolen	Naomi K. Fukagawa
+47	47	Shari Bolen	Jasmine D. Gonzalvo
+47	47	Shari Bolen	M. Carol Greenlee
+47	47	Shari Bolen	Meredith Hawkins
+47	47	Shari Bolen	Shannon Idzik
+47	47	Shari Bolen	Ellen Leake
+47	47	Shari Bolen	Barbara Linder
+47	47	Shari Bolen	Aaron M. Lopata
+47	47	Shari Bolen	Pat Schumacher
+47	47	Shari Bolen	Donald Shell
+47	47	Shari Bolen	David Strogatz
+47	47	Shari Bolen	Jana Towne
+47	47	Shari Bolen	Howard Tracer
+47	47	Shari Bolen	Samuel S. Wu
+47	47	John M. Boltri	Ann Bullock
+47	47	John M. Boltri	William H Chong
+47	47	John M. Boltri	Paul R. Conlin
+47	47	John M. Boltri	J. William Cook
+47	47	John M. Boltri	Ayotunde O. Dokun
+47	47	John M. Boltri	Naomi K. Fukagawa
+47	47	John M. Boltri	Jasmine D. Gonzalvo
+47	47	John M. Boltri	M. Carol Greenlee
+47	47	John M. Boltri	Meredith Hawkins
+47	47	John M. Boltri	Shannon Idzik
+47	47	John M. Boltri	Ellen Leake
+47	47	John M. Boltri	Barbara Linder
+47	47	John M. Boltri	Aaron M. Lopata
+47	47	John M. Boltri	Pat Schumacher
+47	47	John M. Boltri	Donald Shell
+47	47	John M. Boltri	David Strogatz
+47	47	John M. Boltri	Jana Towne
+47	47	John M. Boltri	Howard Tracer
+47	47	John M. Boltri	Samuel S. Wu
+47	47	Ann Bullock	William H Chong
+47	47	Ann Bullock	Paul R. Conlin
+47	47	Ann Bullock	J. William Cook
+47	47	Ann Bullock	Ayotunde O. Dokun
+47	47	Ann Bullock	Naomi K. Fukagawa
+47	47	Ann Bullock	Jasmine D. Gonzalvo
+47	47	Ann Bullock	M. Carol Greenlee
+47	47	Ann Bullock	Meredith Hawkins
+47	47	Ann Bullock	Shannon Idzik
+47	47	Ann Bullock	Ellen Leake
+47	47	Ann Bullock	Barbara Linder
+47	47	Ann Bullock	Aaron M. Lopata
+47	47	Ann Bullock	Pat Schumacher
+47	47	Ann Bullock	Donald Shell
+47	47	Ann Bullock	David Strogatz
+47	47	Ann Bullock	Jana Towne
+47	47	Ann Bullock	Howard Tracer
+47	47	Ann Bullock	Samuel S. Wu
+47	47	William H Chong	Paul R. Conlin
+47	47	William H Chong	J. William Cook
+47	47	William H Chong	Ayotunde O. Dokun
+47	47	William H Chong	Naomi K. Fukagawa
+47	47	William H Chong	Jasmine D. Gonzalvo
+47	47	William H Chong	M. Carol Greenlee
+47	47	William H Chong	Meredith Hawkins
+47	47	William H Chong	Shannon Idzik
+47	47	William H Chong	Ellen Leake
+47	47	William H Chong	Barbara Linder
+47	47	William H Chong	Aaron M. Lopata
+47	47	William H Chong	Pat Schumacher
+47	47	William H Chong	Donald Shell
+47	47	William H Chong	David Strogatz
+47	47	William H Chong	Jana Towne
+47	47	William H Chong	Howard Tracer
+47	47	William H Chong	Samuel S. Wu
+47	47	Paul R. Conlin	J. William Cook
+47	47	Paul R. Conlin	Ayotunde O. Dokun
+47	47	Paul R. Conlin	Naomi K. Fukagawa
+47	47	Paul R. Conlin	Jasmine D. Gonzalvo
+47	47	Paul R. Conlin	M. Carol Greenlee
+47	47	Paul R. Conlin	Meredith Hawkins
+47	47	Paul R. Conlin	Shannon Idzik
+47	47	Paul R. Conlin	Ellen Leake
+47	47	Paul R. Conlin	Barbara Linder
+47	47	Paul R. Conlin	Aaron M. Lopata
+47	47	Paul R. Conlin	Pat Schumacher
+47	47	Paul R. Conlin	Donald Shell
+47	47	Paul R. Conlin	David Strogatz
+47	47	Paul R. Conlin	Jana Towne
+47	47	Paul R. Conlin	Howard Tracer
+47	47	Paul R. Conlin	Samuel S. Wu
+47	47	J. William Cook	Ayotunde O. Dokun
+47	47	J. William Cook	Naomi K. Fukagawa
+47	47	J. William Cook	Jasmine D. Gonzalvo
+47	47	J. William Cook	M. Carol Greenlee
+47	47	J. William Cook	Meredith Hawkins
+47	47	J. William Cook	Shannon Idzik
+47	47	J. William Cook	Ellen Leake
+47	47	J. William Cook	Barbara Linder
+47	47	J. William Cook	Aaron M. Lopata
+47	47	J. William Cook	Pat Schumacher
+47	47	J. William Cook	Donald Shell
+47	47	J. William Cook	David Strogatz
+47	47	J. William Cook	Jana Towne
+47	47	J. William Cook	Howard Tracer
+47	47	J. William Cook	Samuel S. Wu
+47	47	Ayotunde O. Dokun	Naomi K. Fukagawa
+47	47	Ayotunde O. Dokun	Jasmine D. Gonzalvo
+47	47	Ayotunde O. Dokun	M. Carol Greenlee
+47	47	Ayotunde O. Dokun	Meredith Hawkins
+47	47	Ayotunde O. Dokun	Shannon Idzik
+47	47	Ayotunde O. Dokun	Ellen Leake
+47	47	Ayotunde O. Dokun	Barbara Linder
+47	47	Ayotunde O. Dokun	Aaron M. Lopata
+47	47	Ayotunde O. Dokun	Pat Schumacher
+47	47	Ayotunde O. Dokun	Donald Shell
+47	47	Ayotunde O. Dokun	David Strogatz
+47	47	Ayotunde O. Dokun	Jana Towne
+47	47	Ayotunde O. Dokun	Howard Tracer
+47	47	Ayotunde O. Dokun	Samuel S. Wu
+47	47	Naomi K. Fukagawa	Jasmine D. Gonzalvo
+47	47	Naomi K. Fukagawa	M. Carol Greenlee
+47	47	Naomi K. Fukagawa	Meredith Hawkins
+47	47	Naomi K. Fukagawa	Shannon Idzik
+47	47	Naomi K. Fukagawa	Ellen Leake
+47	47	Naomi K. Fukagawa	Barbara Linder
+47	47	Naomi K. Fukagawa	Aaron M. Lopata
+47	47	Naomi K. Fukagawa	Pat Schumacher
+47	47	Naomi K. Fukagawa	Donald Shell
+47	47	Naomi K. Fukagawa	David Strogatz
+47	47	Naomi K. Fukagawa	Jana Towne
+47	47	Naomi K. Fukagawa	Howard Tracer
+47	47	Naomi K. Fukagawa	Samuel S. Wu
+47	47	Jasmine D. Gonzalvo	M. Carol Greenlee
+47	47	Jasmine D. Gonzalvo	Meredith Hawkins
+47	47	Jasmine D. Gonzalvo	Shannon Idzik
+47	47	Jasmine D. Gonzalvo	Ellen Leake
+47	47	Jasmine D. Gonzalvo	Barbara Linder
+47	47	Jasmine D. Gonzalvo	Aaron M. Lopata
+47	47	Jasmine D. Gonzalvo	Pat Schumacher
+47	47	Jasmine D. Gonzalvo	Donald Shell
+47	47	Jasmine D. Gonzalvo	David Strogatz
+47	47	Jasmine D. Gonzalvo	Jana Towne
+47	47	Jasmine D. Gonzalvo	Howard Tracer
+47	47	Jasmine D. Gonzalvo	Samuel S. Wu
+47	47	M. Carol Greenlee	Meredith Hawkins
+47	47	M. Carol Greenlee	Shannon Idzik
+47	47	M. Carol Greenlee	Ellen Leake
+47	47	M. Carol Greenlee	Barbara Linder
+47	47	M. Carol Greenlee	Aaron M. Lopata
+47	47	M. Carol Greenlee	Pat Schumacher
+47	47	M. Carol Greenlee	Donald Shell
+47	47	M. Carol Greenlee	David Strogatz
+47	47	M. Carol Greenlee	Jana Towne
+47	47	M. Carol Greenlee	Howard Tracer
+47	47	M. Carol Greenlee	Samuel S. Wu
+47	47	Meredith Hawkins	Shannon Idzik
+47	47	Meredith Hawkins	Ellen Leake
+47	47	Meredith Hawkins	Barbara Linder
+47	47	Meredith Hawkins	Aaron M. Lopata
+47	47	Meredith Hawkins	Pat Schumacher
+47	47	Meredith Hawkins	Donald Shell
+47	47	Meredith Hawkins	David Strogatz
+47	47	Meredith Hawkins	Jana Towne
+47	47	Meredith Hawkins	Howard Tracer
+47	47	Meredith Hawkins	Samuel S. Wu
+47	47	Shannon Idzik	Ellen Leake
+47	47	Shannon Idzik	Barbara Linder
+47	47	Shannon Idzik	Aaron M. Lopata
+47	47	Shannon Idzik	Pat Schumacher
+47	47	Shannon Idzik	Donald Shell
+47	47	Shannon Idzik	David Strogatz
+47	47	Shannon Idzik	Jana Towne
+47	47	Shannon Idzik	Howard Tracer
+47	47	Shannon Idzik	Samuel S. Wu
+47	47	Ellen Leake	Barbara Linder
+47	47	Ellen Leake	Aaron M. Lopata
+47	47	Ellen Leake	Pat Schumacher
+47	47	Ellen Leake	Donald Shell
+47	47	Ellen Leake	David Strogatz
+47	47	Ellen Leake	Jana Towne
+47	47	Ellen Leake	Howard Tracer
+47	47	Ellen Leake	Samuel S. Wu
+47	47	Barbara Linder	Aaron M. Lopata
+47	47	Barbara Linder	Pat Schumacher
+47	47	Barbara Linder	Donald Shell
+47	47	Barbara Linder	David Strogatz
+47	47	Barbara Linder	Jana Towne
+47	47	Barbara Linder	Howard Tracer
+47	47	Barbara Linder	Samuel S. Wu
+47	47	Aaron M. Lopata	Pat Schumacher
+47	47	Aaron M. Lopata	Donald Shell
+47	47	Aaron M. Lopata	David Strogatz
+47	47	Aaron M. Lopata	Jana Towne
+47	47	Aaron M. Lopata	Howard Tracer
+47	47	Aaron M. Lopata	Samuel S. Wu
+47	47	Pat Schumacher	Donald Shell
+47	47	Pat Schumacher	David Strogatz
+47	47	Pat Schumacher	Jana Towne
+47	47	Pat Schumacher	Howard Tracer
+47	47	Pat Schumacher	Samuel S. Wu
+47	47	Donald Shell	David Strogatz
+47	47	Donald Shell	Jana Towne
+47	47	Donald Shell	Howard Tracer
+47	47	Donald Shell	Samuel S. Wu
+47	47	David Strogatz	Jana Towne
+47	47	David Strogatz	Howard Tracer
+47	47	David Strogatz	Samuel S. Wu
+47	47	Jana Towne	Howard Tracer
+47	47	Jana Towne	Samuel S. Wu
+47	47	Howard Tracer	Samuel S. Wu
+48	48	Yu Ishibashi	Takashi Itoh
+48	48	Yu Ishibashi	Yasuko Oguri
+48	48	Yu Ishibashi	Miki Hashimura
+48	48	Yu Ishibashi	Ako Yokoi
+48	48	Yu Ishibashi	Toshihide Matsumoto
+48	48	Yu Ishibashi	Yohei Harada
+48	48	Yu Ishibashi	Naomi K. Fukagawa
+48	48	Yu Ishibashi	Misato Hayashi
+48	48	Yu Ishibashi	Mototsugu Ono
+48	48	Yu Ishibashi	Chika Kusano
+48	48	Yu Ishibashi	Makoto Saegusa
+48	48	Takashi Itoh	Yasuko Oguri
+48	48	Takashi Itoh	Miki Hashimura
+48	48	Takashi Itoh	Ako Yokoi
+48	48	Takashi Itoh	Toshihide Matsumoto
+48	48	Takashi Itoh	Yohei Harada
+48	48	Takashi Itoh	Naomi K. Fukagawa
+48	48	Takashi Itoh	Misato Hayashi
+48	48	Takashi Itoh	Mototsugu Ono
+48	48	Takashi Itoh	Chika Kusano
+48	48	Takashi Itoh	Makoto Saegusa
+48	48	Yasuko Oguri	Miki Hashimura
+48	48	Yasuko Oguri	Ako Yokoi
+48	48	Yasuko Oguri	Toshihide Matsumoto
+48	48	Yasuko Oguri	Yohei Harada
+48	48	Yasuko Oguri	Naomi K. Fukagawa
+48	48	Yasuko Oguri	Misato Hayashi
+48	48	Yasuko Oguri	Mototsugu Ono
+48	48	Yasuko Oguri	Chika Kusano
+48	48	Yasuko Oguri	Makoto Saegusa
+48	48	Miki Hashimura	Ako Yokoi
+48	48	Miki Hashimura	Toshihide Matsumoto
+48	48	Miki Hashimura	Yohei Harada
+48	48	Miki Hashimura	Naomi K. Fukagawa
+48	48	Miki Hashimura	Misato Hayashi
+48	48	Miki Hashimura	Mototsugu Ono
+48	48	Miki Hashimura	Chika Kusano
+48	48	Miki Hashimura	Makoto Saegusa
+48	48	Ako Yokoi	Toshihide Matsumoto
+48	48	Ako Yokoi	Yohei Harada
+48	48	Ako Yokoi	Naomi K. Fukagawa
+48	48	Ako Yokoi	Misato Hayashi
+48	48	Ako Yokoi	Mototsugu Ono
+48	48	Ako Yokoi	Chika Kusano
+48	48	Ako Yokoi	Makoto Saegusa
+48	48	Toshihide Matsumoto	Yohei Harada
+48	48	Toshihide Matsumoto	Naomi K. Fukagawa
+48	48	Toshihide Matsumoto	Misato Hayashi
+48	48	Toshihide Matsumoto	Mototsugu Ono
+48	48	Toshihide Matsumoto	Chika Kusano
+48	48	Toshihide Matsumoto	Makoto Saegusa
+48	48	Yohei Harada	Naomi K. Fukagawa
+48	48	Yohei Harada	Misato Hayashi
+48	48	Yohei Harada	Mototsugu Ono
+48	48	Yohei Harada	Chika Kusano
+48	48	Yohei Harada	Makoto Saegusa
+48	48	Naomi K. Fukagawa	Misato Hayashi
+48	48	Naomi K. Fukagawa	Mototsugu Ono
+48	48	Naomi K. Fukagawa	Chika Kusano
+48	48	Naomi K. Fukagawa	Makoto Saegusa
+48	48	Misato Hayashi	Mototsugu Ono
+48	48	Misato Hayashi	Chika Kusano
+48	48	Misato Hayashi	Makoto Saegusa
+48	48	Mototsugu Ono	Chika Kusano
+48	48	Mototsugu Ono	Makoto Saegusa
+48	48	Chika Kusano	Makoto Saegusa
+49	49	Ping Liang	Virginia Hughes
+49	49	Ping Liang	Naomi K. Fukagawa
+49	49	Virginia Hughes	Naomi K. Fukagawa
+50	50	Naomi K. Fukagawa	Éric T. Poehlman
+50	50	Naomi K. Fukagawa	Michael J. Toth
+50	50	Naomi K. Fukagawa	Paul S. Fishman
+50	50	Naomi K. Fukagawa	Peter Vaitkevicius
+50	50	Naomi K. Fukagawa	S. S. Gottlieb
+50	50	Naomi K. Fukagawa	Michael L. Fisher
+50	50	Naomi K. Fukagawa	Tekum Fonong
+50	50	Éric T. Poehlman	Michael J. Toth
+50	50	Éric T. Poehlman	Paul S. Fishman
+50	50	Éric T. Poehlman	Peter Vaitkevicius
+50	50	Éric T. Poehlman	S. S. Gottlieb
+50	50	Éric T. Poehlman	Michael L. Fisher
+50	50	Éric T. Poehlman	Tekum Fonong
+50	50	Michael J. Toth	Paul S. Fishman
+50	50	Michael J. Toth	Peter Vaitkevicius
+50	50	Michael J. Toth	S. S. Gottlieb
+50	50	Michael J. Toth	Michael L. Fisher
+50	50	Michael J. Toth	Tekum Fonong
+50	50	Paul S. Fishman	Peter Vaitkevicius
+50	50	Paul S. Fishman	S. S. Gottlieb
+50	50	Paul S. Fishman	Michael L. Fisher
+50	50	Paul S. Fishman	Tekum Fonong
+50	50	Peter Vaitkevicius	S. S. Gottlieb
+50	50	Peter Vaitkevicius	Michael L. Fisher
+50	50	Peter Vaitkevicius	Tekum Fonong
+50	50	S. S. Gottlieb	Michael L. Fisher
+50	50	S. S. Gottlieb	Tekum Fonong
+50	50	Michael L. Fisher	Tekum Fonong
+51	51	Naomi K. Fukagawa	Muyao Li
+51	51	Naomi K. Fukagawa	Ping Liang
+51	51	Naomi K. Fukagawa	James C. Russell
+51	51	Naomi K. Fukagawa	Burton E. Sobel
+51	51	Naomi K. Fukagawa	P. Marlene Absher
+51	51	Muyao Li	Ping Liang
+51	51	Muyao Li	James C. Russell
+51	51	Muyao Li	Burton E. Sobel
+51	51	Muyao Li	P. Marlene Absher
+51	51	Ping Liang	James C. Russell
+51	51	Ping Liang	Burton E. Sobel
+51	51	Ping Liang	P. Marlene Absher
+51	51	James C. Russell	Burton E. Sobel
+51	51	James C. Russell	P. Marlene Absher
+51	51	Burton E. Sobel	P. Marlene Absher
+52	52	Naomi K. Fukagawa	W. Larry Kenney
+52	52	Naomi K. Fukagawa	E. R. Buskirk
+52	52	W. Larry Kenney	E. R. Buskirk
+53	53	Naomi K. Fukagawa	W. M. Kohrt
+53	53	Naomi K. Fukagawa	J. O. Holloszy
+53	53	W. M. Kohrt	J. O. Holloszy
+54	54	Dariush Elahi	M. McAloon-Dyke
+54	54	Dariush Elahi	Naomi K. Fukagawa
+54	54	Dariush Elahi	Anne Sclater
+54	54	Dariush Elahi	Gail A. Wong
+54	54	Dariush Elahi	Richard P. Shannon
+54	54	Dariush Elahi	K. L. Minaker
+54	54	Dariush Elahi	John J. Miles
+54	54	Dariush Elahi	A. H. Rubenstein
+54	54	Dariush Elahi	C. Vandepol
+54	54	Dariush Elahi	al. et
+54	54	M. McAloon-Dyke	Naomi K. Fukagawa
+54	54	M. McAloon-Dyke	Anne Sclater
+54	54	M. McAloon-Dyke	Gail A. Wong
+54	54	M. McAloon-Dyke	Richard P. Shannon
+54	54	M. McAloon-Dyke	K. L. Minaker
+54	54	M. McAloon-Dyke	John J. Miles
+54	54	M. McAloon-Dyke	A. H. Rubenstein
+54	54	M. McAloon-Dyke	C. Vandepol
+54	54	M. McAloon-Dyke	al. et
+54	54	Naomi K. Fukagawa	Anne Sclater
+54	54	Naomi K. Fukagawa	Gail A. Wong
+54	54	Naomi K. Fukagawa	Richard P. Shannon
+54	54	Naomi K. Fukagawa	K. L. Minaker
+54	54	Naomi K. Fukagawa	John J. Miles
+54	54	Naomi K. Fukagawa	A. H. Rubenstein
+54	54	Naomi K. Fukagawa	C. Vandepol
+54	54	Naomi K. Fukagawa	al. et
+54	54	Anne Sclater	Gail A. Wong
+54	54	Anne Sclater	Richard P. Shannon
+54	54	Anne Sclater	K. L. Minaker
+54	54	Anne Sclater	John J. Miles
+54	54	Anne Sclater	A. H. Rubenstein
+54	54	Anne Sclater	C. Vandepol
+54	54	Anne Sclater	al. et
+54	54	Gail A. Wong	Richard P. Shannon
+54	54	Gail A. Wong	K. L. Minaker
+54	54	Gail A. Wong	John J. Miles
+54	54	Gail A. Wong	A. H. Rubenstein
+54	54	Gail A. Wong	C. Vandepol
+54	54	Gail A. Wong	al. et
+54	54	Richard P. Shannon	K. L. Minaker
+54	54	Richard P. Shannon	John J. Miles
+54	54	Richard P. Shannon	A. H. Rubenstein
+54	54	Richard P. Shannon	C. Vandepol
+54	54	Richard P. Shannon	al. et
+54	54	K. L. Minaker	John J. Miles
+54	54	K. L. Minaker	A. H. Rubenstein
+54	54	K. L. Minaker	C. Vandepol
+54	54	K. L. Minaker	al. et
+54	54	John J. Miles	A. H. Rubenstein
+54	54	John J. Miles	C. Vandepol
+54	54	John J. Miles	al. et
+54	54	A. H. Rubenstein	C. Vandepol
+54	54	A. H. Rubenstein	al. et
+54	54	C. Vandepol	al. et
+55	55	Naomi K. Fukagawa	Kenneth L. Minaker
+55	55	Naomi K. Fukagawa	John W. Rowe
+55	55	Naomi K. Fukagawa	Dwight E. Matthews
+55	55	Naomi K. Fukagawa	Dennis M. Bier
+55	55	Naomi K. Fukagawa	Vernon R. Young
+55	55	Kenneth L. Minaker	John W. Rowe
+55	55	Kenneth L. Minaker	Dwight E. Matthews
+55	55	Kenneth L. Minaker	Dennis M. Bier
+55	55	Kenneth L. Minaker	Vernon R. Young
+55	55	John W. Rowe	Dwight E. Matthews
+55	55	John W. Rowe	Dennis M. Bier
+55	55	John W. Rowe	Vernon R. Young
+55	55	Dwight E. Matthews	Dennis M. Bier
+55	55	Dwight E. Matthews	Vernon R. Young
+55	55	Dennis M. Bier	Vernon R. Young
+58	58	Kyle McKillop	James M. Harnly
+58	58	Kyle McKillop	Pamela Pehrsson
+58	58	Kyle McKillop	Naomi K. Fukagawa
+58	58	Kyle McKillop	John W. Finley
+58	58	James M. Harnly	Pamela Pehrsson
+58	58	James M. Harnly	Naomi K. Fukagawa
+58	58	James M. Harnly	John W. Finley
+58	58	Pamela Pehrsson	Naomi K. Fukagawa
+58	58	Pamela Pehrsson	John W. Finley
+58	58	Naomi K. Fukagawa	John W. Finley
+59	59	Mayu Nakagawa	Toshihide Matsumoto
+59	59	Mayu Nakagawa	Ako Yokoi
+59	59	Mayu Nakagawa	Miki Hashimura
+59	59	Mayu Nakagawa	Yasuko Oguri
+59	59	Mayu Nakagawa	Ryo Konno
+59	59	Mayu Nakagawa	Yu Ishibashi
+59	59	Mayu Nakagawa	Takashi Ito
+59	59	Mayu Nakagawa	Kensuke Ohhigata
+59	59	Mayu Nakagawa	Yohei Harada
+59	59	Mayu Nakagawa	Naomi K. Fukagawa
+59	59	Mayu Nakagawa	Yoshio Kodera
+59	59	Mayu Nakagawa	Makoto Saegusa
+59	59	Toshihide Matsumoto	Ako Yokoi
+59	59	Toshihide Matsumoto	Miki Hashimura
+59	59	Toshihide Matsumoto	Yasuko Oguri
+59	59	Toshihide Matsumoto	Ryo Konno
+59	59	Toshihide Matsumoto	Yu Ishibashi
+59	59	Toshihide Matsumoto	Takashi Ito
+59	59	Toshihide Matsumoto	Kensuke Ohhigata
+59	59	Toshihide Matsumoto	Yohei Harada
+59	59	Toshihide Matsumoto	Naomi K. Fukagawa
+59	59	Toshihide Matsumoto	Yoshio Kodera
+59	59	Toshihide Matsumoto	Makoto Saegusa
+59	59	Ako Yokoi	Miki Hashimura
+59	59	Ako Yokoi	Yasuko Oguri
+59	59	Ako Yokoi	Ryo Konno
+59	59	Ako Yokoi	Yu Ishibashi
+59	59	Ako Yokoi	Takashi Ito
+59	59	Ako Yokoi	Kensuke Ohhigata
+59	59	Ako Yokoi	Yohei Harada
+59	59	Ako Yokoi	Naomi K. Fukagawa
+59	59	Ako Yokoi	Yoshio Kodera
+59	59	Ako Yokoi	Makoto Saegusa
+59	59	Miki Hashimura	Yasuko Oguri
+59	59	Miki Hashimura	Ryo Konno
+59	59	Miki Hashimura	Yu Ishibashi
+59	59	Miki Hashimura	Takashi Ito
+59	59	Miki Hashimura	Kensuke Ohhigata
+59	59	Miki Hashimura	Yohei Harada
+59	59	Miki Hashimura	Naomi K. Fukagawa
+59	59	Miki Hashimura	Yoshio Kodera
+59	59	Miki Hashimura	Makoto Saegusa
+59	59	Yasuko Oguri	Ryo Konno
+59	59	Yasuko Oguri	Yu Ishibashi
+59	59	Yasuko Oguri	Takashi Ito
+59	59	Yasuko Oguri	Kensuke Ohhigata
+59	59	Yasuko Oguri	Yohei Harada
+59	59	Yasuko Oguri	Naomi K. Fukagawa
+59	59	Yasuko Oguri	Yoshio Kodera
+59	59	Yasuko Oguri	Makoto Saegusa
+59	59	Ryo Konno	Yu Ishibashi
+59	59	Ryo Konno	Takashi Ito
+59	59	Ryo Konno	Kensuke Ohhigata
+59	59	Ryo Konno	Yohei Harada
+59	59	Ryo Konno	Naomi K. Fukagawa
+59	59	Ryo Konno	Yoshio Kodera
+59	59	Ryo Konno	Makoto Saegusa
+59	59	Yu Ishibashi	Takashi Ito
+59	59	Yu Ishibashi	Kensuke Ohhigata
+59	59	Yu Ishibashi	Yohei Harada
+59	59	Yu Ishibashi	Naomi K. Fukagawa
+59	59	Yu Ishibashi	Yoshio Kodera
+59	59	Yu Ishibashi	Makoto Saegusa
+59	59	Takashi Ito	Kensuke Ohhigata
+59	59	Takashi Ito	Yohei Harada
+59	59	Takashi Ito	Naomi K. Fukagawa
+59	59	Takashi Ito	Yoshio Kodera
+59	59	Takashi Ito	Makoto Saegusa
+59	59	Kensuke Ohhigata	Yohei Harada
+59	59	Kensuke Ohhigata	Naomi K. Fukagawa
+59	59	Kensuke Ohhigata	Yoshio Kodera
+59	59	Kensuke Ohhigata	Makoto Saegusa
+59	59	Yohei Harada	Naomi K. Fukagawa
+59	59	Yohei Harada	Yoshio Kodera
+59	59	Yohei Harada	Makoto Saegusa
+59	59	Naomi K. Fukagawa	Yoshio Kodera
+59	59	Naomi K. Fukagawa	Makoto Saegusa
+59	59	Yoshio Kodera	Makoto Saegusa
+60	60	Muyao Li	Jen‐Fu Chiu
+60	60	Muyao Li	Anne Kelsen
+60	60	Muyao Li	Shelly C. Lu
+60	60	Muyao Li	Naomi K. Fukagawa
+60	60	Jen‐Fu Chiu	Anne Kelsen
+60	60	Jen‐Fu Chiu	Shelly C. Lu
+60	60	Jen‐Fu Chiu	Naomi K. Fukagawa
+60	60	Anne Kelsen	Shelly C. Lu
+60	60	Anne Kelsen	Naomi K. Fukagawa
+60	60	Shelly C. Lu	Naomi K. Fukagawa
+61	61	Muyao Li	Mickey E. Gunter
+61	61	Muyao Li	Naomi K. Fukagawa
+61	61	Mickey E. Gunter	Naomi K. Fukagawa
+62	62	Antoine E. El-Khoury	Melchor Sánchez Mendiola
+62	62	Antoine E. El-Khoury	Naomi K. Fukagawa
+62	62	Antoine E. El-Khoury	Ray E. Gleason
+62	62	Antoine E. El-Khoury	Vernon R. Young
+62	62	Melchor Sánchez Mendiola	Naomi K. Fukagawa
+62	62	Melchor Sánchez Mendiola	Ray E. Gleason
+62	62	Melchor Sánchez Mendiola	Vernon R. Young
+62	62	Naomi K. Fukagawa	Ray E. Gleason
+62	62	Naomi K. Fukagawa	Vernon R. Young
+62	62	Ray E. Gleason	Vernon R. Young
+63	63	Linda G. Bandini	Heidi Puelzl-Quinn
+63	63	Linda G. Bandini	Julie Morelli
+63	63	Linda G. Bandini	Naomi K. Fukagawa
+63	63	Heidi Puelzl-Quinn	Julie Morelli
+63	63	Heidi Puelzl-Quinn	Naomi K. Fukagawa
+63	63	Julie Morelli	Naomi K. Fukagawa
+64	64	Yu-Ping Huang	Bruna Paviani
+64	64	Yu-Ping Huang	Naomi K. Fukagawa
+64	64	Yu-Ping Huang	Katherine M. Phillips
+64	64	Yu-Ping Huang	Daniela Barile
+64	64	Bruna Paviani	Naomi K. Fukagawa
+64	64	Bruna Paviani	Katherine M. Phillips
+64	64	Bruna Paviani	Daniela Barile
+64	64	Naomi K. Fukagawa	Katherine M. Phillips
+64	64	Naomi K. Fukagawa	Daniela Barile
+64	64	Katherine M. Phillips	Daniela Barile
+65	65	Shawn Ehlers Cheang	Jiani Jiang
+65	65	Shawn Ehlers Cheang	Christopher Suárez
+65	65	Shawn Ehlers Cheang	Cheng-Yu Weng
+65	65	Shawn Ehlers Cheang	Garret Couture
+65	65	Shawn Ehlers Cheang	Nikita P. Bacalzo
+65	65	Shawn Ehlers Cheang	Katherine M. Phillips
+65	65	Shawn Ehlers Cheang	Naomi K. Fukagawa
+65	65	Shawn Ehlers Cheang	Carlito B. Lebrilla
+65	65	Jiani Jiang	Christopher Suárez
+65	65	Jiani Jiang	Cheng-Yu Weng
+65	65	Jiani Jiang	Garret Couture
+65	65	Jiani Jiang	Nikita P. Bacalzo
+65	65	Jiani Jiang	Katherine M. Phillips
+65	65	Jiani Jiang	Naomi K. Fukagawa
+65	65	Jiani Jiang	Carlito B. Lebrilla
+65	65	Christopher Suárez	Cheng-Yu Weng
+65	65	Christopher Suárez	Garret Couture
+65	65	Christopher Suárez	Nikita P. Bacalzo
+65	65	Christopher Suárez	Katherine M. Phillips
+65	65	Christopher Suárez	Naomi K. Fukagawa
+65	65	Christopher Suárez	Carlito B. Lebrilla
+65	65	Cheng-Yu Weng	Garret Couture
+65	65	Cheng-Yu Weng	Nikita P. Bacalzo
+65	65	Cheng-Yu Weng	Katherine M. Phillips
+65	65	Cheng-Yu Weng	Naomi K. Fukagawa
+65	65	Cheng-Yu Weng	Carlito B. Lebrilla
+65	65	Garret Couture	Nikita P. Bacalzo
+65	65	Garret Couture	Katherine M. Phillips
+65	65	Garret Couture	Naomi K. Fukagawa
+65	65	Garret Couture	Carlito B. Lebrilla
+65	65	Nikita P. Bacalzo	Katherine M. Phillips
+65	65	Nikita P. Bacalzo	Naomi K. Fukagawa
+65	65	Nikita P. Bacalzo	Carlito B. Lebrilla
+65	65	Katherine M. Phillips	Naomi K. Fukagawa
+65	65	Katherine M. Phillips	Carlito B. Lebrilla
+65	65	Naomi K. Fukagawa	Carlito B. Lebrilla
+66	66	Brent F. Kim	Sara N. Lupolt
+66	66	Brent F. Kim	Raychel Santo
+66	66	Brent F. Kim	Grace H. Bachman
+66	66	Brent F. Kim	Xudong Zhu
+66	66	Brent F. Kim	Tianbao Yang
+66	66	Brent F. Kim	Naomi K. Fukagawa
+66	66	Brent F. Kim	Matthew L. Richardson
+66	66	Brent F. Kim	Carrie Green
+66	66	Brent F. Kim	Katherine M. Phillips
+66	66	Brent F. Kim	Keeve E. Nachman
+66	66	Sara N. Lupolt	Raychel Santo
+66	66	Sara N. Lupolt	Grace H. Bachman
+66	66	Sara N. Lupolt	Xudong Zhu
+66	66	Sara N. Lupolt	Tianbao Yang
+66	66	Sara N. Lupolt	Naomi K. Fukagawa
+66	66	Sara N. Lupolt	Matthew L. Richardson
+66	66	Sara N. Lupolt	Carrie Green
+66	66	Sara N. Lupolt	Katherine M. Phillips
+66	66	Sara N. Lupolt	Keeve E. Nachman
+66	66	Raychel Santo	Grace H. Bachman
+66	66	Raychel Santo	Xudong Zhu
+66	66	Raychel Santo	Tianbao Yang
+66	66	Raychel Santo	Naomi K. Fukagawa
+66	66	Raychel Santo	Matthew L. Richardson
+66	66	Raychel Santo	Carrie Green
+66	66	Raychel Santo	Katherine M. Phillips
+66	66	Raychel Santo	Keeve E. Nachman
+66	66	Grace H. Bachman	Xudong Zhu
+66	66	Grace H. Bachman	Tianbao Yang
+66	66	Grace H. Bachman	Naomi K. Fukagawa
+66	66	Grace H. Bachman	Matthew L. Richardson
+66	66	Grace H. Bachman	Carrie Green
+66	66	Grace H. Bachman	Katherine M. Phillips
+66	66	Grace H. Bachman	Keeve E. Nachman
+66	66	Xudong Zhu	Tianbao Yang
+66	66	Xudong Zhu	Naomi K. Fukagawa
+66	66	Xudong Zhu	Matthew L. Richardson
+66	66	Xudong Zhu	Carrie Green
+66	66	Xudong Zhu	Katherine M. Phillips
+66	66	Xudong Zhu	Keeve E. Nachman
+66	66	Tianbao Yang	Naomi K. Fukagawa
+66	66	Tianbao Yang	Matthew L. Richardson
+66	66	Tianbao Yang	Carrie Green
+66	66	Tianbao Yang	Katherine M. Phillips
+66	66	Tianbao Yang	Keeve E. Nachman
+66	66	Naomi K. Fukagawa	Matthew L. Richardson
+66	66	Naomi K. Fukagawa	Carrie Green
+66	66	Naomi K. Fukagawa	Katherine M. Phillips
+66	66	Naomi K. Fukagawa	Keeve E. Nachman
+66	66	Matthew L. Richardson	Carrie Green
+66	66	Matthew L. Richardson	Katherine M. Phillips
+66	66	Matthew L. Richardson	Keeve E. Nachman
+66	66	Carrie Green	Katherine M. Phillips
+66	66	Carrie Green	Keeve E. Nachman
+66	66	Katherine M. Phillips	Keeve E. Nachman
+67	67	Naomi K. Fukagawa	Robert Marcus
+68	68	Jennifer E. Below	Nancy J. Cox
+68	68	Jennifer E. Below	Naomi K. Fukagawa
+68	68	Jennifer E. Below	Ari Hirvonen
+68	68	Jennifer E. Below	Joseph R. Testa
+68	68	Nancy J. Cox	Naomi K. Fukagawa
+68	68	Nancy J. Cox	Ari Hirvonen
+68	68	Nancy J. Cox	Joseph R. Testa
+68	68	Naomi K. Fukagawa	Ari Hirvonen
+68	68	Naomi K. Fukagawa	Joseph R. Testa
+68	68	Ari Hirvonen	Joseph R. Testa
+69	69	Rumana Yasmeen	Naomi K. Fukagawa
+69	69	Rumana Yasmeen	Thomas Ty Wang
+69	69	Naomi K. Fukagawa	Thomas Ty Wang
+70	70	Connie M. Weaver	Naomi K. Fukagawa
+70	70	Connie M. Weaver	DeAnn Liska
+70	70	Connie M. Weaver	Richard D. Mattes
+70	70	Connie M. Weaver	Gregory Matuszek
+70	70	Connie M. Weaver	Jeri W. Nieves
+70	70	Connie M. Weaver	Sue A. Shapses
+70	70	Connie M. Weaver	Linda Snetselaar
+70	70	Naomi K. Fukagawa	DeAnn Liska
+70	70	Naomi K. Fukagawa	Richard D. Mattes
+70	70	Naomi K. Fukagawa	Gregory Matuszek
+70	70	Naomi K. Fukagawa	Jeri W. Nieves
+70	70	Naomi K. Fukagawa	Sue A. Shapses
+70	70	Naomi K. Fukagawa	Linda Snetselaar
+70	70	DeAnn Liska	Richard D. Mattes
+70	70	DeAnn Liska	Gregory Matuszek
+70	70	DeAnn Liska	Jeri W. Nieves
+70	70	DeAnn Liska	Sue A. Shapses
+70	70	DeAnn Liska	Linda Snetselaar
+70	70	Richard D. Mattes	Gregory Matuszek
+70	70	Richard D. Mattes	Jeri W. Nieves
+70	70	Richard D. Mattes	Sue A. Shapses
+70	70	Richard D. Mattes	Linda Snetselaar
+70	70	Gregory Matuszek	Jeri W. Nieves
+70	70	Gregory Matuszek	Sue A. Shapses
+70	70	Gregory Matuszek	Linda Snetselaar
+70	70	Jeri W. Nieves	Sue A. Shapses
+70	70	Jeri W. Nieves	Linda Snetselaar
+70	70	Sue A. Shapses	Linda Snetselaar
+71	71	Yong‐Ming Yu	Naomi K. Fukagawa
+72	72	Ako Yokoi	Marina Minami
+72	72	Ako Yokoi	Miki Hashimura
+72	72	Ako Yokoi	Yasuko Oguri
+72	72	Ako Yokoi	Toshihide Matsumoto
+72	72	Ako Yokoi	Yoshinori Hasegawa
+72	72	Ako Yokoi	Mayu Nakagawa
+72	72	Ako Yokoi	Yu Ishibashi
+72	72	Ako Yokoi	Takashi Ito
+72	72	Ako Yokoi	Kensuke Ohhigata
+72	72	Ako Yokoi	Youhei Harada
+72	72	Ako Yokoi	Naomi K. Fukagawa
+72	72	Ako Yokoi	Makoto Saegusa
+72	72	Marina Minami	Miki Hashimura
+72	72	Marina Minami	Yasuko Oguri
+72	72	Marina Minami	Toshihide Matsumoto
+72	72	Marina Minami	Yoshinori Hasegawa
+72	72	Marina Minami	Mayu Nakagawa
+72	72	Marina Minami	Yu Ishibashi
+72	72	Marina Minami	Takashi Ito
+72	72	Marina Minami	Kensuke Ohhigata
+72	72	Marina Minami	Youhei Harada
+72	72	Marina Minami	Naomi K. Fukagawa
+72	72	Marina Minami	Makoto Saegusa
+72	72	Miki Hashimura	Yasuko Oguri
+72	72	Miki Hashimura	Toshihide Matsumoto
+72	72	Miki Hashimura	Yoshinori Hasegawa
+72	72	Miki Hashimura	Mayu Nakagawa
+72	72	Miki Hashimura	Yu Ishibashi
+72	72	Miki Hashimura	Takashi Ito
+72	72	Miki Hashimura	Kensuke Ohhigata
+72	72	Miki Hashimura	Youhei Harada
+72	72	Miki Hashimura	Naomi K. Fukagawa
+72	72	Miki Hashimura	Makoto Saegusa
+72	72	Yasuko Oguri	Toshihide Matsumoto
+72	72	Yasuko Oguri	Yoshinori Hasegawa
+72	72	Yasuko Oguri	Mayu Nakagawa
+72	72	Yasuko Oguri	Yu Ishibashi
+72	72	Yasuko Oguri	Takashi Ito
+72	72	Yasuko Oguri	Kensuke Ohhigata
+72	72	Yasuko Oguri	Youhei Harada
+72	72	Yasuko Oguri	Naomi K. Fukagawa
+72	72	Yasuko Oguri	Makoto Saegusa
+72	72	Toshihide Matsumoto	Yoshinori Hasegawa
+72	72	Toshihide Matsumoto	Mayu Nakagawa
+72	72	Toshihide Matsumoto	Yu Ishibashi
+72	72	Toshihide Matsumoto	Takashi Ito
+72	72	Toshihide Matsumoto	Kensuke Ohhigata
+72	72	Toshihide Matsumoto	Youhei Harada
+72	72	Toshihide Matsumoto	Naomi K. Fukagawa
+72	72	Toshihide Matsumoto	Makoto Saegusa
+72	72	Yoshinori Hasegawa	Mayu Nakagawa
+72	72	Yoshinori Hasegawa	Yu Ishibashi
+72	72	Yoshinori Hasegawa	Takashi Ito
+72	72	Yoshinori Hasegawa	Kensuke Ohhigata
+72	72	Yoshinori Hasegawa	Youhei Harada
+72	72	Yoshinori Hasegawa	Naomi K. Fukagawa
+72	72	Yoshinori Hasegawa	Makoto Saegusa
+72	72	Mayu Nakagawa	Yu Ishibashi
+72	72	Mayu Nakagawa	Takashi Ito
+72	72	Mayu Nakagawa	Kensuke Ohhigata
+72	72	Mayu Nakagawa	Youhei Harada
+72	72	Mayu Nakagawa	Naomi K. Fukagawa
+72	72	Mayu Nakagawa	Makoto Saegusa
+72	72	Yu Ishibashi	Takashi Ito
+72	72	Yu Ishibashi	Kensuke Ohhigata
+72	72	Yu Ishibashi	Youhei Harada
+72	72	Yu Ishibashi	Naomi K. Fukagawa
+72	72	Yu Ishibashi	Makoto Saegusa
+72	72	Takashi Ito	Kensuke Ohhigata
+72	72	Takashi Ito	Youhei Harada
+72	72	Takashi Ito	Naomi K. Fukagawa
+72	72	Takashi Ito	Makoto Saegusa
+72	72	Kensuke Ohhigata	Youhei Harada
+72	72	Kensuke Ohhigata	Naomi K. Fukagawa
+72	72	Kensuke Ohhigata	Makoto Saegusa
+72	72	Youhei Harada	Naomi K. Fukagawa
+72	72	Youhei Harada	Makoto Saegusa
+72	72	Naomi K. Fukagawa	Makoto Saegusa
+73	73	Charles Couet	Naomi K. Fukagawa
+73	73	Charles Couet	Dwight E. Matthews
+73	73	Charles Couet	Dennis M. Bier
+73	73	Charles Couet	V. R. Young
+73	73	Naomi K. Fukagawa	Dwight E. Matthews
+73	73	Naomi K. Fukagawa	Dennis M. Bier
+73	73	Naomi K. Fukagawa	V. R. Young
+73	73	Dwight E. Matthews	Dennis M. Bier
+73	73	Dwight E. Matthews	V. R. Young
+73	73	Dennis M. Bier	V. R. Young
+74	74	Naomi K. Fukagawa	Vernon R. Young
+75	75	Muyao Li	Rui‐Ming Liu
+75	75	Muyao Li	Cynthia R. Timblin
+75	75	Muyao Li	Suzanne G. Meyer
+75	75	Muyao Li	Brooke T. Mossman
+75	75	Muyao Li	Naomi K. Fukagawa
+75	75	Rui‐Ming Liu	Cynthia R. Timblin
+75	75	Rui‐Ming Liu	Suzanne G. Meyer
+75	75	Rui‐Ming Liu	Brooke T. Mossman
+75	75	Rui‐Ming Liu	Naomi K. Fukagawa
+75	75	Cynthia R. Timblin	Suzanne G. Meyer
+75	75	Cynthia R. Timblin	Brooke T. Mossman
+75	75	Cynthia R. Timblin	Naomi K. Fukagawa
+75	75	Suzanne G. Meyer	Brooke T. Mossman
+75	75	Suzanne G. Meyer	Naomi K. Fukagawa
+75	75	Brooke T. Mossman	Naomi K. Fukagawa
+76	76	Timothy B. Sulser	Robert Beach
+76	76	Timothy B. Sulser	Keith Wiebe
+76	76	Timothy B. Sulser	Shahnila Dunston
+76	76	Timothy B. Sulser	Naomi K. Fukagawa
+76	76	Robert Beach	Keith Wiebe
+76	76	Robert Beach	Shahnila Dunston
+76	76	Robert Beach	Naomi K. Fukagawa
+76	76	Keith Wiebe	Shahnila Dunston
+76	76	Keith Wiebe	Naomi K. Fukagawa
+76	76	Shahnila Dunston	Naomi K. Fukagawa
+77	77	Garret Couture	Devanand L. Luthria
+77	77	Garret Couture	Ye Chen
+77	77	Garret Couture	Nikita P. Bacalzo
+77	77	Garret Couture	Fakir Shahidullah Tareq
+77	77	Garret Couture	James M. Harnly
+77	77	Garret Couture	Katherine M. Phillips
+77	77	Garret Couture	Pamela Pehrsson
+77	77	Garret Couture	Kyle McKillop
+77	77	Garret Couture	Naomi K. Fukagawa
+77	77	Garret Couture	Carlito B. Lebrilla
+77	77	Devanand L. Luthria	Ye Chen
+77	77	Devanand L. Luthria	Nikita P. Bacalzo
+77	77	Devanand L. Luthria	Fakir Shahidullah Tareq
+77	77	Devanand L. Luthria	James M. Harnly
+77	77	Devanand L. Luthria	Katherine M. Phillips
+77	77	Devanand L. Luthria	Pamela Pehrsson
+77	77	Devanand L. Luthria	Kyle McKillop
+77	77	Devanand L. Luthria	Naomi K. Fukagawa
+77	77	Devanand L. Luthria	Carlito B. Lebrilla
+77	77	Ye Chen	Nikita P. Bacalzo
+77	77	Ye Chen	Fakir Shahidullah Tareq
+77	77	Ye Chen	James M. Harnly
+77	77	Ye Chen	Katherine M. Phillips
+77	77	Ye Chen	Pamela Pehrsson
+77	77	Ye Chen	Kyle McKillop
+77	77	Ye Chen	Naomi K. Fukagawa
+77	77	Ye Chen	Carlito B. Lebrilla
+77	77	Nikita P. Bacalzo	Fakir Shahidullah Tareq
+77	77	Nikita P. Bacalzo	James M. Harnly
+77	77	Nikita P. Bacalzo	Katherine M. Phillips
+77	77	Nikita P. Bacalzo	Pamela Pehrsson
+77	77	Nikita P. Bacalzo	Kyle McKillop
+77	77	Nikita P. Bacalzo	Naomi K. Fukagawa
+77	77	Nikita P. Bacalzo	Carlito B. Lebrilla
+77	77	Fakir Shahidullah Tareq	James M. Harnly
+77	77	Fakir Shahidullah Tareq	Katherine M. Phillips
+77	77	Fakir Shahidullah Tareq	Pamela Pehrsson
+77	77	Fakir Shahidullah Tareq	Kyle McKillop
+77	77	Fakir Shahidullah Tareq	Naomi K. Fukagawa
+77	77	Fakir Shahidullah Tareq	Carlito B. Lebrilla
+77	77	James M. Harnly	Katherine M. Phillips
+77	77	James M. Harnly	Pamela Pehrsson
+77	77	James M. Harnly	Kyle McKillop
+77	77	James M. Harnly	Naomi K. Fukagawa
+77	77	James M. Harnly	Carlito B. Lebrilla
+77	77	Katherine M. Phillips	Pamela Pehrsson
+77	77	Katherine M. Phillips	Kyle McKillop
+77	77	Katherine M. Phillips	Naomi K. Fukagawa
+77	77	Katherine M. Phillips	Carlito B. Lebrilla
+77	77	Pamela Pehrsson	Kyle McKillop
+77	77	Pamela Pehrsson	Naomi K. Fukagawa
+77	77	Pamela Pehrsson	Carlito B. Lebrilla
+77	77	Kyle McKillop	Naomi K. Fukagawa
+77	77	Kyle McKillop	Carlito B. Lebrilla
+77	77	Naomi K. Fukagawa	Carlito B. Lebrilla
+78	78	Yui Kobayashi	Ako Yokoi
+78	78	Yui Kobayashi	Miki Hashimura
+78	78	Yui Kobayashi	Yasuko Oguri
+78	78	Yui Kobayashi	Ryo Konno
+78	78	Yui Kobayashi	Toshihide Matsumoto
+78	78	Yui Kobayashi	Masataka Tochimoto
+78	78	Yui Kobayashi	Mayu Nakagawa
+78	78	Yui Kobayashi	Yu Ishibashi
+78	78	Yui Kobayashi	Takashi Ito
+78	78	Yui Kobayashi	Kensuke Ohhigata
+78	78	Yui Kobayashi	Yohei Harada
+78	78	Yui Kobayashi	Naomi K. Fukagawa
+78	78	Yui Kobayashi	Yoshio Kodera
+78	78	Yui Kobayashi	Makoto Saegusa
+78	78	Ako Yokoi	Miki Hashimura
+78	78	Ako Yokoi	Yasuko Oguri
+78	78	Ako Yokoi	Ryo Konno
+78	78	Ako Yokoi	Toshihide Matsumoto
+78	78	Ako Yokoi	Masataka Tochimoto
+78	78	Ako Yokoi	Mayu Nakagawa
+78	78	Ako Yokoi	Yu Ishibashi
+78	78	Ako Yokoi	Takashi Ito
+78	78	Ako Yokoi	Kensuke Ohhigata
+78	78	Ako Yokoi	Yohei Harada
+78	78	Ako Yokoi	Naomi K. Fukagawa
+78	78	Ako Yokoi	Yoshio Kodera
+78	78	Ako Yokoi	Makoto Saegusa
+78	78	Miki Hashimura	Yasuko Oguri
+78	78	Miki Hashimura	Ryo Konno
+78	78	Miki Hashimura	Toshihide Matsumoto
+78	78	Miki Hashimura	Masataka Tochimoto
+78	78	Miki Hashimura	Mayu Nakagawa
+78	78	Miki Hashimura	Yu Ishibashi
+78	78	Miki Hashimura	Takashi Ito
+78	78	Miki Hashimura	Kensuke Ohhigata
+78	78	Miki Hashimura	Yohei Harada
+78	78	Miki Hashimura	Naomi K. Fukagawa
+78	78	Miki Hashimura	Yoshio Kodera
+78	78	Miki Hashimura	Makoto Saegusa
+78	78	Yasuko Oguri	Ryo Konno
+78	78	Yasuko Oguri	Toshihide Matsumoto
+78	78	Yasuko Oguri	Masataka Tochimoto
+78	78	Yasuko Oguri	Mayu Nakagawa
+78	78	Yasuko Oguri	Yu Ishibashi
+78	78	Yasuko Oguri	Takashi Ito
+78	78	Yasuko Oguri	Kensuke Ohhigata
+78	78	Yasuko Oguri	Yohei Harada
+78	78	Yasuko Oguri	Naomi K. Fukagawa
+78	78	Yasuko Oguri	Yoshio Kodera
+78	78	Yasuko Oguri	Makoto Saegusa
+78	78	Ryo Konno	Toshihide Matsumoto
+78	78	Ryo Konno	Masataka Tochimoto
+78	78	Ryo Konno	Mayu Nakagawa
+78	78	Ryo Konno	Yu Ishibashi
+78	78	Ryo Konno	Takashi Ito
+78	78	Ryo Konno	Kensuke Ohhigata
+78	78	Ryo Konno	Yohei Harada
+78	78	Ryo Konno	Naomi K. Fukagawa
+78	78	Ryo Konno	Yoshio Kodera
+78	78	Ryo Konno	Makoto Saegusa
+78	78	Toshihide Matsumoto	Masataka Tochimoto
+78	78	Toshihide Matsumoto	Mayu Nakagawa
+78	78	Toshihide Matsumoto	Yu Ishibashi
+78	78	Toshihide Matsumoto	Takashi Ito
+78	78	Toshihide Matsumoto	Kensuke Ohhigata
+78	78	Toshihide Matsumoto	Yohei Harada
+78	78	Toshihide Matsumoto	Naomi K. Fukagawa
+78	78	Toshihide Matsumoto	Yoshio Kodera
+78	78	Toshihide Matsumoto	Makoto Saegusa
+78	78	Masataka Tochimoto	Mayu Nakagawa
+78	78	Masataka Tochimoto	Yu Ishibashi
+78	78	Masataka Tochimoto	Takashi Ito
+78	78	Masataka Tochimoto	Kensuke Ohhigata
+78	78	Masataka Tochimoto	Yohei Harada
+78	78	Masataka Tochimoto	Naomi K. Fukagawa
+78	78	Masataka Tochimoto	Yoshio Kodera
+78	78	Masataka Tochimoto	Makoto Saegusa
+78	78	Mayu Nakagawa	Yu Ishibashi
+78	78	Mayu Nakagawa	Takashi Ito
+78	78	Mayu Nakagawa	Kensuke Ohhigata
+78	78	Mayu Nakagawa	Yohei Harada
+78	78	Mayu Nakagawa	Naomi K. Fukagawa
+78	78	Mayu Nakagawa	Yoshio Kodera
+78	78	Mayu Nakagawa	Makoto Saegusa
+78	78	Yu Ishibashi	Takashi Ito
+78	78	Yu Ishibashi	Kensuke Ohhigata
+78	78	Yu Ishibashi	Yohei Harada
+78	78	Yu Ishibashi	Naomi K. Fukagawa
+78	78	Yu Ishibashi	Yoshio Kodera
+78	78	Yu Ishibashi	Makoto Saegusa
+78	78	Takashi Ito	Kensuke Ohhigata
+78	78	Takashi Ito	Yohei Harada
+78	78	Takashi Ito	Naomi K. Fukagawa
+78	78	Takashi Ito	Yoshio Kodera
+78	78	Takashi Ito	Makoto Saegusa
+78	78	Kensuke Ohhigata	Yohei Harada
+78	78	Kensuke Ohhigata	Naomi K. Fukagawa
+78	78	Kensuke Ohhigata	Yoshio Kodera
+78	78	Kensuke Ohhigata	Makoto Saegusa
+78	78	Yohei Harada	Naomi K. Fukagawa
+78	78	Yohei Harada	Yoshio Kodera
+78	78	Yohei Harada	Makoto Saegusa
+78	78	Naomi K. Fukagawa	Yoshio Kodera
+78	78	Naomi K. Fukagawa	Makoto Saegusa
+78	78	Yoshio Kodera	Makoto Saegusa
+79	79	Arti Shukla	Trisha F. Barrett
+79	79	Arti Shukla	Maximilian B. MacPherson
+79	79	Arti Shukla	Jedd Hillegass
+79	79	Arti Shukla	Naomi K. Fukagawa
+79	79	Arti Shukla	William A. Swain
+79	79	Arti Shukla	Kenneth J. O’Byrne
+79	79	Arti Shukla	Joseph R. Testa
+79	79	Arti Shukla	Harvey I. Pass
+79	79	Arti Shukla	Stephen P. Faux
+79	79	Arti Shukla	Brooke T. Mossman
+79	79	Trisha F. Barrett	Maximilian B. MacPherson
+79	79	Trisha F. Barrett	Jedd Hillegass
+79	79	Trisha F. Barrett	Naomi K. Fukagawa
+79	79	Trisha F. Barrett	William A. Swain
+79	79	Trisha F. Barrett	Kenneth J. O’Byrne
+79	79	Trisha F. Barrett	Joseph R. Testa
+79	79	Trisha F. Barrett	Harvey I. Pass
+79	79	Trisha F. Barrett	Stephen P. Faux
+79	79	Trisha F. Barrett	Brooke T. Mossman
+79	79	Maximilian B. MacPherson	Jedd Hillegass
+79	79	Maximilian B. MacPherson	Naomi K. Fukagawa
+79	79	Maximilian B. MacPherson	William A. Swain
+79	79	Maximilian B. MacPherson	Kenneth J. O’Byrne
+79	79	Maximilian B. MacPherson	Joseph R. Testa
+79	79	Maximilian B. MacPherson	Harvey I. Pass
+79	79	Maximilian B. MacPherson	Stephen P. Faux
+79	79	Maximilian B. MacPherson	Brooke T. Mossman
+79	79	Jedd Hillegass	Naomi K. Fukagawa
+79	79	Jedd Hillegass	William A. Swain
+79	79	Jedd Hillegass	Kenneth J. O’Byrne
+79	79	Jedd Hillegass	Joseph R. Testa
+79	79	Jedd Hillegass	Harvey I. Pass
+79	79	Jedd Hillegass	Stephen P. Faux
+79	79	Jedd Hillegass	Brooke T. Mossman
+79	79	Naomi K. Fukagawa	William A. Swain
+79	79	Naomi K. Fukagawa	Kenneth J. O’Byrne
+79	79	Naomi K. Fukagawa	Joseph R. Testa
+79	79	Naomi K. Fukagawa	Harvey I. Pass
+79	79	Naomi K. Fukagawa	Stephen P. Faux
+79	79	Naomi K. Fukagawa	Brooke T. Mossman
+79	79	William A. Swain	Kenneth J. O’Byrne
+79	79	William A. Swain	Joseph R. Testa
+79	79	William A. Swain	Harvey I. Pass
+79	79	William A. Swain	Stephen P. Faux
+79	79	William A. Swain	Brooke T. Mossman
+79	79	Kenneth J. O’Byrne	Joseph R. Testa
+79	79	Kenneth J. O’Byrne	Harvey I. Pass
+79	79	Kenneth J. O’Byrne	Stephen P. Faux
+79	79	Kenneth J. O’Byrne	Brooke T. Mossman
+79	79	Joseph R. Testa	Harvey I. Pass
+79	79	Joseph R. Testa	Stephen P. Faux
+79	79	Joseph R. Testa	Brooke T. Mossman
+79	79	Harvey I. Pass	Stephen P. Faux
+79	79	Harvey I. Pass	Brooke T. Mossman
+79	79	Stephen P. Faux	Brooke T. Mossman
+80	80	Sierra D. Durham	Danielle G. Lemay
+80	80	Sierra D. Durham	Zhe Wei
+80	80	Sierra D. Durham	K. F. Kalscheur
+80	80	Sierra D. Durham	John W. Finley
+80	80	Sierra D. Durham	Naomi K. Fukagawa
+80	80	Sierra D. Durham	Daniela Barile
+80	80	Danielle G. Lemay	Zhe Wei
+80	80	Danielle G. Lemay	K. F. Kalscheur
+80	80	Danielle G. Lemay	John W. Finley
+80	80	Danielle G. Lemay	Naomi K. Fukagawa
+80	80	Danielle G. Lemay	Daniela Barile
+80	80	Zhe Wei	K. F. Kalscheur
+80	80	Zhe Wei	John W. Finley
+80	80	Zhe Wei	Naomi K. Fukagawa
+80	80	Zhe Wei	Daniela Barile
+80	80	K. F. Kalscheur	John W. Finley
+80	80	K. F. Kalscheur	Naomi K. Fukagawa
+80	80	K. F. Kalscheur	Daniela Barile
+80	80	John W. Finley	Naomi K. Fukagawa
+80	80	John W. Finley	Daniela Barile
+80	80	Naomi K. Fukagawa	Daniela Barile
+81	81	Muyao Li	P. Marlene Absher
+81	81	Muyao Li	Ping Liang
+81	81	Muyao Li	James C. Russell
+81	81	Muyao Li	Burton E. Sobel
+81	81	Muyao Li	Naomi K. Fukagawa
+81	81	P. Marlene Absher	Ping Liang
+81	81	P. Marlene Absher	James C. Russell
+81	81	P. Marlene Absher	Burton E. Sobel
+81	81	P. Marlene Absher	Naomi K. Fukagawa
+81	81	Ping Liang	James C. Russell
+81	81	Ping Liang	Burton E. Sobel
+81	81	Ping Liang	Naomi K. Fukagawa
+81	81	James C. Russell	Burton E. Sobel
+81	81	James C. Russell	Naomi K. Fukagawa
+81	81	Burton E. Sobel	Naomi K. Fukagawa
+83	83	Vernon R. Young	YONG‐MING YU
+83	83	Vernon R. Young	Naomi K. Fukagawa
+83	83	YONG‐MING YU	Naomi K. Fukagawa
+84	84	Muyao Li	Brooke T. Mossman
+84	84	Muyao Li	Emily Kolpa
+84	84	Muyao Li	Cynthia R. Timblin
+84	84	Muyao Li	Arti Shukla
+84	84	Muyao Li	Douglas J. Taatjes
+84	84	Muyao Li	Naomi K. Fukagawa
+84	84	Brooke T. Mossman	Emily Kolpa
+84	84	Brooke T. Mossman	Cynthia R. Timblin
+84	84	Brooke T. Mossman	Arti Shukla
+84	84	Brooke T. Mossman	Douglas J. Taatjes
+84	84	Brooke T. Mossman	Naomi K. Fukagawa
+84	84	Emily Kolpa	Cynthia R. Timblin
+84	84	Emily Kolpa	Arti Shukla
+84	84	Emily Kolpa	Douglas J. Taatjes
+84	84	Emily Kolpa	Naomi K. Fukagawa
+84	84	Cynthia R. Timblin	Arti Shukla
+84	84	Cynthia R. Timblin	Douglas J. Taatjes
+84	84	Cynthia R. Timblin	Naomi K. Fukagawa
+84	84	Arti Shukla	Douglas J. Taatjes
+84	84	Arti Shukla	Naomi K. Fukagawa
+84	84	Douglas J. Taatjes	Naomi K. Fukagawa
+85	85	Naomi K. Fukagawa	Richard A. Galbraith
+86	86	Britt A. Holmén	Benjamin Rukavina
+86	86	Britt A. Holmén	John Kasumba
+86	86	Britt A. Holmén	Naomi K. Fukagawa
+86	86	Benjamin Rukavina	John Kasumba
+86	86	Benjamin Rukavina	Naomi K. Fukagawa
+86	86	John Kasumba	Naomi K. Fukagawa
+87	87	Nora Traviss	Muyao Li
+87	87	Nora Traviss	Melissa A. Lombard
+87	87	Nora Traviss	Brett Amy Thelen
+87	87	Nora Traviss	Brian C. Palmer
+87	87	Nora Traviss	Matthew E. Poynter
+87	87	Nora Traviss	Brooke T. Mossman
+87	87	Nora Traviss	Britt A. Holmén
+87	87	Nora Traviss	Naomi K. Fukagawa
+87	87	Muyao Li	Melissa A. Lombard
+87	87	Muyao Li	Brett Amy Thelen
+87	87	Muyao Li	Brian C. Palmer
+87	87	Muyao Li	Matthew E. Poynter
+87	87	Muyao Li	Brooke T. Mossman
+87	87	Muyao Li	Britt A. Holmén
+87	87	Muyao Li	Naomi K. Fukagawa
+87	87	Melissa A. Lombard	Brett Amy Thelen
+87	87	Melissa A. Lombard	Brian C. Palmer
+87	87	Melissa A. Lombard	Matthew E. Poynter
+87	87	Melissa A. Lombard	Brooke T. Mossman
+87	87	Melissa A. Lombard	Britt A. Holmén
+87	87	Melissa A. Lombard	Naomi K. Fukagawa
+87	87	Brett Amy Thelen	Brian C. Palmer
+87	87	Brett Amy Thelen	Matthew E. Poynter
+87	87	Brett Amy Thelen	Brooke T. Mossman
+87	87	Brett Amy Thelen	Britt A. Holmén
+87	87	Brett Amy Thelen	Naomi K. Fukagawa
+87	87	Brian C. Palmer	Matthew E. Poynter
+87	87	Brian C. Palmer	Brooke T. Mossman
+87	87	Brian C. Palmer	Britt A. Holmén
+87	87	Brian C. Palmer	Naomi K. Fukagawa
+87	87	Matthew E. Poynter	Brooke T. Mossman
+87	87	Matthew E. Poynter	Britt A. Holmén
+87	87	Matthew E. Poynter	Naomi K. Fukagawa
+87	87	Brooke T. Mossman	Britt A. Holmén
+87	87	Brooke T. Mossman	Naomi K. Fukagawa
+87	87	Britt A. Holmén	Naomi K. Fukagawa
+88	88	Thomas L. Jetton	Oban T. Galbraith
+88	88	Thomas L. Jetton	Mina Peshavaria
+88	88	Thomas L. Jetton	Elizabeth A. Bonney
+88	88	Thomas L. Jetton	Britt A. Holmén
+88	88	Thomas L. Jetton	Naomi K. Fukagawa
+88	88	Oban T. Galbraith	Mina Peshavaria
+88	88	Oban T. Galbraith	Elizabeth A. Bonney
+88	88	Oban T. Galbraith	Britt A. Holmén
+88	88	Oban T. Galbraith	Naomi K. Fukagawa
+88	88	Mina Peshavaria	Elizabeth A. Bonney
+88	88	Mina Peshavaria	Britt A. Holmén
+88	88	Mina Peshavaria	Naomi K. Fukagawa
+88	88	Elizabeth A. Bonney	Britt A. Holmén
+88	88	Elizabeth A. Bonney	Naomi K. Fukagawa
+88	88	Britt A. Holmén	Naomi K. Fukagawa
+89	89	タカシ イトウ	Yu Ishibashi
+89	89	タカシ イトウ	Yasuko Oguri
+89	89	タカシ イトウ	Miki Hashimura
+89	89	タカシ イトウ	Ako Yokoi
+89	89	タカシ イトウ	Yohei Harada
+89	89	タカシ イトウ	Naomi K. Fukagawa
+89	89	タカシ イトウ	Misato Hayashi
+89	89	タカシ イトウ	Mototsugu Ono
+89	89	タカシ イトウ	Chika Kusano
+89	89	タカシ イトウ	Makoto Saegusa
+89	89	Yu Ishibashi	Yasuko Oguri
+89	89	Yu Ishibashi	Miki Hashimura
+89	89	Yu Ishibashi	Ako Yokoi
+89	89	Yu Ishibashi	Yohei Harada
+89	89	Yu Ishibashi	Naomi K. Fukagawa
+89	89	Yu Ishibashi	Misato Hayashi
+89	89	Yu Ishibashi	Mototsugu Ono
+89	89	Yu Ishibashi	Chika Kusano
+89	89	Yu Ishibashi	Makoto Saegusa
+89	89	Yasuko Oguri	Miki Hashimura
+89	89	Yasuko Oguri	Ako Yokoi
+89	89	Yasuko Oguri	Yohei Harada
+89	89	Yasuko Oguri	Naomi K. Fukagawa
+89	89	Yasuko Oguri	Misato Hayashi
+89	89	Yasuko Oguri	Mototsugu Ono
+89	89	Yasuko Oguri	Chika Kusano
+89	89	Yasuko Oguri	Makoto Saegusa
+89	89	Miki Hashimura	Ako Yokoi
+89	89	Miki Hashimura	Yohei Harada
+89	89	Miki Hashimura	Naomi K. Fukagawa
+89	89	Miki Hashimura	Misato Hayashi
+89	89	Miki Hashimura	Mototsugu Ono
+89	89	Miki Hashimura	Chika Kusano
+89	89	Miki Hashimura	Makoto Saegusa
+89	89	Ako Yokoi	Yohei Harada
+89	89	Ako Yokoi	Naomi K. Fukagawa
+89	89	Ako Yokoi	Misato Hayashi
+89	89	Ako Yokoi	Mototsugu Ono
+89	89	Ako Yokoi	Chika Kusano
+89	89	Ako Yokoi	Makoto Saegusa
+89	89	Yohei Harada	Naomi K. Fukagawa
+89	89	Yohei Harada	Misato Hayashi
+89	89	Yohei Harada	Mototsugu Ono
+89	89	Yohei Harada	Chika Kusano
+89	89	Yohei Harada	Makoto Saegusa
+89	89	Naomi K. Fukagawa	Misato Hayashi
+89	89	Naomi K. Fukagawa	Mototsugu Ono
+89	89	Naomi K. Fukagawa	Chika Kusano
+89	89	Naomi K. Fukagawa	Makoto Saegusa
+89	89	Misato Hayashi	Mototsugu Ono
+89	89	Misato Hayashi	Chika Kusano
+89	89	Misato Hayashi	Makoto Saegusa
+89	89	Mototsugu Ono	Chika Kusano
+89	89	Mototsugu Ono	Makoto Saegusa
+89	89	Chika Kusano	Makoto Saegusa
+90	90	Naomi K. Fukagawa	Kenneth L. Minaker
+90	90	Naomi K. Fukagawa	John W. Rowe
+90	90	Naomi K. Fukagawa	Vernon R. Young
+90	90	Kenneth L. Minaker	John W. Rowe
+90	90	Kenneth L. Minaker	Vernon R. Young
+90	90	John W. Rowe	Vernon R. Young
+91	91	Naomi K. Fukagawa	Muyao Li
+91	91	Naomi K. Fukagawa	Tara Sabo‐Attwood
+91	91	Naomi K. Fukagawa	Cynthia R. Timblin
+91	91	Naomi K. Fukagawa	Kelly J. Butnor
+91	91	Naomi K. Fukagawa	Jessica Gagne
+91	91	Naomi K. Fukagawa	Chad Steele
+91	91	Naomi K. Fukagawa	Douglas J. Taatjes
+91	91	Naomi K. Fukagawa	Sally A. Huber
+91	91	Naomi K. Fukagawa	Brooke T. Mossman
+91	91	Muyao Li	Tara Sabo‐Attwood
+91	91	Muyao Li	Cynthia R. Timblin
+91	91	Muyao Li	Kelly J. Butnor
+91	91	Muyao Li	Jessica Gagne
+91	91	Muyao Li	Chad Steele
+91	91	Muyao Li	Douglas J. Taatjes
+91	91	Muyao Li	Sally A. Huber
+91	91	Muyao Li	Brooke T. Mossman
+91	91	Tara Sabo‐Attwood	Cynthia R. Timblin
+91	91	Tara Sabo‐Attwood	Kelly J. Butnor
+91	91	Tara Sabo‐Attwood	Jessica Gagne
+91	91	Tara Sabo‐Attwood	Chad Steele
+91	91	Tara Sabo‐Attwood	Douglas J. Taatjes
+91	91	Tara Sabo‐Attwood	Sally A. Huber
+91	91	Tara Sabo‐Attwood	Brooke T. Mossman
+91	91	Cynthia R. Timblin	Kelly J. Butnor
+91	91	Cynthia R. Timblin	Jessica Gagne
+91	91	Cynthia R. Timblin	Chad Steele
+91	91	Cynthia R. Timblin	Douglas J. Taatjes
+91	91	Cynthia R. Timblin	Sally A. Huber
+91	91	Cynthia R. Timblin	Brooke T. Mossman
+91	91	Kelly J. Butnor	Jessica Gagne
+91	91	Kelly J. Butnor	Chad Steele
+91	91	Kelly J. Butnor	Douglas J. Taatjes
+91	91	Kelly J. Butnor	Sally A. Huber
+91	91	Kelly J. Butnor	Brooke T. Mossman
+91	91	Jessica Gagne	Chad Steele
+91	91	Jessica Gagne	Douglas J. Taatjes
+91	91	Jessica Gagne	Sally A. Huber
+91	91	Jessica Gagne	Brooke T. Mossman
+91	91	Chad Steele	Douglas J. Taatjes
+91	91	Chad Steele	Sally A. Huber
+91	91	Chad Steele	Brooke T. Mossman
+91	91	Douglas J. Taatjes	Sally A. Huber
+91	91	Douglas J. Taatjes	Brooke T. Mossman
+91	91	Sally A. Huber	Brooke T. Mossman
+92	92	Joseph M. Jez	Naomi K. Fukagawa
+93	93	Matthew J. Picklo	K. F. Kalscheur
+93	93	Matthew J. Picklo	Andrew Magnuson
+93	93	Matthew J. Picklo	Michael R. Bukowski
+93	93	Matthew J. Picklo	James M. Harnly
+93	93	Matthew J. Picklo	Naomi K. Fukagawa
+93	93	Matthew J. Picklo	John W. Finley
+93	93	K. F. Kalscheur	Andrew Magnuson
+93	93	K. F. Kalscheur	Michael R. Bukowski
+93	93	K. F. Kalscheur	James M. Harnly
+93	93	K. F. Kalscheur	Naomi K. Fukagawa
+93	93	K. F. Kalscheur	John W. Finley
+93	93	Andrew Magnuson	Michael R. Bukowski
+93	93	Andrew Magnuson	James M. Harnly
+93	93	Andrew Magnuson	Naomi K. Fukagawa
+93	93	Andrew Magnuson	John W. Finley
+93	93	Michael R. Bukowski	James M. Harnly
+93	93	Michael R. Bukowski	Naomi K. Fukagawa
+93	93	Michael R. Bukowski	John W. Finley
+93	93	James M. Harnly	Naomi K. Fukagawa
+93	93	James M. Harnly	John W. Finley
+93	93	Naomi K. Fukagawa	John W. Finley
+94	94	Nikita P. Bacalzo	Garret Couture
+94	94	Nikita P. Bacalzo	Ye Chen
+94	94	Nikita P. Bacalzo	Juan J. Castillo
+94	94	Nikita P. Bacalzo	Katherine M. Phillips
+94	94	Nikita P. Bacalzo	Naomi K. Fukagawa
+94	94	Nikita P. Bacalzo	Carlito B. Lebrilla
+94	94	Garret Couture	Ye Chen
+94	94	Garret Couture	Juan J. Castillo
+94	94	Garret Couture	Katherine M. Phillips
+94	94	Garret Couture	Naomi K. Fukagawa
+94	94	Garret Couture	Carlito B. Lebrilla
+94	94	Ye Chen	Juan J. Castillo
+94	94	Ye Chen	Katherine M. Phillips
+94	94	Ye Chen	Naomi K. Fukagawa
+94	94	Ye Chen	Carlito B. Lebrilla
+94	94	Juan J. Castillo	Katherine M. Phillips
+94	94	Juan J. Castillo	Naomi K. Fukagawa
+94	94	Juan J. Castillo	Carlito B. Lebrilla
+94	94	Katherine M. Phillips	Naomi K. Fukagawa
+94	94	Katherine M. Phillips	Carlito B. Lebrilla
+94	94	Naomi K. Fukagawa	Carlito B. Lebrilla
+95	95	A. E. el-Khoury	A. M. Ajami
+95	95	A. E. el-Khoury	Naomi K. Fukagawa
+95	95	A. E. el-Khoury	T. E. Chapman
+95	95	A. E. el-Khoury	V. R. Young
+95	95	A. M. Ajami	Naomi K. Fukagawa
+95	95	A. M. Ajami	T. E. Chapman
+95	95	A. M. Ajami	V. R. Young
+95	95	Naomi K. Fukagawa	T. E. Chapman
+95	95	Naomi K. Fukagawa	V. R. Young
+95	95	T. E. Chapman	V. R. Young
+96	96	Naomi K. Fukagawa	Helen Veirs
+96	96	Naomi K. Fukagawa	Gail Langeloh
+96	96	Helen Veirs	Gail Langeloh
+97	97	Man Liu	Rumana Yasmeen
+97	97	Man Liu	Naomi K. Fukagawa
+97	97	Man Liu	Liangli Yu
+97	97	Man Liu	Young Ho Kim
+97	97	Man Liu	Thomas J. Wang
+97	97	Rumana Yasmeen	Naomi K. Fukagawa
+97	97	Rumana Yasmeen	Liangli Yu
+97	97	Rumana Yasmeen	Young Ho Kim
+97	97	Rumana Yasmeen	Thomas J. Wang
+97	97	Naomi K. Fukagawa	Liangli Yu
+97	97	Naomi K. Fukagawa	Young Ho Kim
+97	97	Naomi K. Fukagawa	Thomas J. Wang
+97	97	Liangli Yu	Young Ho Kim
+97	97	Liangli Yu	Thomas J. Wang
+97	97	Young Ho Kim	Thomas J. Wang
+98	98	Rumana Yasmeen	Quynhchi Pham
+98	98	Rumana Yasmeen	Naomi K. Fukagawa
+98	98	Rumana Yasmeen	Thomas T. Y. Wang
+98	98	Quynhchi Pham	Naomi K. Fukagawa
+98	98	Quynhchi Pham	Thomas T. Y. Wang
+98	98	Naomi K. Fukagawa	Thomas T. Y. Wang
+99	99	A. E. el-Khoury	Melchor Sánchez Mendiola
+99	99	A. E. el-Khoury	Naomi K. Fukagawa
+99	99	A. E. el-Khoury	V. R. Young
+99	99	Melchor Sánchez Mendiola	Naomi K. Fukagawa
+99	99	Melchor Sánchez Mendiola	V. R. Young
+99	99	Naomi K. Fukagawa	V. R. Young

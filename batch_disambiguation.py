@@ -40,21 +40,38 @@ def process_single_name(name, max_authors=30, max_works=100, verbose=False):
     logger.info(f"Processing name: {name}")
     
     # Step 1: Fetch author data from OpenAlex and create HGCN input files
-    cmd = f"python openAlex_to_HGCN.py --name \"{name}\" --max_authors {max_authors} --max_works {max_works}"
-    success, output = run_command(cmd, verbose)
+    # Ensure name is quoted properly for the command line
+    quoted_name = json.dumps(name) # Use json.dumps for robust quoting
+    cmd_fetch = f"python openAlex_to_HGCN.py --name {quoted_name} --max_authors {max_authors} --max_works {max_works}"
+    success_fetch, output_fetch = run_command(cmd_fetch, verbose)
     
-    if not success:
-        logger.error(f"Failed to fetch data for {name}")
+    if not success_fetch:
+        logger.error(f"Failed to fetch data for {name}: {output_fetch}")
         return False
     
-    # Step 2: Run the name disambiguation
-    cmd = f"python run_disambiguation.py --name \"{name}\""
-    success, output = run_command(cmd, verbose)
+    # Step 2: Run the name disambiguation in OpenAlex mode
+    # Call name_disambiguation.py directly with --openAlex flag
+    cmd_disambiguate = f"python name_disambiguation.py --openAlex --name {quoted_name}"
+    success_disambiguate, output_disambiguate = run_command(cmd_disambiguate, verbose)
     
-    if not success:
-        logger.error(f"Failed to run disambiguation for {name}")
+    if not success_disambiguate:
+        logger.error(f"Failed to run disambiguation for {name}: {output_disambiguate}")
         return False
-    
+    else:
+        # --- Print final JSON output from captured stdout ---
+        try:
+            json_header = f"\n{name} OpenAlex author ID clusters:"
+            start_index = output_disambiguate.find(json_header)
+            if start_index != -1:
+                # Print the header and the JSON that follows it
+                print(output_disambiguate[start_index:].strip())
+            else:
+                # Log if the expected header wasn't found, but command succeeded
+                logger.warning(f"Could not find final JSON output in stdout for {name}. Command output was:\n{output_disambiguate}")
+        except Exception as e:
+            logger.error(f"Error extracting JSON output for {name}: {e}")
+        # --- End of print logic ---
+
     logger.info(f"Successfully processed {name}")
     return True
 
