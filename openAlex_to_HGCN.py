@@ -48,10 +48,46 @@ def fetch_author_data(author_name, max_results=200):
                 # Skip if the name doesn't match
                 first_name = name.first.lower()
                 last_name = name.last.lower()
-                target_name = author_name.lower().split()
+                target_name_parts = author_name.lower().split()
                 
-                # Check if the author's name matches the target name
-                if not (first_name in target_name or last_name in target_name):
+                # Stricter name matching
+                # The query's first name part must match the candidate's first name
+                # The query's last name part must match the candidate's last name
+                # This handles cases where query is "First Last" and candidate is "First Middle Last"
+                
+                query_first = ""
+                query_last = "" # Default to empty string
+
+                if len(target_name_parts) > 0:
+                    query_first = target_name_parts[0]
+                # Use the last part of the query as the last name component
+                if len(target_name_parts) > 1: 
+                    query_last = target_name_parts[-1]
+                elif len(target_name_parts) == 1: # If only one name part in query, assume it could be first or last
+                    # If we only have one query part, we can't enforce first AND last match
+                    # For now, let's stick to the logic that if query_last is not set, it's not checked strictly
+                    # This means a query like "Fry" would rely on query_last matching candidate_last_normalized
+                    pass
+
+
+                candidate_first_normalized = name.first.lower()
+                candidate_last_normalized = name.last.lower()
+                
+                match = False
+                if query_first and query_last: # Query like "Terry Fry"
+                    if candidate_first_normalized == query_first and candidate_last_normalized == query_last:
+                        match = True
+                elif query_first: # Query like "Terry" (and query_last is empty)
+                    if candidate_first_normalized == query_first:
+                        # This could be "Terry Smith" for a query "Terry".
+                        # To be stricter for single name queries, one might want to check if candidate_last_normalized is empty or also matches.
+                        # For now, this allows matching on first name if query is just one word.
+                        match = True 
+                elif query_last: # Query like "Fry" (and query_first is empty, implies single word query "Fry")
+                    if candidate_last_normalized == query_last:
+                        match = True
+                
+                if not match:
                     continue
                 
                 # Extract needed data

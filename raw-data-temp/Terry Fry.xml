@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+	<personID>A5017207916</personID>
+	<FullName>Terry Fry</FullName>
+	<FirstName>Terry</FirstName>
+	<LastName>Fry</LastName>
+	<publication>
+		<title>T cells expressing CD19 chimeric antigen receptors for acute lymphoblastic leukaemia in children and young adults: a phase 1 dose-escalation trial</title>
+		<year>2014</year>
+		<authors>Daniel W Lee, James N. Kochenderfer, Maryalice Stetler‐Stevenson, Yongzhi Cui, Cindy Delbrook, Steven A. Feldman, Terry J. Fry, Rimas J. Orentas, Marianna Sabatino, Nirali N. Shah, Seth M. Steinberg, D. Stroncek, Nicholas Tschernia, Constance M. Yuan, Hua Zhang, Ling Zhang, Steven A. Rosenberg, Alan S. Wayne, Crystal L. Mackall</authors>
+		<jconf>The Lancet</jconf>
+		<id>W2129702476</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>4-1BB costimulation ameliorates T cell exhaustion induced by tonic signaling of chimeric antigen receptors</title>
+		<year>2015</year>
+		<authors>Adrienne H. Long, Waleed Haso, Jack F. Shern, Kelsey M. Wanhainen, Meera Murgai, Maria Ingaramo, Jillian Smith, Alec J. Walker, M. Eric Kohler, Vikas R Venkateshwara, Rosandra N. Kaplan, George H. Patterson, Terry J. Fry, Rimas J. Orentas, Crystal L. Mackall</authors>
+		<jconf>Nature Medicine</jconf>
+		<id>W1619537825</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CD22-targeted CAR T cells induce remission in B-ALL that is naive or resistant to CD19-targeted CAR immunotherapy</title>
+		<year>2017</year>
+		<authors>Terry J. Fry, Nirali N. Shah, Rimas J. Orentas, Maryalice Stetler‐Stevenson, Constance M. Yuan, Sneha Ramakrishna, Pamela L. Wolters, Staci Martin, Cindy Delbrook, Bonnie Yates, Haneen Shalabi, Thomas J. Fountaine, Jack F. Shern, Robbie G. Majzner, David F. Stroncek, Marianna Sabatino, Yang Feng, Dimiter S. Dimitrov, Ling Zhang, Sang M. Nguyen, Haiying Qin, Boro Dropulić, Daniel W Lee, Crystal L. Mackall</authors>
+		<jconf>Nature Medicine</jconf>
+		<id>W2768823259</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Convergence of Acquired Mutations and Alternative Splicing of &lt;i&gt;CD19&lt;/i&gt; Enables Resistance to CART-19 Immunotherapy</title>
+		<year>2015</year>
+		<authors>Elena Sotillo, David M. Barrett, Kathryn L. Black, Asen Bagashev, Derek A. Oldridge, Glendon Wu, Robyn T. Sussman, Claudia Lanauze, Marco Ruella, Matthew R. Gazzara, Nicole M. Martínez, Colleen T. Harrington, Elaine Y. Chung, Jessica Perazzelli, Ted J. Hofmann, Shannon L. Maude, Pichai Raman, Alejandro Barrera, Saar Gill, Simon F. Lacey, Jan J. Melenhorst, David Allman, Elad Jacoby, Terry J. Fry, Crystal L. Mackall, Yoseph Barash, Kristen W. Lynch, John M. Maris, Stephan A. Grupp, Andrei Thomas‐Tikhonenko</authors>
+		<jconf>Cancer Discovery</jconf>
+		<id>W2179454156</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Mechanisms of resistance to CAR T cell therapy</title>
+		<year>2019</year>
+		<authors>Nirali N. Shah, Terry J. Fry</authors>
+		<jconf>Nature Reviews Clinical Oncology</jconf>
+		<id>W2919051790</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Many Faces of IL-7: From Lymphopoiesis to Peripheral T Cell Maintenance</title>
+		<year>2005</year>
+		<authors>Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>The Journal of Immunology</jconf>
+		<id>W1893260165</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Induction of resistance to chimeric antigen receptor T cell therapy by transduction of a single leukemic B cell</title>
+		<year>2018</year>
+		<authors>Marco Ruella, Jun Xu, David M. Barrett, Joseph A. Fraietta, Tyler J. Reich, David E Ambrose, Michael Klichinsky, Olga Shestova, Prachi Patel, Irina Kulikovskaya, Farzana Nazimuddin, Vijay Bhoj, Elena J. Orlando, Terry J. Fry, Hans Bitter, Shannon L. Maude, Bruce L. Levine, Christopher L. Nobles, Frederic D. Bushman, Regina M. Young, John Scholler, Saar Gill, Carl H. June, Stephan A. Grupp, Simon F. Lacey, J. Joseph Melenhorst</authors>
+		<jconf>Nature Medicine</jconf>
+		<id>W2893691711</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Harnessing the biology of IL-7 for therapeutic application</title>
+		<year>2011</year>
+		<authors>Crystal L. Mackall, Terry J. Fry, Ronald E. Gress</authors>
+		<jconf>Nature reviews. Immunology</jconf>
+		<id>W1994844769</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interleukin-7: from bench to clinic</title>
+		<year>2002</year>
+		<authors>Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W2082797461</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Administration of rhIL-7 in humans increases in vivo TCR repertoire diversity by preferential expansion of naive T cell subsets</title>
+		<year>2008</year>
+		<authors>Claude Sportès, Frances T. Hakim, Sarfraz Memon, Hua Zhang, Kevin S. Chua, Margaret R. Brown, Thomas A. Fleisher, Michael Krumlauf, Rebecca R. Babb, Catherine K. Chow, Terry J. Fry, Julie Engels, Renaud Buffet, Michel Morre, Robert J. Amato, David Venzon, Robert Korngold, Andrew L. Pecora, Ronald E. Gress, Crystal L. Mackall</authors>
+		<jconf>The Journal of Experimental Medicine</jconf>
+		<id>W2105011122</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>IL-7 Administration to Humans Leads to Expansion of CD8+ and CD4+ Cells but a Relative Decrease of CD4+ T-Regulatory Cells</title>
+		<year>2006</year>
+		<authors>Steven A. Rosenberg, Claude Sportès, Mojgan Ahmadzadeh, Terry J. Fry, Lien T. Ngo, Susan Schwarz, Maryalice Stetler‐Stevenson, Kathleen E. Morton, Sharon Mavroukakis, Michel Morre, Renaud Buffet, Crystal L. Mackall, Ronald E. Gress</authors>
+		<jconf>Journal of Immunotherapy</jconf>
+		<id>W2004345869</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CAR T cells with dual targeting of CD19 and CD22 in adult patients with recurrent or refractory B cell malignancies: a phase 1 trial</title>
+		<year>2021</year>
+		<authors>Jay Y. Spiegel, Shabnum Patel, Lori Muffly, Nasheed Hossain, Jean Oak, John H. Baird, Matthew J. Frank, Parveen Shiraz, Bita Sahaf, Juliana Craig, María Iglesias, Sheren Younes, Yasodha Natkunam, Michael G. Ozawa, Eric Yang, John Tamaresis, Harshini Chinnasamy, Zachary Ehlinger, Warren D. Reynolds, Rachel C. Lynn, Maria Caterina Rotiroti, Nikolaos Gkitsas, Sally Arai, Laura Johnston, Robert Lowsky, Robbie G. Majzner, Everett Meyer, Robert S. Negrin, Andrew R. Rezvani, Surbhi Sidana, Judith A. Shizuru, Wen‐Kai Weng, Chelsea Mullins, Allison P. Jacob, Ilan Kirsch, Magali Bazzano, Jing Zhou, Sean Mackay, Scott J. Bornheimer, Liora M. Schultz, Sneha Ramakrishna, Kara L. Davis, Katherine A. Kong, Nirali N. Shah, Haiying Qin, Terry J. Fry, Steven A. Feldman, Crystal L. Mackall, David B. Miklos</authors>
+		<jconf>Nature Medicine</jconf>
+		<id>W3183792933</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A potential role for interleukin-7 in T-cell homeostasis</title>
+		<year>2001</year>
+		<authors>Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W2165981943</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CD19 CAR immune pressure induces B-precursor acute lymphoblastic leukaemia lineage switch exposing inherent leukaemic plasticity</title>
+		<year>2016</year>
+		<authors>Elad Jacoby, Sang M. Nguyen, Thomas J. Fountaine, Kathryn M Welp, Berkley E. Gryder, Haiying Qin, Yinmeng Yang, Christopher D. Chien, Alix E. Seif, Haiyan Lei, Young Song, Javed Khan, Daniel W. Lee, Crystal L. Mackall, Rebecca Gardner, Michael C. Jensen, Jack F. Shern, Terry J. Fry</authors>
+		<jconf>Nature Communications</jconf>
+		<id>W2496398835</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CD4/CD8 T-Cell Selection Affects Chimeric Antigen Receptor (CAR) T-Cell Potency and Toxicity: Updated Results From a Phase I Anti-CD22 CAR T-Cell Trial</title>
+		<year>2020</year>
+		<authors>Nirali N. Shah, Steven L. Highfill, Haneen Shalabi, Bonnie Yates, Jianjian Jin, Pamela L. Wolters, Amanda K. Ombrello, Seth M. Steinberg, Staci Martin, Cindy Delbrook, Leah Hoffman, Lauren Little, Anusha Ponduri, Haiying Qin, Haris Qureshi, Alina Dulau‐Florea, Dalia Salem, Hao‐Wei Wang, Constance M. Yuan, Maryalice Stetler‐Stevenson, Sandhya R. Panch, Minh Tran, Crystal L. Mackall, David F. Stroncek, Terry J. Fry</authors>
+		<jconf>Journal of Clinical Oncology</jconf>
+		<id>W3016233874</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Generation of clinical-grade CD19-specific CAR-modified CD8+ memory stem cells for the treatment of human B-cell malignancies</title>
+		<year>2016</year>
+		<authors>Marianna Sabatino, Jinhui Hu, Michele Sommariva, Sanjivan Gautam, Vicki Fellowes, James D. Hocker, Sean C. Dougherty, Haiying Qin, Christopher A. Klebanoff, Terry J. Fry, Ronald E. Gress, James N. Kochenderfer, David F. Stroncek, Yun Ji, Luca Gattinoni</authors>
+		<jconf>Blood</jconf>
+		<id>W2401536218</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tumor Antigen and Receptor Densities Regulate Efficacy of a Chimeric Antigen Receptor Targeting Anaplastic Lymphoma Kinase</title>
+		<year>2017</year>
+		<authors>Alec J. Walker, Robbie G. Majzner, Ling Zhang, Kelsey M. Wanhainen, Adrienne H. Long, Sang M. Nguyen, Paola Lopomo, Marc Vigny, Terry J. Fry, Rimas J. Orentas, Crystal L. Mackall</authors>
+		<jconf>Molecular Therapy</jconf>
+		<id>W2624700430</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Long-Term Follow-Up of CD19-CAR T-Cell Therapy in Children and Young Adults With B-ALL</title>
+		<year>2021</year>
+		<authors>Nirali N. Shah, Daniel W. Lee, Bonnie Yates, Constance M. Yuan, Haneen Shalabi, Staci Martin, Pamela L. Wolters, Seth M. Steinberg, Eva H. Baker, Cindy Delbrook, Maryalice Stetler‐Stevenson, Terry J. Fry, David F. Stroncek, Crystal L. Mackall</authors>
+		<jconf>Journal of Clinical Oncology</jconf>
+		<id>W3138004978</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preclinical Development of Bivalent Chimeric Antigen Receptors Targeting Both CD19 and CD22</title>
+		<year>2018</year>
+		<authors>Haiying Qin, Sneha Ramakrishna, Sang M. Nguyen, Thomas J. Fountaine, Anusha Ponduri, Maryalice Stetler‐Stevenson, Constance M. Yuan, Waleed Haso, Jack F. Shern, Nirali N. Shah, Terry J. Fry</authors>
+		<jconf>Molecular Therapy — Oncolytics</jconf>
+		<id>W2899700403</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Acute GVHD in patients receiving IL-15/4-1BBL activated NK cells following T-cell–depleted stem cell transplantation</title>
+		<year>2014</year>
+		<authors>Nirali N. Shah, Kristin Baird, Cynthia Delbrook, Thomas A. Fleisher, M. Eric Kohler, Shakuntala Rampertaap, Kimberly Lemberg, Carolyn Katovich Hurley, David E. Kleiner, Melinda S. Merchant, Stefania Pittaluga, Marianna Sabatino, David F. Stroncek, Alan S. Wayne, Hua Zhang, Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W2057776379</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Society for Immunotherapy of Cancer (SITC) clinical practice guideline on immune effector cell-related adverse events</title>
+		<year>2020</year>
+		<authors>Marcela V. Maus, S. Alexander, Michael R. Bishop, Jennifer N. Brudno, Colleen Callahan, Marco L. Davila, Claudia Diamonte, Jörg Dietrich, Julie C. Fitzgerald, Matthew J. Frigault, Terry J. Fry, Jennifer Holter‐Chakrabarty, Krishna V. Komanduri, Daniel W Lee, Frederick L. Locke, Shannon L. Maude, Philip L. McCarthy, Elena Mead, Sattva S. Neelapu, Tomas G. Neilan, Bianca Santomasso, Elizabeth J. Shpall, David T. Teachey, Cameron J. Turtle, Thomas M. Whitehead, Stephan A. Grupp</authors>
+		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
+		<id>W3113077294</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Characterization of HLH-like manifestations as a CRS variant in patients receiving CD22 CAR T cells</title>
+		<year>2021</year>
+		<authors>Daniel A. Lichtenstein, Fiorella Schischlik, Lipei Shao, Seth M. Steinberg, Bonnie Yates, Hao‐Wei Wang, Yanyu Wang, Jon R. Inglefield, Alina Dulau-Florea, Francesco Ceppi, Leandro C. Hermida, Kate Stringaris, Kim Dunham, Philip Homan, Parthav Jailwala, Justin Mirazee, Welles Robinson, Karen M. Chisholm, Constance M. Yuan, Maryalice Stetler‐Stevenson, Amanda K. Ombrello, Jianjian Jin, Terry J. Fry, Naomi Taylor, Steven L. Highfill, Ping Jin, Rebecca Gardner, Haneen Shalabi, Eytan Ruppin, David F. Stroncek, Nirali N. Shah</authors>
+		<jconf>Blood</jconf>
+		<id>W3200081808</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CD19/22 CAR T cells in children and young adults with B-ALL: phase 1 results and development of a novel bicistronic CAR</title>
+		<year>2022</year>
+		<authors>Haneen Shalabi, Haiying Qin, Angela Su, Bonnie Yates, Pamela L. Wolters, Seth M. Steinberg, John A. Ligon, Sara Silbert, Kniya DéDé, Mehdi Benzaoui, S. Goldberg, Sooraj Achar, Dina Schneider, Shilpa Shahani, Lauren Little, Toni Foley, John C. Molina, Sandhya R. Panch, Crystal L. Mackall, Daniel W. Lee, Christopher D. Chien, Marie Pouzolles, Mark A. Ahlman, Constance M. Yuan, Hao‐Wei Wang, Yanyu Wang, Jon R. Inglefield, Mary Anne Toledo‐Tamula, Staci Martin, Steven L. Highfill, Grégoire Altan‐Bonnet, David Stroncek, Terry J. Fry, Naomi Taylor, Nirali N. Shah</authors>
+		<jconf>Blood</jconf>
+		<id>W4281398912</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hypoimmune anti-CD19 chimeric antigen receptor T cells provide lasting tumor control in fully immunocompetent allogeneic humanized mice</title>
+		<year>2023</year>
+		<authors>Xiaomeng Hu, Karl Manner, Rowena DeJesus, Kathy White, Corie Gattis, Priscilla Ngo, Christopher Bandoro, Eléonore Tham, Elaine Y. Chu, Chi Young, Frank Wells, Ronald Basco, Annabelle M. Friera, Divy Kangeyan, Pascal Beauchesne, William E. Dowdle, T. Deuse, Terry J. Fry, Aaron E. Foster, Sonja Schrepfer</authors>
+		<jconf>Nature Communications</jconf>
+		<id>W4363676877</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Antigen experience history directs distinct functional states of CD8+ CAR T cells during the antileukemia response</title>
+		<year>2025</year>
+		<authors>Kole DeGolier, Etienne Danis, Marc D’Antonio, Jennifer Cimons, Michael Yarnell, Ross M. Kedl, M. Eric Kohler, James Scott‐Browne, Terry J. Fry</authors>
+		<jconf>Nature Immunology</jconf>
+		<id>W4406000844</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>IL-7 increases both thymic-dependent and thymic-independent T-cell regeneration after bone marrow transplantation</title>
+		<year>2001</year>
+		<authors>Crystal L. Mackall, Terry J. Fry, Cathy Bare, Paul Morgan, Anne Galbraith, Ronald E. Gress</authors>
+		<jconf>Blood</jconf>
+		<id>W2123434358</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interleukin-7: master regulator of peripheral T-cell homeostasis?</title>
+		<year>2001</year>
+		<authors>Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Trends in Immunology</jconf>
+		<id>W2169779391</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>IL-7 therapy dramatically alters peripheral T-cell homeostasis in normal and SIV-infected nonhuman primates</title>
+		<year>2002</year>
+		<authors>Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W2159958805</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Role for Thymic Stromal Lymphopoietin in CD4+ T Cell Development</title>
+		<year>2004</year>
+		<authors>Amin Al-Shami, Rosanne Spolski, John A. Kelly, Terry J. Fry, Pamela L. Schwartzberg, Akhilesh Pandey, Crystal L. Mackall, Warren J. Leonard</authors>
+		<jconf>The Journal of Experimental Medicine</jconf>
+		<id>W2105859711</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adjuvant IL-7 or IL-15 overcomes immunodominance and improves survival of the CD8+ memory cell pool</title>
+		<year>2005</year>
+		<authors>Fraia Melchionda, Terry J. Fry, Matthew Milliron, Melissa A. McKirdy, Yutaka Tagaya, Crystal L. Mackall</authors>
+		<jconf>Journal of Clinical Investigation</jconf>
+		<id>W1985489508</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Adjuvant IL-7 or IL-15 overcomes immunodominance and improves survival of the CD8+ memory cell pool</title>
+		<year>2005</year>
+		<authors>Fraia Melchionda, Terry J. Fry, Matthew Milliron, Melissa A. McKirdy, Yutaka Tagaya, Crystal L. Mackall</authors>
+		<jconf>Journal of Clinical Investigation</jconf>
+		<id>W4231600099</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Radiofrequency Ablation Induces Antigen-presenting Cell Infiltration and Amplification of Weak Tumor-induced Immunity</title>
+		<year>2009</year>
+		<authors>Sergio Dromi, Meghaan P. Walsh, Sarah Herby, Bryan Traughber, Jianwu Xie, Karun Sharma, Kiran Sekhar, Alfred Chun Shui Luk, David J. Liewehr, Matthew R. Dreher, Terry J. Fry, Bradford J. Wood</authors>
+		<jconf>Radiology</jconf>
+		<id>W2169808388</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autoimmunity during lymphopenia: A two-hit model</title>
+		<year>2006</year>
+		<authors>Tom Krupica, Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Clinical Immunology</jconf>
+		<id>W2063040009</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>TCR engagement negatively affects CD8 but not CD4 CAR T cell expansion and leukemic clearance</title>
+		<year>2017</year>
+		<authors>Yinmeng Yang, M. Eric Kohler, Christopher D. Chien, Christopher Tor Sauter, Elad Jacoby, Chunhua Yan, Ying Hu, Kelsey M. Wanhainen, Haiying Qin, Terry J. Fry</authors>
+		<jconf>Science Translational Medicine</jconf>
+		<id>W2768550677</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sequential loss of tumor surface antigens following chimeric antigen receptor T-cell therapies in diffuse large B-cell lymphoma</title>
+		<year>2018</year>
+		<authors>Haneen Shalabi, Ira L. Kraft, Hao‐Wei Wang, Constance M. Yuan, Bonnie Yates, Cindy Delbrook, Julie D. Zimbelman, Roger Giller, Maryalice Stetler‐Stevenson, Elaine S. Jaffe, Daniel W. Lee, Jack F. Shern, Terry J. Fry, Nirali N. Shah</authors>
+		<jconf>Haematologica</jconf>
+		<id>W2793644168</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Autologous lymphapheresis for the production of chimeric antigen receptor T cells</title>
+		<year>2017</year>
+		<authors>Elizabeth S. Allen, David F. Stroncek, Jiaqiang Ren, Anne F. Eder, Kamille A. West, Terry J. Fry, Daniel W. Lee, Crystal L. Mackall, Cathy Conry‐Cantilena</authors>
+		<jconf>Transfusion</jconf>
+		<id>W2589755395</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Modulation of Target Antigen Density Improves CAR T-cell Functionality and Persistence</title>
+		<year>2019</year>
+		<authors>Sneha Ramakrishna, Steven L. Highfill, Zachary Walsh, Sang M. Nguyen, Haiyan Lei, Jack F. Shern, Haiying Qin, Ira L. Kraft, Maryalice Stetler‐Stevenson, Constance M. Yuan, Jennifer Hwang, Yang Feng, Zhongyu Zhu, Dimiter S. Dimitrov, Nirali N. Shah, Terry J. Fry</authors>
+		<jconf>Clinical Cancer Research</jconf>
+		<id>W2944872008</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>T cells genetically engineered to overcome death signaling enhance adoptive cancer immunotherapy</title>
+		<year>2019</year>
+		<authors>Tori N. Yamamoto, Ping‐Hsien Lee, Suman K. Vodnala, Devikala Gurusamy, Rigel J. Kishton, Zhiya Yu, Arash Eidizadeh, Robert Eil, Jessica Fioravanti, Luca Gattinoni, James N. Kochenderfer, Terry J. Fry, Bülent Arman Aksoy, Jeff Hammerbacher, Anthony Cruz, Richard M. Siegel, Nicholas P. Restifo, Christopher A. Klebanoff</authors>
+		<jconf>Journal of Clinical Investigation</jconf>
+		<id>W2913630852</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Eradication of B-ALL using chimeric antigen receptor–expressing T cells targeting the TSLPR oncoprotein</title>
+		<year>2015</year>
+		<authors>Haiying Qin, Monica Cho, Waleed Haso, Ling Zhang, Sarah K. Tasian, Htoo Zarni Oo, Gian Luca Negri, Yongshun Lin, Jizhong Zou, Barbara S. Mallon, Shannon L. Maude, David T. Teachey, David M. Barrett, Rimas J. Orentas, Mads Daugaard, Poul H. Sorensen, Stephan A. Grupp, Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W1848034928</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Long-Term Outcomes Following CD19 CAR T Cell Therapy for B-ALL Are Superior in Patients Receiving a Fludarabine/Cyclophosphamide Preparative Regimen and Post-CAR Hematopoietic Stem Cell Transplantation</title>
+		<year>2016</year>
+		<authors>Daniel W. Lee, Maryalice Stetler‐Stevenson, Constance M. Yuan, Nirali N. Shah, Cindy Delbrook, Bonnie Yates, Hua Zhang, Ling Zhang, James N. Kochenderfer, Steven A. Rosenberg, Terry J. Fry, David Stroncek, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W2653911491</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Clonal expansion of CAR T cells harboring lentivector integration in the CBL gene following anti-CD22 CAR T-cell therapy</title>
+		<year>2019</year>
+		<authors>Nirali N. Shah, Haiying Qin, Bonnie Yates, Ling Su, Haneen Shalabi, Mark Raffeld, Mark A. Ahlman, Maryalice Stetler‐Stevenson, Constance M. Yuan, Shuang Guo, Siyuan Liu, Stephen H. Hughes, Terry J. Fry, Xiaolin Wu</authors>
+		<jconf>Blood Advances</jconf>
+		<id>W2964464562</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Murine allogeneic CD19 CAR T cells harbor potent antileukemic activity but have the potential to mediate lethal GVHD</title>
+		<year>2015</year>
+		<authors>Elad Jacoby, Yinmeng Yang, Haiying Qin, Christopher D. Chien, James N. Kochenderfer, Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W2398298261</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Challenges and opportunities of allogeneic donor-derived CAR T cells</title>
+		<year>2015</year>
+		<authors>Yinmeng Yang, Elad Jacoby, Terry J. Fry</authors>
+		<jconf>Current Opinion in Hematology</jconf>
+		<id>W2203017588</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Absence of Replication-Competent Lentivirus in the Clinic: Analysis of Infused T Cell Products</title>
+		<year>2017</year>
+		<authors>Kenneth Cornetta, Lisa Duffy, Cameron J. Turtle, Michael C. Jensen, Stephen J. Forman, Gwendolyn Binder-Scholl, Terry J. Fry, Anne Chew, David G. Maloney, Carl H. June</authors>
+		<jconf>Molecular Therapy</jconf>
+		<id>W2756236961</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effect of Cryopreservation on Autologous Chimeric Antigen Receptor T Cell Characteristics</title>
+		<year>2019</year>
+		<authors>Sandhya R. Panch, Sandeep Srivastava, Nasha Elavia, Andrew McManus, Shutong Liu, Ping Jin, Steven L. Highfill, Xiaobai Li, Pradeep K. Dagur, James N. Kochenderfer, Terry J. Fry, Crystal L. Mackall, Daniel Lee, Nirali N. Shah, David F. Stroncek</authors>
+		<jconf>Molecular Therapy</jconf>
+		<id>W2947301297</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Systematic preclinical evaluation of CD33-directed chimeric antigen receptor T cell immunotherapy for acute myeloid leukemia defines optimized construct design</title>
+		<year>2021</year>
+		<authors>Haiying Qin, Lila Yang, John Chukinas, Nirali N. Shah, Samiksha Tarun, Marie Pouzolles, Christopher D. Chien, Lisa M Niswander, Anthony Welch, Naomi Taylor, Sarah K. Tasian, Terry J. Fry</authors>
+		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
+		<id>W3201152267</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CD33 CAR T-Cells (CD33CART) for Children and Young Adults with Relapsed/Refractory AML: Dose-Escalation Results from a Phase I/II Multicenter Trial</title>
+		<year>2023</year>
+		<authors>Nirali N. Shah, Sarah K. Tasian, M. Eric Kohler, Emily M. Hsieh, Susanne H.C. Baumeister, Corinne Summers, Haneen Shalabi, Jessica A. Pollard, Bonnie Yates, Ruta Brazauskas, Eric Ndifon, Constance M. Yuan, Hao‐Wei Wang, Hati Kobusingye, Kayla Christianson, Allison A Weiss, Erin Leckrone, Bronwen E. Shaw, Jeffery J. Auletta, Hemalatha G. Rangarajan, John Roach, Julie Blake, Dennis F. Michiel, Brian Bowser, Sheryl Ruppel, George Mitra, Anthony Welch, Jason L. Yovandich, Rachelle Salomon, Leslie S. Kean, Katherine Tarlock, Michael A. Pulsipher, Michael R. Verneris, Larisa Broglie, Terry J. Fry, Steven M. Devine, Richard Aplenc</authors>
+		<jconf>Blood</jconf>
+		<id>W4389247126</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Targeting TGFβ-activated kinase-1 activation in microglia reduces CAR T immune effector cell-associated neurotoxicity syndrome</title>
+		<year>2024</year>
+		<authors>Janaki Manoja Vinnakota, Francesca Biavasco, Marius Schwabenland, Chintan Chhatbar, Rachael C. Adams, Daniel Erny, Sandra Duquesne, Nadia El Khawanky, Dominik Schmidt, Viktor Fetsch, Alexander Zähringer, Henrike Salié, Dimitrios Athanassopoulos, Lukas M. Braun, Nora R. Javorniczky, Jenny N. H. G. Ho, Katrin Kierdorf, Reinhard Marks, Ralph Wäsch, Federico Simonetta, Geoffroy Andrieux, Dietmar Pfeifer, Gianni Monaco, Christian M. Capitini, Terry J. Fry, Thomas Blank, Bruce R. Blazar, Eva Wagner, Matthias Theobald, Clemens Sommer, Matthias Stelljes, Christian Reicherts, Astrid Jeibmann, Jens Schittenhelm, Camelia‐Maria Monoranu, Andreas Rosenwald, K. Martin Kortüm, Leo Rasche, Hermann Einsele, Philipp T. Meyer, Joachim Brumberg, Simon Völkl, Andréas Mackensen, Roland Coras, Michael von Bergwelt‐Baildon, Nathalie L. Albert, Laura M. Bartos, Matthias Brendel, Adrien Holzgreve, Matthias Mack, Melanie Boerries, Crystal L. Mackall, Justus Duyster, Philipp Henneke, Josef Priller, Natalie Köhler, Felix Strübing, Bertram Bengsch, Marco Ruella, Marion Subklewe, Louisa von Baumgarten, Saar Gill, Marco Prinz, Robert Zeiser</authors>
+		<jconf>Nature Cancer</jconf>
+		<id>W4396871395</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Talicabtagene autoleucel for relapsed or refractory B-cell malignancies: results from an open-label, multicentre, phase 1/2 study</title>
+		<year>2025</year>
+		<authors>Hasmukh Jain, Atharva Karulkar, Devanshi Kalra, Smrithi Ravikumar, Shreshtha Shah, Afrin Firfiray, Juber Pendhari, Ankesh Kumar Jaiswal, Aalia Khan, Manivasagam Sundharam, Anand Vaibhaw, Ashish Saroha, Shreewardhan Rajyopadhye, Moumita Basu, Sweety Asija, Ambalika Chowdhury, Rohit Beher, Ankit Banik, Alka Dwivedi, Shalini Purwar, Gaurav Narula, Shripad Banavali, Nitin Jain, Steven L. Highfill, David F. Stroncek, Terry J. Fry, Sameer Melinkeri, Lovin Wilson, Narendra Agarwal, Anil Aribandi, Pavan Kumar Boyella, Nirali N. Shah, Sattva S. Neelapu, Manju Sengar, Rahul Purwar</authors>
+		<jconf>The Lancet Haematology</jconf>
+		<id>W4408392398</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interleukin-7 restores immunity in athymic T-cell–depleted hosts</title>
+		<year>2001</year>
+		<authors>Terry J. Fry, Barbara L. Christensen, Kristin L. Komschlies, Ronald E. Gress, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W2056644883</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Background to hematopoietic cell transplantation, including post transplant immune recovery</title>
+		<year>2009</year>
+		<authors>Crystal L. Mackall, Terry J. Fry, Ronald E. Gress, Karl S. Peggs, Jan Storek, Antoine Toubert</authors>
+		<jconf>Bone Marrow Transplantation</jconf>
+		<id>W2019622169</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Immune-based therapies for childhood cancer</title>
+		<year>2014</year>
+		<authors>Crystal L. Mackall, Melinda S. Merchant, Terry J. Fry</authors>
+		<jconf>Nature Reviews Clinical Oncology</jconf>
+		<id>W2067839517</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Elutriated lymphocytes for manufacturing chimeric antigen receptor T cells</title>
+		<year>2017</year>
+		<authors>David F. Stroncek, Daniel W. Lee, Jiaqiang Ren, Marianna Sabatino, Steven L. Highfill, Hanh Khuu, Nirali N. Shah, Rosandra N. Kaplan, Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Journal of Translational Medicine</jconf>
+		<id>W2599193187</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Systematic Evaluation of Neurotoxicity in Children and Young Adults Undergoing CD22 Chimeric Antigen Receptor T-Cell Therapy</title>
+		<year>2018</year>
+		<authors>Haneen Shalabi, Pamela L. Wolters, Staci Martin, Mary Anne Toledo‐Tamula, Marie Claire Roderick, Kari Struemph, Eli Kane, Bonnie Yates, Cindy Delbrook, Crystal L. Mackall, Daniel W. Lee, Terry J. Fry, Nirali N. Shah</authors>
+		<jconf>Journal of Immunotherapy</jconf>
+		<id>W2883690493</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Perforin-deficient CAR T cells recapitulate late-onset inflammatory toxicities observed in patients</title>
+		<year>2020</year>
+		<authors>Kazusa Ishii, Marie Pouzolles, Christopher D. Chien, Rebecca Erwin-Cohen, M. Eric Kohler, Haiying Qin, Haiyan Lei, Skyler Kuhn, Amanda K. Ombrello, Alina Dulau‐Florea, Michael Eckhaus, Haneen Shalabi, Bonnie Yates, Daniel A. Lichtenstein, Valérie S. Zimmermann, Taisuke Kondo, Jack F. Shern, Howard A. Young, Naomi Taylor, Nirali N. Shah, Terry J. Fry</authors>
+		<jconf>Journal of Clinical Investigation</jconf>
+		<id>W3084862157</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Infectious complications of CAR T-cell therapy across novel antigen targets in the first 30 days</title>
+		<year>2021</year>
+		<authors>Lekha Mikkilineni, Bonnie Yates, Seth M. Steinberg, Shilpa Shahani, John C. Molina, Tara N. Palmore, Daniel W. Lee, Rosandra N. Kaplan, Crystal L. Mackall, Terry J. Fry, Juan Gea‐Banacloche, Theresa Jerussi, Véronique Nussenblatt, James N. Kochenderfer, Nirali N. Shah</authors>
+		<jconf>Blood Advances</jconf>
+		<id>W3204393409</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Efficacy of second CAR-T (CART2) infusion limited by poor CART expansion and antigen modulation</title>
+		<year>2022</year>
+		<authors>Elizabeth M. Holland, John C. Molina, Kniya DéDé, Daniel Moyer, Ting Zhou, Constance M. Yuan, Hao‐Wei Wang, Maryalice Stetler‐Stevenson, Crystal L. Mackall, Terry J. Fry, Sandhya R. Panch, Steven L. Highfill, David F. Stroncek, Lauren Little, Daniel W Lee, Haneen Shalabi, Bonnie Yates, Nirali N. Shah</authors>
+		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
+		<id>W4280603136</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Potent preclinical activity of FLT3-directed chimeric antigen receptor T-cell immunotherapy against &amp;lt;i&amp;gt;FLT3&amp;lt;/i&amp;gt;- mutant acute myeloid leukemia and &amp;lt;i&amp;gt;KMT2A&amp;lt;/i&amp;gt;-rearranged acute lymphoblastic leukemia</title>
+		<year>2022</year>
+		<authors>Lisa M Niswander, Zachary Graff, Christopher D. Chien, John Chukinas, Christina A. Meadows, Lillie Leach, Joseph P. Loftus, M. Eric Kohler, Sarah K. Tasian, Terry J. Fry</authors>
+		<jconf>Haematologica</jconf>
+		<id>W4291015290</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The impact of race, ethnicity, and obesity on CAR T-cell therapy outcomes</title>
+		<year>2022</year>
+		<authors>Aiman Faruqi, John A. Ligon, Paul Borgman, Seth M. Steinberg, Toni Foley, Lauren Little, Crystal L. Mackall, Daniel W. Lee, Terry J. Fry, Haneen Shalabi, Jennifer N. Brudno, Bonnie Yates, Lekha Mikkilineni, James N. Kochenderfer, Nirali N. Shah</authors>
+		<jconf>Blood Advances</jconf>
+		<id>W4290725268</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>FOXP1 and KLF2 reciprocally regulate checkpoints of stem-like to effector transition in CAR T cells</title>
+		<year>2023</year>
+		<authors>Ziang Zhu, Guohua Lou, Xiao-Lu Teng, Haixia Wang, Ying Luo, Wangke Shi, Kiddist Yihunie, Shu‐Meng Hao, Kole DeGolier, Chengheng Liao, Huocong Huang, Qing Zhang, Terry J. Fry, Tao Wang, Chen Yao, Tuoqi Wu</authors>
+		<jconf>Nature Immunology</jconf>
+		<id>W4389045621</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>CD22 CAR T-cell associated hematologic toxicities, endothelial activation and relationship to neurotoxicity</title>
+		<year>2023</year>
+		<authors>Jennifer Jess, Bonnie Yates, Alina Dulau‐Florea, Kevin R. Parker, Jon R. Inglefield, Daniel A. Lichtenstein, Fiorella Schischlik, Martin Ongkeko, Yanyu Wang, Shilpa Shahani, Ann Cullinane, Hannah Smith, Eli Kane, Lauren Little, Dong Chen, Terry J. Fry, Haneen Shalabi, Hao‐Wei Wang, Ansuman T. Satpathy, Jay N. Lozier, Nirali N. Shah</authors>
+		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
+		<id>W4380089819</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Interleukin 7 worsens graft-versus-host disease</title>
+		<year>2002</year>
+		<authors>Manoj Sinha, Terry J. Fry, Daniel H. Fowler, Georgina Miller, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W2168987586</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Association of Serum Interleukin-7 Levels With the Development of Acute Graft-Versus-Host Disease</title>
+		<year>2008</year>
+		<authors>Robert M. Dean, Terry J. Fry, Crystal L. Mackall, Seth M. Steinberg, Fran Hakim, Daniel H. Fowler, Jeanne Odom, Jason Foley, Ronald E. Gress, Michael Bishop</authors>
+		<jconf>Journal of Clinical Oncology</jconf>
+		<id>W2120941256</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Eradication of disseminated adenovirus infection in a pediatric hematopoietic stem cell transplantation recipient using the novel antiviral agent CMX001</title>
+		<year>2010</year>
+		<authors>Kris Paolino, Jane Sande, Evelio Perez‐Albuerne, Brett Loechelt, Barbara Jantausch, Wendy Painter, Margaret Anderson, Tim Tippin, E. Randall Lanier, Terry J. Fry, Roberta L. DeBiasi</authors>
+		<jconf>Journal of Clinical Virology</jconf>
+		<id>W2046950930</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Phase I Experience with a Bi-Specific CAR Targeting CD19 and CD22 in Adults with B-Cell Malignancies</title>
+		<year>2018</year>
+		<authors>Nasheed Hossain, Bita Sahaf, Matthew Abramian, Jay Y. Spiegel, Katie Kong, Stephen Kim, Sharon Mavroukakis, Jean Oak, Yasodha Natkunam, Everett Meyer, Matthew J. Frank, Steven A. Feldman, Steven Long, Haiying Qin, Terry J. Fry, Lori Muffly, Crystal L. Mackall, David B. Miklos</authors>
+		<jconf>Blood</jconf>
+		<id>W2906492823</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Phase 1 Study of CD19/CD22 Bispecific Chimeric Antigen Receptor (CAR) Therapy in Children and Young Adults with B Cell Acute Lymphoblastic Leukemia (ALL)</title>
+		<year>2018</year>
+		<authors>Liora M. Schultz, Kara L. Davis, Christina Baggott, Christie Chaudry, Anne Cunniffe Marcy, Sharon Mavroukakis, Bita Sahaf, Katherine A. Kong, Lori Muffly, Stephen Kim, Everett Meyer, Terry J. Fry, Haiying Qin, David B. Miklos, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W2905858534</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Minimal Residual Disease Negative Complete Remissions Following Anti-CD22 Chimeric Antigen Receptor (CAR) in Children and Young Adults with Relapsed/Refractory Acute Lymphoblastic Leukemia (ALL)</title>
+		<year>2016</year>
+		<authors>Nirali N. Shah, Maryalice Stetler‐Stevenson, Constance M. Yuan, Haneen Shalabi, Bonnie Yates, Cindy Delbrook, Ling Zhang, Daniel W. Lee, David Stroncek, Crystal L. Mackall, Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W2979678869</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Safety and Response of Incorporating CD19 Chimeric Antigen Receptor T Cell Therapy in Typical Salvage Regimens for Children and Young Adults with Acute Lymphoblastic Leukemia</title>
+		<year>2015</year>
+		<authors>Daniel W. Lee, Maryalice Stetler‐Stevenson, Constance M. Yuan, Terry J. Fry, Nirali N. Shah, Cindy Delbrook, Bonnie Yates, Hua Zhang, Ling Zhang, James N. Kochenderfer, Steven A. Rosenberg, David Stroncek, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W2508162331</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Phase I Trial Using CD19/CD22 Bispecific CAR T Cells in Pediatric and Adult Acute Lymphoblastic Leukemia (ALL)</title>
+		<year>2019</year>
+		<authors>Liora M. Schultz, Lori Muffly, Jay Y. Spiegel, Sneha Ramakrishna, Nasheed Hossain, Christina Baggott, Bita Sahaf, Shabnum Patel, Juliana Craig, Jenny Yoon, Meena Kadapakkam, Robbie G. Majzner, Matthew J. Frank, Courtney Erickson, Anne Cunniffe Marcy, Michelle Fujimoto, Neehar Bhatia, Everett Meyer, Katherine A. Kong, Emily Egeler, Sharon Mavroukakis, Haiying Qin, Terry J. Fry, Steven A. Feldman, David B. Miklos, Crystal L. Mackall, Kara L. Davis</authors>
+		<jconf>Blood</jconf>
+		<id>W2991073805</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Serial evaluation of CD19 surface expression in pediatric B-cell malignancies following CD19-targeted therapy</title>
+		<year>2020</year>
+		<authors>Diane Libert, Constance M. Yuan, Katherine E. Masih, Pallavi Galera, Dalia Salem, Haneen Shalabi, Bonnie Yates, Cindy Delbrook, Jack F. Shern, Terry J. Fry, Javed Khan, Maryalice Stetler‐Stevenson, Nirali N. Shah</authors>
+		<jconf>Leukemia</jconf>
+		<id>W3008757142</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Prospective PTCTC trial of myeloablative haplo-BMT with posttransplant cyclophosphamide for pediatric acute leukemias</title>
+		<year>2023</year>
+		<authors>Juan C. Fierro Pineda, Hua‐Ling Tsai, Amanda L. Blackford, Andrew Cluster, Emi Caywood, Jignesh Dalal, Jeffrey Davis, Maarten Egeler, Jeffrey S. Huo, Michelle Hudspeth, Amy K. Keating, Susan S. Kelly, Joerg Krueger, Dean A. Lee, Leslie E. Lehmann, Lisa Madden, Benjamin Oshrine, Michael A. Pulsipher, Terry J. Fry, Heather J. Symons</authors>
+		<jconf>Blood Advances</jconf>
+		<id>W4378903121</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bax Deficiency Partially Corrects Interleukin-7 Receptor α Deficiency</title>
+		<year>2002</year>
+		<authors>Annette R. Khaled, Wenqing Li, Jiaqiang Huang, Terry J. Fry, Amr S. Khaled, Crystal L. Mackall, Kathrin Muegge, Howard A. Young, Scott K. Durum</authors>
+		<jconf>Immunity</jconf>
+		<id>W2018038111</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Flt3 ligand enhances thymic-dependent and thymic-independent immune reconstitution</title>
+		<year>2004</year>
+		<authors>Terry J. Fry, Manoj Sinha, Matthew Milliron, Yu‐Waye Chu, Veena Kapoor, Ronald E. Gress, E. Donnall Thomas, Crystal L. Mackall</authors>
+		<jconf>Blood</jconf>
+		<id>W1972776798</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Recombinant Interleukin-7 Induces Proliferation of Naive Macaque CD4&lt;sup&gt;+&lt;/sup&gt;and CD8&lt;sup&gt;+&lt;/sup&gt;T Cells In Vivo</title>
+		<year>2004</year>
+		<authors>Marcin Moniuszko, Terry J. Fry, Wen-Po Tsai, Michel Morre, Brigitte Assouline, Pierre Cortez, Mark G. Lewis, Scott Cairns, Crystal L. Mackall, Genoveffa Franchini</authors>
+		<jconf>Journal of Virology</jconf>
+		<id>W2025559962</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Immune reconstitution following hematopoietic progenitor cell transplantation: challenges for the future</title>
+		<year>2005</year>
+		<authors>Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Bone Marrow Transplantation</jconf>
+		<id>W2020169030</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Val-BoroPro Accelerates T Cell Priming via Modulation of Dendritic Cell Trafficking Resulting in Complete Regression of Established Murine Tumors</title>
+		<year>2013</year>
+		<authors>Meghaan P. Walsh, Brynn B. Duncan, Shannon M. Larabee, Aviva C. Krauss, Jessica P.E. Davis, Yongzhi Cui, Su Young Kim, Martin Guimond, William W. Bachovchin, Terry J. Fry</authors>
+		<jconf>PLoS ONE</jconf>
+		<id>W2040702887</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cytomegalovirus Infection Incidence and Risk Factors Across Diverse Hematopoietic Cell Transplantation Platforms Using a Standardized Monitoring and Treatment Approach: A Comprehensive Evaluation from a Single Institution</title>
+		<year>2018</year>
+		<authors>Ricardo Melendez-Munoz, Rachel Marchalik, Theresa Jerussi, Dimana Dimitrova, Véronique Nussenblatt, Andrea Beri, Khalid Rai, Jennifer Wilder, A. John Barrett, Minoo Battiwalla, Richard W. Childs, Courtney D. Fitzhugh, Daniel H. Fowler, Terry J. Fry, Ronald E. Gress, Matthew M. Hsieh, Sawa Ito, Elizabeth M. Kang, Steven Z. Pavletic, Nirali N. Shah, John F. Tisdale, Juan Gea‐Banacloche, Christopher G. Kanakry, Jennifer A. Kanakry</authors>
+		<jconf>Biology of Blood and Marrow Transplantation</jconf>
+		<id>W2793694873</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Meeting Program and Abstracts</title>
+		<year>2019</year>
+		<authors>Maria Papaleontiou, Sarah J. Peterson, X. S. Ding, Ying Yang, Connie Meeyoung, Rhee Charles, Andrew Carter, Rebecca S. Bahn, Deborah Doniach, Gabriella Morreale de Escobar, Panel Discussion, Elizabeth Pearce, Sandra M. McLachlan, Juan Bernal, Robin P. Peeters, Anthony N. Hollenberg, Marco Medici, Rossella Elisei, J. Woody Sistrunk, George J. Kahaly, Chrysoula Dosiou, Marius N. Stan, Antonio Di Cristofano, Mona M. Sabra, Bryan R. Haugen, Terry J. Fry, Silvia Ippolito, Raffaele Ciampi, Ana-Maria Chindris, Eva Katrin, W E Paul, Michael T. Yen, László Hegedűs, Fulvio Basolo, Lin Yansong, Anastasios Maniakas, Rosa Falcone, Leonard Wartofsky, Francesco S. Celi, Ernest Asamoah, Charles W. Carter, Minjing Zou, Huda A. BinEssa, Yousif H. Al-Malki, Ibrahim Al‐Jammaz, Anwar F Al-Enezi, Falah Almohanna, Abdullah M. Assiri, Brian F. Meyer, Ali S. Alzahrani, Yuxiang Shi, Travis A. Smith, Saba Sile, Elizabeth L. Thompson, Thomas Vescio, Renee Perdok, Jeffrey W. Sherman, Raymond S. Douglas, Xia Yin, Xujun Liang, Kelly‐Anne Phillips, Susanne Neumann, Shuja Shafi Malik, Bernice Marcus‐Samuels, Е. В. Елисеева, D. Jang, Joanna Kłubo-Gwieździńska, Cornelia Krieger, Marvin C. Gershengorn, David Reyes‐Gastelum, Mousumi Banerjee, Sarah T. Hawley, Megan R. Haymart, Thaís C. O. Fonseca, Kathryn G. Schuff, Elizabeth A. McAninch</authors>
+		<jconf>Thyroid</jconf>
+		<id>W4254105103</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Rational redesign of antigen binding domain improves&lt;i&gt;in vivo&lt;/i&gt;efficacy of CD22-CAR T cells</title>
+		<year>2025</year>
+		<authors>Kole DeGolier, Zachary H. Walsh, Lillie Leach, Christine Brzezinski, Amanda Novak, Dimiter Dmitrov, M. Eric Kohler, Terry J. Fry</authors>
+		<jconf>bioRxiv (Cold Spring Harbor Laboratory)</jconf>
+		<id>W4408593208</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>T-bet overexpression enhances CAR T cell effector functions and antigen sensitivity</title>
+		<year>2025</year>
+		<authors>Jennifer Cimons, Kole DeGolier, Samuel D. Burciaga, Michael Yarnell, A. Novak, Amalia M Rivera-Reyes, M. Eric Kohler, Terry J. Fry</authors>
+		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
+		<id>W4409535404</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Abstract 4801: T-bet overexpression promotes CAR T cell potency and responsiveness to low antigen density leukemia</title>
+		<year>2025</year>
+		<authors>Jennifer Cimons, Kole DeGolier, Samuel D. Burciaga, M. Eric Kohler, Terry J. Fry</authors>
+		<jconf>Cancer Research</jconf>
+		<id>W4409626842</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Hematopoietic Stem Cell Donation in Children</title>
+		<year>2007</year>
+		<authors>Lori Wiener, Emilie A. Steffen-Smith, Terry J. Fry, Alan S. Wayne</authors>
+		<jconf>Journal of Psychosocial Oncology</jconf>
+		<id>W2007993162</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Potential Role for IL-7 in Fas-Mediated T Cell Apoptosis During HIV Infection</title>
+		<year>2007</year>
+		<authors>Caroline Fluur, Angelo De Milito, Terry J. Fry, Nancy Vivar, Liv Eidsmo, Ann Atlas, Cristina Federici, Paola Matarrese, Mariantonia Logozzi, Éva Rajnavölgyi, Crystal L. Mackall, Stefano Fais, Francesca Chiodi, Bence Réthi</authors>
+		<jconf>The Journal of Immunology</jconf>
+		<id>W1781294748</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Sibling stem cell donor experiences at a single institution</title>
+		<year>2007</year>
+		<authors>Lori Wiener, Emilie A. Steffen-Smith, Haven Battles, Alan S. Wayne, C. Love, Terry J. Fry</authors>
+		<jconf>Psycho-Oncology</jconf>
+		<id>W2133475309</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>T-cell adoptive immunotherapy for acute lymphoblastic leukemia</title>
+		<year>2013</year>
+		<authors>Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Hematology</jconf>
+		<id>W2098690052</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Murine Models of Acute Leukemia: Important Tools in Current Pediatric Leukemia Research</title>
+		<year>2014</year>
+		<authors>Elad Jacoby, Christopher D. Chien, Terry J. Fry</authors>
+		<jconf>Frontiers in Oncology</jconf>
+		<id>W2012596055</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Induction of Immune Response after Allogeneic Wilms&apos; Tumor 1 Dendritic Cell Vaccination and Donor Lymphocyte Infusion in Patients with Hematologic Malignancies and Post-Transplantation Relapse</title>
+		<year>2016</year>
+		<authors>Nirali N. Shah, David M. Loeb, Hahn Khuu, David Stroncek, Tolu Ariyo, Mark Raffeld, Cindy Delbrook, Crystal L. Mackall, Alan S. Wayne, Terry J. Fry</authors>
+		<jconf>Biology of Blood and Marrow Transplantation</jconf>
+		<id>W2519109143</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Outcomes of Measurable Residual Disease in Pediatric Acute Myeloid Leukemia before and after Hematopoietic Stem Cell Transplant: Validation of Difference from Normal Flow Cytometry with Chimerism Studies and Wilms Tumor 1 Gene Expression</title>
+		<year>2018</year>
+		<authors>David A. Jacobsohn, Michael R. Loken, Mingwei Fei, Alexia Adams, Lisa Eidenschink Brodersen, Brent R. Logan, Kwang Woo Ahn, Bronwen E. Shaw, Morris Kletzel, Marie Olszewski, Sana Khan, Soheil Meshinchi, Amy K. Keating, Andrew C. Harris, Pierre Teira, Reggie Duerst, Steven Margossian, Paul L. Martin, Aleksandra Petrović, Christopher C. Dvorak, Eneida R. Nemecek, Michael W. Boyer, Allen Chen, Jeffrey Davis, Shalini Shenoy, Süreyya Savaşan, Michelle Hudspeth, Roberta H. Adams, Victor Lewis, Albert Kheradpour, Kimberly A. Kasow, Alfred P. Gillio, Ann E. Haight, Monica Bhatia, Barbara Bambach, Hilary Haines, Troy C. Quigg, Robert Greiner, Julie‐An Talano, David Delgado, Alexandra Cheerva, Madhu Gowda, Sanjay Ahuja, M. Fevzi Özkaynak, David Mitchell, Kirk R. Schultz, Terry J. Fry, David M. Loeb, Michael A. Pulsipher</authors>
+		<jconf>Biology of Blood and Marrow Transplantation</jconf>
+		<id>W2808759948</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Chimeric Antigen Receptors Incorporating D Domains Targeting CD123 Direct Potent Mono- and Bi-specific Antitumor Activity of T Cells</title>
+		<year>2019</year>
+		<authors>Haiying Qin, Justin P. Edwards, Liubov Zaritskaya, Ankit Gupta, Chaofeng Mu, Terry J. Fry, David M. Hilbert, David W. LaFleur</authors>
+		<jconf>Molecular Therapy</jconf>
+		<id>W2939624324</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Robust Antitumor Activity and Low Cytokine Production by Novel Humanized Anti-CD19 CAR T Cells</title>
+		<year>2021</year>
+		<authors>Alka Dwivedi, Atharva Karulkar, Sarbari Ghosh, Srisathya Srinivasan, Bajarang Vasant Kumbhar, Ankesh Kumar Jaiswal, Atish Kizhakeyil, Sweety Asija, Afrin Rafiq, Sushant Kumar, Albeena Nisar, Deepali Patil, Minal Poojary, Hasmukh Jain, Shripad Banavali, Steven L. Highfill, David F. Stroncek, Nirali N. Shah, Terry J. Fry, Gaurav Narula, Rahul Purwar</authors>
+		<jconf>Molecular Cancer Therapeutics</jconf>
+		<id>W3130682147</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Two decades of advances in clinical oncology — lessons learned and future directions</title>
+		<year>2024</year>
+		<authors>Susana Banerjee, Christopher M. Booth, Éduardo Bruera, Markus W. Büchler, Alexander Drilon, Terry J. Fry, Irene M. Ghobrial, Luca Gianni, Rakesh K. Jain, Guido Kroemer, Josep M. Llovet, Georgina V. Long, Klaus Pantel, Kathy Pritchard‐Jones, Howard I. Scher, Josep Tabernero, Ralph R. Weichselbaum, Michael Weller, Yi‐Long Wu</authors>
+		<jconf>Nature Reviews Clinical Oncology</jconf>
+		<id>W4403032713</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Characterization of a digital polymerase chain reaction assay to quantify total T cells relative to chimeric antigen receptor-positive T cells: applications for clinical trial monitoring</title>
+		<year>2025</year>
+		<authors>Lindsey Murphy, Laura J. Sedivy, M. Eric Kohler, Kimberly R. Jordan, Angela M. Ohm, Jill E. Slansky, Michael Yarnell, Terry J. Fry, Amanda Winters</authors>
+		<jconf>Deleted Journal</jconf>
+		<id>W4409283937</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Paradox of Acute Myeloid Leukemia Responsiveness to Adoptive T-cell Therapy</title>
+		<year>2025</year>
+		<authors>Terry J. Fry</authors>
+		<jconf>Blood Cancer Discovery</jconf>
+		<id>W4409503037</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Current concepts of thymic aging</title>
+		<year>2002</year>
+		<authors>Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Springer Seminars in Immunopathology</jconf>
+		<id>W2047987711</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Cytokine Signals in T-Cell Homeostasis</title>
+		<year>2005</year>
+		<authors>Martin Guimond, Terry J. Fry, Crystal L. Mackall</authors>
+		<jconf>Journal of Immunotherapy</jconf>
+		<id>W2055532057</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Transplantation of a myelodysplastic syndrome by a long-term repopulating hematopoietic cell</title>
+		<year>2008</year>
+		<authors>Yang Jo Chung, Chul Won Choi, Christopher Slape, Terry J. Fry, Peter D. Aplan</authors>
+		<jconf>Proceedings of the National Academy of Sciences</jconf>
+		<id>W2080403219</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Bone marrow deficient in IFN-γ signaling selectively reverses GVHD-associated immunosuppression and enhances a tumor-specific GVT effect</title>
+		<year>2009</year>
+		<authors>Christian M. Capitini, Sarah Herby, Matthew Milliron, Miriam R. Anver, Crystal L. Mackall, Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W2069467162</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Novel CD19/CD22 Bicistronic Chimeric Antigen Receptors Outperform Single or Bivalent Cars in Eradicating CD19+CD22+, CD19-, and CD22- Pre-B Leukemia</title>
+		<year>2017</year>
+		<authors>Haiying Qin, Sang M. Nguyen, Sneha Ramakrishna, Samiksha Tarun, Lila Yang, Nicholas Peter Verdini, Waleed Haso, Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W2913275810</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Preclinical Development of FLT3-Redirected Chimeric Antigen Receptor T Cell Immunotherapy for Acute Myeloid Leukemia</title>
+		<year>2016</year>
+		<authors>Christopher D. Chien, Christopher Tor Sauter, Kazusa Ishii, Sang M. Nguyen, Feng Shen, Sarah K. Tasian, Weizao Chen, Dimiter S. Dimitrov, Terry J. Fry</authors>
+		<jconf>Blood</jconf>
+		<id>W2588973392</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Diagnostic approach to the evaluation of myeloid malignancies following CAR T-cell therapy in B-cell acute lymphoblastic leukemia</title>
+		<year>2020</year>
+		<authors>George Mo, Hao‐Wei Wang, Aimee C. Talleur, Shilpa Shahani, Bonnie Yates, Haneen Shalabi, Michael G. Douvas, Katherine R. Calvo, Jack F. Shern, Sridhar Chaganti, Katharine Patrick, Young Song, Terry J. Fry, Xiaolin Wu, Brandon M. Triplett, Javed Khan, Rebecca Gardner, Nirali N. Shah</authors>
+		<jconf>Journal for ImmunoTherapy of Cancer</jconf>
+		<id>W3108772849</id>
+		<label>0</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Human papillomavirus DNA types in squamous cell carcinomas of the head and neck</title>
+		<year>1991</year>
+		<authors>Susan Watts, E BREWER, Terry L. Fry</authors>
+		<jconf>Oral Surgery Oral Medicine Oral Pathology</jconf>
+		<id>W1990010614</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Headache of Nasal Spur Origin: an Easily Diagnosed and Surgically Correctable Cause of Facial Pain</title>
+		<year>1984</year>
+		<authors>Ronald W. Gerbe, Terry L. Fry, Newton D. Fischer</authors>
+		<jconf>Headache The Journal of Head and Face Pain</jconf>
+		<id>W2046583078</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A targeted problem and its solution</title>
+		<year>1986</year>
+		<authors>Manning M. Goldsmith, Terry L. Fry</authors>
+		<jconf>The Laryngoscope</jconf>
+		<id>W1504379007</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Comparisons of Tracheostomy Incisions in a Pediatric Model</title>
+		<year>1985</year>
+		<authors>Terry L. Fry, Newton D. Fischer, Raleigh O. Jones, Harold C. Pillsbury</authors>
+		<jconf>Annals of Otology Rhinology &amp; Laryngology</jconf>
+		<id>W7456506</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Effects of Laser, Scalpel, and Electrosurgical Excision on Wound Contracture and Graft “Take”</title>
+		<year>1980</year>
+		<authors>Terry L. Fry, Ronald W. Gerbe, Sherif B. Botros, Newton D. Fischer, Terry L. Fry</authors>
+		<jconf>Plastic &amp; Reconstructive Surgery</jconf>
+		<id>W2313667116</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tracheal reconstruction with pedicled thyroid cartilage</title>
+		<year>1985</year>
+		<authors>Newton D. Fischer, Terry L. Fry, Harold C. Pillsbury</authors>
+		<jconf>The Laryngoscope</jconf>
+		<id>W2034373469</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Otoscopy and Photography</title>
+		<year>1979</year>
+		<authors>Benjamin K. Chen, Terry L. Fry, Newton D. Fischer</authors>
+		<jconf>Annals of Otology Rhinology &amp; Laryngology</jconf>
+		<id>W2151326814</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Orbital complications of sickle cell disease</title>
+		<year>1990</year>
+		<authors>James D. Sidman, Richard E. Brownlee, William C. Smith, Terry L. Fry</authors>
+		<jconf>International Journal of Pediatric Otorhinolaryngology</jconf>
+		<id>W2010605513</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Frontal sinus trephination: A new technique for office procedure</title>
+		<year>1980</year>
+		<authors>Terry L. Fry, W. Paul Biggers, Newton D. Fischer</authors>
+		<jconf>The Laryngoscope</jconf>
+		<id>W2061822594</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Simple technique for stabilizing depressed zygomatic arch fractures.</title>
+		<year>1986</year>
+		<authors>Manning M. Goldsmith, Terry L. Fry</authors>
+		<jconf>The Laryngoscope</jconf>
+		<id>W2409531197</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evaluation of otic drops on infection and healing of traumatic tympanic membrane perforations</title>
+		<year>1979</year>
+		<authors>Terry L. Fry, Benjamin Chen, Newton D. Fischer, Scott Y. Pharr</authors>
+		<jconf>The Laryngoscope</jconf>
+		<id>W2024560044</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The implications of &quot;controlled&quot; studies of tonsillectomy and adenoidectomy.</title>
+		<year>1987</year>
+		<authors>Terry L. Fry, Harold C. Pillsbury</authors>
+		<jconf>PubMed</jconf>
+		<id>W2416663199</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Implications of “Controlled” Studies of Tonsillectomy and Adenoidectomy</title>
+		<year>1987</year>
+		<authors>Terry L. Fry, Harold C. Pillsbury</authors>
+		<jconf>Otolaryngologic Clinics of North America</jconf>
+		<id>W4301254607</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Evidence for obstructive etiology in intravenous bacterial pyelonephritis</title>
+		<year>1975</year>
+		<authors>Terry L. Fry, Floyd A. Fried, Beverly A. Goven</authors>
+		<jconf>Journal of Surgical Research</jconf>
+		<id>W2158892193</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tasks a Curriculum Director Is Expected to Perform.</title>
+		<year>1978</year>
+		<authors>Terry L. Fry</authors>
+		<jconf>Illinois School Research and Development</jconf>
+		<id>W160737402</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>A Multiplexing System for Multichannel Signal Averaging of the Visual Evoked Response</title>
+		<year>1979</year>
+		<authors>James P. Ary, Terry L. Fry, William R. Biersdorf</authors>
+		<jconf>IEEE Transactions on Biomedical Engineering</jconf>
+		<id>W2089054203</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tips on septal dermoplasty.</title>
+		<year>1987</year>
+		<authors>Manning M. Goldsmith, Terry L. Fry</authors>
+		<jconf>PubMed</jconf>
+		<id>W2168907934</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Tips on septal dermoplasty</title>
+		<year>1987</year>
+		<authors>Manning M. Goldsmith, Terry L. Fry</authors>
+		<jconf>The Laryngoscope</jconf>
+		<id>W4299133861</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>BOOK REVIEWS</title>
+		<year>1991</year>
+		<authors>David W. Eisele, Amelia F. Drake, Mark C. Loury, Terry L. Fry, Francis I. Catlin</authors>
+		<jconf>Otolaryngology</jconf>
+		<id>W4245469483</id>
+		<label>1</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Importance of Algae to Stream Invertebrates</title>
+		<year>1986</year>
+		<authors>Randall L. Fuller, Jeffery L. Roelofs, Terry J. Fry</authors>
+		<jconf>Journal of the North American Benthological Society</jconf>
+		<id>W2046228281</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>Influence of Different Food Types on the Growth of Simulium vittatum (Diptera) and Hydropsyche betteni (Trichoptera)</title>
+		<year>1988</year>
+		<authors>Randall L. Fuller, Terry J. Fry, Jeff A. Roelofs</authors>
+		<jconf>Journal of the North American Benthological Society</jconf>
+		<id>W2077186397</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+	<publication>
+		<title>The Influence of Temperature and Food Quality on the Growth of&lt;i&gt;Hydropsyche betteni&lt;/i&gt;(Trichoptera) and&lt;i&gt;Simulium vittatum&lt;/i&gt;(Diptera)</title>
+		<year>1991</year>
+		<authors>Randall L. Fuller, Terry J. Fry</authors>
+		<jconf>Journal of Freshwater Ecology</jconf>
+		<id>W2057052117</id>
+		<label>2</label>
+		<organization>null</organization>
+	</publication>
+</person>

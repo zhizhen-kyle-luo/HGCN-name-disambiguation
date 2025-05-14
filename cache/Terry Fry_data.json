@@ -1,0 +1,7122 @@
+{
+  "author_name": "Terry Fry",
+  "author_data": {
+    "A5017207916": {
+      "id": "A5017207916",
+      "name": "Terry J. Fry",
+      "name_first": "Terry",
+      "name_middle": "J.",
+      "name_last": "Fry",
+      "works_count": 348,
+      "works": [
+        "W2129702476",
+        "W1619537825",
+        "W2768823259",
+        "W2179454156",
+        "W2919051790",
+        "W1893260165",
+        "W2893691711",
+        "W1994844769",
+        "W2082797461",
+        "W2105011122",
+        "W2004345869",
+        "W3183792933",
+        "W2165981943",
+        "W2496398835",
+        "W3016233874",
+        "W2401536218",
+        "W2624700430",
+        "W3138004978",
+        "W2899700403",
+        "W2057776379",
+        "W3113077294",
+        "W3200081808",
+        "W4281398912",
+        "W4363676877",
+        "W4406000844",
+        "W2123434358",
+        "W2169779391",
+        "W2159958805",
+        "W2105859711",
+        "W1985489508",
+        "W4231600099",
+        "W2169808388",
+        "W2063040009",
+        "W2768550677",
+        "W2793644168",
+        "W2589755395",
+        "W2944872008",
+        "W2913630852",
+        "W1848034928",
+        "W2653911491",
+        "W2964464562",
+        "W2398298261",
+        "W2203017588",
+        "W2756236961",
+        "W2947301297",
+        "W3201152267",
+        "W4389247126",
+        "W4396871395",
+        "W4408392398",
+        "W2056644883",
+        "W2019622169",
+        "W2067839517",
+        "W2599193187",
+        "W2883690493",
+        "W3084862157",
+        "W3204393409",
+        "W4280603136",
+        "W4291015290",
+        "W4290725268",
+        "W4389045621",
+        "W4380089819",
+        "W2168987586",
+        "W2120941256",
+        "W2046950930",
+        "W2906492823",
+        "W2905858534",
+        "W2979678869",
+        "W2508162331",
+        "W2991073805",
+        "W3008757142",
+        "W4378903121",
+        "W2018038111",
+        "W1972776798",
+        "W2025559962",
+        "W2020169030",
+        "W2040702887",
+        "W2793694873",
+        "W4254105103",
+        "W4408593208",
+        "W4409535404",
+        "W4409626842",
+        "W2007993162",
+        "W1781294748",
+        "W2133475309",
+        "W2098690052",
+        "W2012596055",
+        "W2519109143",
+        "W2808759948",
+        "W2939624324",
+        "W3130682147",
+        "W4403032713",
+        "W4409283937",
+        "W4409503037",
+        "W2047987711",
+        "W2055532057",
+        "W2080403219",
+        "W2069467162",
+        "W2913275810",
+        "W2588973392",
+        "W3108772849"
+      ]
+    },
+    "A5108437611": {
+      "id": "A5108437611",
+      "name": "Terry L. Fry",
+      "name_first": "Terry",
+      "name_middle": "L.",
+      "name_last": "Fry",
+      "works_count": 19,
+      "works": [
+        "W1990010614",
+        "W2046583078",
+        "W1504379007",
+        "W7456506",
+        "W2313667116",
+        "W2034373469",
+        "W2151326814",
+        "W2010605513",
+        "W2061822594",
+        "W2409531197",
+        "W2024560044",
+        "W2416663199",
+        "W4301254607",
+        "W2158892193",
+        "W160737402",
+        "W2089054203",
+        "W2168907934",
+        "W4299133861",
+        "W4245469483"
+      ]
+    },
+    "A5088405262": {
+      "id": "A5088405262",
+      "name": "Terry J. Fry",
+      "name_first": "Terry",
+      "name_middle": "J.",
+      "name_last": "Fry",
+      "works_count": 3,
+      "works": [
+        "W2046228281",
+        "W2077186397",
+        "W2057052117"
+      ]
+    },
+    "A5110537537": {
+      "id": "A5110537537",
+      "name": "Terry Fry",
+      "name_first": "Terry",
+      "name_middle": "",
+      "name_last": "Fry",
+      "works_count": 3,
+      "works": []
+    }
+  },
+  "works_data": {
+    "W2129702476": {
+      "id": "W2129702476",
+      "title": "T cells expressing CD19 chimeric antigen receptors for acute lymphoblastic leukaemia in children and young adults: a phase 1 dose-escalation trial",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Daniel W Lee",
+          "id": "A5115589556"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Yongzhi Cui",
+          "id": "A5051249992"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Steven A. Feldman",
+          "id": "A5032315182"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Rimas J. Orentas",
+          "id": "A5017546318"
+        },
+        {
+          "name": "Marianna Sabatino",
+          "id": "A5056190774"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "D. Stroncek",
+          "id": "A5112905051"
+        },
+        {
+          "name": "Nicholas Tschernia",
+          "id": "A5015072257"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Hua Zhang",
+          "id": "A5100408662"
+        },
+        {
+          "name": "Ling Zhang",
+          "id": "A5038765418"
+        },
+        {
+          "name": "Steven A. Rosenberg",
+          "id": "A5072133376"
+        },
+        {
+          "name": "Alan S. Wayne",
+          "id": "A5083416957"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "The Lancet"
+    },
+    "W1619537825": {
+      "id": "W1619537825",
+      "title": "4-1BB costimulation ameliorates T cell exhaustion induced by tonic signaling of chimeric antigen receptors",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Adrienne H. Long",
+          "id": "A5053421752"
+        },
+        {
+          "name": "Waleed Haso",
+          "id": "A5091257376"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Kelsey M. Wanhainen",
+          "id": "A5090258078"
+        },
+        {
+          "name": "Meera Murgai",
+          "id": "A5008513224"
+        },
+        {
+          "name": "Maria Ingaramo",
+          "id": "A5049474445"
+        },
+        {
+          "name": "Jillian Smith",
+          "id": "A5110967878"
+        },
+        {
+          "name": "Alec J. Walker",
+          "id": "A5102733872"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Vikas R Venkateshwara",
+          "id": "A5038489988"
+        },
+        {
+          "name": "Rosandra N. Kaplan",
+          "id": "A5021388942"
+        },
+        {
+          "name": "George H. Patterson",
+          "id": "A5028725558"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Rimas J. Orentas",
+          "id": "A5017546318"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Nature Medicine"
+    },
+    "W2768823259": {
+      "id": "W2768823259",
+      "title": "CD22-targeted CAR T cells induce remission in B-ALL that is naive or resistant to CD19-targeted CAR immunotherapy",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Rimas J. Orentas",
+          "id": "A5017546318"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Sneha Ramakrishna",
+          "id": "A5014136581"
+        },
+        {
+          "name": "Pamela L. Wolters",
+          "id": "A5065611220"
+        },
+        {
+          "name": "Staci Martin",
+          "id": "A5057326464"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Thomas J. Fountaine",
+          "id": "A5077604840"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Robbie G. Majzner",
+          "id": "A5033972749"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Marianna Sabatino",
+          "id": "A5056190774"
+        },
+        {
+          "name": "Yang Feng",
+          "id": "A5103549194"
+        },
+        {
+          "name": "Dimiter S. Dimitrov",
+          "id": "A5089862290"
+        },
+        {
+          "name": "Ling Zhang",
+          "id": "A5038765418"
+        },
+        {
+          "name": "Sang M. Nguyen",
+          "id": "A5031457939"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Boro Dropuli\u0107",
+          "id": "A5003913525"
+        },
+        {
+          "name": "Daniel W Lee",
+          "id": "A5115589556"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Nature Medicine"
+    },
+    "W2179454156": {
+      "id": "W2179454156",
+      "title": "Convergence of Acquired Mutations and Alternative Splicing of <i>CD19</i> Enables Resistance to CART-19 Immunotherapy",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Elena Sotillo",
+          "id": "A5065321275"
+        },
+        {
+          "name": "David M. Barrett",
+          "id": "A5101662343"
+        },
+        {
+          "name": "Kathryn L. Black",
+          "id": "A5004314956"
+        },
+        {
+          "name": "Asen Bagashev",
+          "id": "A5058584806"
+        },
+        {
+          "name": "Derek A. Oldridge",
+          "id": "A5052479584"
+        },
+        {
+          "name": "Glendon Wu",
+          "id": "A5001839888"
+        },
+        {
+          "name": "Robyn T. Sussman",
+          "id": "A5015989901"
+        },
+        {
+          "name": "Claudia Lanauze",
+          "id": "A5050378499"
+        },
+        {
+          "name": "Marco Ruella",
+          "id": "A5088355904"
+        },
+        {
+          "name": "Matthew R. Gazzara",
+          "id": "A5001984475"
+        },
+        {
+          "name": "Nicole M. Mart\u00ednez",
+          "id": "A5083364452"
+        },
+        {
+          "name": "Colleen T. Harrington",
+          "id": "A5004071253"
+        },
+        {
+          "name": "Elaine Y. Chung",
+          "id": "A5106699615"
+        },
+        {
+          "name": "Jessica Perazzelli",
+          "id": "A5026678499"
+        },
+        {
+          "name": "Ted J. Hofmann",
+          "id": "A5103560424"
+        },
+        {
+          "name": "Shannon L. Maude",
+          "id": "A5052541853"
+        },
+        {
+          "name": "Pichai Raman",
+          "id": "A5068529122"
+        },
+        {
+          "name": "Alejandro Barrera",
+          "id": "A5057113487"
+        },
+        {
+          "name": "Saar Gill",
+          "id": "A5039491957"
+        },
+        {
+          "name": "Simon F. Lacey",
+          "id": "A5044330314"
+        },
+        {
+          "name": "Jan J. Melenhorst",
+          "id": "A5084715710"
+        },
+        {
+          "name": "David Allman",
+          "id": "A5066485275"
+        },
+        {
+          "name": "Elad Jacoby",
+          "id": "A5087021014"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Yoseph Barash",
+          "id": "A5040287362"
+        },
+        {
+          "name": "Kristen W. Lynch",
+          "id": "A5043240332"
+        },
+        {
+          "name": "John M. Maris",
+          "id": "A5005797590"
+        },
+        {
+          "name": "Stephan A. Grupp",
+          "id": "A5077440294"
+        },
+        {
+          "name": "Andrei Thomas\u2010Tikhonenko",
+          "id": "A5082539381"
+        }
+      ],
+      "venue": "Cancer Discovery"
+    },
+    "W2919051790": {
+      "id": "W2919051790",
+      "title": "Mechanisms of resistance to CAR T cell therapy",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Nature Reviews Clinical Oncology"
+    },
+    "W1893260165": {
+      "id": "W1893260165",
+      "title": "The Many Faces of IL-7: From Lymphopoiesis to Peripheral T Cell Maintenance",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "The Journal of Immunology"
+    },
+    "W2893691711": {
+      "id": "W2893691711",
+      "title": "Induction of resistance to chimeric antigen receptor T cell therapy by transduction of a single leukemic B cell",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Marco Ruella",
+          "id": "A5088355904"
+        },
+        {
+          "name": "Jun Xu",
+          "id": "A5077069400"
+        },
+        {
+          "name": "David M. Barrett",
+          "id": "A5101662343"
+        },
+        {
+          "name": "Joseph A. Fraietta",
+          "id": "A5035854365"
+        },
+        {
+          "name": "Tyler J. Reich",
+          "id": "A5012575409"
+        },
+        {
+          "name": "David E Ambrose",
+          "id": "A5064509939"
+        },
+        {
+          "name": "Michael Klichinsky",
+          "id": "A5011966705"
+        },
+        {
+          "name": "Olga Shestova",
+          "id": "A5058378222"
+        },
+        {
+          "name": "Prachi Patel",
+          "id": "A5066803991"
+        },
+        {
+          "name": "Irina Kulikovskaya",
+          "id": "A5011478481"
+        },
+        {
+          "name": "Farzana Nazimuddin",
+          "id": "A5066470697"
+        },
+        {
+          "name": "Vijay Bhoj",
+          "id": "A5002481881"
+        },
+        {
+          "name": "Elena J. Orlando",
+          "id": "A5103145988"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Hans Bitter",
+          "id": "A5003934063"
+        },
+        {
+          "name": "Shannon L. Maude",
+          "id": "A5052541853"
+        },
+        {
+          "name": "Bruce L. Levine",
+          "id": "A5029979708"
+        },
+        {
+          "name": "Christopher L. Nobles",
+          "id": "A5042506509"
+        },
+        {
+          "name": "Frederic D. Bushman",
+          "id": "A5016535188"
+        },
+        {
+          "name": "Regina M. Young",
+          "id": "A5078736500"
+        },
+        {
+          "name": "John Scholler",
+          "id": "A5091533549"
+        },
+        {
+          "name": "Saar Gill",
+          "id": "A5039491957"
+        },
+        {
+          "name": "Carl H. June",
+          "id": "A5008558372"
+        },
+        {
+          "name": "Stephan A. Grupp",
+          "id": "A5077440294"
+        },
+        {
+          "name": "Simon F. Lacey",
+          "id": "A5044330314"
+        },
+        {
+          "name": "J. Joseph Melenhorst",
+          "id": "A5058550252"
+        }
+      ],
+      "venue": "Nature Medicine"
+    },
+    "W1994844769": {
+      "id": "W1994844769",
+      "title": "Harnessing the biology of IL-7 for therapeutic application",
+      "year": 2011,
+      "authors": [
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        }
+      ],
+      "venue": "Nature reviews. Immunology"
+    },
+    "W2082797461": {
+      "id": "W2082797461",
+      "title": "Interleukin-7: from bench to clinic",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2105011122": {
+      "id": "W2105011122",
+      "title": "Administration of rhIL-7 in humans increases in vivo TCR repertoire diversity by preferential expansion of naive T cell subsets",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Claude Sport\u00e8s",
+          "id": "A5083522277"
+        },
+        {
+          "name": "Frances T. Hakim",
+          "id": "A5062706815"
+        },
+        {
+          "name": "Sarfraz Memon",
+          "id": "A5041017169"
+        },
+        {
+          "name": "Hua Zhang",
+          "id": "A5100408738"
+        },
+        {
+          "name": "Kevin S. Chua",
+          "id": "A5003519951"
+        },
+        {
+          "name": "Margaret R. Brown",
+          "id": "A5113662774"
+        },
+        {
+          "name": "Thomas A. Fleisher",
+          "id": "A5103232843"
+        },
+        {
+          "name": "Michael Krumlauf",
+          "id": "A5070433963"
+        },
+        {
+          "name": "Rebecca R. Babb",
+          "id": "A5057457544"
+        },
+        {
+          "name": "Catherine K. Chow",
+          "id": "A5113535085"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Julie Engels",
+          "id": "A5001916644"
+        },
+        {
+          "name": "Renaud Buffet",
+          "id": "A5034145747"
+        },
+        {
+          "name": "Michel Morre",
+          "id": "A5006675365"
+        },
+        {
+          "name": "Robert J. Amato",
+          "id": "A5112805158"
+        },
+        {
+          "name": "David Venzon",
+          "id": "A5024024043"
+        },
+        {
+          "name": "Robert Korngold",
+          "id": "A5045239840"
+        },
+        {
+          "name": "Andrew L. Pecora",
+          "id": "A5033513950"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "The Journal of Experimental Medicine"
+    },
+    "W2004345869": {
+      "id": "W2004345869",
+      "title": "IL-7 Administration to Humans Leads to Expansion of CD8+ and CD4+ Cells but a Relative Decrease of CD4+ T-Regulatory Cells",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Steven A. Rosenberg",
+          "id": "A5072133376"
+        },
+        {
+          "name": "Claude Sport\u00e8s",
+          "id": "A5083522277"
+        },
+        {
+          "name": "Mojgan Ahmadzadeh",
+          "id": "A5048321227"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Lien T. Ngo",
+          "id": "A5010906178"
+        },
+        {
+          "name": "Susan Schwarz",
+          "id": "A5113561892"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Kathleen E. Morton",
+          "id": "A5006079020"
+        },
+        {
+          "name": "Sharon Mavroukakis",
+          "id": "A5059747639"
+        },
+        {
+          "name": "Michel Morre",
+          "id": "A5006675365"
+        },
+        {
+          "name": "Renaud Buffet",
+          "id": "A5034145747"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        }
+      ],
+      "venue": "Journal of Immunotherapy"
+    },
+    "W3183792933": {
+      "id": "W3183792933",
+      "title": "CAR T cells with dual targeting of CD19 and CD22 in adult patients with recurrent or refractory B cell malignancies: a phase 1 trial",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Jay Y. Spiegel",
+          "id": "A5040802391"
+        },
+        {
+          "name": "Shabnum Patel",
+          "id": "A5022220685"
+        },
+        {
+          "name": "Lori Muffly",
+          "id": "A5003368910"
+        },
+        {
+          "name": "Nasheed Hossain",
+          "id": "A5048969336"
+        },
+        {
+          "name": "Jean Oak",
+          "id": "A5090836249"
+        },
+        {
+          "name": "John H. Baird",
+          "id": "A5054770306"
+        },
+        {
+          "name": "Matthew J. Frank",
+          "id": "A5030780456"
+        },
+        {
+          "name": "Parveen Shiraz",
+          "id": "A5001397662"
+        },
+        {
+          "name": "Bita Sahaf",
+          "id": "A5064062205"
+        },
+        {
+          "name": "Juliana Craig",
+          "id": "A5054569926"
+        },
+        {
+          "name": "Mar\u00eda Iglesias",
+          "id": "A5028835377"
+        },
+        {
+          "name": "Sheren Younes",
+          "id": "A5102995035"
+        },
+        {
+          "name": "Yasodha Natkunam",
+          "id": "A5001976357"
+        },
+        {
+          "name": "Michael G. Ozawa",
+          "id": "A5109601743"
+        },
+        {
+          "name": "Eric Yang",
+          "id": "A5101995558"
+        },
+        {
+          "name": "John Tamaresis",
+          "id": "A5053434058"
+        },
+        {
+          "name": "Harshini Chinnasamy",
+          "id": "A5023177406"
+        },
+        {
+          "name": "Zachary Ehlinger",
+          "id": "A5091691424"
+        },
+        {
+          "name": "Warren D. Reynolds",
+          "id": "A5059036898"
+        },
+        {
+          "name": "Rachel C. Lynn",
+          "id": "A5025477286"
+        },
+        {
+          "name": "Maria Caterina Rotiroti",
+          "id": "A5067375666"
+        },
+        {
+          "name": "Nikolaos Gkitsas",
+          "id": "A5044815359"
+        },
+        {
+          "name": "Sally Arai",
+          "id": "A5040662951"
+        },
+        {
+          "name": "Laura Johnston",
+          "id": "A5053002300"
+        },
+        {
+          "name": "Robert Lowsky",
+          "id": "A5038377091"
+        },
+        {
+          "name": "Robbie G. Majzner",
+          "id": "A5033972749"
+        },
+        {
+          "name": "Everett Meyer",
+          "id": "A5081960635"
+        },
+        {
+          "name": "Robert S. Negrin",
+          "id": "A5005492422"
+        },
+        {
+          "name": "Andrew R. Rezvani",
+          "id": "A5072539716"
+        },
+        {
+          "name": "Surbhi Sidana",
+          "id": "A5017390274"
+        },
+        {
+          "name": "Judith A. Shizuru",
+          "id": "A5012590130"
+        },
+        {
+          "name": "Wen\u2010Kai Weng",
+          "id": "A5012405884"
+        },
+        {
+          "name": "Chelsea Mullins",
+          "id": "A5042637828"
+        },
+        {
+          "name": "Allison P. Jacob",
+          "id": "A5085324577"
+        },
+        {
+          "name": "Ilan Kirsch",
+          "id": "A5018953435"
+        },
+        {
+          "name": "Magali Bazzano",
+          "id": "A5015028606"
+        },
+        {
+          "name": "Jing Zhou",
+          "id": "A5103210384"
+        },
+        {
+          "name": "Sean Mackay",
+          "id": "A5043685783"
+        },
+        {
+          "name": "Scott J. Bornheimer",
+          "id": "A5079522811"
+        },
+        {
+          "name": "Liora M. Schultz",
+          "id": "A5061884188"
+        },
+        {
+          "name": "Sneha Ramakrishna",
+          "id": "A5014136581"
+        },
+        {
+          "name": "Kara L. Davis",
+          "id": "A5009700060"
+        },
+        {
+          "name": "Katherine A. Kong",
+          "id": "A5004367769"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Steven A. Feldman",
+          "id": "A5032315182"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "David B. Miklos",
+          "id": "A5081926380"
+        }
+      ],
+      "venue": "Nature Medicine"
+    },
+    "W2165981943": {
+      "id": "W2165981943",
+      "title": "A potential role for interleukin-7 in T-cell homeostasis",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2496398835": {
+      "id": "W2496398835",
+      "title": "CD19 CAR immune pressure induces B-precursor acute lymphoblastic leukaemia lineage switch exposing inherent leukaemic plasticity",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Elad Jacoby",
+          "id": "A5087021014"
+        },
+        {
+          "name": "Sang M. Nguyen",
+          "id": "A5031457939"
+        },
+        {
+          "name": "Thomas J. Fountaine",
+          "id": "A5077604840"
+        },
+        {
+          "name": "Kathryn M Welp",
+          "id": "A5042633497"
+        },
+        {
+          "name": "Berkley E. Gryder",
+          "id": "A5088464124"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Yinmeng Yang",
+          "id": "A5069506234"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "Alix E. Seif",
+          "id": "A5041739266"
+        },
+        {
+          "name": "Haiyan Lei",
+          "id": "A5017446252"
+        },
+        {
+          "name": "Young Song",
+          "id": "A5081312498"
+        },
+        {
+          "name": "Javed Khan",
+          "id": "A5017638182"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Rebecca Gardner",
+          "id": "A5103223187"
+        },
+        {
+          "name": "Michael C. Jensen",
+          "id": "A5010964073"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Nature Communications"
+    },
+    "W3016233874": {
+      "id": "W3016233874",
+      "title": "CD4/CD8 T-Cell Selection Affects Chimeric Antigen Receptor (CAR) T-Cell Potency and Toxicity: Updated Results From a Phase I Anti-CD22 CAR T-Cell Trial",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Jianjian Jin",
+          "id": "A5056596617"
+        },
+        {
+          "name": "Pamela L. Wolters",
+          "id": "A5065611220"
+        },
+        {
+          "name": "Amanda K. Ombrello",
+          "id": "A5064879281"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "Staci Martin",
+          "id": "A5057326464"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Leah Hoffman",
+          "id": "A5002506071"
+        },
+        {
+          "name": "Lauren Little",
+          "id": "A5084974669"
+        },
+        {
+          "name": "Anusha Ponduri",
+          "id": "A5058341125"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Haris Qureshi",
+          "id": "A5067719562"
+        },
+        {
+          "name": "Alina Dulau\u2010Florea",
+          "id": "A5003779729"
+        },
+        {
+          "name": "Dalia Salem",
+          "id": "A5008205966"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Sandhya R. Panch",
+          "id": "A5002383402"
+        },
+        {
+          "name": "Minh Tran",
+          "id": "A5101482003"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Journal of Clinical Oncology"
+    },
+    "W2401536218": {
+      "id": "W2401536218",
+      "title": "Generation of clinical-grade CD19-specific CAR-modified CD8+ memory stem cells for the treatment of human B-cell malignancies",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Marianna Sabatino",
+          "id": "A5056190774"
+        },
+        {
+          "name": "Jinhui Hu",
+          "id": "A5101658691"
+        },
+        {
+          "name": "Michele Sommariva",
+          "id": "A5046737386"
+        },
+        {
+          "name": "Sanjivan Gautam",
+          "id": "A5112413448"
+        },
+        {
+          "name": "Vicki Fellowes",
+          "id": "A5088037619"
+        },
+        {
+          "name": "James D. Hocker",
+          "id": "A5040115644"
+        },
+        {
+          "name": "Sean C. Dougherty",
+          "id": "A5083235109"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Christopher A. Klebanoff",
+          "id": "A5074579867"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Yun Ji",
+          "id": "A5101712322"
+        },
+        {
+          "name": "Luca Gattinoni",
+          "id": "A5034721902"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2624700430": {
+      "id": "W2624700430",
+      "title": "Tumor Antigen and Receptor Densities Regulate Efficacy of a Chimeric Antigen Receptor Targeting Anaplastic Lymphoma Kinase",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Alec J. Walker",
+          "id": "A5102733872"
+        },
+        {
+          "name": "Robbie G. Majzner",
+          "id": "A5033972749"
+        },
+        {
+          "name": "Ling Zhang",
+          "id": "A5100450710"
+        },
+        {
+          "name": "Kelsey M. Wanhainen",
+          "id": "A5090258078"
+        },
+        {
+          "name": "Adrienne H. Long",
+          "id": "A5053421752"
+        },
+        {
+          "name": "Sang M. Nguyen",
+          "id": "A5031457939"
+        },
+        {
+          "name": "Paola Lopomo",
+          "id": "A5108361557"
+        },
+        {
+          "name": "Marc Vigny",
+          "id": "A5001966222"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Rimas J. Orentas",
+          "id": "A5017546318"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Molecular Therapy"
+    },
+    "W3138004978": {
+      "id": "W3138004978",
+      "title": "Long-Term Follow-Up of CD19-CAR T-Cell Therapy in Children and Young Adults With B-ALL",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Staci Martin",
+          "id": "A5057326464"
+        },
+        {
+          "name": "Pamela L. Wolters",
+          "id": "A5065611220"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "Eva H. Baker",
+          "id": "A5074922008"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Journal of Clinical Oncology"
+    },
+    "W2899700403": {
+      "id": "W2899700403",
+      "title": "Preclinical Development of Bivalent Chimeric Antigen Receptors Targeting Both CD19 and CD22",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Sneha Ramakrishna",
+          "id": "A5014136581"
+        },
+        {
+          "name": "Sang M. Nguyen",
+          "id": "A5031457939"
+        },
+        {
+          "name": "Thomas J. Fountaine",
+          "id": "A5077604840"
+        },
+        {
+          "name": "Anusha Ponduri",
+          "id": "A5058341125"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Waleed Haso",
+          "id": "A5091257376"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Molecular Therapy \u2014 Oncolytics"
+    },
+    "W2057776379": {
+      "id": "W2057776379",
+      "title": "Acute GVHD in patients receiving IL-15/4-1BBL activated NK cells following T-cell\u2013depleted stem cell transplantation",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Kristin Baird",
+          "id": "A5072068693"
+        },
+        {
+          "name": "Cynthia Delbrook",
+          "id": "A5045347895"
+        },
+        {
+          "name": "Thomas A. Fleisher",
+          "id": "A5103232843"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Shakuntala Rampertaap",
+          "id": "A5021175690"
+        },
+        {
+          "name": "Kimberly Lemberg",
+          "id": "A5005142616"
+        },
+        {
+          "name": "Carolyn Katovich Hurley",
+          "id": "A5057872899"
+        },
+        {
+          "name": "David E. Kleiner",
+          "id": "A5019378601"
+        },
+        {
+          "name": "Melinda S. Merchant",
+          "id": "A5013821837"
+        },
+        {
+          "name": "Stefania Pittaluga",
+          "id": "A5002368482"
+        },
+        {
+          "name": "Marianna Sabatino",
+          "id": "A5056190774"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Alan S. Wayne",
+          "id": "A5083416957"
+        },
+        {
+          "name": "Hua Zhang",
+          "id": "A5100408701"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W3113077294": {
+      "id": "W3113077294",
+      "title": "Society for Immunotherapy of Cancer (SITC) clinical practice guideline on immune effector cell-related adverse events",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Marcela V. Maus",
+          "id": "A5029763484"
+        },
+        {
+          "name": "S. Alexander",
+          "id": "A5070896613"
+        },
+        {
+          "name": "Michael R. Bishop",
+          "id": "A5089893290"
+        },
+        {
+          "name": "Jennifer N. Brudno",
+          "id": "A5057158251"
+        },
+        {
+          "name": "Colleen Callahan",
+          "id": "A5078139221"
+        },
+        {
+          "name": "Marco L. Davila",
+          "id": "A5040390930"
+        },
+        {
+          "name": "Claudia Diamonte",
+          "id": "A5033055418"
+        },
+        {
+          "name": "J\u00f6rg Dietrich",
+          "id": "A5049734695"
+        },
+        {
+          "name": "Julie C. Fitzgerald",
+          "id": "A5088663182"
+        },
+        {
+          "name": "Matthew J. Frigault",
+          "id": "A5064556004"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Jennifer Holter\u2010Chakrabarty",
+          "id": "A5049837300"
+        },
+        {
+          "name": "Krishna V. Komanduri",
+          "id": "A5057832944"
+        },
+        {
+          "name": "Daniel W Lee",
+          "id": "A5115589556"
+        },
+        {
+          "name": "Frederick L. Locke",
+          "id": "A5021394406"
+        },
+        {
+          "name": "Shannon L. Maude",
+          "id": "A5052541853"
+        },
+        {
+          "name": "Philip L. McCarthy",
+          "id": "A5063351800"
+        },
+        {
+          "name": "Elena Mead",
+          "id": "A5103758939"
+        },
+        {
+          "name": "Sattva S. Neelapu",
+          "id": "A5064752432"
+        },
+        {
+          "name": "Tomas G. Neilan",
+          "id": "A5087164932"
+        },
+        {
+          "name": "Bianca Santomasso",
+          "id": "A5001409814"
+        },
+        {
+          "name": "Elizabeth J. Shpall",
+          "id": "A5055885795"
+        },
+        {
+          "name": "David T. Teachey",
+          "id": "A5028647628"
+        },
+        {
+          "name": "Cameron J. Turtle",
+          "id": "A5089990813"
+        },
+        {
+          "name": "Thomas M. Whitehead",
+          "id": "A5043077840"
+        },
+        {
+          "name": "Stephan A. Grupp",
+          "id": "A5077440294"
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer"
+    },
+    "W3200081808": {
+      "id": "W3200081808",
+      "title": "Characterization of HLH-like manifestations as a CRS variant in patients receiving CD22 CAR T cells",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Daniel A. Lichtenstein",
+          "id": "A5029334036"
+        },
+        {
+          "name": "Fiorella Schischlik",
+          "id": "A5025950037"
+        },
+        {
+          "name": "Lipei Shao",
+          "id": "A5024707744"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Yanyu Wang",
+          "id": "A5100780541"
+        },
+        {
+          "name": "Jon R. Inglefield",
+          "id": "A5026833249"
+        },
+        {
+          "name": "Alina Dulau-Florea",
+          "id": "A5103999789"
+        },
+        {
+          "name": "Francesco Ceppi",
+          "id": "A5022523395"
+        },
+        {
+          "name": "Leandro C. Hermida",
+          "id": "A5045634433"
+        },
+        {
+          "name": "Kate Stringaris",
+          "id": "A5071604461"
+        },
+        {
+          "name": "Kim Dunham",
+          "id": "A5075618779"
+        },
+        {
+          "name": "Philip Homan",
+          "id": "A5065307601"
+        },
+        {
+          "name": "Parthav Jailwala",
+          "id": "A5070779376"
+        },
+        {
+          "name": "Justin Mirazee",
+          "id": "A5066084176"
+        },
+        {
+          "name": "Welles Robinson",
+          "id": "A5059617425"
+        },
+        {
+          "name": "Karen M. Chisholm",
+          "id": "A5046600447"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Amanda K. Ombrello",
+          "id": "A5064879281"
+        },
+        {
+          "name": "Jianjian Jin",
+          "id": "A5056596617"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Naomi Taylor",
+          "id": "A5005174262"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "Ping Jin",
+          "id": "A5086839135"
+        },
+        {
+          "name": "Rebecca Gardner",
+          "id": "A5082052104"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Eytan Ruppin",
+          "id": "A5110465849"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W4281398912": {
+      "id": "W4281398912",
+      "title": "CD19/22 CAR T cells in children and young adults with B-ALL: phase 1 results and development of a novel bicistronic CAR",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Angela Su",
+          "id": "A5040954385"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Pamela L. Wolters",
+          "id": "A5065611220"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "John A. Ligon",
+          "id": "A5030196630"
+        },
+        {
+          "name": "Sara Silbert",
+          "id": "A5045428198"
+        },
+        {
+          "name": "Kniya D\u00e9D\u00e9",
+          "id": "A5078540255"
+        },
+        {
+          "name": "Mehdi Benzaoui",
+          "id": "A5010383897"
+        },
+        {
+          "name": "S. Goldberg",
+          "id": "A5103105968"
+        },
+        {
+          "name": "Sooraj Achar",
+          "id": "A5045953577"
+        },
+        {
+          "name": "Dina Schneider",
+          "id": "A5085201883"
+        },
+        {
+          "name": "Shilpa Shahani",
+          "id": "A5070693731"
+        },
+        {
+          "name": "Lauren Little",
+          "id": "A5084974669"
+        },
+        {
+          "name": "Toni Foley",
+          "id": "A5027228333"
+        },
+        {
+          "name": "John C. Molina",
+          "id": "A5007115015"
+        },
+        {
+          "name": "Sandhya R. Panch",
+          "id": "A5002383402"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "Marie Pouzolles",
+          "id": "A5084754907"
+        },
+        {
+          "name": "Mark A. Ahlman",
+          "id": "A5080059501"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Yanyu Wang",
+          "id": "A5100780537"
+        },
+        {
+          "name": "Jon R. Inglefield",
+          "id": "A5026833249"
+        },
+        {
+          "name": "Mary Anne Toledo\u2010Tamula",
+          "id": "A5059178945"
+        },
+        {
+          "name": "Staci Martin",
+          "id": "A5057326464"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "Gr\u00e9goire Altan\u2010Bonnet",
+          "id": "A5023421069"
+        },
+        {
+          "name": "David Stroncek",
+          "id": "A5111756896"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Naomi Taylor",
+          "id": "A5005174262"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W4363676877": {
+      "id": "W4363676877",
+      "title": "Hypoimmune anti-CD19 chimeric antigen receptor T cells provide lasting tumor control in fully immunocompetent allogeneic humanized mice",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Xiaomeng Hu",
+          "id": "A5101927716"
+        },
+        {
+          "name": "Karl Manner",
+          "id": "A5090363021"
+        },
+        {
+          "name": "Rowena DeJesus",
+          "id": "A5076590452"
+        },
+        {
+          "name": "Kathy White",
+          "id": "A5063958304"
+        },
+        {
+          "name": "Corie Gattis",
+          "id": "A5051219496"
+        },
+        {
+          "name": "Priscilla Ngo",
+          "id": "A5050657538"
+        },
+        {
+          "name": "Christopher Bandoro",
+          "id": "A5080865082"
+        },
+        {
+          "name": "El\u00e9onore Tham",
+          "id": "A5057273139"
+        },
+        {
+          "name": "Elaine Y. Chu",
+          "id": "A5080231103"
+        },
+        {
+          "name": "Chi Young",
+          "id": "A5058234751"
+        },
+        {
+          "name": "Frank Wells",
+          "id": "A5046522303"
+        },
+        {
+          "name": "Ronald Basco",
+          "id": "A5042608725"
+        },
+        {
+          "name": "Annabelle M. Friera",
+          "id": "A5043439522"
+        },
+        {
+          "name": "Divy Kangeyan",
+          "id": "A5079103674"
+        },
+        {
+          "name": "Pascal Beauchesne",
+          "id": "A5050715885"
+        },
+        {
+          "name": "William E. Dowdle",
+          "id": "A5026859443"
+        },
+        {
+          "name": "T. Deuse",
+          "id": "A5012668274"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Aaron E. Foster",
+          "id": "A5063335678"
+        },
+        {
+          "name": "Sonja Schrepfer",
+          "id": "A5040644146"
+        }
+      ],
+      "venue": "Nature Communications"
+    },
+    "W4406000844": {
+      "id": "W4406000844",
+      "title": "Antigen experience history directs distinct functional states of CD8+ CAR T cells during the antileukemia response",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Kole DeGolier",
+          "id": "A5074616077"
+        },
+        {
+          "name": "Etienne Danis",
+          "id": "A5046456837"
+        },
+        {
+          "name": "Marc D\u2019Antonio",
+          "id": "A5067026862"
+        },
+        {
+          "name": "Jennifer Cimons",
+          "id": "A5069703492"
+        },
+        {
+          "name": "Michael Yarnell",
+          "id": "A5049989045"
+        },
+        {
+          "name": "Ross M. Kedl",
+          "id": "A5066347052"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "James Scott\u2010Browne",
+          "id": "A5043245521"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Nature Immunology"
+    },
+    "W2123434358": {
+      "id": "W2123434358",
+      "title": "IL-7 increases both thymic-dependent and thymic-independent T-cell regeneration after bone marrow transplantation",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Cathy Bare",
+          "id": "A5112006626"
+        },
+        {
+          "name": "Paul Morgan",
+          "id": "A5018121418"
+        },
+        {
+          "name": "Anne Galbraith",
+          "id": "A5019797355"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2169779391": {
+      "id": "W2169779391",
+      "title": "Interleukin-7: master regulator of peripheral T-cell homeostasis?",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Trends in Immunology"
+    },
+    "W2159958805": {
+      "id": "W2159958805",
+      "title": "IL-7 therapy dramatically alters peripheral T-cell homeostasis in normal and SIV-infected nonhuman primates",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2105859711": {
+      "id": "W2105859711",
+      "title": "A Role for Thymic Stromal Lymphopoietin in CD4+ T Cell Development",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Amin Al-Shami",
+          "id": "A5053884133"
+        },
+        {
+          "name": "Rosanne Spolski",
+          "id": "A5027575666"
+        },
+        {
+          "name": "John A. Kelly",
+          "id": "A5023029594"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Pamela L. Schwartzberg",
+          "id": "A5071836467"
+        },
+        {
+          "name": "Akhilesh Pandey",
+          "id": "A5024268602"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Warren J. Leonard",
+          "id": "A5012950291"
+        }
+      ],
+      "venue": "The Journal of Experimental Medicine"
+    },
+    "W1985489508": {
+      "id": "W1985489508",
+      "title": "Adjuvant IL-7 or IL-15 overcomes immunodominance and improves survival of the CD8+ memory cell pool",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Fraia Melchionda",
+          "id": "A5035339293"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Matthew Milliron",
+          "id": "A5056239574"
+        },
+        {
+          "name": "Melissa A. McKirdy",
+          "id": "A5073729197"
+        },
+        {
+          "name": "Yutaka Tagaya",
+          "id": "A5022392609"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation"
+    },
+    "W4231600099": {
+      "id": "W4231600099",
+      "title": "Adjuvant IL-7 or IL-15 overcomes immunodominance and improves survival of the CD8+ memory cell pool",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Fraia Melchionda",
+          "id": "A5035339293"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Matthew Milliron",
+          "id": "A5056239574"
+        },
+        {
+          "name": "Melissa A. McKirdy",
+          "id": "A5073729197"
+        },
+        {
+          "name": "Yutaka Tagaya",
+          "id": "A5022392609"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation"
+    },
+    "W2169808388": {
+      "id": "W2169808388",
+      "title": "Radiofrequency Ablation Induces Antigen-presenting Cell Infiltration and Amplification of Weak Tumor-induced Immunity",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Sergio Dromi",
+          "id": "A5065936551"
+        },
+        {
+          "name": "Meghaan P. Walsh",
+          "id": "A5039228588"
+        },
+        {
+          "name": "Sarah Herby",
+          "id": "A5078444148"
+        },
+        {
+          "name": "Bryan Traughber",
+          "id": "A5026445761"
+        },
+        {
+          "name": "Jianwu Xie",
+          "id": "A5076138484"
+        },
+        {
+          "name": "Karun Sharma",
+          "id": "A5111860236"
+        },
+        {
+          "name": "Kiran Sekhar",
+          "id": "A5009221182"
+        },
+        {
+          "name": "Alfred Chun Shui Luk",
+          "id": "A5068273013"
+        },
+        {
+          "name": "David J. Liewehr",
+          "id": "A5063126623"
+        },
+        {
+          "name": "Matthew R. Dreher",
+          "id": "A5021288206"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Bradford J. Wood",
+          "id": "A5026470145"
+        }
+      ],
+      "venue": "Radiology"
+    },
+    "W2063040009": {
+      "id": "W2063040009",
+      "title": "Autoimmunity during lymphopenia: A two-hit model",
+      "year": 2006,
+      "authors": [
+        {
+          "name": "Tom Krupica",
+          "id": "A5008462104"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Clinical Immunology"
+    },
+    "W2768550677": {
+      "id": "W2768550677",
+      "title": "TCR engagement negatively affects CD8 but not CD4 CAR T cell expansion and leukemic clearance",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Yinmeng Yang",
+          "id": "A5069506234"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "Christopher Tor Sauter",
+          "id": "A5103142474"
+        },
+        {
+          "name": "Elad Jacoby",
+          "id": "A5087021014"
+        },
+        {
+          "name": "Chunhua Yan",
+          "id": "A5010523212"
+        },
+        {
+          "name": "Ying Hu",
+          "id": "A5035568500"
+        },
+        {
+          "name": "Kelsey M. Wanhainen",
+          "id": "A5090258078"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Science Translational Medicine"
+    },
+    "W2793644168": {
+      "id": "W2793644168",
+      "title": "Sequential loss of tumor surface antigens following chimeric antigen receptor T-cell therapies in diffuse large B-cell lymphoma",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Ira L. Kraft",
+          "id": "A5060299664"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Julie D. Zimbelman",
+          "id": "A5017773429"
+        },
+        {
+          "name": "Roger Giller",
+          "id": "A5050598852"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Elaine S. Jaffe",
+          "id": "A5089779163"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Haematologica"
+    },
+    "W2589755395": {
+      "id": "W2589755395",
+      "title": "Autologous lymphapheresis for the production of chimeric antigen receptor T cells",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Elizabeth S. Allen",
+          "id": "A5087913365"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Jiaqiang Ren",
+          "id": "A5101600045"
+        },
+        {
+          "name": "Anne F. Eder",
+          "id": "A5004248801"
+        },
+        {
+          "name": "Kamille A. West",
+          "id": "A5020251665"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Cathy Conry\u2010Cantilena",
+          "id": "A5064738128"
+        }
+      ],
+      "venue": "Transfusion"
+    },
+    "W2944872008": {
+      "id": "W2944872008",
+      "title": "Modulation of Target Antigen Density Improves CAR T-cell Functionality and Persistence",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Sneha Ramakrishna",
+          "id": "A5014136581"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "Zachary Walsh",
+          "id": "A5027867055"
+        },
+        {
+          "name": "Sang M. Nguyen",
+          "id": "A5031457939"
+        },
+        {
+          "name": "Haiyan Lei",
+          "id": "A5017446252"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Ira L. Kraft",
+          "id": "A5060299664"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Jennifer Hwang",
+          "id": "A5102508100"
+        },
+        {
+          "name": "Yang Feng",
+          "id": "A5103549194"
+        },
+        {
+          "name": "Zhongyu Zhu",
+          "id": "A5103021613"
+        },
+        {
+          "name": "Dimiter S. Dimitrov",
+          "id": "A5089862290"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Clinical Cancer Research"
+    },
+    "W2913630852": {
+      "id": "W2913630852",
+      "title": "T cells genetically engineered to overcome death signaling enhance adoptive cancer immunotherapy",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Tori N. Yamamoto",
+          "id": "A5003982999"
+        },
+        {
+          "name": "Ping\u2010Hsien Lee",
+          "id": "A5038746962"
+        },
+        {
+          "name": "Suman K. Vodnala",
+          "id": "A5023891761"
+        },
+        {
+          "name": "Devikala Gurusamy",
+          "id": "A5012028672"
+        },
+        {
+          "name": "Rigel J. Kishton",
+          "id": "A5010992392"
+        },
+        {
+          "name": "Zhiya Yu",
+          "id": "A5031216154"
+        },
+        {
+          "name": "Arash Eidizadeh",
+          "id": "A5058171956"
+        },
+        {
+          "name": "Robert Eil",
+          "id": "A5042431372"
+        },
+        {
+          "name": "Jessica Fioravanti",
+          "id": "A5049883828"
+        },
+        {
+          "name": "Luca Gattinoni",
+          "id": "A5034721902"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "B\u00fclent Arman Aksoy",
+          "id": "A5020220136"
+        },
+        {
+          "name": "Jeff Hammerbacher",
+          "id": "A5001283792"
+        },
+        {
+          "name": "Anthony Cruz",
+          "id": "A5050547906"
+        },
+        {
+          "name": "Richard M. Siegel",
+          "id": "A5022663310"
+        },
+        {
+          "name": "Nicholas P. Restifo",
+          "id": "A5085899790"
+        },
+        {
+          "name": "Christopher A. Klebanoff",
+          "id": "A5074579867"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation"
+    },
+    "W1848034928": {
+      "id": "W1848034928",
+      "title": "Eradication of B-ALL using chimeric antigen receptor\u2013expressing T cells targeting the TSLPR oncoprotein",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Monica Cho",
+          "id": "A5031213488"
+        },
+        {
+          "name": "Waleed Haso",
+          "id": "A5091257376"
+        },
+        {
+          "name": "Ling Zhang",
+          "id": "A5101501416"
+        },
+        {
+          "name": "Sarah K. Tasian",
+          "id": "A5066964026"
+        },
+        {
+          "name": "Htoo Zarni Oo",
+          "id": "A5051781768"
+        },
+        {
+          "name": "Gian Luca Negri",
+          "id": "A5050152237"
+        },
+        {
+          "name": "Yongshun Lin",
+          "id": "A5037133641"
+        },
+        {
+          "name": "Jizhong Zou",
+          "id": "A5001173505"
+        },
+        {
+          "name": "Barbara S. Mallon",
+          "id": "A5025882946"
+        },
+        {
+          "name": "Shannon L. Maude",
+          "id": "A5052541853"
+        },
+        {
+          "name": "David T. Teachey",
+          "id": "A5028647628"
+        },
+        {
+          "name": "David M. Barrett",
+          "id": "A5038758227"
+        },
+        {
+          "name": "Rimas J. Orentas",
+          "id": "A5017546318"
+        },
+        {
+          "name": "Mads Daugaard",
+          "id": "A5048290629"
+        },
+        {
+          "name": "Poul H. Sorensen",
+          "id": "A5083608565"
+        },
+        {
+          "name": "Stephan A. Grupp",
+          "id": "A5077440294"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2653911491": {
+      "id": "W2653911491",
+      "title": "Long-Term Outcomes Following CD19 CAR T Cell Therapy for B-ALL Are Superior in Patients Receiving a Fludarabine/Cyclophosphamide Preparative Regimen and Post-CAR Hematopoietic Stem Cell Transplantation",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Hua Zhang",
+          "id": "A5100408737"
+        },
+        {
+          "name": "Ling Zhang",
+          "id": "A5038765418"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Steven A. Rosenberg",
+          "id": "A5072133376"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "David Stroncek",
+          "id": "A5021031205"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2964464562": {
+      "id": "W2964464562",
+      "title": "Clonal expansion of CAR T cells harboring lentivector integration in the CBL gene following anti-CD22 CAR T-cell therapy",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Ling Su",
+          "id": "A5031771190"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Mark Raffeld",
+          "id": "A5024701461"
+        },
+        {
+          "name": "Mark A. Ahlman",
+          "id": "A5080059501"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Shuang Guo",
+          "id": "A5056037883"
+        },
+        {
+          "name": "Siyuan Liu",
+          "id": "A5100406616"
+        },
+        {
+          "name": "Stephen H. Hughes",
+          "id": "A5063432648"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Xiaolin Wu",
+          "id": "A5010311406"
+        }
+      ],
+      "venue": "Blood Advances"
+    },
+    "W2398298261": {
+      "id": "W2398298261",
+      "title": "Murine allogeneic CD19 CAR T cells harbor potent antileukemic activity but have the potential to mediate lethal GVHD",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Elad Jacoby",
+          "id": "A5087021014"
+        },
+        {
+          "name": "Yinmeng Yang",
+          "id": "A5069506234"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2203017588": {
+      "id": "W2203017588",
+      "title": "Challenges and opportunities of allogeneic donor-derived CAR T cells",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Yinmeng Yang",
+          "id": "A5069506234"
+        },
+        {
+          "name": "Elad Jacoby",
+          "id": "A5087021014"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Current Opinion in Hematology"
+    },
+    "W2756236961": {
+      "id": "W2756236961",
+      "title": "Absence of Replication-Competent Lentivirus in the Clinic: Analysis of Infused T Cell Products",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Kenneth Cornetta",
+          "id": "A5091468377"
+        },
+        {
+          "name": "Lisa Duffy",
+          "id": "A5046079138"
+        },
+        {
+          "name": "Cameron J. Turtle",
+          "id": "A5089990813"
+        },
+        {
+          "name": "Michael C. Jensen",
+          "id": "A5010964073"
+        },
+        {
+          "name": "Stephen J. Forman",
+          "id": "A5039374832"
+        },
+        {
+          "name": "Gwendolyn Binder-Scholl",
+          "id": "A5073975458"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Anne Chew",
+          "id": "A5053362511"
+        },
+        {
+          "name": "David G. Maloney",
+          "id": "A5016684714"
+        },
+        {
+          "name": "Carl H. June",
+          "id": "A5008558372"
+        }
+      ],
+      "venue": "Molecular Therapy"
+    },
+    "W2947301297": {
+      "id": "W2947301297",
+      "title": "Effect of Cryopreservation on Autologous Chimeric Antigen Receptor T Cell Characteristics",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Sandhya R. Panch",
+          "id": "A5002383402"
+        },
+        {
+          "name": "Sandeep Srivastava",
+          "id": "A5103238033"
+        },
+        {
+          "name": "Nasha Elavia",
+          "id": "A5005008031"
+        },
+        {
+          "name": "Andrew McManus",
+          "id": "A5112439398"
+        },
+        {
+          "name": "Shutong Liu",
+          "id": "A5102907749"
+        },
+        {
+          "name": "Ping Jin",
+          "id": "A5086839135"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "Xiaobai Li",
+          "id": "A5042947456"
+        },
+        {
+          "name": "Pradeep K. Dagur",
+          "id": "A5045110601"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Daniel Lee",
+          "id": "A5100392980"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        }
+      ],
+      "venue": "Molecular Therapy"
+    },
+    "W3201152267": {
+      "id": "W3201152267",
+      "title": "Systematic preclinical evaluation of CD33-directed chimeric antigen receptor T cell immunotherapy for acute myeloid leukemia defines optimized construct design",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Lila Yang",
+          "id": "A5074087117"
+        },
+        {
+          "name": "John Chukinas",
+          "id": "A5086026495"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Samiksha Tarun",
+          "id": "A5032297849"
+        },
+        {
+          "name": "Marie Pouzolles",
+          "id": "A5084754907"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "Lisa M Niswander",
+          "id": "A5012235709"
+        },
+        {
+          "name": "Anthony Welch",
+          "id": "A5069814251"
+        },
+        {
+          "name": "Naomi Taylor",
+          "id": "A5005174262"
+        },
+        {
+          "name": "Sarah K. Tasian",
+          "id": "A5066964026"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer"
+    },
+    "W4389247126": {
+      "id": "W4389247126",
+      "title": "CD33 CAR T-Cells (CD33CART) for Children and Young Adults with Relapsed/Refractory AML: Dose-Escalation Results from a Phase I/II Multicenter Trial",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Sarah K. Tasian",
+          "id": "A5066964026"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Emily M. Hsieh",
+          "id": "A5034777523"
+        },
+        {
+          "name": "Susanne H.C. Baumeister",
+          "id": "A5066615406"
+        },
+        {
+          "name": "Corinne Summers",
+          "id": "A5068513988"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Jessica A. Pollard",
+          "id": "A5069036596"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Ruta Brazauskas",
+          "id": "A5067926047"
+        },
+        {
+          "name": "Eric Ndifon",
+          "id": "A5034556996"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Hati Kobusingye",
+          "id": "A5020477253"
+        },
+        {
+          "name": "Kayla Christianson",
+          "id": "A5113060675"
+        },
+        {
+          "name": "Allison A Weiss",
+          "id": "A5111084898"
+        },
+        {
+          "name": "Erin Leckrone",
+          "id": "A5041480329"
+        },
+        {
+          "name": "Bronwen E. Shaw",
+          "id": "A5032478325"
+        },
+        {
+          "name": "Jeffery J. Auletta",
+          "id": "A5085657767"
+        },
+        {
+          "name": "Hemalatha G. Rangarajan",
+          "id": "A5062886533"
+        },
+        {
+          "name": "John Roach",
+          "id": "A5111653922"
+        },
+        {
+          "name": "Julie Blake",
+          "id": "A5113114216"
+        },
+        {
+          "name": "Dennis F. Michiel",
+          "id": "A5060115409"
+        },
+        {
+          "name": "Brian Bowser",
+          "id": "A5015000404"
+        },
+        {
+          "name": "Sheryl Ruppel",
+          "id": "A5026843742"
+        },
+        {
+          "name": "George Mitra",
+          "id": "A5108377218"
+        },
+        {
+          "name": "Anthony Welch",
+          "id": "A5069814251"
+        },
+        {
+          "name": "Jason L. Yovandich",
+          "id": "A5041479775"
+        },
+        {
+          "name": "Rachelle Salomon",
+          "id": "A5002368359"
+        },
+        {
+          "name": "Leslie S. Kean",
+          "id": "A5027478389"
+        },
+        {
+          "name": "Katherine Tarlock",
+          "id": "A5081153366"
+        },
+        {
+          "name": "Michael A. Pulsipher",
+          "id": "A5006173110"
+        },
+        {
+          "name": "Michael R. Verneris",
+          "id": "A5009609420"
+        },
+        {
+          "name": "Larisa Broglie",
+          "id": "A5089251343"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Steven M. Devine",
+          "id": "A5007847102"
+        },
+        {
+          "name": "Richard Aplenc",
+          "id": "A5037359116"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W4396871395": {
+      "id": "W4396871395",
+      "title": "Targeting TGF\u03b2-activated kinase-1 activation in microglia reduces CAR T immune effector cell-associated neurotoxicity syndrome",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Janaki Manoja Vinnakota",
+          "id": "A5028251973"
+        },
+        {
+          "name": "Francesca Biavasco",
+          "id": "A5003392966"
+        },
+        {
+          "name": "Marius Schwabenland",
+          "id": "A5065867369"
+        },
+        {
+          "name": "Chintan Chhatbar",
+          "id": "A5085388119"
+        },
+        {
+          "name": "Rachael C. Adams",
+          "id": "A5080284722"
+        },
+        {
+          "name": "Daniel Erny",
+          "id": "A5028293180"
+        },
+        {
+          "name": "Sandra Duquesne",
+          "id": "A5038897780"
+        },
+        {
+          "name": "Nadia El Khawanky",
+          "id": "A5065477665"
+        },
+        {
+          "name": "Dominik Schmidt",
+          "id": "A5031815955"
+        },
+        {
+          "name": "Viktor Fetsch",
+          "id": "A5034485497"
+        },
+        {
+          "name": "Alexander Z\u00e4hringer",
+          "id": "A5097984181"
+        },
+        {
+          "name": "Henrike Sali\u00e9",
+          "id": "A5043135104"
+        },
+        {
+          "name": "Dimitrios Athanassopoulos",
+          "id": "A5093398639"
+        },
+        {
+          "name": "Lukas M. Braun",
+          "id": "A5034128863"
+        },
+        {
+          "name": "Nora R. Javorniczky",
+          "id": "A5054045924"
+        },
+        {
+          "name": "Jenny N. H. G. Ho",
+          "id": "A5114104790"
+        },
+        {
+          "name": "Katrin Kierdorf",
+          "id": "A5053069165"
+        },
+        {
+          "name": "Reinhard Marks",
+          "id": "A5084494517"
+        },
+        {
+          "name": "Ralph W\u00e4sch",
+          "id": "A5088238455"
+        },
+        {
+          "name": "Federico Simonetta",
+          "id": "A5090435126"
+        },
+        {
+          "name": "Geoffroy Andrieux",
+          "id": "A5059867518"
+        },
+        {
+          "name": "Dietmar Pfeifer",
+          "id": "A5011506972"
+        },
+        {
+          "name": "Gianni Monaco",
+          "id": "A5044779571"
+        },
+        {
+          "name": "Christian M. Capitini",
+          "id": "A5054397260"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Thomas Blank",
+          "id": "A5072955768"
+        },
+        {
+          "name": "Bruce R. Blazar",
+          "id": "A5058268746"
+        },
+        {
+          "name": "Eva Wagner",
+          "id": "A5109715696"
+        },
+        {
+          "name": "Matthias Theobald",
+          "id": "A5005303780"
+        },
+        {
+          "name": "Clemens Sommer",
+          "id": "A5102826277"
+        },
+        {
+          "name": "Matthias Stelljes",
+          "id": "A5006288618"
+        },
+        {
+          "name": "Christian Reicherts",
+          "id": "A5054248930"
+        },
+        {
+          "name": "Astrid Jeibmann",
+          "id": "A5040721584"
+        },
+        {
+          "name": "Jens Schittenhelm",
+          "id": "A5040991417"
+        },
+        {
+          "name": "Camelia\u2010Maria Monoranu",
+          "id": "A5067944437"
+        },
+        {
+          "name": "Andreas Rosenwald",
+          "id": "A5028397596"
+        },
+        {
+          "name": "K. Martin Kort\u00fcm",
+          "id": "A5065834452"
+        },
+        {
+          "name": "Leo Rasche",
+          "id": "A5024392759"
+        },
+        {
+          "name": "Hermann Einsele",
+          "id": "A5016360607"
+        },
+        {
+          "name": "Philipp T. Meyer",
+          "id": "A5039176724"
+        },
+        {
+          "name": "Joachim Brumberg",
+          "id": "A5067273656"
+        },
+        {
+          "name": "Simon V\u00f6lkl",
+          "id": "A5075333464"
+        },
+        {
+          "name": "Andr\u00e9as Mackensen",
+          "id": "A5081818015"
+        },
+        {
+          "name": "Roland Coras",
+          "id": "A5043800397"
+        },
+        {
+          "name": "Michael von Bergwelt\u2010Baildon",
+          "id": "A5017861385"
+        },
+        {
+          "name": "Nathalie L. Albert",
+          "id": "A5041891850"
+        },
+        {
+          "name": "Laura M. Bartos",
+          "id": "A5081627019"
+        },
+        {
+          "name": "Matthias Brendel",
+          "id": "A5047813770"
+        },
+        {
+          "name": "Adrien Holzgreve",
+          "id": "A5053799104"
+        },
+        {
+          "name": "Matthias Mack",
+          "id": "A5085709802"
+        },
+        {
+          "name": "Melanie Boerries",
+          "id": "A5009680251"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Justus Duyster",
+          "id": "A5088789978"
+        },
+        {
+          "name": "Philipp Henneke",
+          "id": "A5009943526"
+        },
+        {
+          "name": "Josef Priller",
+          "id": "A5055109212"
+        },
+        {
+          "name": "Natalie K\u00f6hler",
+          "id": "A5020021102"
+        },
+        {
+          "name": "Felix Str\u00fcbing",
+          "id": "A5110782306"
+        },
+        {
+          "name": "Bertram Bengsch",
+          "id": "A5036331681"
+        },
+        {
+          "name": "Marco Ruella",
+          "id": "A5088355904"
+        },
+        {
+          "name": "Marion Subklewe",
+          "id": "A5003069482"
+        },
+        {
+          "name": "Louisa von Baumgarten",
+          "id": "A5024611239"
+        },
+        {
+          "name": "Saar Gill",
+          "id": "A5039491957"
+        },
+        {
+          "name": "Marco Prinz",
+          "id": "A5020510395"
+        },
+        {
+          "name": "Robert Zeiser",
+          "id": "A5084803299"
+        }
+      ],
+      "venue": "Nature Cancer"
+    },
+    "W4408392398": {
+      "id": "W4408392398",
+      "title": "Talicabtagene autoleucel for relapsed or refractory B-cell malignancies: results from an open-label, multicentre, phase 1/2 study",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Hasmukh Jain",
+          "id": "A5017405089"
+        },
+        {
+          "name": "Atharva Karulkar",
+          "id": "A5016606552"
+        },
+        {
+          "name": "Devanshi Kalra",
+          "id": "A5115595097"
+        },
+        {
+          "name": "Smrithi Ravikumar",
+          "id": "A5055289075"
+        },
+        {
+          "name": "Shreshtha Shah",
+          "id": "A5114036041"
+        },
+        {
+          "name": "Afrin Firfiray",
+          "id": "A5023465192"
+        },
+        {
+          "name": "Juber Pendhari",
+          "id": "A5060879744"
+        },
+        {
+          "name": "Ankesh Kumar Jaiswal",
+          "id": "A5021232835"
+        },
+        {
+          "name": "Aalia Khan",
+          "id": "A5003856650"
+        },
+        {
+          "name": "Manivasagam Sundharam",
+          "id": "A5116605202"
+        },
+        {
+          "name": "Anand Vaibhaw",
+          "id": "A5115023391"
+        },
+        {
+          "name": "Ashish Saroha",
+          "id": "A5115023389"
+        },
+        {
+          "name": "Shreewardhan Rajyopadhye",
+          "id": "A5116605203"
+        },
+        {
+          "name": "Moumita Basu",
+          "id": "A5052426735"
+        },
+        {
+          "name": "Sweety Asija",
+          "id": "A5031808540"
+        },
+        {
+          "name": "Ambalika Chowdhury",
+          "id": "A5044981628"
+        },
+        {
+          "name": "Rohit Beher",
+          "id": "A5053983485"
+        },
+        {
+          "name": "Ankit Banik",
+          "id": "A5024141580"
+        },
+        {
+          "name": "Alka Dwivedi",
+          "id": "A5110247852"
+        },
+        {
+          "name": "Shalini Purwar",
+          "id": "A5115011617"
+        },
+        {
+          "name": "Gaurav Narula",
+          "id": "A5025181359"
+        },
+        {
+          "name": "Shripad Banavali",
+          "id": "A5061492977"
+        },
+        {
+          "name": "Nitin Jain",
+          "id": "A5021380291"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Sameer Melinkeri",
+          "id": "A5009812248"
+        },
+        {
+          "name": "Lovin Wilson",
+          "id": "A5110447513"
+        },
+        {
+          "name": "Narendra Agarwal",
+          "id": "A5110999848"
+        },
+        {
+          "name": "Anil Aribandi",
+          "id": "A5008899436"
+        },
+        {
+          "name": "Pavan Kumar Boyella",
+          "id": "A5112909610"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Sattva S. Neelapu",
+          "id": "A5064752432"
+        },
+        {
+          "name": "Manju Sengar",
+          "id": "A5069322918"
+        },
+        {
+          "name": "Rahul Purwar",
+          "id": "A5049093520"
+        }
+      ],
+      "venue": "The Lancet Haematology"
+    },
+    "W2056644883": {
+      "id": "W2056644883",
+      "title": "Interleukin-7 restores immunity in athymic T-cell\u2013depleted hosts",
+      "year": 2001,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Barbara L. Christensen",
+          "id": "A5052778557"
+        },
+        {
+          "name": "Kristin L. Komschlies",
+          "id": "A5086047716"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2019622169": {
+      "id": "W2019622169",
+      "title": "Background to hematopoietic cell transplantation, including post transplant immune recovery",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        },
+        {
+          "name": "Karl S. Peggs",
+          "id": "A5111847229"
+        },
+        {
+          "name": "Jan Storek",
+          "id": "A5084879148"
+        },
+        {
+          "name": "Antoine Toubert",
+          "id": "A5000888675"
+        }
+      ],
+      "venue": "Bone Marrow Transplantation"
+    },
+    "W2067839517": {
+      "id": "W2067839517",
+      "title": "Immune-based therapies for childhood cancer",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Melinda S. Merchant",
+          "id": "A5013821837"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Nature Reviews Clinical Oncology"
+    },
+    "W2599193187": {
+      "id": "W2599193187",
+      "title": "Elutriated lymphocytes for manufacturing chimeric antigen receptor T cells",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Jiaqiang Ren",
+          "id": "A5101600045"
+        },
+        {
+          "name": "Marianna Sabatino",
+          "id": "A5056190774"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "Hanh Khuu",
+          "id": "A5087049535"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Rosandra N. Kaplan",
+          "id": "A5021388942"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Journal of Translational Medicine"
+    },
+    "W2883690493": {
+      "id": "W2883690493",
+      "title": "Systematic Evaluation of Neurotoxicity in Children and Young Adults Undergoing CD22 Chimeric Antigen Receptor T-Cell Therapy",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Pamela L. Wolters",
+          "id": "A5065611220"
+        },
+        {
+          "name": "Staci Martin",
+          "id": "A5057326464"
+        },
+        {
+          "name": "Mary Anne Toledo\u2010Tamula",
+          "id": "A5059178945"
+        },
+        {
+          "name": "Marie Claire Roderick",
+          "id": "A5041201432"
+        },
+        {
+          "name": "Kari Struemph",
+          "id": "A5042918774"
+        },
+        {
+          "name": "Eli Kane",
+          "id": "A5076162350"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Journal of Immunotherapy"
+    },
+    "W3084862157": {
+      "id": "W3084862157",
+      "title": "Perforin-deficient CAR T cells recapitulate late-onset inflammatory toxicities observed in patients",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Kazusa Ishii",
+          "id": "A5039076151"
+        },
+        {
+          "name": "Marie Pouzolles",
+          "id": "A5084754907"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "Rebecca Erwin-Cohen",
+          "id": "A5084563815"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Haiyan Lei",
+          "id": "A5017446252"
+        },
+        {
+          "name": "Skyler Kuhn",
+          "id": "A5032102057"
+        },
+        {
+          "name": "Amanda K. Ombrello",
+          "id": "A5064879281"
+        },
+        {
+          "name": "Alina Dulau\u2010Florea",
+          "id": "A5003779729"
+        },
+        {
+          "name": "Michael Eckhaus",
+          "id": "A5014572331"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Daniel A. Lichtenstein",
+          "id": "A5029334036"
+        },
+        {
+          "name": "Val\u00e9rie S. Zimmermann",
+          "id": "A5042127314"
+        },
+        {
+          "name": "Taisuke Kondo",
+          "id": "A5055788569"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Howard A. Young",
+          "id": "A5090914300"
+        },
+        {
+          "name": "Naomi Taylor",
+          "id": "A5005174262"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Journal of Clinical Investigation"
+    },
+    "W3204393409": {
+      "id": "W3204393409",
+      "title": "Infectious complications of CAR T-cell therapy across novel antigen targets in the first 30 days",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Lekha Mikkilineni",
+          "id": "A5036697217"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "Shilpa Shahani",
+          "id": "A5070693731"
+        },
+        {
+          "name": "John C. Molina",
+          "id": "A5007115015"
+        },
+        {
+          "name": "Tara N. Palmore",
+          "id": "A5069947337"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Rosandra N. Kaplan",
+          "id": "A5021388942"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Juan Gea\u2010Banacloche",
+          "id": "A5023659191"
+        },
+        {
+          "name": "Theresa Jerussi",
+          "id": "A5066864388"
+        },
+        {
+          "name": "V\u00e9ronique Nussenblatt",
+          "id": "A5029895164"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Blood Advances"
+    },
+    "W4280603136": {
+      "id": "W4280603136",
+      "title": "Efficacy of second CAR-T (CART2) infusion limited by poor CART expansion and antigen modulation",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Elizabeth M. Holland",
+          "id": "A5007142764"
+        },
+        {
+          "name": "John C. Molina",
+          "id": "A5007115015"
+        },
+        {
+          "name": "Kniya D\u00e9D\u00e9",
+          "id": "A5078540255"
+        },
+        {
+          "name": "Daniel Moyer",
+          "id": "A5084950327"
+        },
+        {
+          "name": "Ting Zhou",
+          "id": "A5078822453"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Sandhya R. Panch",
+          "id": "A5002383402"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Lauren Little",
+          "id": "A5084974669"
+        },
+        {
+          "name": "Daniel W Lee",
+          "id": "A5115589556"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer"
+    },
+    "W4291015290": {
+      "id": "W4291015290",
+      "title": "Potent preclinical activity of FLT3-directed chimeric antigen receptor T-cell immunotherapy against &lt;i&gt;FLT3&lt;/i&gt;- mutant acute myeloid leukemia and &lt;i&gt;KMT2A&lt;/i&gt;-rearranged acute lymphoblastic leukemia",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Lisa M Niswander",
+          "id": "A5012235709"
+        },
+        {
+          "name": "Zachary Graff",
+          "id": "A5071083715"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "John Chukinas",
+          "id": "A5086026495"
+        },
+        {
+          "name": "Christina A. Meadows",
+          "id": "A5051976264"
+        },
+        {
+          "name": "Lillie Leach",
+          "id": "A5010305621"
+        },
+        {
+          "name": "Joseph P. Loftus",
+          "id": "A5112631549"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Sarah K. Tasian",
+          "id": "A5066964026"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Haematologica"
+    },
+    "W4290725268": {
+      "id": "W4290725268",
+      "title": "The impact of race, ethnicity, and obesity on CAR T-cell therapy outcomes",
+      "year": 2022,
+      "authors": [
+        {
+          "name": "Aiman Faruqi",
+          "id": "A5035751434"
+        },
+        {
+          "name": "John A. Ligon",
+          "id": "A5030196630"
+        },
+        {
+          "name": "Paul Borgman",
+          "id": "A5013805660"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "Toni Foley",
+          "id": "A5027228333"
+        },
+        {
+          "name": "Lauren Little",
+          "id": "A5084974669"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Jennifer N. Brudno",
+          "id": "A5057158251"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Lekha Mikkilineni",
+          "id": "A5036697217"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Blood Advances"
+    },
+    "W4389045621": {
+      "id": "W4389045621",
+      "title": "FOXP1 and KLF2 reciprocally regulate checkpoints of stem-like to effector transition in CAR T cells",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Ziang Zhu",
+          "id": "A5015417430"
+        },
+        {
+          "name": "Guohua Lou",
+          "id": "A5038517848"
+        },
+        {
+          "name": "Xiao-Lu Teng",
+          "id": "A5002891805"
+        },
+        {
+          "name": "Haixia Wang",
+          "id": "A5100439430"
+        },
+        {
+          "name": "Ying Luo",
+          "id": "A5045477206"
+        },
+        {
+          "name": "Wangke Shi",
+          "id": "A5113567474"
+        },
+        {
+          "name": "Kiddist Yihunie",
+          "id": "A5072342426"
+        },
+        {
+          "name": "Shu\u2010Meng Hao",
+          "id": "A5021971444"
+        },
+        {
+          "name": "Kole DeGolier",
+          "id": "A5074616077"
+        },
+        {
+          "name": "Chengheng Liao",
+          "id": "A5013743722"
+        },
+        {
+          "name": "Huocong Huang",
+          "id": "A5060384080"
+        },
+        {
+          "name": "Qing Zhang",
+          "id": "A5100358804"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Tao Wang",
+          "id": "A5100453525"
+        },
+        {
+          "name": "Chen Yao",
+          "id": "A5101808184"
+        },
+        {
+          "name": "Tuoqi Wu",
+          "id": "A5067543754"
+        }
+      ],
+      "venue": "Nature Immunology"
+    },
+    "W4380089819": {
+      "id": "W4380089819",
+      "title": "CD22 CAR T-cell associated hematologic toxicities, endothelial activation and relationship to neurotoxicity",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Jennifer Jess",
+          "id": "A5040328314"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Alina Dulau\u2010Florea",
+          "id": "A5003779729"
+        },
+        {
+          "name": "Kevin R. Parker",
+          "id": "A5032789651"
+        },
+        {
+          "name": "Jon R. Inglefield",
+          "id": "A5026833249"
+        },
+        {
+          "name": "Daniel A. Lichtenstein",
+          "id": "A5029334036"
+        },
+        {
+          "name": "Fiorella Schischlik",
+          "id": "A5025950037"
+        },
+        {
+          "name": "Martin Ongkeko",
+          "id": "A5083165274"
+        },
+        {
+          "name": "Yanyu Wang",
+          "id": "A5100780541"
+        },
+        {
+          "name": "Shilpa Shahani",
+          "id": "A5070693731"
+        },
+        {
+          "name": "Ann Cullinane",
+          "id": "A5016226235"
+        },
+        {
+          "name": "Hannah Smith",
+          "id": "A5091859386"
+        },
+        {
+          "name": "Eli Kane",
+          "id": "A5076162350"
+        },
+        {
+          "name": "Lauren Little",
+          "id": "A5084974669"
+        },
+        {
+          "name": "Dong Chen",
+          "id": "A5100319444"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Ansuman T. Satpathy",
+          "id": "A5055604014"
+        },
+        {
+          "name": "Jay N. Lozier",
+          "id": "A5052704460"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer"
+    },
+    "W2168987586": {
+      "id": "W2168987586",
+      "title": "Interleukin 7 worsens graft-versus-host disease",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Manoj Sinha",
+          "id": "A5042143172"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Daniel H. Fowler",
+          "id": "A5074220802"
+        },
+        {
+          "name": "Georgina Miller",
+          "id": "A5020417873"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2120941256": {
+      "id": "W2120941256",
+      "title": "Association of Serum Interleukin-7 Levels With the Development of Acute Graft-Versus-Host Disease",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Robert M. Dean",
+          "id": "A5011431831"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Seth M. Steinberg",
+          "id": "A5044239219"
+        },
+        {
+          "name": "Fran Hakim",
+          "id": "A5021403443"
+        },
+        {
+          "name": "Daniel H. Fowler",
+          "id": "A5074220802"
+        },
+        {
+          "name": "Jeanne Odom",
+          "id": "A5112230400"
+        },
+        {
+          "name": "Jason Foley",
+          "id": "A5113496412"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        },
+        {
+          "name": "Michael Bishop",
+          "id": "A5102014551"
+        }
+      ],
+      "venue": "Journal of Clinical Oncology"
+    },
+    "W2046950930": {
+      "id": "W2046950930",
+      "title": "Eradication of disseminated adenovirus infection in a pediatric hematopoietic stem cell transplantation recipient using the novel antiviral agent CMX001",
+      "year": 2010,
+      "authors": [
+        {
+          "name": "Kris Paolino",
+          "id": "A5051351259"
+        },
+        {
+          "name": "Jane Sande",
+          "id": "A5108441928"
+        },
+        {
+          "name": "Evelio Perez\u2010Albuerne",
+          "id": "A5071440177"
+        },
+        {
+          "name": "Brett Loechelt",
+          "id": "A5034481213"
+        },
+        {
+          "name": "Barbara Jantausch",
+          "id": "A5013356152"
+        },
+        {
+          "name": "Wendy Painter",
+          "id": "A5078260740"
+        },
+        {
+          "name": "Margaret Anderson",
+          "id": "A5111744305"
+        },
+        {
+          "name": "Tim Tippin",
+          "id": "A5028885694"
+        },
+        {
+          "name": "E. Randall Lanier",
+          "id": "A5108533967"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Roberta L. DeBiasi",
+          "id": "A5065585077"
+        }
+      ],
+      "venue": "Journal of Clinical Virology"
+    },
+    "W2906492823": {
+      "id": "W2906492823",
+      "title": "Phase I Experience with a Bi-Specific CAR Targeting CD19 and CD22 in Adults with B-Cell Malignancies",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Nasheed Hossain",
+          "id": "A5048969336"
+        },
+        {
+          "name": "Bita Sahaf",
+          "id": "A5064062205"
+        },
+        {
+          "name": "Matthew Abramian",
+          "id": "A5072292156"
+        },
+        {
+          "name": "Jay Y. Spiegel",
+          "id": "A5040802391"
+        },
+        {
+          "name": "Katie Kong",
+          "id": "A5047969687"
+        },
+        {
+          "name": "Stephen Kim",
+          "id": "A5109374260"
+        },
+        {
+          "name": "Sharon Mavroukakis",
+          "id": "A5059747639"
+        },
+        {
+          "name": "Jean Oak",
+          "id": "A5090836249"
+        },
+        {
+          "name": "Yasodha Natkunam",
+          "id": "A5001976357"
+        },
+        {
+          "name": "Everett Meyer",
+          "id": "A5081960635"
+        },
+        {
+          "name": "Matthew J. Frank",
+          "id": "A5030780456"
+        },
+        {
+          "name": "Steven A. Feldman",
+          "id": "A5032315182"
+        },
+        {
+          "name": "Steven Long",
+          "id": "A5021398871"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Lori Muffly",
+          "id": "A5003368910"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "David B. Miklos",
+          "id": "A5081926380"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2905858534": {
+      "id": "W2905858534",
+      "title": "Phase 1 Study of CD19/CD22 Bispecific Chimeric Antigen Receptor (CAR) Therapy in Children and Young Adults with B Cell Acute Lymphoblastic Leukemia (ALL)",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Liora M. Schultz",
+          "id": "A5061884188"
+        },
+        {
+          "name": "Kara L. Davis",
+          "id": "A5009700060"
+        },
+        {
+          "name": "Christina Baggott",
+          "id": "A5051925691"
+        },
+        {
+          "name": "Christie Chaudry",
+          "id": "A5006147246"
+        },
+        {
+          "name": "Anne Cunniffe Marcy",
+          "id": "A5068852018"
+        },
+        {
+          "name": "Sharon Mavroukakis",
+          "id": "A5059747639"
+        },
+        {
+          "name": "Bita Sahaf",
+          "id": "A5064062205"
+        },
+        {
+          "name": "Katherine A. Kong",
+          "id": "A5004367769"
+        },
+        {
+          "name": "Lori Muffly",
+          "id": "A5003368910"
+        },
+        {
+          "name": "Stephen Kim",
+          "id": "A5109374260"
+        },
+        {
+          "name": "Everett Meyer",
+          "id": "A5081960635"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "David B. Miklos",
+          "id": "A5081926380"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2979678869": {
+      "id": "W2979678869",
+      "title": "Minimal Residual Disease Negative Complete Remissions Following Anti-CD22 Chimeric Antigen Receptor (CAR) in Children and Young Adults with Relapsed/Refractory Acute Lymphoblastic Leukemia (ALL)",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Ling Zhang",
+          "id": "A5038765418"
+        },
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "David Stroncek",
+          "id": "A5021031205"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2508162331": {
+      "id": "W2508162331",
+      "title": "Safety and Response of Incorporating CD19 Chimeric Antigen Receptor T Cell Therapy in Typical Salvage Regimens for Children and Young Adults with Acute Lymphoblastic Leukemia",
+      "year": 2015,
+      "authors": [
+        {
+          "name": "Daniel W. Lee",
+          "id": "A5076065961"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Hua Zhang",
+          "id": "A5100408737"
+        },
+        {
+          "name": "Ling Zhang",
+          "id": "A5038765418"
+        },
+        {
+          "name": "James N. Kochenderfer",
+          "id": "A5035585356"
+        },
+        {
+          "name": "Steven A. Rosenberg",
+          "id": "A5072133376"
+        },
+        {
+          "name": "David Stroncek",
+          "id": "A5021031205"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2991073805": {
+      "id": "W2991073805",
+      "title": "Phase I Trial Using CD19/CD22 Bispecific CAR T Cells in Pediatric and Adult Acute Lymphoblastic Leukemia (ALL)",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Liora M. Schultz",
+          "id": "A5061884188"
+        },
+        {
+          "name": "Lori Muffly",
+          "id": "A5003368910"
+        },
+        {
+          "name": "Jay Y. Spiegel",
+          "id": "A5040802391"
+        },
+        {
+          "name": "Sneha Ramakrishna",
+          "id": "A5014136581"
+        },
+        {
+          "name": "Nasheed Hossain",
+          "id": "A5048969336"
+        },
+        {
+          "name": "Christina Baggott",
+          "id": "A5051925691"
+        },
+        {
+          "name": "Bita Sahaf",
+          "id": "A5064062205"
+        },
+        {
+          "name": "Shabnum Patel",
+          "id": "A5022220685"
+        },
+        {
+          "name": "Juliana Craig",
+          "id": "A5054569926"
+        },
+        {
+          "name": "Jenny Yoon",
+          "id": "A5049007772"
+        },
+        {
+          "name": "Meena Kadapakkam",
+          "id": "A5081497896"
+        },
+        {
+          "name": "Robbie G. Majzner",
+          "id": "A5033972749"
+        },
+        {
+          "name": "Matthew J. Frank",
+          "id": "A5030780456"
+        },
+        {
+          "name": "Courtney Erickson",
+          "id": "A5067588066"
+        },
+        {
+          "name": "Anne Cunniffe Marcy",
+          "id": "A5068852018"
+        },
+        {
+          "name": "Michelle Fujimoto",
+          "id": "A5112648912"
+        },
+        {
+          "name": "Neehar Bhatia",
+          "id": "A5063808389"
+        },
+        {
+          "name": "Everett Meyer",
+          "id": "A5081960635"
+        },
+        {
+          "name": "Katherine A. Kong",
+          "id": "A5004367769"
+        },
+        {
+          "name": "Emily Egeler",
+          "id": "A5034845742"
+        },
+        {
+          "name": "Sharon Mavroukakis",
+          "id": "A5059747639"
+        },
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Steven A. Feldman",
+          "id": "A5032315182"
+        },
+        {
+          "name": "David B. Miklos",
+          "id": "A5081926380"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        },
+        {
+          "name": "Kara L. Davis",
+          "id": "A5009700060"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W3008757142": {
+      "id": "W3008757142",
+      "title": "Serial evaluation of CD19 surface expression in pediatric B-cell malignancies following CD19-targeted therapy",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "Diane Libert",
+          "id": "A5036180623"
+        },
+        {
+          "name": "Constance M. Yuan",
+          "id": "A5014636271"
+        },
+        {
+          "name": "Katherine E. Masih",
+          "id": "A5013596800"
+        },
+        {
+          "name": "Pallavi Galera",
+          "id": "A5072027170"
+        },
+        {
+          "name": "Dalia Salem",
+          "id": "A5008205966"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Javed Khan",
+          "id": "A5017638182"
+        },
+        {
+          "name": "Maryalice Stetler\u2010Stevenson",
+          "id": "A5065696086"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Leukemia"
+    },
+    "W4378903121": {
+      "id": "W4378903121",
+      "title": "Prospective PTCTC trial of myeloablative haplo-BMT with posttransplant cyclophosphamide for pediatric acute leukemias",
+      "year": 2023,
+      "authors": [
+        {
+          "name": "Juan C. Fierro Pineda",
+          "id": "A5020828737"
+        },
+        {
+          "name": "Hua\u2010Ling Tsai",
+          "id": "A5045141303"
+        },
+        {
+          "name": "Amanda L. Blackford",
+          "id": "A5012591920"
+        },
+        {
+          "name": "Andrew Cluster",
+          "id": "A5075397468"
+        },
+        {
+          "name": "Emi Caywood",
+          "id": "A5027997230"
+        },
+        {
+          "name": "Jignesh Dalal",
+          "id": "A5081601062"
+        },
+        {
+          "name": "Jeffrey Davis",
+          "id": "A5103539477"
+        },
+        {
+          "name": "Maarten Egeler",
+          "id": "A5111678092"
+        },
+        {
+          "name": "Jeffrey S. Huo",
+          "id": "A5035050411"
+        },
+        {
+          "name": "Michelle Hudspeth",
+          "id": "A5007524891"
+        },
+        {
+          "name": "Amy K. Keating",
+          "id": "A5057939769"
+        },
+        {
+          "name": "Susan S. Kelly",
+          "id": "A5015996246"
+        },
+        {
+          "name": "Joerg Krueger",
+          "id": "A5068149083"
+        },
+        {
+          "name": "Dean A. Lee",
+          "id": "A5019752519"
+        },
+        {
+          "name": "Leslie E. Lehmann",
+          "id": "A5008479139"
+        },
+        {
+          "name": "Lisa Madden",
+          "id": "A5087453451"
+        },
+        {
+          "name": "Benjamin Oshrine",
+          "id": "A5046262164"
+        },
+        {
+          "name": "Michael A. Pulsipher",
+          "id": "A5006173110"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Heather J. Symons",
+          "id": "A5008768517"
+        }
+      ],
+      "venue": "Blood Advances"
+    },
+    "W2018038111": {
+      "id": "W2018038111",
+      "title": "Bax Deficiency Partially Corrects Interleukin-7 Receptor \u03b1 Deficiency",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Annette R. Khaled",
+          "id": "A5080097687"
+        },
+        {
+          "name": "Wenqing Li",
+          "id": "A5100621748"
+        },
+        {
+          "name": "Jiaqiang Huang",
+          "id": "A5076535039"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Amr S. Khaled",
+          "id": "A5108419175"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Kathrin Muegge",
+          "id": "A5037783700"
+        },
+        {
+          "name": "Howard A. Young",
+          "id": "A5090914300"
+        },
+        {
+          "name": "Scott K. Durum",
+          "id": "A5021394893"
+        }
+      ],
+      "venue": "Immunity"
+    },
+    "W1972776798": {
+      "id": "W1972776798",
+      "title": "Flt3 ligand enhances thymic-dependent and thymic-independent immune reconstitution",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Manoj Sinha",
+          "id": "A5042143172"
+        },
+        {
+          "name": "Matthew Milliron",
+          "id": "A5056239574"
+        },
+        {
+          "name": "Yu\u2010Waye Chu",
+          "id": "A5108427126"
+        },
+        {
+          "name": "Veena Kapoor",
+          "id": "A5108571467"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        },
+        {
+          "name": "E. Donnall Thomas",
+          "id": "A5001126420"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2025559962": {
+      "id": "W2025559962",
+      "title": "Recombinant Interleukin-7 Induces Proliferation of Naive Macaque CD4<sup>+</sup>and CD8<sup>+</sup>T Cells In Vivo",
+      "year": 2004,
+      "authors": [
+        {
+          "name": "Marcin Moniuszko",
+          "id": "A5081557781"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Wen-Po Tsai",
+          "id": "A5110111168"
+        },
+        {
+          "name": "Michel Morre",
+          "id": "A5006675365"
+        },
+        {
+          "name": "Brigitte Assouline",
+          "id": "A5024986585"
+        },
+        {
+          "name": "Pierre Cortez",
+          "id": "A5071531138"
+        },
+        {
+          "name": "Mark G. Lewis",
+          "id": "A5048593024"
+        },
+        {
+          "name": "Scott Cairns",
+          "id": "A5076218825"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Genoveffa Franchini",
+          "id": "A5055963852"
+        }
+      ],
+      "venue": "Journal of Virology"
+    },
+    "W2020169030": {
+      "id": "W2020169030",
+      "title": "Immune reconstitution following hematopoietic progenitor cell transplantation: challenges for the future",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Bone Marrow Transplantation"
+    },
+    "W2040702887": {
+      "id": "W2040702887",
+      "title": "Val-BoroPro Accelerates T Cell Priming via Modulation of Dendritic Cell Trafficking Resulting in Complete Regression of Established Murine Tumors",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Meghaan P. Walsh",
+          "id": "A5039228588"
+        },
+        {
+          "name": "Brynn B. Duncan",
+          "id": "A5084508530"
+        },
+        {
+          "name": "Shannon M. Larabee",
+          "id": "A5090463567"
+        },
+        {
+          "name": "Aviva C. Krauss",
+          "id": "A5079481003"
+        },
+        {
+          "name": "Jessica P.E. Davis",
+          "id": "A5064178362"
+        },
+        {
+          "name": "Yongzhi Cui",
+          "id": "A5051249992"
+        },
+        {
+          "name": "Su Young Kim",
+          "id": "A5100645032"
+        },
+        {
+          "name": "Martin Guimond",
+          "id": "A5025108971"
+        },
+        {
+          "name": "William W. Bachovchin",
+          "id": "A5003681632"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "PLoS ONE"
+    },
+    "W2793694873": {
+      "id": "W2793694873",
+      "title": "Cytomegalovirus Infection Incidence and Risk Factors Across Diverse Hematopoietic Cell Transplantation Platforms Using a Standardized Monitoring and Treatment Approach: A Comprehensive Evaluation from a Single Institution",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "Ricardo Melendez-Munoz",
+          "id": "A5055445677"
+        },
+        {
+          "name": "Rachel Marchalik",
+          "id": "A5082269640"
+        },
+        {
+          "name": "Theresa Jerussi",
+          "id": "A5066864388"
+        },
+        {
+          "name": "Dimana Dimitrova",
+          "id": "A5039603636"
+        },
+        {
+          "name": "V\u00e9ronique Nussenblatt",
+          "id": "A5029895164"
+        },
+        {
+          "name": "Andrea Beri",
+          "id": "A5090467430"
+        },
+        {
+          "name": "Khalid Rai",
+          "id": "A5028550944"
+        },
+        {
+          "name": "Jennifer Wilder",
+          "id": "A5086602479"
+        },
+        {
+          "name": "A. John Barrett",
+          "id": "A5049066393"
+        },
+        {
+          "name": "Minoo Battiwalla",
+          "id": "A5074515375"
+        },
+        {
+          "name": "Richard W. Childs",
+          "id": "A5112507028"
+        },
+        {
+          "name": "Courtney D. Fitzhugh",
+          "id": "A5087536541"
+        },
+        {
+          "name": "Daniel H. Fowler",
+          "id": "A5074220802"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Ronald E. Gress",
+          "id": "A5066218992"
+        },
+        {
+          "name": "Matthew M. Hsieh",
+          "id": "A5063279617"
+        },
+        {
+          "name": "Sawa Ito",
+          "id": "A5029569639"
+        },
+        {
+          "name": "Elizabeth M. Kang",
+          "id": "A5090278937"
+        },
+        {
+          "name": "Steven Z. Pavletic",
+          "id": "A5065897197"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "John F. Tisdale",
+          "id": "A5001134935"
+        },
+        {
+          "name": "Juan Gea\u2010Banacloche",
+          "id": "A5023659191"
+        },
+        {
+          "name": "Christopher G. Kanakry",
+          "id": "A5082236040"
+        },
+        {
+          "name": "Jennifer A. Kanakry",
+          "id": "A5037782727"
+        }
+      ],
+      "venue": "Biology of Blood and Marrow Transplantation"
+    },
+    "W4254105103": {
+      "id": "W4254105103",
+      "title": "Meeting Program and Abstracts",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Maria Papaleontiou",
+          "id": "A5026319816"
+        },
+        {
+          "name": "Sarah J. Peterson",
+          "id": "A5102845863"
+        },
+        {
+          "name": "X. S. Ding",
+          "id": "A5108231307"
+        },
+        {
+          "name": "Ying Yang",
+          "id": "A5114017100"
+        },
+        {
+          "name": "Connie Meeyoung",
+          "id": "A5095606594"
+        },
+        {
+          "name": "Rhee Charles",
+          "id": "A5110910085"
+        },
+        {
+          "name": "Andrew Carter",
+          "id": "A5039403820"
+        },
+        {
+          "name": "Rebecca S. Bahn",
+          "id": "A5039851000"
+        },
+        {
+          "name": "Deborah Doniach",
+          "id": "A5053325382"
+        },
+        {
+          "name": "Gabriella Morreale de Escobar",
+          "id": "A5111678846"
+        },
+        {
+          "name": "Panel Discussion",
+          "id": "A5017566878"
+        },
+        {
+          "name": "Elizabeth Pearce",
+          "id": "A5060454081"
+        },
+        {
+          "name": "Sandra M. McLachlan",
+          "id": "A5018820715"
+        },
+        {
+          "name": "Juan Bernal",
+          "id": "A5042689915"
+        },
+        {
+          "name": "Robin P. Peeters",
+          "id": "A5064218360"
+        },
+        {
+          "name": "Anthony N. Hollenberg",
+          "id": "A5051004100"
+        },
+        {
+          "name": "Marco Medici",
+          "id": "A5024240557"
+        },
+        {
+          "name": "Rossella Elisei",
+          "id": "A5027117186"
+        },
+        {
+          "name": "J. Woody Sistrunk",
+          "id": "A5063254015"
+        },
+        {
+          "name": "George J. Kahaly",
+          "id": "A5087797414"
+        },
+        {
+          "name": "Chrysoula Dosiou",
+          "id": "A5081619954"
+        },
+        {
+          "name": "Marius N. Stan",
+          "id": "A5046989093"
+        },
+        {
+          "name": "Antonio Di Cristofano",
+          "id": "A5034570760"
+        },
+        {
+          "name": "Mona M. Sabra",
+          "id": "A5015522959"
+        },
+        {
+          "name": "Bryan R. Haugen",
+          "id": "A5073085667"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Silvia Ippolito",
+          "id": "A5112829660"
+        },
+        {
+          "name": "Raffaele Ciampi",
+          "id": "A5017251112"
+        },
+        {
+          "name": "Ana-Maria Chindris",
+          "id": "A5007906398"
+        },
+        {
+          "name": "Eva Katrin",
+          "id": "A5095606593"
+        },
+        {
+          "name": "W E Paul",
+          "id": "A5110910083"
+        },
+        {
+          "name": "Michael T. Yen",
+          "id": "A5035474657"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Heged\u0171s",
+          "id": "A5039528393"
+        },
+        {
+          "name": "Fulvio Basolo",
+          "id": "A5060902293"
+        },
+        {
+          "name": "Lin Yansong",
+          "id": "A5112115762"
+        },
+        {
+          "name": "Anastasios Maniakas",
+          "id": "A5056806549"
+        },
+        {
+          "name": "Rosa Falcone",
+          "id": "A5104071237"
+        },
+        {
+          "name": "Leonard Wartofsky",
+          "id": "A5004080743"
+        },
+        {
+          "name": "Francesco S. Celi",
+          "id": "A5043833309"
+        },
+        {
+          "name": "Ernest Asamoah",
+          "id": "A5109531824"
+        },
+        {
+          "name": "Charles W. Carter",
+          "id": "A5009093641"
+        },
+        {
+          "name": "Minjing Zou",
+          "id": "A5087932610"
+        },
+        {
+          "name": "Huda A. BinEssa",
+          "id": "A5006897442"
+        },
+        {
+          "name": "Yousif H. Al-Malki",
+          "id": "A5011569536"
+        },
+        {
+          "name": "Ibrahim Al\u2010Jammaz",
+          "id": "A5009323390"
+        },
+        {
+          "name": "Anwar F Al-Enezi",
+          "id": "A5027168484"
+        },
+        {
+          "name": "Falah Almohanna",
+          "id": "A5079182899"
+        },
+        {
+          "name": "Abdullah M. Assiri",
+          "id": "A5048877999"
+        },
+        {
+          "name": "Brian F. Meyer",
+          "id": "A5053866155"
+        },
+        {
+          "name": "Ali S. Alzahrani",
+          "id": "A5069842414"
+        },
+        {
+          "name": "Yuxiang Shi",
+          "id": "A5110800866"
+        },
+        {
+          "name": "Travis A. Smith",
+          "id": "A5069958884"
+        },
+        {
+          "name": "Saba Sile",
+          "id": "A5021326256"
+        },
+        {
+          "name": "Elizabeth L. Thompson",
+          "id": "A5110910084"
+        },
+        {
+          "name": "Thomas Vescio",
+          "id": "A5081568684"
+        },
+        {
+          "name": "Renee Perdok",
+          "id": "A5047314880"
+        },
+        {
+          "name": "Jeffrey W. Sherman",
+          "id": "A5041307140"
+        },
+        {
+          "name": "Raymond S. Douglas",
+          "id": "A5038476807"
+        },
+        {
+          "name": "Xia Yin",
+          "id": "A5100446843"
+        },
+        {
+          "name": "Xujun Liang",
+          "id": "A5102335684"
+        },
+        {
+          "name": "Kelly\u2010Anne Phillips",
+          "id": "A5039888939"
+        },
+        {
+          "name": "Susanne Neumann",
+          "id": "A5055948934"
+        },
+        {
+          "name": "Shuja Shafi Malik",
+          "id": "A5027136612"
+        },
+        {
+          "name": "Bernice Marcus\u2010Samuels",
+          "id": "A5029212324"
+        },
+        {
+          "name": "\u0415. \u0412. \u0415\u043b\u0438\u0441\u0435\u0435\u0432\u0430",
+          "id": "A5026902293"
+        },
+        {
+          "name": "D. Jang",
+          "id": "A5106133703"
+        },
+        {
+          "name": "Joanna K\u0142ubo-Gwie\u017adzi\u0144ska",
+          "id": "A5031402469"
+        },
+        {
+          "name": "Cornelia Krieger",
+          "id": "A5074851336"
+        },
+        {
+          "name": "Marvin C. Gershengorn",
+          "id": "A5005079343"
+        },
+        {
+          "name": "David Reyes\u2010Gastelum",
+          "id": "A5051150309"
+        },
+        {
+          "name": "Mousumi Banerjee",
+          "id": "A5101646213"
+        },
+        {
+          "name": "Sarah T. Hawley",
+          "id": "A5042557140"
+        },
+        {
+          "name": "Megan R. Haymart",
+          "id": "A5032874682"
+        },
+        {
+          "name": "Tha\u00eds C. O. Fonseca",
+          "id": "A5004485520"
+        },
+        {
+          "name": "Kathryn G. Schuff",
+          "id": "A5068216862"
+        },
+        {
+          "name": "Elizabeth A. McAninch",
+          "id": "A5034024280"
+        }
+      ],
+      "venue": "Thyroid"
+    },
+    "W4408593208": {
+      "id": "W4408593208",
+      "title": "Rational redesign of antigen binding domain improves<i>in vivo</i>efficacy of CD22-CAR T cells",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Kole DeGolier",
+          "id": "A5074616077"
+        },
+        {
+          "name": "Zachary H. Walsh",
+          "id": "A5116690588"
+        },
+        {
+          "name": "Lillie Leach",
+          "id": "A5010305621"
+        },
+        {
+          "name": "Christine Brzezinski",
+          "id": "A5069782866"
+        },
+        {
+          "name": "Amanda Novak",
+          "id": "A5034463816"
+        },
+        {
+          "name": "Dimiter Dmitrov",
+          "id": "A5116690589"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)"
+    },
+    "W4409535404": {
+      "id": "W4409535404",
+      "title": "T-bet overexpression enhances CAR T cell effector functions and antigen sensitivity",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Jennifer Cimons",
+          "id": "A5069703492"
+        },
+        {
+          "name": "Kole DeGolier",
+          "id": "A5074616077"
+        },
+        {
+          "name": "Samuel D. Burciaga",
+          "id": "A5026965545"
+        },
+        {
+          "name": "Michael Yarnell",
+          "id": "A5049989045"
+        },
+        {
+          "name": "A. Novak",
+          "id": "A5037425299"
+        },
+        {
+          "name": "Amalia M Rivera-Reyes",
+          "id": "A5113033696"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer"
+    },
+    "W4409626842": {
+      "id": "W4409626842",
+      "title": "Abstract 4801: T-bet overexpression promotes CAR T cell potency and responsiveness to low antigen density leukemia",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Jennifer Cimons",
+          "id": "A5069703492"
+        },
+        {
+          "name": "Kole DeGolier",
+          "id": "A5074616077"
+        },
+        {
+          "name": "Samuel D. Burciaga",
+          "id": "A5026965545"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Cancer Research"
+    },
+    "W2007993162": {
+      "id": "W2007993162",
+      "title": "Hematopoietic Stem Cell Donation in Children",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Lori Wiener",
+          "id": "A5089224710"
+        },
+        {
+          "name": "Emilie A. Steffen-Smith",
+          "id": "A5025055805"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Alan S. Wayne",
+          "id": "A5083416957"
+        }
+      ],
+      "venue": "Journal of Psychosocial Oncology"
+    },
+    "W1781294748": {
+      "id": "W1781294748",
+      "title": "Potential Role for IL-7 in Fas-Mediated T Cell Apoptosis During HIV Infection",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Caroline Fluur",
+          "id": "A5048116993"
+        },
+        {
+          "name": "Angelo De Milito",
+          "id": "A5041516398"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Nancy Vivar",
+          "id": "A5014041537"
+        },
+        {
+          "name": "Liv Eidsmo",
+          "id": "A5021469431"
+        },
+        {
+          "name": "Ann Atlas",
+          "id": "A5030574153"
+        },
+        {
+          "name": "Cristina Federici",
+          "id": "A5008294266"
+        },
+        {
+          "name": "Paola Matarrese",
+          "id": "A5021070443"
+        },
+        {
+          "name": "Mariantonia Logozzi",
+          "id": "A5059306683"
+        },
+        {
+          "name": "\u00c9va Rajnav\u00f6lgyi",
+          "id": "A5027516577"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Stefano Fais",
+          "id": "A5008077481"
+        },
+        {
+          "name": "Francesca Chiodi",
+          "id": "A5055230480"
+        },
+        {
+          "name": "Bence R\u00e9thi",
+          "id": "A5027449985"
+        }
+      ],
+      "venue": "The Journal of Immunology"
+    },
+    "W2133475309": {
+      "id": "W2133475309",
+      "title": "Sibling stem cell donor experiences at a single institution",
+      "year": 2007,
+      "authors": [
+        {
+          "name": "Lori Wiener",
+          "id": "A5089224710"
+        },
+        {
+          "name": "Emilie A. Steffen-Smith",
+          "id": "A5025055805"
+        },
+        {
+          "name": "Haven Battles",
+          "id": "A5000257208"
+        },
+        {
+          "name": "Alan S. Wayne",
+          "id": "A5083416957"
+        },
+        {
+          "name": "C. Love",
+          "id": "A5069275445"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Psycho-Oncology"
+    },
+    "W2098690052": {
+      "id": "W2098690052",
+      "title": "T-cell adoptive immunotherapy for acute lymphoblastic leukemia",
+      "year": 2013,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Hematology"
+    },
+    "W2012596055": {
+      "id": "W2012596055",
+      "title": "Murine Models of Acute Leukemia: Important Tools in Current Pediatric Leukemia Research",
+      "year": 2014,
+      "authors": [
+        {
+          "name": "Elad Jacoby",
+          "id": "A5087021014"
+        },
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Frontiers in Oncology"
+    },
+    "W2519109143": {
+      "id": "W2519109143",
+      "title": "Induction of Immune Response after Allogeneic Wilms' Tumor 1 Dendritic Cell Vaccination and Donor Lymphocyte Infusion in Patients with Hematologic Malignancies and Post-Transplantation Relapse",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "David M. Loeb",
+          "id": "A5034420962"
+        },
+        {
+          "name": "Hahn Khuu",
+          "id": "A5056656349"
+        },
+        {
+          "name": "David Stroncek",
+          "id": "A5050033976"
+        },
+        {
+          "name": "Tolu Ariyo",
+          "id": "A5028413217"
+        },
+        {
+          "name": "Mark Raffeld",
+          "id": "A5024701461"
+        },
+        {
+          "name": "Cindy Delbrook",
+          "id": "A5047300808"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Alan S. Wayne",
+          "id": "A5083416957"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Biology of Blood and Marrow Transplantation"
+    },
+    "W2808759948": {
+      "id": "W2808759948",
+      "title": "Outcomes of Measurable Residual Disease in Pediatric Acute Myeloid Leukemia before and after Hematopoietic Stem Cell Transplant: Validation of Difference from Normal Flow Cytometry with Chimerism Studies and Wilms Tumor 1 Gene Expression",
+      "year": 2018,
+      "authors": [
+        {
+          "name": "David A. Jacobsohn",
+          "id": "A5069919013"
+        },
+        {
+          "name": "Michael R. Loken",
+          "id": "A5063746286"
+        },
+        {
+          "name": "Mingwei Fei",
+          "id": "A5012825801"
+        },
+        {
+          "name": "Alexia Adams",
+          "id": "A5065387815"
+        },
+        {
+          "name": "Lisa Eidenschink Brodersen",
+          "id": "A5081720153"
+        },
+        {
+          "name": "Brent R. Logan",
+          "id": "A5025687838"
+        },
+        {
+          "name": "Kwang Woo Ahn",
+          "id": "A5000705580"
+        },
+        {
+          "name": "Bronwen E. Shaw",
+          "id": "A5032478325"
+        },
+        {
+          "name": "Morris Kletzel",
+          "id": "A5048752960"
+        },
+        {
+          "name": "Marie Olszewski",
+          "id": "A5045106057"
+        },
+        {
+          "name": "Sana Khan",
+          "id": "A5111903685"
+        },
+        {
+          "name": "Soheil Meshinchi",
+          "id": "A5049490094"
+        },
+        {
+          "name": "Amy K. Keating",
+          "id": "A5057939769"
+        },
+        {
+          "name": "Andrew C. Harris",
+          "id": "A5024499904"
+        },
+        {
+          "name": "Pierre Teira",
+          "id": "A5024634771"
+        },
+        {
+          "name": "Reggie Duerst",
+          "id": "A5109351987"
+        },
+        {
+          "name": "Steven Margossian",
+          "id": "A5112415877"
+        },
+        {
+          "name": "Paul L. Martin",
+          "id": "A5103218774"
+        },
+        {
+          "name": "Aleksandra Petrovi\u0107",
+          "id": "A5101639368"
+        },
+        {
+          "name": "Christopher C. Dvorak",
+          "id": "A5047178145"
+        },
+        {
+          "name": "Eneida R. Nemecek",
+          "id": "A5034117075"
+        },
+        {
+          "name": "Michael W. Boyer",
+          "id": "A5103737966"
+        },
+        {
+          "name": "Allen Chen",
+          "id": "A5086715435"
+        },
+        {
+          "name": "Jeffrey Davis",
+          "id": "A5103539477"
+        },
+        {
+          "name": "Shalini Shenoy",
+          "id": "A5103116246"
+        },
+        {
+          "name": "S\u00fcreyya Sava\u015fan",
+          "id": "A5023651458"
+        },
+        {
+          "name": "Michelle Hudspeth",
+          "id": "A5007524891"
+        },
+        {
+          "name": "Roberta H. Adams",
+          "id": "A5111511057"
+        },
+        {
+          "name": "Victor Lewis",
+          "id": "A5053215443"
+        },
+        {
+          "name": "Albert Kheradpour",
+          "id": "A5112375608"
+        },
+        {
+          "name": "Kimberly A. Kasow",
+          "id": "A5023347086"
+        },
+        {
+          "name": "Alfred P. Gillio",
+          "id": "A5027095419"
+        },
+        {
+          "name": "Ann E. Haight",
+          "id": "A5081419587"
+        },
+        {
+          "name": "Monica Bhatia",
+          "id": "A5033104475"
+        },
+        {
+          "name": "Barbara Bambach",
+          "id": "A5110241319"
+        },
+        {
+          "name": "Hilary Haines",
+          "id": "A5003762227"
+        },
+        {
+          "name": "Troy C. Quigg",
+          "id": "A5011250485"
+        },
+        {
+          "name": "Robert Greiner",
+          "id": "A5009447047"
+        },
+        {
+          "name": "Julie\u2010An Talano",
+          "id": "A5087456665"
+        },
+        {
+          "name": "David Delgado",
+          "id": "A5109433531"
+        },
+        {
+          "name": "Alexandra Cheerva",
+          "id": "A5017037465"
+        },
+        {
+          "name": "Madhu Gowda",
+          "id": "A5110559864"
+        },
+        {
+          "name": "Sanjay Ahuja",
+          "id": "A5027519806"
+        },
+        {
+          "name": "M. Fevzi \u00d6zkaynak",
+          "id": "A5109358261"
+        },
+        {
+          "name": "David Mitchell",
+          "id": "A5083102150"
+        },
+        {
+          "name": "Kirk R. Schultz",
+          "id": "A5061188018"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "David M. Loeb",
+          "id": "A5034420962"
+        },
+        {
+          "name": "Michael A. Pulsipher",
+          "id": "A5006173110"
+        }
+      ],
+      "venue": "Biology of Blood and Marrow Transplantation"
+    },
+    "W2939624324": {
+      "id": "W2939624324",
+      "title": "Chimeric Antigen Receptors Incorporating D Domains Targeting CD123 Direct Potent Mono- and Bi-specific Antitumor Activity of T Cells",
+      "year": 2019,
+      "authors": [
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Justin P. Edwards",
+          "id": "A5084286640"
+        },
+        {
+          "name": "Liubov Zaritskaya",
+          "id": "A5077759207"
+        },
+        {
+          "name": "Ankit Gupta",
+          "id": "A5028104812"
+        },
+        {
+          "name": "Chaofeng Mu",
+          "id": "A5037206227"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "David M. Hilbert",
+          "id": "A5078761190"
+        },
+        {
+          "name": "David W. LaFleur",
+          "id": "A5010146238"
+        }
+      ],
+      "venue": "Molecular Therapy"
+    },
+    "W3130682147": {
+      "id": "W3130682147",
+      "title": "Robust Antitumor Activity and Low Cytokine Production by Novel Humanized Anti-CD19 CAR T Cells",
+      "year": 2021,
+      "authors": [
+        {
+          "name": "Alka Dwivedi",
+          "id": "A5110247852"
+        },
+        {
+          "name": "Atharva Karulkar",
+          "id": "A5016606552"
+        },
+        {
+          "name": "Sarbari Ghosh",
+          "id": "A5101499437"
+        },
+        {
+          "name": "Srisathya Srinivasan",
+          "id": "A5048658976"
+        },
+        {
+          "name": "Bajarang Vasant Kumbhar",
+          "id": "A5031432244"
+        },
+        {
+          "name": "Ankesh Kumar Jaiswal",
+          "id": "A5021232835"
+        },
+        {
+          "name": "Atish Kizhakeyil",
+          "id": "A5001872808"
+        },
+        {
+          "name": "Sweety Asija",
+          "id": "A5031808540"
+        },
+        {
+          "name": "Afrin Rafiq",
+          "id": "A5086517693"
+        },
+        {
+          "name": "Sushant Kumar",
+          "id": "A5050503665"
+        },
+        {
+          "name": "Albeena Nisar",
+          "id": "A5010233899"
+        },
+        {
+          "name": "Deepali Patil",
+          "id": "A5016030053"
+        },
+        {
+          "name": "Minal Poojary",
+          "id": "A5048255091"
+        },
+        {
+          "name": "Hasmukh Jain",
+          "id": "A5017405089"
+        },
+        {
+          "name": "Shripad Banavali",
+          "id": "A5087984426"
+        },
+        {
+          "name": "Steven L. Highfill",
+          "id": "A5005504613"
+        },
+        {
+          "name": "David F. Stroncek",
+          "id": "A5072166479"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Gaurav Narula",
+          "id": "A5025181359"
+        },
+        {
+          "name": "Rahul Purwar",
+          "id": "A5049093520"
+        }
+      ],
+      "venue": "Molecular Cancer Therapeutics"
+    },
+    "W4403032713": {
+      "id": "W4403032713",
+      "title": "Two decades of advances in clinical oncology \u2014 lessons learned and future directions",
+      "year": 2024,
+      "authors": [
+        {
+          "name": "Susana Banerjee",
+          "id": "A5065447416"
+        },
+        {
+          "name": "Christopher M. Booth",
+          "id": "A5089899558"
+        },
+        {
+          "name": "\u00c9duardo Bruera",
+          "id": "A5058392144"
+        },
+        {
+          "name": "Markus W. B\u00fcchler",
+          "id": "A5036032282"
+        },
+        {
+          "name": "Alexander Drilon",
+          "id": "A5063199354"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Irene M. Ghobrial",
+          "id": "A5023152679"
+        },
+        {
+          "name": "Luca Gianni",
+          "id": "A5058537459"
+        },
+        {
+          "name": "Rakesh K. Jain",
+          "id": "A5015585176"
+        },
+        {
+          "name": "Guido Kroemer",
+          "id": "A5075296559"
+        },
+        {
+          "name": "Josep M. Llovet",
+          "id": "A5052975894"
+        },
+        {
+          "name": "Georgina V. Long",
+          "id": "A5070576000"
+        },
+        {
+          "name": "Klaus Pantel",
+          "id": "A5048105827"
+        },
+        {
+          "name": "Kathy Pritchard\u2010Jones",
+          "id": "A5035410237"
+        },
+        {
+          "name": "Howard I. Scher",
+          "id": "A5072850546"
+        },
+        {
+          "name": "Josep Tabernero",
+          "id": "A5015190461"
+        },
+        {
+          "name": "Ralph R. Weichselbaum",
+          "id": "A5088925966"
+        },
+        {
+          "name": "Michael Weller",
+          "id": "A5017177249"
+        },
+        {
+          "name": "Yi\u2010Long Wu",
+          "id": "A5100632072"
+        }
+      ],
+      "venue": "Nature Reviews Clinical Oncology"
+    },
+    "W4409283937": {
+      "id": "W4409283937",
+      "title": "Characterization of a digital polymerase chain reaction assay to quantify total T cells relative to chimeric antigen receptor-positive T cells: applications for clinical trial monitoring",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Lindsey Murphy",
+          "id": "A5004207460"
+        },
+        {
+          "name": "Laura J. Sedivy",
+          "id": "A5049489201"
+        },
+        {
+          "name": "M. Eric Kohler",
+          "id": "A5068358105"
+        },
+        {
+          "name": "Kimberly R. Jordan",
+          "id": "A5028795439"
+        },
+        {
+          "name": "Angela M. Ohm",
+          "id": "A5059538023"
+        },
+        {
+          "name": "Jill E. Slansky",
+          "id": "A5033336171"
+        },
+        {
+          "name": "Michael Yarnell",
+          "id": "A5049989045"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Amanda Winters",
+          "id": "A5015097694"
+        }
+      ],
+      "venue": "Deleted Journal"
+    },
+    "W4409503037": {
+      "id": "W4409503037",
+      "title": "The Paradox of Acute Myeloid Leukemia Responsiveness to Adoptive T-cell Therapy",
+      "year": 2025,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood Cancer Discovery"
+    },
+    "W2047987711": {
+      "id": "W2047987711",
+      "title": "Current concepts of thymic aging",
+      "year": 2002,
+      "authors": [
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5087779758"
+        }
+      ],
+      "venue": "Springer Seminars in Immunopathology"
+    },
+    "W2055532057": {
+      "id": "W2055532057",
+      "title": "Cytokine Signals in T-Cell Homeostasis",
+      "year": 2005,
+      "authors": [
+        {
+          "name": "Martin Guimond",
+          "id": "A5025108971"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        }
+      ],
+      "venue": "Journal of Immunotherapy"
+    },
+    "W2080403219": {
+      "id": "W2080403219",
+      "title": "Transplantation of a myelodysplastic syndrome by a long-term repopulating hematopoietic cell",
+      "year": 2008,
+      "authors": [
+        {
+          "name": "Yang Jo Chung",
+          "id": "A5086156727"
+        },
+        {
+          "name": "Chul Won Choi",
+          "id": "A5081706948"
+        },
+        {
+          "name": "Christopher Slape",
+          "id": "A5072084058"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Peter D. Aplan",
+          "id": "A5049170518"
+        }
+      ],
+      "venue": "Proceedings of the National Academy of Sciences"
+    },
+    "W2069467162": {
+      "id": "W2069467162",
+      "title": "Bone marrow deficient in IFN-\u03b3 signaling selectively reverses GVHD-associated immunosuppression and enhances a tumor-specific GVT effect",
+      "year": 2009,
+      "authors": [
+        {
+          "name": "Christian M. Capitini",
+          "id": "A5054397260"
+        },
+        {
+          "name": "Sarah Herby",
+          "id": "A5078444148"
+        },
+        {
+          "name": "Matthew Milliron",
+          "id": "A5056239574"
+        },
+        {
+          "name": "Miriam R. Anver",
+          "id": "A5026882105"
+        },
+        {
+          "name": "Crystal L. Mackall",
+          "id": "A5058295466"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2913275810": {
+      "id": "W2913275810",
+      "title": "Novel CD19/CD22 Bicistronic Chimeric Antigen Receptors Outperform Single or Bivalent Cars in Eradicating CD19+CD22+, CD19-, and CD22- Pre-B Leukemia",
+      "year": 2017,
+      "authors": [
+        {
+          "name": "Haiying Qin",
+          "id": "A5075741329"
+        },
+        {
+          "name": "Sang M. Nguyen",
+          "id": "A5031457939"
+        },
+        {
+          "name": "Sneha Ramakrishna",
+          "id": "A5014136581"
+        },
+        {
+          "name": "Samiksha Tarun",
+          "id": "A5032297849"
+        },
+        {
+          "name": "Lila Yang",
+          "id": "A5074087117"
+        },
+        {
+          "name": "Nicholas Peter Verdini",
+          "id": "A5089898082"
+        },
+        {
+          "name": "Waleed Haso",
+          "id": "A5091257376"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W2588973392": {
+      "id": "W2588973392",
+      "title": "Preclinical Development of FLT3-Redirected Chimeric Antigen Receptor T Cell Immunotherapy for Acute Myeloid Leukemia",
+      "year": 2016,
+      "authors": [
+        {
+          "name": "Christopher D. Chien",
+          "id": "A5102797107"
+        },
+        {
+          "name": "Christopher Tor Sauter",
+          "id": "A5103142474"
+        },
+        {
+          "name": "Kazusa Ishii",
+          "id": "A5039076151"
+        },
+        {
+          "name": "Sang M. Nguyen",
+          "id": "A5031457939"
+        },
+        {
+          "name": "Feng Shen",
+          "id": "A5044952624"
+        },
+        {
+          "name": "Sarah K. Tasian",
+          "id": "A5066964026"
+        },
+        {
+          "name": "Weizao Chen",
+          "id": "A5067025401"
+        },
+        {
+          "name": "Dimiter S. Dimitrov",
+          "id": "A5089862290"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        }
+      ],
+      "venue": "Blood"
+    },
+    "W3108772849": {
+      "id": "W3108772849",
+      "title": "Diagnostic approach to the evaluation of myeloid malignancies following CAR T-cell therapy in B-cell acute lymphoblastic leukemia",
+      "year": 2020,
+      "authors": [
+        {
+          "name": "George Mo",
+          "id": "A5067313194"
+        },
+        {
+          "name": "Hao\u2010Wei Wang",
+          "id": "A5100363748"
+        },
+        {
+          "name": "Aimee C. Talleur",
+          "id": "A5020737978"
+        },
+        {
+          "name": "Shilpa Shahani",
+          "id": "A5070693731"
+        },
+        {
+          "name": "Bonnie Yates",
+          "id": "A5035242151"
+        },
+        {
+          "name": "Haneen Shalabi",
+          "id": "A5071031431"
+        },
+        {
+          "name": "Michael G. Douvas",
+          "id": "A5000412220"
+        },
+        {
+          "name": "Katherine R. Calvo",
+          "id": "A5044681793"
+        },
+        {
+          "name": "Jack F. Shern",
+          "id": "A5003760804"
+        },
+        {
+          "name": "Sridhar Chaganti",
+          "id": "A5113849076"
+        },
+        {
+          "name": "Katharine Patrick",
+          "id": "A5108501495"
+        },
+        {
+          "name": "Young Song",
+          "id": "A5081312498"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5017207916"
+        },
+        {
+          "name": "Xiaolin Wu",
+          "id": "A5010311406"
+        },
+        {
+          "name": "Brandon M. Triplett",
+          "id": "A5009930475"
+        },
+        {
+          "name": "Javed Khan",
+          "id": "A5017638182"
+        },
+        {
+          "name": "Rebecca Gardner",
+          "id": "A5082052104"
+        },
+        {
+          "name": "Nirali N. Shah",
+          "id": "A5030044268"
+        }
+      ],
+      "venue": "Journal for ImmunoTherapy of Cancer"
+    },
+    "W1990010614": {
+      "id": "W1990010614",
+      "title": "Human papillomavirus DNA types in squamous cell carcinomas of the head and neck",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Susan Watts",
+          "id": "A5031716932"
+        },
+        {
+          "name": "E BREWER",
+          "id": "A5039200371"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "Oral Surgery Oral Medicine Oral Pathology"
+    },
+    "W2046583078": {
+      "id": "W2046583078",
+      "title": "Headache of Nasal Spur Origin: an Easily Diagnosed and Surgically Correctable Cause of Facial Pain",
+      "year": 1984,
+      "authors": [
+        {
+          "name": "Ronald W. Gerbe",
+          "id": "A5073266765"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Newton D. Fischer",
+          "id": "A5103554841"
+        }
+      ],
+      "venue": "Headache The Journal of Head and Face Pain"
+    },
+    "W1504379007": {
+      "id": "W1504379007",
+      "title": "A targeted problem and its solution",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Manning M. Goldsmith",
+          "id": "A5064557108"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "The Laryngoscope"
+    },
+    "W7456506": {
+      "id": "W7456506",
+      "title": "Comparisons of Tracheostomy Incisions in a Pediatric Model",
+      "year": 1985,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Newton D. Fischer",
+          "id": "A5103554841"
+        },
+        {
+          "name": "Raleigh O. Jones",
+          "id": "A5086993526"
+        },
+        {
+          "name": "Harold C. Pillsbury",
+          "id": "A5110884820"
+        }
+      ],
+      "venue": "Annals of Otology Rhinology & Laryngology"
+    },
+    "W2313667116": {
+      "id": "W2313667116",
+      "title": "Effects of Laser, Scalpel, and Electrosurgical Excision on Wound Contracture and Graft \u201cTake\u201d",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Ronald W. Gerbe",
+          "id": "A5073266765"
+        },
+        {
+          "name": "Sherif B. Botros",
+          "id": "A5024724553"
+        },
+        {
+          "name": "Newton D. Fischer",
+          "id": "A5103554841"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "Plastic & Reconstructive Surgery"
+    },
+    "W2034373469": {
+      "id": "W2034373469",
+      "title": "Tracheal reconstruction with pedicled thyroid cartilage",
+      "year": 1985,
+      "authors": [
+        {
+          "name": "Newton D. Fischer",
+          "id": "A5103554841"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Harold C. Pillsbury",
+          "id": "A5110884820"
+        }
+      ],
+      "venue": "The Laryngoscope"
+    },
+    "W2151326814": {
+      "id": "W2151326814",
+      "title": "Otoscopy and Photography",
+      "year": 1979,
+      "authors": [
+        {
+          "name": "Benjamin K. Chen",
+          "id": "A5026884851"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Newton D. Fischer",
+          "id": "A5103554841"
+        }
+      ],
+      "venue": "Annals of Otology Rhinology & Laryngology"
+    },
+    "W2010605513": {
+      "id": "W2010605513",
+      "title": "Orbital complications of sickle cell disease",
+      "year": 1990,
+      "authors": [
+        {
+          "name": "James D. Sidman",
+          "id": "A5051471422"
+        },
+        {
+          "name": "Richard E. Brownlee",
+          "id": "A5108602053"
+        },
+        {
+          "name": "William C. Smith",
+          "id": "A5043529168"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "International Journal of Pediatric Otorhinolaryngology"
+    },
+    "W2061822594": {
+      "id": "W2061822594",
+      "title": "Frontal sinus trephination: A new technique for office procedure",
+      "year": 1980,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "W. Paul Biggers",
+          "id": "A5001209480"
+        },
+        {
+          "name": "Newton D. Fischer",
+          "id": "A5103554841"
+        }
+      ],
+      "venue": "The Laryngoscope"
+    },
+    "W2409531197": {
+      "id": "W2409531197",
+      "title": "Simple technique for stabilizing depressed zygomatic arch fractures.",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Manning M. Goldsmith",
+          "id": "A5064557108"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "The Laryngoscope"
+    },
+    "W2024560044": {
+      "id": "W2024560044",
+      "title": "Evaluation of otic drops on infection and healing of traumatic tympanic membrane perforations",
+      "year": 1979,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Benjamin Chen",
+          "id": "A5101581393"
+        },
+        {
+          "name": "Newton D. Fischer",
+          "id": "A5103554841"
+        },
+        {
+          "name": "Scott Y. Pharr",
+          "id": "A5015709442"
+        }
+      ],
+      "venue": "The Laryngoscope"
+    },
+    "W2416663199": {
+      "id": "W2416663199",
+      "title": "The implications of \"controlled\" studies of tonsillectomy and adenoidectomy.",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Harold C. Pillsbury",
+          "id": "A5110884820"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W4301254607": {
+      "id": "W4301254607",
+      "title": "The Implications of \u201cControlled\u201d Studies of Tonsillectomy and Adenoidectomy",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Harold C. Pillsbury",
+          "id": "A5110884820"
+        }
+      ],
+      "venue": "Otolaryngologic Clinics of North America"
+    },
+    "W2158892193": {
+      "id": "W2158892193",
+      "title": "Evidence for obstructive etiology in intravenous bacterial pyelonephritis",
+      "year": 1975,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Floyd A. Fried",
+          "id": "A5110866552"
+        },
+        {
+          "name": "Beverly A. Goven",
+          "id": "A5061164200"
+        }
+      ],
+      "venue": "Journal of Surgical Research"
+    },
+    "W160737402": {
+      "id": "W160737402",
+      "title": "Tasks a Curriculum Director Is Expected to Perform.",
+      "year": 1978,
+      "authors": [
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "Illinois School Research and Development"
+    },
+    "W2089054203": {
+      "id": "W2089054203",
+      "title": "A Multiplexing System for Multichannel Signal Averaging of the Visual Evoked Response",
+      "year": 1979,
+      "authors": [
+        {
+          "name": "James P. Ary",
+          "id": "A5052246429"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "William R. Biersdorf",
+          "id": "A5109173125"
+        }
+      ],
+      "venue": "IEEE Transactions on Biomedical Engineering"
+    },
+    "W2168907934": {
+      "id": "W2168907934",
+      "title": "Tips on septal dermoplasty.",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Manning M. Goldsmith",
+          "id": "A5064557108"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "PubMed"
+    },
+    "W4299133861": {
+      "id": "W4299133861",
+      "title": "Tips on septal dermoplasty",
+      "year": 1987,
+      "authors": [
+        {
+          "name": "Manning M. Goldsmith",
+          "id": "A5064557108"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        }
+      ],
+      "venue": "The Laryngoscope"
+    },
+    "W4245469483": {
+      "id": "W4245469483",
+      "title": "BOOK REVIEWS",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "David W. Eisele",
+          "id": "A5002679236"
+        },
+        {
+          "name": "Amelia F. Drake",
+          "id": "A5016965840"
+        },
+        {
+          "name": "Mark C. Loury",
+          "id": "A5111542745"
+        },
+        {
+          "name": "Terry L. Fry",
+          "id": "A5108437611"
+        },
+        {
+          "name": "Francis I. Catlin",
+          "id": "A5072375568"
+        }
+      ],
+      "venue": "Otolaryngology"
+    },
+    "W2046228281": {
+      "id": "W2046228281",
+      "title": "The Importance of Algae to Stream Invertebrates",
+      "year": 1986,
+      "authors": [
+        {
+          "name": "Randall L. Fuller",
+          "id": "A5008123622"
+        },
+        {
+          "name": "Jeffery L. Roelofs",
+          "id": "A5002250663"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5088405262"
+        }
+      ],
+      "venue": "Journal of the North American Benthological Society"
+    },
+    "W2077186397": {
+      "id": "W2077186397",
+      "title": "Influence of Different Food Types on the Growth of Simulium vittatum (Diptera) and Hydropsyche betteni (Trichoptera)",
+      "year": 1988,
+      "authors": [
+        {
+          "name": "Randall L. Fuller",
+          "id": "A5008123622"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5088405262"
+        },
+        {
+          "name": "Jeff A. Roelofs",
+          "id": "A5060727010"
+        }
+      ],
+      "venue": "Journal of the North American Benthological Society"
+    },
+    "W2057052117": {
+      "id": "W2057052117",
+      "title": "The Influence of Temperature and Food Quality on the Growth of<i>Hydropsyche betteni</i>(Trichoptera) and<i>Simulium vittatum</i>(Diptera)",
+      "year": 1991,
+      "authors": [
+        {
+          "name": "Randall L. Fuller",
+          "id": "A5008123622"
+        },
+        {
+          "name": "Terry J. Fry",
+          "id": "A5088405262"
+        }
+      ],
+      "venue": "Journal of Freshwater Ecology"
+    }
+  },
+  "author_id_to_label": {
+    "A5017207916": "0",
+    "A5108437611": "1",
+    "A5088405262": "2",
+    "A5110537537": "3"
+  }
+}

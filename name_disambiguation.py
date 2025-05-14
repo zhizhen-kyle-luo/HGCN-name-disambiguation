@@ -1171,47 +1171,59 @@ if __name__ == '__main__':
             model = GCN(Glist, node_attr, batch_size=batch_size)
             
             avg_loss = 0.
-            for i in range(total_batch):
-                sdx = (i * batch_size) % len(u_i)
-                edx = ((i + 1) * batch_size)
-                # Adjust edx for the last batch to avoid index out of bounds
-                if edx > len(u_i): 
-                    edx = len(u_i)
-                if sdx >= edx: # Handle potential empty slice if sdx reaches end
-                     continue
-                
-                # Use indices directly, no need for wrap-around logic if slicing correctly
-                u_ii = u_i[sdx:edx]
-                u_jj = u_j[sdx:edx]
-                labeli = label[sdx:edx]
-                
-                # Ensure batch is not empty before training
-                if not u_ii: 
-                     continue 
-                     
-                loss = model.train_line(u_ii, u_jj, labeli)
-                # Handle potential NaN/Inf loss
-                if np.isnan(loss) or np.isinf(loss):
-                     print(f"Warning: NaN or Inf loss detected at batch {i} for {author_name}. Skipping loss update.")
-                     loss = 0 # Avoid propagating NaN/Inf
-                     
-                avg_loss += loss
-                if i % display_batch == 0 and i > 0:
-                    print('%d/%d loss %8.6f' % (i, total_batch, avg_loss / display_batch))
-                    avg_loss = 0.
+            num_samples = len(u_i)
+            # display_interval for loss printing, similar to notebook's display_batch
+            display_interval = args.display_interval if hasattr(args, 'display_interval') else 100
+
+            if num_samples == 0:
+                print(f"No training samples generated for {author_name}. Skipping training.", file=sys.stderr)
+            elif num_samples < batch_size:
+                print(f"Skipping training for {author_name}: Not enough data for a single batch. Data size: {num_samples}, Batch size: {batch_size}", file=sys.stderr)
+            else:
+                batches_per_epoch = num_samples // batch_size
+                actual_total_batches_to_run = args.epochs * batches_per_epoch
+
+                if actual_total_batches_to_run == 0:
+                    print(f"Skipping training for {author_name}: Effective total batches is 0. Data size: {num_samples}, Batch size: {batch_size}, Epochs: {args.epochs}", file=sys.stderr)
+                else:
+                    print(f"Starting training for {author_name}: {actual_total_batches_to_run} total batches ({args.epochs} epochs)", file=sys.stderr) # For clarity
+                    flat_batch_idx_counter = 0
+                    for epoch_num in range(args.epochs):
+                        # Optional: Shuffling u_i, u_j, label together at the start of each epoch
+                        # perm = np.random.permutation(num_samples)
+                        # u_i_shuffled = [u_i[idx] for idx in perm]
+                        # u_j_shuffled = [u_j[idx] for idx in perm]
+                        # label_shuffled = [label[idx] for idx in perm]
+                        # For now, using original order within an epoch for simplicity to match notebook behavior more closely if it didn't shuffle.
+
+                        for batch_idx_in_epoch in range(batches_per_epoch):
+                            start = batch_idx_in_epoch * batch_size
+                            end = start + batch_size
+
+                            # Use original u_i, u_j, label if not shuffling per epoch
+                            u_ii = u_i[start:end]
+                            u_jj = u_j[start:end]
+                            labeli = label[start:end]
+                            
+                            # This check is a safeguard, should not be hit with this logic
+                            if len(u_ii) != batch_size:
+                                print(f"CRITICAL Error: Batch size mismatch. Expected {batch_size}, got {len(u_ii)}. Skipping batch {flat_batch_idx_counter}.", file=sys.stderr)
+                                flat_batch_idx_counter +=1
+                                continue
+
+                            loss = model.train_line(u_ii, u_jj, labeli)
+                            avg_loss += loss / display_interval
+
+                            # Match original notebook's print condition: "if i % display_batch == 0 and i > 0"
+                            # Here, `flat_batch_idx_counter` is the 0-indexed current batch number
+                            if flat_batch_idx_counter > 0 and flat_batch_idx_counter % display_interval == 0:
+                                print ('%d/%d loss %8.6f' %(flat_batch_idx_counter, actual_total_batches_to_run, avg_loss))
+                                avg_loss = 0.
+                            flat_batch_idx_counter += 1
             
-            # --- Guard against empty embed_matrix --- 
-            try:
-                embed_matrix = model.cal_embed()
-                if embed_matrix is None or embed_matrix.shape[0] == 0:
-                     print(f"Warning: Embedding matrix is empty for {author_name}. Skipping evaluation.")
-                     continue
-            except Exception as e:
-                 print(f"Error calculating embeddings for {author_name}: {e}")
-                 continue
-            # --- End Guard ---
-                 
             # Evaluating
+            embed_matrix = model.cal_embed()
+            
             # Map G's internal node order (0 to N-1) back to original PIDs for GHAC
             eval_idx_pid = {idx: node for idx, node in enumerate(G.nodes())}
             num_clusters = len(set(correct_labels))

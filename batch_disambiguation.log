@@ -34,3 +34,57 @@ No cached data found for --name. Please run openAlex_to_HGCN.py first.
 2025-05-03 20:16:57,651 - INFO - Processing name: Daniel Fowler
 2025-05-03 20:17:13,635 - INFO - Successfully processed Daniel Fowler
 2025-05-03 20:17:13,635 - INFO - Batch processing complete
+2025-05-11 12:53:41,130 - INFO - Processing 1 names from command line
+2025-05-11 12:53:41,131 - INFO - Processing name: Terry Fry
+2025-05-11 12:53:56,764 - ERROR - Command failed with error: C:\Work\UROP\HGCN-name-disambiguation\name_disambiguation.py:771: SyntaxWarning: invalid escape sequence '\]'
+  r = '[!""#$%&\'()*+,-./:;<=>?@[\]^_`{|}~—\uff5e]+'
+2025-05-11 12:53:48.917854: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-11 12:53:50.885988: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Work\UROP\HGCN-name-disambiguation\GCN.py:6: The name tf.disable_v2_behavior is deprecated. Please use tf.compat.v1.disable_v2_behavior instead.
+
+WARNING:tensorflow:From C:\Work\UROP\venv\Lib\site-packages\tensorflow\python\compat\v2_compat.py:98: disable_resource_variables (from tensorflow.python.ops.resource_variables_toggle) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+usage: name_disambiguation.py [-h] [--name NAME] [--standard]
+name_disambiguation.py: error: unrecognized arguments: --openAlex
+
+2025-05-11 12:53:56,765 - ERROR - Failed to run disambiguation for Terry Fry: C:\Work\UROP\HGCN-name-disambiguation\name_disambiguation.py:771: SyntaxWarning: invalid escape sequence '\]'
+  r = '[!""#$%&\'()*+,-./:;<=>?@[\]^_`{|}~—\uff5e]+'
+2025-05-11 12:53:48.917854: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-11 12:53:50.885988: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Work\UROP\HGCN-name-disambiguation\GCN.py:6: The name tf.disable_v2_behavior is deprecated. Please use tf.compat.v1.disable_v2_behavior instead.
+
+WARNING:tensorflow:From C:\Work\UROP\venv\Lib\site-packages\tensorflow\python\compat\v2_compat.py:98: disable_resource_variables (from tensorflow.python.ops.resource_variables_toggle) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+usage: name_disambiguation.py [-h] [--name NAME] [--standard]
+name_disambiguation.py: error: unrecognized arguments: --openAlex
+
+2025-05-11 12:53:56,766 - INFO - Batch processing complete
+2025-05-11 13:51:02,076 - INFO - Processing 1 names from command line
+2025-05-11 13:51:02,077 - INFO - Processing name: Terry Fry
+2025-05-11 13:51:21,543 - ERROR - Command failed with error: C:\Work\UROP\HGCN-name-disambiguation\name_disambiguation.py:771: SyntaxWarning: invalid escape sequence '\]'
+  r = '[!""#$%&\'()*+,-./:;<=>?@[\]^_`{|}~—\uff5e]+'
+2025-05-11 13:51:12.773024: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-11 13:51:14.908246: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Work\UROP\HGCN-name-disambiguation\GCN.py:6: The name tf.disable_v2_behavior is deprecated. Please use tf.compat.v1.disable_v2_behavior instead.
+
+WARNING:tensorflow:From C:\Work\UROP\venv\Lib\site-packages\tensorflow\python\compat\v2_compat.py:98: disable_resource_variables (from tensorflow.python.ops.resource_variables_toggle) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+usage: name_disambiguation.py [-h] [--name NAME] [--standard]
+name_disambiguation.py: error: unrecognized arguments: --openAlex
+
+2025-05-11 13:51:21,544 - ERROR - Failed to run disambiguation for Terry Fry: C:\Work\UROP\HGCN-name-disambiguation\name_disambiguation.py:771: SyntaxWarning: invalid escape sequence '\]'
+  r = '[!""#$%&\'()*+,-./:;<=>?@[\]^_`{|}~—\uff5e]+'
+2025-05-11 13:51:12.773024: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-05-11 13:51:14.908246: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Work\UROP\HGCN-name-disambiguation\GCN.py:6: The name tf.disable_v2_behavior is deprecated. Please use tf.compat.v1.disable_v2_behavior instead.
+
+WARNING:tensorflow:From C:\Work\UROP\venv\Lib\site-packages\tensorflow\python\compat\v2_compat.py:98: disable_resource_variables (from tensorflow.python.ops.resource_variables_toggle) is deprecated and will be removed in a future version.
+Instructions for updating:
+non-resource variables are not supported in the long term
+usage: name_disambiguation.py [-h] [--name NAME] [--standard]
+name_disambiguation.py: error: unrecognized arguments: --openAlex
+
+2025-05-11 13:51:21,545 - INFO - Batch processing complete

@@ -1,0 +1,328 @@
+1	2	Nature Medicine	Nature Medicine
+1	6	Nature Medicine	Nature Medicine
+1	11	Nature Medicine	Nature Medicine
+2	6	Nature Medicine	Nature Medicine
+2	11	Nature Medicine	Nature Medicine
+6	11	Nature Medicine	Nature Medicine
+4	51	Nature Reviews Clinical Oncology	Nature Reviews Clinical Oncology
+4	90	Nature Reviews Clinical Oncology	Nature Reviews Clinical Oncology
+51	90	Nature Reviews Clinical Oncology	Nature Reviews Clinical Oncology
+5	82	The Journal of Immunology	The Journal of Immunology
+8	12	Blood	Blood
+8	15	Blood	Blood
+8	19	Blood	Blood
+8	21	Blood	Blood
+8	22	Blood	Blood
+8	25	Blood	Blood
+8	27	Blood	Blood
+8	38	Blood	Blood
+8	39	Blood	Blood
+8	41	Blood	Blood
+8	46	Blood	Blood
+8	49	Blood	Blood
+8	61	Blood	Blood
+8	64	Blood	Blood
+8	65	Blood	Blood
+8	66	Blood	Blood
+8	67	Blood	Blood
+8	68	Blood	Blood
+8	72	Blood	Blood
+8	96	Blood	Blood
+8	97	Blood	Blood
+8	98	Blood	Blood
+12	15	Blood	Blood
+12	19	Blood	Blood
+12	21	Blood	Blood
+12	22	Blood	Blood
+12	25	Blood	Blood
+12	27	Blood	Blood
+12	38	Blood	Blood
+12	39	Blood	Blood
+12	41	Blood	Blood
+12	46	Blood	Blood
+12	49	Blood	Blood
+12	61	Blood	Blood
+12	64	Blood	Blood
+12	65	Blood	Blood
+12	66	Blood	Blood
+12	67	Blood	Blood
+12	68	Blood	Blood
+12	72	Blood	Blood
+12	96	Blood	Blood
+12	97	Blood	Blood
+12	98	Blood	Blood
+15	19	Blood	Blood
+15	21	Blood	Blood
+15	22	Blood	Blood
+15	25	Blood	Blood
+15	27	Blood	Blood
+15	38	Blood	Blood
+15	39	Blood	Blood
+15	41	Blood	Blood
+15	46	Blood	Blood
+15	49	Blood	Blood
+15	61	Blood	Blood
+15	64	Blood	Blood
+15	65	Blood	Blood
+15	66	Blood	Blood
+15	67	Blood	Blood
+15	68	Blood	Blood
+15	72	Blood	Blood
+15	96	Blood	Blood
+15	97	Blood	Blood
+15	98	Blood	Blood
+19	21	Blood	Blood
+19	22	Blood	Blood
+19	25	Blood	Blood
+19	27	Blood	Blood
+19	38	Blood	Blood
+19	39	Blood	Blood
+19	41	Blood	Blood
+19	46	Blood	Blood
+19	49	Blood	Blood
+19	61	Blood	Blood
+19	64	Blood	Blood
+19	65	Blood	Blood
+19	66	Blood	Blood
+19	67	Blood	Blood
+19	68	Blood	Blood
+19	72	Blood	Blood
+19	96	Blood	Blood
+19	97	Blood	Blood
+19	98	Blood	Blood
+21	22	Blood	Blood
+21	25	Blood	Blood
+21	27	Blood	Blood
+21	38	Blood	Blood
+21	39	Blood	Blood
+21	41	Blood	Blood
+21	46	Blood	Blood
+21	49	Blood	Blood
+21	61	Blood	Blood
+21	64	Blood	Blood
+21	65	Blood	Blood
+21	66	Blood	Blood
+21	67	Blood	Blood
+21	68	Blood	Blood
+21	72	Blood	Blood
+21	96	Blood	Blood
+21	97	Blood	Blood
+21	98	Blood	Blood
+22	25	Blood	Blood
+22	27	Blood	Blood
+22	38	Blood	Blood
+22	39	Blood	Blood
+22	41	Blood	Blood
+22	46	Blood	Blood
+22	49	Blood	Blood
+22	61	Blood	Blood
+22	64	Blood	Blood
+22	65	Blood	Blood
+22	66	Blood	Blood
+22	67	Blood	Blood
+22	68	Blood	Blood
+22	72	Blood	Blood
+22	96	Blood	Blood
+22	97	Blood	Blood
+22	98	Blood	Blood
+25	27	Blood	Blood
+25	38	Blood	Blood
+25	39	Blood	Blood
+25	41	Blood	Blood
+25	46	Blood	Blood
+25	49	Blood	Blood
+25	61	Blood	Blood
+25	64	Blood	Blood
+25	65	Blood	Blood
+25	66	Blood	Blood
+25	67	Blood	Blood
+25	68	Blood	Blood
+25	72	Blood	Blood
+25	96	Blood	Blood
+25	97	Blood	Blood
+25	98	Blood	Blood
+27	38	Blood	Blood
+27	39	Blood	Blood
+27	41	Blood	Blood
+27	46	Blood	Blood
+27	49	Blood	Blood
+27	61	Blood	Blood
+27	64	Blood	Blood
+27	65	Blood	Blood
+27	66	Blood	Blood
+27	67	Blood	Blood
+27	68	Blood	Blood
+27	72	Blood	Blood
+27	96	Blood	Blood
+27	97	Blood	Blood
+27	98	Blood	Blood
+38	39	Blood	Blood
+38	41	Blood	Blood
+38	46	Blood	Blood
+38	49	Blood	Blood
+38	61	Blood	Blood
+38	64	Blood	Blood
+38	65	Blood	Blood
+38	66	Blood	Blood
+38	67	Blood	Blood
+38	68	Blood	Blood
+38	72	Blood	Blood
+38	96	Blood	Blood
+38	97	Blood	Blood
+38	98	Blood	Blood
+39	41	Blood	Blood
+39	46	Blood	Blood
+39	49	Blood	Blood
+39	61	Blood	Blood
+39	64	Blood	Blood
+39	65	Blood	Blood
+39	66	Blood	Blood
+39	67	Blood	Blood
+39	68	Blood	Blood
+39	72	Blood	Blood
+39	96	Blood	Blood
+39	97	Blood	Blood
+39	98	Blood	Blood
+41	46	Blood	Blood
+41	49	Blood	Blood
+41	61	Blood	Blood
+41	64	Blood	Blood
+41	65	Blood	Blood
+41	66	Blood	Blood
+41	67	Blood	Blood
+41	68	Blood	Blood
+41	72	Blood	Blood
+41	96	Blood	Blood
+41	97	Blood	Blood
+41	98	Blood	Blood
+46	49	Blood	Blood
+46	61	Blood	Blood
+46	64	Blood	Blood
+46	65	Blood	Blood
+46	66	Blood	Blood
+46	67	Blood	Blood
+46	68	Blood	Blood
+46	72	Blood	Blood
+46	96	Blood	Blood
+46	97	Blood	Blood
+46	98	Blood	Blood
+49	61	Blood	Blood
+49	64	Blood	Blood
+49	65	Blood	Blood
+49	66	Blood	Blood
+49	67	Blood	Blood
+49	68	Blood	Blood
+49	72	Blood	Blood
+49	96	Blood	Blood
+49	97	Blood	Blood
+49	98	Blood	Blood
+61	64	Blood	Blood
+61	65	Blood	Blood
+61	66	Blood	Blood
+61	67	Blood	Blood
+61	68	Blood	Blood
+61	72	Blood	Blood
+61	96	Blood	Blood
+61	97	Blood	Blood
+61	98	Blood	Blood
+64	65	Blood	Blood
+64	66	Blood	Blood
+64	67	Blood	Blood
+64	68	Blood	Blood
+64	72	Blood	Blood
+64	96	Blood	Blood
+64	97	Blood	Blood
+64	98	Blood	Blood
+65	66	Blood	Blood
+65	67	Blood	Blood
+65	68	Blood	Blood
+65	72	Blood	Blood
+65	96	Blood	Blood
+65	97	Blood	Blood
+65	98	Blood	Blood
+66	67	Blood	Blood
+66	68	Blood	Blood
+66	72	Blood	Blood
+66	96	Blood	Blood
+66	97	Blood	Blood
+66	98	Blood	Blood
+67	68	Blood	Blood
+67	72	Blood	Blood
+67	96	Blood	Blood
+67	97	Blood	Blood
+67	98	Blood	Blood
+68	72	Blood	Blood
+68	96	Blood	Blood
+68	97	Blood	Blood
+68	98	Blood	Blood
+72	96	Blood	Blood
+72	97	Blood	Blood
+72	98	Blood	Blood
+96	97	Blood	Blood
+96	98	Blood	Blood
+97	98	Blood	Blood
+9	28	The Journal of Experimental Medicine	The Journal of Experimental Medicine
+10	53	Journal of Immunotherapy	Journal of Immunotherapy
+10	94	Journal of Immunotherapy	Journal of Immunotherapy
+53	94	Journal of Immunotherapy	Journal of Immunotherapy
+13	23	Nature Communications	Nature Communications
+14	17	Journal of Clinical Oncology	Journal of Clinical Oncology
+14	62	Journal of Clinical Oncology	Journal of Clinical Oncology
+17	62	Journal of Clinical Oncology	Journal of Clinical Oncology
+16	43	Molecular Therapy	Molecular Therapy
+16	44	Molecular Therapy	Molecular Therapy
+16	88	Molecular Therapy	Molecular Therapy
+43	44	Molecular Therapy	Molecular Therapy
+43	88	Molecular Therapy	Molecular Therapy
+44	88	Molecular Therapy	Molecular Therapy
+20	45	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+20	56	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+20	60	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+20	79	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+20	99	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+45	56	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+45	60	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+45	79	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+45	99	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+56	60	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+56	79	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+56	99	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+60	79	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+60	99	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+79	99	Journal for ImmunoTherapy of Cancer	Journal for ImmunoTherapy of Cancer
+24	59	Nature Immunology	Nature Immunology
+29	30	Journal of Clinical Investigation	Journal of Clinical Investigation
+29	37	Journal of Clinical Investigation	Journal of Clinical Investigation
+29	54	Journal of Clinical Investigation	Journal of Clinical Investigation
+30	37	Journal of Clinical Investigation	Journal of Clinical Investigation
+30	54	Journal of Clinical Investigation	Journal of Clinical Investigation
+37	54	Journal of Clinical Investigation	Journal of Clinical Investigation
+34	57	Haematologica	Haematologica
+40	55	Blood Advances	Blood Advances
+40	58	Blood Advances	Blood Advances
+40	70	Blood Advances	Blood Advances
+55	58	Blood Advances	Blood Advances
+55	70	Blood Advances	Blood Advances
+58	70	Blood Advances	Blood Advances
+50	74	Bone Marrow Transplantation	Bone Marrow Transplantation
+76	86	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+76	87	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+86	87	Biology of Blood and Marrow Transplantation	Biology of Blood and Marrow Transplantation
+102	105	The Laryngoscope	The Laryngoscope
+102	108	The Laryngoscope	The Laryngoscope
+102	109	The Laryngoscope	The Laryngoscope
+102	110	The Laryngoscope	The Laryngoscope
+102	117	The Laryngoscope	The Laryngoscope
+105	108	The Laryngoscope	The Laryngoscope
+105	109	The Laryngoscope	The Laryngoscope
+105	110	The Laryngoscope	The Laryngoscope
+105	117	The Laryngoscope	The Laryngoscope
+108	109	The Laryngoscope	The Laryngoscope
+108	110	The Laryngoscope	The Laryngoscope
+108	117	The Laryngoscope	The Laryngoscope
+109	110	The Laryngoscope	The Laryngoscope
+109	117	The Laryngoscope	The Laryngoscope
+110	117	The Laryngoscope	The Laryngoscope
+103	106	Annals of Otology Rhinology & Laryngology	Annals of Otology Rhinology & Laryngology
+111	116	PubMed	PubMed
+119	120	Journal of the North American Benthological Society	Journal of the North American Benthological Society
